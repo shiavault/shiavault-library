@@ -1,0 +1,5 @@
+# ebooks will be directly uploaded to S3 instead
+ebooks
+articles 
+.git.bak
+.DS_Store
