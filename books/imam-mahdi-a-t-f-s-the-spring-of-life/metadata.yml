@@ -1,0 +1,23 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/imam-mahdi-the-spring-of-life
+title: 'Imam Mahdi (a.t.f.s.): The Spring of Life'
+slug: imam-mahdi-a-t-f-s-the-spring-of-life
+uuid: 7f74549b-b27e-402b-a6aa-c24a5c9627fe
+description: |
+  This text presents addresses topics of Aqaed and branches of religion
+  including belief, disbelief, and deviation. The significance and
+  obligations of belief in the Mahdi is further described as well as the
+  duties and responsibilities of the follower of Al-Mahdi.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-mahdi-the-spring-of-life/part-1-finality-prophethood
+  title: 'Part 1: Finality of Prophethood'
+  slug: 1-part-1-finality-of-prophethood
+  uuid: 7c07cb48-e4b6-401a-90b5-0a97f09b2404
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-mahdi-the-spring-of-life/part-2-significance-and-obligations
+  title: 'Part 2: Significance and Obligations'
+  slug: 2-part-2-significance-and-obligations
+  uuid: be00a2c8-1a62-40e5-94d8-b760af17bb9a
+---

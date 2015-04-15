@@ -1,0 +1,114 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/the-human-cycle-eighteen-lessons-with-sayyid-muhammad-husayn-jalali
+author: Sayyid Muhammad Husayn Jalali
+compiler: Adil Miyanji Musabji
+title: The Human Cycle
+slug: the-human-cycle
+uuid: 3a0846b9-bfc1-48de-96ad-42934fbd2b6a
+description: |
+  This text is a compilation of the notes that the author collected during
+  lessons with Sayyid Muhammad Jalali regarding the training and
+  upbringing of children.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/the-human-cycle-eighteen-lessons-with-sayyid-muhammad-husayn-jalali/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: ea20aaac-61c2-4e95-b538-0b17f0ec1a25
+- source: :alislam
+  source_url: http://www.al-islam.org/the-human-cycle-eighteen-lessons-with-sayyid-muhammad-husayn-jalali/student
+  title: Student
+  slug: 2-student
+  uuid: 4b37da39-f5e4-452f-84f4-dbe29dc66217
+- source: :alislam
+  source_url: http://www.al-islam.org/the-human-cycle-eighteen-lessons-with-sayyid-muhammad-husayn-jalali/lesson-1
+  title: Lesson 1
+  slug: 3-lesson-1
+  uuid: de2af7d2-0e89-41bb-babe-8b2bed7fe517
+- source: :alislam
+  source_url: http://www.al-islam.org/the-human-cycle-eighteen-lessons-with-sayyid-muhammad-husayn-jalali/lesson-2
+  title: Lesson 2
+  slug: 4-lesson-2
+  uuid: 426b4b71-ecda-4f1b-9035-840b2dce3c73
+- source: :alislam
+  source_url: http://www.al-islam.org/the-human-cycle-eighteen-lessons-with-sayyid-muhammad-husayn-jalali/lesson-3
+  title: Lesson 3
+  slug: 5-lesson-3
+  uuid: b96f44a9-8a2d-4328-888e-2e76a32446e8
+- source: :alislam
+  source_url: http://www.al-islam.org/the-human-cycle-eighteen-lessons-with-sayyid-muhammad-husayn-jalali/lesson-4
+  title: Lesson 4
+  slug: 6-lesson-4
+  uuid: 9c12117a-cc00-4156-ad92-1c7011edc563
+- source: :alislam
+  source_url: http://www.al-islam.org/the-human-cycle-eighteen-lessons-with-sayyid-muhammad-husayn-jalali/lesson-5
+  title: Lesson 5
+  slug: 7-lesson-5
+  uuid: 5edaf368-171b-4689-ac46-371687efcb28
+- source: :alislam
+  source_url: http://www.al-islam.org/the-human-cycle-eighteen-lessons-with-sayyid-muhammad-husayn-jalali/lesson-6
+  title: Lesson 6
+  slug: 8-lesson-6
+  uuid: cd6ca1c7-5b1b-4efb-bee6-fbc240852336
+- source: :alislam
+  source_url: http://www.al-islam.org/the-human-cycle-eighteen-lessons-with-sayyid-muhammad-husayn-jalali/lesson-7
+  title: Lesson 7
+  slug: 9-lesson-7
+  uuid: ec5b41f1-441e-49e2-ad6b-431481ab85ea
+- source: :alislam
+  source_url: http://www.al-islam.org/the-human-cycle-eighteen-lessons-with-sayyid-muhammad-husayn-jalali/lesson-8
+  title: Lesson 8
+  slug: 10-lesson-8
+  uuid: 99c72991-36d1-47cf-a2fd-3a48fb8863db
+- source: :alislam
+  source_url: http://www.al-islam.org/the-human-cycle-eighteen-lessons-with-sayyid-muhammad-husayn-jalali/lesson-9
+  title: Lesson 9
+  slug: 11-lesson-9
+  uuid: 9b2573c6-59f6-444b-ba91-c4d64df1fdba
+- source: :alislam
+  source_url: http://www.al-islam.org/the-human-cycle-eighteen-lessons-with-sayyid-muhammad-husayn-jalali/lesson-10
+  title: Lesson 10
+  slug: 12-lesson-10
+  uuid: 81437c27-8cf9-4612-a602-b376d9834154
+- source: :alislam
+  source_url: http://www.al-islam.org/the-human-cycle-eighteen-lessons-with-sayyid-muhammad-husayn-jalali/lesson-11
+  title: Lesson 11
+  slug: 13-lesson-11
+  uuid: 14bbea22-19d8-4b4c-9270-a2504b1a1842
+- source: :alislam
+  source_url: http://www.al-islam.org/the-human-cycle-eighteen-lessons-with-sayyid-muhammad-husayn-jalali/lesson-12
+  title: Lesson 12
+  slug: 14-lesson-12
+  uuid: 091038aa-514f-4d2a-9211-af378fcc8eaa
+- source: :alislam
+  source_url: http://www.al-islam.org/the-human-cycle-eighteen-lessons-with-sayyid-muhammad-husayn-jalali/lesson-13
+  title: Lesson 13
+  slug: 15-lesson-13
+  uuid: 55140999-0fb7-494f-9d77-c73bfe66811c
+- source: :alislam
+  source_url: http://www.al-islam.org/the-human-cycle-eighteen-lessons-with-sayyid-muhammad-husayn-jalali/lesson-14
+  title: Lesson 14
+  slug: 16-lesson-14
+  uuid: 5a5a3e56-648f-4aba-a072-8e1ae334829f
+- source: :alislam
+  source_url: http://www.al-islam.org/the-human-cycle-eighteen-lessons-with-sayyid-muhammad-husayn-jalali/lesson-15
+  title: Lesson 15
+  slug: 17-lesson-15
+  uuid: 22a58957-838e-4231-9de3-ca62bc92ae19
+- source: :alislam
+  source_url: http://www.al-islam.org/the-human-cycle-eighteen-lessons-with-sayyid-muhammad-husayn-jalali/lesson-16
+  title: Lesson 16
+  slug: 18-lesson-16
+  uuid: f380b7b1-205f-4bb7-808a-0a450d0d1e1f
+- source: :alislam
+  source_url: http://www.al-islam.org/the-human-cycle-eighteen-lessons-with-sayyid-muhammad-husayn-jalali/lesson-17
+  title: Lesson 17
+  slug: 19-lesson-17
+  uuid: b9b191a8-5769-4b30-a042-75f775849264
+- source: :alislam
+  source_url: http://www.al-islam.org/the-human-cycle-eighteen-lessons-with-sayyid-muhammad-husayn-jalali/lesson-18
+  title: Lesson 18
+  slug: 20-lesson-18
+  uuid: 8c0bada2-9ad1-4e55-bbcc-d908bf306212
+---

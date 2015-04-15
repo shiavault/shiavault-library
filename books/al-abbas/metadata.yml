@@ -1,0 +1,90 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/al-abbas-badr-shahin
+publisher: Ansariyan Publications - Qum
+compiler: Badr Shahin
+title: Al-Abbas
+slug: al-abbas
+uuid: 5b35a485-7b17-496f-8f34-c62392fe7d8f
+description: |
+  In this book, the reader will find chapters covering the whole life
+  account of al-Abbas in addition to a brief presentation of the
+  historical circumstances that led him to be on the top in the list of
+  the heroes of humanity in general and Islam in particular.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/al-abbas-badr-shahin/publisher-s-word
+  title: The Publisher’s Word
+  slug: 1-the-publisher-s-word
+  uuid: d9c27ebe-6752-48f1-9f19-c5b459b7b4fb
+- source: :alislam
+  source_url: http://www.al-islam.org/al-abbas-badr-shahin/dedication
+  title: Dedication
+  slug: 2-dedication
+  uuid: 77659048-2a27-418d-b67d-ca70215cf495
+- source: :alislam
+  source_url: http://www.al-islam.org/al-abbas-badr-shahin/acknowledgement
+  title: Acknowledgement
+  slug: 3-acknowledgement
+  uuid: b1316a8a-b46e-4b3a-a7ca-be0d0918cb89
+- source: :alislam
+  source_url: http://www.al-islam.org/al-abbas-badr-shahin/book
+  title: This Book
+  slug: 4-this-book
+  uuid: 7ebd8e34-682b-4554-b1b6-b23e66e281fe
+- source: :alislam
+  source_url: http://www.al-islam.org/al-abbas-badr-shahin/preface
+  title: Preface
+  slug: 5-preface
+  uuid: 456cafc1-31b5-43bc-aabe-a1e28e7ce126
+- source: :alislam
+  source_url: http://www.al-islam.org/al-abbas-badr-shahin/pure-lineage
+  title: The Pure Lineage
+  slug: 6-the-pure-lineage
+  uuid: 4d726807-f6ee-4d5f-b8b6-cc3b3e7caaa9
+- source: :alislam
+  source_url: http://www.al-islam.org/al-abbas-badr-shahin/umm-ul-banin
+  title: Umm-ul-Banin
+  slug: 7-umm-ul-banin
+  uuid: 111d08e9-ecf1-4a8d-a606-21b1d3343d10
+- source: :alislam
+  source_url: http://www.al-islam.org/al-abbas-badr-shahin/brothers-and-sisters
+  title: Brothers and Sisters
+  slug: 8-brothers-and-sisters
+  uuid: f1dd165b-3fea-4f09-b9e5-1a231a49f341
+- source: :alislam
+  source_url: http://www.al-islam.org/al-abbas-badr-shahin/birth-and-early-life
+  title: Birth and Early Life
+  slug: 9-birth-and-early-life
+  uuid: cb4c437f-4a36-4b6a-a0cc-d801e8407cc9
+- source: :alislam
+  source_url: http://www.al-islam.org/al-abbas-badr-shahin/epithets
+  title: Epithets
+  slug: 10-epithets
+  uuid: 8e8daad7-8c99-417c-97ad-a41c0fa9dcc6
+- source: :alislam
+  source_url: http://www.al-islam.org/al-abbas-badr-shahin/personality
+  title: Personality
+  slug: 11-personality
+  uuid: 420dea94-dadc-4c02-8a4e-eaf68c128e92
+- source: :alislam
+  source_url: http://www.al-islam.org/al-abbas-badr-shahin/al-%E2%80%99abbas-imams%E2%80%99-sight
+  title: Al-’Abbas in the Imams’ Sight
+  slug: 12-al-abbas-in-the-imams-sight
+  uuid: 437c7e83-d2ac-4f53-a567-7bf27d082644
+- source: :alislam
+  source_url: http://www.al-islam.org/al-abbas-badr-shahin/holy-shrine
+  title: The Holy Shrine
+  slug: 13-the-holy-shrine
+  uuid: 167ba447-96a2-410e-b951-039e0abcc882
+- source: :alislam
+  source_url: http://www.al-islam.org/al-abbas-badr-shahin/descendants-al-%E2%80%99abbas
+  title: Descendants of Al-’Abbas
+  slug: 14-descendants-of-al-abbas
+  uuid: ef915dcd-e0a1-48a1-af0a-ff1e0ec0b4af
+- source: :alislam
+  source_url: http://www.al-islam.org/al-abbas-badr-shahin/events-and-martyrdom
+  title: Events and Martyrdom
+  slug: 15-events-and-martyrdom
+  uuid: 3601540f-4d91-44c0-9415-b1db61bdddd6
+---

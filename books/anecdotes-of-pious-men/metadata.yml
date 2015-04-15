@@ -1,0 +1,103 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/anecdotes-pious-men-ayatullah-murtadha-mutahhari
+author: Ayatullah Murtadha Mutahhari
+publisher: World Organization for Islamic Services (WOFIS)
+title: Anecdotes of Pious Men
+slug: anecdotes-of-pious-men
+uuid: cac5f9b1-ee3c-40ec-83cd-86db278fb6d1
+description: |
+  Some selected Islamic stories from the Persian Book Dastan-e Rastan vol.
+  l & 2.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-pious-men-ayatullah-murtadha-mutahhari/stranger
+  title: The Stranger
+  slug: 1-the-stranger
+  uuid: d9780b49-aafa-4665-b5a0-f50d6a4865d2
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-pious-men-ayatullah-murtadha-mutahhari/jowaiber-and-zalfa
+  title: Jowaiber and Zalfa
+  slug: 2-jowaiber-and-zalfa
+  uuid: dca587cc-cf21-4ead-86c6-c2b781238148
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-pious-men-ayatullah-murtadha-mutahhari/new-convert
+  title: The New Convert
+  slug: 3-the-new-convert
+  uuid: 648b9f12-3fbf-493a-81eb-64bac3c3d58c
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-pious-men-ayatullah-murtadha-mutahhari/nasiba
+  title: Nasiba
+  slug: 4-nasiba
+  uuid: 24b46587-eb7e-4e4b-aaa5-67a07d4550a9
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-pious-men-ayatullah-murtadha-mutahhari/complaint-against-husband
+  title: Complaint Against Husband
+  slug: 5-complaint-against-husband
+  uuid: bad2e1f7-5756-498b-a334-4a33a8d1b0b0
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-pious-men-ayatullah-murtadha-mutahhari/son-hatim
+  title: The Son of Hatim
+  slug: 6-the-son-of-hatim
+  uuid: 3758d06d-62e5-4feb-8c63-2bb95e4cfa2e
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-pious-men-ayatullah-murtadha-mutahhari/ibne-sayyaba
+  title: Ibne Sayyaba
+  slug: 7-ibne-sayyaba
+  uuid: fe8fd519-d5f6-4896-b307-59499486c996
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-pious-men-ayatullah-murtadha-mutahhari/aqeel-guest-ali
+  title: Aqeel as a Guest of Ali
+  slug: 8-aqeel-as-a-guest-of-ali
+  uuid: 214889fd-a262-4adb-9e05-4a75c4f22a37
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-pious-men-ayatullah-murtadha-mutahhari/first-slogan
+  title: The First Slogan
+  slug: 9-the-first-slogan
+  uuid: c37671c8-1be3-419c-9869-17d7190cadd7
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-pious-men-ayatullah-murtadha-mutahhari/prohibition-water
+  title: The Prohibition of Water
+  slug: 10-the-prohibition-of-water
+  uuid: f0d6d2a6-f811-4956-96eb-2845e1c65a17
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-pious-men-ayatullah-murtadha-mutahhari/silly-shop-keeper
+  title: The Silly Shop-Keeper
+  slug: 11-the-silly-shop-keeper
+  uuid: 0989b022-012a-4b7f-862d-db85d5c66e54
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-pious-men-ayatullah-murtadha-mutahhari/what-did-happen-thy-sons
+  title: What Did Happen To Thy Sons?
+  slug: 12-what-did-happen-to-thy-sons
+  uuid: 2b416890-b497-4d3a-8640-0b813e1feb85
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-pious-men-ayatullah-murtadha-mutahhari/retirement
+  title: The Retirement
+  slug: 13-the-retirement
+  uuid: 0e49cde7-eaa2-4ac4-9330-b72726089d96
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-pious-men-ayatullah-murtadha-mutahhari/land-mina
+  title: In The Land of Mina
+  slug: 14-in-the-land-of-mina
+  uuid: 54673760-db17-4843-81fc-abd4a48dac9b
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-pious-men-ayatullah-murtadha-mutahhari/protection-was-revoked
+  title: The Protection That Was Revoked
+  slug: 15-the-protection-that-was-revoked
+  uuid: 2dbfe99a-5f6f-48c2-be88-04ff7348ac23
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-pious-men-ayatullah-murtadha-mutahhari/prayer-was-granted
+  title: The Prayer That Was Granted
+  slug: 16-the-prayer-that-was-granted
+  uuid: 55407442-6f05-4390-b30a-e0761cdac9ea
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-pious-men-ayatullah-murtadha-mutahhari/right-companionship
+  title: The Right of Companionship
+  slug: 17-the-right-of-companionship
+  uuid: 2d678b20-e15c-45c2-9bf2-2943129ffca4
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-pious-men-ayatullah-murtadha-mutahhari/black-market
+  title: The Black Market
+  slug: 18-the-black-market
+  uuid: 220d0f6d-1280-406b-959e-a30dba02bf54
+---

@@ -1,0 +1,60 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/fast-sayyid-saeed-akhtar-rizvi
+author: Allamah Sayyid Sa'eed Akhtar Rizvi
+publisher: Bilal Muslim Mission of Tanzania
+title: Fast
+slug: fast
+uuid: d42cff86-69ca-48e2-aac3-32783ac10306
+description: |
+  This short text is a collection of five articles written by Allamah
+  Sayyid Sa'eed Akhtar Rizvi dealing with various aspects of the month of
+  Ramadan, its significance and the holy day of Eid-ul-Fitr that marks the
+  end of this blessed month.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/fast-sayyid-saeed-akhtar-rizvi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 8021d1ee-b1f6-4a21-8625-ecd46460b8f0
+- source: :alislam
+  source_url: http://www.al-islam.org/fast-sayyid-saeed-akhtar-rizvi/fruits-fasting-servants-allah
+  title: The Fruits of Fasting for the Servants of Allah
+  slug: 2-the-fruits-of-fasting-for-the-servants-of-allah
+  uuid: 6ad173fc-9fda-4f77-bd99-bebc5c270e00
+- source: :alislam
+  source_url: http://www.al-islam.org/fast-sayyid-saeed-akhtar-rizvi/significance-ramadhan
+  title: The Significance of Ramadhan
+  slug: 3-the-significance-of-ramadhan
+  uuid: 6a5d7527-3ba9-4b3d-b960-f8bda5c5a20f
+- source: :alislam
+  source_url: http://www.al-islam.org/fast-sayyid-saeed-akhtar-rizvi/eid-ul-fitr-unique-festival-time-joy-muslims
+  title: Eid-Ul-Fitr; a Unique Festival Time of Joy for Muslims
+  slug: 4-eid-ul-fitr-a-unique-festival-time-of-joy-for-muslims
+  uuid: b8fda56e-653e-4b33-9a6b-866591d079cc
+- source: :alislam
+  source_url: http://www.al-islam.org/fast-sayyid-saeed-akhtar-rizvi/ideal-islamic-charity
+  title: The Ideal of Islamic Charity
+  slug: 5-the-ideal-of-islamic-charity
+  uuid: fddee69b-3430-4053-8959-c31f7e4e0043
+- source: :alislam
+  source_url: http://www.al-islam.org/fast-sayyid-saeed-akhtar-rizvi/eid-ul-fitr-serves-three-purposes
+  title: Eid-ul-Fitr Serves Three Purposes
+  slug: 6-eid-ul-fitr-serves-three-purposes
+  uuid: 2b809451-ef7d-4d7b-a4ea-b0b1622c818b
+- source: :alislam
+  source_url: http://www.al-islam.org/fast-sayyid-saeed-akhtar-rizvi/important-rules-shariah-concern-fast-and-prayer-eidain
+  title: Important Rules of Shariah Concern Fast And Prayer Of Eidain
+  slug: 7-important-rules-of-shariah-concern-fast-and-prayer-of-eidain
+  uuid: 2f621cc7-e2f4-4b14-a575-ae7dbf2ac204
+- source: :alislam
+  source_url: http://www.al-islam.org/fast-sayyid-saeed-akhtar-rizvi/appendix-i-fast-questions
+  title: 'Appendix I: Fast Questions'
+  slug: 8-appendix-i-fast-questions
+  uuid: 6facc84b-4bfd-4cc4-9a36-3352407f33fa
+- source: :alislam
+  source_url: http://www.al-islam.org/fast-sayyid-saeed-akhtar-rizvi/appendix-ii-fasting-swift-sure-way-lose-weight
+  title: 'Appendix II: Fasting Swift, Sure Way to Lose Weight'
+  slug: 9-appendix-ii-fasting-swift-sure-way-to-lose-weight
+  uuid: c2957df9-8a2b-40d7-9b82-81d3bf9173bc
+---

@@ -1,0 +1,88 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/ethics-and-spiritual-growth-sayyid-mujtaba-musawi-lari
+author: Sayyid Mujtaba Musawi Lari
+publisher: Ansariyan Publications - Qum
+title: Ethics and Spiritual Growth
+slug: ethics-and-spiritual-growth
+uuid: 94421deb-d128-43f8-81f9-a9a4f9aac048
+description: |
+  Man's struggle for perfection, spiritual needs, duties, and road to
+  success.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-and-spiritual-growth-sayyid-mujtaba-musawi-lari/preface
+  title: Preface
+  slug: 1-preface
+  uuid: dd64caca-e05d-47f0-bfa7-7777f2dd8f50
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-and-spiritual-growth-sayyid-mujtaba-musawi-lari/chapter-1-man-moves-towards-perfection
+  title: 'Chapter 1: Man Moves Towards Perfection'
+  slug: 2-chapter-1-man-moves-towards-perfection
+  uuid: 486780e0-666e-4300-858f-e1883ad3c4bc
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-and-spiritual-growth-sayyid-mujtaba-musawi-lari/chapter-2-mans-most-distinctive-merit
+  title: 'Chapter 2: Man''s Most Distinctive Merit'
+  slug: 3-chapter-2-man-s-most-distinctive-merit
+  uuid: 3709ad9c-4258-47bb-85c1-66d5ed34bb83
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-and-spiritual-growth-sayyid-mujtaba-musawi-lari/chapter-3-criterion-human-values
+  title: 'Chapter 3: A Criterion of Human Values'
+  slug: 4-chapter-3-a-criterion-of-human-values
+  uuid: 76091b49-a2fe-467b-9a27-850682b68cd8
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-and-spiritual-growth-sayyid-mujtaba-musawi-lari/chapter-4-man-midst-duties
+  title: 'Chapter 4: Man in the Midst of Duties'
+  slug: 5-chapter-4-man-in-the-midst-of-duties
+  uuid: ff7e9bed-4a27-43cb-a2d5-6a6ce6582afd
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-and-spiritual-growth-sayyid-mujtaba-musawi-lari/chapter-5-stormy-sea-life
+  title: 'Chapter 5: The Stormy Sea of Life'
+  slug: 6-chapter-5-the-stormy-sea-of-life
+  uuid: f07102f5-acfb-401f-b771-7fb72d119a46
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-and-spiritual-growth-sayyid-mujtaba-musawi-lari/chapter-6-basis-social-co-operation
+  title: 'Chapter 6: The basis of Social Co-operation'
+  slug: 7-chapter-6-the-basis-of-social-co-operation
+  uuid: 39d07a11-f3ad-443f-ac02-55e4d7112218
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-and-spiritual-growth-sayyid-mujtaba-musawi-lari/chapter-7-mans-spiritual-needs
+  title: 'Chapter 7: Man''s Spiritual Needs'
+  slug: 8-chapter-7-man-s-spiritual-needs
+  uuid: 9538d41a-913f-4c30-a847-293cf5f0d36d
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-and-spiritual-growth-sayyid-mujtaba-musawi-lari/chapter-8-shortest-road-success
+  title: 'Chapter 8: The Shortest Road to Success'
+  slug: 9-chapter-8-the-shortest-road-to-success
+  uuid: d655ca68-59d9-4076-8d83-d2be91cd9ce2
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-and-spiritual-growth-sayyid-mujtaba-musawi-lari/chapter-9-psychological-needs
+  title: 'Chapter 9: The Psychological Needs'
+  slug: 10-chapter-9-the-psychological-needs
+  uuid: 334b8240-74c5-43bd-b562-32464f300c44
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-and-spiritual-growth-sayyid-mujtaba-musawi-lari/chapter-10-exaggerated-opinion-oneself
+  title: 'Chapter 10: Exaggerated Opinion Of Oneself'
+  slug: 11-chapter-10-exaggerated-opinion-of-oneself
+  uuid: a893f802-2c49-40d5-8593-50b11fd4fea6
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-and-spiritual-growth-sayyid-mujtaba-musawi-lari/chapter-11-waves-change-created-outstanding
+  title: 'Chapter 11: The Waves of Change Created by Outstanding Personalities'
+  slug: 12-chapter-11-the-waves-of-change-created-by-outstanding-personalities
+  uuid: 93d2842c-92d3-4674-88c2-7f48a04d2e1e
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-and-spiritual-growth-sayyid-mujtaba-musawi-lari/chapter-12-secured-spiritual-well-being-means
+  title: 'Chapter 12: Secured Spiritual Well-Being by Means of Fruitful Social Contracts'
+  slug: 13-chapter-12-secured-spiritual-well-being-by-means-of-fruitful-social-contracts
+  uuid: 491fda67-ad85-4e1a-bd5a-b8c68e526475
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-and-spiritual-growth-sayyid-mujtaba-musawi-lari/chapter-13-success-human-right
+  title: 'Chapter 13: Success, a Human Right'
+  slug: 14-chapter-13-success-a-human-right
+  uuid: 02b6a736-5a6e-44a7-b58a-63b990177c11
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-and-spiritual-growth-sayyid-mujtaba-musawi-lari/chapter-14-fear
+  title: 'Chapter 14: Fear'
+  slug: 15-chapter-14-fear
+  uuid: 3d4ef6ae-e42a-4781-8940-427a1a24abfa
+---

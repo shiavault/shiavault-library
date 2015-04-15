@@ -1,0 +1,60 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/woman-mahdi-mahrizi
+author: Mahdi Mahrizi
+publisher: Ansariyan Publications - Qum
+translator: Hasan M. Najafi
+title: Woman
+slug: woman
+uuid: ce716664-47b5-4a3d-a203-f943d5164424
+description: |
+  Social independence of women, modern life and Islam, women in Qur'an,
+  family rights, differences between men and women, inheritance, divorce,
+  mut'a, and polygamy.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/woman-mahdi-mahrizi/preamble-0
+  title: Preamble
+  slug: 1-preamble
+  uuid: de9b324f-fba4-4b80-953b-25c1b8ee3954
+- source: :alislam
+  source_url: http://www.al-islam.org/woman-mahdi-mahrizi/chapter-1-character-woman-0
+  title: 'Chapter 1: Character of Woman'
+  slug: 2-chapter-1-character-of-woman
+  uuid: 39b4180a-0e3b-4242-a927-066fb5dcc2a7
+- source: :alislam
+  source_url: http://www.al-islam.org/woman-mahdi-mahrizi/chapter-2-human-perfections-0
+  title: 'Chapter 2: The Human Perfections'
+  slug: 3-chapter-2-the-human-perfections
+  uuid: 84bd0f13-7a04-4951-ba70-c91e69b30874
+- source: :alislam
+  source_url: http://www.al-islam.org/woman-mahdi-mahrizi/chapter-3-woman-and-family-0
+  title: 'Chapter 3: Woman and Family'
+  slug: 4-chapter-3-woman-and-family
+  uuid: 32332cc0-0e87-429a-b894-e76c51bb6734
+- source: :alislam
+  source_url: http://www.al-islam.org/woman-mahdi-mahrizi/chapter-4-womens-co%C2%ADoperation-social-life-0
+  title: 'Chapter 4: Women''s Co­operation in Social Life'
+  slug: 5-chapter-4-women-s-co-operation-in-social-life
+  uuid: 8c1e46cb-a8d1-437d-91a7-8a0216b2e3bd
+- source: :alislam
+  source_url: http://www.al-islam.org/woman-mahdi-mahrizi/chapter-5-veil-and-chastity-0
+  title: 'Chapter 5: Veil and Chastity'
+  slug: 6-chapter-5-veil-and-chastity
+  uuid: 00b768ca-33ff-480d-ad67-56a7451e6e81
+- source: :alislam
+  source_url: http://www.al-islam.org/woman-mahdi-mahrizi/chapter-6-descriptive-books-collections-0
+  title: 'Chapter 6: Descriptive Books on Collections'
+  slug: 7-chapter-6-descriptive-books-on-collections
+  uuid: 4870cea7-b64f-42c4-874f-7c718cac386c
+- source: :alislam
+  source_url: http://www.al-islam.org/woman-mahdi-mahrizi/bibliography-0
+  title: Bibliography
+  slug: 8-bibliography
+  uuid: 4df79753-cfc6-4c36-9b3f-e0c530e59ef5
+- source: :alislam
+  source_url: http://www.al-islam.org/woman-mahdi-mahrizi/appendix-hijaab-0
+  title: 'Appendix: Hijaab'
+  slug: 9-appendix-hijaab
+  uuid: 35ab4487-ca49-4c40-95bd-8c8f312fe493
+---

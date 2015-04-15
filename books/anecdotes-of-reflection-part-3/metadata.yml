@@ -1,0 +1,130 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat
+author: Sayyid Ali Akbar Sadaaqat
+publisher: The Islamic Education Board of the World Federation of Khoja Shia Ithna-Asheri
+  Muslim Communities
+title: Anecdotes of Reflection Part 3
+slug: anecdotes-of-reflection-part-3
+uuid: cf0a4f0e-0834-49c6-9fd0-5e4352e18147
+description: |
+  Moral stories from the lives of the prophets, the Ahlul Bayt and their
+  companions. Includes topics such as forgiveness, intellect, justice, and
+  worship.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 4a0ee8a2-62e3-47a3-87cb-a1bbdefdf65a
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/transliteration-table
+  title: Transliteration Table
+  slug: 2-transliteration-table
+  uuid: 5c249467-ec32-41ee-aacd-2a8ff5802c8d
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: 6e09ffab-9e30-4b63-b82f-287329222bb0
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/41-supplication
+  title: 41. Supplication
+  slug: 4-41-supplication
+  uuid: 4ca2e8da-ce0e-4a81-81b6-ce81dc6925e8
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/42-religion
+  title: 42. Religion
+  slug: 5-42-religion
+  uuid: 6426d7aa-c48f-4843-bed8-58c46206fbb2
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/43-dhikr-remembrance-allah
+  title: 43. Dhikr (Remembrance Of Allah)
+  slug: 6-43-dhikr-remembrance-of-allah
+  uuid: 9030d3ca-9480-4750-8a73-20750dc46ffb
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/44-sustenance
+  title: 44. Sustenance
+  slug: 7-44-sustenance
+  uuid: a4cf9109-c6c5-4f69-bc51-0b45f4022408
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/45-pleasure-over-divine-acts
+  title: 45. Pleasure (Over Divine Acts)
+  slug: 8-45-pleasure-over-divine-acts
+  uuid: e336ae5f-6954-4bde-9125-8ebd310f59ec
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/46-showing
+  title: 46. Showing Off
+  slug: 9-46-showing-off
+  uuid: 8a7ffaa2-d707-4cdc-8c32-fa83013f5589
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/47-fornication
+  title: 47. Fornication
+  slug: 10-47-fornication
+  uuid: dcd97819-bfb4-49ed-bf8a-a40b1ddbc492
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/48-generosity
+  title: 48. Generosity
+  slug: 11-48-generosity
+  uuid: 3d952aaf-822a-4c0a-a8bf-313d7f935abd
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/49-polytheism
+  title: 49. Polytheism
+  slug: 12-49-polytheism
+  uuid: a955be82-6844-44da-a2ce-72c4cfc755e9
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/50-satan
+  title: 50. Satan
+  slug: 13-50-satan
+  uuid: 97a092e6-d9cb-4c1b-ae18-302800e87108
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/51-patience
+  title: 51. Patience
+  slug: 14-51-patience
+  uuid: a122fdba-bcac-41d7-94ae-7c1e0edf9f39
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/52-charity
+  title: 52. Charity
+  slug: 15-52-charity
+  uuid: 82e175cf-31ae-49ad-aa14-6b6229dedd85
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/53-silah-rahim
+  title: 53. Silah Rahim
+  slug: 16-53-silah-rahim
+  uuid: 31501cc8-4662-4ecb-80cc-f24da3e2290c
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/54-oppression-and-injustice
+  title: 54. Oppression and Injustice
+  slug: 17-54-oppression-and-injustice
+  uuid: 62347a77-542a-4fc7-9019-52f16dc41976
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/55-worship
+  title: 55. Worship
+  slug: 18-55-worship
+  uuid: d6a8e751-c5e8-4376-8289-fa885e8a2438
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/56-covenants-and-promises
+  title: 56. Covenants and Promises
+  slug: 19-56-covenants-and-promises
+  uuid: 82f5d988-af28-4066-aba0-7cd6313ceca6
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/57-justice
+  title: 57. Justice
+  slug: 20-57-justice
+  uuid: 96d28dca-541b-4e11-9b1f-1c5ffa0373c7
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/58-chastisement
+  title: 58. Chastisement
+  slug: 21-58-chastisement
+  uuid: 23cc3584-59fd-497e-903d-b1392a525c95
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/59-forgiveness
+  title: 59. Forgiveness
+  slug: 22-59-forgiveness
+  uuid: e3365e69-c77c-48ee-acf5-a2b3d6b8ca7f
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-3-sayyid-ali-akbar-sadaaqat/60-intellect
+  title: 60. Intellect
+  slug: 23-60-intellect
+  uuid: 523a9b85-656b-44a8-a9f7-a3c924b77d9f
+---

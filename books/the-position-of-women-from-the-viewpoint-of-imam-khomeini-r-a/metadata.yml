@@ -1,0 +1,58 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/position-women-viewpoint-imam-khomeini-ra
+publisher: The Institute for Compilation and Publication of Imam Khomeini's Works
+translator: Juliana ShawBehrooz Arezoo
+title: The Position of Women from the Viewpoint of Imam Khomeini (r.a.)
+slug: the-position-of-women-from-the-viewpoint-of-imam-khomeini-r-a
+uuid: 69223dbe-36c1-45e1-bee3-de40727e4b5f
+description: |
+  This text comprehensively outlines the Position of Women from the
+  viewpoint of Imam Khomeini (r.a.). Starting with acknowledging the Great
+  Women of the World, such as Hazrat Fatima Zahra, the compilation then
+  covers the status and rights of women in Islam as well as the role of
+  women in their families, and the Jihad of a woman, specifically giving
+  examples from women during the time of the Islamic Revolution.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/position-women-viewpoint-imam-khomeini-ra/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 07316ea6-6a98-4f25-9e87-75b9cd92bab1
+- source: :alislam
+  source_url: http://www.al-islam.org/position-women-viewpoint-imam-khomeini-ra/great-women-world
+  title: Great Women of the World
+  slug: 2-great-women-of-the-world
+  uuid: 6acd4a78-23ca-44d4-99c5-d699071996cc
+- source: :alislam
+  source_url: http://www.al-islam.org/position-women-viewpoint-imam-khomeini-ra/status-and-rights-women-islamic-system
+  title: The status and rights of women in the Islamic system
+  slug: 3-the-status-and-rights-of-women-in-the-islamic-system
+  uuid: d896ac43-f6af-416e-98ac-3406d264c036
+- source: :alislam
+  source_url: http://www.al-islam.org/position-women-viewpoint-imam-khomeini-ra/role-family-and-women-nurturing-human-being
+  title: The Role of the Family and Women in Nurturing Human Being
+  slug: 4-the-role-of-the-family-and-women-in-nurturing-human-being
+  uuid: ce8e0e10-bcee-49cc-9379-e0bffc866975
+- source: :alislam
+  source_url: http://www.al-islam.org/position-women-viewpoint-imam-khomeini-ra/role-women-victory-islamic-revolution
+  title: The role of women in the victory of the Islamic revolution
+  slug: 5-the-role-of-women-in-the-victory-of-the-islamic-revolution
+  uuid: dbce92b7-4c21-4974-864b-82e351961c61
+- source: :alislam
+  source_url: http://www.al-islam.org/position-women-viewpoint-imam-khomeini-ra/women-and-sacred-defence-jihad
+  title: Women and the Sacred Defence, Jihad
+  slug: 6-women-and-the-sacred-defence-jihad
+  uuid: e6d58fce-4e44-4155-b085-a8e8e5f651fa
+- source: :alislam
+  source_url: http://www.al-islam.org/position-women-viewpoint-imam-khomeini-ra/crimes-perpetrated-against-women-and-plots-devised-against
+  title: The crimes perpetrated against women and the plots devised against them by
+    imperialism and the Pahlavi regime
+  slug: 7-the-crimes-perpetrated-against-women-and-the-plots-devised-against-them-by-imperialism-and-the-pahlavi-regime
+  uuid: 7279b20a-4a88-4b7d-b34c-6bec17d2ed70
+- source: :alislam
+  source_url: http://www.al-islam.org/position-women-viewpoint-imam-khomeini-ra/index-references
+  title: Index of References
+  slug: 8-index-of-references
+  uuid: a8504be9-e25a-41e8-904e-380f8c08e6d0
+---

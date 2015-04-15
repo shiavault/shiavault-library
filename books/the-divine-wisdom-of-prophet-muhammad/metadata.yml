@@ -1,0 +1,51 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/divine-wisdom-prophet-muhammad
+publisher: Islamic Research Foundation Astan Quds Razavi
+translator: Fizza Hyderi
+title: The Divine Wisdom of Prophet Muhammad
+slug: the-divine-wisdom-of-prophet-muhammad
+uuid: 5f8e0c8b-252d-4fb3-b46a-e2dcd3a6b862
+description: |
+  The book which is translated by Ihtijaj al-Tabarsi presents a
+  compilation of debates of Holy Prophet Muhammad (S) with scholars and
+  representatives of other religions including Judaism, Christianity,
+  atheism, dualism and polytheism. The dire need for this work becomes
+  essential due to the ceaseless false, baseless and vicious Islamophobia
+  propaganda that is being carried out against the Holy Prophet (S) and
+  Islam across the world. The debates of the Prophet Muhammad (S) with
+  scholars of other religions prove that the dynamic universal message of
+  Islam was preached through peace and brotherhood.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/divine-wisdom-prophet-muhammad/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 918b0e01-5653-40d4-a389-95faa7c0fb72
+- source: :alislam
+  source_url: http://www.al-islam.org/divine-wisdom-prophet-muhammad/translators-note
+  title: Translator’s Note
+  slug: 2-translator-s-note
+  uuid: c50b7708-6e63-46a9-8b22-19e883095c95
+- source: :alislam
+  source_url: http://www.al-islam.org/divine-wisdom-prophet-muhammad/chapter-1-debates-prophet-muhammad-s-scholars-and-representatives
+  title: 'Chapter 1: Debates of Prophet Muhammad (S) with scholars and representatives
+    of five different religions'
+  slug: 3-chapter-1-debates-of-prophet-muhammad-s-with-scholars-and-representatives-of-five-different-religions
+  uuid: 58a1ef64-645f-494c-9a68-42319215614e
+- source: :alislam
+  source_url: http://www.al-islam.org/divine-wisdom-prophet-muhammad/chapter-2-debate-prophet-s-group-polytheists
+  title: 'Chapter 2: Debate of Prophet (S) with a group of Polytheists'
+  slug: 4-chapter-2-debate-of-prophet-s-with-a-group-of-polytheists
+  uuid: d7d1cf83-67f9-4adb-a461-85ed46674934
+- source: :alislam
+  source_url: http://www.al-islam.org/divine-wisdom-prophet-muhammad/chapter-3-prophets-s-debate-jews
+  title: 'Chapter 3: Prophet’s (S) debate with Jews'
+  slug: 5-chapter-3-prophet-s-s-debate-with-jews
+  uuid: 8071d8cc-ff33-4a4d-bffb-dc86e9a8076c
+- source: :alislam
+  source_url: http://www.al-islam.org/divine-wisdom-prophet-muhammad/glossary-key-terms
+  title: Glossary of key terms
+  slug: 6-glossary-of-key-terms
+  uuid: 9362a792-02bc-4a78-8428-0efd42b330cf
+---

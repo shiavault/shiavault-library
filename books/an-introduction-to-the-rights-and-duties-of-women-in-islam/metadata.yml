@@ -1,0 +1,102 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/introduction-rights-and-duties-women-islam-ayatullah-ibrahim-amini
+author: Ayatullah Ibrahim Amini
+publisher: ABWA Publishing and Printing Center
+translator: Abuzar Ahmadi
+title: An Introduction To The Rights And Duties Of Women In Islam
+slug: an-introduction-to-the-rights-and-duties-of-women-in-islam
+uuid: 87c001a0-c4c7-4a0a-9a76-bddb465f50cf
+description: |
+  This book addresses issues on the status and standing of women, their
+  social, political, and cultural activities, housewifery, art, freedom,
+  lifestyle, natural and acquired rights, and other issues from Islamic
+  point of view.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-rights-and-duties-women-islam-ayatullah-ibrahim-amini/publishers-foreword
+  title: Publisher’s Foreword
+  slug: 1-publisher-s-foreword
+  uuid: a1212e3f-2fb2-46ca-af1f-4b1a204c14cf
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-rights-and-duties-women-islam-ayatullah-ibrahim-amini/section-one-rights-and-duties
+  title: 'Section One: The Rights and Duties of Women in Islam'
+  slug: 2-section-one-the-rights-and-duties-of-women-in-islam
+  uuid: 3488d49e-1b65-472b-951b-82e4947a2de2
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-rights-and-duties-women-islam-ayatullah-ibrahim-amini/standing-women-islam
+  title: The Standing of Women in Islam
+  slug: 3-the-standing-of-women-in-islam
+  uuid: b5f35a12-db75-41a3-8b3d-ec19c3ae4d1e
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-rights-and-duties-women-islam-ayatullah-ibrahim-amini/women-and-freedom
+  title: Women and Freedom
+  slug: 4-women-and-freedom
+  uuid: 54049203-8009-4fdd-b645-64ce3323783f
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-rights-and-duties-women-islam-ayatullah-ibrahim-amini/women-and-hijab
+  title: Women and Hijab
+  slug: 5-women-and-hijab
+  uuid: ebe0efae-ceff-424e-970b-5c1666986e26
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-rights-and-duties-women-islam-ayatullah-ibrahim-amini/marriage-and-its-merits
+  title: Marriage and its Merits
+  slug: 6-marriage-and-its-merits
+  uuid: db4ab643-1ce0-4ef9-a357-7a975d94f7a2
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-rights-and-duties-women-islam-ayatullah-ibrahim-amini/mutual-rights-and
+  title: Mutual Rights and Responsibilities of Spouses
+  slug: 7-mutual-rights-and-responsibilities-of-spouses
+  uuid: f26de762-0e10-408d-803c-aeb0d291c2e5
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-rights-and-duties-women-islam-ayatullah-ibrahim-amini/mahr-women-and-its-philosophy
+  title: The Mahr of Women and its Philosophy
+  slug: 8-the-mahr-of-women-and-its-philosophy
+  uuid: 272922d1-0e7e-42b8-ad17-6fc28d7085a3
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-rights-and-duties-women-islam-ayatullah-ibrahim-amini/nafaqah-financial-support-and-its
+  title: Nafaqah (Financial Support) and its Philosophy
+  slug: 9-nafaqah-financial-support-and-its-philosophy
+  uuid: c0d4f7cf-92ad-4c11-8fc5-4ecad8ad9a7a
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-rights-and-duties-women-islam-ayatullah-ibrahim-amini/womens-inheritance-islam
+  title: Women’s Inheritance in Islam
+  slug: 10-women-s-inheritance-in-islam
+  uuid: ea456433-e163-4dcf-b22f-bb966e4b5708
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-rights-and-duties-women-islam-ayatullah-ibrahim-amini/islam-and-polygamy
+  title: Islam and Polygamy
+  slug: 11-islam-and-polygamy
+  uuid: 3cd5b324-b2d0-4ba7-8fd9-7da12ea74765
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-rights-and-duties-women-islam-ayatullah-ibrahim-amini/divorce-islam
+  title: Divorce in Islam
+  slug: 12-divorce-in-islam
+  uuid: 32135e1f-102b-49e7-9c8f-8b7aacd6b10a
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-rights-and-duties-women-islam-ayatullah-ibrahim-amini/section-two-rights-and-duties
+  title: 'Section Two: The Rights and Duties of Women in the Form of Questions and
+    Answers'
+  slug: 13-section-two-the-rights-and-duties-of-women-in-the-form-of-questions-and-answers
+  uuid: 9fadd3df-bfe6-4603-9199-9a9c2a375783
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-rights-and-duties-women-islam-ayatullah-ibrahim-amini/introduction
+  title: Introduction
+  slug: 14-introduction
+  uuid: 517236c6-bb67-4b33-b5d0-a5c971e6e130
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-rights-and-duties-women-islam-ayatullah-ibrahim-amini/common-rights-women-and-men
+  title: Common Rights of Women and Men
+  slug: 15-common-rights-of-women-and-men
+  uuid: 7f8186a2-d4c2-432d-8c78-564bd5151bd0
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-rights-and-duties-women-islam-ayatullah-ibrahim-amini/noble-zahra-epitome-women
+  title: 'The Noble Zahra (‘a): The Epitome of Women'
+  slug: 16-the-noble-zahra-a-the-epitome-of-women
+  uuid: 7b216fa8-a689-4da3-800c-cbeaa93b77e8
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-rights-and-duties-women-islam-ayatullah-ibrahim-amini/bibliography
+  title: Bibliography
+  slug: 17-bibliography
+  uuid: 63d3f236-97b1-414d-a563-c61c1dbce429
+---

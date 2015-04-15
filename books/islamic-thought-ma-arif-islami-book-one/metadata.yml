@@ -1,0 +1,84 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islamic-thought-book-one-muhammad-saidi-mihr-amir-divani
+author: Muhammad Sa‘idi-MihrAmir Divani
+publisher: ABWA Publishing and Printing Center
+translator: Abuzar Ahmadi
+title: Islamic Thought (Ma‘arif Islami) Book One
+slug: islamic-thought-ma-arif-islami-book-one
+uuid: d4ee9388-399d-4b60-bcfd-3fcc9df6e65c
+description: |
+  This text is the first book presented surrounding Islamic thought and
+  theological topics and the concept of resurrection.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-one-muhammad-saidi-mihr-amir-divani/publishers-foreword
+  title: Publisher’s Foreword
+  slug: 1-publisher-s-foreword
+  uuid: 3a20ccfb-9196-4f9d-9d00-5522d8e82268
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-one-muhammad-saidi-mihr-amir-divani/foreword
+  title: Foreword
+  slug: 2-foreword
+  uuid: 883e7e7a-b4d4-4c3e-b59d-94697a5477f5
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-one-muhammad-saidi-mihr-amir-divani/introduction-religion-modern-world
+  title: 'Introduction: Religion in the Modern World'
+  slug: 3-introduction-religion-in-the-modern-world
+  uuid: b2363678-d3d6-4967-8ee3-76a75d947456
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-one-muhammad-saidi-mihr-amir-divani/chapter-one-god-humanity-and-world
+  title: 'Chapter One: God, Humanity And The World'
+  slug: 4-chapter-one-god-humanity-and-the-world
+  uuid: d8697df3-f32e-45a8-bd53-a878849eceeb
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-one-muhammad-saidi-mihr-amir-divani/section-one-search-object-devotion
+  title: 'Section One: In Search of the Object of Devotion'
+  slug: 5-section-one-in-search-of-the-object-of-devotion
+  uuid: 587c22eb-6e11-464a-a0c5-0e124242eb63
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-one-muhammad-saidi-mihr-amir-divani/section-twothe-path-him
+  title: Section Two:The Path to “Him”
+  slug: 6-section-two-the-path-to-him
+  uuid: 07a88f9e-868e-4903-86e5-0dcc866d4b48
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-one-muhammad-saidi-mihr-amir-divani/section-three-anthropology
+  title: 'Section Three: Anthropology'
+  slug: 7-section-three-anthropology
+  uuid: df5839e5-ff92-4438-a5f5-8c980ecc9d08
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-one-muhammad-saidi-mihr-amir-divani/section-four-cosmology-jah%C4%81n-shin%C4%81s%C4%AB
+  title: 'Section Four: Cosmology [jahān shināsī]'
+  slug: 8-section-four-cosmology-jahan-shinasi
+  uuid: 5fc92327-28cf-4491-a755-6c0412cd0555
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-one-muhammad-saidi-mihr-amir-divani/chapter-two-resurrection-eschatology
+  title: 'Chapter Two:  The Resurrection (Eschatology)'
+  slug: 9-chapter-two-the-resurrection-eschatology
+  uuid: 04200279-b3f9-46ee-99f0-1aff3ba11fb1
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-one-muhammad-saidi-mihr-amir-divani/introduction
+  title: Introduction
+  slug: 10-introduction
+  uuid: 47764cc3-f993-4d80-af90-652fc2f240b1
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-one-muhammad-saidi-mihr-amir-divani/section-one-human-essence
+  title: 'Section One: The Human Essence'
+  slug: 11-section-one-the-human-essence
+  uuid: 9598d5cb-921a-43f5-83ac-7f0ee89ed9f1
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-one-muhammad-saidi-mihr-amir-divani/section-two-death
+  title: 'Section Two: Death'
+  slug: 12-section-two-death
+  uuid: c3a5c40d-97be-44a8-b193-bfd462ed87b3
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-one-muhammad-saidi-mihr-amir-divani/section-three-philosophical-approaches
+  title: 'Section Three: Philosophical Approaches to Human Immortality'
+  slug: 13-section-three-philosophical-approaches-to-human-immortality
+  uuid: c86e43e3-3819-4d80-a8fa-1d191fc0156d
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-one-muhammad-saidi-mihr-amir-divani/section-four-life-hereafter-stated-quran
+  title: 'Section Four: Life in the Hereafter as stated by the Qur’an'
+  slug: 14-section-four-life-in-the-hereafter-as-stated-by-the-qur-an
+  uuid: 6bb658fd-29ad-4e87-826b-4b1e829ec3bb
+---

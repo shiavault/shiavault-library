@@ -1,0 +1,134 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani
+author: Ayatullah Ali Al-Husayni Al-Sistani
+publisher: Imam Ali Foundation
+translator: Sayyid Muhammad Rizvi
+title: A Code of Practice For Muslims in the West
+slug: a-code-of-practice-for-muslims-in-the-west
+uuid: 314b02c0-8691-47ad-b740-490342845bd9
+description: |
+  Islamic laws explained with focus on the problems and issues faced by
+  the Muslims in the West presented in a question and answer format.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: e0e48f37-4178-48e7-bb81-a4ad158b37ba
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/editors-note
+  title: Editor's Note
+  slug: 2-editor-s-note
+  uuid: aa127252-a408-4a86-852f-d5d8db09cb89
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/translators-preface
+  title: Translator's Preface
+  slug: 3-translator-s-preface
+  uuid: adb771eb-3b17-43ca-b999-be6591d1be33
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/authors-preface
+  title: Author's Preface
+  slug: 4-author-s-preface
+  uuid: f2c34b52-adfc-4a33-a952-8536dd75b8a2
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/migration-non-muslim-countries
+  title: Migration to Non-Muslim Countries
+  slug: 5-migration-to-non-muslim-countries
+  uuid: b065a90e-edab-49ab-b053-d75a54a1b37d
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/taqlid-following-jurist
+  title: 'Taqlid: Following a Jurist'
+  slug: 6-taqlid-following-a-jurist
+  uuid: c7292097-49c1-4e28-971a-1be5d825bef6
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/taharat-najasat-ritual-purity-impurity
+  title: 'Taharat & Najasat: Ritual purity & impurity'
+  slug: 7-taharat-najasat-ritual-purity-impurity
+  uuid: bba4c6dc-f1a5-454b-ae69-082c43c6a6bb
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/salat-ritual-prayer
+  title: 'Salat: The ritual prayer'
+  slug: 8-salat-the-ritual-prayer
+  uuid: cd8ccc02-fc02-449b-a84d-dfd0e235f628
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/sawm-fasting
+  title: 'Sawm: Fasting'
+  slug: 9-sawm-fasting
+  uuid: f7e7062a-2c64-4679-b7ae-2f070deaaf31
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/hajj-pilgrimage-mecca
+  title: 'Hajj: The pilgrimage to Mecca'
+  slug: 10-hajj-the-pilgrimage-to-mecca
+  uuid: 44b0b76e-1a2f-484a-ab72-667e12cb9eaa
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/death-related-issues
+  title: Death related issues
+  slug: 11-death-related-issues
+  uuid: f1897889-e1af-440c-b840-f3989274c229
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/eating-drinking
+  title: Eating & Drinking
+  slug: 12-eating-drinking
+  uuid: 42d1bb0b-1448-4aba-a186-f4052643f54e
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/dress-clothings
+  title: Dress & Clothings
+  slug: 13-dress-clothings
+  uuid: b3383b23-f1b0-4d4f-af12-782ca28c2f12
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/dealing-laws-non-muslim-countries
+  title: Dealing with laws in non-Muslim countries
+  slug: 14-dealing-with-laws-in-non-muslim-countries
+  uuid: 46df7526-1ede-42e8-ac81-74c63bc73e27
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/work-investment
+  title: Work & investment
+  slug: 15-work-investment
+  uuid: ae1ba4ad-aa0d-4f73-ba5c-300e8ee77d06
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/interaction-social-life
+  title: Interaction in social life
+  slug: 16-interaction-in-social-life
+  uuid: e0de469a-4087-4af7-9769-93b87129650d
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/medical-issues
+  title: Medical Issues
+  slug: 17-medical-issues
+  uuid: 3589c152-9d7d-4deb-ad0e-4e7cf0b64246
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/marriage
+  title: Marriage
+  slug: 18-marriage
+  uuid: c91ea5d0-f86b-4401-b71a-526f5a2b0312
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/womens-issues
+  title: Women's issues
+  slug: 19-women-s-issues
+  uuid: 6ccc9251-5c2c-42ef-9f3e-01d03036c99d
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/youths-issues
+  title: Youth's issues
+  slug: 20-youth-s-issues
+  uuid: 36dfbe57-8a8b-4f65-8bf6-c01731e21436
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/music-singing-dancing
+  title: Music, singing & dancing
+  slug: 21-music-singing-dancing
+  uuid: f14e1772-e545-4c0b-9694-019f0ddac66b
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/miscellaneous
+  title: Miscellaneous
+  slug: 22-miscellaneous
+  uuid: 6b337c75-0fc2-42fb-880f-08518de66b96
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/epilogue
+  title: Epilogue
+  slug: 23-epilogue
+  uuid: a648cb87-2d85-44c6-8c96-17671ce045ca
+- source: :alislam
+  source_url: http://www.al-islam.org/a-code-of-practice-for-muslims-in-the-west-ayatullah-sistani/appendices
+  title: Appendices
+  slug: 24-appendices
+  uuid: f28e5f4c-d42b-4ff6-92a5-a66217606bcb
+---

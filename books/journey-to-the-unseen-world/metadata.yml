@@ -1,0 +1,29 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/journey-unseen-world
+author: Hujjatul Islam Najafi Quchani
+publisher: Tabligh Sub-Committee
+title: Journey to the Unseen World
+slug: journey-to-the-unseen-world
+uuid: 38b3a3dd-3dbc-405f-9b2d-15d7b672e152
+description: |
+  A picture book with an abridged text of the original book 'Jouney to the
+  Unseen World' in simple English, which discusses the circumtances of
+  life after death.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/journey-unseen-world/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 4a1371c7-dd2e-4bd1-926e-affd33fea510
+- source: :alislam
+  source_url: http://www.al-islam.org/journey-unseen-world/journey-unseen-world
+  title: Journey to the Unseen World
+  slug: 2-journey-to-the-unseen-world
+  uuid: 0033d4eb-16d9-4d1d-958d-43e82c78f873
+- source: :alislam
+  source_url: http://www.al-islam.org/journey-unseen-world/post-scriptum
+  title: Post-Scriptum
+  slug: 3-post-scriptum
+  uuid: 7dfbd63d-5e1a-45ba-abf9-cf087cd7a6cc
+---

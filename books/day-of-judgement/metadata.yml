@@ -1,0 +1,65 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/day-of-judgement-sayyid-akhtar-rizvi
+author: Sayyid Saeed Akhtar Rizvi
+publisher: Bilal Muslim Mission of Tanzania
+title: Day of Judgement
+slug: day-of-judgement
+uuid: 188134ba-9d72-469f-a045-05d2ae9d4205
+description: |
+  This text discusses in detail the nature of death and the life beyond
+  it. It especially focuses on the state of the soul from the time of
+  death till the Day of Judgment, and also has chapters on the Signs of
+  the Day of Judgment as well as the events that will occur thereon.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/day-of-judgement-sayyid-akhtar-rizvi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 45e1845f-b51d-4d6b-8c30-ac52db78499c
+- source: :alislam
+  source_url: http://www.al-islam.org/day-of-judgement-sayyid-akhtar-rizvi/part-1-soul
+  title: 'Part 1 : Soul'
+  slug: 2-part-1-soul
+  uuid: 0965a8f8-3a01-4f6b-aa4f-07257d576b41
+- source: :alislam
+  source_url: http://www.al-islam.org/day-of-judgement-sayyid-akhtar-rizvi/part-2-death-and-after
+  title: 'Part 2: Death and After'
+  slug: 3-part-2-death-and-after
+  uuid: f379061c-a7d8-4d81-a596-295dbc9b90de
+- source: :alislam
+  source_url: http://www.al-islam.org/day-of-judgement-sayyid-akhtar-rizvi/few-short-notes
+  title: A Few Short Notes
+  slug: 4-a-few-short-notes
+  uuid: 02450429-4e9c-4b79-9044-a571e47d123f
+- source: :alislam
+  source_url: http://www.al-islam.org/day-of-judgement-sayyid-akhtar-rizvi/part-3-some-signs-day-resurrection
+  title: 'Part 3: Some Signs of Day of Resurrection'
+  slug: 5-part-3-some-signs-of-day-of-resurrection
+  uuid: f0262197-6ec6-467c-9aaf-645ab70572f6
+- source: :alislam
+  source_url: http://www.al-islam.org/day-of-judgement-sayyid-akhtar-rizvi/part-4-day-judgement
+  title: 'Part 4: Day of Judgement'
+  slug: 6-part-4-day-of-judgement
+  uuid: a143a075-4d82-41b9-bbc1-7fb6b29691d0
+- source: :alislam
+  source_url: http://www.al-islam.org/day-of-judgement-sayyid-akhtar-rizvi/munajaat-secret-invocation-ali-bin-abi-talib
+  title: "'Munajaat' (Secret Invocation) of Ali Bin Abi Talib (As)"
+  slug: 7-munajaat-secret-invocation-of-ali-bin-abi-talib-as
+  uuid: 4828c75b-66a4-446b-a921-7a3e206d38fd
+- source: :alislam
+  source_url: http://www.al-islam.org/day-of-judgement-sayyid-akhtar-rizvi/islamic-correspondence-course-unit-8-day-judgement
+  title: Islamic Correspondence Course, Unit 8, Day of Judgement
+  slug: 8-islamic-correspondence-course-unit-8-day-of-judgement
+  uuid: 3d0b71a7-7a1b-44ce-aba0-d3886ac0d61c
+- source: :alislam
+  source_url: http://www.al-islam.org/day-of-judgement-sayyid-akhtar-rizvi/questions
+  title: Questions
+  slug: 9-questions
+  uuid: 998236a8-73de-4583-9ff7-39a8a1e99b56
+- source: :alislam
+  source_url: http://www.al-islam.org/day-of-judgement-sayyid-akhtar-rizvi/bibliography
+  title: Bibliography
+  slug: 10-bibliography
+  uuid: a649d914-9a5e-456b-87cb-342d8be74eb6
+---

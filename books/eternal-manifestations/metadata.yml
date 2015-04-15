@@ -1,0 +1,84 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/eternal-manifestations-80-stories-from-life-of-allama-tabatabai
+author: Ahmad Luqmani
+translator: S. K. Yusufali
+title: Eternal Manifestations
+slug: eternal-manifestations
+uuid: bcce7a4c-750f-4fed-8651-584d43088829
+description: |
+  A collection of eighty spiritually uplifting stories from the life of
+  Allama Tabatabai (ra) showing his dedication to Islam and his striving
+  at attaining nearness towards Allah.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/eternal-manifestations-80-stories-from-life-of-allama-tabatabai/love-ahlul-bayt
+  title: Love for the Ahlul-Bayt (a)
+  slug: 1-love-for-the-ahlul-bayt-a
+  uuid: df0af87d-644e-4e16-abb5-aa815a14a687
+- source: :alislam
+  source_url: http://www.al-islam.org/eternal-manifestations-80-stories-from-life-of-allama-tabatabai/akhl%C4%81q-manner-character
+  title: Akhlāq (Manner of character)
+  slug: 2-akhlaq-manner-of-character
+  uuid: c086c846-9b3c-432e-9d36-8f2da9f27395
+- source: :alislam
+  source_url: http://www.al-islam.org/eternal-manifestations-80-stories-from-life-of-allama-tabatabai/akhl%C4%81q-manner-character-home
+  title: Akhlāq (manner of character) at Home
+  slug: 3-akhlaq-manner-of-character-at-home
+  uuid: c4e79c69-4eb6-4e5b-af6d-65a79339eb62
+- source: :alislam
+  source_url: http://www.al-islam.org/eternal-manifestations-80-stories-from-life-of-allama-tabatabai/home-his-wife%C2%A0
+  title: At Home with his Wife 
+  slug: 4-at-home-with-his-wife
+  uuid: 100732af-c9e5-4780-a0d4-cb7ae1937df6
+- source: :alislam
+  source_url: http://www.al-islam.org/eternal-manifestations-80-stories-from-life-of-allama-tabatabai/home-his-children
+  title: At Home with his Children
+  slug: 5-at-home-with-his-children
+  uuid: 394a334c-8d52-448a-8718-00f8f6d648e8
+- source: :alislam
+  source_url: http://www.al-islam.org/eternal-manifestations-80-stories-from-life-of-allama-tabatabai/sincerity-and-humility
+  title: Sincerity and Humility
+  slug: 6-sincerity-and-humility
+  uuid: 87c4cf6c-993b-43ab-91d6-234986b00cd2
+- source: :alislam
+  source_url: http://www.al-islam.org/eternal-manifestations-80-stories-from-life-of-allama-tabatabai/spirituality%C2%A0
+  title: Spirituality 
+  slug: 7-spirituality
+  uuid: e516369e-8e13-4cf6-8221-805f7bdfd810
+- source: :alislam
+  source_url: http://www.al-islam.org/eternal-manifestations-80-stories-from-life-of-allama-tabatabai/%E2%80%98all%C4%81mah-and-qur%E2%80%99%C4%81n
+  title: "‘Allāmah and the Qur’ān"
+  slug: 8-allamah-and-the-qur-an
+  uuid: fa825e82-79db-4cc6-bb30-728bff8bc887
+- source: :alislam
+  source_url: http://www.al-islam.org/eternal-manifestations-80-stories-from-life-of-allama-tabatabai/knowledge
+  title: Knowledge
+  slug: 9-knowledge
+  uuid: 5e678fa1-2ec1-4261-9146-e10baf42358a
+- source: :alislam
+  source_url: http://www.al-islam.org/eternal-manifestations-80-stories-from-life-of-allama-tabatabai/%E2%80%98all%C4%81mah-student
+  title: "‘Allāmah as a Student"
+  slug: 10-allamah-as-a-student
+  uuid: 4bb0f05b-fcb1-463f-931f-733a07526e9c
+- source: :alislam
+  source_url: http://www.al-islam.org/eternal-manifestations-80-stories-from-life-of-allama-tabatabai/%E2%80%98all%C4%81mah-teacher%C2%A0
+  title: "‘Allāmah as a Teacher "
+  slug: 11-allamah-as-a-teacher
+  uuid: 41a45522-165c-4c57-8dc2-cc09f8ccf6ac
+- source: :alislam
+  source_url: http://www.al-islam.org/eternal-manifestations-80-stories-from-life-of-allama-tabatabai/academic-activities%C2%A0
+  title: Academic Activities 
+  slug: 12-academic-activities
+  uuid: 5dedb55d-ccc8-4de9-824a-8539ed3d32b9
+- source: :alislam
+  source_url: http://www.al-islam.org/eternal-manifestations-80-stories-from-life-of-allama-tabatabai/al-mizan
+  title: Al-Mizan
+  slug: 13-al-mizan
+  uuid: cd919771-1686-4a39-83f4-d041fc0516a1
+- source: :alislam
+  source_url: http://www.al-islam.org/eternal-manifestations-80-stories-from-life-of-allama-tabatabai/last-days
+  title: Last Days
+  slug: 14-last-days
+  uuid: 663f5065-b6be-4afc-b9b4-ca98b2c63e4a
+---

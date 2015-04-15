@@ -1,0 +1,33 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/dua-kumayl-a-translation-and-commentary-husein-a-rahim
+author: Husein A. Rahim
+title: Du`a Kumayl, A Translation & Commentary
+slug: du-a-kumayl-a-translation-commentary
+uuid: 5eb42ee4-e016-4738-a608-f09da04a3800
+description: |
+  Arabic text, English translation, commentary, and audio recitation of
+  this famous supplication that Ameer al-Mu'mineen Imam Ali ibn Abi Talib
+  (a) taught to his companion Kumayl ibn Ziyad (r).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/dua-kumayl-a-translation-and-commentary-husein-a-rahim/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: d8e77b25-9c17-4377-9fd3-e1c88304210d
+- source: :alislam
+  source_url: http://www.al-islam.org/dua-kumayl-a-translation-and-commentary-husein-a-rahim/preface
+  title: Preface
+  slug: 2-preface
+  uuid: 59eef86c-e9ed-4cad-b0e6-18923a4e9213
+- source: :alislam
+  source_url: http://www.al-islam.org/dua-kumayl-a-translation-and-commentary-husein-a-rahim/origin-dua
+  title: Origin of The Du'a
+  slug: 3-origin-of-the-du-a
+  uuid: b1f60d6e-8fb5-4da6-a58b-1513156bbb33
+- source: :alislam
+  source_url: http://www.al-islam.org/dua-kumayl-a-translation-and-commentary-husein-a-rahim/dua-kumayl-translation-commentary
+  title: Du`a Kumayl, A Translation & Commentary
+  slug: 4-du-a-kumayl-a-translation-commentary
+  uuid: 7afd6897-57ef-4c4a-bd4c-55cf505cdd3b
+---

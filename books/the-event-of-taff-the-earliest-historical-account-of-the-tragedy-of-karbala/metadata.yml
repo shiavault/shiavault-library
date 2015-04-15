@@ -1,0 +1,129 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf
+author: Abu Mikhnaf
+publisher: ABWA Publishing and Printing Center
+translator: "'Umar Kumo"
+title: The Event of Taff, The Earliest Historical Account of the Tragedy of Karbala’
+slug: the-event-of-taff-the-earliest-historical-account-of-the-tragedy-of-karbala
+uuid: ee318817-9f0e-490b-8e3d-bbcee46b43e7
+description: |
+  This revised edition is the research and editing of [Abu Mikhnaf’s] work
+  by Shaikh Muhammad Hadi al-Yusufi al-Gharawi.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/preface
+  title: Preface
+  slug: 1-preface
+  uuid: a68e7594-e986-4fba-bf3b-8f4dc872bbce
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/preamble
+  title: Preamble
+  slug: 2-preamble
+  uuid: e295e987-6bf6-43cf-9ac6-e9fb8837402e
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: 34622d15-ae87-45b3-afd0-ffb96a3a4db6
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/detailed-list-narrators
+  title: The Detailed List of the Narrators
+  slug: 4-the-detailed-list-of-the-narrators
+  uuid: da339a74-1cc9-458a-9ce3-8e96f1a049a6
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/al-husayn-madinah
+  title: Al-Husayn (as) In Madinah
+  slug: 5-al-husayn-as-in-madinah
+  uuid: 4e1d5bad-2cb2-4d5a-bfe0-db522194ffa0
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/al-husayn-makkah
+  title: Al-Husayn (as) in Makkah
+  slug: 6-al-husayn-as-in-makkah
+  uuid: e4cd8499-4d85-418f-9fba-58697670eae7
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/events-kufah-after-arrival-muslim
+  title: The Events In Kufah After The Arrival Of Muslim Bin ‘Aqil
+  slug: 7-the-events-in-kufah-after-the-arrival-of-muslim-bin-aqil
+  uuid: cc0b83a3-be6d-4dc1-aab4-4da5d8e6352c
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/al-husayns-departure-makkah
+  title: Al-Husayn’s Departure From Makkah
+  slug: 8-al-husayn-s-departure-from-makkah
+  uuid: 1ef1787f-5a7d-4c82-8480-9dfd26af39d1
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/stations-way-kufah
+  title: The Stations On The Way To Kufah
+  slug: 9-the-stations-on-the-way-to-kufah
+  uuid: d0c1796d-160c-445f-a8e5-d09b278a5b15
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/events-3rd-8th-muharram
+  title: The Events From The 3rd To The 8th Of Muharram
+  slug: 10-the-events-from-the-3rd-to-the-8th-of-muharram
+  uuid: de3f6621-d8f1-409c-9a60-3796d3ccb1a4
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/events-9th-muharram
+  title: The Events of The 9th of Muharram
+  slug: 11-the-events-of-the-9th-of-muharram
+  uuid: 42d868c1-5813-427e-a0d1-6a866ee7f1a0
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/events-night-ashura
+  title: The Events Of The Night Of ‘Ashura’
+  slug: 12-the-events-of-the-night-of-ashura
+  uuid: 09b08516-0dc4-4bc4-84ee-ff50bc09531f
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/day-ashura
+  title: The Day Of ‘Ashura’
+  slug: 13-the-day-of-ashura
+  uuid: cd332b33-fc5c-4e9c-8859-9e506a073b60
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/beginning-battle
+  title: The Beginning Of The Battle
+  slug: 14-the-beginning-of-the-battle
+  uuid: 5243863a-5b8d-499e-9083-50abb691bdbb
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/martyrdom-companions-al-husayn
+  title: The Martyrdom of the Companions Of Al-Husayn (as)
+  slug: 15-the-martyrdom-of-the-companions-of-al-husayn-as
+  uuid: be740d35-e696-4dcb-86c4-89d6ee8bda0c
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/martyrdom-family-members-al
+  title: The Martyrdom Of The Family Members Of Al-Husayn (as)
+  slug: 16-the-martyrdom-of-the-family-members-of-al-husayn-as
+  uuid: d515c392-30fd-4459-b93e-82b30b2acbea
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/martyrdom-al-husayn
+  title: The Martyrdom Of Al-Husayn (as)
+  slug: 17-the-martyrdom-of-al-husayn-as
+  uuid: 778aac23-b590-419c-8ee6-98c597043fdb
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/after-martyrdom-al-husayn
+  title: After The Martyrdom Of Al-Husayn (as)
+  slug: 18-after-the-martyrdom-of-al-husayn-as
+  uuid: 8d0ffd0c-d55d-428f-acb4-96339db61a4f
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/household-al-husayn-kufah
+  title: The Household Of Al-Husayn (as) In Kufah
+  slug: 19-the-household-of-al-husayn-as-in-kufah
+  uuid: 14fd1dd1-40a5-4fb9-9ac9-e8bf4b32fab1
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/household-al-husayn-sham-syria
+  title: The Household Of Al-Husayn (as) in Sham (Syria)
+  slug: 20-the-household-of-al-husayn-as-in-sham-syria
+  uuid: e42644a1-0d3e-496a-9bd5-c8e26c148aab
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/household-al-husayn-madinah
+  title: The Household Of Al-Husayn (as) In Madinah
+  slug: 21-the-household-of-al-husayn-as-in-madinah
+  uuid: 65163060-14f5-447b-93b2-6eb5e233a9a0
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/first-visitor-al-husayn-kufah
+  title: The First Visitor Of Al-Husayn (as) From Kufah
+  slug: 22-the-first-visitor-of-al-husayn-as-from-kufah
+  uuid: 2e60e909-9289-4306-b0e6-1a4be82c11e0
+- source: :alislam
+  source_url: http://www.al-islam.org/event-taff-earliest-historical-account-tragedy-karbala-abu-mikhnaf/final-remarks
+  title: Final Remarks
+  slug: 23-final-remarks
+  uuid: ff745cbf-8dce-4ac8-ba13-d34084c6d186
+---

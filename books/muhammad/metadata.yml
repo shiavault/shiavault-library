@@ -1,0 +1,67 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/muhammad-yasin-jibouri
+author: Yasin T. Al-Jibouri
+publisher: Ansariyan Publications - Qum
+title: Muhammad
+slug: muhammad
+uuid: 0bc20d60-0f0e-488f-b2df-6b8d8a525e69
+description: |
+  A full-length biography of the life of the Prophet Muhammad, including a
+  chapter on his ancestors, the settings of Hijaz at that time, and the
+  events surrounding his birth. This well-researched text covers all
+  important features of the Prophet's life and provides detailed reference
+  where necessary.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-yasin-jibouri/publishers-preface
+  title: Publisher's Preface
+  slug: 1-publisher-s-preface
+  uuid: 7a6ee645-46f4-4599-b77a-de1011db6aaa
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-yasin-jibouri/muhammad-background-and-immediate-family
+  title: 'Muhammad: Background and Immediate Family'
+  slug: 2-muhammad-background-and-immediate-family
+  uuid: 28324aa1-c0a5-4bbb-9bf6-9352b32ace8e
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-yasin-jibouri/list-events-during-lifetime-prophet-saw-time-his-call-prophethood-till-his
+  title: A List Of Events During the Lifetime of Prophet (s.a.w) from the Time of
+    his Call to Prophethood till his Death
+  slug: 3-a-list-of-events-during-the-lifetime-of-prophet-s-a-w-from-the-time-of-his-call-to-prophethood-till-his-death
+  uuid: 0d61e03a-345b-472c-b8a9-39c58e96073a
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-yasin-jibouri/birth-and-ancestors
+  title: Birth and Ancestors
+  slug: 4-birth-and-ancestors
+  uuid: e64d4480-eb29-466b-b7a2-c0d2f6d283bb
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-yasin-jibouri/birth-and-dawah
+  title: Birth and Da'wah
+  slug: 5-birth-and-da-wah
+  uuid: 0bf186cd-ea4c-4e36-9f1c-0a778a314d04
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-yasin-jibouri/call-islam
+  title: The Call to Islam
+  slug: 6-the-call-to-islam
+  uuid: 37bb3cad-4287-424c-97a0-a387fb5c821f
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-yasin-jibouri/prophet-madina-622-ad
+  title: The Prophet in Madina (622 A.D.)
+  slug: 7-the-prophet-in-madina-622-a-d
+  uuid: 018b53bc-a92c-4d27-ac93-1973a9506a3f
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-yasin-jibouri/marriages-prophet
+  title: Marriages of the Prophet
+  slug: 8-marriages-of-the-prophet
+  uuid: 294cfc66-19f9-48ae-b8fa-d11f0f3349d1
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-yasin-jibouri/conclusion
+  title: Conclusion
+  slug: 9-conclusion
+  uuid: 00cf3f9a-e707-4c68-8d75-5c062e835a2a
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-yasin-jibouri/useful-glossary
+  title: Useful Glossary
+  slug: 10-useful-glossary
+  uuid: 79a13e3f-5a52-4772-96f0-b5fe6250868a
+---

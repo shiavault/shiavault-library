@@ -1,0 +1,50 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islamic-government-governance-of-jurist-imam-khomeini
+author: Imam Khomeini
+publisher: The Institute for Compilation and Publication of Imam Khomeini's Works
+translator: Dr. Hamid Algar
+title: 'Islamic Government: Governance of the Jurist'
+slug: islamic-government-governance-of-the-jurist
+uuid: f7454996-e1c1-4e99-93bd-96ce34471c7c
+description: |
+  This book originated in a series of lectures given at Najaf between
+  January 21 and February 8, 1970. Three major points emerge from the
+  lectures. The first is the necessity for the establishment and
+  maintenance of Islamic political power for Islamic goals, precepts, and
+  criteria. The second is the duty of the religious scholars (the fuqahā)
+  to bring about an Islamic state. Third, a program of action for the
+  establishment of an Islamic state, including various measures for
+  self-reform by the religious establishment.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-government-governance-of-jurist-imam-khomeini/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: c0bf71e1-08ff-490c-8bd7-59bba716acfc
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-government-governance-of-jurist-imam-khomeini/islamic-government-book
+  title: Islamic Government (The Book)
+  slug: 2-islamic-government-the-book
+  uuid: e0b94a2c-4936-4b24-9da2-cc0b6678faad
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-government-governance-of-jurist-imam-khomeini/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: 2d52282f-ea03-4280-b3ba-e4611267c59d
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-government-governance-of-jurist-imam-khomeini/necessity-islamic-government
+  title: The Necessity for Islamic Government
+  slug: 4-the-necessity-for-islamic-government
+  uuid: 1eaa7895-6681-4a3f-b201-6c2009d83c36
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-government-governance-of-jurist-imam-khomeini/form-islamic-government
+  title: The Form of Islamic Government
+  slug: 5-the-form-of-islamic-government
+  uuid: 403e7c4b-0af4-48e6-8b1a-90b5d20a8434
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-government-governance-of-jurist-imam-khomeini/program-establishment-islamic-government
+  title: Program for the Establishment of an Islamic Government
+  slug: 6-program-for-the-establishment-of-an-islamic-government
+  uuid: e3bf8583-77cc-46ef-bee5-a921ec2f21b8
+---

@@ -1,0 +1,18 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/salman-al-muhammadi-kamal-al-sayyid
+author: Kamal al-Sayyid
+publisher: Ansariyan Publications - Qum
+translator: Jasim al-Alyawy
+title: Salman al-Muhammadi
+slug: salman-al-muhammadi
+uuid: b4fa88d9-1148-4913-973b-bad1cf3273e2
+description: |
+  Biography of the devoted companion of the Prophet (s).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/salman-al-muhammadi-kamal-al-sayyid/salman-al-muhammadi
+  title: Salman al-Muhammadi
+  slug: 1-salman-al-muhammadi
+  uuid: 82c35e5b-ed71-47be-8886-3a722f30a58e
+---

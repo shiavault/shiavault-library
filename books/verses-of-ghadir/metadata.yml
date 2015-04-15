@@ -1,0 +1,58 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/verses-ghadir-al-mustafa-center-islamic-researches
+author: Al-Mustafa Center for Islamic Researches
+publisher: Ansariyan Publications - Qum
+title: Verses of Ghadir
+slug: verses-of-ghadir
+uuid: d4a77bf4-e56d-4364-963c-b12e20db8c09
+description: |
+  An exegesis of the Quranic verses that point to the even of Ghadir
+  Khumm.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/verses-ghadir-al-mustafa-center-islamic-researches/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: f8dddc5d-768a-4c6c-80a0-669bc42a1829
+- source: :alislam
+  source_url: http://www.al-islam.org/verses-ghadir-al-mustafa-center-islamic-researches/three-verses-ghadir
+  title: The Three Verses Of Ghadir
+  slug: 2-the-three-verses-of-ghadir
+  uuid: 09d52f0a-5488-4b76-b86f-6e7c616e744f
+- source: :alislam
+  source_url: http://www.al-islam.org/verses-ghadir-al-mustafa-center-islamic-researches/1-holy-prophet-s%E2%80%99s-succession-was-raised-during
+  title: "(1) The Holy Prophet (S)’s Succession Was Raised During His Lifetime"
+  slug: 3-1-the-holy-prophet-s-s-succession-was-raised-during-his-lifetime
+  uuid: 08a54275-efd6-4be0-941e-f1b05af1e4dd
+- source: :alislam
+  source_url: http://www.al-islam.org/verses-ghadir-al-mustafa-center-islamic-researches/2-prophet-s-foretells-about-twelve-imams
+  title: "(2) The Prophet (S) Foretells About The Twelve Imams (a.s.)"
+  slug: 4-2-the-prophet-s-foretells-about-the-twelve-imams-a-s
+  uuid: 0b774a97-84e3-420a-a8b2-4b46c9537a7f
+- source: :alislam
+  source_url: http://www.al-islam.org/verses-ghadir-al-mustafa-center-islamic-researches/3-islamic-principles-sermons-farewell-hajj
+  title: "(3) The Islamic Principles in the Sermons of the Farewell Hajj"
+  slug: 5-3-the-islamic-principles-in-the-sermons-of-the-farewell-hajj
+  uuid: d499e32d-358d-4e40-9315-4bc044c2e57e
+- source: :alislam
+  source_url: http://www.al-islam.org/verses-ghadir-al-mustafa-center-islamic-researches/verse-ismah
+  title: The Verse of Ismah
+  slug: 6-the-verse-of-ismah
+  uuid: 56124c7a-b723-46f1-a9e0-abc1862b80bc
+- source: :alislam
+  source_url: http://www.al-islam.org/verses-ghadir-al-mustafa-center-islamic-researches/verse-ikmal-al-din-final-verse
+  title: The Verse of Ikmal al-Din (The Final Verse)
+  slug: 7-the-verse-of-ikmal-al-din-the-final-verse
+  uuid: 99ba847d-b973-42b5-939c-83639e944b40
+- source: :alislam
+  source_url: http://www.al-islam.org/verses-ghadir-al-mustafa-center-islamic-researches/verse-sail
+  title: The Verse of Sa`il
+  slug: 8-the-verse-of-sa-il
+  uuid: bbd7d440-1def-428c-b928-1dc19ba07908
+- source: :alislam
+  source_url: http://www.al-islam.org/verses-ghadir-al-mustafa-center-islamic-researches/references
+  title: References
+  slug: 9-references
+  uuid: 3e818281-6e2e-468b-9788-124e00fbf5b2
+---

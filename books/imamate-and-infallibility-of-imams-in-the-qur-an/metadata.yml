@@ -1,0 +1,71 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/imamate-and-infallibility-imams-quran-ridha-kardan
+author: Ridha Kardan
+publisher: ABWA Publishing and Printing Center
+translator: Sayyid Iraj Razzaqi
+title: Imamate And Infallibility of Imams In The Qur’an
+slug: imamate-and-infallibility-of-imams-in-the-qur-an
+uuid: 850cfdde-3a39-425e-890a-43923ceaf70a
+description: |
+  This text presents an eye opening read on one of the most important yet
+  controversial topics within Islam, that being the important subject of
+  Imamate and infallibility of the Imams (as). This beautifully written
+  book is compiled of solid, logical and reasonable proofs pertaining to
+  the holy Quran and authentic hadith from both within Shia and Sunni
+  sources that would leave the mind of any man of reason without doubt and
+  leave his heart at ease. This is a must read for all truth seekers or
+  skeptics alike who wish to know the truth and shed light on this very
+  crucial topic within Islam.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-infallibility-imams-quran-ridha-kardan/publishers-introduction
+  title: Publisher’s Introduction
+  slug: 1-publisher-s-introduction
+  uuid: 067cbec9-eee5-45e4-9a48-83bfdf165f56
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-infallibility-imams-quran-ridha-kardan/preface
+  title: Preface
+  slug: 2-preface
+  uuid: 2b463739-1b51-4a9a-a8b2-fc908f92de9f
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-infallibility-imams-quran-ridha-kardan/chapter-1-imamate-quranic-verse-ibtila
+  title: 'Chapter 1: Imamate in the Qur’anic Verse of Ibtila’'
+  slug: 3-chapter-1-imamate-in-the-qur-anic-verse-of-ibtila
+  uuid: 4d703d8a-e0d0-430d-b95a-7b8414bf9052
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-infallibility-imams-quran-ridha-kardan/chapter-2-imamate-quranic-verse-mubahalah
+  title: 'Chapter 2: Imamate in the Qur’anic Verse of Mubahalah'
+  slug: 4-chapter-2-imamate-in-the-qur-anic-verse-of-mubahalah
+  uuid: 4650816c-5399-44d7-b402-4806a25cd93d
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-infallibility-imams-quran-ridha-kardan/chapter-3-imamate-envisaged-verse-aulu-alamr
+  title: 'Chapter 3: Imamate as Envisaged in the Verse of Aulu al–Amr'
+  slug: 5-chapter-3-imamate-as-envisaged-in-the-verse-of-aulu-al-amr
+  uuid: c68e8e99-2300-408a-b025-7ec6546633a8
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-infallibility-imams-quran-ridha-kardan/chapter-4-imamate-envisaged-verse-wilayah
+  title: 'Chapter 4: Imamate As Envisaged in the Verse of Wilayah'
+  slug: 6-chapter-4-imamate-as-envisaged-in-the-verse-of-wilayah
+  uuid: e92a0dcb-8b0e-4e5a-bad9-1c5df382f5c2
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-infallibility-imams-quran-ridha-kardan/chapter-5-imamate-quranic-verse-sadiqin
+  title: 'Chapter 5: Imamate in the Qur’anic Verse of Sadiqin'
+  slug: 7-chapter-5-imamate-in-the-qur-anic-verse-of-sadiqin
+  uuid: 2d3050a7-ca50-475d-9de7-fb9679e7bcdc
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-infallibility-imams-quran-ridha-kardan/chapter-6-imamate-quranic-verse-tatheer
+  title: 'Chapter 6: Imamate in the Qur’anic Verse of Tatheer'
+  slug: 8-chapter-6-imamate-in-the-qur-anic-verse-of-tatheer
+  uuid: db9c2b05-e89f-434f-b307-800dafca042e
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-infallibility-imams-quran-ridha-kardan/chapter-7-imamate-verse-ilm-alkitab
+  title: 'Chapter 7: Imamate in the Verse of Ilm al–Kitab'
+  slug: 9-chapter-7-imamate-in-the-verse-of-ilm-al-kitab
+  uuid: 1281ee39-66a7-4cfe-b29d-dad6cd0ec26a
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-infallibility-imams-quran-ridha-kardan/bibliography
+  title: Bibliography
+  slug: 10-bibliography
+  uuid: 1b463bc6-296f-4471-9310-93685c429199
+---

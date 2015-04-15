@@ -1,0 +1,74 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/be-truthful-muhammad-al-tijani-al-samawi
+author: Muhammad al-Tijani al-Samawi
+publisher: Al-Kharsan Foundation for Publications
+title: To Be With the Truthful
+slug: to-be-with-the-truthful
+uuid: 7e63c483-6d82-4735-bd19-6a7203f639cf
+description: |
+  An extension of the book "Then I was Guided" by the same author, with
+  the purpose of elaborating with further evidence on the truthfulness of
+  Shia beliefs.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/be-truthful-muhammad-al-tijani-al-samawi/preamble
+  title: Preamble
+  slug: 1-preamble
+  uuid: b64c22d6-4a4c-4e4f-a409-54a4cae00744
+- source: :alislam
+  source_url: http://www.al-islam.org/be-truthful-muhammad-al-tijani-al-samawi/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: a340b045-01ff-4702-b0f7-b27d0fcb3181
+- source: :alislam
+  source_url: http://www.al-islam.org/be-truthful-muhammad-al-tijani-al-samawi/quran-perspective-ahl-al-sunnah-and-shiah
+  title: The Qur’ān in the Perspective of Ahl al-Sunnah and the Shi'ah
+  slug: 3-the-qur-an-in-the-perspective-of-ahl-al-sunnah-and-the-shi-ah
+  uuid: a0fe2089-e29d-4fd6-9f31-247f00b3f6f5
+- source: :alislam
+  source_url: http://www.al-islam.org/be-truthful-muhammad-al-tijani-al-samawi/prophetic-sunnah-perspective-of-ahl-al-sunnah-and-shiah
+  title: The Prophetic Sunnah in the Perspective of Ahl al-Sunnah and Shi‘ah
+  slug: 4-the-prophetic-sunnah-in-the-perspective-of-ahl-al-sunnah-and-shi-ah
+  uuid: ec586411-3247-4ccb-bb3c-81ea5642828f
+- source: :alislam
+  source_url: http://www.al-islam.org/be-truthful-muhammad-al-tijani-al-samawi/doctrines-perspective-shiah-and-ahl-al-sunnah
+  title: Doctrines in the Perspective of Shi'ah and Ahl al-Sunnah
+  slug: 5-doctrines-in-the-perspective-of-shi-ah-and-ahl-al-sunnah
+  uuid: 69de597d-1483-43bd-bd8c-3aa4ab4ec092
+- source: :alislam
+  source_url: http://www.al-islam.org/be-truthful-muhammad-al-tijani-al-samawi/belief-imamate-both-sects
+  title: Belief in Imamate by Both Sects
+  slug: 6-belief-in-imamate-by-both-sects
+  uuid: 07ed9620-ffac-4067-906e-572fbdd2e6d2
+- source: :alislam
+  source_url: http://www.al-islam.org/be-truthful-muhammad-al-tijani-al-samawi/disagreement-about-al-thaqalayn
+  title: Disagreement about al-Thaqalayn
+  slug: 7-disagreement-about-al-thaqalayn
+  uuid: 292aef6a-35cf-4bcc-b74a-1559ed054511
+- source: :alislam
+  source_url: http://www.al-islam.org/be-truthful-muhammad-al-tijani-al-samawi/fate-and-destiny
+  title: Fate and Destiny
+  slug: 8-fate-and-destiny
+  uuid: fbda7800-d448-4d69-81c4-f03d27ba4f07
+- source: :alislam
+  source_url: http://www.al-islam.org/be-truthful-muhammad-al-tijani-al-samawi/al-khums
+  title: Al-Khums (One-fifth)
+  slug: 9-al-khums-one-fifth
+  uuid: a8109435-e922-4e4d-85e5-e8d031918afa
+- source: :alislam
+  source_url: http://www.al-islam.org/be-truthful-muhammad-al-tijani-al-samawi/imitation-taqlid
+  title: Imitation (Taqlid)
+  slug: 10-imitation-taqlid
+  uuid: 07ec16e9-8954-4f6b-838d-01996f00ca63
+- source: :alislam
+  source_url: http://www.al-islam.org/be-truthful-muhammad-al-tijani-al-samawi/doctrines-which-ahl-al-sunnah-revile-shiah
+  title: Doctrines with which Ahl al-Sunnah Revile the Shi‘ah
+  slug: 11-doctrines-with-which-ahl-al-sunnah-revile-the-shi-ah
+  uuid: b6f4cf5f-e1eb-41bd-bf1f-d6081afe171c
+- source: :alislam
+  source_url: http://www.al-islam.org/be-truthful-muhammad-al-tijani-al-samawi/bibliography
+  title: Bibliography
+  slug: 12-bibliography
+  uuid: ef5afcf2-f467-41e8-a584-f2a1b6f6453c
+---

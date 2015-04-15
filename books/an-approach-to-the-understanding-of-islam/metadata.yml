@@ -1,0 +1,26 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/approach-understanding-islam-dr-ali-shariati
+author: Dr. Ali Shariati
+title: An Approach to the Understanding of Islam
+slug: an-approach-to-the-understanding-of-islam
+uuid: 6763b080-2338-4662-aff2-32c5797b31c9
+description: |
+  The transcript of two lectures by Dr. Ali Shariati where he emphasizes
+  the universality of Islam describing how different facets of Islam can
+  be understood by researchers and academics in different fields of study.
+  As an example, he explains that he, being a social scientist, applies
+  his knowledge to understand how the system and rules of Islam apply to
+  society as a whole (as opposed to individuals).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/approach-understanding-islam-dr-ali-shariati/first-nights-lecture
+  title: The First Night's Lecture
+  slug: 1-the-first-night-s-lecture
+  uuid: 051717a9-ef5d-4b0f-8ce2-122cfe3c0e26
+- source: :alislam
+  source_url: http://www.al-islam.org/approach-understanding-islam-dr-ali-shariati/second-nights-lecture
+  title: The Second Night's Lecture
+  slug: 2-the-second-night-s-lecture
+  uuid: 23387a45-eb8f-43c2-aadd-70486c2deee6
+---

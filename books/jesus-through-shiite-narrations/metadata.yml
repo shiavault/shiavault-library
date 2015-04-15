@@ -1,0 +1,136 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim
+author: Mahdi Muntazir Qaim
+publisher: Ansariyan Publications - Qum
+translator: Dr. Muhammad Legenhausen
+title: Jesus through Shiite Narrations
+slug: jesus-through-shiite-narrations
+uuid: c3bb215d-42bf-42ad-a7f5-ee86918131b2
+description: |
+  Categorized collection of hadith (narrations) on Prophet Jesus (a) from
+  the Shia books of Hadith. Topics include: His childhood,
+  characteristics, the disciples, children of Israel, the Gospel,
+  supplications to God among others.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/preface
+  title: Preface
+  slug: 1-preface
+  uuid: ed29a1c6-5146-4e2e-bf96-2d48c753d487
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/sources
+  title: Sources
+  slug: 2-sources
+  uuid: 5f06e86e-6209-4fb1-9f4f-7efee5d3b651
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: 5e29ba7f-69f7-4b20-b38f-88f60cb85580
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/birth-jesus
+  title: The Birth of Jesus
+  slug: 4-the-birth-of-jesus
+  uuid: 96a798e4-ce8e-419c-8344-962b510cdeef
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/childhood-jesus
+  title: The Childhood of Jesus
+  slug: 5-the-childhood-of-jesus
+  uuid: a89bc03d-a789-41a1-9f1f-fde10d58e00c
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/prophethood-jesus
+  title: The Prophethood of Jesus
+  slug: 6-the-prophethood-of-jesus
+  uuid: b4f0ecd8-030b-4e9f-95a5-9b8bb1ad0c79
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/characteristics-jesus
+  title: The Characteristics of Jesus
+  slug: 7-the-characteristics-of-jesus
+  uuid: 031e9cc6-5145-453e-83e6-237cea598372
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/religion-jesus
+  title: The Religion of Jesus
+  slug: 8-the-religion-of-jesus
+  uuid: ecd3347c-3796-4873-bc9d-17e356dbef37
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/successor-jesus
+  title: The Successor of Jesus
+  slug: 9-the-successor-of-jesus
+  uuid: 20b93071-cdda-4859-b1f3-6dae52ab9236
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/disciples-jesus
+  title: The Disciples of Jesus
+  slug: 10-the-disciples-of-jesus
+  uuid: f09ed2f1-03ac-49e6-b26b-e26cadf7861f
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/episode-bell
+  title: The Episode of the Bell
+  slug: 11-the-episode-of-the-bell
+  uuid: 7fec8036-7c8e-4406-98d7-96befced6e6d
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/children-israel
+  title: The Children of Israel
+  slug: 12-the-children-of-israel
+  uuid: d7b7ef90-dc0a-4ab0-b497-92d079f95019
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/his-ascension
+  title: His Ascension
+  slug: 13-his-ascension
+  uuid: 1a085eaf-be16-489c-86c7-ca63ce7a1108
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/his-second-coming
+  title: His Second Coming
+  slug: 14-his-second-coming
+  uuid: dfe91a76-8466-4942-8f68-ab08469caf19
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/resurrection
+  title: On the Resurrection
+  slug: 15-on-the-resurrection
+  uuid: 5696d9b2-5dde-40cf-99f6-fb1aa3f8639e
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/jesus-his-own-words
+  title: Jesus in his own words
+  slug: 16-jesus-in-his-own-words
+  uuid: 5b2ec97b-893b-4652-8895-bafdb85083f9
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/supplications-jesus
+  title: The Supplications of Jesus
+  slug: 17-the-supplications-of-jesus
+  uuid: 935c828c-f965-4195-9ba6-2d5ba4178d53
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/conduct-jesus
+  title: The Conduct of Jesus
+  slug: 18-the-conduct-of-jesus
+  uuid: 72bea6a4-5aff-4c8e-b133-2996d6437322
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/conversations-jesus
+  title: The Conversations of Jesus
+  slug: 19-the-conversations-of-jesus
+  uuid: 7c32f018-932e-4204-b72c-b2f9cc35e827
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/god%E2%80%99s-words-jesus
+  title: God’s Words to Jesus
+  slug: 20-god-s-words-to-jesus
+  uuid: 50d656b2-961a-4a22-9975-2c5714b8a85d
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/preaching-jesus
+  title: The Preaching of Jesus
+  slug: 21-the-preaching-of-jesus
+  uuid: 2cfd2a60-1f2e-43cf-834c-e03d479ca799
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/portion-gospel
+  title: A Portion of the Gospel
+  slug: 22-a-portion-of-the-gospel
+  uuid: 0e3187c3-a73b-4aed-b952-f4431d2e9f4e
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/respect-shown-christians-jesus
+  title: Respect Shown By Christians to Jesus
+  slug: 23-respect-shown-by-christians-to-jesus
+  uuid: a9130276-a502-47af-b983-769dcb7f07b3
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-though-shiite-narrations-mahdi-muntazir-qaim/bibliography
+  title: Bibliography
+  slug: 24-bibliography
+  uuid: 08cc5abf-fc05-4d5c-8860-0d5011a324f7
+---

@@ -1,0 +1,82 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/kumayl-bin-ziyad-kamal-al-sayyid
+author: Kamal al-Syyed
+publisher: Ansariyan Publications - Qum
+title: Kumayl bin Ziyad
+slug: kumayl-bin-ziyad
+uuid: ffef66d4-6d1c-4fd7-8b60-8a50c23214a2
+description: |
+  Biography of the companion of Imam 'Ali (a).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/kumayl-bin-ziyad-kamal-al-sayyid/kumayl-bin-ziyad
+  title: Kumayl bin Ziyad
+  slug: 1-kumayl-bin-ziyad
+  uuid: f7c53768-7053-47be-b691-8a2821bc4add
+- source: :alislam
+  source_url: http://www.al-islam.org/kumayl-bin-ziyad-kamal-al-sayyid/whose-supplication-it
+  title: Whose supplication is it?
+  slug: 2-whose-supplication-is-it
+  uuid: 97617529-4650-437d-a3bb-e78a5c6bbf94
+- source: :alislam
+  source_url: http://www.al-islam.org/kumayl-bin-ziyad-kamal-al-sayyid/beginning
+  title: The Beginning
+  slug: 3-the-beginning
+  uuid: 8f117b1c-a980-4dd7-b93a-d8153b41d9ef
+- source: :alislam
+  source_url: http://www.al-islam.org/kumayl-bin-ziyad-kamal-al-sayyid/al-khidrs-supplication
+  title: Al-Khidr's Supplication
+  slug: 4-al-khidr-s-supplication
+  uuid: 3dbb4617-a49f-4efb-b42f-1d8cdeaa69b6
+- source: :alislam
+  source_url: http://www.al-islam.org/kumayl-bin-ziyad-kamal-al-sayyid/al-hajjaj
+  title: Al Hajjaj
+  slug: 5-al-hajjaj
+  uuid: e021d18d-14f9-40ea-bf79-b6bc6ac655f7
+- source: :alislam
+  source_url: http://www.al-islam.org/kumayl-bin-ziyad-kamal-al-sayyid/revolution
+  title: The Revolution
+  slug: 6-the-revolution
+  uuid: dd67c163-bf89-47c2-9502-5730360a9a1a
+- source: :alislam
+  source_url: http://www.al-islam.org/kumayl-bin-ziyad-kamal-al-sayyid/abid-al-rahman-bin-al-ashath
+  title: Abid al-Rahman bin al-Ashath
+  slug: 7-abid-al-rahman-bin-al-ashath
+  uuid: cf466e40-6bdf-45d6-8a59-974f8537234a
+- source: :alislam
+  source_url: http://www.al-islam.org/kumayl-bin-ziyad-kamal-al-sayyid/fights
+  title: The Fights
+  slug: 8-the-fights
+  uuid: 83129a34-f8a7-4195-a429-356260926a1e
+- source: :alislam
+  source_url: http://www.al-islam.org/kumayl-bin-ziyad-kamal-al-sayyid/battle-deer-al-jamajum
+  title: The Battle of Deer al-Jamajum
+  slug: 9-the-battle-of-deer-al-jamajum
+  uuid: 2fbf1f97-77f5-4afe-8118-9aaa29bbd0ac
+- source: :alislam
+  source_url: http://www.al-islam.org/kumayl-bin-ziyad-kamal-al-sayyid/end
+  title: The End
+  slug: 10-the-end
+  uuid: 2a2a6de1-dcc0-453e-8a00-9e0604e2acbe
+- source: :alislam
+  source_url: http://www.al-islam.org/kumayl-bin-ziyad-kamal-al-sayyid/kumayls-memories
+  title: Kumayl's Memories
+  slug: 11-kumayl-s-memories
+  uuid: 2aacf096-d2d2-4b7c-9dec-ea8594d8c97f
+- source: :alislam
+  source_url: http://www.al-islam.org/kumayl-bin-ziyad-kamal-al-sayyid/why-did-kumayl-surrender
+  title: Why did Kumayl surrender?
+  slug: 12-why-did-kumayl-surrender
+  uuid: af935597-c90e-4011-b472-0e1c683ce1e7
+- source: :alislam
+  source_url: http://www.al-islam.org/kumayl-bin-ziyad-kamal-al-sayyid/al-hajjaj-0
+  title: Before Al-Hajjaj
+  slug: 13-before-al-hajjaj
+  uuid: 62c912c7-2ded-4508-ba5e-5fae3d9a6b74
+- source: :alislam
+  source_url: http://www.al-islam.org/kumayl-bin-ziyad-kamal-al-sayyid/kumayls-shrine
+  title: Kumayl's Shrine
+  slug: 14-kumayl-s-shrine
+  uuid: 538b8474-75aa-4c97-9d3d-aab7fce0bd73
+---

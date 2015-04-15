@@ -1,0 +1,208 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islamic-teachings-book-2
+publisher: Islamic Seminary
+title: Islamic Teachings Book 2
+slug: islamic-teachings-book-2
+uuid: 59e60bae-0336-41f6-8b60-0069abf6b265
+description: |
+  Short lessons for children on different aspects of Islam, including
+  belief in God, the Prophet and the Imams, as well as prayers, morals,
+  and good behavior.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/o-gracious-lord
+  title: O' Gracious Lord
+  slug: 1-o-gracious-lord
+  uuid: 51358614-fe44-474c-ab11-89ca18d892c6
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/importance-education
+  title: Importance of Education
+  slug: 2-importance-of-education
+  uuid: 5b3b326e-ccc1-457a-b7a0-6ab42f04d126
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/faith-allah
+  title: Faith in Allah
+  slug: 3-faith-in-allah
+  uuid: e8bf3d10-2f4f-4b1f-86fa-05a6f911b133
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/childhood-prophet-muhammad-s
+  title: Childhood of Prophet Muhammad (S)
+  slug: 4-childhood-of-prophet-muhammad-s
+  uuid: 7bc48df0-8bea-4a72-9eca-cf2398edd6be
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/prophetic-mission-prophet-muhammad-s
+  title: Prophetic Mission of Prophet Muhammad (S)
+  slug: 5-prophetic-mission-of-prophet-muhammad-s
+  uuid: 7f0e1b3a-4de2-45eb-bef4-9ccfb57c27c2
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/social-etiquette
+  title: Social Etiquette
+  slug: 6-social-etiquette
+  uuid: 7f9d34b8-8631-49b9-8177-57d59d6da147
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/prophet-model-goodness
+  title: Prophet - The Model of Goodness
+  slug: 7-prophet-the-model-of-goodness
+  uuid: 04f44562-daee-4ad0-b18a-e4a480c4c8b2
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/successors-prophet-muhammad-s
+  title: Successors of Prophet Muhammad (S)
+  slug: 8-successors-of-prophet-muhammad-s
+  uuid: 670da435-5ca3-4b87-bf1d-0f511c108371
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/imam-all
+  title: Imam All (A)
+  slug: 9-imam-all-a
+  uuid: 877b18d0-aef0-40d8-ab4e-bb115065977b
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/imam-hasan
+  title: Imam Hasan (A)
+  slug: 10-imam-hasan-a
+  uuid: 41ee852f-8934-4842-b294-6c7d7b75ebbc
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/imam-husayn
+  title: Imam Husayn (A)
+  slug: 11-imam-husayn-a
+  uuid: bedbe9f6-62d8-4b92-b05d-fd0666257392
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/imam-zayn-al-abidin
+  title: Imam Zayn Al-Abidin (A)
+  slug: 12-imam-zayn-al-abidin-a
+  uuid: 1542a7f2-149c-46af-86d5-8261d79aeeef
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/imam-muhammad-al-baqir
+  title: Imam Muhammad Al-Baqir (A)
+  slug: 13-imam-muhammad-al-baqir-a
+  uuid: a889f828-10b1-40da-a6e9-e0caceb84686
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/imam-jafar-al-sadiq
+  title: Imam Ja'far Al-Sadiq (A)
+  slug: 14-imam-ja-far-al-sadiq-a
+  uuid: 93d9d93f-6a26-4116-946b-a2066934141e
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/faith-and-hardwork
+  title: Faith and Hardwork
+  slug: 15-faith-and-hardwork
+  uuid: 329a4983-481e-425e-bdc9-c550c6765325
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/help-yourself
+  title: Help Yourself
+  slug: 16-help-yourself
+  uuid: b40b6c4b-6b02-4071-bb55-8f7b031151f2
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/respect-others
+  title: Respect for Others
+  slug: 17-respect-for-others
+  uuid: 0d0b84ed-0fc3-4850-8dfb-52e8e0ee5ef1
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/need-friends
+  title: Need of Friends
+  slug: 18-need-of-friends
+  uuid: 12e9192b-10ba-43fd-a0be-07c0fa94f641
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/service-humanity
+  title: Service to Humanity
+  slug: 19-service-to-humanity
+  uuid: f51126af-1368-421d-8309-76ae2640f9ff
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/humility
+  title: Humility
+  slug: 20-humility
+  uuid: 82103f6b-3dc3-4025-b08d-5535e0fc22ca
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/secret-successful-life
+  title: The Secret of Successful Life
+  slug: 21-the-secret-of-successful-life
+  uuid: 25a048ed-9075-4f17-8dc4-90c6702943a4
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/sympathy-animals
+  title: Sympathy for Animals
+  slug: 22-sympathy-for-animals
+  uuid: a1a19354-c2f6-466a-af8c-75bacd4d27f3
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/ritual-prayers
+  title: Ritual Prayers
+  slug: 23-ritual-prayers
+  uuid: 76aba2ce-ead7-49c1-872e-41d554b67184
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/allah-praise-worthy
+  title: Allah - The Praise-Worthy
+  slug: 24-allah-the-praise-worthy
+  uuid: 4b50b3d2-7281-4cdc-9608-e8f8e2a02fd2
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/allah-unique
+  title: Allah - The Unique
+  slug: 25-allah-the-unique
+  uuid: 5552f310-3330-40d1-a60d-b18bcb5311a8
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/fasting
+  title: Fasting
+  slug: 26-fasting
+  uuid: 9532a914-ca31-419f-9e7f-77a372e0b99e
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/holy-quran
+  title: The Holy Qur'an
+  slug: 27-the-holy-qur-an
+  uuid: 3e047e70-e3f3-4adb-9d22-b821b724767c
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/allah-merciful
+  title: Allah, the Merciful
+  slug: 28-allah-the-merciful
+  uuid: 2645fb0f-857d-4514-b6da-4cb391860804
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/truthfulness
+  title: Truthfulness
+  slug: 29-truthfulness
+  uuid: a907a7b2-cba3-44b9-9a20-7205a834e384
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/allah-kind
+  title: Allah - The Kind
+  slug: 30-allah-the-kind
+  uuid: dc2ec6e3-68a8-4f90-a947-c7dfee8136bc
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/effort-and-success
+  title: Effort and Success
+  slug: 31-effort-and-success
+  uuid: b3a3bd60-f8b6-40d4-9c42-c5da316a0ae1
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/tyranny-condemned
+  title: Tyranny Is Condemned
+  slug: 32-tyranny-is-condemned
+  uuid: 15c8f557-7d3b-4946-a2db-d3b056896421
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/mutual-cooperation
+  title: Mutual Cooperation
+  slug: 33-mutual-cooperation
+  uuid: 36032c67-566e-4913-b550-8d8913d5b950
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/worship-and-good-behaviour
+  title: Worship and Good Behaviour
+  slug: 34-worship-and-good-behaviour
+  uuid: a82f7648-83bb-4cf1-bf3c-011ee48cc19d
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/reward-goodness
+  title: Reward for Goodness
+  slug: 35-reward-for-goodness
+  uuid: 01f95b8c-2fee-48d1-b4cc-40224f0db7cf
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/dont-ridicule-others
+  title: Don't Ridicule Others
+  slug: 36-don-t-ridicule-others
+  uuid: 6763b907-0f99-4024-8f3f-1654bdaad556
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/divine-help
+  title: Divine Help
+  slug: 37-divine-help
+  uuid: 259b3f51-723d-4925-87a5-8c482a9ecef6
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/sayings-prophet-muhammad-s
+  title: Sayings of Prophet Muhammad (S)
+  slug: 38-sayings-of-prophet-muhammad-s
+  uuid: acd978f0-e449-493d-876a-68bede694e5e
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-book-2/glossary
+  title: GLOSSARY
+  slug: 39-glossary
+  uuid: 22feb46a-4d11-4b5e-bf5b-bac2a511ab3f
+---

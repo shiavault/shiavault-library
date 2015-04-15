@@ -1,0 +1,44 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/knowing-god-sayyid-mujtaba-musavi-lari
+author: Sayyid Mujtaba Musavi Lari
+publisher: Foundation of Islamic Cultural Propagation in the World
+translator: F.J. Goulding
+title: Knowing God
+slug: knowing-god
+uuid: ee838f21-078c-41dd-aeaf-c75f7121ecc0
+description: |
+  Perfection of faith, seeking God, God and reason, acceptance of the
+  unseen, and materialism.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/knowing-god-sayyid-mujtaba-musavi-lari/about-author
+  title: About the Author
+  slug: 1-about-the-author
+  uuid: 82f62e7b-8d5d-4f87-9383-489cfb981b8a
+- source: :alislam
+  source_url: http://www.al-islam.org/knowing-god-sayyid-mujtaba-musavi-lari/perfecting-mans-faith-and-conviction
+  title: Perfecting Man's Faith and Conviction 
+  slug: 2-perfecting-man-s-faith-and-conviction
+  uuid: 8b8303b4-14fb-4ebd-a8af-f64780686a5e
+- source: :alislam
+  source_url: http://www.al-islam.org/knowing-god-sayyid-mujtaba-musavi-lari/seeking-god-essence
+  title: Seeking God is of the Essence
+  slug: 3-seeking-god-is-of-the-essence
+  uuid: f50b2b51-7a37-4d56-9bb1-ffec6660dd94
+- source: :alislam
+  source_url: http://www.al-islam.org/knowing-god-sayyid-mujtaba-musavi-lari/god-and-reasoning-experimental-science
+  title: God and the Reasoning of the Experimental Science
+  slug: 4-god-and-the-reasoning-of-the-experimental-science
+  uuid: 9a8f2b6a-8da4-4130-8527-6f1f98713c73
+- source: :alislam
+  source_url: http://www.al-islam.org/knowing-god-sayyid-mujtaba-musavi-lari/acceptance-unseen-existence-involves-other-realities-beside
+  title: Acceptance of Unseen Existence involves other realities beside God
+  slug: 5-acceptance-of-unseen-existence-involves-other-realities-beside-god
+  uuid: 0e1381cc-250a-4ece-88b4-d0da83517766
+- source: :alislam
+  source_url: http://www.al-islam.org/knowing-god-sayyid-mujtaba-musavi-lari/factors-spread-materialism
+  title: Factors in the Spread of Materialism
+  slug: 6-factors-in-the-spread-of-materialism
+  uuid: f1ff7d77-247c-4c0c-8b96-38057f35ba1d
+---

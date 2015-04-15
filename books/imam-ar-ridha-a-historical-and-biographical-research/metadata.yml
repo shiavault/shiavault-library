@@ -1,0 +1,109 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/imam-ar-ridha-a-historical-and-biographical-research-muhammad-jawad-fadlallah
+author: Muhammad Jawad Fadlallah
+translator: Yasin T. Al-Jibouri
+title: Imam ar-Ridha’, A Historical and Biographical Research
+slug: imam-ar-ridha-a-historical-and-biographical-research
+uuid: 98717cb5-eff5-49dd-a714-71a4145ba59d
+description: |
+  Biography of the 8th Imam (a), his characteristics, role, activities,
+  works, counsels and select traditions (hadith). English translation of
+  original Arabic by Yasin T. Jibouri.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ar-ridha-a-historical-and-biographical-research-muhammad-jawad-fadlallah/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: bd00456d-a6f1-4187-a04e-9b2663e3a12a
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ar-ridha-a-historical-and-biographical-research-muhammad-jawad-fadlallah/preface-our-belief-ahl
+  title: 'Preface: Our Belief in Ahl al-Bayt (a.s.)'
+  slug: 2-preface-our-belief-in-ahl-al-bayt-a-s
+  uuid: ced2b69e-03d7-424c-93da-e912aebe00e4
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ar-ridha-a-historical-and-biographical-research-muhammad-jawad-fadlallah/historical-aspect
+  title: Historical Aspect of the Imam's Biography
+  slug: 3-historical-aspect-of-the-imam-s-biography
+  uuid: ac97a4ce-3a15-4575-8ea5-31c1c605c367
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ar-ridha-a-historical-and-biographical-research-muhammad-jawad-fadlallah/his-distinctions-and
+  title: His Distinctions and Characteristics
+  slug: 4-his-distinctions-and-characteristics
+  uuid: 646df72c-72da-4156-a129-480ae82527b9
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ar-ridha-a-historical-and-biographical-research-muhammad-jawad-fadlallah/imam-and-waqfis
+  title: Imam and the Waqfis
+  slug: 5-imam-and-the-waqfis
+  uuid: 3b0057bc-21a4-43fb-b386-8ca134ad2fa0
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ar-ridha-a-historical-and-biographical-research-muhammad-jawad-fadlallah/imam-and-caliphs
+  title: Imam and the 'Caliphs'
+  slug: 6-imam-and-the-caliphs
+  uuid: 0219b30e-0c5d-41e6-9873-7d2c7893e61d
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ar-ridha-a-historical-and-biographical-research-muhammad-jawad-fadlallah/regency
+  title: The Regency
+  slug: 7-the-regency
+  uuid: 96f05ef2-e55d-4593-ac73-26dee2665a92
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ar-ridha-a-historical-and-biographical-research-muhammad-jawad-fadlallah/imams-role-eliminating
+  title: Imam's Role in Eliminating al-Fadl ibn Sahl
+  slug: 8-imam-s-role-in-eliminating-al-fadl-ibn-sahl
+  uuid: 6a50714a-ce7b-49c5-8d2c-368d9be7b9b3
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ar-ridha-a-historical-and-biographical-research-muhammad-jawad-fadlallah/tragic-ending
+  title: The Tragic Ending
+  slug: 9-the-tragic-ending
+  uuid: 35e2f6e7-4c24-487d-9b22-dd564d042eea
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ar-ridha-a-historical-and-biographical-research-muhammad-jawad-fadlallah/imam-and-alawide
+  title: Imam and Alawide Revolts
+  slug: 10-imam-and-alawide-revolts
+  uuid: d4cda613-c6c6-43e3-a255-6f70209995fc
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ar-ridha-a-historical-and-biographical-research-muhammad-jawad-fadlallah/intellectual-aspects
+  title: Intellectual aspects of the Imam's life
+  slug: 11-intellectual-aspects-of-the-imam-s-life
+  uuid: 9fcf6aa4-11e2-42bd-93ba-d177f367ed81
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ar-ridha-a-historical-and-biographical-research-muhammad-jawad-fadlallah/his-works
+  title: His Works
+  slug: 12-his-works
+  uuid: 13061d73-007c-487e-a44a-1633434d5b67
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ar-ridha-a-historical-and-biographical-research-muhammad-jawad-fadlallah/altercations
+  title: Altercations
+  slug: 13-altercations
+  uuid: fbd054bd-2b57-4650-8173-f6b6cd62e76d
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ar-ridha-a-historical-and-biographical-research-muhammad-jawad-fadlallah/basic-beliefs
+  title: Basic Beliefs
+  slug: 14-basic-beliefs
+  uuid: 37e2c996-9928-40ed-8d2d-0285d888b6ee
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ar-ridha-a-historical-and-biographical-research-muhammad-jawad-fadlallah/approach-adopted-ahl
+  title: The Approach Adopted by Ahl al-Bayt
+  slug: 15-the-approach-adopted-by-ahl-al-bayt
+  uuid: 1bb3cd6a-6270-45a3-9147-91f3ea468c20
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ar-ridha-a-historical-and-biographical-research-muhammad-jawad-fadlallah/exegesis
+  title: Exegesis
+  slug: 16-exegesis
+  uuid: 52eaf057-efa1-42c5-b379-70bfc2fa8936
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ar-ridha-a-historical-and-biographical-research-muhammad-jawad-fadlallah/sharia-islamic
+  title: Shari'a (Islamic Legislative System)
+  slug: 17-shari-a-islamic-legislative-system
+  uuid: fdee916d-67db-40e2-b4c4-3acd9dbd320f
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ar-ridha-a-historical-and-biographical-research-muhammad-jawad-fadlallah/imam-ar-ridha%E2%80%99-ass
+  title: Imam ar-Ridha’ (a.s.)'s Hadith Regarding Legislation
+  slug: 18-imam-ar-ridha-a-s-s-hadith-regarding-legislation
+  uuid: d68e2bc7-a3de-444a-9e73-d22b5e8da8b1
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ar-ridha-a-historical-and-biographical-research-muhammad-jawad-fadlallah/supplement-regency
+  title: 'Supplement: Regency Document'
+  slug: 19-supplement-regency-document
+  uuid: 72a2e3e1-e85e-4b43-85d8-7b06ae093267
+---

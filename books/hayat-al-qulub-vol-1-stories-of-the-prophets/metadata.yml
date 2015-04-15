@@ -1,0 +1,213 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi
+author: Allamah Muhammad Baqir Al-Majlisi
+publisher: Ansariyan Publications - Qum
+translator: Sayyid Athar Husayn S. H. Rizvi
+title: Hayat Al-Qulub, Vol. 1, Stories of the Prophets
+slug: hayat-al-qulub-vol-1-stories-of-the-prophets
+uuid: f920d7c7-662e-4a88-b172-6e1529b08819
+description: |
+  This is the first volume of the three volume series by Allamah
+  Al-Majlisi, titled Hayat al-Qulub (Life of the Hearts). This first
+  volume is a collection of the details of the life and circumstances of
+  all the Prophets (prior to Prophet Muhammad [s]) that we have access to
+  through either the Qur'an or hadiths.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/translators-preface
+  title: Translator's Preface
+  slug: 1-translator-s-preface
+  uuid: e32f1b6b-2e54-4372-be6d-057b34446ca0
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/aim-sending-prophets-their-miracles
+  title: Aim of sending the Prophets; their miracles
+  slug: 2-aim-of-sending-the-prophets-their-miracles
+  uuid: faaa87e5-595a-4db9-a55b-0cf1fec7779b
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/merits-adam-and-hawwa
+  title: Merits of Adam and Hawwa’ (Eve), Reasons behind naming them so, the beginning
+    of creation
+  slug: 3-merits-of-adam-and-hawwa-eve-reasons-behind-naming-them-so-the-beginning-of-creation
+  uuid: f8d4f707-9030-4e53-8921-8ec4b4905db2
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-idris
+  title: An Account of Idris
+  slug: 4-an-account-of-idris
+  uuid: 6ca89b62-74d8-4546-a410-ece6b0791fc9
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-nuh
+  title: An Account of Nuh
+  slug: 5-an-account-of-nuh
+  uuid: 22cf065c-8eb8-4f67-96d1-52ee3ded77d4
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/circumstances-hud-and-his-people
+  title: Circumstances of Hud and his people
+  slug: 6-circumstances-of-hud-and-his-people
+  uuid: ddc732c6-3c63-4989-b0a6-bc800bfef53c
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/salih-his-she-camel-and-his-people
+  title: Salih, his she-camel and his people
+  slug: 7-salih-his-she-camel-and-his-people
+  uuid: 3c8c4bb7-4d25-482b-b59e-b4c8fed7d15b
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-ibrahim-and-his-righteous-sons
+  title: An Account of Ibrahim and his righteous sons
+  slug: 8-an-account-of-ibrahim-and-his-righteous-sons
+  uuid: 00a2bb06-a2fc-489f-9192-e326cd54e276
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-lut
+  title: An Account of Lut
+  slug: 9-an-account-of-lut
+  uuid: 1898c075-4c9c-4f27-b111-ca23a30f9cca
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-dhul-qarnayn
+  title: An Account of Dhu’l-Qarnayn
+  slug: 10-an-account-of-dhu-l-qarnayn
+  uuid: 2bae2bf5-be6f-4c2b-8145-41c583fa8d1d
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-yaqub-and-yusuf
+  title: An account of Ya‘qub and Yusuf
+  slug: 11-an-account-of-ya-qub-and-yusuf
+  uuid: 1ab8bc7d-0837-441a-b2fa-fd80fd813ff5
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-ayyub
+  title: An account of Ayyub
+  slug: 12-an-account-of-ayyub
+  uuid: 6016ed7d-fbea-43fc-86bd-555d872ef920
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/prophet-shuayb
+  title: Prophet Shu‘ayb
+  slug: 13-prophet-shu-ayb
+  uuid: bbf60575-0e8f-42b6-b377-9d0fdd40251c
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-musa-and-harun
+  title: An Account of Musa and Harun
+  slug: 14-an-account-of-musa-and-harun
+  uuid: 94a978b9-073b-41a8-b0e0-1646f65c56ee
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-hizqil
+  title: An account of Hizqil
+  slug: 15-an-account-of-hizqil
+  uuid: 40879118-bf9f-4da4-9618-c8b7e25575f8
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/prophet-ismail
+  title: Prophet Isma‘il
+  slug: 16-prophet-isma-il
+  uuid: 722047c3-be02-43b2-8073-65f9809b17e0
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/brief-sketch-ilyas-and-yusha
+  title: A Brief Sketch of Ilyas and Yusha‘
+  slug: 17-a-brief-sketch-of-ilyas-and-yusha
+  uuid: 4e71d8d0-a92a-4d1c-9748-9fc735c1173f
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-dhulkifl
+  title: An account of Dhulkifl
+  slug: 18-an-account-of-dhulkifl
+  uuid: b6eb68a9-1cf0-427d-a6e0-34db9fdb7c03
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-luqman-and-his-words-wisdom
+  title: An account of Luqman and his words of wisdom
+  slug: 19-an-account-of-luqman-and-his-words-of-wisdom
+  uuid: 175b0ad4-580c-418b-8470-50dd90d4dd14
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-ishmaeil-talut-and-jalut
+  title: An account of Ishmae’il, Talut and Jalut
+  slug: 20-an-account-of-ishmae-il-talut-and-jalut
+  uuid: 686dab12-343c-46ba-9aa3-2591c4b4cc31
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-dawud
+  title: An account of Dawud
+  slug: 21-an-account-of-dawud
+  uuid: ddea6c3c-0137-494f-b1fb-4d480daa3c5b
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/brief-sketch-violators-sabbath
+  title: A Brief Sketch of The Violators of the Sabbath
+  slug: 22-a-brief-sketch-of-the-violators-of-the-sabbath
+  uuid: 8320177b-cc32-46ad-b8bc-5e25ff44765f
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-sulayman
+  title: An account of Sulayman
+  slug: 23-an-account-of-sulayman
+  uuid: c123da64-3230-4613-a2e5-11798bc64fa8
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-people-saba-and-people-tharthaar
+  title: An account of the People of Saba And People of Tharthaar
+  slug: 24-an-account-of-the-people-of-saba-and-people-of-tharthaar
+  uuid: c98f425c-dac2-4480-a6a3-cfd2bcf65adb
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-people-ras
+  title: An account of the people of Ras
+  slug: 25-an-account-of-the-people-of-ras
+  uuid: 7e11c4fd-fafd-45d1-be91-29148097a27d
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-shaiya-and-haiqooq
+  title: An Account of Shaiya and Haiqooq
+  slug: 26-an-account-of-shaiya-and-haiqooq
+  uuid: 60c2b0fd-73f6-4eee-9b90-b5729eb43570
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-zakariyya-and-yahya
+  title: An account of Zakariyya and Yahya
+  slug: 27-an-account-of-zakariyya-and-yahya
+  uuid: 038f0a0d-4a09-4ae6-bf68-7732652eb143
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-maryam-mother-isa
+  title: An account of Maryam, the mother of ‘Isa
+  slug: 28-an-account-of-maryam-the-mother-of-isa
+  uuid: fc210e97-0425-41db-94ef-6efc83feccef
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-isa-ibn-maryam
+  title: An account of ‘Isa ibn Maryam
+  slug: 29-an-account-of-isa-ibn-maryam
+  uuid: 06655eba-8547-43fe-9b9d-0b7426f0d36d
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-irmiya-jeremiah-daniel-and-uzair
+  title: An account of Irmiya (Jeremiah), Daniel and Uzair
+  slug: 30-an-account-of-irmiya-jeremiah-daniel-and-uzair
+  uuid: a6eca493-71c3-410b-a9b5-18ef1ac04e20
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-yunus-ibn-matta-and-his-respected
+  title: An account of Yunus ibn Matta and his respected father
+  slug: 31-an-account-of-yunus-ibn-matta-and-his-respected-father
+  uuid: 21a35361-4c1a-42d7-acb5-6e2fd6266886
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-people-cave-and-inscription
+  title: An account of the people of the cave and Inscription
+  slug: 32-an-account-of-the-people-of-the-cave-and-inscription
+  uuid: beb83123-e263-432d-a7d8-fee8a50e0c53
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-makers-pit
+  title: An Account Of The Makers Of The Pit
+  slug: 33-an-account-of-the-makers-of-the-pit
+  uuid: 9d1ee7e0-9862-46f3-a544-9d023d4c316f
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-jirjis
+  title: An account of Jirjis
+  slug: 34-an-account-of-jirjis
+  uuid: a1acae01-9f25-4790-85c9-97ca5bab0e3d
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-khalid-bin-sinan
+  title: An account of Khalid bin Sinan
+  slug: 35-an-account-of-khalid-bin-sinan
+  uuid: dd5b5d5e-dac5-4a19-b2d7-61b5c13a1e31
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/accounts-some-unnamed-messengers
+  title: Accounts of Some Unnamed Messengers
+  slug: 36-accounts-of-some-unnamed-messengers
+  uuid: ecda136a-b047-4a51-a28e-631d6780e49a
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/stories-sages-and-pious-personalities
+  title: Stories of the sages and pious personalities of The Israelites
+  slug: 37-stories-of-the-sages-and-pious-personalities-of-the-israelites
+  uuid: 09a96b28-f8db-472d-91a9-6e72219da62e
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/accounts-rulers-and-kings
+  title: Accounts of Rulers and Kings
+  slug: 38-accounts-of-rulers-and-kings
+  uuid: 644c2dbd-181e-45e3-a7b1-c97f02880856
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-1-allamah-muhammad-baqir-al-majlisi/account-harut-and-marut
+  title: An Account of Harut and Marut
+  slug: 39-an-account-of-harut-and-marut
+  uuid: 410abfe5-46fd-44b5-acdc-921c2dfd2c28
+---

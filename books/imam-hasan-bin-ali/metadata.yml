@@ -1,0 +1,97 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/imam-hasan-bin-ali-al-balagh
+author: N/A
+publisher: Al Balagh Foundation
+title: Imam Hasan bin Ali
+slug: imam-hasan-bin-ali
+uuid: b3d7a41a-a724-475a-ac23-59c4f71ca788
+description: |
+  Biography and character of the 2nd Imam (a).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-hasan-bin-ali-al-balagh/publishers-word
+  title: Publisher's Word
+  slug: 1-publisher-s-word
+  uuid: 4aeeb947-3f82-484c-b5af-b314533da2e5
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-hasan-bin-ali-al-balagh/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 507b0f82-884a-432c-beca-6b5c1cf6c69d
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-hasan-bin-ali-al-balagh/glorious-house
+  title: Glorious House
+  slug: 3-glorious-house
+  uuid: 6ca16d3f-babb-4f9a-80ae-f36220d2fe9a
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-hasan-bin-ali-al-balagh/what-baby
+  title: What A Baby!
+  slug: 4-what-a-baby
+  uuid: b1a3e227-d19d-48a2-8a81-1ea572b7bd3f
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-hasan-bin-ali-al-balagh/prophets-grandson-book-and-sunnah
+  title: Prophet's Grandson In The Book And Sunnah
+  slug: 5-prophet-s-grandson-in-the-book-and-sunnah
+  uuid: 34f1f9e2-5ab0-4a83-8731-30edb4ef9070
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-hasan-bin-ali-al-balagh/imam-hasans-character
+  title: Imam Hasan's Character
+  slug: 6-imam-hasan-s-character
+  uuid: 1b671dfd-4428-4937-b39a-b92160bd31b3
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-hasan-bin-ali-al-balagh/spiritual-side
+  title: Spiritual Side
+  slug: 7-spiritual-side
+  uuid: 2419ee08-6350-4117-8a0e-291a0885aaea
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-hasan-bin-ali-al-balagh/scientific-side
+  title: Scientific Side
+  slug: 8-scientific-side
+  uuid: 92c06d02-277e-4288-9dc1-87abae5d2787
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-hasan-bin-ali-al-balagh/ethical-side
+  title: Ethical Side
+  slug: 9-ethical-side
+  uuid: 65c983c5-3f6e-4f35-9045-a11797b999c9
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-hasan-bin-ali-al-balagh/his-modesty
+  title: His Modesty
+  slug: 10-his-modesty
+  uuid: 4aa86794-cb90-47ed-884c-871de28dc41d
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-hasan-bin-ali-al-balagh/his-kindness-wrongdoers
+  title: His Kindness To The Wrongdoers
+  slug: 11-his-kindness-to-the-wrongdoers
+  uuid: 20323132-14ec-48ce-a50b-a16ca8387950
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-hasan-bin-ali-al-balagh/his-generosity
+  title: His Generosity
+  slug: 12-his-generosity
+  uuid: f93a7ba7-8375-44f8-9bd6-9cc2f6e1b357
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-hasan-bin-ali-al-balagh/imam-hasans-role-islamic-life
+  title: Imam Hasan's Role In Islamic Life
+  slug: 13-imam-hasan-s-role-in-islamic-life
+  uuid: 0f6d4665-7c2c-4f79-ad5f-db460ff1a065
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-hasan-bin-ali-al-balagh/stage-one-during-his-fathers-lifetime
+  title: 'Stage One: During His Father''s Lifetime'
+  slug: 14-stage-one-during-his-father-s-lifetime
+  uuid: 76eff614-d729-4afb-af1d-635b53cb21e5
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-hasan-bin-ali-al-balagh/stage-two-during-his-imamate
+  title: 'Stage Two: During His Imamate'
+  slug: 15-stage-two-during-his-imamate
+  uuid: 6f2d317a-0d0d-4c7c-af50-8ca62139425c
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-hasan-bin-ali-al-balagh/justifications-treaty-muawiyah-and-its-terms
+  title: Justifications Of The Treaty With Mu'awiyah And Its Terms
+  slug: 16-justifications-of-the-treaty-with-mu-awiyah-and-its-terms
+  uuid: 36dc9c97-22fb-454d-8d05-408405b673f5
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-hasan-bin-ali-al-balagh/post-treaty-era
+  title: Post-Treaty Era
+  slug: 17-post-treaty-era
+  uuid: d3d5cfaf-268a-444a-b587-8ba03a3fda1d
+---

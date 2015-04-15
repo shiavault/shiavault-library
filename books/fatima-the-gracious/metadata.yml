@@ -1,0 +1,246 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni
+author: Abu Muhammad Ordoni
+publisher: Ansariyan Publications - Qum
+title: Fatima The Gracious
+slug: fatima-the-gracious
+uuid: 4fc98fa7-0fd1-418a-bd03-d5e0e843fbed
+description: |
+  Biography of Lady Fatima (a), the daughter of the Prophet (s), her
+  titles, family life, the birth of her children, verses of the Qur'an
+  revealed in her favour, the event of the cloak, love of the Prophet (s)
+  towards her, her dispute with Abu Bakr after his (s) demise, her
+  knowledge and piety, and her death and its circumstances.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/preface
+  title: Preface
+  slug: 1-preface
+  uuid: f06258b3-5e1e-4275-b4ff-42ebfacf61b2
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 11d6d7ef-1f92-443d-9813-6ebef7c64c11
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/chapter-1-law-inheritance
+  title: 'Chapter 1: The Law of Inheritance'
+  slug: 3-chapter-1-the-law-of-inheritance
+  uuid: b3ab6821-4ead-4d59-a43c-2e347ef32fab
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/chapter-2-prophets-marriage
+  title: 'Chapter 2: The Prophet''s Marriage'
+  slug: 4-chapter-2-the-prophet-s-marriage
+  uuid: 21bb94f4-9d51-4901-8ba8-8f78d99f44a7
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/chapter-3-way-blessed-life
+  title: 'Chapter 3: On the Way to a Blessed Life'
+  slug: 5-chapter-3-on-the-way-to-a-blessed-life
+  uuid: 0d2f3b63-7dfe-448d-8d9a-44f7b54b107b
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/chapter-4-transcendental-events
+  title: 'Chapter 4: Transcendental Events'
+  slug: 6-chapter-4-transcendental-events
+  uuid: 6ab00e0d-0267-4527-bfa3-9f9059add733
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/chapter-5-fatima-az-zahras-birth
+  title: 'Chapter 5: Fatima az-Zahra''s Birth'
+  slug: 7-chapter-5-fatima-az-zahra-s-birth
+  uuid: ba9eb5df-b2db-4fd3-9b33-14131bcd52c0
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/chapter-6-naming-fatima-az-zahra-sa
+  title: 'Chapter 6: Naming Fatima az-Zahra (sa)'
+  slug: 8-chapter-6-naming-fatima-az-zahra-sa
+  uuid: ead49954-f7a5-46d9-9014-f3580e2d9c57
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/chapter-7-fatima-az-zahra-sa
+  title: 'Chapter 7: Fatima az-Zahra (sa)'
+  slug: 9-chapter-7-fatima-az-zahra-sa
+  uuid: ba1fa35f-e938-4dfb-b814-bb13634bb7c1
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/chapter-8-al-siddiqah
+  title: 'Chapter 8: Al-Siddiqah'
+  slug: 10-chapter-8-al-siddiqah
+  uuid: 8cbd8754-252f-4422-9c65-0653b2a26ca8
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/chapter-9-al-mubarakah
+  title: 'Chapter 9: Al-Mubarakah'
+  slug: 11-chapter-9-al-mubarakah
+  uuid: 797e5fa7-5fe8-49ee-bb1b-599ab3fec539
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/chapter-10-taherah
+  title: 'Chapter 10: At-Taherah'
+  slug: 12-chapter-10-at-taherah
+  uuid: 41094290-acdc-4e5d-955f-d310b47aab52
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/chapter-11-event-cloak
+  title: 'Chapter 11: The Event of Cloak'
+  slug: 13-chapter-11-the-event-of-cloak
+  uuid: ecb77221-4ba8-456c-92ad-aebc491a9ff0
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/chapter-12-az-zakiyyah
+  title: 'Chapter 12: Az-Zakiyyah'
+  slug: 14-chapter-12-az-zakiyyah
+  uuid: 51c41585-81ee-48f5-847d-e751df9b9341
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/chapter-13-ar-radhiah
+  title: 'Chapter 13: Ar-Radhiah'
+  slug: 15-chapter-13-ar-radhiah
+  uuid: 6af9a9f5-500d-4353-8ca3-c071aecaf1dd
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/chapter-14-al-mardhiyah
+  title: 'Chapter 14: Al-Mardhiyah'
+  slug: 16-chapter-14-al-mardhiyah
+  uuid: f0e74fc0-5ef5-46b9-9a9f-93a76a090d6d
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/chapter-15-al-muhaddathah
+  title: 'Chapter 15: Al-Muhaddathah'
+  slug: 17-chapter-15-al-muhaddathah
+  uuid: c78a4c5c-463a-4ab5-8c3a-63aab2b1f825
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/chapter-16-az-zahra
+  title: 'Chapter 16:  Az-Zahra'
+  slug: 18-chapter-16-az-zahra
+  uuid: c2804028-d619-45fc-9c28-d481f3ab5e16
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/chapter-17-al-batoul
+  title: 'Chapter 17: Al-Batoul'
+  slug: 19-chapter-17-al-batoul
+  uuid: bef59823-9880-4df0-b79c-f04195345be6
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/chapter-18-al-adhra
+  title: 'Chapter 18: Al-Adhra'
+  slug: 20-chapter-18-al-adhra
+  uuid: 8a81c01b-3c4f-48d8-a455-8c973b65c95d
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/fatima%E2%80%99s-sa-dowry
+  title: Fatima’s (sa) Dowry
+  slug: 21-fatima-s-sa-dowry
+  uuid: 196b5dcd-0330-404a-8a08-ac5c4a931c54
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/preparations-wedding
+  title: Preparations for The Wedding
+  slug: 22-preparations-for-the-wedding
+  uuid: 51d5d07f-51eb-448d-af95-365249e98e73
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/year-fatimas-marriage
+  title: The Year of Fatima's Marriage
+  slug: 23-the-year-of-fatima-s-marriage
+  uuid: e0283e26-9c1e-4253-ad3c-84eff02c9a4c
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/fatimas-house
+  title: Fatima's House
+  slug: 24-fatima-s-house
+  uuid: d682b24f-1cad-4374-a1b2-b4c8a29d9243
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/fatima-s-marital-life
+  title: Fatima 's (as) Marital Life
+  slug: 25-fatima-s-as-marital-life
+  uuid: ddec353c-13ec-456c-8b2d-f9919706abcf
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/historical-distortions-regarding-%E2%80%98alis-right
+  title: Historical Distortions Regarding ‘Ali's (as) Right
+  slug: 26-historical-distortions-regarding-ali-s-as-right
+  uuid: aa2a9fff-a392-4e51-97f4-8e75ac4da8e8
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/imam-hasan-born
+  title: Imam Hasan (as) is Born
+  slug: 27-imam-hasan-as-is-born
+  uuid: 986f48d6-fc01-407f-969a-eb35ca6d16f0
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/birth-imam-husayn
+  title: The Birth of Imam Husayn (as)
+  slug: 28-the-birth-of-imam-husayn-as
+  uuid: 5049738d-d2ac-407c-8ef6-49bb8b7c18f9
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/birth-lady-zainab
+  title: The Birth of Lady Zainab (as)
+  slug: 29-the-birth-of-lady-zainab-as
+  uuid: 65379f7b-3cb1-45a9-86ad-c20546a230e0
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/lady-umm-kulthum
+  title: Lady Umm Kulthum
+  slug: 30-lady-umm-kulthum
+  uuid: 29e5fce6-8562-4d54-8211-33f4d0e0f5ea
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/fatima-az-zahra-sa-verse-relationship
+  title: Fatima az-Zahra (sa) in the Verse of Relationship
+  slug: 31-fatima-az-zahra-sa-in-the-verse-of-relationship
+  uuid: d45f6cc5-ca6f-4757-8046-0311fab6819a
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/fatima-az-zahra-sa-verse-mubahala
+  title: Fatima az-Zahra (sa) in the Verse of Mubahala
+  slug: 32-fatima-az-zahra-sa-in-the-verse-of-mubahala
+  uuid: fe038ae3-471e-449c-8080-8f36a4165f80
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/fatima-az-zahra-sa-surah-al-insan-76
+  title: Fatima az-Zahra (sa) in Surah Al-Insan (76)
+  slug: 33-fatima-az-zahra-sa-in-surah-al-insan-76
+  uuid: e5c5abc0-c474-41e3-b09e-1cdc12c51513
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/spending-path-allah
+  title: Spending in The Path of Allah
+  slug: 34-spending-in-the-path-of-allah
+  uuid: 4455174f-af90-49b7-a9c6-c962a0c7d5d8
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/fatima%E2%80%99s-sa-glorification-allah-swt
+  title: Fatima’s (sa) Glorification of Allah (SwT)
+  slug: 35-fatima-s-sa-glorification-of-allah-swt
+  uuid: 8bb79320-593f-4b97-871a-11f5b2b910dd
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/prophets-love-fatima-az-zahra-sa
+  title: The Prophet's (as) Love for Fatima az-Zahra (sa)
+  slug: 36-the-prophet-s-as-love-for-fatima-az-zahra-sa
+  uuid: 1385d29f-8ad4-405a-840b-ed2e171912d7
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/fatima%E2%80%99s-sa-knowledge
+  title: Fatima’s (sa) Knowledge
+  slug: 37-fatima-s-sa-knowledge
+  uuid: 8dfa85cb-9824-4c19-80a3-5e93bf61718d
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/islamic-dress-social-necessity
+  title: Islamic Dress, a Social Necessity
+  slug: 38-islamic-dress-a-social-necessity
+  uuid: 14c5be2f-fa2d-4bd9-9ac3-a57680830330
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/allahs-messenger-reveals-fatima%E2%80%99s-sa-future
+  title: Allah's Messenger (as) Reveals Fatima’s (sa) Future
+  slug: 39-allah-s-messenger-as-reveals-fatima-s-sa-future
+  uuid: d50210c2-082a-4c59-b35a-01abe00ab696
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/prophet-muhammed%E2%80%99s-death
+  title: The Prophet Muhammed’s (as) Death
+  slug: 40-the-prophet-muhammed-s-as-death
+  uuid: 8ec49700-2973-4816-b12e-2ee47e1a63b0
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/after-prophets-death
+  title: After The Prophet's (as) Death
+  slug: 41-after-the-prophet-s-as-death
+  uuid: 32fcf5f4-904b-4e39-a27c-38ae52c818b9
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/following-%E2%80%98ali-mosque
+  title: Following ‘Ali (as) to The Mosque
+  slug: 42-following-ali-as-to-the-mosque
+  uuid: 02fd9fd2-6bc7-47bb-b3e2-5168f7d13f15
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/abu-bakr-versus-fatima-az-zahra-sa
+  title: Abu Bakr Versus Fatima az-Zahra (sa)
+  slug: 43-abu-bakr-versus-fatima-az-zahra-sa
+  uuid: e5e66828-d60c-4cd2-bb40-ae03caf3bcc7
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/house-grief
+  title: The House of Grief
+  slug: 44-the-house-of-grief
+  uuid: 0ace6ee4-5cdc-4322-9543-2f1e8fe5218d
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/lady-fatima-zahra-sa-last-day
+  title: Lady Fatima Zahra (sa) on The Last Day
+  slug: 45-lady-fatima-zahra-sa-on-the-last-day
+  uuid: 74f2badc-877b-4259-b388-0e704454cd52
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-the-gracious-abu-muhammad-ordoni/brief-bibliography
+  title: Brief Bibliography
+  slug: 46-brief-bibliography
+  uuid: ef157022-b67c-4d9a-9c02-c8cbae98605f
+---

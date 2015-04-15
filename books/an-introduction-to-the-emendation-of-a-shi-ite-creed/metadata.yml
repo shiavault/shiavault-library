@@ -1,0 +1,66 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/introduction-emendation-shiite-creed-muhammad-rida-jafari
+author: Muhammad Rida Ja‘fari
+publisher: World Organization for Islamic Services (WOFIS)
+title: An Introduction to the Emendation of A Shi‘ite Creed
+slug: an-introduction-to-the-emendation-of-a-shi-ite-creed
+uuid: 7e7823eb-ca6b-4b1f-809f-61e2bb131c39
+description: |
+  This text is an introduction to the Book Tashihu 'l-I‘tiqad of Abu
+  ‘Abdillah, Muhammad ibn Muhammad ibn Nu‘man, Known as ash-Shaykh
+  al-Mufid. (336/948 or 338/950 – 413/1022)
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-emendation-shiite-creed-muhammad-rida-jafari/publishers-foreword
+  title: Publisher's Foreword
+  slug: 1-publisher-s-foreword
+  uuid: facc3505-0937-4e1f-aa9e-c46ea4733334
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-emendation-shiite-creed-muhammad-rida-jafari/brief-biography-al-mufiid
+  title: A Brief Biography of Al-Mufiid
+  slug: 2-a-brief-biography-of-al-mufiid
+  uuid: 6c2489e2-5d07-466c-bf93-145020fc3e52
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-emendation-shiite-creed-muhammad-rida-jafari/beliefs-imamiyyah
+  title: The beliefs of the Imamiyyah
+  slug: 3-the-beliefs-of-the-imamiyyah
+  uuid: 6fa55952-e194-49ba-b281-f401ce8f9a07
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-emendation-shiite-creed-muhammad-rida-jafari/hisham-ibn-al-hakam-some-aspects-his
+  title: Hisham Ibn Al-Hakam some aspects of his personality
+  slug: 4-hisham-ibn-al-hakam-some-aspects-of-his-personality
+  uuid: f08c1423-ede4-4b6a-99ef-f980d9eebf65
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-emendation-shiite-creed-muhammad-rida-jafari/mutazilis-whom-hisham-met-and-their
+  title: The Mu‘Tazilis whom Hisham met and their discussions
+  slug: 5-the-mu-tazilis-whom-hisham-met-and-their-discussions
+  uuid: 2bf37f93-6f12-4285-aa51-618d13fba699
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-emendation-shiite-creed-muhammad-rida-jafari/incorrectness-attributing-views
+  title: The incorrectness of attributing views on corporeality and anthropomorphism
+    to Hisham Ibn Salim
+  slug: 6-the-incorrectness-of-attributing-views-on-corporeality-and-anthropomorphism-to-hisham-ibn-salim
+  uuid: 196dea0a-e167-4155-b78e-1a13e0e8d012
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-emendation-shiite-creed-muhammad-rida-jafari/hisham-ibn-al-hakam-and-his-refutation
+  title: Hisham Ibn Al-Hakam and his 'refutation of Hisham Al-Jawaliqi' and the 'refutation
+    of Mu’minu 't-Taq' that is attributed to him
+  slug: 7-hisham-ibn-al-hakam-and-his-refutation-of-hisham-al-jawaliqi-and-the-refutation-of-mu-minu-t-taq-that-is-attributed-to-him
+  uuid: 744e1666-88b1-422e-8f01-34db7b4b2973
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-emendation-shiite-creed-muhammad-rida-jafari/imamis-position-non-imami-hadith
+  title: The Imamis' position on Non-Imami hadith
+  slug: 8-the-imamis-position-on-non-imami-hadith
+  uuid: 4bc5e72a-d29c-4724-972a-fbf72a9bbb01
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-emendation-shiite-creed-muhammad-rida-jafari/comparison-tashihu-l-itiqad-itiqadatu-l
+  title: Comparison of the Tashihu 'l I‘Tiqad with the I‘Tiqadatu 'l-Imamiyyah
+  slug: 9-comparison-of-the-tashihu-l-i-tiqad-with-the-i-tiqadatu-l-imamiyyah
+  uuid: ae50281b-2fa1-4377-a9a5-edb864fe5d5f
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-emendation-shiite-creed-muhammad-rida-jafari/bibliography
+  title: Bibliography
+  slug: 10-bibliography
+  uuid: 66d5993f-380c-4966-9418-02b97c3b5d30
+---

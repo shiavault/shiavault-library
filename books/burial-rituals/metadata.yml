@@ -1,0 +1,28 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/burial-rituals-muhammadhusein-kermali
+author: Muhammadhusein Kermali
+publisher: Ahlul Bayt Islamic Centre
+title: Burial Rituals
+slug: burial-rituals
+uuid: 7d7cab4c-b6fb-4a18-87d5-917d040a7624
+description: |
+  Required actions before and immediately after death, during the Ghusl
+  (washing the body), Kafan, and Salat al-Mayyit.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/burial-rituals-muhammadhusein-kermali/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: a3a2fd02-287f-425c-b9fb-4063c54cc103
+- source: :alislam
+  source_url: http://www.al-islam.org/burial-rituals-muhammadhusein-kermali/rituals-just-ehtezar-and-immediately-after-death
+  title: Rituals for Just before (Ehtezar) and Immediately After Death
+  slug: 2-rituals-for-just-before-ehtezar-and-immediately-after-death
+  uuid: fbff4eb3-84ba-4023-bcf5-93efc5c45d1b
+- source: :alislam
+  source_url: http://www.al-islam.org/burial-rituals-muhammadhusein-kermali/after-death-rituals
+  title: After Death Rituals
+  slug: 3-after-death-rituals
+  uuid: da6a196b-eb10-44eb-8760-46777577e15e
+---

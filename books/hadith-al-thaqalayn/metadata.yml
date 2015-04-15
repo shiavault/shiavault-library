@@ -1,0 +1,126 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur
+title: Hadith al-Thaqalayn
+slug: hadith-al-thaqalayn
+uuid: 127ed50e-e94d-44b4-a913-b1ac2f2ee4ad
+description: |
+  A study of the tawatur, or the multiplicity of sources and narrators
+  that verify the authenticity of Hadith al-Thaqalayn, when the Messenger
+  of Allah (s) said: "Verily, I am leaving behind two precious things
+  (thaqalayn) among you: the Book of God and my kindred (\`itrah), my
+  household (Ahl al-Bayt), for indeed, the two will never separate until
+  they come back to me by the Pond (of al-­Kawthar on the Day of
+  Judgment)."
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 5f9bdfd2-e1a1-42ba-9e37-7d987c6cd3dd
+- source: :alislam
+  source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur/meaning-tawatur
+  title: The Meaning of Tawatur
+  slug: 2-the-meaning-of-tawatur
+  uuid: 94930810-a758-45ce-9107-9c584d92b103
+- source: :alislam
+  source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur/some-sahih-versions-hadith
+  title: Some Sahih Versions of the Hadith
+  slug: 3-some-sahih-versions-of-the-hadith
+  uuid: 2486356b-4522-44bc-bf8c-04d0323be78c
+- source: :alislam
+  source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur/various-occasions-related-hadith-al-thaqalayn
+  title: The Various Occasions Related to Hadith al Thaqalayn
+  slug: 4-the-various-occasions-related-to-hadith-al-thaqalayn
+  uuid: 23c41b1d-730b-4671-a199-9abdab257a52
+- source: :alislam
+  source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur/abaqat-al-anwar
+  title: "‘Abaqat al-Anwar"
+  slug: 5-abaqat-al-anwar
+  uuid: ce6e1d3b-f02b-45f4-8ee5-6662ae9d64ae
+- source: :alislam
+  source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur/narrators-hadith-al-thaqalayn-among-sahabah
+  title: Narrators of Hadith al Thaqalayn From Among the Sahabah
+  slug: 6-narrators-of-hadith-al-thaqalayn-from-among-the-sahabah
+  uuid: 02ccdd33-820c-41d5-93c9-1519394653f5
+- source: :alislam
+  source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur/narrators-hadith-al-thaqalayn-among-tabi%E2%80%99un
+  title: Narrators of Hadith al-Thaqalayn from Among the Tabi’un
+  slug: 7-narrators-of-hadith-al-thaqalayn-from-among-the-tabi-un
+  uuid: a64c70e8-d14c-4f38-b493-d585539a53f0
+- source: :alislam
+  source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur/narrators-hadith-al-thaqalayn-second-eighth-century
+  title: Narrators of Hadith al-Thaqalayn of Second- Eighth Century
+  slug: 8-narrators-of-hadith-al-thaqalayn-of-second-eighth-century
+  uuid: 8876f29b-7e62-428b-913d-0cbb4694ae16
+- source: :alislam
+  source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur/narrators-hadith-al-thaqalayn-third-ninth-century
+  title: Narrators of Hadith al-Thaqalayn of Third- Ninth Century
+  slug: 9-narrators-of-hadith-al-thaqalayn-of-third-ninth-century
+  uuid: 7bbeac62-681a-4a6d-96b9-b67a001f782c
+- source: :alislam
+  source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur/narrators-hadith-al-thaqalayn-fourth-tenth-century
+  title: Narrators of Hadith al-Thaqalayn of Fourth-Tenth Century
+  slug: 10-narrators-of-hadith-al-thaqalayn-of-fourth-tenth-century
+  uuid: b3c85dbc-c684-4a63-908d-80e7d7ae73ac
+- source: :alislam
+  source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur/narrators-hadith-al-thaqalayn-fifth-eleventh-century
+  title: Narrators of Hadith al-Thaqalayn of Fifth-Eleventh Century
+  slug: 11-narrators-of-hadith-al-thaqalayn-of-fifth-eleventh-century
+  uuid: bdf9e216-8f1d-4daa-a6fa-8a0d1deadd5b
+- source: :alislam
+  source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur/narrators-hadith-al-thaqalayn-sixth-twelfth-century
+  title: Narrators of Hadith al-Thaqalayn of Sixth-Twelfth Century
+  slug: 12-narrators-of-hadith-al-thaqalayn-of-sixth-twelfth-century
+  uuid: cc28c78e-c91c-44a5-89ee-a4abafe8bc38
+- source: :alislam
+  source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur/narrators-hadith-al-thaqalayn-seventh-thirteenth-century
+  title: Narrators of Hadith al-Thaqalayn of Seventh-Thirteenth Century
+  slug: 13-narrators-of-hadith-al-thaqalayn-of-seventh-thirteenth-century
+  uuid: 228993c2-ef5e-49c2-b0ce-0fe38ce5b08a
+- source: :alislam
+  source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur/narrators-hadith-al-thaqalayn-eight-fourteenth-century
+  title: Narrators of Hadith al-Thaqalayn of Eight-Fourteenth Century
+  slug: 14-narrators-of-hadith-al-thaqalayn-of-eight-fourteenth-century
+  uuid: 4d56ee6f-1354-4aef-958d-c4ade11403e7
+- source: :alislam
+  source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur/narrators-hadith-al-thaqalayn-ninth-fifteenth-century
+  title: Narrators of Hadith al-Thaqalayn of Ninth- Fifteenth Century
+  slug: 15-narrators-of-hadith-al-thaqalayn-of-ninth-fifteenth-century
+  uuid: faf9c60b-804e-418f-b930-9c914c7d15ee
+- source: :alislam
+  source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur/narrators-hadith-al-thaqalayn-tenth-sixteenth-century
+  title: Narrators of Hadith al-Thaqalayn of Tenth-Sixteenth Century
+  slug: 16-narrators-of-hadith-al-thaqalayn-of-tenth-sixteenth-century
+  uuid: 198bc0c3-ca30-4595-8956-564e90bf2a2c
+- source: :alislam
+  source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur/narrators-hadith-al-thaqalayn-eleventh-seventeenth
+  title: Narrators of Hadith al-Thaqalayn of Eleventh-Seventeenth Century
+  slug: 17-narrators-of-hadith-al-thaqalayn-of-eleventh-seventeenth-century
+  uuid: 8806f32c-bb34-4b64-95b1-707bd0cea744
+- source: :alislam
+  source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur/narrators-hadith-al-thaqalayn-twelfth-eighteenth-century
+  title: Narrators of Hadith al-Thaqalayn of Twelfth- Eighteenth Century
+  slug: 18-narrators-of-hadith-al-thaqalayn-of-twelfth-eighteenth-century
+  uuid: 1f19a280-d57a-4638-a617-ebf5cca4b5d0
+- source: :alislam
+  source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur/narrators-hadith-al-thaqalayn-thirteenth-nineteenth
+  title: Narrators of Hadith al-Thaqalayn of Thirteenth- Nineteenth Century
+  slug: 19-narrators-of-hadith-al-thaqalayn-of-thirteenth-nineteenth-century
+  uuid: 03e10a52-1764-45a0-8353-1bbc5d7d41d4
+- source: :alislam
+  source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur/narrators-hadith-al-thaqalayn-fourteenth-twentieth
+  title: Narrators of Hadith al-Thaqalayn of Fourteenth- Twentieth Century
+  slug: 20-narrators-of-hadith-al-thaqalayn-of-fourteenth-twentieth-century
+  uuid: beb964b2-8e05-4227-b4cf-3b0cc736a3c4
+- source: :alislam
+  source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur/meaning-hadith-al-thaqalayn
+  title: The Meaning of Hadith al-Thaqalayn
+  slug: 21-the-meaning-of-hadith-al-thaqalayn
+  uuid: f6585de2-6af3-4560-b454-04687638a064
+- source: :alislam
+  source_url: http://www.al-islam.org/hadith-al-thaqalayn-a-study-of-its-tawatur/some-traditions-appear-conflict-hadith-al-thaqalayn
+  title: Some Traditions that Appear to Conflict with Hadith al-Thaqalayn
+  slug: 22-some-traditions-that-appear-to-conflict-with-hadith-al-thaqalayn
+  uuid: 7dfa69a7-878f-45e8-84a4-fd04bf687935
+---

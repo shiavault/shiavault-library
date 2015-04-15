@@ -1,0 +1,55 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/world-our-youth-ayatullah-sayyid-muhammad-husayn-fadlullah
+author: Ayatullah Sayyid Muhammad Husayn Fadlullah
+publisher: Organization for the Advancement of Islamic Knowledge and Humanitarian
+  Services
+translator: Khaleel Mohammed
+title: World of Our Youth
+slug: world-of-our-youth
+uuid: d9d8dffb-4a7e-4b2e-8165-d1844409e99b
+description: |
+  Youth in the light of Qur'an, essential models, responsibilities, and
+  the Shari'a view.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/world-our-youth-ayatullah-sayyid-muhammad-husayn-fadlullah/acknowledgement
+  title: Acknowledgement
+  slug: 1-acknowledgement
+  uuid: 3893e46f-f658-45b6-ac48-18d951a8758c
+- source: :alislam
+  source_url: http://www.al-islam.org/world-our-youth-ayatullah-sayyid-muhammad-husayn-fadlullah/dedication
+  title: Dedication
+  slug: 2-dedication
+  uuid: 14a65d20-bdd3-4684-9b59-8fbb85916612
+- source: :alislam
+  source_url: http://www.al-islam.org/world-our-youth-ayatullah-sayyid-muhammad-husayn-fadlullah/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: d71181a1-79e0-48e2-80c6-88d81dcac790
+- source: :alislam
+  source_url: http://www.al-islam.org/world-our-youth-ayatullah-sayyid-muhammad-husayn-fadlullah/themes-1-our-youth-light-qur%E2%80%99
+  title: 'Themes 1: Our Youth In the Light of The Qur’an'
+  slug: 4-themes-1-our-youth-in-the-light-of-the-qur-an
+  uuid: 08f5499c-248f-4f59-a0a7-6c6cc61a660d
+- source: :alislam
+  source_url: http://www.al-islam.org/world-our-youth-ayatullah-sayyid-muhammad-husayn-fadlullah/themes-2-our-youth-essential-model
+  title: 'Themes 2:  Our Youth .... The Essential Model'
+  slug: 5-themes-2-our-youth-the-essential-model
+  uuid: ac91062f-8d6c-4588-b613-538a238f5adc
+- source: :alislam
+  source_url: http://www.al-islam.org/world-our-youth-ayatullah-sayyid-muhammad-husayn-fadlullah/themes-3-youth-pedagogical-responsibility
+  title: 'Themes 3: Youth, The Pedagogical Responsibility'
+  slug: 6-themes-3-youth-the-pedagogical-responsibility
+  uuid: a065d42c-cd54-4e39-8564-669efd55571b
+- source: :alislam
+  source_url: http://www.al-islam.org/world-our-youth-ayatullah-sayyid-muhammad-husayn-fadlullah/themes-4-our-youth-and-effective-work
+  title: 'Themes 4:  Our Youth and Effective Work'
+  slug: 7-themes-4-our-youth-and-effective-work
+  uuid: 2047a795-7a99-4810-9c61-eb4bed0c86bf
+- source: :alislam
+  source_url: http://www.al-islam.org/world-our-youth-ayatullah-sayyid-muhammad-husayn-fadlullah/themes-5-our-youth-shariah-view
+  title: 'Themes 5:  Our Youth ... The Shariah View'
+  slug: 8-themes-5-our-youth-the-shariah-view
+  uuid: 418accaa-d12f-4114-bc3b-3bebee131e1c
+---

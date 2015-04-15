@@ -1,0 +1,65 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/family-life-aisha-mutuku
+author: Aisha Mutuku
+publisher: Bilal Muslim Mission of Tanzania
+title: Family Life
+slug: family-life
+uuid: 89bb6bb4-045d-4947-a81b-8ad5c9917b1d
+description: |
+  This full-length text discusses in detail the process of the upbringing
+  of children in an Islamically appropriate way starting at the very
+  beginning with the selection of one's spouse and guiding parents on
+  problematic issues particularly encountered by the youth of today.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/family-life-aisha-mutuku/section1-family
+  title: 'Section1: Family'
+  slug: 1-section1-family
+  uuid: d6fe592c-4350-49ab-aade-856af3527c46
+- source: :alislam
+  source_url: http://www.al-islam.org/family-life-aisha-mutuku/section-2-formation-family
+  title: 'Section 2: Formation of a Family'
+  slug: 2-section-2-formation-of-a-family
+  uuid: 2e542fc4-fa73-4190-9c2a-33ee1e4e09bc
+- source: :alislam
+  source_url: http://www.al-islam.org/family-life-aisha-mutuku/section-3-relationship-between-hope-and-success-family
+  title: 'Section 3: The Relationship Between Hope and Success in the Family'
+  slug: 3-section-3-the-relationship-between-hope-and-success-in-the-family
+  uuid: 92129219-1561-45f5-a9ff-868f1385298d
+- source: :alislam
+  source_url: http://www.al-islam.org/family-life-aisha-mutuku/section-4-raising-children-islam
+  title: 'Section 4: Raising Children In Islam'
+  slug: 4-section-4-raising-children-in-islam
+  uuid: 38c295cc-7657-4742-8b8a-8d2bf1105775
+- source: :alislam
+  source_url: http://www.al-islam.org/family-life-aisha-mutuku/section-5-methods-religious-training
+  title: 'Section 5: Methods Of Religious Training'
+  slug: 5-section-5-methods-of-religious-training
+  uuid: 67cfe91f-1a80-4d8d-b4e7-ee5a39ac443e
+- source: :alislam
+  source_url: http://www.al-islam.org/family-life-aisha-mutuku/section-6-feeding-and-guiding-children
+  title: 'Section 6: Feeding and Guiding Children'
+  slug: 6-section-6-feeding-and-guiding-children
+  uuid: ee9adbf3-9ac7-4748-99aa-edfdbfe6d51a
+- source: :alislam
+  source_url: http://www.al-islam.org/family-life-aisha-mutuku/section-7-how-build-your-child%E2%80%99s-confidence
+  title: 'Section 7: How To Build Your Child’s Confidence'
+  slug: 7-section-7-how-to-build-your-child-s-confidence
+  uuid: 47e3f924-1a32-44db-8d27-a705ffef20f6
+- source: :alislam
+  source_url: http://www.al-islam.org/family-life-aisha-mutuku/section-8-islam-and-manners
+  title: 'Section 8: Islam And Manners'
+  slug: 8-section-8-islam-and-manners
+  uuid: 79b22980-4ed5-4869-81b5-79fa963e44f3
+- source: :alislam
+  source_url: http://www.al-islam.org/family-life-aisha-mutuku/section-9-how-develop-self-esteem
+  title: 'Section 9: How To Develop Self-Esteem'
+  slug: 9-section-9-how-to-develop-self-esteem
+  uuid: b73008c8-3c5c-454c-bc97-0ac5c5723a26
+- source: :alislam
+  source_url: http://www.al-islam.org/family-life-aisha-mutuku/section-10-outside-influences-children
+  title: 'Section 10: Outside Influences On Children'
+  slug: 10-section-10-outside-influences-on-children
+  uuid: 5b65734c-7b64-41c6-86fa-e63f32fe3084
+---

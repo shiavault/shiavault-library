@@ -1,0 +1,87 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/black-thursday-muhammad-al-tijani-al-samawi
+author: Muhammad al-Tijani al-Samawi
+publisher: Ansariyan Publications - Qum
+translator: Sayyid Maqsood Athar
+title: Black Thursday
+slug: black-thursday
+uuid: 87f610fb-2ce0-4db7-9311-566985c702db
+description: |
+  The text authored by Muhammad Al Tijani Al Samawi presents an english
+  translation of the famous event of Raziyyat Yawm al-Khamees, known as
+  Black Thursday which took place in the last days before the Holy
+  Prophet's demise. It concerns an incident during the Prophet's illness
+  when he asked for writing materials to dictate a will, but the people
+  present around him said that he was talking nonsense. This event is a
+  point of controversy between the two largest sects of Islam. This book
+  presents the reality of what happened and who was the person involved
+  who had the audacity to cast such aspersion on the Messenger of Allah
+  (S).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/black-thursday-muhammad-al-tijani-al-samawi/translators-foreword
+  title: Translator’s Foreword
+  slug: 1-translator-s-foreword
+  uuid: ec547f13-e375-4307-a7ff-41b2546ff811
+- source: :alislam
+  source_url: http://www.al-islam.org/black-thursday-muhammad-al-tijani-al-samawi/preface
+  title: Preface
+  slug: 2-preface
+  uuid: f613e04b-59ec-4071-9482-89beb93f692c
+- source: :alislam
+  source_url: http://www.al-islam.org/black-thursday-muhammad-al-tijani-al-samawi/part-1-matter-will
+  title: 'Part 1: The Matter of Will'
+  slug: 3-part-1-the-matter-of-will
+  uuid: 370d2dba-9b88-4918-92db-ed1bda5b0739
+- source: :alislam
+  source_url: http://www.al-islam.org/black-thursday-muhammad-al-tijani-al-samawi/part-2-1-probe-saqifah-1
+  title: 'Part 2 .1: A Probe into Saqifah 1'
+  slug: 4-part-2-1-a-probe-into-saqifah-1
+  uuid: 3a3d90ab-e4d4-4ba8-8bed-0cd43290d326
+- source: :alislam
+  source_url: http://www.al-islam.org/black-thursday-muhammad-al-tijani-al-samawi/part-2-2-probe-saqifah-2
+  title: 'Part 2 .2: A Probe into Saqifah 2'
+  slug: 5-part-2-2-a-probe-into-saqifah-2
+  uuid: da676576-cd0b-4724-a8a1-dfb2b71b5737
+- source: :alislam
+  source_url: http://www.al-islam.org/black-thursday-muhammad-al-tijani-al-samawi/part-2-3-probe-saqifah-3
+  title: 'Part 2 .3: A Probe into Saqifah 3'
+  slug: 6-part-2-3-a-probe-into-saqifah-3
+  uuid: 20218da8-2cd8-48fb-bd3e-03a598d38b8b
+- source: :alislam
+  source_url: http://www.al-islam.org/black-thursday-muhammad-al-tijani-al-samawi/part-3-caliphate-amirul-momineen
+  title: 'Part 3: Caliphate of Amirul Momineen'
+  slug: 7-part-3-caliphate-of-amirul-momineen
+  uuid: 256c70be-6b14-4def-9ecb-89d76e390412
+- source: :alislam
+  source_url: http://www.al-islam.org/black-thursday-muhammad-al-tijani-al-samawi/part-4-allegiance-breakers-nakitheen
+  title: 'Part 4: The Allegiance Breakers (Nakitheen)'
+  slug: 8-part-4-the-allegiance-breakers-nakitheen
+  uuid: cafff208-c8a9-4767-a960-c15b09420991
+- source: :alislam
+  source_url: http://www.al-islam.org/black-thursday-muhammad-al-tijani-al-samawi/part-5-unjust-group-qasiteen
+  title: 'Part 5: The Unjust Group (Qasiteen)'
+  slug: 9-part-5-the-unjust-group-qasiteen
+  uuid: b4c03cbf-25f6-447a-82c3-60cf9bffd33f
+- source: :alislam
+  source_url: http://www.al-islam.org/black-thursday-muhammad-al-tijani-al-samawi/part-6-arbitration-apostates-mariqeen-imams-martyrdom
+  title: 'Part 6: Arbitration - Apostates (Mariqeen) - Imam’s Martyrdom'
+  slug: 10-part-6-arbitration-apostates-mariqeen-imam-s-martyrdom
+  uuid: 77df58f5-8977-47e4-b7ae-c7e008b4e24a
+- source: :alislam
+  source_url: http://www.al-islam.org/black-thursday-muhammad-al-tijani-al-samawi/part-7-glimpses-imams-life
+  title: 'Part 7: Glimpses of the Imam’s life'
+  slug: 11-part-7-glimpses-of-the-imam-s-life
+  uuid: d99feb75-99f7-46f3-8a9e-064dd0617b86
+- source: :alislam
+  source_url: http://www.al-islam.org/black-thursday-muhammad-al-tijani-al-samawi/part-8-glimpses-muawiyahs-character
+  title: 'Part 8: Glimpses of Muawiyah’s Character'
+  slug: 12-part-8-glimpses-of-muawiyah-s-character
+  uuid: f6948fb2-4d2f-45ad-b01f-05be51410c28
+- source: :alislam
+  source_url: http://www.al-islam.org/black-thursday-muhammad-al-tijani-al-samawi/bibliography
+  title: Bibliography
+  slug: 13-bibliography
+  uuid: 8c45fb08-8f6d-4074-ae98-f4d58d117e35
+---

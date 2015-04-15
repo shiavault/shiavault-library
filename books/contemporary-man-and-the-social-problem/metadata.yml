@@ -1,0 +1,54 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/contemporary-man-and-the-social-problem-muhammad-baqir-as-sadr
+author: Ayatullah Sayyid Muhammad Baqir As-Sadr
+publisher: W.O.F.I.S. World Organization for Islamic Services
+translator: Yasin T. Al-Jibouri
+title: Contemporary Man and the Social Problem
+slug: contemporary-man-and-the-social-problem
+uuid: 899bb2f5-fd4a-45ce-af5a-7ffb2b27228a
+description: |
+  This full-length text is, as stated by the author himself, dedicated to
+  answering the following question: "What is the system that suits
+  humanity, the one through which humanity achieves a happy social life?"
+  The author critically analyzes the most prominent systems known today,
+  namely Capitalistic Democracy, Socialism and Communism, and then
+  presents the Islamic system as opposed to these and describes how Islam
+  can solve the social problem through its religious message.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/contemporary-man-and-the-social-problem-muhammad-baqir-as-sadr/publishers-foreword
+  title: Publisher's Foreword
+  slug: 1-publisher-s-foreword
+  uuid: 6ee39c04-32bb-4a5a-aa0e-68901004007e
+- source: :alislam
+  source_url: http://www.al-islam.org/contemporary-man-and-the-social-problem-muhammad-baqir-as-sadr/authors-foreword
+  title: Author's Foreword
+  slug: 2-author-s-foreword
+  uuid: 973a9c77-b4fa-4ced-a216-4d69354b9f90
+- source: :alislam
+  source_url: http://www.al-islam.org/contemporary-man-and-the-social-problem-muhammad-baqir-as-sadr/contemporary-man-and-his-capability
+  title: Contemporary Man and his Capability to Solve the Social Problem
+  slug: 3-contemporary-man-and-his-capability-to-solve-the-social-problem
+  uuid: dce35b31-8a6e-499d-90d2-d386e696edc3
+- source: :alislam
+  source_url: http://www.al-islam.org/contemporary-man-and-the-social-problem-muhammad-baqir-as-sadr/capitalist-democracy
+  title: Capitalist Democracy
+  slug: 4-capitalist-democracy
+  uuid: 4c6115e7-bc2e-4e6c-ba71-07a48c9b5de3
+- source: :alislam
+  source_url: http://www.al-islam.org/contemporary-man-and-the-social-problem-muhammad-baqir-as-sadr/socialism-and-communism
+  title: Socialism and Communism
+  slug: 5-socialism-and-communism
+  uuid: 13373568-bafd-4a88-8c38-d44286e373dd
+- source: :alislam
+  source_url: http://www.al-islam.org/contemporary-man-and-the-social-problem-muhammad-baqir-as-sadr/islam-and-social-problem
+  title: Islam and The Social Problem
+  slug: 6-islam-and-the-social-problem
+  uuid: 5348a112-afc6-4902-91c8-64dbca89ec94
+- source: :alislam
+  source_url: http://www.al-islam.org/contemporary-man-and-the-social-problem-muhammad-baqir-as-sadr/islam%E2%80%99s-position-towards-freedom-and
+  title: Islam’s Position Towards Freedom and Social Assurance
+  slug: 7-islam-s-position-towards-freedom-and-social-assurance
+  uuid: acb573d7-5f7b-4787-8452-6640ad1b4f70
+---

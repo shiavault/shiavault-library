@@ -1,0 +1,73 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/juristic-questions-sayyid-abdul-husayn-sharafuddeen
+author: Sayyid Abdul Husayn Sharafuddeen
+publisher: Ansariyan Publications - Qum
+translator: Abdullah al-Shahin
+title: Juristic Questions
+slug: juristic-questions
+uuid: 2e1c2716-cae1-4c15-b315-c25b6cd27f1f
+description: |
+  These are juristic questions discussed in a clear and firm way. They
+  depend upon the true evidences and follow the straight way. It is enough
+  for them to be a result of a high learned mind and a wonderful pen
+  depending upon the accurate scientific theories so that they are
+  directed easily towards the bright way of rightness and assisted by
+  those accurate theories.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/juristic-questions-sayyid-abdul-husayn-sharafuddeen/publishers-foreword
+  title: The Publisher’s Foreword
+  slug: 1-the-publisher-s-foreword
+  uuid: b99b1fb6-f452-4e53-a5f3-4de23258701f
+- source: :alislam
+  source_url: http://www.al-islam.org/juristic-questions-sayyid-abdul-husayn-sharafuddeen/preface
+  title: Preface
+  slug: 2-preface
+  uuid: ff6c2192-9763-4ba6-a218-f700d53ef2a7
+- source: :alislam
+  source_url: http://www.al-islam.org/juristic-questions-sayyid-abdul-husayn-sharafuddeen/offering-two-prayers-one-time
+  title: Offering Two Prayers At One Time
+  slug: 3-offering-two-prayers-at-one-time
+  uuid: a2d76670-0c54-41b3-a44d-7ed56898a3c2
+- source: :alislam
+  source_url: http://www.al-islam.org/juristic-questions-sayyid-abdul-husayn-sharafuddeen/bassmala-quranic-verse-it-be-recited-prayers
+  title: Is Bassmala A Quranic Verse? Is It To Be Recited In Prayers?
+  slug: 4-is-bassmala-a-quranic-verse-is-it-to-be-recited-in-prayers
+  uuid: 8933175e-53fa-43c2-a95a-a6cb70b7b0f0
+- source: :alislam
+  source_url: http://www.al-islam.org/juristic-questions-sayyid-abdul-husayn-sharafuddeen/reciting-quran-prayer
+  title: Reciting Quran In The Prayer
+  slug: 5-reciting-quran-in-the-prayer
+  uuid: afdb6516-a695-45ca-a9cf-a24ed84a045d
+- source: :alislam
+  source_url: http://www.al-islam.org/juristic-questions-sayyid-abdul-husayn-sharafuddeen/takbeeratul-ihram
+  title: Takbeeratul Ihram
+  slug: 6-takbeeratul-ihram
+  uuid: 6c4cb06f-69cd-403f-931e-59b903bcd751
+- source: :alislam
+  source_url: http://www.al-islam.org/juristic-questions-sayyid-abdul-husayn-sharafuddeen/travelers-taqseer-and-fast-breaking
+  title: Traveler’s Taqseer And Fast Breaking
+  slug: 7-traveler-s-taqseer-and-fast-breaking
+  uuid: 92065c21-1af2-4dc3-87c7-d5583de23d7f
+- source: :alislam
+  source_url: http://www.al-islam.org/juristic-questions-sayyid-abdul-husayn-sharafuddeen/temporary-marriage
+  title: Temporary Marriage
+  slug: 8-temporary-marriage
+  uuid: df144c3a-9deb-4426-babf-80db82bff959
+- source: :alislam
+  source_url: http://www.al-islam.org/juristic-questions-sayyid-abdul-husayn-sharafuddeen/wiping-feet-or-washing-them-wudu
+  title: Wiping The Feet Or Washing Them In Wudu’
+  slug: 9-wiping-the-feet-or-washing-them-in-wudu
+  uuid: 8dcf3c51-5006-4bad-9772-0912911ebef8
+- source: :alislam
+  source_url: http://www.al-islam.org/juristic-questions-sayyid-abdul-husayn-sharafuddeen/wiping-over-slippers-and-socks
+  title: Wiping Over Slippers And Socks
+  slug: 10-wiping-over-slippers-and-socks
+  uuid: 42142a73-f6dd-451e-9c7d-878f5bc0cdf1
+- source: :alislam
+  source_url: http://www.al-islam.org/juristic-questions-sayyid-abdul-husayn-sharafuddeen/six-disputable-questions
+  title: Six Disputable Questions
+  slug: 11-six-disputable-questions
+  uuid: cbe9c9e7-b298-42bc-9f7e-60abeeaf0f54
+---

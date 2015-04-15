@@ -1,0 +1,92 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/maytham-al-tammar-kamal-al-sayyid
+author: Kamal al-Syyed
+publisher: Ansariyan Publications - Qum
+title: Maytham al-Tammar
+slug: maytham-al-tammar
+uuid: f103a914-03dd-4237-9ede-c309462be28c
+description: |
+  Biography of the companion of Imam 'Ali (a).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/maytham-al-tammar-kamal-al-sayyid/maytham-al-tammar
+  title: Maytham al-Tammar
+  slug: 1-maytham-al-tammar
+  uuid: ef411fa7-06eb-45b8-a0bc-4d811a93e935
+- source: :alislam
+  source_url: http://www.al-islam.org/maytham-al-tammar-kamal-al-sayyid/who-was-maytham
+  title: Who was Maytham?
+  slug: 2-who-was-maytham
+  uuid: ebe1416a-d2a3-4bca-b0fe-a45fa1c658d2
+- source: :alislam
+  source_url: http://www.al-islam.org/maytham-al-tammar-kamal-al-sayyid/real-name
+  title: The Real Name
+  slug: 3-the-real-name
+  uuid: f582afa3-c59f-4d4f-8dbf-2a6db3538de4
+- source: :alislam
+  source_url: http://www.al-islam.org/maytham-al-tammar-kamal-al-sayyid/desert
+  title: In the Desert
+  slug: 4-in-the-desert
+  uuid: ebe11c97-977a-4a0a-80ed-923efcbb519c
+- source: :alislam
+  source_url: http://www.al-islam.org/maytham-al-tammar-kamal-al-sayyid/al-tammars-shop
+  title: At al-Tammar's Shop
+  slug: 5-at-al-tammar-s-shop
+  uuid: c6cb8b45-0b51-4088-ac50-14995895b7be
+- source: :alislam
+  source_url: http://www.al-islam.org/maytham-al-tammar-kamal-al-sayyid/nations-scholar
+  title: The Nation's Scholar
+  slug: 6-the-nation-s-scholar
+  uuid: d015adea-d989-49ac-84e5-5b71be13f561
+- source: :alislam
+  source_url: http://www.al-islam.org/maytham-al-tammar-kamal-al-sayyid/amru-bin-huraith
+  title: Amru bin Huraith
+  slug: 7-amru-bin-huraith
+  uuid: 645d44ce-e8d4-420a-9dcb-9a09636440e7
+- source: :alislam
+  source_url: http://www.al-islam.org/maytham-al-tammar-kamal-al-sayyid/market
+  title: The Market
+  slug: 8-the-market
+  uuid: 9dbf82c3-9222-42e2-8b9f-6584340eea32
+- source: :alislam
+  source_url: http://www.al-islam.org/maytham-al-tammar-kamal-al-sayyid/meeting-road
+  title: A Meeting of the Road
+  slug: 9-a-meeting-of-the-road
+  uuid: ad77a2c6-489e-4442-b00c-1f8d3abdad59
+- source: :alislam
+  source_url: http://www.al-islam.org/maytham-al-tammar-kamal-al-sayyid/caravan
+  title: The Caravan
+  slug: 10-the-caravan
+  uuid: 1e37ec5e-f7b5-4343-b4d8-28ccaa6ec125
+- source: :alislam
+  source_url: http://www.al-islam.org/maytham-al-tammar-kamal-al-sayyid/prison
+  title: The Prison
+  slug: 11-the-prison
+  uuid: bafe5fa5-0365-4120-851d-880edb16c76f
+- source: :alislam
+  source_url: http://www.al-islam.org/maytham-al-tammar-kamal-al-sayyid/faith
+  title: Faith
+  slug: 12-faith
+  uuid: 16947bd9-ba59-41da-bafa-66332cf31ca2
+- source: :alislam
+  source_url: http://www.al-islam.org/maytham-al-tammar-kamal-al-sayyid/end
+  title: The End
+  slug: 13-the-end
+  uuid: 349d4b13-a590-4b9f-8abc-e6c89ab4b40b
+- source: :alislam
+  source_url: http://www.al-islam.org/maytham-al-tammar-kamal-al-sayyid/neighbour
+  title: The Neighbour
+  slug: 14-the-neighbour
+  uuid: 3c326446-6e03-4f53-9bcb-6840be466e9b
+- source: :alislam
+  source_url: http://www.al-islam.org/maytham-al-tammar-kamal-al-sayyid/people
+  title: People
+  slug: 15-people
+  uuid: f8e8b0e6-9590-4a80-ba39-ec005bcc6054
+- source: :alislam
+  source_url: http://www.al-islam.org/maytham-al-tammar-kamal-al-sayyid/maythams-body
+  title: Maytham's Body
+  slug: 16-maytham-s-body
+  uuid: 6555000f-0447-4506-94b8-9bb051b2ed09
+---

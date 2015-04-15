@@ -1,0 +1,54 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/quran-its-protection-alteration-sayyid-saeed-akhtar-rizvi
+author: Sayyid Saeed Akhtar Rizvi
+publisher: Ahlul Bayt Assembly of North America
+title: 'The Quran: Its Protection from Alteration'
+slug: the-quran-its-protection-from-alteration
+uuid: f7eb8ccf-67c0-42f9-9743-0eca6d9b82c3
+description: |
+  This text deals with the appearance of forged ahadith, and the Sunni vs
+  Shi'i attitudes towards such hadith and supposed alterations in the
+  Qur'an.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-its-protection-alteration-sayyid-saeed-akhtar-rizvi/preface
+  title: Preface 
+  slug: 1-preface
+  uuid: df4d1e4d-7f21-4ca5-b82f-84ec5d7d91e9
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-its-protection-alteration-sayyid-saeed-akhtar-rizvi/introduction
+  title: Introduction 
+  slug: 2-introduction
+  uuid: 1d14d157-58bd-44ce-9cec-7037b6f9139d
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-its-protection-alteration-sayyid-saeed-akhtar-rizvi/%C2%A0appearance-forged-ahadith
+  title: " Appearance of Forged Ahadith "
+  slug: 3-appearance-of-forged-ahadith
+  uuid: a2294c19-8bab-4f20-ad43-4e75d8d29789
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-its-protection-alteration-sayyid-saeed-akhtar-rizvi/confessions-some-forgers
+  title: Confessions of Some Forgers
+  slug: 4-confessions-of-some-forgers
+  uuid: ce1a9d4f-f83b-4808-a807-83729cf650cd
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-its-protection-alteration-sayyid-saeed-akhtar-rizvi/some-ahadith-omission
+  title: Some Ahadith of Omission
+  slug: 5-some-ahadith-of-omission
+  uuid: 504f115a-8632-4ff2-8919-630ec458843a
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-its-protection-alteration-sayyid-saeed-akhtar-rizvi/sunni-attitude
+  title: The Sunni Attitude
+  slug: 6-the-sunni-attitude
+  uuid: db60c3d8-00ff-4335-8378-634447ebd8b3
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-its-protection-alteration-sayyid-saeed-akhtar-rizvi/shia-attitude
+  title: The Shi'a Attitude
+  slug: 7-the-shi-a-attitude
+  uuid: 645195a8-37b7-4033-a427-bd396696e53e
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-its-protection-alteration-sayyid-saeed-akhtar-rizvi/exploitation-traditions
+  title: Exploitation of Traditions
+  slug: 8-exploitation-of-traditions
+  uuid: d5bd832d-72e3-43af-b2ba-72e4de0b3687
+---

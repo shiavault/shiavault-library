@@ -1,0 +1,60 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/divine-justice-or-the-problem-of-evil-javad-shayvard
+author: Javad Shayvard
+publisher: W.O.F.I.S. World Organization for Islamic Services
+title: Divine Justice or The Problem of Evil
+slug: divine-justice-or-the-problem-of-evil
+uuid: 1824e6b5-afe5-4096-bad8-c06d6175dd93
+description: |
+  This article is an attempt to prove two points: 1. God's justice is a
+  reality. 2. If God is just, it does not mean that individuals have to
+  accept their present social situations; but on the contrary, it will
+  mean that they have to change it.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/divine-justice-or-the-problem-of-evil-javad-shayvard/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 433569e3-1a0b-472e-a467-7436e1bff7bb
+- source: :alislam
+  source_url: http://www.al-islam.org/divine-justice-or-the-problem-of-evil-javad-shayvard/brief-history-problem
+  title: A Brief History of The Problem
+  slug: 2-a-brief-history-of-the-problem
+  uuid: 6ce0f60b-7460-49e0-b98e-3a226869b6af
+- source: :alislam
+  source_url: http://www.al-islam.org/divine-justice-or-the-problem-of-evil-javad-shayvard/suffering-and-not-evil
+  title: Suffering and not Evil
+  slug: 3-suffering-and-not-evil
+  uuid: f487fbb0-153d-4ab0-91e1-7091413bdb7d
+- source: :alislam
+  source_url: http://www.al-islam.org/divine-justice-or-the-problem-of-evil-javad-shayvard/limitless-desires
+  title: Limitless Desires
+  slug: 4-limitless-desires
+  uuid: 94a1aa94-8d19-4e55-8367-b9fd9ef564e1
+- source: :alislam
+  source_url: http://www.al-islam.org/divine-justice-or-the-problem-of-evil-javad-shayvard/spectators-and-participants
+  title: Spectators and Participants
+  slug: 5-spectators-and-participants
+  uuid: 7ac8364d-0932-4a9b-8d2e-6675461a6f91
+- source: :alislam
+  source_url: http://www.al-islam.org/divine-justice-or-the-problem-of-evil-javad-shayvard/question-and-its-answer
+  title: A Question and its Answer
+  slug: 6-a-question-and-its-answer
+  uuid: 89005aef-d5bf-46b3-adb8-d077bf2a614f
+- source: :alislam
+  source_url: http://www.al-islam.org/divine-justice-or-the-problem-of-evil-javad-shayvard/orders-existence
+  title: Orders of Existence
+  slug: 7-orders-of-existence
+  uuid: ba8ababc-3e81-4c3c-99ca-46aca258ea37
+- source: :alislam
+  source_url: http://www.al-islam.org/divine-justice-or-the-problem-of-evil-javad-shayvard/benefits-suffering
+  title: Benefits of Suffering
+  slug: 8-benefits-of-suffering
+  uuid: 75b94408-e642-408d-9806-50066b1dc624
+- source: :alislam
+  source_url: http://www.al-islam.org/divine-justice-or-the-problem-of-evil-javad-shayvard/problem-death
+  title: The Problem of Death
+  slug: 9-the-problem-of-death
+  uuid: e11f3ee2-d33d-46fe-befb-7c2f61830386
+---

@@ -1,0 +1,81 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/anecdotes-ahlul-bayt-ayatullah-murtadha-mutahhari
+author: Ayatullah Murtadha Mutahhari
+translator: Iffat Shah
+title: Anecdotes of The Ahlul Bayt
+slug: anecdotes-of-the-ahlul-bayt
+uuid: e9fc6cc2-1162-4d36-8f7a-592b97246d24
+description: |
+  This text is a compilation of incidents, narrations and teachings from
+  the lives of the 14 infallibles which help us in living our lives in
+  total accordance with the laws of Islam. In this collection, Ayatullah
+  Mutahhari only used reports that he found credible and which came from
+  reliable sources.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-ahlul-bayt-ayatullah-murtadha-mutahhari/thanksgiving-%E2%80%93-prayer
+  title: Thanksgiving – A Prayer
+  slug: 1-thanksgiving-a-prayer
+  uuid: 5d3b1286-c46e-418d-a2df-e9d355a890a2
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-ahlul-bayt-ayatullah-murtadha-mutahhari/preface
+  title: Preface
+  slug: 2-preface
+  uuid: 47bee23f-867e-4cb8-a40d-772f7d238ede
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-ahlul-bayt-ayatullah-murtadha-mutahhari/nearness-allah
+  title: Nearness to Allah
+  slug: 3-nearness-to-allah
+  uuid: 3c7f8c51-0cbe-4522-958b-d6b831f48508
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-ahlul-bayt-ayatullah-murtadha-mutahhari/allah%E2%80%99s-help
+  title: Allah’s Help
+  slug: 4-allah-s-help
+  uuid: 4de0ce3b-fac5-4da1-af68-597ba6adc093
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-ahlul-bayt-ayatullah-murtadha-mutahhari/importance-work
+  title: The Importance of Work
+  slug: 5-the-importance-of-work
+  uuid: e58c7db4-faea-4f1a-93b7-06abf547c7bc
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-ahlul-bayt-ayatullah-murtadha-mutahhari/traits-nobility
+  title: Traits of Nobility
+  slug: 6-traits-of-nobility
+  uuid: dc6d3415-ff20-49ad-90f8-3a6e7e5fe2d3
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-ahlul-bayt-ayatullah-murtadha-mutahhari/justice
+  title: Justice
+  slug: 7-justice
+  uuid: 87bd5a9b-0139-4ba6-9341-4f62eb0db043
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-ahlul-bayt-ayatullah-murtadha-mutahhari/human-rights
+  title: Human Rights
+  slug: 8-human-rights
+  uuid: b1557efa-df85-45dd-ad91-93e19483efd5
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-ahlul-bayt-ayatullah-murtadha-mutahhari/financial-matters
+  title: Financial Matters
+  slug: 9-financial-matters
+  uuid: 57b9d380-8161-41d3-918a-49089c67da8e
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-ahlul-bayt-ayatullah-murtadha-mutahhari/advice
+  title: Advice
+  slug: 10-advice
+  uuid: a0beddb6-559b-48a7-abe2-c96743d2e1dc
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-ahlul-bayt-ayatullah-murtadha-mutahhari/faith-depends-upon-knowledge
+  title: Faith Depends Upon Knowledge
+  slug: 11-faith-depends-upon-knowledge
+  uuid: 0a8ef02c-fdd8-4e44-a250-9b5c9a210a7f
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-ahlul-bayt-ayatullah-murtadha-mutahhari/islamic-way-life
+  title: The Islamic Way of Life
+  slug: 12-the-islamic-way-of-life
+  uuid: a68b8ac8-7535-4ce2-bdae-1bafdcafed0a
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-ahlul-bayt-ayatullah-murtadha-mutahhari/few-quotes-imam-ali-%E2%80%98
+  title: A Few Quotes of Imam Ali (‘a)
+  slug: 13-a-few-quotes-of-imam-ali-a
+  uuid: 5ea59f77-8322-4ef8-ba30-e47243a2ebe7
+---

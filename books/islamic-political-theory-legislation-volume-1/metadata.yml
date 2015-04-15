@@ -1,0 +1,147 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1
+author: Ayatullah Muhammad Taqi Misbah Yazdi
+publisher: Ahlul Bayt World Assembly
+translator: Mansoor L. Limba
+title: 'Islamic Political Theory (Legislation): Volume 1'
+slug: islamic-political-theory-legislation-volume-1
+uuid: 9b85b617-6a05-4983-8702-8db8c42bc4e8
+description: |
+  The first of two volumes of the renowned and comprehensive text on
+  Islamic political theory by Ayatullah Misbah Yazdi, dealing with the
+  importance of recognizing Islam as the basis of any just political
+  theory, methods of implementing such a theory by the government, and
+  comparing and contrasting this Islamic system with the system
+  predominant in most Western ans secular nations.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 9cd0e030-21e4-48fa-97f1-5e403609e317
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 65c43c78-c751-443f-95e3-fe6e099dbcdc
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-1-most-important-questions-realm
+  title: 'Session 1: The Most Important Questions in the Realm of Islamic Policy'
+  slug: 3-session-1-the-most-important-questions-in-the-realm-of-islamic-policy
+  uuid: 39cf432c-2527-4a7b-a068-0ca1382e1fef
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-2-importance-and-exigency-discussing
+  title: 'Session 2: Importance and Exigency of Discussing Islamic Political Theory'
+  slug: 4-session-2-importance-and-exigency-of-discussing-islamic-political-theory
+  uuid: bb648476-8743-4f92-a2dd-8a660d2dcdfe
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-3-station-politics-religion-part-1
+  title: 'Session 3: Station of Politics in Religion (Part 1)'
+  slug: 5-session-3-station-of-politics-in-religion-part-1
+  uuid: f5a11e66-1e2c-4a2d-b3c9-cf081b581db5
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-4-station-politics-religion-part-2
+  title: 'Session 4: Station of Politics in Religion (Part 2)'
+  slug: 6-session-4-station-of-politics-in-religion-part-2
+  uuid: 4755dfa4-a29e-4c1c-bd2b-34804630ebcd
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-5-freedom-islam-part-1
+  title: 'Session 5: Freedom in Islam (Part 1)'
+  slug: 7-session-5-freedom-in-islam-part-1
+  uuid: 962d8bdf-1cb7-4ee3-892c-237072de6c62
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-6-freedom-islam-part-2
+  title: 'Session 6: Freedom in Islam (Part 2)'
+  slug: 8-session-6-freedom-in-islam-part-2
+  uuid: c749c1c2-15fc-4b75-b87d-542a928b3613
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-7-freedom-its-limits-and-boundaries
+  title: 'Session 7: Freedom, Its Limits and Boundaries'
+  slug: 9-session-7-freedom-its-limits-and-boundaries
+  uuid: b6c15fa6-f4f8-4073-a7bd-3928689b22d0
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-8-elucidation-structure-and-form
+  title: 'Session 8: An Elucidation of the Structure and Form of Government'
+  slug: 10-session-8-an-elucidation-of-the-structure-and-form-of-government
+  uuid: 5b9278c1-09c0-4bb8-830f-9ccd3a17fe9b
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-9-examination-status-laws-religious
+  title: 'Session 9: An Examination of the Status of Laws in the Religious System'
+  slug: 11-session-9-an-examination-of-the-status-of-laws-in-the-religious-system
+  uuid: 1278a2df-1655-4c0f-bd41-5f067818e16f
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-10-law-and-difference-outlook-and
+  title: 'Session 10: Law and the Difference in Outlook and Origin'
+  slug: 12-session-10-law-and-the-difference-in-outlook-and-origin
+  uuid: f3043dec-59d7-4659-bcb8-1f1b41abf439
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-11-criterion-credibility-law
+  title: 'Session 11: Criterion of Credibility of Law'
+  slug: 13-session-11-criterion-of-credibility-of-law
+  uuid: 978984ec-87ff-4799-8dec-510d3723e39d
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-12-different-views-islam-and-west
+  title: 'Session 12: The Different Views of Islam and the West on Values'
+  slug: 14-session-12-the-different-views-of-islam-and-the-west-on-values
+  uuid: fd698579-a95e-467e-b750-241765181b3d
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-13-fundamental-difference-approach-law
+  title: 'Session 13: Fundamental Difference in the Approach to Law between Islam
+    and the West'
+  slug: 15-session-13-fundamental-difference-in-the-approach-to-law-between-islam-and-the-west
+  uuid: 05b400a6-f2ad-4e36-a56a-ec98e38345a8
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-14-west%E2%80%99s-materialistic-approach-law
+  title: 'Session 14: The West’s Materialistic Approach to Law'
+  slug: 16-session-14-the-west-s-materialistic-approach-to-law
+  uuid: 4375f60c-87fd-4a8d-942b-797d922f8226
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-15-islamic-government-challenges-and
+  title: 'Session 15: The Islamic Government, Challenges and Cultural Plots'
+  slug: 17-session-15-the-islamic-government-challenges-and-cultural-plots
+  uuid: 44ddbce4-5796-4881-8143-95b8977d2291
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-16-difference-between-divine-and
+  title: 'Session 16: Difference between Divine and Atheistic Culture in the Realm
+    of Law and Freedom'
+  slug: 18-session-16-difference-between-divine-and-atheistic-culture-in-the-realm-of-law-and-freedom
+  uuid: 418192aa-7384-4443-bb3c-04bf69267b6c
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-17-relationship-between-religious
+  title: 'Session 17: Relationship between Religious Legislative Lordship (rububiyyat-e
+    tashri‘i), and Sovereignty and Legislation'
+  slug: 19-session-17-relationship-between-religious-legislative-lordship-rububiyyat-e-tashri-i-and-sovereignty-and-legislation
+  uuid: b76db4b2-7307-46ad-98cb-d9b76545f1f9
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-18-requisites-legislation-and-its
+  title: 'Session 18: Requisites of Legislation and Its Station in Islam'
+  slug: 20-session-18-requisites-of-legislation-and-its-station-in-islam
+  uuid: 55b24b6c-5abf-4a84-acf1-e89ac0ba5b45
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-19-distinctive-feature-islam-realm
+  title: 'Session 19: Distinctive Feature of Islam in the Realm of Politics and Government'
+  slug: 21-session-19-distinctive-feature-of-islam-in-the-realm-of-politics-and-government
+  uuid: cb9d4549-8f72-4d91-bc92-09fc194fd6d6
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-20-new-perspective-station-law-and
+  title: 'Session 20: A New Perspective on the Station of Law and Government'
+  slug: 22-session-20-a-new-perspective-on-the-station-of-law-and-government
+  uuid: af2a3ae2-b9bc-4a73-b30f-ac96fe213102
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-21-islam-and-democracy-part-1
+  title: 'Session 21: Islam and Democracy (Part 1)'
+  slug: 23-session-21-islam-and-democracy-part-1
+  uuid: 3c7795a8-3b72-476b-9725-8cf1b6b8cd00
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-22-islam-and-democracy-part-2
+  title: 'Session 22: Islam and Democracy (Part 2)'
+  slug: 24-session-22-islam-and-democracy-part-2
+  uuid: 75fd89c9-36cf-4058-a42a-2a66a3ffae6c
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol1/session-23-examination-essence-unity-humanity
+  title: 'Session 23: An Examination of the Essence of Unity in Humanity and the Citizenship
+    of Citizens'
+  slug: 25-session-23-an-examination-of-the-essence-of-unity-in-humanity-and-the-citizenship-of-citizens
+  uuid: a02487dd-b82e-40e8-8c65-2c6f8f1ec3b4
+---

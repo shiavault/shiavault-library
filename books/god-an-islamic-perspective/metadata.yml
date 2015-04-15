@@ -1,0 +1,45 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/god-islamic-perspective-allamah-sayyid-saeed-akhtar-rizvi
+author: Allamah Sayyid Sa'eed Akhtar Rizvi
+publisher: World Organization for Islamic Services (WOFIS)
+title: 'God: An Islamic Perspective'
+slug: god-an-islamic-perspective
+uuid: c7ba2606-5ed6-46ed-8d46-a6c33d434a0d
+description: |
+  A short text explaining the fundamental Islamic principle of belief in
+  single, unique God. The author explains why this belief is both rational
+  and scientific, and concludes with a section on Tawhid and the
+  attributes of Islam.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/god-islamic-perspective-allamah-sayyid-saeed-akhtar-rizvi/god-islamic-perspective
+  title: 'God: An Islamic Perspective'
+  slug: 1-god-an-islamic-perspective
+  uuid: 99cee9b2-f0a5-4f8a-b68f-3ad7ec2a8b32
+- source: :alislam
+  source_url: http://www.al-islam.org/god-islamic-perspective-allamah-sayyid-saeed-akhtar-rizvi/presentation
+  title: Presentation
+  slug: 2-presentation
+  uuid: ba8c44cf-0d76-4512-ba4f-280bcc3e38a1
+- source: :alislam
+  source_url: http://www.al-islam.org/god-islamic-perspective-allamah-sayyid-saeed-akhtar-rizvi/foreword
+  title: Foreword
+  slug: 3-foreword
+  uuid: a4450d49-d514-4d45-af0c-4960a3a22be1
+- source: :alislam
+  source_url: http://www.al-islam.org/god-islamic-perspective-allamah-sayyid-saeed-akhtar-rizvi/part-1-belief-god
+  title: 'Part 1: Belief in God'
+  slug: 4-part-1-belief-in-god
+  uuid: 35e41124-aac4-4731-875c-111afc07d4eb
+- source: :alislam
+  source_url: http://www.al-islam.org/god-islamic-perspective-allamah-sayyid-saeed-akhtar-rizvi/part-2-oneness-god
+  title: 'Part 2: Oneness of God'
+  slug: 5-part-2-oneness-of-god
+  uuid: 7ddb32f5-b0f9-419b-b64a-60bfbc7a433b
+- source: :alislam
+  source_url: http://www.al-islam.org/god-islamic-perspective-allamah-sayyid-saeed-akhtar-rizvi/part-3-tawhid
+  title: 'Part 3: At-Tawhid'
+  slug: 6-part-3-at-tawhid
+  uuid: bc0a90c2-0a8c-4cc5-bf0d-a48e65334f03
+---

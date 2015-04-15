@@ -1,0 +1,18 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/malik-al-ashtar-kamal-al-sayyid
+author: Kamal al-Sayyid
+publisher: Ansariyan Publications - Qum
+translator: Jasim al-Alyawy
+title: Malik al-Ashtar
+slug: malik-al-ashtar
+uuid: 3cd98d22-2a15-47b4-be50-79338aedd17b
+description: |
+  Biography of the devoted companion of the Prophet (s).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/malik-al-ashtar-kamal-al-sayyid/malik-al-ashtar
+  title: Malik al-Ashtar
+  slug: 1-malik-al-ashtar
+  uuid: 4f29eddc-0604-4e1c-a763-c15e9af3a1e3
+---

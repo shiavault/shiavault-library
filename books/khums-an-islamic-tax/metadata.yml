@@ -1,0 +1,48 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/khums-islamic-tax-sayyid-muhammad-rizvi
+author: Sayyid Muhammad Rizvi
+title: Khums, An Islamic Tax
+slug: khums-an-islamic-tax
+uuid: a5ba56e6-2bbb-4e07-9f96-ad42fc8f534c
+description: |
+  This text deals with the Islamic obligation of the payment of Khums, its
+  basis in the Qur'an and tradition, its legal limits, and the modes of
+  its distribution.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/khums-islamic-tax-sayyid-muhammad-rizvi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 69bbe583-f91f-4c71-9e88-c8ec41b6cd07
+- source: :alislam
+  source_url: http://www.al-islam.org/khums-islamic-tax-sayyid-muhammad-rizvi/introduction-islamic-economic-system
+  title: An Introduction To The Islamic Economic System
+  slug: 2-an-introduction-to-the-islamic-economic-system
+  uuid: 17f68e85-90fe-49c8-ab81-758827f60c9c
+- source: :alislam
+  source_url: http://www.al-islam.org/khums-islamic-tax-sayyid-muhammad-rizvi/khums-quran-history
+  title: Khums In The Qur'an & History
+  slug: 3-khums-in-the-qur-an-history
+  uuid: a8a79478-2f0a-45b8-a816-85a1ee95d163
+- source: :alislam
+  source_url: http://www.al-islam.org/khums-islamic-tax-sayyid-muhammad-rizvi/khums-surplus-or-profit-income
+  title: Khums On The Surplus Or Profit Of The Income
+  slug: 4-khums-on-the-surplus-or-profit-of-the-income
+  uuid: ac3dc99c-abbc-484f-a789-78c57966d654
+- source: :alislam
+  source_url: http://www.al-islam.org/khums-islamic-tax-sayyid-muhammad-rizvi/legitimate-wealth-mixed-illegitimate-wealth
+  title: The Legitimate Wealth Mixed With Illegitimate Wealth
+  slug: 5-the-legitimate-wealth-mixed-with-illegitimate-wealth
+  uuid: cd1da1cb-e494-47a8-af0a-5990645e25de
+- source: :alislam
+  source_url: http://www.al-islam.org/khums-islamic-tax-sayyid-muhammad-rizvi/distribution-khums
+  title: The Distribution of Khums
+  slug: 6-the-distribution-of-khums
+  uuid: f72b1fba-63dc-4a49-94ff-d2921b6a38b3
+- source: :alislam
+  source_url: http://www.al-islam.org/khums-islamic-tax-sayyid-muhammad-rizvi/some-thoughts-khums
+  title: Some Thoughts On Khums
+  slug: 7-some-thoughts-on-khums
+  uuid: edc8f537-e6a0-4d8c-8364-1f91a79b4d8d
+---

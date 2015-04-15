@@ -1,0 +1,84 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/tears-karbala-liakat-dewji
+author: Liakat Dewji
+title: Tears For Karbala
+slug: tears-for-karbala
+uuid: 594fd3f8-081e-4bb2-8481-803f32d3cb88
+description: |
+  Presenting children with traditional majaalis (lectures) of the twelve
+  days of Muharram. Detailed biographies of companions and family members
+  of Imam Husayn (a), and accounts of the events before and after the day
+  of 'Ashura.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/tears-karbala-liakat-dewji/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 883aa3cd-4365-42bf-9f37-1a61c5fe7fc3
+- source: :alislam
+  source_url: http://www.al-islam.org/tears-karbala-liakat-dewji/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 425fc2fc-f825-4300-a474-614ec4eea647
+- source: :alislam
+  source_url: http://www.al-islam.org/tears-karbala-liakat-dewji/majlis-1-majaalis-al-husayn
+  title: 'Majlis 1: Majaalis al-Husayn'
+  slug: 3-majlis-1-majaalis-al-husayn
+  uuid: ab29ef33-020d-4df2-8b58-cee765d7affd
+- source: :alislam
+  source_url: http://www.al-islam.org/tears-karbala-liakat-dewji/majlis-2-arrival-karbala
+  title: 'Majlis 2: Arrival In Karbala’'
+  slug: 4-majlis-2-arrival-in-karbala
+  uuid: 8d0fb428-14fe-45f2-bead-61aaadd5d98f
+- source: :alislam
+  source_url: http://www.al-islam.org/tears-karbala-liakat-dewji/majlis-3-janabe-john
+  title: 'Majlis 3: Janabe John'
+  slug: 5-majlis-3-janabe-john
+  uuid: 2eb79500-5a6f-44ce-83e7-c68ca1ae69bd
+- source: :alislam
+  source_url: http://www.al-islam.org/tears-karbala-liakat-dewji/majlis-4-janabe-hurr
+  title: 'Majlis 4: Janabe Hurr'
+  slug: 6-majlis-4-janabe-hurr
+  uuid: 8a55ee43-74c2-48d7-8292-992c46b7f8b7
+- source: :alislam
+  source_url: http://www.al-islam.org/tears-karbala-liakat-dewji/majlis-5-habib-ibn-mazaahir
+  title: 'Majlis 5: Habib Ibn Mazaahir'
+  slug: 7-majlis-5-habib-ibn-mazaahir
+  uuid: a1044de9-a728-448a-880f-badb1883c9e7
+- source: :alislam
+  source_url: http://www.al-islam.org/tears-karbala-liakat-dewji/majlis-6-aun-muhammad
+  title: 'Majlis 6: ‘Aun & Muhammad'
+  slug: 8-majlis-6-aun-muhammad
+  uuid: c537c83c-4841-42f8-ac4a-925726299811
+- source: :alislam
+  source_url: http://www.al-islam.org/tears-karbala-liakat-dewji/majlis-7-hazrat-qasim
+  title: 'Majlis 7: Hazrat Qasim'
+  slug: 9-majlis-7-hazrat-qasim
+  uuid: f86f5299-74d8-4eea-9923-bb4493b895b4
+- source: :alislam
+  source_url: http://www.al-islam.org/tears-karbala-liakat-dewji/majlis-8-hazrat-abbas
+  title: 'Majlis 8: Hazrat ‘Abbas'
+  slug: 10-majlis-8-hazrat-abbas
+  uuid: 8c12a14b-bf30-4966-9e61-f6a7f81bd9b4
+- source: :alislam
+  source_url: http://www.al-islam.org/tears-karbala-liakat-dewji/majlis-9-hazrat-ali-akbar
+  title: 'Majlis 9: Hazrat ‘Ali Akbar'
+  slug: 11-majlis-9-hazrat-ali-akbar
+  uuid: 3ce4e620-8c17-4d24-a1b4-cfcfdb0158c1
+- source: :alislam
+  source_url: http://www.al-islam.org/tears-karbala-liakat-dewji/majlis-10-hazrat-ali-asghar
+  title: 'Majlis 10: Hazrat ‘Ali Asghar'
+  slug: 12-majlis-10-hazrat-ali-asghar
+  uuid: 1fad541d-3455-48c5-934f-616637b77721
+- source: :alislam
+  source_url: http://www.al-islam.org/tears-karbala-liakat-dewji/majlis-11-imam-husayn
+  title: 'Majlis 11: Imam Husayn'
+  slug: 13-majlis-11-imam-husayn
+  uuid: ad495a80-20e2-4b54-b2df-998d5ed6bb0b
+- source: :alislam
+  source_url: http://www.al-islam.org/tears-karbala-liakat-dewji/majlis-12-shaam-al-ghariba
+  title: 'Majlis 12: Shaam al-Ghariba'
+  slug: 14-majlis-12-shaam-al-ghariba
+  uuid: 234b1b81-6af9-4966-81b2-e12309242314
+---

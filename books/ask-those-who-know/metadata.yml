@@ -1,0 +1,63 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/ask-those-who-know-muhammad-al-tijani-al-samawi
+author: Muhammad al-Tijani al-Samawi
+title: Ask Those Who Know
+slug: ask-those-who-know
+uuid: f7fec320-23ef-4350-ae49-b4033b9b88d1
+description: |
+  A discussion by a former Sunni scholar on the Prophet, the Ahlul Bayt,
+  some of the companions of the Prophet, and Sunni books of hadith. By the
+  author of 'Then I was Guided'.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/ask-those-who-know-muhammad-al-tijani-al-samawi/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 055fa2b5-1404-4e5d-be42-6d533e38c078
+- source: :alislam
+  source_url: http://www.al-islam.org/ask-those-who-know-muhammad-al-tijani-al-samawi/chapter-1-concerning-creator-most-sublime-and
+  title: 'Chapter 1: Concerning the Creator, the most Sublime and Majestic'
+  slug: 2-chapter-1-concerning-the-creator-the-most-sublime-and-majestic
+  uuid: fedae887-6d1e-4063-b349-a5ff4f9e6eaf
+- source: :alislam
+  source_url: http://www.al-islam.org/ask-those-who-know-muhammad-al-tijani-al-samawi/chapter-2-concerning-prophet
+  title: 'Chapter 2: Concerning the Prophet (P)'
+  slug: 3-chapter-2-concerning-the-prophet-p
+  uuid: 0da0e91c-eeaf-47c5-95fc-47a6052415c6
+- source: :alislam
+  source_url: http://www.al-islam.org/ask-those-who-know-muhammad-al-tijani-al-samawi/chapter-3-concerning-ahl-al-bayt
+  title: 'Chapter 3: Concerning the ahl al-bayt (A.S)'
+  slug: 4-chapter-3-concerning-the-ahl-al-bayt-a-s
+  uuid: 9da0e87c-f168-4b74-bb1b-60f9712dbb04
+- source: :alislam
+  source_url: http://www.al-islam.org/ask-those-who-know-muhammad-al-tijani-al-samawi/chapter-4-concerning-general-companions
+  title: 'Chapter 4: Concerning the General Companions'
+  slug: 5-chapter-4-concerning-the-general-companions
+  uuid: 727486c8-d444-4e9c-a599-5d552f8d1131
+- source: :alislam
+  source_url: http://www.al-islam.org/ask-those-who-know-muhammad-al-tijani-al-samawi/their-neglecting-prophets-sunna
+  title: 'Their neglecting of the Prophet''s sunna:'
+  slug: 6-their-neglecting-of-the-prophet-s-sunna
+  uuid: 70e46d6e-bb92-4a00-b288-b16924ebb603
+- source: :alislam
+  source_url: http://www.al-islam.org/ask-those-who-know-muhammad-al-tijani-al-samawi/chapter-5-concerning-three-caliphs-abu-bakr-umar-uthman
+  title: 'Chapter 5: Concerning the Three Caliphs, Abu Bakr, ''Umar and ''Uthman'
+  slug: 7-chapter-5-concerning-the-three-caliphs-abu-bakr-umar-and-uthman
+  uuid: f369c8e5-ecb4-4b01-a585-26376fd192a3
+- source: :alislam
+  source_url: http://www.al-islam.org/ask-those-who-know-muhammad-al-tijani-al-samawi/chapter-6-concerning-caliphate
+  title: 'Chapter 6: Concerning the Caliphate'
+  slug: 8-chapter-6-concerning-the-caliphate
+  uuid: 4538e6e6-43d1-4285-9417-2279413ce5c7
+- source: :alislam
+  source_url: http://www.al-islam.org/ask-those-who-know-muhammad-al-tijani-al-samawi/chapter-7-concerning-noble-hadith
+  title: 'Chapter 7: Concerning the Noble Hadith'
+  slug: 9-chapter-7-concerning-the-noble-hadith
+  uuid: c5cc92b4-4f2d-4dba-84d7-bca6eb6b2b12
+- source: :alislam
+  source_url: http://www.al-islam.org/ask-those-who-know-muhammad-al-tijani-al-samawi/chapter-8-concerning-two-sahihs-al-bukhari-muslim
+  title: 'Chapter 8: Concerning the two Sahihs of al-Bukhari and Muslim'
+  slug: 10-chapter-8-concerning-the-two-sahihs-of-al-bukhari-and-muslim
+  uuid: adee06ca-5f11-4d08-9bcc-cf22b9990aff
+---

@@ -1,0 +1,73 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/towards-better-understanding-quran-shaykh-muslim-bhanji
+author: Shaykh Muslim Bhanji
+publisher: Tabligh Centre of KSI Jamat
+title: Towards Better Understanding of the Qur'an
+slug: towards-better-understanding-of-the-qur-an
+uuid: b97254bf-e3e1-46f3-bda1-3aebaa41a51c
+description: |
+  An introduction to the Holy Qur'an describing it's qualities, such as
+  it's power of attraction, why it's a miracle and major themes.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/towards-better-understanding-quran-shaykh-muslim-bhanji/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 64deaaf8-cf02-494d-8ac5-37caa9f14911
+- source: :alislam
+  source_url: http://www.al-islam.org/towards-better-understanding-quran-shaykh-muslim-bhanji/quran-describes-itself
+  title: Qur’an Describes Itself
+  slug: 2-qur-an-describes-itself
+  uuid: 281c71f0-d08e-4fee-9847-0e29277d640d
+- source: :alislam
+  source_url: http://www.al-islam.org/towards-better-understanding-quran-shaykh-muslim-bhanji/excellence-quran-according-masoomeen
+  title: The Excellence of Qur’an according to Ma’soomeen (a.s.)
+  slug: 3-the-excellence-of-qur-an-according-to-ma-soomeen-a-s
+  uuid: d1f1ddcb-cb4a-4761-a713-92dfb6958bda
+- source: :alislam
+  source_url: http://www.al-islam.org/towards-better-understanding-quran-shaykh-muslim-bhanji/quran-s-power-attraction
+  title: Qur’an’s Power of Attraction
+  slug: 4-qur-an-s-power-of-attraction
+  uuid: 0ebd1f56-46be-48da-89db-ad42d63a60e6
+- source: :alislam
+  source_url: http://www.al-islam.org/towards-better-understanding-quran-shaykh-muslim-bhanji/quran-as-miracle
+  title: Qur’an as a Miracle
+  slug: 5-qur-an-as-a-miracle
+  uuid: 416e0b09-364c-4fff-9138-cc2e3ac2a9ca
+- source: :alislam
+  source_url: http://www.al-islam.org/towards-better-understanding-quran-shaykh-muslim-bhanji/illustrative-themes-quran
+  title: The Illustrative Themes of the Qur’an
+  slug: 6-the-illustrative-themes-of-the-qur-an
+  uuid: a6f4edc3-9ff3-4869-bd3b-42ac49c931ed
+- source: :alislam
+  source_url: http://www.al-islam.org/towards-better-understanding-quran-shaykh-muslim-bhanji/central-theme-holy-quran
+  title: The Central Theme of the Holy Qur’an
+  slug: 7-the-central-theme-of-the-holy-qur-an
+  uuid: 83e8d210-068e-4976-8b63-bf6ac3d87480
+- source: :alislam
+  source_url: http://www.al-islam.org/towards-better-understanding-quran-shaykh-muslim-bhanji/methods-used-quran-training-human-being
+  title: Methods used by the Qur’an in Training Human being
+  slug: 8-methods-used-by-the-qur-an-in-training-human-being
+  uuid: 487d297e-1532-49e4-8979-e83835520c3a
+- source: :alislam
+  source_url: http://www.al-islam.org/towards-better-understanding-quran-shaykh-muslim-bhanji/revolutionary-transformation-society-through
+  title: Revolutionary Transformation in the Society through the Qur’an
+  slug: 9-revolutionary-transformation-in-the-society-through-the-qur-an
+  uuid: d3c7f881-4db3-4feb-8882-ff0032b3b7ec
+- source: :alislam
+  source_url: http://www.al-islam.org/towards-better-understanding-quran-shaykh-muslim-bhanji/essentiality-study-quran
+  title: The Essentiality of the Study of the Qur’an
+  slug: 10-the-essentiality-of-the-study-of-the-qur-an
+  uuid: 40b67952-6e10-4066-bcf9-8e2f1f412ee6
+- source: :alislam
+  source_url: http://www.al-islam.org/towards-better-understanding-quran-shaykh-muslim-bhanji/quran-understandable
+  title: Is Qur'an Understandable?
+  slug: 11-is-qur-an-understandable
+  uuid: a8f7cf3c-4aa7-4964-9ee6-711bad2c5dd6
+- source: :alislam
+  source_url: http://www.al-islam.org/towards-better-understanding-quran-shaykh-muslim-bhanji/selected-references
+  title: Selected References
+  slug: 12-selected-references
+  uuid: a6529f0a-ea80-4792-9385-af25d1a3a0ae
+---

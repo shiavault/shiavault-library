@@ -1,0 +1,38 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/making-an-islamic-will-sayyid-muhammad-rizvi
+author: Sayyid Muhammad Rizvi
+publisher: Islamic Education & Information Center
+title: Making an Islamic Will
+slug: making-an-islamic-will
+uuid: 7e3393d3-e5be-413f-9461-89a8d90eb0f4
+description: |
+  A clear and concise book by Sayyid Muhammad Rizvi explaining the
+  necessity of making a will and the Islamic procedure of creating it.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/making-an-islamic-will-sayyid-muhammad-rizvi/writing-islamic-will
+  title: Writing an Islamic Will
+  slug: 1-writing-an-islamic-will
+  uuid: f0a110a2-7bf1-4405-a5ec-4d1cfa6b2fc6
+- source: :alislam
+  source_url: http://www.al-islam.org/making-an-islamic-will-sayyid-muhammad-rizvi/circle-heirs
+  title: The Circle of Heirs
+  slug: 2-the-circle-of-heirs
+  uuid: f34029c1-9c88-4360-bf33-137ec1deeeff
+- source: :alislam
+  source_url: http://www.al-islam.org/making-an-islamic-will-sayyid-muhammad-rizvi/basic-shares-most-common-heirs
+  title: Basic Shares of the Most Common Heirs
+  slug: 3-basic-shares-of-the-most-common-heirs
+  uuid: 0317b24e-1ae7-4068-9fc1-2fbf7362ce28
+- source: :alislam
+  source_url: http://www.al-islam.org/making-an-islamic-will-sayyid-muhammad-rizvi/list-charts-explaining-36-most-common-divisions-estate
+  title: 'List of Charts: explaining 36 most common divisions of an estate'
+  slug: 4-list-of-charts-explaining-36-most-common-divisions-of-an-estate
+  uuid: 09b9d92a-ca84-473f-84ad-6c3f8227ebb2
+- source: :alislam
+  source_url: http://www.al-islam.org/making-an-islamic-will-sayyid-muhammad-rizvi/sample-islamic-will
+  title: Sample of an Islamic Will
+  slug: 5-sample-of-an-islamic-will
+  uuid: f5460b11-9fb4-4d29-aa33-4f9b61a0f53b
+---

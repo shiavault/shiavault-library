@@ -1,0 +1,96 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/muhammad-the-last-prophet-sayyid-akhtar-rizvi
+author: Allamah Sayyid Sa'eed Akhtar Rizvi
+publisher: Bilal Muslim Mission of Tanzania
+title: Muhammad (S) is the Last Prophet
+slug: muhammad-s-is-the-last-prophet
+uuid: 04370af2-8e7a-49c0-b787-3a9c986d5cba
+description: |
+  This text is a response to the erroneous Ahmadiyya (Qadiani) beliefs
+  about the alleged prophethood of Mirza Ghulam Ahmad. It discusses in
+  depth the finality of prophethood with Prophet Muhammad in light of the
+  Qur'an and traditions (ahadith). It also refutes the claims that connect
+  Imam Mahdi with Mirza Ghulam Ahmad.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-the-last-prophet-sayyid-akhtar-rizvi/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: ca10f4b8-2374-47d4-b01e-ffd15f2bfdae
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-the-last-prophet-sayyid-akhtar-rizvi/finality-prophethood-khatm-nubuwwah
+  title: Finality of Prophethood, Khatm an-Nubuwwah
+  slug: 2-finality-of-prophethood-khatm-an-nubuwwah
+  uuid: 8285ea42-982b-4cbe-a937-7934d6d36ee1
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-the-last-prophet-sayyid-akhtar-rizvi/challenge-ahmadism
+  title: Challenge of Ahmadism
+  slug: 3-challenge-of-ahmadism
+  uuid: 40a590c4-64d6-4cfc-a8ea-6a458a0cd72b
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-the-last-prophet-sayyid-akhtar-rizvi/historic-background-ahmadism
+  title: Historic Background of Ahmadism
+  slug: 4-historic-background-of-ahmadism
+  uuid: 099987ca-0c7f-44c6-8bab-d07ae6a21003
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-the-last-prophet-sayyid-akhtar-rizvi/commentary-tafseer-khatam-un-nabiyyin
+  title: Commentary (Tafseer) of Khatam un-Nabiyyin
+  slug: 5-commentary-tafseer-of-khatam-un-nabiyyin
+  uuid: 63d5f210-680f-4ff1-9efc-93604356ca30
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-the-last-prophet-sayyid-akhtar-rizvi/khatam-un-nabiyyin-tradition
+  title: "'Khatam un-Nabiyyin' in Tradition"
+  slug: 6-khatam-un-nabiyyin-in-tradition
+  uuid: 4399ba74-8e64-46ad-9416-2fdd0d555263
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-the-last-prophet-sayyid-akhtar-rizvi/other-traditions
+  title: Other Traditions
+  slug: 7-other-traditions
+  uuid: da563d08-851f-42b8-8322-c1067722d1de
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-the-last-prophet-sayyid-akhtar-rizvi/nubuwwah-without-new-shari%E2%80%99ah
+  title: Nubuwwah without new Shari’ah
+  slug: 8-nubuwwah-without-new-shari-ah
+  uuid: 0ba8e626-b5f9-473b-8d7e-5878e6dea33a
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-the-last-prophet-sayyid-akhtar-rizvi/khatam-dictionaries-and-usage
+  title: "'Khatam' in Dictionaries and Usage"
+  slug: 9-khatam-in-dictionaries-and-usage
+  uuid: a4bb349b-4702-499b-ada5-026f5b3010fc
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-the-last-prophet-sayyid-akhtar-rizvi/who-ahmad
+  title: Who is Ahmad?
+  slug: 10-who-is-ahmad
+  uuid: 2d404644-31b5-47c9-bd18-d3c122c8d67c
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-the-last-prophet-sayyid-akhtar-rizvi/history-religions
+  title: History of Religions
+  slug: 11-history-of-religions
+  uuid: 4ddcbadf-2d92-4e83-8c42-f0f30a674786
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-the-last-prophet-sayyid-akhtar-rizvi/some-misinterpreted-verses
+  title: Some Misinterpreted Verses
+  slug: 12-some-misinterpreted-verses
+  uuid: 4970bdf8-1471-4c20-b9fd-a6dfc0441323
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-the-last-prophet-sayyid-akhtar-rizvi/imam-mahdi-aj
+  title: Imam Mahdi  (a.j.)
+  slug: 13-imam-mahdi-a-j
+  uuid: 758775ec-e184-4fdb-a78e-5dde04a2778b
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-the-last-prophet-sayyid-akhtar-rizvi/other-signs
+  title: Other Signs
+  slug: 14-other-signs
+  uuid: bc310e56-1ad0-48b3-8fa2-c75313f30299
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-the-last-prophet-sayyid-akhtar-rizvi/jesus-son-mary
+  title: Jesus, Son of Mary (a.s.)
+  slug: 15-jesus-son-of-mary-a-s
+  uuid: 5116304d-df7f-46e7-a28b-dcf20a0cdad6
+- source: :alislam
+  source_url: http://www.al-islam.org/muhammad-the-last-prophet-sayyid-akhtar-rizvi/conclusion-these-traditions
+  title: Conclusion from these Traditions
+  slug: 16-conclusion-from-these-traditions
+  uuid: 04be8985-27ef-4545-9ad9-52003c54ebba
+---

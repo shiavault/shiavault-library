@@ -1,0 +1,103 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/fatima-is-fatima-dr-ali-shariati
+author: Dr. Ali Shariati
+publisher: The Shariati Foundation
+title: Fatima is Fatima
+slug: fatima-is-fatima
+uuid: 78dba199-87d7-4d03-b3a4-6ceea0e10ca3
+description: |
+  Compilation of lectures given by Dr Shariati on the roles and
+  responsibilities of women as according to the life of Fatima Zahra (a).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-is-fatima-dr-ali-shariati/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: e08cecdf-3705-41f7-a56e-72e80e4431a8
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-is-fatima-dr-ali-shariati/words-reader
+  title: Words for the Reader
+  slug: 2-words-for-the-reader
+  uuid: bfc805d7-ea00-42c6-bce0-5d1432f2847b
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-is-fatima-dr-ali-shariati/my-beloved-daughters
+  title: To My Beloved Daughters
+  slug: 3-to-my-beloved-daughters
+  uuid: 8e093a2e-bd9b-40ec-a64c-493305399094
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-is-fatima-dr-ali-shariati/introduction-0
+  title: Introduction
+  slug: 4-introduction
+  uuid: ac5cc049-f494-4528-80ef-39bb1272f474
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-is-fatima-dr-ali-shariati/who-am-i
+  title: Who Am I?
+  slug: 5-who-am-i
+  uuid: 07177977-d994-4a87-8407-664619f393e9
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-is-fatima-dr-ali-shariati/who-responsible
+  title: Who Is Responsible?
+  slug: 6-who-is-responsible
+  uuid: 944d1bc5-38d4-4713-85ec-dc6e03c57dc6
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-is-fatima-dr-ali-shariati/what-did-they-miss
+  title: What Did They Miss?
+  slug: 7-what-did-they-miss
+  uuid: dc8c3045-a747-4a98-9390-fcc4e538a77b
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-is-fatima-dr-ali-shariati/what-should-be-done
+  title: What Should be Done?
+  slug: 8-what-should-be-done
+  uuid: 006fde8a-d7b3-4efd-883e-a5b1b993c054
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-is-fatima-dr-ali-shariati/which-mould-do-they-fill
+  title: Which Mould Do They Fill?
+  slug: 9-which-mould-do-they-fill
+  uuid: ff541996-0dd1-4569-9235-643d19e63d63
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-is-fatima-dr-ali-shariati/what-role-did-women-attack
+  title: What Role Did Women In the Attack?
+  slug: 10-what-role-did-women-in-the-attack
+  uuid: 2cab9f5e-66b3-4636-b63a-46fff4bf7e8b
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-is-fatima-dr-ali-shariati/social-customs-hejaz
+  title: The Social Customs of Hejaz
+  slug: 11-the-social-customs-of-hejaz
+  uuid: df0df89a-1988-4e7a-8f45-a9a66c7d360d
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-is-fatima-dr-ali-shariati/islam-revolutionized-position-women
+  title: Islam Revolutionized the Position of Women
+  slug: 12-islam-revolutionized-the-position-of-women
+  uuid: c776af2b-6e4e-4a01-96a9-0ceaecbc77e1
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-is-fatima-dr-ali-shariati/confinement
+  title: The Confinement
+  slug: 13-the-confinement
+  uuid: 5d2f3dc6-07eb-47e6-9393-ec076f34b072
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-is-fatima-dr-ali-shariati/freedom-tragedy-spiritual-strength
+  title: Freedom, Tragedy, Spiritual Strength
+  slug: 14-freedom-tragedy-spiritual-strength
+  uuid: 5d1d7de6-fff4-406f-8b87-2a4e178c33cf
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-is-fatima-dr-ali-shariati/new-history-begins
+  title: A New History Begins
+  slug: 15-a-new-history-begins
+  uuid: ab03a2eb-cb79-4135-9560-bce06e59ca19
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-is-fatima-dr-ali-shariati/why-fatima
+  title: Why Fatima?
+  slug: 16-why-fatima
+  uuid: 36c12941-de6b-48a4-8304-625eaa686058
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-is-fatima-dr-ali-shariati/her-final-struggle
+  title: Her Final Struggle
+  slug: 17-her-final-struggle
+  uuid: 4285185f-91d9-43d0-83da-fbac38f05cad
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-is-fatima-dr-ali-shariati/epilogue
+  title: Epilogue
+  slug: 18-epilogue
+  uuid: b573e696-c97d-41fa-97bb-d80cac94cfc8
+---

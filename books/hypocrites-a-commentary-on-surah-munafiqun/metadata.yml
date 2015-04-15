@@ -1,0 +1,52 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/hypocrites-commentary-surah-munafiqun-ayatullah-jafar-subhani
+author: Ayatullah Ja’far Subhani
+translator: Hamid Hussein Waqar
+title: 'Hypocrites: A Commentary on Surah Munafiqun'
+slug: hypocrites-a-commentary-on-surah-munafiqun
+uuid: 5d33e91e-0a5e-4ab6-b98c-59bf3f5a6c7d
+description: |
+  A description of the reality of hypocrites in the Holy Quran.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/hypocrites-commentary-surah-munafiqun-ayatullah-jafar-subhani/introduction-contention-society-basis
+  title: 'Introduction: Contention In Society is The Basis For Mankind’s Perfection'
+  slug: 1-introduction-contention-in-society-is-the-basis-for-mankind-s-perfection
+  uuid: 288a2cb6-633b-4053-87f7-3350725e835b
+- source: :alislam
+  source_url: http://www.al-islam.org/hypocrites-commentary-surah-munafiqun-ayatullah-jafar-subhani/special-qualities-surah-al-munafiqun
+  title: Special Qualities of Surah al-Munafiqun
+  slug: 2-special-qualities-of-surah-al-munafiqun
+  uuid: 8375c4d0-d191-4fbd-8f64-50909055fba9
+- source: :alislam
+  source_url: http://www.al-islam.org/hypocrites-commentary-surah-munafiqun-ayatullah-jafar-subhani/hypocrisy
+  title: Hypocrisy
+  slug: 3-hypocrisy
+  uuid: a33105af-e26d-4d9a-bfbb-1f5c3daef3b3
+- source: :alislam
+  source_url: http://www.al-islam.org/hypocrites-commentary-surah-munafiqun-ayatullah-jafar-subhani/detrimental-effects-hypocrisy
+  title: Detrimental Effects of Hypocrisy
+  slug: 4-detrimental-effects-of-hypocrisy
+  uuid: eaaeb1c8-5c95-4ef4-96b1-8096eb29b961
+- source: :alislam
+  source_url: http://www.al-islam.org/hypocrites-commentary-surah-munafiqun-ayatullah-jafar-subhani/signs-hypocrisy
+  title: Signs of Hypocrisy
+  slug: 5-signs-of-hypocrisy
+  uuid: a78bb56e-3ac6-4bbd-9659-bc04211857b7
+- source: :alislam
+  source_url: http://www.al-islam.org/hypocrites-commentary-surah-munafiqun-ayatullah-jafar-subhani/hypocrites-and-repentance
+  title: Hypocrites And Repentance
+  slug: 6-hypocrites-and-repentance
+  uuid: 8e77f8d5-e88d-4f85-b687-94ee2e90a210
+- source: :alislam
+  source_url: http://www.al-islam.org/hypocrites-commentary-surah-munafiqun-ayatullah-jafar-subhani/hypocrites-dangerous-plans
+  title: Hypocrites’ Dangerous Plans
+  slug: 7-hypocrites-dangerous-plans
+  uuid: 9be7b92b-d543-46cb-be2a-dbd7e4dbe350
+- source: :alislam
+  source_url: http://www.al-islam.org/hypocrites-commentary-surah-munafiqun-ayatullah-jafar-subhani/islamic-viewpoint-world
+  title: The Islamic Viewpoint of The World
+  slug: 8-the-islamic-viewpoint-of-the-world
+  uuid: ef8f2f60-c69f-43bc-9a45-957d92e27638
+---

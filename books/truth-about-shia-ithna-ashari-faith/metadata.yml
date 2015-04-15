@@ -1,0 +1,66 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/truth-about-shia-ithna-ashari-faith-asad-wahid-al-qasim
+author: As'ad Wahid al-Qasim
+publisher: Ansariyan Publications - Qum
+translator: Yasin T. Al-Jibouri
+title: Truth About Shia Ithna Ashari Faith
+slug: truth-about-shia-ithna-ashari-faith
+uuid: d40f269b-eff9-4d4c-9d90-f18e2d9832df
+description: |
+  As'ad Wahid al-Qasim is a seeker of the truth who tried hard to reach it
+  very bitterly till Allah guided him to the Straight Path. He was born in
+  the Dayr al-Ghusun village on the West Bank [of the Jordan River] in
+  Occupied Palestine. Having finished his high school, he made the trip to
+  Jordan where he earned a diploma in engineering vocations. Then he
+  traveled to the Phillippines where he earned his B.A. in Civil
+  Engineering then his Masters in Construction Management. He is about to
+  earn his Ph.D. in Governmental Administration as soon as he finishes his
+  research about Islamic Public Administration.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/truth-about-shia-ithna-ashari-faith-asad-wahid-al-qasim/author
+  title: The Author
+  slug: 1-the-author
+  uuid: 0b763401-cf2b-4eb8-b686-badf79018521
+- source: :alislam
+  source_url: http://www.al-islam.org/truth-about-shia-ithna-ashari-faith-asad-wahid-al-qasim/dedication
+  title: Dedication
+  slug: 2-dedication
+  uuid: 932da95d-f6f0-438f-a288-1104762e8cc3
+- source: :alislam
+  source_url: http://www.al-islam.org/truth-about-shia-ithna-ashari-faith-asad-wahid-al-qasim/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: fbf160f8-386a-4dce-b88d-978cc4898ae8
+- source: :alislam
+  source_url: http://www.al-islam.org/truth-about-shia-ithna-ashari-faith-asad-wahid-al-qasim/im%C4%81mate
+  title: Imāmate
+  slug: 4-imamate
+  uuid: 99003653-6907-44f4-a51b-e578cdaae13b
+- source: :alislam
+  source_url: http://www.al-islam.org/truth-about-shia-ithna-ashari-faith-asad-wahid-al-qasim/sah%C4%81bah-how-equitable-were-they
+  title: 'The Sahābah: How Equitable Were They?'
+  slug: 5-the-sahabah-how-equitable-were-they
+  uuid: 62d348e1-812b-434a-a8fd-92192abd7748
+- source: :alislam
+  source_url: http://www.al-islam.org/truth-about-shia-ithna-ashari-faith-asad-wahid-al-qasim/sh%C4%AB%E2%80%99ahs-and-holy-qur%E2%80%99%C4%81n
+  title: Shī’ahs And The Holy Qur’ān
+  slug: 6-shi-ahs-and-the-holy-qur-an
+  uuid: adc369e7-6992-4071-8825-8d2586b865d7
+- source: :alislam
+  source_url: http://www.al-islam.org/truth-about-shia-ithna-ashari-faith-asad-wahid-al-qasim/sh%C4%AB%E2%80%99ahs-and-purified-sunnah
+  title: Shī’ahs And The Purified Sunnah
+  slug: 7-shi-ahs-and-the-purified-sunnah
+  uuid: 9045c4ad-4fa0-4013-8eac-077ffb5d50b9
+- source: :alislam
+  source_url: http://www.al-islam.org/truth-about-shia-ithna-ashari-faith-asad-wahid-al-qasim/mut%E2%80%99-temporary-marriage
+  title: 'Mut’a: Temporary Marriage'
+  slug: 8-mut-a-temporary-marriage
+  uuid: 88165722-d9f4-4ba3-a0f9-4b8b044ee7f2
+- source: :alislam
+  source_url: http://www.al-islam.org/truth-about-shia-ithna-ashari-faith-asad-wahid-al-qasim/awaited-mahdi-and-dissensions
+  title: The Awaited Mahdi And Dissensions
+  slug: 9-the-awaited-mahdi-and-dissensions
+  uuid: 209b00cd-b935-4885-acad-8bd476e9ce4e
+---

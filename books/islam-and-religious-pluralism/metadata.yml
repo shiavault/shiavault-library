@@ -1,0 +1,63 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islam-and-religious-pluralism-ayatullah-murtadha-mutahhari
+author: Ayatullah Murtadha Mutahhari
+publisher: Islamic Publishing House (Canada)
+translator: Sayyid Sulayman Ali Hasan
+title: Islam and Religious Pluralism
+slug: islam-and-religious-pluralism
+uuid: 5fb61877-ea1f-4e9c-b83a-ca5a1e587da2
+description: |
+  An indepth discussion on the Islamic perspective of Religious Pluralism.
+  This book offers rational answers to questions such as: will the great
+  inventors and scientists, despite their worthy services for humanity, go
+  to Hell? Will the likes of Pasteur and Edison go to Hell whilst indolent
+  people who have spent their lives in a corner of the Masjid go to
+  Heaven?
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-religious-pluralism-ayatullah-murtadha-mutahhari/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 74de7475-e1d3-47fb-8c7e-fd9c927b6bdb
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-religious-pluralism-ayatullah-murtadha-mutahhari/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 68d729dd-7fab-4427-9cd8-32faf7483452
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-religious-pluralism-ayatullah-murtadha-mutahhari/biography-late-ayatullah-murtadha
+  title: Biography of the late Ayatullah Murtadha Mutahhari
+  slug: 3-biography-of-the-late-ayatullah-murtadha-mutahhari
+  uuid: a400ffe6-5a2d-428d-aa79-756e35ce119a
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-religious-pluralism-ayatullah-murtadha-mutahhari/good-deeds-non-muslims
+  title: Good Deeds of Non-Muslims
+  slug: 4-good-deeds-of-non-muslims
+  uuid: 6fdf73c6-38b1-4ee2-b5f6-c55c547a6f09
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-religious-pluralism-ayatullah-murtadha-mutahhari/good-deeds-without-faith
+  title: Good Deeds Without Faith
+  slug: 5-good-deeds-without-faith
+  uuid: b4dcabf2-603e-4c67-8ac4-93db8455f4c4
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-religious-pluralism-ayatullah-murtadha-mutahhari/value-belief
+  title: Value of Belief
+  slug: 6-value-of-belief
+  uuid: 2ea993cf-c5de-450a-82c3-9afa4acfb97c
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-religious-pluralism-ayatullah-murtadha-mutahhari/below-zero-point
+  title: Below the Zero Point
+  slug: 7-below-the-zero-point
+  uuid: 9fe9aa7f-81b9-4dfe-8bc9-ca4954bf58a1
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-religious-pluralism-ayatullah-murtadha-mutahhari/sins-muslims
+  title: The Sins of Muslims
+  slug: 8-the-sins-of-muslims
+  uuid: 535f2f76-84d2-4b90-8ea0-027ba735398a
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-religious-pluralism-ayatullah-murtadha-mutahhari/summary-and-conclusion
+  title: Summary and Conclusion
+  slug: 9-summary-and-conclusion
+  uuid: 3846e4c5-4f43-4b0d-a8bb-100dc224b0e5
+---

@@ -1,0 +1,46 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/and-once-again-abu-dharr-dr-ali-shariati
+author: Dr. Ali Shariati
+title: And Once Again Abu Dharr
+slug: and-once-again-abu-dharr
+uuid: b06c156c-4870-4abd-a6d4-0cff95aa28be
+description: |
+  A brief Biography of a great Companion of the Holy Prophet, Abu Dharr.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/and-once-again-abu-dharr-dr-ali-shariati/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 5d074c45-696a-46f4-93e1-f0b73887ee01
+- source: :alislam
+  source_url: http://www.al-islam.org/and-once-again-abu-dharr-dr-ali-shariati/part-one
+  title: Part One
+  slug: 2-part-one
+  uuid: d12faa39-fe6c-4749-86b4-32fbc36f0b00
+- source: :alislam
+  source_url: http://www.al-islam.org/and-once-again-abu-dharr-dr-ali-shariati/part-two
+  title: Part Two
+  slug: 3-part-two
+  uuid: 98297701-b342-4193-a13f-a1baa97b43bd
+- source: :alislam
+  source_url: http://www.al-islam.org/and-once-again-abu-dharr-dr-ali-shariati/part-three
+  title: Part Three
+  slug: 4-part-three
+  uuid: 1bc4587b-cfc8-43b4-adb6-2ca9527b0632
+- source: :alislam
+  source_url: http://www.al-islam.org/and-once-again-abu-dharr-dr-ali-shariati/part-four
+  title: Part Four
+  slug: 5-part-four
+  uuid: d7a2afed-f344-4116-b656-5c3a8536e3e9
+- source: :alislam
+  source_url: http://www.al-islam.org/and-once-again-abu-dharr-dr-ali-shariati/part-five
+  title: Part Five
+  slug: 6-part-five
+  uuid: be09f9a2-4823-4501-9558-11381834397c
+- source: :alislam
+  source_url: http://www.al-islam.org/and-once-again-abu-dharr-dr-ali-shariati/part-six
+  title: Part Six
+  slug: 7-part-six
+  uuid: e76a084c-5ad9-4649-bf6b-0ca8447a14c1
+---

@@ -1,0 +1,66 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islam-and-nationalism-dr-ali-mohammed-naqvi
+author: Dr. Ali Mohammed Naqvi
+publisher: Islamic Propagation Organization
+translator: Dr. Alaedin Pazargadi
+title: Islam and Nationalism
+slug: islam-and-nationalism
+uuid: a3788da9-919e-4013-94c1-c529dc31c80d
+description: |
+  An analysis showing how far Islam and Nationalism are compatible. Some
+  questions that are answered "Can an individual be a Muslim believer and
+  a faithful nationalist at the same time? What has been the historical
+  course of the birth and spread of nationalism in Islamic countries?"
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-nationalism-dr-ali-mohammed-naqvi/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 8f9f4925-e0a2-46d8-b76b-df27a0c2e9cb
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-nationalism-dr-ali-mohammed-naqvi/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 67bf20e2-1962-49e6-9de7-8e50ddb98125
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-nationalism-dr-ali-mohammed-naqvi/part-one-survey-history-nationalism
+  title: 'Part One: A Survey of the History of Nationalism'
+  slug: 3-part-one-a-survey-of-the-history-of-nationalism
+  uuid: b3a9ac8b-8da9-49fa-a5df-8a37196b60ad
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-nationalism-dr-ali-mohammed-naqvi/part-two-history-inroad-nationalism-islamic-world
+  title: 'Part Two: The History of the Inroad of Nationalism in the Islamic World'
+  slug: 4-part-two-the-history-of-the-inroad-of-nationalism-in-the-islamic-world
+  uuid: ee90e9ff-b662-404c-bd6a-d536abc98569
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-nationalism-dr-ali-mohammed-naqvi/part-three-definition-basis-and-characteristics
+  title: 'Part Three: Definition, Basis and Characteristics of Nationalism'
+  slug: 5-part-three-definition-basis-and-characteristics-of-nationalism
+  uuid: aec51f72-e1ef-4fbe-b4c7-cfb51001dea2
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-nationalism-dr-ali-mohammed-naqvi/part-four-philosophy-refuting-nationalism
+  title: 'Part Four: The Philosophy Refuting Nationalism'
+  slug: 6-part-four-the-philosophy-refuting-nationalism
+  uuid: 8930973a-f491-4f1e-82d8-2a42faea004a
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-nationalism-dr-ali-mohammed-naqvi/part-five-shortcomings-nationalism
+  title: 'Part Five: Shortcomings of Nationalism'
+  slug: 7-part-five-shortcomings-of-nationalism
+  uuid: 0bbf6c6f-d2ef-4f51-a04b-195ed94ee1ef
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-nationalism-dr-ali-mohammed-naqvi/part-six-dangers-nationalism
+  title: 'Part Six: Dangers of Nationalism'
+  slug: 8-part-six-dangers-of-nationalism
+  uuid: 9d445539-c3bc-49ca-9578-f4ed86402811
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-nationalism-dr-ali-mohammed-naqvi/part-seven-islam-and-nationalism
+  title: 'Part Seven: Islam and Nationalism'
+  slug: 9-part-seven-islam-and-nationalism
+  uuid: d7b6efd6-8b43-48e9-80f4-21acee6bbf5d
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-nationalism-dr-ali-mohammed-naqvi/part-eight-basis-nationalism
+  title: 'Part Eight: Basis of Nationalism'
+  slug: 10-part-eight-basis-of-nationalism
+  uuid: 9bbf4924-171f-4c18-81f4-8bfbf551eda2
+---

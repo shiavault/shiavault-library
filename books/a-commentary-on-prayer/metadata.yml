@@ -1,0 +1,81 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/commentary-prayer-professor-muhsin-qaraati
+author: Professor Muhsin Qara'ati
+publisher: Ahlul Bayt World Assembly
+translator: Mansoor L. Limba
+title: A Commentary on Prayer
+slug: a-commentary-on-prayer
+uuid: 4c18d36c-62da-4349-a608-9909e9d34535
+description: |
+  This text explains in detail the meaning of Worship and Intention, as
+  well as how different stages of worship are acquired. He then goes on to
+  explain the different actions of Prayer in detail, such as the first
+  Takbir, & the recitation of the Suras
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-prayer-professor-muhsin-qaraati/publisher%E2%80%99s-foreword
+  title: Publisher’s Foreword
+  slug: 1-publisher-s-foreword
+  uuid: cd9a03b1-562d-443f-bb69-a3bbf3d4bd7c
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-prayer-professor-muhsin-qaraati/foreword
+  title: Foreword
+  slug: 2-foreword
+  uuid: 6482b0ea-e528-4d8b-953a-9f81ebb33b38
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-prayer-professor-muhsin-qaraati/preface
+  title: Preface
+  slug: 3-preface
+  uuid: 2fed4b93-9e34-4e09-8353-15f361ebcb16
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-prayer-professor-muhsin-qaraati/worship-%E2%80%98ibadah-and-servitude-%E2%80%98ubudiyyah
+  title: Worship {‘ibadah} and Servitude {‘ubudiyyah}
+  slug: 4-worship-ibadah-and-servitude-ubudiyyah
+  uuid: e2c7f8f6-7f0e-40a5-8fe2-767b9336e08a
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-prayer-professor-muhsin-qaraati/intention-niyyah
+  title: Intention {niyyah}
+  slug: 5-intention-niyyah
+  uuid: 1e3175a7-db7d-48a9-a7d7-f46696f99eae
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-prayer-professor-muhsin-qaraati/takbirah-al-ihram
+  title: Takbirah al-Ihram
+  slug: 6-takbirah-al-ihram
+  uuid: 5819ee4d-ed8a-4753-ad55-0f0fb3d0640a
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-prayer-professor-muhsin-qaraati/surah-al-fatihah
+  title: Surah al-Fatihah
+  slug: 7-surah-al-fatihah
+  uuid: 69452cd4-5a9f-44c1-b124-97db39fd78cb
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-prayer-professor-muhsin-qaraati/surah-al-ikhlas
+  title: Surah al-Ikhlas
+  slug: 8-surah-al-ikhlas
+  uuid: 326f9744-5d8e-4b4d-b005-89e7c2e4313f
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-prayer-professor-muhsin-qaraati/bowing-down-ruku%E2%80%98-and-prostration-sujud
+  title: Bowing Down {ruku‘} and Prostration {sujud}
+  slug: 9-bowing-down-ruku-and-prostration-sujud
+  uuid: 4bf214f9-7cf0-4e7d-b192-941ae875519e
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-prayer-professor-muhsin-qaraati/dhikr-tasbih
+  title: Dhikr at-Tasbih
+  slug: 10-dhikr-at-tasbih
+  uuid: 98f6467a-ac0e-4554-8b2f-967ca71a6470
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-prayer-professor-muhsin-qaraati/qunut
+  title: Qunut
+  slug: 11-qunut
+  uuid: f189c239-3a98-4804-b05d-08880b5b7c00
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-prayer-professor-muhsin-qaraati/tashahhud-and-salam
+  title: Tashahhud and Salam
+  slug: 12-tashahhud-and-salam
+  uuid: 2d40ddd4-2014-4c6a-bd33-60088da2bf06
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-prayer-professor-muhsin-qaraati/bibliography
+  title: Bibliography
+  slug: 13-bibliography
+  uuid: 0e4ac5f5-9814-43dc-8b3e-18c54957ba2e
+---

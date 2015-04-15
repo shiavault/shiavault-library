@@ -1,0 +1,27 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/ziyaarat-aale-yaasin-brief-commentary
+publisher: Association of Imam Mahdi
+title: Ziyaarat Aale-Yaasin, A Brief Commentary
+slug: ziyaarat-aale-yaasin-a-brief-commentary
+uuid: 5558b170-2332-4627-bbf3-b3b27214b3fe
+description: |
+  A brief explanation of the Ziyaarat al-Aale Yaasin, the profound and
+  meaningful salutation from Imam al-Mahdi (a.t.f.s.).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/ziyaarat-aale-yaasin-brief-commentary/preface
+  title: Preface
+  slug: 1-preface
+  uuid: e60b6b7b-1618-4364-b9ca-67453fae406d
+- source: :alislam
+  source_url: http://www.al-islam.org/ziyaarat-aale-yaasin-brief-commentary/full-arabic-text-ziyaarat-aali-yaasin
+  title: Full Arabic Text of Ziyaarat Aali Yaasin
+  slug: 2-full-arabic-text-of-ziyaarat-aali-yaasin
+  uuid: 2df4fe43-3fde-4245-b655-0b49d10e5d7b
+- source: :alislam
+  source_url: http://www.al-islam.org/ziyaarat-aale-yaasin-brief-commentary/ziyaarat-aali-yaasin-brief-commentary
+  title: Ziyaarat Aali –Yaasin, A Brief Commentary
+  slug: 3-ziyaarat-aali-yaasin-a-brief-commentary
+  uuid: 8462e605-0d95-4caf-bc4a-313235b65393
+---

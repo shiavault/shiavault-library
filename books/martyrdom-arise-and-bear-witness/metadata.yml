@@ -1,0 +1,38 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/martyrdom-arise-and-bear-witness-dr-ali-shariati
+author: Dr. Ali Shariati
+translator: Ali Asghar Ghassemy
+title: 'Martyrdom: Arise and Bear Witness'
+slug: martyrdom-arise-and-bear-witness
+uuid: d0feced4-a816-4a18-8b5d-94e360ea7e03
+description: |
+  A compilation of lectures by Dr Ali Shariati on the concept of
+  martyrdom, and the importance of martyrdom in Shi'ite ideology.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/martyrdom-arise-and-bear-witness-dr-ali-shariati/translators-preface
+  title: Translator's Preface
+  slug: 1-translator-s-preface
+  uuid: bd0f6fbe-8a63-43b0-9664-c0906aba85fc
+- source: :alislam
+  source_url: http://www.al-islam.org/martyrdom-arise-and-bear-witness-dr-ali-shariati/editors-preface
+  title: Editor's Preface
+  slug: 2-editor-s-preface
+  uuid: 42423892-73e9-4fb2-ab5d-d966290cb191
+- source: :alislam
+  source_url: http://www.al-islam.org/martyrdom-arise-and-bear-witness-dr-ali-shariati/martyrdom
+  title: Martyrdom
+  slug: 3-martyrdom
+  uuid: 65e38d21-9d65-454c-b04f-fd34dbc0bd0a
+- source: :alislam
+  source_url: http://www.al-islam.org/martyrdom-arise-and-bear-witness-dr-ali-shariati/prayer
+  title: A Prayer
+  slug: 4-a-prayer
+  uuid: 8eb30d62-cf88-4064-aeef-747f08ed8170
+- source: :alislam
+  source_url: http://www.al-islam.org/martyrdom-arise-and-bear-witness-dr-ali-shariati/after-martyrdom
+  title: After Martyrdom
+  slug: 5-after-martyrdom
+  uuid: 18f6221b-59d7-4489-a66f-e90d0faf4e63
+---

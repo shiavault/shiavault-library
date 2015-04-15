@@ -1,0 +1,100 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/a-new-perspective-women-islam-fatma-saleh-moustafa-al-qazwini
+author: Fatma SalehSayyid Moustafa Al-Qazwini
+publisher: The Islamic Educational Center of Orange County
+title: 'A New Perspective: Women in Islam'
+slug: a-new-perspective-women-in-islam
+uuid: 4347c9ba-e2cf-4215-bc86-7b7ff5b242fb
+description: |
+  "A New Perspective" is a dialogue between an Islamic scholar and a
+  Muslim woman. The book discusses and expounds various issues regarding
+  the rights and laws that pertain to women in Islam, and unwraps some of
+  the distorted images and misconceptions that surround Muslim women.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/a-new-perspective-women-islam-fatma-saleh-moustafa-al-qazwini/presentation
+  title: Presentation
+  slug: 1-presentation
+  uuid: 5f1734a8-8af3-4296-8152-1629783a5164
+- source: :alislam
+  source_url: http://www.al-islam.org/a-new-perspective-women-islam-fatma-saleh-moustafa-al-qazwini/about-authors
+  title: About the Authors
+  slug: 2-about-the-authors
+  uuid: d6d72f3d-d415-4870-abfd-07f462413e24
+- source: :alislam
+  source_url: http://www.al-islam.org/a-new-perspective-women-islam-fatma-saleh-moustafa-al-qazwini/introduction-sayyid-al-qazwini
+  title: Introduction By Sayyid Al-Qazwini
+  slug: 3-introduction-by-sayyid-al-qazwini
+  uuid: 42800daf-a745-40f7-9669-8ce06c81cfa6
+- source: :alislam
+  source_url: http://www.al-islam.org/a-new-perspective-women-islam-fatma-saleh-moustafa-al-qazwini/introduction-fatma-saleh
+  title: Introduction by Fatma Saleh
+  slug: 4-introduction-by-fatma-saleh
+  uuid: 5fc9cba0-a64f-4623-bc5e-dab5a7a7236f
+- source: :alislam
+  source_url: http://www.al-islam.org/a-new-perspective-women-islam-fatma-saleh-moustafa-al-qazwini/preliminary-notes
+  title: Preliminary Notes
+  slug: 5-preliminary-notes
+  uuid: 83426d5a-9950-4c75-9fda-6d9a06f06aab
+- source: :alislam
+  source_url: http://www.al-islam.org/a-new-perspective-women-islam-fatma-saleh-moustafa-al-qazwini/chapter-1-seeking-clarity
+  title: 'Chapter 1: Seeking Clarity'
+  slug: 6-chapter-1-seeking-clarity
+  uuid: 6bc5b9e7-2406-46d4-8a77-6ef8b010bb4f
+- source: :alislam
+  source_url: http://www.al-islam.org/a-new-perspective-women-islam-fatma-saleh-moustafa-al-qazwini/chapter-2-matrimonial-rights
+  title: 'Chapter 2: Matrimonial Rights, Adolescence, Mahr'
+  slug: 7-chapter-2-matrimonial-rights-adolescence-mahr
+  uuid: 378a7bba-85d1-42d6-986f-bac97d6b5498
+- source: :alislam
+  source_url: http://www.al-islam.org/a-new-perspective-women-islam-fatma-saleh-moustafa-al-qazwini/chapter-3-divorce-divorce-and-mahr
+  title: 'Chapter 3: Divorce, Divorce and Mahr, Proprietorship'
+  slug: 8-chapter-3-divorce-divorce-and-mahr-proprietorship
+  uuid: b6701a95-2476-4434-93e5-bc1e5bf38bf8
+- source: :alislam
+  source_url: http://www.al-islam.org/a-new-perspective-women-islam-fatma-saleh-moustafa-al-qazwini/chapter-4-hijab-veiling
+  title: 'Chapter 4: Hijab (Veiling)'
+  slug: 9-chapter-4-hijab-veiling
+  uuid: b9040121-538e-4b0f-ae50-2948e7997bad
+- source: :alislam
+  source_url: http://www.al-islam.org/a-new-perspective-women-islam-fatma-saleh-moustafa-al-qazwini/chapter-5-child-custody
+  title: 'Chapter 5:  Child-Custody'
+  slug: 10-chapter-5-child-custody
+  uuid: 75ed32ba-dc2b-4209-bdf8-a71e8632a19b
+- source: :alislam
+  source_url: http://www.al-islam.org/a-new-perspective-women-islam-fatma-saleh-moustafa-al-qazwini/chapter-6-testifying-judging
+  title: 'Chapter 6: Testifying & Judging'
+  slug: 11-chapter-6-testifying-judging
+  uuid: 1d2950de-5b77-43c1-942f-360af9dd2897
+- source: :alislam
+  source_url: http://www.al-islam.org/a-new-perspective-women-islam-fatma-saleh-moustafa-al-qazwini/chapter-7-disciplinary-action
+  title: 'Chapter 7: Disciplinary Action'
+  slug: 12-chapter-7-disciplinary-action
+  uuid: 5d278d44-4b2c-49ee-be8d-bef603019f78
+- source: :alislam
+  source_url: http://www.al-islam.org/a-new-perspective-women-islam-fatma-saleh-moustafa-al-qazwini/chapter-8-polygamy
+  title: 'Chapter 8: Polygamy'
+  slug: 13-chapter-8-polygamy
+  uuid: af9e7d61-771c-4344-858e-8468c23b1ad8
+- source: :alislam
+  source_url: http://www.al-islam.org/a-new-perspective-women-islam-fatma-saleh-moustafa-al-qazwini/chapter-9-inheritance
+  title: 'Chapter 9: Inheritance'
+  slug: 14-chapter-9-inheritance
+  uuid: 99722690-eeb9-4412-9efd-0a0180d691c0
+- source: :alislam
+  source_url: http://www.al-islam.org/a-new-perspective-women-islam-fatma-saleh-moustafa-al-qazwini/epilogue
+  title: Epilogue
+  slug: 15-epilogue
+  uuid: 07ec06b4-d989-4c4a-a70d-ada660dfae26
+- source: :alislam
+  source_url: http://www.al-islam.org/a-new-perspective-women-islam-fatma-saleh-moustafa-al-qazwini/references
+  title: References
+  slug: 16-references
+  uuid: df5b95d6-c121-4058-883d-80b5b5c97efe
+- source: :alislam
+  source_url: http://www.al-islam.org/a-new-perspective-women-islam-fatma-saleh-moustafa-al-qazwini/glossary-arabic-terms
+  title: Glossary of Arabic Terms
+  slug: 17-glossary-of-arabic-terms
+  uuid: 314a8d96-e07d-4f44-a62c-2103f2f4239e
+---

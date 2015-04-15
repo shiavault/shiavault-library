@@ -1,0 +1,48 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/ritual-and-spiritual-purity-sayyid-muhammad-rizvi
+author: Sayyid Muhammad Rizvi
+publisher: Vancouver Islamic Educational Foundation
+title: The Ritual and Spiritual Purity
+slug: the-ritual-and-spiritual-purity
+uuid: 66f1d957-8156-48cd-b61f-14aa21620c08
+description: |
+  Important guide for Muslims explaining the rules and spiritual
+  significance of Najasat and Taharat, Wudu, Ghusl and Tayammum.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/ritual-and-spiritual-purity-sayyid-muhammad-rizvi/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 1c28e939-27d7-4a15-92d2-d003ebadebd7
+- source: :alislam
+  source_url: http://www.al-islam.org/ritual-and-spiritual-purity-sayyid-muhammad-rizvi/i-najasat-taharat
+  title: I. Najasat & Taharat
+  slug: 2-i-najasat-taharat
+  uuid: 89264e05-7f01-4ab2-94ce-b34246dc6f91
+- source: :alislam
+  source_url: http://www.al-islam.org/ritual-and-spiritual-purity-sayyid-muhammad-rizvi/ii-wudu
+  title: II. Wudu
+  slug: 3-ii-wudu
+  uuid: 7a5137c9-7fed-4ca9-b912-5f51ef995f0f
+- source: :alislam
+  source_url: http://www.al-islam.org/ritual-and-spiritual-purity-sayyid-muhammad-rizvi/iii-ghusl
+  title: III. Ghusl
+  slug: 4-iii-ghusl
+  uuid: 7f932ab5-dc3e-4372-acbe-cec74547ea1a
+- source: :alislam
+  source_url: http://www.al-islam.org/ritual-and-spiritual-purity-sayyid-muhammad-rizvi/iv-ghusl-janabat
+  title: IV. Ghusl Janabat
+  slug: 5-iv-ghusl-janabat
+  uuid: d96b0e2b-f28d-4213-9577-e6715bb4bf8f
+- source: :alislam
+  source_url: http://www.al-islam.org/ritual-and-spiritual-purity-sayyid-muhammad-rizvi/v-tayammum
+  title: V. Tayammum
+  slug: 6-v-tayammum
+  uuid: d3fbae08-20aa-425c-a4c9-23027e67a071
+- source: :alislam
+  source_url: http://www.al-islam.org/ritual-and-spiritual-purity-sayyid-muhammad-rizvi/vi-ritual-spiritual
+  title: VI. From Ritual To Spiritual
+  slug: 7-vi-from-ritual-to-spiritual
+  uuid: c6d58112-075b-4e8d-80d2-3ff16a7839a3
+---

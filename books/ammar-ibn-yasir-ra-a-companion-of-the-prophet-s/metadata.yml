@@ -1,0 +1,97 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/ammar-ibn-yasir-a-companion-of-the-prophet-sadruddin-sharafuddin-al-amili
+author: Sadruddin Sharafuddin al-Amili
+publisher: Islamic Seminary Publications
+title: Ammar Ibn Yasir (ra) - A Companion of the Prophet ('s)
+slug: ammar-ibn-yasir-ra-a-companion-of-the-prophet-s
+uuid: 5b0e917a-7a5f-4778-af0e-f0c9685a8b0b
+description: |
+  Biography of Ammar ibn Yasir by Sadruddin Sharafuddin al-Amili
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/ammar-ibn-yasir-a-companion-of-the-prophet-sadruddin-sharafuddin-al-amili/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 7591f08d-1761-43c9-805f-43c035834b75
+- source: :alislam
+  source_url: http://www.al-islam.org/ammar-ibn-yasir-a-companion-of-the-prophet-sadruddin-sharafuddin-al-amili/chapter-1-sign-guidance
+  title: 'Chapter 1: Sign of Guidance'
+  slug: 2-chapter-1-sign-of-guidance
+  uuid: 51e02690-ba7a-4170-b7e7-084c7b6ea2a1
+- source: :alislam
+  source_url: http://www.al-islam.org/ammar-ibn-yasir-a-companion-of-the-prophet-sadruddin-sharafuddin-al-amili/chapter-2-ammar-ally
+  title: 'Chapter 2: Ammar, the Ally of Makhzum'
+  slug: 3-chapter-2-ammar-the-ally-of-makhzum
+  uuid: 2d86f569-7b60-4c82-93f5-53cf231d15be
+- source: :alislam
+  source_url: http://www.al-islam.org/ammar-ibn-yasir-a-companion-of-the-prophet-sadruddin-sharafuddin-al-amili/chapter-3-condition-makkah
+  title: 'Chapter 3: Condition of Makkah'
+  slug: 4-chapter-3-condition-of-makkah
+  uuid: 0de1466f-6812-4c95-8ffc-3e5c3d5f7e0e
+- source: :alislam
+  source_url: http://www.al-islam.org/ammar-ibn-yasir-a-companion-of-the-prophet-sadruddin-sharafuddin-al-amili/chapter-4-consultative
+  title: 'Chapter 4: The Consultative Body of Quraysh'
+  slug: 5-chapter-4-the-consultative-body-of-quraysh
+  uuid: ab92532c-f0c5-4a38-90a2-9eceba951a1a
+- source: :alislam
+  source_url: http://www.al-islam.org/ammar-ibn-yasir-a-companion-of-the-prophet-sadruddin-sharafuddin-al-amili/chapter-5-ammar-and-abu-jahl
+  title: 'Chapter 5: ‘Ammar and Abu Jahl'
+  slug: 6-chapter-5-ammar-and-abu-jahl
+  uuid: 5bc35568-7e0a-4345-ab67-aabd2750a488
+- source: :alislam
+  source_url: http://www.al-islam.org/ammar-ibn-yasir-a-companion-of-the-prophet-sadruddin-sharafuddin-al-amili/chapter-6-sufferings
+  title: 'Chapter 6: Sufferings of the Oppressed'
+  slug: 7-chapter-6-sufferings-of-the-oppressed
+  uuid: 1009d724-8bbf-44f0-9da5-7343631f0519
+- source: :alislam
+  source_url: http://www.al-islam.org/ammar-ibn-yasir-a-companion-of-the-prophet-sadruddin-sharafuddin-al-amili/chapter-7-such-world
+  title: 'Chapter 7: Such is the World'
+  slug: 8-chapter-7-such-is-the-world
+  uuid: 6c0491cd-b5b2-4f52-bbbe-7ee1259e9e36
+- source: :alislam
+  source_url: http://www.al-islam.org/ammar-ibn-yasir-a-companion-of-the-prophet-sadruddin-sharafuddin-al-amili/chapter-8-dawn-islam
+  title: 'Chapter 8: Dawn of Islam in Medina'
+  slug: 9-chapter-8-dawn-of-islam-in-medina
+  uuid: 5ff7de67-b76c-4f64-8d4d-02c1fb421a49
+- source: :alislam
+  source_url: http://www.al-islam.org/ammar-ibn-yasir-a-companion-of-the-prophet-sadruddin-sharafuddin-al-amili/chapter-9-battle-ditch
+  title: 'Chapter 9: The Battle of the Ditch'
+  slug: 10-chapter-9-the-battle-of-the-ditch
+  uuid: 16ff8c47-96cb-4005-b7c7-3d0a206961d9
+- source: :alislam
+  source_url: http://www.al-islam.org/ammar-ibn-yasir-a-companion-of-the-prophet-sadruddin-sharafuddin-al-amili/%C2%A0chapter-10-day-saqifa
+  title: " Chapter 10: The Day of Saqifa"
+  slug: 11-chapter-10-the-day-of-saqifa
+  uuid: 8f4ab95a-e2f1-4a14-a354-6e1bf7741f11
+- source: :alislam
+  source_url: http://www.al-islam.org/ammar-ibn-yasir-a-companion-of-the-prophet-sadruddin-sharafuddin-al-amili/chapter-11-day-yamama
+  title: 'Chapter 11: The Day of Yamama'
+  slug: 12-chapter-11-the-day-of-yamama
+  uuid: bcc8bf68-c252-49c6-9657-f51d97722b5a
+- source: :alislam
+  source_url: http://www.al-islam.org/ammar-ibn-yasir-a-companion-of-the-prophet-sadruddin-sharafuddin-al-amili/chapter-12%C2%A0-governor-kufa
+  title: Chapter 12: The Governor of Kufa
+  slug: 13-chapter-12-the-governor-of-kufa
+  uuid: 8497b12f-6844-40f3-99ce-1571de2a8e34
+- source: :alislam
+  source_url: http://www.al-islam.org/ammar-ibn-yasir-a-companion-of-the-prophet-sadruddin-sharafuddin-al-amili/chapter-13-ammar-during
+  title: 'Chapter 13: ‘Ammar during the Reign of ‘Uthman'
+  slug: 14-chapter-13-ammar-during-the-reign-of-uthman
+  uuid: 7bd5b773-0b44-444e-89d2-cdb6283e3e6e
+- source: :alislam
+  source_url: http://www.al-islam.org/ammar-ibn-yasir-a-companion-of-the-prophet-sadruddin-sharafuddin-al-amili/chapter-14-standard-imam-ali
+  title: 'Chapter 14: The Standard of Imam ‘Ali'
+  slug: 15-chapter-14-the-standard-of-imam-ali
+  uuid: e094ca07-5f21-48fc-850b-5ecbf3a90e00
+- source: :alislam
+  source_url: http://www.al-islam.org/ammar-ibn-yasir-a-companion-of-the-prophet-sadruddin-sharafuddin-al-amili/chapter-15-one-murdered
+  title: 'Chapter 15: One Murdered By the Rebellious Group'
+  slug: 16-chapter-15-one-murdered-by-the-rebellious-group
+  uuid: 854667b1-faf2-428e-aedb-f78d621eec72
+- source: :alislam
+  source_url: http://www.al-islam.org/ammar-ibn-yasir-a-companion-of-the-prophet-sadruddin-sharafuddin-al-amili/conclusion
+  title: Conclusion
+  slug: 17-conclusion
+  uuid: 916c9eb1-2093-47d1-830a-110e2edd3e3e
+---

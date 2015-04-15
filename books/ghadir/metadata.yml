@@ -1,0 +1,44 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/ghadir-muhammad-baqir-al-sadr-sachedina-muhammad-rizvi-husein-khimjee
+author: Ayatullah Sayyid Muhammad Baqir As-SadrDr. SachedinaSayyid Muhammad RizviHusein
+  Khimjee
+publisher: Ansariyan Publications - Qum
+title: Ghadir
+slug: ghadir
+uuid: f20666c6-9646-4839-89bc-43a30d3d92d7
+description: |
+  Al-Ghadir is the place where the Muslims had stopped was at Ghadir
+  Khumm. The Prophet then delivered a sermon and appointed Imam Ali, peace
+  be upon him, as his successor. This text provides a brief study on the
+  origins of Shi’ism and how the ideology of Wilayah came to existence,
+  and the theological-juridical implications for the Islamic political
+  thought in relation to the Wilayah of Imam Ali (AS).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/ghadir-muhammad-baqir-al-sadr-sachedina-muhammad-rizvi-husein-khimjee/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: cabdc989-dea2-4998-b719-3f15ee8512d0
+- source: :alislam
+  source_url: http://www.al-islam.org/ghadir-muhammad-baqir-al-sadr-sachedina-muhammad-rizvi-husein-khimjee/chapter-1-study-question-al
+  title: 'Chapter 1: A Study on the Question of Al-Wilaya'
+  slug: 2-chapter-1-a-study-on-the-question-of-al-wilaya
+  uuid: 6a79d736-1583-498a-b7eb-c8c396639a40
+- source: :alislam
+  source_url: http://www.al-islam.org/ghadir-muhammad-baqir-al-sadr-sachedina-muhammad-rizvi-husein-khimjee/chapter-2-wiiaya-imam-ali-and
+  title: 'Chapter 2: WiIaya of Imam Ali and its Theological-Juridical Implications
+    for the Islamic Political Thought'
+  slug: 3-chapter-2-wiiaya-of-imam-ali-and-its-theological-juridical-implications-for-the-islamic-political-thought
+  uuid: eac8cacb-acb2-4c75-a05a-9c7b5bc9dc0c
+- source: :alislam
+  source_url: http://www.al-islam.org/ghadir-muhammad-baqir-al-sadr-sachedina-muhammad-rizvi-husein-khimjee/chapter-3-orientalists-and
+  title: 'Chapter 3: Orientalists and the Event of Ghadir Khumm'
+  slug: 4-chapter-3-orientalists-and-the-event-of-ghadir-khumm
+  uuid: e991058c-cb64-4414-90d1-bb2cbcb31412
+- source: :alislam
+  source_url: http://www.al-islam.org/ghadir-muhammad-baqir-al-sadr-sachedina-muhammad-rizvi-husein-khimjee/chapter-4-theological-aspects
+  title: 'Chapter 4: The Theological Aspects of Ghadir'
+  slug: 5-chapter-4-the-theological-aspects-of-ghadir
+  uuid: 3cb1d867-5e6a-40e3-ae86-baa583019341
+---

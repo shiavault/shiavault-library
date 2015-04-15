@@ -1,0 +1,106 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/the-emergence-of-shiism-and-the-shiites-muhammad-baqir-al-sadr
+author: Sayyid Muhammad Baqir al-Sadr
+publisher: Imam Ali Foundation
+translator: Asaad F. Shaker
+title: The Emergence of Shi'ism and the Shi'ites
+slug: the-emergence-of-shi-ism-and-the-shi-ites
+uuid: 4e4aa818-5dc2-4cf2-81f6-a7d2daa44cc6
+description: |
+  The relation between the ideological and the theological realms in
+  Islam. Theories of the Caliphate and the Imamate in Islam and the
+  historical development of Shi'ism as a distinct school of Islamic
+  thought.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/the-emergence-of-shiism-and-the-shiites-muhammad-baqir-al-sadr/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 4438ceb9-544e-4178-b6c7-290afa60bb5c
+- source: :alislam
+  source_url: http://www.al-islam.org/the-emergence-of-shiism-and-the-shiites-muhammad-baqir-al-sadr/foreword
+  title: Foreword
+  slug: 2-foreword
+  uuid: 73bfaeb7-ad12-426b-be1d-7c458a1dd170
+- source: :alislam
+  source_url: http://www.al-islam.org/the-emergence-of-shiism-and-the-shiites-muhammad-baqir-al-sadr/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: 162f4c8e-60ca-47a8-878b-b4d040b37089
+- source: :alislam
+  source_url: http://www.al-islam.org/the-emergence-of-shiism-and-the-shiites-muhammad-baqir-al-sadr/part-1the-emergence-shiism
+  title: Part 1:The Emergence of Shi'ism
+  slug: 4-part-1-the-emergence-of-shi-ism
+  uuid: adf18d72-6a21-4c49-80f0-5ee1bf95d10f
+- source: :alislam
+  source_url: http://www.al-islam.org/the-emergence-of-shiism-and-the-shiites-muhammad-baqir-al-sadr/first-discussion-denial-neglecting
+  title: 'The First Discussion: Denial, Neglecting the Question of Succession'
+  slug: 5-the-first-discussion-denial-neglecting-the-question-of-succession
+  uuid: 315122de-3217-4310-99ff-2e50186a389e
+- source: :alislam
+  source_url: http://www.al-islam.org/the-emergence-of-shiism-and-the-shiites-muhammad-baqir-al-sadr/second-discussion-affirmative-path
+  title: 'The Second Discussion: The Affirmative Path Represented by the Consultative
+    Order'
+  slug: 6-the-second-discussion-the-affirmative-path-represented-by-the-consultative-order
+  uuid: eb896d4f-7d6b-43f9-884e-a9ec6f5112f1
+- source: :alislam
+  source_url: http://www.al-islam.org/the-emergence-of-shiism-and-the-shiites-muhammad-baqir-al-sadr/third-discussion-affirmation
+  title: 'The Third Discussion: Affirmation Represents Choice and Designation'
+  slug: 7-the-third-discussion-affirmation-represents-choice-and-designation
+  uuid: 3cf3b3e6-dd4f-41cd-b977-b86b66656332
+- source: :alislam
+  source_url: http://www.al-islam.org/the-emergence-of-shiism-and-the-shiites-muhammad-baqir-al-sadr/part-2-emergence-shiites
+  title: 'Part 2: The Emergence of the Shi''ites'
+  slug: 8-part-2-the-emergence-of-the-shi-ites
+  uuid: 6bd54e69-5ade-4338-83eb-8d943f011386
+- source: :alislam
+  source_url: http://www.al-islam.org/the-emergence-of-shiism-and-the-shiites-muhammad-baqir-al-sadr/first-discussion-genesis-two-main
+  title: 'The First Discussion: The Genesis of Two Main Currents during the Prophet''s
+    Lifetime'
+  slug: 9-the-first-discussion-the-genesis-of-two-main-currents-during-the-prophet-s-lifetime
+  uuid: 11bb0198-bdbb-4dce-bb4c-1ce4cd302fa9
+- source: :alislam
+  source_url: http://www.al-islam.org/the-emergence-of-shiism-and-the-shiites-muhammad-baqir-al-sadr/second-discussion
+  title: The Second Discussion
+  slug: 10-the-second-discussion
+  uuid: a4072115-f8b1-4b9a-90ef-ef47160c088f
+- source: :alislam
+  source_url: http://www.al-islam.org/the-emergence-of-shiism-and-the-shiites-muhammad-baqir-al-sadr/third-discussion-spiritual-shiism-and
+  title: 'The Third Discussion: Spiritual Shi''ism and Political Shi''ism'
+  slug: 11-the-third-discussion-spiritual-shi-ism-and-political-shi-ism
+  uuid: bef54405-9f9e-40fb-a618-83972aefc311
+- source: :alislam
+  source_url: http://www.al-islam.org/the-emergence-of-shiism-and-the-shiites-muhammad-baqir-al-sadr/appendix-moral-and-intellectual
+  title: 'Appendix : The Moral and Intellectual Preparation for ''Ali''s Guardianship
+    and Succession'
+  slug: 12-appendix-the-moral-and-intellectual-preparation-for-ali-s-guardianship-and-succession
+  uuid: 42b73b9e-6bb6-4e3a-b9f0-621756fd303b
+- source: :alislam
+  source_url: http://www.al-islam.org/the-emergence-of-shiism-and-the-shiites-muhammad-baqir-al-sadr/introduction-0
+  title: Introduction
+  slug: 13-introduction
+  uuid: cef75c7e-563d-4b38-86a2-beb7f70d377b
+- source: :alislam
+  source_url: http://www.al-islam.org/the-emergence-of-shiism-and-the-shiites-muhammad-baqir-al-sadr/first-discussion
+  title: The First Discussion
+  slug: 14-the-first-discussion
+  uuid: a54a3904-4983-48b6-982e-8c1b99e5a499
+- source: :alislam
+  source_url: http://www.al-islam.org/the-emergence-of-shiism-and-the-shiites-muhammad-baqir-al-sadr/second-discussion-preparation-and
+  title: 'The Second Discussion: The Preparation and Adaptation of the Ummah to ''Ali''s
+    Succession'
+  slug: 15-the-second-discussion-the-preparation-and-adaptation-of-the-ummah-to-ali-s-succession
+  uuid: eb555d21-46c0-4e39-bed9-b7b068312f6c
+- source: :alislam
+  source_url: http://www.al-islam.org/the-emergence-of-shiism-and-the-shiites-muhammad-baqir-al-sadr/third-discussion-pertinence-alis
+  title: 'The Third Discussion: The Pertinence of ''Ali''s Proficient Knowledge of
+    the Qur''an to His Preparation for Succession'
+  slug: 16-the-third-discussion-the-pertinence-of-ali-s-proficient-knowledge-of-the-qur-an-to-his-preparation-for-succession
+  uuid: 154387c5-3710-4e8c-8476-48e6c7624ba8
+- source: :alislam
+  source_url: http://www.al-islam.org/the-emergence-of-shiism-and-the-shiites-muhammad-baqir-al-sadr/bibliography
+  title: Bibliography
+  slug: 17-bibliography
+  uuid: 9e9c5d09-7305-499c-8e8a-f5346341302f
+---

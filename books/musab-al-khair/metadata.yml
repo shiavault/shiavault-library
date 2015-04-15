@@ -1,0 +1,18 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/musab-al-khair-kamal-al-sayyid
+author: Kamal al-Sayyid
+publisher: Ansariyan Publications - Qum
+translator: Jasim al-Alyawy
+title: Musab al-Khair
+slug: musab-al-khair
+uuid: 479d14e9-0402-4d68-8ec9-3577a26e3d3c
+description: |
+  Biography of the companion of the Prophet (s).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/musab-al-khair-kamal-al-sayyid/musab-al-khair
+  title: Mus'ab al-Khair
+  slug: 1-mus-ab-al-khair
+  uuid: 319c8c1e-33ed-4ee4-9cb3-6f5908d7a767
+---

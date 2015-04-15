@@ -1,0 +1,162 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13
+publisher: Imam Ali Foundation
+translator: Sayyid Abbas Sadr-'ameli
+title: An Enlightening Commentary into the Light of the Holy Qur'an vol. 13
+slug: an-enlightening-commentary-into-the-light-of-the-holy-qur-an-vol-13
+uuid: 7fd7e113-1e54-423f-9ba4-fea11e57b1d6
+description: |
+  An Enlightening Commentary into the Light of the Holy Qur'an vol. 13
+  From Surah an-Naml (27) to Surah al- ‘Ankabut (29) verse 44 The light of
+  Islam has enlightened and continuing to enlighten every corner in the
+  world and seekers of truth have closely associated to the Holy Quran
+  which carries the Word of Allah (SWT) to humanity. With increasing focus
+  and attention to the Holy Quran, efforts has been done to provide a
+  pure, correct and accurate translation of this divine book. But
+  sometimes it is difficult for the readers to understand all of the
+  apparent and hidden meanings and it is the duty of every Muslim, man or
+  woman, to read, understand and contemplate on the Holy Qur’an according
+  to his own capacity. Hence, the need for proper explanation becomes
+  obvious and necessary. The book titled, “An Enlightening Commentary into
+  the Light of the Holy Qur’an” compiled by a group of Muslim scholars,
+  under the direction of Ayatullah Allamah Al-Hajj Sayyid Kamal Faqih
+  Imani is a valuable effort which presents a thorough commentary on the
+  Quran in 20 volumes made available to the reader.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 8e165077-ee61-4ed5-b780-deba511f45f5
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/acknowledgment
+  title: Acknowledgment
+  slug: 2-acknowledgment
+  uuid: 2cee8d3c-6946-4a55-9132-34c524399241
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/references
+  title: References
+  slug: 3-references
+  uuid: 6fbbd40c-ac1e-4e7b-abbc-603a559a99bd
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/presentation-muslims
+  title: A Presentation to Muslims
+  slug: 4-a-presentation-to-muslims
+  uuid: e081408d-8549-487e-9b94-b64c9b443c57
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/surah-naml-chapter-27
+  title: Surah An-Naml, Chapter 27
+  slug: 5-surah-an-naml-chapter-27
+  uuid: 962da2fa-ac07-4c6c-867e-7cff23fb2f93
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/section-1-moses-commissioned-apostleship
+  title: 'Section 1: Moses Commissioned with Apostleship'
+  slug: 6-section-1-moses-commissioned-with-apostleship
+  uuid: 6f676850-545c-477a-b68b-ca3948296eda
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/section-2-solomon-inherits-david
+  title: 'Section 2: Solomon Inherits From David'
+  slug: 7-section-2-solomon-inherits-from-david
+  uuid: 3576ee0d-1a40-401a-8596-b1b0d8201d83
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/section-3-solomon-and-queen-sheba
+  title: 'Section 3: Solomon and the Queen of Sheba'
+  slug: 8-section-3-solomon-and-the-queen-of-sheba
+  uuid: 5f8a6764-3c9b-4701-aad8-2fe9552703b0
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/section-4-saleh-and-lot
+  title: 'Section 4: Saleh and Lot'
+  slug: 9-section-4-saleh-and-lot
+  uuid: f3a99a30-5812-45d8-b733-9dd7a91b7548
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/section-5-allahs-chosen-servants
+  title: 'Section 5: Allah’s Chosen Servants'
+  slug: 10-section-5-allah-s-chosen-servants
+  uuid: e3e33462-5b63-4754-834a-8d50149dac89
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/section-6-resurrection-sure-everyone-shall-be
+  title: 'Section 6: The Resurrection, Sure Everyone Shall Be Resurrected'
+  slug: 11-section-6-the-resurrection-sure-everyone-shall-be-resurrected
+  uuid: 5e13f93d-2eab-4523-a6e0-1b338e349131
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/section-7-coming-day-judgment
+  title: 'Section 7: The Coming of the Day of Judgment'
+  slug: 12-section-7-the-coming-of-the-day-of-judgment
+  uuid: 3a8ff4b0-19c0-420a-9b09-244bab4430f3
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/surah-al-qasas-chapter-28
+  title: Surah Al-Qasas, Chapter 28
+  slug: 13-surah-al-qasas-chapter-28
+  uuid: 364eb227-5e69-4c1b-80e9-0d224b8c57e1
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/section-1-narrative-moses
+  title: 'Section 1: The Narrative of Moses'
+  slug: 14-section-1-the-narrative-of-moses
+  uuid: 518e21bb-5607-40c5-a585-bc17e4f41ad9
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/section-2-moses-saved-allah-being-murdered
+  title: 'Section 2: Moses Saved By Allah From Being Murdered'
+  slug: 15-section-2-moses-saved-by-allah-from-being-murdered
+  uuid: f36a6b40-b6bf-45d7-baeb-6415da670e94
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/section-3-moses-weds-labans-daughter
+  title: 'Section 3: Moses Weds Laban’s Daughter'
+  slug: 16-section-3-moses-weds-laban-s-daughter
+  uuid: 6df90fe8-3ff0-45e3-ab23-9dc463ab424d
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/section-4-moses-commissioned-apostleship
+  title: 'Section 4: Moses Commissioned with Apostleship'
+  slug: 17-section-4-moses-commissioned-with-apostleship
+  uuid: 5f888eb0-3445-45f3-89af-31a0d8c35d3c
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/section-5-moses-mission-referred
+  title: 'Section 5: Moses’ Mission Referred to'
+  slug: 18-section-5-moses-mission-referred-to
+  uuid: 9cb5be6e-166d-41b8-8901-065bcfc61f25
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/section-6-guidance-allah-had-been-continuous
+  title: 'Section 6: Guidance From Allah Had Been Continuous'
+  slug: 19-section-6-guidance-from-allah-had-been-continuous
+  uuid: 4a4f1d73-50e7-4018-83d1-902068e29fbd
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/section-7-unity-allah
+  title: 'Section 7: Unity of Allah'
+  slug: 20-section-7-unity-of-allah
+  uuid: 23e2a4c1-5fe6-4783-ae60-24d5f644ff30
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/section-8-korahs-qarun-ruin
+  title: 'Section 8: Korah’s (Qarun) Ruin'
+  slug: 21-section-8-korah-s-qarun-ruin
+  uuid: 5ce0a442-71db-48bd-9c29-7eb5e8d92fce
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/section-9-apostle-muhammad
+  title: 'Section 9: The Apostle (Muhammad)'
+  slug: 22-section-9-the-apostle-muhammad
+  uuid: 78018754-8cfb-4886-81f2-e495021ddc84
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/surah-al-ankabut-chapter-29
+  title: Surah Al-‘Ankabut, Chapter 29
+  slug: 23-surah-al-ankabut-chapter-29
+  uuid: 6454f36d-1085-4931-a696-387f5b7ae312
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/section-1-every-soul-shall-be-tried
+  title: 'Section 1: Every Soul Shall Be Tried'
+  slug: 24-section-1-every-soul-shall-be-tried
+  uuid: 13013797-aa42-466a-acd9-eeb07c329bb5
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/section-2-noah-and-abrahams-mission
+  title: 'Section 2: Noah and Abraham’s Mission'
+  slug: 25-section-2-noah-and-abraham-s-mission
+  uuid: d15dd0d8-2cf9-4d6c-925e-aae1394d3099
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/section-3-abraham-and-lot
+  title: 'Section 3: Abraham and Lot'
+  slug: 26-section-3-abraham-and-lot
+  uuid: b6197964-0023-4668-bcee-d9612a661783
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-13/section-4-mission-abraham-lot-shuayb-and-moses
+  title: 'Section 4: The Mission of Abraham, Lot, Shu‘ayb and Moses'
+  slug: 27-section-4-the-mission-of-abraham-lot-shu-ayb-and-moses
+  uuid: 4fec70b8-af3a-4b9c-835b-8399ebcab17a
+---

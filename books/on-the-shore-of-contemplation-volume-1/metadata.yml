@@ -1,0 +1,58 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/shore-contemplation-vol1-wilayatul-faqih-akbar-asad-ali-zadeh
+author: Akbar Asad Ali Zadeh
+publisher: Islamic Publishing House (Canada)
+translator: Ali Shaheed Muhammad
+title: On the Shore of Contemplation, Volume 1
+slug: on-the-shore-of-contemplation-volume-1
+uuid: 1e838ffe-6906-48ba-9fb7-7e3c4a99a70e
+description: |
+  This text is a response to some inquiries about the nature and role of
+  the Governance of the Jurist (Wilayatul Faqih). The author discusses in
+  this text some of the important issues related to Wilayatul Faqih; for
+  example, whether the Jurist's authority is limited or absolute, whether
+  he is elected or appointed, and whether it is obligatory to follow his
+  orders.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/shore-contemplation-vol1-wilayatul-faqih-akbar-asad-ali-zadeh/foreword-publisher
+  title: Foreword by the Publisher
+  slug: 1-foreword-by-the-publisher
+  uuid: 7cc0da13-a452-4267-b0ac-7e2494d3cf9c
+- source: :alislam
+  source_url: http://www.al-islam.org/shore-contemplation-vol1-wilayatul-faqih-akbar-asad-ali-zadeh/foreword
+  title: Foreword
+  slug: 2-foreword
+  uuid: 82a11db7-0c83-467c-8f9d-ded1a1d54490
+- source: :alislam
+  source_url: http://www.al-islam.org/shore-contemplation-vol1-wilayatul-faqih-akbar-asad-ali-zadeh/authority-jurist-faqih-absolute-or
+  title: 'The Authority of the Jurist (Faqih): Absolute or Limited?'
+  slug: 3-the-authority-of-the-jurist-faqih-absolute-or-limited
+  uuid: a8d00f3e-8b39-4485-9c79-ff8b41bdb855
+- source: :alislam
+  source_url: http://www.al-islam.org/shore-contemplation-vol1-wilayatul-faqih-akbar-asad-ali-zadeh/supreme-leader-elected-or-appointed
+  title: 'The Supreme Leader: Elected or Appointed?'
+  slug: 4-the-supreme-leader-elected-or-appointed
+  uuid: 378ead60-e05b-4733-b47c-2564dd438d1c
+- source: :alislam
+  source_url: http://www.al-islam.org/shore-contemplation-vol1-wilayatul-faqih-akbar-asad-ali-zadeh/necessity-following-orders-supreme
+  title: The Necessity of Following the Orders of the Supreme Leader
+  slug: 5-the-necessity-of-following-the-orders-of-the-supreme-leader
+  uuid: a85eaee5-49d1-4d91-8a03-ddef1b1cf494
+- source: :alislam
+  source_url: http://www.al-islam.org/shore-contemplation-vol1-wilayatul-faqih-akbar-asad-ali-zadeh/criticizing-supreme-leader
+  title: Criticizing the Supreme Leader
+  slug: 6-criticizing-the-supreme-leader
+  uuid: ae494ae1-7347-46fc-9bab-3752478ed659
+- source: :alislam
+  source_url: http://www.al-islam.org/shore-contemplation-vol1-wilayatul-faqih-akbar-asad-ali-zadeh/possibility-error-part-supreme-leader
+  title: The Possibility of Error on the part of the Supreme Leader
+  slug: 7-the-possibility-of-error-on-the-part-of-the-supreme-leader
+  uuid: b708db85-b231-4aaf-8d28-ad1977bf3bf8
+- source: :alislam
+  source_url: http://www.al-islam.org/shore-contemplation-vol1-wilayatul-faqih-akbar-asad-ali-zadeh/addendum-governance-jurist-and
+  title: 'Addendum: Governance of a Jurist and Jurisprudence'
+  slug: 8-addendum-governance-of-a-jurist-and-jurisprudence
+  uuid: a3402e0a-0d5c-4dc4-813d-f99374e53a05
+---

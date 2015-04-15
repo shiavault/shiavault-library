@@ -1,0 +1,33 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/imamate-vicegerency-prophet-sayyid-saeed-akhtar-rizvi
+author: Sayyid Sa'eed Akhtar Rizvi
+publisher: World Organization for Islamic Services
+title: Imamate, The Vicegerency of the Prophet
+slug: imamate-the-vicegerency-of-the-prophet
+uuid: 7944f69a-7e77-4ef0-a71d-488317b5727e
+description: |
+  Meaning of Imamate and Khilafah, as well as Shi'i and Sunni views on
+  topics such as necessity of Imamate, infallibility, and Shura.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-vicegerency-prophet-sayyid-saeed-akhtar-rizvi/part-1-general-meaning
+  title: 'Part 1:  General Meaning'
+  slug: 1-part-1-general-meaning
+  uuid: f857be8f-3789-4edc-b366-6bab9901fd73
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-vicegerency-prophet-sayyid-saeed-akhtar-rizvi/part-2-shiite-point-view
+  title: 'Part 2:  The Shi''ite Point of View'
+  slug: 2-part-2-the-shi-ite-point-of-view
+  uuid: 99e1f218-3927-4b87-9613-8321bac26f3a
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-vicegerency-prophet-sayyid-saeed-akhtar-rizvi/part-3-sunni-point-view
+  title: Part 3 - The Sunni Point of View
+  slug: 3-part-3-the-sunni-point-of-view
+  uuid: 2607cae0-cefb-48db-8aeb-7789a18f4e0b
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-vicegerency-prophet-sayyid-saeed-akhtar-rizvi/bibliography
+  title: Bibliography
+  slug: 4-bibliography
+  uuid: 15fd20d4-3d60-49e2-a26f-e1480246926d
+---

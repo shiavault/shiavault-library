@@ -1,0 +1,51 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/religion-of-mercy-nasir-makarim-shirazi
+author: Ayatullah al-`Uzma al-Hajj ash-Shaykh Nasir Makarim Shirazi
+translator: Abolghassem Olyan Nejadi
+title: Religion of Mercy
+slug: religion-of-mercy
+uuid: c600aba5-deb6-4414-ab7d-99ba0d0d8cbb
+description: |
+  This text presents commentary discussions by the honorable Marja' Grand
+  Ayatullah Makarim Shirazi which examines the religion of Islam and
+  highlights the concepts of clemency which is are analyzed in light of
+  the Holy Qur'an, authentic narrations, and practices of religious
+  leaders.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/religion-of-mercy-nasir-makarim-shirazi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 334d0921-dd9c-4f33-9238-c3f75cacb96d
+- source: :alislam
+  source_url: http://www.al-islam.org/religion-of-mercy-nasir-makarim-shirazi/chapter-1-explanation-and-description-question
+  title: 'Chapter 1: Explanation and Description of Question'
+  slug: 2-chapter-1-explanation-and-description-of-question
+  uuid: 4bb51fc7-1be2-4249-960b-6371dea3eaad
+- source: :alislam
+  source_url: http://www.al-islam.org/religion-of-mercy-nasir-makarim-shirazi/chapter-2-islamic-clemency-and-mercy-holy-quran
+  title: 'Chapter 2: Islamic Clemency and Mercy in the Holy Qur’an'
+  slug: 3-chapter-2-islamic-clemency-and-mercy-in-the-holy-qur-an
+  uuid: f38c830c-6c9f-45c3-a3e2-3a125eab077e
+- source: :alislam
+  source_url: http://www.al-islam.org/religion-of-mercy-nasir-makarim-shirazi/chapter-3-islamic-clemency-and-mercy-narration
+  title: 'Chapter 3: Islamic Clemency and Mercy in Narration'
+  slug: 4-chapter-3-islamic-clemency-and-mercy-in-narration
+  uuid: caa92187-9f89-464b-85a9-6b53517a7a0b
+- source: :alislam
+  source_url: http://www.al-islam.org/religion-of-mercy-nasir-makarim-shirazi/chapter-4-islamic-clemency-and-mercy-practices-religious
+  title: 'Chapter 4: Islamic Clemency and Mercy in the Practices of Religious Leaders'
+  slug: 5-chapter-4-islamic-clemency-and-mercy-in-the-practices-of-religious-leaders
+  uuid: 1cb8cb9a-1d2c-4a5f-b616-3b9552cef91e
+- source: :alislam
+  source_url: http://www.al-islam.org/religion-of-mercy-nasir-makarim-shirazi/chapter-5-questions-and-objections
+  title: 'Chapter 5: Questions and Objections'
+  slug: 6-chapter-5-questions-and-objections
+  uuid: 6a1389b9-35d6-42b0-a86c-402c09211421
+- source: :alislam
+  source_url: http://www.al-islam.org/religion-of-mercy-nasir-makarim-shirazi/appendixes
+  title: Appendixes
+  slug: 7-appendixes
+  uuid: 5ea0622b-f8da-4043-81d0-01e75c9d9415
+---

@@ -1,0 +1,99 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai
+author: Allamah Sayyid Muhammad Husayn at-Tabataba'i
+publisher: Ansariyan Publications - Qum
+title: Islamic Teachings in Brief
+slug: islamic-teachings-in-brief
+uuid: e48790e2-5d71-4062-b242-0e9c36dc8365
+description: |
+  This book, written in a relatively simple language, presents a summary
+  of the teachings of Islam.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 2fcf6fd3-b355-4c80-8227-7ac0b78d0dd4
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/foreword
+  title: Foreword
+  slug: 2-foreword
+  uuid: 9e105aaf-36d5-45f4-93a2-530fbd6f4e54
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/religion
+  title: Religion
+  slug: 3-religion
+  uuid: 794854a3-18d0-42b4-a923-884fa9005c18
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/beliefs
+  title: Beliefs
+  slug: 4-beliefs
+  uuid: dc4a8f58-ddd8-4e33-89b1-b366240aa975
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/qurans-teachings-about-creator-world
+  title: Qur'an's Teachings about The Creator Of The World
+  slug: 5-qur-an-s-teachings-about-the-creator-of-the-world
+  uuid: 321fec4d-d2cd-4e10-81e0-ba07906857d2
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/nubuwwah-prophethood
+  title: Nubuwwah (Prophethood)
+  slug: 6-nubuwwah-prophethood
+  uuid: a43aa9dc-b661-4bda-8046-30a6ef70aab3
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/ululazm-anbiya-arch-prophets-and-all-other-prophets
+  title: Ulul'azm Anbiya' (Arch-Prophets) and All Other Prophets
+  slug: 7-ulul-azm-anbiya-arch-prophets-and-all-other-prophets
+  uuid: 6f55c744-4682-42bb-ba17-22434fefa12d
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/prophet-muhammad-ibn-abdillah
+  title: Prophet Muhammad Ibn 'Abdillah (S)
+  slug: 8-prophet-muhammad-ibn-abdillah-s
+  uuid: 795ee3fa-e0d5-436b-8fa2-7f27b22eb005
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/glance-intellectual-and-spiritual-personality-holy
+  title: A Glance at The Intellectual and Spiritual Personality of The Holy Prophet
+    (S)
+  slug: 9-a-glance-at-the-intellectual-and-spiritual-personality-of-the-holy-prophet-s
+  uuid: 0b8df1be-abed-4f98-b18a-c156afef14ce
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/holy-quran
+  title: The Holy Qur'an
+  slug: 10-the-holy-qur-an
+  uuid: c53b19b9-a2e0-4ef1-9014-86c1ba2f9e02
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/prophet-muhammads-s-ahl-al-bayt
+  title: Prophet Muhammad's (S) Ahl Al-Bayt (as)
+  slug: 11-prophet-muhammad-s-s-ahl-al-bayt-as
+  uuid: 1e494273-edc1-46b6-a4c8-1898dca34431
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/imamah
+  title: Imamah
+  slug: 12-imamah
+  uuid: 83681d9e-da49-45fc-a9a0-edf2a76ff73d
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/general-life-style-ahl-al-bayt
+  title: The General Life-Style of the Ahl Al-Bayt (as)
+  slug: 13-the-general-life-style-of-the-ahl-al-bayt-as
+  uuid: 7a63b51f-4db7-41de-a8bb-e7e1871858d8
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/maad-resurrection
+  title: Ma'ad (Resurrection)
+  slug: 14-ma-ad-resurrection
+  uuid: b2a8d9d7-6cff-4a9e-8de6-6a1f19144c13
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/ethics
+  title: Ethics
+  slug: 15-ethics
+  uuid: c136c8f6-8aba-414f-9cb1-1977d940b8ba
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/commandments
+  title: Commandments
+  slug: 16-commandments
+  uuid: bb65156e-afc2-4de4-ba9f-c58c1e6ff3b0
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/glossary-non-english-terms
+  title: Glossary of non-English Terms
+  slug: 17-glossary-of-non-english-terms
+  uuid: cde0df41-e037-434d-b703-630d3cabf890
+---

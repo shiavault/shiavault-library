@@ -1,0 +1,52 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/short-treatise-guardianship-jurist-shaykh-mansour-leghaei
+author: Shaykh Mansour Leghaei
+title: A Short Treatise on The Guardianship of the Jurist
+slug: a-short-treatise-on-the-guardianship-of-the-jurist
+uuid: fa5d25e3-40de-4b24-be3d-d870972ac168
+description: |
+  In this book, the author discusses in detail the concept of the
+  Guardianship of the Jurist from an historical perspective, analysing the
+  textual authority for its implementation while clarifying its underlying
+  principles. This text also addresses some of the commonly asked
+  questions regarding this concept.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/short-treatise-guardianship-jurist-shaykh-mansour-leghaei/preliminary-discussions
+  title: Preliminary Discussions
+  slug: 1-preliminary-discussions
+  uuid: 5f8f744f-a960-4cdd-9632-deb9b98cb68c
+- source: :alislam
+  source_url: http://www.al-islam.org/short-treatise-guardianship-jurist-shaykh-mansour-leghaei/%E2%80%98-guardianship-jurist%E2%80%99-words-shi%E2%80%99-jurists
+  title: "‘The Guardianship of the Jurist’ in the words of the Shi’a Jurists throughout
+    history"
+  slug: 2-the-guardianship-of-the-jurist-in-the-words-of-the-shi-a-jurists-throughout-history
+  uuid: 62098423-0042-46e3-8031-0e66b0cda32e
+- source: :alislam
+  source_url: http://www.al-islam.org/short-treatise-guardianship-jurist-shaykh-mansour-leghaei/role-jurist-different-areas-jurisprudence
+  title: The Role of the Jurist in Different Areas of Jurisprudence
+  slug: 3-the-role-of-the-jurist-in-different-areas-of-jurisprudence
+  uuid: 0f1f4865-f366-4eda-b5bf-7f48c071f345
+- source: :alislam
+  source_url: http://www.al-islam.org/short-treatise-guardianship-jurist-shaykh-mansour-leghaei/principles-underlying-general-guardianship
+  title: The Principles Underlying the General Guardianship of the Jurist
+  slug: 4-the-principles-underlying-the-general-guardianship-of-the-jurist
+  uuid: d19c644a-434c-4806-b0ca-a978c3665ea5
+- source: :alislam
+  source_url: http://www.al-islam.org/short-treatise-guardianship-jurist-shaykh-mansour-leghaei/textual-evidence-which-supports-general
+  title: Textual Evidence which supports the General Guardianship of the Jurist
+  slug: 5-textual-evidence-which-supports-the-general-guardianship-of-the-jurist
+  uuid: 7fa4594a-4111-4479-8f80-4e3e6b5166e6
+- source: :alislam
+  source_url: http://www.al-islam.org/short-treatise-guardianship-jurist-shaykh-mansour-leghaei/frequently-asked-questions-and-their
+  title: Frequently Asked Questions and their Answers
+  slug: 6-frequently-asked-questions-and-their-answers
+  uuid: af3b4e93-6eaf-40a3-8a28-11a92e8d1509
+- source: :alislam
+  source_url: http://www.al-islam.org/short-treatise-guardianship-jurist-shaykh-mansour-leghaei/removing-confusion-about-some-narrations
+  title: Removing the Confusion about some Narrations that may seem to indicate the
+    Obligation of remaining Silent during the Era of Occultation
+  slug: 7-removing-the-confusion-about-some-narrations-that-may-seem-to-indicate-the-obligation-of-remaining-silent-during-the-era-of-occultation
+  uuid: 045cc60b-9990-4d9b-a8b5-26c95108a8aa
+---

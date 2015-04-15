@@ -1,0 +1,81 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/peshawar-nights-sultan-al-waadhim-sayyid-muhammad-al-musawi-ash-shirazi
+author: Sultan al-Wa’adhim As-Sayyid Muhammad al-Musawi ash-Shirazi
+publisher: Published 1996 by Pak Books; P.O. Box EE; Palisades; NY 10964
+translator: Hamid QuinlanCharles Ali Campbell
+title: Peshawar Nights
+slug: peshawar-nights
+uuid: 4999bdfe-795c-4dae-b200-5d2ec66ddefb
+description: |
+  Transcript of dialogues between Sunni scholars and Shi'i author, about
+  major topics relating to Shi'ism including the death of the Prophet (s),
+  successorship, companions, infallibility, Muta' (temporary marriage),
+  and the family of the Prophet. Includes a search facility.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/peshawar-nights-sultan-al-waadhim-sayyid-muhammad-al-musawi-ash-shirazi/translators-preface
+  title: Translators' Preface
+  slug: 1-translators-preface
+  uuid: d0fdada6-4075-455d-bdfb-0823ae698f19
+- source: :alislam
+  source_url: http://www.al-islam.org/peshawar-nights-sultan-al-waadhim-sayyid-muhammad-al-musawi-ash-shirazi/book
+  title: The Book
+  slug: 2-the-book
+  uuid: 3bf6d9c0-2afd-478f-86a3-e9280289ee9d
+- source: :alislam
+  source_url: http://www.al-islam.org/peshawar-nights-sultan-al-waadhim-sayyid-muhammad-al-musawi-ash-shirazi/first-session-thursday-night
+  title: The First Session, Thursday night, 23rd Rajab, 1345 A.H.
+  slug: 3-the-first-session-thursday-night-23rd-rajab-1345-a-h
+  uuid: 86b3998a-8a2b-4323-ba57-da15b2c8132e
+- source: :alislam
+  source_url: http://www.al-islam.org/peshawar-nights-sultan-al-waadhim-sayyid-muhammad-al-musawi-ash-shirazi/second-session-friday-night
+  title: Second Session, Friday night, 20th Rajab, 1345 A.H.
+  slug: 4-second-session-friday-night-20th-rajab-1345-a-h
+  uuid: e7187604-9d10-4412-b9c7-f9d7738a0d99
+- source: :alislam
+  source_url: http://www.al-islam.org/peshawar-nights-sultan-al-waadhim-sayyid-muhammad-al-musawi-ash-shirazi/third-session-saturday-night
+  title: Third Session, Saturday night, 25th of Rajab, 1345 A.H.
+  slug: 5-third-session-saturday-night-25th-of-rajab-1345-a-h
+  uuid: 8143aa67-72bf-40bf-b142-3109d044309e
+- source: :alislam
+  source_url: http://www.al-islam.org/peshawar-nights-sultan-al-waadhim-sayyid-muhammad-al-musawi-ash-shirazi/fourth-session-sunday-night
+  title: Fourth Session, Sunday night, 2nd Rajab 1345 A.H.
+  slug: 6-fourth-session-sunday-night-2nd-rajab-1345-a-h
+  uuid: c236118d-f818-475c-815f-f4a3414190e0
+- source: :alislam
+  source_url: http://www.al-islam.org/peshawar-nights-sultan-al-waadhim-sayyid-muhammad-al-musawi-ash-shirazi/fifth-session-tuesday-night
+  title: Fifth Session, Tuesday night, 27th Rajab 1345 A.H.
+  slug: 7-fifth-session-tuesday-night-27th-rajab-1345-a-h
+  uuid: cb7d8a9d-a6f2-40f3-9c03-4a019123a4f9
+- source: :alislam
+  source_url: http://www.al-islam.org/peshawar-nights-sultan-al-waadhim-sayyid-muhammad-al-musawi-ash-shirazi/sixth-session-tuesday-night
+  title: Sixth Session, Tuesday night, 28th Rajab 1345 A.H.
+  slug: 8-sixth-session-tuesday-night-28th-rajab-1345-a-h
+  uuid: 500d82e3-9f82-4970-9d0b-4da89d71b661
+- source: :alislam
+  source_url: http://www.al-islam.org/peshawar-nights-sultan-al-waadhim-sayyid-muhammad-al-musawi-ash-shirazi/seventh-session-wednesday
+  title: Seventh Session, Wednesday Night, 29th Rajab 1345 A.H.
+  slug: 9-seventh-session-wednesday-night-29th-rajab-1345-a-h
+  uuid: 89d84f6e-37c7-408f-9c8b-4307e1a3a8b9
+- source: :alislam
+  source_url: http://www.al-islam.org/peshawar-nights-sultan-al-waadhim-sayyid-muhammad-al-musawi-ash-shirazi/eighth-session-thursday
+  title: Eighth Session, Thursday night, 1 Sha'ban, 1345 A.H.
+  slug: 10-eighth-session-thursday-night-1-sha-ban-1345-a-h
+  uuid: 9131cf1a-ac5d-4881-9145-b198c469201c
+- source: :alislam
+  source_url: http://www.al-islam.org/peshawar-nights-sultan-al-waadhim-sayyid-muhammad-al-musawi-ash-shirazi/ninth-session-friday-night
+  title: Ninth Session, Friday night, 2nd Sha'ban 1345 A.H.
+  slug: 11-ninth-session-friday-night-2nd-sha-ban-1345-a-h
+  uuid: b4cd005e-e1ed-48e5-b336-f7e3e6b4ffd8
+- source: :alislam
+  source_url: http://www.al-islam.org/peshawar-nights-sultan-al-waadhim-sayyid-muhammad-al-musawi-ash-shirazi/tenth-session-saturday-night
+  title: Tenth Session, Saturday night, 3rd Sha'ban 1345 A.H.
+  slug: 12-tenth-session-saturday-night-3rd-sha-ban-1345-a-h
+  uuid: 65516552-5c76-45c6-86e7-5d1195c8f426
+- source: :alislam
+  source_url: http://www.al-islam.org/peshawar-nights-sultan-al-waadhim-sayyid-muhammad-al-musawi-ash-shirazi/last-session-sunday
+  title: Last Session, Sunday, 4th Sha'ban, 1345 A.H.
+  slug: 13-last-session-sunday-4th-sha-ban-1345-a-h
+  uuid: 2834a2aa-50fd-4613-b74a-3c0838016243
+---

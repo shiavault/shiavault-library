@@ -1,0 +1,136 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2
+author: Ayatullah Muhammad Taqi Misbah Yazdi
+publisher: Ahlul Bayt World Assembly
+translator: Mansoor L. Limba
+title: 'Islamic Political Theory (Legislation): Volume 2'
+slug: islamic-political-theory-legislation-volume-2
+uuid: 9eccb395-5922-4cf5-aa61-71c06b4f3730
+description: |
+  The second of two volumes of the renowned and comprehensive text on
+  Islamic political theory by Ayatullah Misbah Yazdi, dealing with the
+  importance of recognizing Islam as the basis of any just political
+  theory, methods of implementing such a theory by the government, and
+  comparing and contrasting this Islamic system with the system
+  predominant in most Western ans secular nations.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2/preface
+  title: Preface
+  slug: 1-preface
+  uuid: ee7493bf-ee5a-4980-b6d1-d1218a562a84
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: c43d9383-221b-485e-bd1d-1f4ff1903c21
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2/session-24-grand-strategies-realm-governance
+  title: 'Session 24: Grand Strategies in the Realm of Governance and Implementation
+    (Part 1)'
+  slug: 3-session-24-grand-strategies-in-the-realm-of-governance-and-implementation-part-1
+  uuid: 74e0f1f7-219c-4a2d-8257-2f286f9211b4
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2/session-25grand-strategies-realm-governance-and
+  title: Session 25:Grand Strategies in the Realm of Governance and Implementation
+    (Part 2)
+  slug: 4-session-25-grand-strategies-in-the-realm-of-governance-and-implementation-part-2
+  uuid: 3c37fce2-6cfb-4751-aae6-3570f7bb3b54
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2/session-26-special-functions-state-and-islamic
+  title: 'Session 26: Special Functions of State and Islamic Perspective on Public
+    Participation'
+  slug: 5-session-26-special-functions-of-state-and-islamic-perspective-on-public-participation
+  uuid: e7e085a3-afe0-4b67-819e-06ff452cd69c
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2/session-27-perspective-distinctive-structure
+  title: 'Session 27: A Perspective on the Distinctive Structure of the Islamic State'
+  slug: 6-session-27-a-perspective-on-the-distinctive-structure-of-the-islamic-state
+  uuid: 849c63c3-91fa-47fd-b87e-aa6b4347b5a1
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2/session-28-observance-values-and-legitimate
+  title: 'Session 28: Observance of Values and Legitimate Freedom in an Islamic State'
+  slug: 7-session-28-observance-of-values-and-legitimate-freedom-in-an-islamic-state
+  uuid: a9c466e8-51d1-4425-b7cc-01c4008050d0
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2/session-29-political-hierarchy-islamic-state
+  title: 'Session 29: The Political Hierarchy in the Islamic State'
+  slug: 8-session-29-the-political-hierarchy-in-the-islamic-state
+  uuid: 270eab42-20c7-4a9e-891a-e6b23d3262bc
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2/session-30-connection-between-absolute
+  title: 'Session 30: The Connection between the Absolute Guardianship of the Jurist
+    and the Islamic Government Establishment'
+  slug: 9-session-30-the-connection-between-the-absolute-guardianship-of-the-jurist-and-the-islamic-government-establishment
+  uuid: 5b31ae3d-2d6b-4c07-9ad9-04a4ce297597
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2/session-31-examination-and-criticism-theory
+  title: 'Session 31: An Examination and Criticism of the Theory of Separation of
+    Powers'
+  slug: 10-session-31-an-examination-and-criticism-of-the-theory-of-separation-of-powers
+  uuid: 23602a15-c6b3-45dc-b5c7-eb9e76b629ed
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2/session-32-exigency-elucidating-ideological
+  title: 'Session 32: The Exigency of Elucidating the Ideological Position of the
+    Islamic System'
+  slug: 11-session-32-the-exigency-of-elucidating-the-ideological-position-of-the-islamic-system
+  uuid: 7d143b8b-f76f-4edd-a891-bc3d088d9da6
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2/session-33-islam-and-different-forms-government
+  title: 'Session 33: Islam and Different Forms of Government'
+  slug: 12-session-33-islam-and-different-forms-of-government
+  uuid: dda22903-463e-4cbe-b095-4b8a73251644
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2/session-34-position-islamic-laws-and-our-system
+  title: 'Session 34: The Position of Islamic Laws and Our System’s Superiority over
+    Other Systems'
+  slug: 13-session-34-the-position-of-islamic-laws-and-our-system-s-superiority-over-other-systems
+  uuid: 5523b4c7-1bad-412a-9879-70412238356d
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2/session-35-connection-between-freedom-state-and
+  title: 'Session 35: The Connection between Freedom, State and Laws'
+  slug: 14-session-35-the-connection-between-freedom-state-and-laws
+  uuid: d9615b19-7c03-432b-9bc2-5c64a03c2965
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2/session-36-need-decisiveness-implementing
+  title: 'Session 36: Need for Decisiveness in Implementing Islamic Ordinances'
+  slug: 15-session-36-need-for-decisiveness-in-implementing-islamic-ordinances
+  uuid: 6611201c-94a1-442b-ae7c-958270738915
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2/session-37-scrutiny-issue-violence
+  title: 'Session 37: A Scrutiny of the Issue of Violence'
+  slug: 16-session-37-a-scrutiny-of-the-issue-of-violence
+  uuid: 38d3df1c-a75d-4619-9771-0ee047acb151
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2/session-38-confrontation-western-ideas-and
+  title: 'Session 38: Confrontation of Western Ideas and Beliefs’ with Islamic Laws'
+  slug: 17-session-38-confrontation-of-western-ideas-and-beliefs-with-islamic-laws
+  uuid: 4999ed25-0073-42d7-bba4-075bb45050a4
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2/session-39-investigation-relativity-values-and
+  title: 'Session 39: An Investigation of the Relativity of Values and Religious Narratives'
+  slug: 18-session-39-an-investigation-of-the-relativity-of-values-and-religious-narratives
+  uuid: 457b030f-652a-42aa-9279-00bb9f8f2867
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2/1-first-approach-relativity-knowledge
+  title: 1. First approach to the relativity of knowledge
+  slug: 19-1-first-approach-to-the-relativity-of-knowledge
+  uuid: 4338c48e-28fe-42ea-89cd-ea17efa7e2e0
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2/2-second-approach-relativity-knowledge
+  title: 2. Second approach to the relativity of knowledge (relativity of values)
+  slug: 20-2-second-approach-to-the-relativity-of-knowledge-relativity-of-values
+  uuid: 1948720c-a82c-4900-9579-a81cde68c044
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2/3-third-approach-relativity-knowledge
+  title: 3. Third approach to the relativity of knowledge (relativity of religious
+    knowledge)
+  slug: 21-3-third-approach-to-the-relativity-of-knowledge-relativity-of-religious-knowledge
+  uuid: a249744e-f1de-44de-82dd-61f9152241b5
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-political-theory-ayatullah-misbah-yazdi-vol2/session-40-religious-knowledge-fiction-or-true
+  title: 'Session 40: Religious Knowledge: Fiction or True Reflection?'
+  slug: 22-session-40-religious-knowledge-fiction-or-true-reflection
+  uuid: e6729008-b7e0-410b-87ae-8fe9cef772be
+---

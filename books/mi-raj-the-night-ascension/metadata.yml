@@ -1,0 +1,29 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/al-miraj-the-night-ascension-mullah-faidh-al-kashani
+publisher: Islamic Humanitarian Service (IHS)
+compiler: Mullah Faidh al Kashani
+translator: Saleem Bhimji
+title: Mi’raj, The Night Ascension
+slug: mi-raj-the-night-ascension
+uuid: cb4a50b4-559e-4ce5-bf4a-50ba63f17c68
+description: |
+  Mi'raj in the Qur'an, physical ascension, traditions relating the events
+  which occurred during Mi'raj.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/al-miraj-the-night-ascension-mullah-faidh-al-kashani/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 317bcca7-3be7-4b7d-b9cd-d9b4b29dee44
+- source: :alislam
+  source_url: http://www.al-islam.org/al-miraj-the-night-ascension-mullah-faidh-al-kashani/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 6f5e59a0-4b89-4759-b597-65b614d3e58e
+- source: :alislam
+  source_url: http://www.al-islam.org/al-miraj-the-night-ascension-mullah-faidh-al-kashani/ahadith-traditions
+  title: Ahadith, the Traditions
+  slug: 3-ahadith-the-traditions
+  uuid: 9adf666b-8c8b-49ec-956a-1e814ab82f3b
+---

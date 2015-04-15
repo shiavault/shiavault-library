@@ -1,0 +1,105 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/imamate-and-imams-ayatullah-ibrahim-amini
+author: Ayatullah Ibrahim Amini
+publisher: Ansariyan Publications - Qum
+translator: Hamideh Elahinia
+title: Imamate and The Imams
+slug: imamate-and-the-imams
+uuid: 327cf936-a1fe-4eed-b3e7-773497c4f88f
+description: |
+  This book is written for the youth about the definition of Imamate and
+  privileges of the Imams so that we may learn and follow the pattern of
+  the infallible Imams (a.s.).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-imams-ayatullah-ibrahim-amini/authors-preface
+  title: Author’s Preface
+  slug: 1-author-s-preface
+  uuid: a30f5e0a-a529-4262-8eab-e9d670d00238
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-imams-ayatullah-ibrahim-amini/translators-preface
+  title: Translator’s Preface
+  slug: 2-translator-s-preface
+  uuid: 562048e8-700c-4767-a856-126f7843c9c2
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-imams-ayatullah-ibrahim-amini/chapter-1-characteristics-imam
+  title: 'Chapter 1: Characteristics of the Imam'
+  slug: 3-chapter-1-characteristics-of-the-imam
+  uuid: 61aa1e20-3bf3-47fa-b536-2e7ccffaa7e0
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-imams-ayatullah-ibrahim-amini/chapter-2-ahlul-bayt-quran-and-traditions
+  title: 'Chapter 2: The Ahlul Bayt in the Quran and the Traditions'
+  slug: 4-chapter-2-the-ahlul-bayt-in-the-quran-and-the-traditions
+  uuid: 57eadc23-8132-4a0d-9365-7332b387356c
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-imams-ayatullah-ibrahim-amini/chapter-3-arguments-imamate
+  title: 'Chapter 3: The Arguments for Imamate'
+  slug: 5-chapter-3-the-arguments-for-imamate
+  uuid: ce715fcb-d107-4fbd-9f10-919a12b6050e
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-imams-ayatullah-ibrahim-amini/chapter-4-brief-biographies-infallible-imams
+  title: 'Chapter 4: Brief Biographies of the Infallible Imams'
+  slug: 6-chapter-4-brief-biographies-of-the-infallible-imams
+  uuid: 6da81127-48fa-458e-9ccf-74c7da5370f6
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-imams-ayatullah-ibrahim-amini/first-imam-ali-ibn-abi-talib
+  title: 'The First Imam: Ali Ibn Abi Talib'
+  slug: 7-the-first-imam-ali-ibn-abi-talib
+  uuid: cac0b128-ddf4-454f-8ccc-343c809c6fa4
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-imams-ayatullah-ibrahim-amini/second-imam-hasan-ibn-ali
+  title: 'The Second Imam: Hasan ibn ‘Ali'
+  slug: 8-the-second-imam-hasan-ibn-ali
+  uuid: e3cc958a-718d-4e32-800f-f0b80bd40a3f
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-imams-ayatullah-ibrahim-amini/third-imam-husayn-ibn-ali
+  title: 'The Third Imam: Husayn ibn ‘Ali'
+  slug: 9-the-third-imam-husayn-ibn-ali
+  uuid: 50180ac2-582c-464e-8c79-eb78a2acf7af
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-imams-ayatullah-ibrahim-amini/fourth-imam-ali-ibn-husayn
+  title: 'The Fourth Imam: ‘Ali ibn Husayn'
+  slug: 10-the-fourth-imam-ali-ibn-husayn
+  uuid: f17e3e79-d293-4eb7-98b4-f56adec2fc5d
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-imams-ayatullah-ibrahim-amini/fifth-imam-muhammad-baqir
+  title: 'The Fifth Imam: Muhammad Baqir'
+  slug: 11-the-fifth-imam-muhammad-baqir
+  uuid: 4b0165d5-5155-4d94-ab2c-8d9d657b7ea8
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-imams-ayatullah-ibrahim-amini/sixth-imam-jafar-sadiq
+  title: 'The Sixth Imam: Ja’far Sadiq'
+  slug: 12-the-sixth-imam-ja-far-sadiq
+  uuid: b9127894-44f7-4fad-bed3-f7fd9d26c8c5
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-imams-ayatullah-ibrahim-amini/seventh-imam-musa-al-kadhim
+  title: 'The Seventh Imam: Musa Al-Kadhim'
+  slug: 13-the-seventh-imam-musa-al-kadhim
+  uuid: 0e5bdc94-6a57-4945-b0c1-d3b5e2546731
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-imams-ayatullah-ibrahim-amini/eighth-imam-ali-ibn-musa-ridha
+  title: 'The Eighth Imam: ‘Ali ibn Musa Ridha’'
+  slug: 14-the-eighth-imam-ali-ibn-musa-ridha
+  uuid: eac6818c-61b6-4f1e-8588-c731175b84cc
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-imams-ayatullah-ibrahim-amini/ninth-imam-muhammad-jawad
+  title: 'The Ninth Imam: Muhammad Jawad'
+  slug: 15-the-ninth-imam-muhammad-jawad
+  uuid: d2ea8d00-26c1-46f9-bc96-a19f7c07828c
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-imams-ayatullah-ibrahim-amini/tenth-imam-ali-hadi
+  title: 'The Tenth Imam: ‘Ali Hadi'
+  slug: 16-the-tenth-imam-ali-hadi
+  uuid: 426fd1d5-9cb7-444b-a67b-8af95b82c741
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-imams-ayatullah-ibrahim-amini/eleventh-imam-hasan-askari
+  title: 'The Eleventh Imam: Hasan Askari'
+  slug: 17-the-eleventh-imam-hasan-askari
+  uuid: 4278abf1-440c-447d-ba62-e37d368fb13b
+- source: :alislam
+  source_url: http://www.al-islam.org/imamate-and-imams-ayatullah-ibrahim-amini/twelfth-imam-al-mahdi
+  title: 'The Twelfth Imam: Al-Mahdi'
+  slug: 18-the-twelfth-imam-al-mahdi
+  uuid: 5db3cf44-2ed5-46ac-a62f-9a270237ea1e
+---

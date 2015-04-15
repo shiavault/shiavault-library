@@ -1,0 +1,43 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/wasiyatnama-last-will-testament-ayatullah-shaikh-abdulla-mamkani
+author: Ayatullah Shaikh Abdulla Mamkani
+publisher: World Islamic Network (WIN)
+title: Wasiyatnama, Last Will & Testament
+slug: wasiyatnama-last-will-testament
+uuid: 07b198b9-42bd-4749-b718-292b921343c5
+description: |
+  The Ayatullah's will to his children, relatives, friends, and
+  well-wishers. Advice on achieving higher spiritual levels.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/wasiyatnama-last-will-testament-ayatullah-shaikh-abdulla-mamkani/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 94291af2-74db-40c0-b701-cc7e56973708
+- source: :alislam
+  source_url: http://www.al-islam.org/wasiyatnama-last-will-testament-ayatullah-shaikh-abdulla-mamkani/few-words-about-%E2%80%98principles
+  title: A Few Words about ‘Principles of Religion’ (Usul al-Deen)
+  slug: 2-a-few-words-about-principles-of-religion-usul-al-deen
+  uuid: 4a7afa40-06cb-429c-8bd9-73ac19e11310
+- source: :alislam
+  source_url: http://www.al-islam.org/wasiyatnama-last-will-testament-ayatullah-shaikh-abdulla-mamkani/invitation-obedience-and-warning
+  title: Invitation to Obedience And Warning Against Sin
+  slug: 3-invitation-to-obedience-and-warning-against-sin
+  uuid: 8064dab8-fb8c-4bd0-9cc2-98301a850d06
+- source: :alislam
+  source_url: http://www.al-islam.org/wasiyatnama-last-will-testament-ayatullah-shaikh-abdulla-mamkani/additional-advices
+  title: Additional Advices
+  slug: 4-additional-advices
+  uuid: c722ba24-2e1e-4373-8b77-241b86410360
+- source: :alislam
+  source_url: http://www.al-islam.org/wasiyatnama-last-will-testament-ayatullah-shaikh-abdulla-mamkani/importance-education-and-advices
+  title: The Importance of Education and Advices on How To Achieve It
+  slug: 5-the-importance-of-education-and-advices-on-how-to-achieve-it
+  uuid: 82d8ec3b-a81a-4f9b-be9e-7ffc7a6ef491
+- source: :alislam
+  source_url: http://www.al-islam.org/wasiyatnama-last-will-testament-ayatullah-shaikh-abdulla-mamkani/advice-regarding-business
+  title: Advice regarding Business
+  slug: 6-advice-regarding-business
+  uuid: 57205802-b9a8-4ad9-944f-2a8652f86512
+---

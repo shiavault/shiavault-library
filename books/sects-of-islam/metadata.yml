@@ -1,0 +1,64 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/sects-islam-allamah-sayyid-saeed-akhtar-rizvi
+author: Allamah Sayyid Sa'eed Akhtar Rizvi
+publisher: W.O.F.I.S. World Organization for Islamic Services
+title: Sects of Islam
+slug: sects-of-islam
+uuid: b33dbdba-232b-4771-a76e-badfb425633e
+description: |
+  This book discusses briefly but very clearly about those subjects that
+  are not agreed among the Muslims and that are the causes of the
+  appearance of different sects of Islam.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/sects-islam-allamah-sayyid-saeed-akhtar-rizvi/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: bd7a909c-ff15-4ac3-8e32-ba9fcff5c421
+- source: :alislam
+  source_url: http://www.al-islam.org/sects-islam-allamah-sayyid-saeed-akhtar-rizvi/person-god
+  title: Person of God
+  slug: 2-person-of-god
+  uuid: ab080c0e-6e3f-474d-984c-68454a0f928b
+- source: :alislam
+  source_url: http://www.al-islam.org/sects-islam-allamah-sayyid-saeed-akhtar-rizvi/can-allah-be-seen
+  title: Can Allah be seen?
+  slug: 3-can-allah-be-seen
+  uuid: 9391b13f-abc0-4fdd-b57d-747aa0489897
+- source: :alislam
+  source_url: http://www.al-islam.org/sects-islam-allamah-sayyid-saeed-akhtar-rizvi/attributes-allah
+  title: Attributes of Allah
+  slug: 4-attributes-of-allah
+  uuid: 8d001951-b217-4eee-b789-881a6451d8ef
+- source: :alislam
+  source_url: http://www.al-islam.org/sects-islam-allamah-sayyid-saeed-akhtar-rizvi/place-reason-religion
+  title: Place of Reason in Religion
+  slug: 5-place-of-reason-in-religion
+  uuid: db4f658d-9a7a-4767-b824-eda740a7c18c
+- source: :alislam
+  source_url: http://www.al-islam.org/sects-islam-allamah-sayyid-saeed-akhtar-rizvi/lutf-grace
+  title: 'Lutf: Grace'
+  slug: 6-lutf-grace
+  uuid: bea00223-501f-4c15-a9ba-de4d666446b6
+- source: :alislam
+  source_url: http://www.al-islam.org/sects-islam-allamah-sayyid-saeed-akhtar-rizvi/gods-promises
+  title: God’s Promises
+  slug: 7-god-s-promises
+  uuid: 7e7a56b4-114c-4e4e-bbb2-5072f96c1bbc
+- source: :alislam
+  source_url: http://www.al-islam.org/sects-islam-allamah-sayyid-saeed-akhtar-rizvi/why-believe-god
+  title: Why believe in God?
+  slug: 8-why-believe-in-god
+  uuid: 3e4880df-5065-496f-a123-871e1ac0f6e4
+- source: :alislam
+  source_url: http://www.al-islam.org/sects-islam-allamah-sayyid-saeed-akhtar-rizvi/our-actions-taqdir
+  title: 'Our actions: Taqdir'
+  slug: 9-our-actions-taqdir
+  uuid: 7d05ebd2-c7b6-4a93-9051-eba5e811aaed
+- source: :alislam
+  source_url: http://www.al-islam.org/sects-islam-allamah-sayyid-saeed-akhtar-rizvi/prophethood
+  title: Prophethood
+  slug: 10-prophethood
+  uuid: 37ef76b9-2ceb-476b-a98a-9293c8463926
+---

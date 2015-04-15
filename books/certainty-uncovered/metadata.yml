@@ -1,0 +1,62 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/certainty-uncovered-allamah-hilli
+author: Jamal al-Din ibn Yusuf 'Allamah Hilli
+publisher: Ansariyan Publications - Qum
+translator: Ali Akbar Aghili Ashtiani
+title: Certainty Uncovered
+slug: certainty-uncovered
+uuid: c4d673dc-2d1b-4c49-9b9f-2af8739387ee
+description: |
+  This book, authored by Allamah Hilli, discusses Imam Ali's merits and
+  virtues during the course of his life, before birth and in his years of
+  youth till his last day. The book discusses Imam Ali's physical
+  excellence and superiority demonstrated in different occasions and the
+  numerous honors which Allah (SWT) bestowed him.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/certainty-uncovered-allamah-hilli/translators-note
+  title: Translator’s Note
+  slug: 1-translator-s-note
+  uuid: 714fc723-036f-4f85-8208-f81c78ff93dd
+- source: :alislam
+  source_url: http://www.al-islam.org/certainty-uncovered-allamah-hilli/biography-allamah-hilli
+  title: Biography of Allamah Hilli
+  slug: 2-biography-of-allamah-hilli
+  uuid: c1739c9f-a4c3-4dd9-8dd5-95bbfb798962
+- source: :alislam
+  source_url: http://www.al-islam.org/certainty-uncovered-allamah-hilli/preface
+  title: Preface
+  slug: 3-preface
+  uuid: 7527f329-4da8-4b40-9709-a62c3009d82e
+- source: :alislam
+  source_url: http://www.al-islam.org/certainty-uncovered-allamah-hilli/alis-virtues-his-birth
+  title: "‘Ali’s Virtues Before His Birth"
+  slug: 4-ali-s-virtues-before-his-birth
+  uuid: 0fe170ae-b513-40d6-a045-c4c076db1f2b
+- source: :alislam
+  source_url: http://www.al-islam.org/certainty-uncovered-allamah-hilli/alis-virtues-boyhood-and-maturity
+  title: "‘Ali’s Virtues in Boyhood and Maturity"
+  slug: 5-ali-s-virtues-in-boyhood-and-maturity
+  uuid: 1ac2f3cd-e303-4523-9e0d-86f9ae562faa
+- source: :alislam
+  source_url: http://www.al-islam.org/certainty-uncovered-allamah-hilli/imam-alis-physical-excellence-and-superiority
+  title: Imam ‘Ali’s Physical Excellence and Superiority
+  slug: 6-imam-ali-s-physical-excellence-and-superiority
+  uuid: aed51539-125e-478f-a651-b870b36f49d3
+- source: :alislam
+  source_url: http://www.al-islam.org/certainty-uncovered-allamah-hilli/imam-alis-external-virtues-and-merits
+  title: Imam ‘Ali’s External Virtues and Merits
+  slug: 7-imam-ali-s-external-virtues-and-merits
+  uuid: a98a34db-c8c2-4d0a-bfb9-8050036e2b48
+- source: :alislam
+  source_url: http://www.al-islam.org/certainty-uncovered-allamah-hilli/more-merits-imam-ali
+  title: More Merits of Imam ‘Ali
+  slug: 8-more-merits-of-imam-ali
+  uuid: c1a02ae4-65f2-4b2c-b61d-53b90c64efd2
+- source: :alislam
+  source_url: http://www.al-islam.org/certainty-uncovered-allamah-hilli/final-note
+  title: Final Note
+  slug: 9-final-note
+  uuid: c32f0bc4-8316-4023-a92b-7cca282c1c2c
+---

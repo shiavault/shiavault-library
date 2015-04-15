@@ -1,0 +1,31 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/tawhid-or-monotheism-muhammad-taqi-misbah-yazdi
+author: Ayatullah Muhammad Taqi Misbah Yazdi
+publisher: Islamic Propagation Organization
+translator: N.Tawhidi
+title: At-Tawhid or Monotheism
+slug: at-tawhid-or-monotheism
+uuid: 9b8ef130-0322-4e4c-9462-de9e6498bf52
+description: |
+  A book that delves into the several dimensions and depths of Tawhid
+  (Oneness of God): the central and core concept of Islam. Starting from
+  the basic definitions, it then moves onto how one's life and existence
+  revolve around Tawhid.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-or-monotheism-muhammad-taqi-misbah-yazdi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: a1e99db8-2155-46fc-9529-731407ffc37f
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-or-monotheism-muhammad-taqi-misbah-yazdi/part-1-tawhid-value-system-islam
+  title: 'Part 1: At-Tawhid in the Value System of Islam'
+  slug: 2-part-1-at-tawhid-in-the-value-system-of-islam
+  uuid: bd8bc21a-161b-4903-9905-c9dde8c8a1ad
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-or-monotheism-muhammad-taqi-misbah-yazdi/part-2-tawhid-ideological-system-islam
+  title: 'Part 2: At-Tawhid In the Ideological System of Islam'
+  slug: 3-part-2-at-tawhid-in-the-ideological-system-of-islam
+  uuid: 06b61629-8b89-45a7-9b99-2b060cf1bc9e
+---

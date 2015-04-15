@@ -1,0 +1,55 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/goal-life-ayatullah-murtadha-mutahhari
+author: Ayatullah Murtadha Mutahhari
+publisher: Foreign Department of Bethat Foundation
+title: Goal of Life
+slug: goal-of-life
+uuid: 984c6df4-d93e-4dda-a640-cbda614b5cc8
+description: |
+  This text contains five lectures that revolve around God, as the
+  ultimate Goal of Life, discussing about topics such as the goal of
+  creation, individual and social ethics, human perfection and Islamic
+  monotheism.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/goal-life-ayatullah-murtadha-mutahhari/editor-s-note
+  title: Editor’s Note
+  slug: 1-editor-s-note
+  uuid: 7c421ae6-2a0b-4dab-8869-2516f984b84a
+- source: :alislam
+  source_url: http://www.al-islam.org/goal-life-ayatullah-murtadha-mutahhari/translator-s-preface
+  title: Translator's Preface
+  slug: 2-translator-s-preface
+  uuid: 1a814200-155b-4398-aea0-059723e0e28b
+- source: :alislam
+  source_url: http://www.al-islam.org/goal-life-ayatullah-murtadha-mutahhari/introduction-first-publisher
+  title: Introduction by First Publisher
+  slug: 3-introduction-by-first-publisher
+  uuid: 9ebe08a0-5b41-4c1d-aa83-c852ddfad270
+- source: :alislam
+  source_url: http://www.al-islam.org/goal-life-ayatullah-murtadha-mutahhari/chapter-1-goal-creation
+  title: 'Chapter 1: The Goal of Creation'
+  slug: 4-chapter-1-the-goal-of-creation
+  uuid: 3fbd38b0-bd3f-4fab-aeab-3a76a17a7282
+- source: :alislam
+  source_url: http://www.al-islam.org/goal-life-ayatullah-murtadha-mutahhari/chapter-2-basis-individual-and-social-ethics
+  title: 'Chapter 2: The Basis of Individual and Social Ethics'
+  slug: 5-chapter-2-the-basis-of-individual-and-social-ethics
+  uuid: 264d4dfe-a364-43d2-9bec-d1b5a592334a
+- source: :alislam
+  source_url: http://www.al-islam.org/goal-life-ayatullah-murtadha-mutahhari/chapter-3-faith-schools-thought-and-world-vision
+  title: 'Chapter 3: Faith, Schools of Thought and World Vision'
+  slug: 6-chapter-3-faith-schools-of-thought-and-world-vision
+  uuid: 1cc72655-c0ee-434d-b88c-4e4fecbce043
+- source: :alislam
+  source_url: http://www.al-islam.org/goal-life-ayatullah-murtadha-mutahhari/chapter-4-islamic-faith-and-human-perfection
+  title: 'Chapter 4: Islamic Faith and Human Perfection'
+  slug: 7-chapter-4-islamic-faith-and-human-perfection
+  uuid: 54d46924-b623-40ca-a394-8bb18d7500b7
+- source: :alislam
+  source_url: http://www.al-islam.org/goal-life-ayatullah-murtadha-mutahhari/chapter-5-summing-islamic-monotheism
+  title: 'Chapter 5: Summing up Islamic Monotheism'
+  slug: 8-chapter-5-summing-up-islamic-monotheism
+  uuid: 08bc057d-285f-4511-bb8e-f6a8d101db52
+---

@@ -1,0 +1,45 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/imam-khomeini-short-biography-hamid-algar
+author: Hamid Algar
+publisher: The Institute for Compilation and Publication of Imam Khomeini's Works
+title: 'Imam Khomeini: A Short Biography'
+slug: imam-khomeini-a-short-biography
+uuid: 9552ef35-a7a5-4c7c-a7a9-351da60c1c76
+description: |
+  A preliminary sketch, intended to acquaint the reader with the outlines
+  of the Imam’s life and the main aspects of his person as an Islamic
+  leader of exceptional stature.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-short-biography-hamid-algar/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 4e098c62-6031-4baa-a758-d8ba0a9aa617
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-short-biography-hamid-algar/childhood-and-early-education
+  title: Childhood And Early Education
+  slug: 2-childhood-and-early-education
+  uuid: 9e60327d-01a9-454c-aae1-7bd0d176fbc2
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-short-biography-hamid-algar/years-spiritual-and-intellectual-formation-qum-1923-1962
+  title: The Years of Spiritual and Intellectual Formation in Qum, 1923 to 1962
+  slug: 3-the-years-of-spiritual-and-intellectual-formation-in-qum-1923-to-1962
+  uuid: 5b6fe2d1-ffd1-4c32-8206-112fb0908eef
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-short-biography-hamid-algar/years-struggle-and-exile-1962-1978
+  title: The Years of Struggle and Exile, 1962-1978
+  slug: 4-the-years-of-struggle-and-exile-1962-1978
+  uuid: 6faffa7b-ca21-403c-99bf-c181db43ea07
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-short-biography-hamid-algar/islamic-revolution-1978-79
+  title: The Islamic Revolution, 1978-79
+  slug: 5-the-islamic-revolution-1978-79
+  uuid: bb9ee5da-102b-4924-b284-bb58511bcaf8
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-short-biography-hamid-algar/1979-89-first-decade-islamic-republic-last-decade-imam%E2%80%99s
+  title: '1979-89: first decade of the Islamic Republic, last decade of the Imam’s
+    life'
+  slug: 6-1979-89-first-decade-of-the-islamic-republic-last-decade-of-the-imam-s-life
+  uuid: 4d0713fe-57b6-4999-976c-498d36c0ab1d
+---

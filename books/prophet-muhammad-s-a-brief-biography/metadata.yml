@@ -1,0 +1,77 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/prophet-muhammad-a-brief-biography-al-balagh
+author: N/A
+publisher: Al Balagh Foundation
+title: Prophet Muhammad [s] - A Brief Biography
+slug: prophet-muhammad-s-a-brief-biography
+uuid: f4c7c16a-f1ed-473d-a178-d43f35b3dc16
+description: |
+  Simple account of the life of the final Messenger (s).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/prophet-muhammad-a-brief-biography-al-balagh/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 1315c51d-c5a7-4f53-8bc0-1de9009b780c
+- source: :alislam
+  source_url: http://www.al-islam.org/prophet-muhammad-a-brief-biography-al-balagh/state-world-islam
+  title: The State of the World before Islam
+  slug: 2-the-state-of-the-world-before-islam
+  uuid: 8710cbdd-2a20-4c31-b762-7c5e68e4b17b
+- source: :alislam
+  source_url: http://www.al-islam.org/prophet-muhammad-a-brief-biography-al-balagh/makkan-society
+  title: The Makkan Society
+  slug: 3-the-makkan-society
+  uuid: b46bfced-7913-41cf-9727-f9e1b9e29eb4
+- source: :alislam
+  source_url: http://www.al-islam.org/prophet-muhammad-a-brief-biography-al-balagh/birth-and-ancestry
+  title: Birth and Ancestry
+  slug: 4-birth-and-ancestry
+  uuid: bf7f5345-75d7-40d1-b137-502f60866e56
+- source: :alislam
+  source_url: http://www.al-islam.org/prophet-muhammad-a-brief-biography-al-balagh/upbringing-prophet
+  title: The Upbringing of the Prophet
+  slug: 5-the-upbringing-of-the-prophet
+  uuid: 207d1a1f-6cf4-4f5d-8a5c-6a97fbefa241
+- source: :alislam
+  source_url: http://www.al-islam.org/prophet-muhammad-a-brief-biography-al-balagh/prophets-marriage
+  title: The Prophet's Marriage
+  slug: 6-the-prophet-s-marriage
+  uuid: 722d4d98-8d2a-4a83-9c8c-e457451ab6ac
+- source: :alislam
+  source_url: http://www.al-islam.org/prophet-muhammad-a-brief-biography-al-balagh/truthful-and-honest
+  title: Truthful and Honest
+  slug: 7-truthful-and-honest
+  uuid: 9162b12f-741e-49a3-b07f-b9535bd5ecc5
+- source: :alislam
+  source_url: http://www.al-islam.org/prophet-muhammad-a-brief-biography-al-balagh/muhammad-s-good-news-prophets
+  title: Muhammad (S) The Good News of the Prophets
+  slug: 8-muhammad-s-the-good-news-of-the-prophets
+  uuid: cef3c7d7-75ec-45e5-a3d5-f7f2a77e1b54
+- source: :alislam
+  source_url: http://www.al-islam.org/prophet-muhammad-a-brief-biography-al-balagh/beginning-prophetic-mission
+  title: The Beginning of the Prophetic Mission
+  slug: 9-the-beginning-of-the-prophetic-mission
+  uuid: 90132731-c588-4a6e-8bed-84ccbc508657
+- source: :alislam
+  source_url: http://www.al-islam.org/prophet-muhammad-a-brief-biography-al-balagh/making-early-muslims
+  title: The Making of Early Muslims
+  slug: 10-the-making-of-early-muslims
+  uuid: dc3abcaa-aea3-45c5-964c-ed79006cd650
+- source: :alislam
+  source_url: http://www.al-islam.org/prophet-muhammad-a-brief-biography-al-balagh/makkan-period
+  title: The Makkan Period
+  slug: 11-the-makkan-period
+  uuid: a6b79830-e2cf-44b1-9480-94869ce9a7f3
+- source: :alislam
+  source_url: http://www.al-islam.org/prophet-muhammad-a-brief-biography-al-balagh/important-events-madina
+  title: Important Events of Madina
+  slug: 12-important-events-of-madina
+  uuid: 923300b0-c417-45b6-a808-3f02b39cd175
+- source: :alislam
+  source_url: http://www.al-islam.org/prophet-muhammad-a-brief-biography-al-balagh/glimpses-prophets-conduct
+  title: Glimpses of the Prophet's Conduct
+  slug: 13-glimpses-of-the-prophet-s-conduct
+  uuid: 6a6521e2-cb4b-4b75-80e4-5ae6f6dbc6d8
+---

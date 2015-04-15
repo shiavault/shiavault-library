@@ -1,0 +1,55 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/questions-jurisprudence-abdul-husayn-sharafuddin-al-musawi
+author: Abdul Husayn Sharafuddin al-Musawi
+publisher: Hydery Canada Ltd
+translator: Liyakatali Takim
+title: Questions on Jurisprudence
+slug: questions-on-jurisprudence
+uuid: f7abec53-7df2-49be-b13f-553d1dce6cd4
+description: |
+  Explanations of laws and practices specific to Shi'ism, including
+  combining of prayers, saying the basmala, mut'a, and method of wudhu.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/questions-jurisprudence-abdul-husayn-sharafuddin-al-musawi/translators-introduction
+  title: Translator's Introduction
+  slug: 1-translator-s-introduction
+  uuid: 19f67be2-6aaa-43a4-82b8-0210bc3e7e63
+- source: :alislam
+  source_url: http://www.al-islam.org/questions-jurisprudence-abdul-husayn-sharafuddin-al-musawi/about-author
+  title: About the Author
+  slug: 2-about-the-author
+  uuid: 2ad289d3-cc35-4647-96c9-39ddc0c958cf
+- source: :alislam
+  source_url: http://www.al-islam.org/questions-jurisprudence-abdul-husayn-sharafuddin-al-musawi/chapter-one-combining-two-prayers
+  title: 'Chapter One: Combining The Two Prayers'
+  slug: 3-chapter-one-combining-the-two-prayers
+  uuid: 8f577249-da1d-48da-96bc-54f4468355bd
+- source: :alislam
+  source_url: http://www.al-islam.org/questions-jurisprudence-abdul-husayn-sharafuddin-al-musawi/chapter-two-basmala-quranic-verse-it-be
+  title: 'Chapter Two: Is The Basmala A Qur''anic Verse? Is It To Be Recited In The
+    Prayer?'
+  slug: 4-chapter-two-is-the-basmala-a-qur-anic-verse-is-it-to-be-recited-in-the-prayer
+  uuid: 2ff168dc-a241-4764-b398-1dea8e749317
+- source: :alislam
+  source_url: http://www.al-islam.org/questions-jurisprudence-abdul-husayn-sharafuddin-al-musawi/chapter-three-taqsir-traveller-and-iftar
+  title: 'Chapter Three: The Taqsir of the Traveller and his Iftar'
+  slug: 5-chapter-three-the-taqsir-of-the-traveller-and-his-iftar
+  uuid: 54754ae6-a4de-4b80-bd5c-c9371fc749ab
+- source: :alislam
+  source_url: http://www.al-islam.org/questions-jurisprudence-abdul-husayn-sharafuddin-al-musawi/chapter-four-muta-temporary-marriage
+  title: 'Chapter Four: ‘Mut''a’, Temporary Marriage'
+  slug: 6-chapter-four-mut-a-temporary-marriage
+  uuid: 74d0cc22-1774-4d5b-827f-13983669466c
+- source: :alislam
+  source_url: http://www.al-islam.org/questions-jurisprudence-abdul-husayn-sharafuddin-al-musawi/chapter-five-wiping-or-washing-feet
+  title: 'Chapter Five: The Wiping or Washing of the Feet in the ‘Wudhu’ (Ablution)'
+  slug: 7-chapter-five-the-wiping-or-washing-of-the-feet-in-the-wudhu-ablution
+  uuid: eacbeb4d-1510-4ba0-a04a-4757baaf36e8
+- source: :alislam
+  source_url: http://www.al-islam.org/questions-jurisprudence-abdul-husayn-sharafuddin-al-musawi/chapter-six-wiping-ears-and-six-different
+  title: 'Chapter Six: The Wiping of the Ears and the Six Different Derivatives'
+  slug: 8-chapter-six-the-wiping-of-the-ears-and-the-six-different-derivatives
+  uuid: 2448be45-41be-4d49-8da6-592df336b92c
+---

@@ -1,0 +1,129 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo
+author: A. H. SheriffA. S. Alloo
+publisher: Bilal Muslim Mission of Kenya
+title: Bilal's Bedtime Stories
+slug: bilal-s-bedtime-stories
+uuid: b38d6628-88dd-4abc-8aee-94fbe37cc682
+description: |
+  Bedtime (or anytime!) stories on Bilal, the companion of the Prophet
+  (s), and other events from the lives of the Prophets, Imams and
+  companions.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/bilal-great-african-muslim
+  title: Bilal the Great African Muslim
+  slug: 1-bilal-the-great-african-muslim
+  uuid: 0e18324a-53de-4e0a-8595-6b3ef44db9aa
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/who-has-seen-god
+  title: Who has seen God?
+  slug: 2-who-has-seen-god
+  uuid: be58dbe5-ca2f-47fd-8492-212e5cb96ce2
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/there-god
+  title: Is there a God?
+  slug: 3-is-there-a-god
+  uuid: a887892c-24af-4e1d-833e-692155e4191b
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/creation-adam
+  title: Creation Of Adam
+  slug: 4-creation-of-adam
+  uuid: a91faa40-315b-40c7-a4af-0546e8d008ac
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/how-adam-and-hawwa-came-earth
+  title: How Adam and Hawwa Came on to the Earth
+  slug: 5-how-adam-and-hawwa-came-on-to-the-earth
+  uuid: c61679d0-cd1d-469b-b8aa-88c42f6b229d
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/leadership-example
+  title: Leadership By Example
+  slug: 6-leadership-by-example
+  uuid: 1a052978-24d0-4ba2-81d4-3b5226cc3cc7
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/hazrat-ibrahim-and-old-man
+  title: Hazrat Ibrahim and The Old Man
+  slug: 7-hazrat-ibrahim-and-the-old-man
+  uuid: d18c99f6-066a-49ab-8fdd-7f1590c1a9c8
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/example-forget-and-forgive
+  title: An Example Of Forget and Forgive
+  slug: 8-an-example-of-forget-and-forgive
+  uuid: b2503012-ea2b-427e-8b21-bae72bd46151
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/noah-and-ugly-dog
+  title: Noah and the Ugly Dog
+  slug: 9-noah-and-the-ugly-dog
+  uuid: 105d9ce6-301e-43ae-817b-fdf5a3859ff6
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/bring-fool-his-senses
+  title: To Bring A Fool to His Senses
+  slug: 10-to-bring-a-fool-to-his-senses
+  uuid: d4f4c6be-4828-4c84-b92a-ec34209dd517
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/safari-makkah
+  title: Safari To Makkah
+  slug: 11-safari-to-makkah
+  uuid: f137c405-6ef4-4955-a91a-e7a94363d5af
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/ali-and-killer
+  title: Ali and The Killer
+  slug: 12-ali-and-the-killer
+  uuid: 68e1231c-02e9-4061-8678-7c77fd08de52
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/kindness-and-forgiveness
+  title: Kindness and Forgiveness
+  slug: 13-kindness-and-forgiveness
+  uuid: 41683263-6f21-4a88-82db-cf0c41fd0cc5
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/respect-work
+  title: Respect for Work
+  slug: 14-respect-for-work
+  uuid: 4fdf413e-ea0b-45c0-b285-8c4ca8e3272e
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/whose-pleasure-shall-we-seek
+  title: Whose pleasure shall we seek?
+  slug: 15-whose-pleasure-shall-we-seek
+  uuid: ce060d9b-96fb-48e0-8e67-bdfbda756097
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/how-can-you-have-two-loves-your-heart
+  title: How can you have two loves in your heart!
+  slug: 16-how-can-you-have-two-loves-in-your-heart
+  uuid: 23fad9f6-1fb0-4848-a250-9c863c7a967c
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/make-me-moon-make-me-sun
+  title: Make Me A Moon Make Me A Sun
+  slug: 17-make-me-a-moon-make-me-a-sun
+  uuid: cbdb0642-a5fc-4fde-b3a8-c47d13d6bfbb
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/imam-hussein-and-beggars
+  title: Imam Hussein And The Beggars
+  slug: 18-imam-hussein-and-the-beggars
+  uuid: 2054281a-cc63-49e8-a19e-3154bbcb6d50
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/keeping-ones-dignity
+  title: Keeping One's Dignity
+  slug: 19-keeping-one-s-dignity
+  uuid: 245660f0-e0ba-4f12-86d6-efb5b704e855
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/try-and-try-again-and-again
+  title: Try and Try Again and Again
+  slug: 20-try-and-try-again-and-again
+  uuid: 1c1f5af1-7248-4822-9ed5-40b36ee6e61d
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/noble-and-good-be-or-not-be
+  title: Noble and Good To Be Or Not To Be
+  slug: 21-noble-and-good-to-be-or-not-to-be
+  uuid: 674c5b07-7c84-47d0-b8af-6d32002c82a6
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/little-doctor
+  title: The Little Doctor
+  slug: 22-the-little-doctor
+  uuid: 43b1e65d-327b-4cec-9c20-26cef051f971
+- source: :alislam
+  source_url: http://www.al-islam.org/bilal-s-bedtime-stories-a-h-sheriff-a-s-alloo/all-prayers-and-no-work
+  title: All Prayers and No Work
+  slug: 23-all-prayers-and-no-work
+  uuid: b5895c31-5f47-447d-80d0-b7bf62ad4498
+---

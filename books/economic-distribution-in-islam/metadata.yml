@@ -1,0 +1,38 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/economic-distribution-islam
+publisher: Al-Balagh Foundation
+title: Economic Distribution in Islam
+slug: economic-distribution-in-islam
+uuid: 6b037ec0-d5c9-4382-8201-d73f701b5275
+description: |
+  This booklet is about economic distribution in Islam, it gives an
+  analysis on the current economic system of Islam and presents solutions
+  to the economic problems in Islamic communities.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/economic-distribution-islam/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 26aa1d29-7fba-43e1-a9d9-518abb4f6d2c
+- source: :alislam
+  source_url: http://www.al-islam.org/economic-distribution-islam/islams-care-mans-livelihood
+  title: Islam's Care For Man's Livelihood
+  slug: 2-islam-s-care-for-man-s-livelihood
+  uuid: ba6dc2fa-34b6-408a-b55a-a02f0579f349
+- source: :alislam
+  source_url: http://www.al-islam.org/economic-distribution-islam/misconceptions
+  title: Misconceptions
+  slug: 3-misconceptions
+  uuid: 4d83fa4a-08f2-4f98-8285-ef6dbeae43be
+- source: :alislam
+  source_url: http://www.al-islam.org/economic-distribution-islam/nature-economic-problem
+  title: Nature Of Economic Problem
+  slug: 4-nature-of-economic-problem
+  uuid: 96d6b902-18fd-40a7-b1ab-06da5c5def85
+- source: :alislam
+  source_url: http://www.al-islam.org/economic-distribution-islam/general-bases-distribution-islam
+  title: General Bases of Distribution In Islam
+  slug: 5-general-bases-of-distribution-in-islam
+  uuid: 0ce9c11d-9825-4e42-bf9d-d5ae2fc237f3
+---

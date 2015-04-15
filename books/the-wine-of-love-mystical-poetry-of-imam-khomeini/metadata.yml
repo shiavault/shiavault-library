@@ -1,0 +1,44 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/wine-love-mystical-poetry-imam-khomeini
+publisher: The Institute for  Compilation and Publication  of Imam Khomeini's Works
+translator: Dr. Ghulam-Rida A'waniDr. Muhammad Legenhausen
+title: The Wine of Love, Mystical Poetry of Imam Khomeini
+slug: the-wine-of-love-mystical-poetry-of-imam-khomeini
+uuid: acb66512-478c-4cdd-bef2-591ffd043255
+description: |
+  The translation of the collection of mystical poetry of Imam Khomeini
+  which was published posthumously in Iran, and has now been translated
+  into English for Western readers.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/wine-love-mystical-poetry-imam-khomeini/preface
+  title: Preface
+  slug: 1-preface
+  uuid: c1779687-a2dd-44c7-ac1f-7c763ea20ebb
+- source: :alislam
+  source_url: http://www.al-islam.org/wine-love-mystical-poetry-imam-khomeini/translator%E2%80%99s-introduction
+  title: Translator’s Introduction
+  slug: 2-translator-s-introduction
+  uuid: 89562a9e-5a4a-4121-9929-e78b9fbb4c5a
+- source: :alislam
+  source_url: http://www.al-islam.org/wine-love-mystical-poetry-imam-khomeini/letters
+  title: Letters
+  slug: 3-letters
+  uuid: 6d263505-316c-4cfc-9960-a41fef07e135
+- source: :alislam
+  source_url: http://www.al-islam.org/wine-love-mystical-poetry-imam-khomeini/ghazal-poetry
+  title: Ghazal Poetry
+  slug: 4-ghazal-poetry
+  uuid: 56f68440-3230-4366-9b67-bcf5a76fc900
+- source: :alislam
+  source_url: http://www.al-islam.org/wine-love-mystical-poetry-imam-khomeini/quatrains-ruba%E2%80%98iyat-poetry
+  title: Quatrains (Ruba‘iyat) Poetry
+  slug: 5-quatrains-ruba-iyat-poetry
+  uuid: 8faa0e70-6cdf-463d-87bb-0347cb26816f
+- source: :alislam
+  source_url: http://www.al-islam.org/wine-love-mystical-poetry-imam-khomeini/appendix-symbolism-religious-poetry
+  title: 'Appendix:  On the Symbolism of Religious Poetry'
+  slug: 6-appendix-on-the-symbolism-of-religious-poetry
+  uuid: 126551ed-b162-42e9-9254-6adbd23f24a3
+---

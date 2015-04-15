@@ -1,0 +1,134 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat
+author: Sayyid Ali Akbar Sadaaqat
+publisher: The Islamic Education Board of the World Federation of Khoja Shia Ithna-Asheri
+  Muslim Communities
+title: Anecdotes for Reflection Part 2
+slug: anecdotes-for-reflection-part-2
+uuid: 06a3a2fe-4a44-43ef-912c-63aeaa41e3bb
+description: |
+  Moral stories from the lives of the prophets, the Ahlul Bayt, and their
+  companions.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: e947d22a-cd4d-4279-9fd0-726ac569e871
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/foreword
+  title: Foreword
+  slug: 2-foreword
+  uuid: 36f4f116-aad0-4aa5-a4bb-cf05f27eb9c0
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/transliteration-table
+  title: Transliteration Table
+  slug: 3-transliteration-table
+  uuid: 44bb63b3-0188-4cab-9978-01fb78745255
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/introduction
+  title: Introduction
+  slug: 4-introduction
+  uuid: 5a63d596-97b1-44aa-9d64-3ba51f3da498
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/21-piety-taqwa
+  title: 21. Piety (Taqwa)
+  slug: 5-21-piety-taqwa
+  uuid: b1f8a540-fb06-4d27-8c6e-fa8e11ec7185
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/22-trust-allah
+  title: 22. Trust In Allah
+  slug: 6-22-trust-in-allah
+  uuid: 7abfb474-f4e5-48ba-95b4-0da920866661
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/23-submission
+  title: 23. Submission
+  slug: 7-23-submission
+  uuid: 683de46d-ad26-4dc4-ac0b-116de5ab5add
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/24-contemplation
+  title: 24. Contemplation
+  slug: 8-24-contemplation
+  uuid: c219688c-6c4b-4dd8-8029-09433eddbff7
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/25-humiliation
+  title: 25. Humiliation
+  slug: 9-25-humiliation
+  uuid: c07dd5a0-f6df-4cce-9900-b6065e5dc9fc
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/26-pride
+  title: 26. Pride
+  slug: 10-26-pride
+  uuid: c0117550-d29b-47ae-904b-5bbf045605bf
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/27-humbleness
+  title: 27. Humbleness
+  slug: 11-27-humbleness
+  uuid: 6948e611-0cb9-4e86-82c5-ed1b84ec6a1b
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/28-repentance
+  title: 28. Repentance
+  slug: 12-28-repentance
+  uuid: 1bc215af-d269-49b8-9c25-fe726f0c7911
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/29-ignorance
+  title: 29. Ignorance
+  slug: 13-29-ignorance
+  uuid: 266fdec3-85f0-47b4-936d-8dd43964ab11
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/30-greed
+  title: 30. Greed
+  slug: 14-30-greed
+  uuid: ffd9ce31-6df8-49c8-8346-7ab4e0a4b78c
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/31-envy
+  title: 31. Envy
+  slug: 15-31-envy
+  uuid: 7d6af747-c934-483b-8124-2f70aaffb863
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/32-truth-and-falsehood
+  title: 32. Truth and Falsehood
+  slug: 16-32-truth-and-falsehood
+  uuid: fc19cd84-2bbb-48a0-8df7-8d01eb315868
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/33-lawful-and-unlawful
+  title: 33.  Lawful and Unlawful
+  slug: 17-33-lawful-and-unlawful
+  uuid: e17b3a60-9f21-4d69-beea-de016575ab12
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/34-forbearance
+  title: 34. Forbearance
+  slug: 18-34-forbearance
+  uuid: c5bca878-be19-403c-8740-9fbbddfad196
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/35-modesty
+  title: 35. Modesty
+  slug: 19-35-modesty
+  uuid: dd982303-2716-44c0-885a-7b2e2d801f72
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/36-fear
+  title: 36. Fear
+  slug: 20-36-fear
+  uuid: 901efa89-d641-4b89-ac1b-622d673277e7
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/37-treachery
+  title: 37. Treachery
+  slug: 21-37-treachery
+  uuid: 9340def0-f9c1-4e29-b59b-cd67d20c282d
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/38-world
+  title: 38. The World
+  slug: 22-38-the-world
+  uuid: 350151ea-3898-47e1-aaa0-07cf6a6dc878
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/39-lies
+  title: 39. Lies
+  slug: 23-39-lies
+  uuid: b68fa62b-f5a5-47e5-a882-90c4f65817f9
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-2-sayyid-ali-akbar-sadaaqat/40-theft
+  title: 40. Theft
+  slug: 24-40-theft
+  uuid: bbc0d0f7-227b-4d91-b241-950ae3196ef0
+---

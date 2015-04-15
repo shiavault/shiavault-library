@@ -1,0 +1,235 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini
+author: Ayatullah Sayyid Imam Ruhallah al-Musawi al-Khomeini
+publisher: Ahlul Bayt World Assembly
+translator: Ali Quli Qara'iMahliqa Qara'i
+title: Forty Hadith, An Exposition
+slug: forty-hadith-an-exposition
+uuid: 60ba85b9-b1e4-4a85-9a03-c910e5ea2246
+description: |
+  Detailed commentary on 40 selected traditions narrated through the
+  Prophet (S) and his Ahl al-Bayt (a) on topics of ethics and
+  spirituality, including jihad al-nafs. Second revised edition.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/introductory-note
+  title: Introductory Note
+  slug: 1-introductory-note
+  uuid: 9ca1ec1d-bb9e-46bb-a5fb-4cbed7851531
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/about-author
+  title: About The Author
+  slug: 2-about-the-author
+  uuid: 6ef52f0b-0c31-4537-8d36-32f100a95cf4
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: 89bc7c81-319a-4641-8538-ab45fe23f90f
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/first-hadith-jihad-self
+  title: 'First Hadith: Jihad of The Self'
+  slug: 4-first-hadith-jihad-of-the-self
+  uuid: 89df7bcb-7e61-4006-82f7-b5f6d53178ad
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/second-hadith-ostentation-riya
+  title: 'Second Hadith: Ostentation (Riya’)'
+  slug: 5-second-hadith-ostentation-riya
+  uuid: 6be9477f-6554-4ee0-b9e1-26363c6c5452
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/third-hadith-self-conceit-ujb
+  title: 'Third Hadith: Self-Conceit (‘Ujb)'
+  slug: 6-third-hadith-self-conceit-ujb
+  uuid: 3c263896-93ff-4a4f-adf4-74f1dec81426
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/fourth-hadith-pride-kibr
+  title: 'Fourth Hadith: Pride (Kibr)'
+  slug: 7-fourth-hadith-pride-kibr
+  uuid: df88d170-5436-4622-bf92-6e3f8f7b2583
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/fifth-hadith-envy-hasad
+  title: 'Fifth Hadith: Envy (Hasad)'
+  slug: 8-fifth-hadith-envy-hasad
+  uuid: eb000856-39d6-462c-95a5-03b8a38c8686
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/sixth-hadith-love-world
+  title: 'Sixth Hadith: Love Of The World'
+  slug: 9-sixth-hadith-love-of-the-world
+  uuid: e145b330-99d8-4828-932e-97b037b7859f
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/seventh-hadith-anger-ghadhab
+  title: 'Seventh Hadith: Anger (Ghadhab)'
+  slug: 10-seventh-hadith-anger-ghadhab
+  uuid: a6398b2c-e177-420d-8214-4940d694e70f
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/eighth-hadith-prejudice-asabiyyah
+  title: 'Eighth Hadith:  Prejudice (‘Asabiyyah)'
+  slug: 11-eighth-hadith-prejudice-asabiyyah
+  uuid: bac470dd-f0c7-464d-b285-b605087fec3d
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/ninth-hadith-hypocrisy-nifaq
+  title: 'Ninth Hadith: Hypocrisy (Nifaq)'
+  slug: 12-ninth-hadith-hypocrisy-nifaq
+  uuid: 22a678c5-fc85-4341-9ce7-9ab158fe12ac
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/tenth-hadith-desire-and-hope
+  title: 'Tenth Hadith: Desire And Hope'
+  slug: 13-tenth-hadith-desire-and-hope
+  uuid: a4033398-1848-4cfe-a96d-89fe1e6c635c
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/eleventh-hadith-mans-god-seeking-nature
+  title: 'Eleventh Hadith: Man’s God-Seeking Nature'
+  slug: 14-eleventh-hadith-man-s-god-seeking-nature
+  uuid: cb566fc4-7618-4d75-a203-0c157fe9c788
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/twelfth-hadith-contemplation-tafakkur
+  title: 'Twelfth Hadith: Contemplation (Tafakkur)'
+  slug: 15-twelfth-hadith-contemplation-tafakkur
+  uuid: f0851231-5480-4bf6-8f5c-98be3b4bd8f9
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/thirteenth-hadith-trust-god-tawakkul
+  title: 'Thirteenth Hadith: Trust In God (Tawakkul)'
+  slug: 16-thirteenth-hadith-trust-in-god-tawakkul
+  uuid: 4ecb5e9e-a8b7-4d97-94ed-be456987fece
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/fourteenth-hadith-fear-god
+  title: 'Fourteenth Hadith: Fear of God'
+  slug: 17-fourteenth-hadith-fear-of-god
+  uuid: d145e4d7-120e-4deb-bf13-353f6f658d44
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/fifteenth-hadith-believer-s-trials-and
+  title: 'Fifteenth Hadith: The Believer’s Trials And Tribulations'
+  slug: 18-fifteenth-hadith-the-believer-s-trials-and-tribulations
+  uuid: dbbeb27e-4d46-4199-bb76-7778fa172b58
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/sixteenth-hadith-patience-sabr
+  title: 'Sixteenth Hadith: Patience (Sabr)'
+  slug: 19-sixteenth-hadith-patience-sabr
+  uuid: d895f7d4-94b7-419e-86cf-3ac0e7902adf
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/seventeenth-hadith-repentance-tawbah
+  title: 'Seventeenth Hadith: Repentance (Tawbah)'
+  slug: 20-seventeenth-hadith-repentance-tawbah
+  uuid: 3d5158ec-b03e-402a-8e82-cf12bddb61d3
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/eighteenth-hadith-remembrance-god
+  title: 'Eighteenth Hadith: Remembrance Of God'
+  slug: 21-eighteenth-hadith-remembrance-of-god
+  uuid: eece6867-c70b-4b4f-9d31-5463d2a26303
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/nineteenth-hadith-backbiting-ghibah
+  title: 'Nineteenth Hadith: Backbiting (Ghibah)'
+  slug: 22-nineteenth-hadith-backbiting-ghibah
+  uuid: 52ee092a-e2c3-4c8d-b2c7-a30a9cba93a7
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/twentieth-hadith-pure-intention-ikhlas
+  title: 'Twentieth Hadith: Pure Intention (Ikhlas)'
+  slug: 23-twentieth-hadith-pure-intention-ikhlas
+  uuid: bbcdf2ef-a88d-42ad-8f59-049283df3795
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/twenty-first-hadith-thankfulness-shukr
+  title: 'Twenty-First Hadith: Thankfulness (Shukr)'
+  slug: 24-twenty-first-hadith-thankfulness-shukr
+  uuid: c69d9b48-35d0-4e6e-ad38-ec2aa8b156eb
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/twenty-second-hadith-aversion-death
+  title: 'Twenty-Second Hadith: The Aversion For Death'
+  slug: 25-twenty-second-hadith-the-aversion-for-death
+  uuid: b597670f-d615-41c7-b2c6-fd8935f625ae
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/twenty-third-hadith-seekers-knowledge
+  title: 'Twenty-Third Hadith: The Seekers Of Knowledge'
+  slug: 26-twenty-third-hadith-the-seekers-of-knowledge
+  uuid: 49ef066e-e881-4fe5-9289-2b2362a31480
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/twenty-fourth-hadith-classification-sciences
+  title: 'Twenty Fourth Hadith: The Classification Of Sciences'
+  slug: 27-twenty-fourth-hadith-the-classification-of-sciences
+  uuid: 46233ae1-b955-4bdc-a647-526a13080f62
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/twenty-fifth-hadith-satanic-insinuation
+  title: 'Twenty-Fifth Hadith: Satanic Insinuation'
+  slug: 28-twenty-fifth-hadith-satanic-insinuation
+  uuid: fb54644f-ccb6-453c-83a5-507669866dd0
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/twenty-sixth-hadith-pursuit-knowledge
+  title: 'Twenty Sixth Hadith: The Pursuit Of Knowledge'
+  slug: 29-twenty-sixth-hadith-the-pursuit-of-knowledge
+  uuid: 0bd82cc4-7058-423a-92b3-2ea764a43e26
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/twenty-seventh-hadith-prayer-and
+  title: 'Twenty-Seventh Hadith: Prayer And Concentration'
+  slug: 30-twenty-seventh-hadith-prayer-and-concentration
+  uuid: a281ebd1-8102-4a24-96cc-047bb04ee90b
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/twenty-eighth-hadith-meeting-god
+  title: 'Twenty-Eighth Hadith: Meeting God'
+  slug: 31-twenty-eighth-hadith-meeting-god
+  uuid: 4d5504cf-4408-451f-8948-63ef21e09273
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/twenty-ninth-hadith-prophet-s-counsel-ali
+  title: 'Twenty-Ninth Hadith: The Prophet’s Counsel To ‘Ali'
+  slug: 32-twenty-ninth-hadith-the-prophet-s-counsel-to-ali
+  uuid: a1896df4-e450-4fb7-b374-b1aaedd35353
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/thirtieth-hadith-kinds-hearts
+  title: 'Thirtieth Hadith: The Kinds of Hearts'
+  slug: 33-thirtieth-hadith-the-kinds-of-hearts
+  uuid: a880259d-f63a-451a-8135-6957a080d9d6
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/thirty-first-hadith-indescribability-god
+  title: 'Thirty-First Hadith: The Indescribability of God, The Prophet, And The Imams'
+  slug: 34-thirty-first-hadith-the-indescribability-of-god-the-prophet-and-the-imams
+  uuid: 34f16ec5-e520-44d5-8cb7-e835f52b038b
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/thirty-second-hadith-conviction-faith
+  title: 'Thirty-Second Hadith:  Conviction In Faith'
+  slug: 35-thirty-second-hadith-conviction-in-faith
+  uuid: 375e96d5-117a-4048-b0da-cfb77a8a80af
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/thirty-third-hadith-wilayah-and-works
+  title: 'Thirty-Third Hadith: Wilayah And Works'
+  slug: 36-thirty-third-hadith-wilayah-and-works
+  uuid: 74313854-72b0-45e2-936f-d4eb3032eeee
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/thirty-fourth-hadith-station-faithful-god
+  title: 'Thirty-Fourth Hadith: The Station of The Faithful Before God'
+  slug: 37-thirty-fourth-hadith-the-station-of-the-faithful-before-god
+  uuid: ff90240b-2c1e-4c1b-a7c2-5671d834d868
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/thirty-fifth-hadith-god-and-man-good-and
+  title: 'Thirty-Fifth Hadith:  God And Man, Good And Evil'
+  slug: 38-thirty-fifth-hadith-god-and-man-good-and-evil
+  uuid: 4d684d3f-41c6-4f5b-ae65-a199095c9b71
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/thirty-sixth-hadith-attributes-god
+  title: 'Thirty-Sixth Hadith: The Attributes Of God'
+  slug: 39-thirty-sixth-hadith-the-attributes-of-god
+  uuid: ee561fbf-4b8b-4300-940e-3dd1358f999b
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/thirty-seventh-hadith-knowledge-god
+  title: 'Thirty-Seventh Hadith: The Knowledge Of God'
+  slug: 40-thirty-seventh-hadith-the-knowledge-of-god
+  uuid: ff353836-ec63-4710-ab2e-07f2b71ca17d
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/thirty-eighth-hadith-meaning-god-s-creation
+  title: 'Thirty-Eighth Hadith: The Meaning Of God’s Creation Of Adam In His Image'
+  slug: 41-thirty-eighth-hadith-the-meaning-of-god-s-creation-of-adam-in-his-image
+  uuid: 63ab3849-4b5e-48e7-8a27-43a0e948e04d
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/thirty-ninth-hadith-good-and-evil
+  title: 'Thirty-Ninth Hadith: Good And Evil'
+  slug: 42-thirty-ninth-hadith-good-and-evil
+  uuid: 35290987-e321-4906-8348-69fe0811cf80
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/fortieth-hadith-exegesis-surat-al-tawhid-and
+  title: 'Fortieth Hadith: Exegesis of Surat Al-Tawhid and Some Verses of Surat Al-Hadid'
+  slug: 43-fortieth-hadith-exegesis-of-surat-al-tawhid-and-some-verses-of-surat-al-hadid
+  uuid: 631e5d45-505e-4e48-8552-b150aafacd00
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-an-exposition-second-edition-imam-khomeini/prayer-and-epilogue
+  title: Prayer and Epilogue
+  slug: 44-prayer-and-epilogue
+  uuid: ee3693f4-c689-47e8-8dfd-3408a666985c
+---

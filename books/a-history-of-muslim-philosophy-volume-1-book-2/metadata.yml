@@ -1,0 +1,32 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-2
+publisher: Pakistan Philosophical Congress
+title: A History of Muslim Philosophy Volume 1, Book 2
+slug: a-history-of-muslim-philosophy-volume-1-book-2
+uuid: dc0ff803-a873-49b5-91c2-f9549a9d3bca
+description: |
+  A Compendium of articles on the History of Muslim Philosophy. In this
+  book: Advent Of Islam, Fundamental Teachings Of The Qur'an
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-2/chapter-7-philosophical-teachings-quran
+  title: 'Chapter 7: Philosophical Teachings of the Qur’an'
+  slug: 1-chapter-7-philosophical-teachings-of-the-qur-an
+  uuid: 05bfbbcb-ced8-41b9-8619-3bcc2a7adbfc
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-2/chapter-8-ethical-teachings-quran
+  title: 'Chapter 8: Ethical Teachings of the Qur’an'
+  slug: 2-chapter-8-ethical-teachings-of-the-qur-an
+  uuid: d7efab54-743f-4a91-b8e4-c91f70835ec9
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-2/chapter-9-economic-and-political-teachings-quran
+  title: 'Chapter 9: Economic and Political Teachings of the Qur’an'
+  slug: 3-chapter-9-economic-and-political-teachings-of-the-qur-an
+  uuid: 2b085771-fc82-4254-845a-6fe465cf0ca1
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-2/bibliography
+  title: Bibliography
+  slug: 4-bibliography
+  uuid: db189aae-0556-4b98-b34c-c5d7db631fb5
+---

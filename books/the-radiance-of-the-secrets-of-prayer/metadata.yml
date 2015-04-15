@@ -1,0 +1,72 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/radiance-secrets-prayer-muhsin-qaraati
+author: Muhsin Qara'ati
+publisher: Ahlul Bayt World Assembly
+title: The Radiance of the Secrets of Prayer
+slug: the-radiance-of-the-secrets-of-prayer
+uuid: 11f71582-54dc-4e4f-8d9a-6cdd87e44e79
+description: |
+  In this text, Muhsin Qara'ati explains in detail the meaning of Worship
+  and Intention, as well as how different stages of worship are acquired.
+  He then goes on to explain the different actions of Prayer in detail,
+  such as the first Takbir, and the recitation of the Suras. The author
+  explains each step throughly, outlining its importance and our
+  understanding of the action.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/radiance-secrets-prayer-muhsin-qaraati/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 2e57b542-4f6b-4452-b18b-dccfdbd683ea
+- source: :alislam
+  source_url: http://www.al-islam.org/radiance-secrets-prayer-muhsin-qaraati/preface
+  title: Preface
+  slug: 2-preface
+  uuid: e89e3ef6-57ac-44f8-991d-71525bc2231f
+- source: :alislam
+  source_url: http://www.al-islam.org/radiance-secrets-prayer-muhsin-qaraati/worship-%E2%80%98ibadah
+  title: Worship {‘ibadah}
+  slug: 3-worship-ibadah
+  uuid: bcab020f-138c-411b-92d6-fe3b31812a2e
+- source: :alislam
+  source_url: http://www.al-islam.org/radiance-secrets-prayer-muhsin-qaraati/prayer-salah
+  title: Prayer {Salah}
+  slug: 4-prayer-salah
+  uuid: a8ec4c4e-ef7e-4f5b-a44e-807a3261c182
+- source: :alislam
+  source_url: http://www.al-islam.org/radiance-secrets-prayer-muhsin-qaraati/let%E2%80%99s-welcome-prayer
+  title: Let’s Welcome Prayer!
+  slug: 5-let-s-welcome-prayer
+  uuid: 19d3074c-2ce0-4141-a403-9356c9ff411e
+- source: :alislam
+  source_url: http://www.al-islam.org/radiance-secrets-prayer-muhsin-qaraati/intention-niyyah
+  title: Intention {niyyah}
+  slug: 6-intention-niyyah
+  uuid: c422d890-ed57-4ab4-959d-e5d5eb829d1c
+- source: :alislam
+  source_url: http://www.al-islam.org/radiance-secrets-prayer-muhsin-qaraati/let%E2%80%99s-engage-prayer
+  title: Let’s Engage in Prayer!
+  slug: 7-let-s-engage-in-prayer
+  uuid: a2769f5f-98e2-426d-864f-2226186e727e
+- source: :alislam
+  source_url: http://www.al-islam.org/radiance-secrets-prayer-muhsin-qaraati/post-prayer-supererogatory-devotional-acts-ta%E2%80%98qibat-wa
+  title: The Post-prayer Supererogatory Devotional Acts {ta‘qibat wa nawafil}
+  slug: 8-the-post-prayer-supererogatory-devotional-acts-ta-qibat-wa-nawafil
+  uuid: 7ecb078f-8b8e-412c-9a18-dd940beb12fb
+- source: :alislam
+  source_url: http://www.al-islam.org/radiance-secrets-prayer-muhsin-qaraati/congregational-prayer-salat-al-jama%E2%80%98ah-etc
+  title: Congregational Prayer {salat al-jama‘ah}, Etc.
+  slug: 9-congregational-prayer-salat-al-jama-ah-etc
+  uuid: 9eac7706-1cd1-4eca-a921-c9b54b057869
+- source: :alislam
+  source_url: http://www.al-islam.org/radiance-secrets-prayer-muhsin-qaraati/other-prayers
+  title: Other Prayers
+  slug: 10-other-prayers
+  uuid: 52bb3c07-3c69-49eb-a2d5-e3108de196a8
+- source: :alislam
+  source_url: http://www.al-islam.org/radiance-secrets-prayer-muhsin-qaraati/bibliography
+  title: Bibliography
+  slug: 11-bibliography
+  uuid: e39853c7-47ac-4ab4-ab3a-da43c72f8d22
+---

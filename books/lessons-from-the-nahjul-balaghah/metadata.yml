@@ -1,0 +1,72 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/lessons-nahjul-balaghah-ayatullah-sayyid-ali-khamenei
+author: Ayatullah Sayyid Ali Khamene'i
+publisher: Islamic Propagation Organization
+translator: Hossein Vahid Dastjerdi
+title: Lessons from the Nahjul Balaghah
+slug: lessons-from-the-nahjul-balaghah
+uuid: 727ca0c6-8248-4702-b8e8-84ec2876b4e1
+description: |
+  This is a precious book presented to the world of Islam as a brief
+  introduction to the vast phenomenon of Prophethood as it appears in the
+  Nahjul Balaghah of the Commander of the Faithful, ‘Ali, peace be upon
+  him. '
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-nahjul-balaghah-ayatullah-sayyid-ali-khamenei/publishers-note
+  title: Publisher's Note
+  slug: 1-publisher-s-note
+  uuid: d2a02730-ab72-45ce-9077-2498ccf804a8
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-nahjul-balaghah-ayatullah-sayyid-ali-khamenei/translators-note
+  title: Translator's Note
+  slug: 2-translator-s-note
+  uuid: 61957c25-1fd5-4c5e-86f7-608acc6b4386
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-nahjul-balaghah-ayatullah-sayyid-ali-khamenei/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: 4bcab62c-ba39-4b6a-8ef7-f69f682cd712
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-nahjul-balaghah-ayatullah-sayyid-ali-khamenei/lesson-one-prophethood-nubuwwah
+  title: 'Lesson one: Prophethood (nubuwwah)'
+  slug: 4-lesson-one-prophethood-nubuwwah
+  uuid: 136512ac-a07b-4817-9f00-fb5aefdfb439
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-nahjul-balaghah-ayatullah-sayyid-ali-khamenei/lesson-two-background-prophethood
+  title: 'Lesson Two: Background to Prophethood'
+  slug: 5-lesson-two-background-to-prophethood
+  uuid: fb3ac93d-23d0-4450-b48b-12a53c8d903d
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-nahjul-balaghah-ayatullah-sayyid-ali-khamenei/lesson-three-which-class-society-do-prophets
+  title: 'Lesson Three: To Which Class Of Society do The Prophets Belong?'
+  slug: 6-lesson-three-to-which-class-of-society-do-the-prophets-belong
+  uuid: 14ece5c8-9513-48bb-8425-7ac09b6b4f65
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-nahjul-balaghah-ayatullah-sayyid-ali-khamenei/lesson-four-how-are-prophets-chosen
+  title: 'Lesson Four: How are Prophets chosen?'
+  slug: 7-lesson-four-how-are-prophets-chosen
+  uuid: d2528de5-acd0-4008-ac4f-0337504043fb
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-nahjul-balaghah-ayatullah-sayyid-ali-khamenei/lesson-five-duties-and-responsibilities
+  title: 'Lesson Five: Duties and Responsibilities of the Prophets'
+  slug: 8-lesson-five-duties-and-responsibilities-of-the-prophets
+  uuid: 9cb586a9-10c1-41b4-8041-9652ab4aca15
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-nahjul-balaghah-ayatullah-sayyid-ali-khamenei/lesson-six-continuity-prophethood
+  title: 'Lesson Six: The Continuity of Prophethood'
+  slug: 9-lesson-six-the-continuity-of-prophethood
+  uuid: 37e58350-97c2-41c3-ae25-13b50d49d032
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-nahjul-balaghah-ayatullah-sayyid-ali-khamenei/lesson-seven-end-prophethood
+  title: 'Lesson Seven: The End of Prophethood'
+  slug: 10-lesson-seven-the-end-of-prophethood
+  uuid: 3e015723-d0da-4d66-9c5b-fde927611892
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-nahjul-balaghah-ayatullah-sayyid-ali-khamenei/lesson-eight-believer-status-after-and-time
+  title: 'Lesson Eight: The Believer'' Status Before, After and at the Time of the
+    Prophets'' Appearance'
+  slug: 11-lesson-eight-the-believer-status-before-after-and-at-the-time-of-the-prophets-appearance
+  uuid: faf167cd-8c94-454c-88d2-8b93e0e7fe4a
+---

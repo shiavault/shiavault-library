@@ -1,0 +1,23 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/two-women-and-man-amina-bint-al-huda
+author: Amina Bint al-Huda
+publisher: Islamic Thought Foundation
+translator: M. N. Sultan
+title: Two Women and a Man
+slug: two-women-and-a-man
+uuid: 1f57a797-3e71-413d-9625-3feee2169be0
+description: |2+
+
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/two-women-and-man-amina-bint-al-huda/short-biography-author
+  title: Short Biography of the Author
+  slug: 1-short-biography-of-the-author
+  uuid: 7a74e295-3c7d-415c-a276-2cad4cc9b68b
+- source: :alislam
+  source_url: http://www.al-islam.org/two-women-and-man-amina-bint-al-huda/two-women-and-man
+  title: Two Women and a Man
+  slug: 2-two-women-and-a-man
+  uuid: 013cc935-b951-4601-abc0-65594ab037ef
+---

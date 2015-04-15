@@ -1,0 +1,119 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/imam-khomeini-ethics-and-politics-sayyid-hasan-islami
+author: Sayyid Hasan Islami
+publisher: The Institute for Compilation and Publication of Imam Khomeini’s Works
+translator: Mansoor L. Limba
+title: Imam Khomeini, Ethics and Politics
+slug: imam-khomeini-ethics-and-politics
+uuid: 0507d380-1891-456a-aae6-964dde057102
+description: |
+  The volume is a discussion on ethics and its relation to politics from
+  the viewpoint of Imam Khomeini. The discussions in this book are
+  presented in three parts. The first part is a view on the ethical
+  principles of Imām Khomeinī’s Islamic thought and his fundamental views
+  on ethics. The second part is a deliberation on the relation between
+  ethics and politics. The third part deals with ethical politics and
+  ethical elements in politics
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-ethics-and-politics-sayyid-hasan-islami/translator%E2%80%99s-foreword
+  title: Translator’s Foreword
+  slug: 1-translator-s-foreword
+  uuid: 6a5f3e1c-3718-4ea0-a25e-d4c5c2cd942c
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-ethics-and-politics-sayyid-hasan-islami/letter-appreciation
+  title: Letter of Appreciation
+  slug: 2-letter-of-appreciation
+  uuid: 3d87a4a3-0054-420f-aafe-1d83f88c49fa
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-ethics-and-politics-sayyid-hasan-islami/preface
+  title: Preface
+  slug: 3-preface
+  uuid: b0e0a572-2613-42b9-83e7-72667e8a82c9
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-ethics-and-politics-sayyid-hasan-islami/part-1-imam-khomeinis-code-ethics
+  title: 'Part 1: Imam Khomeini''s Code of Ethics'
+  slug: 4-part-1-imam-khomeini-s-code-of-ethics
+  uuid: 16eff16a-d6b8-44c9-864e-cdb999193424
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-ethics-and-politics-sayyid-hasan-islami/im%C4%81m-khomein%C4%AB%E2%80%99s-code-ethics
+  title: Imām Khomeinī’s Code of Ethics
+  slug: 5-imam-khomeini-s-code-of-ethics
+  uuid: 96a7fcbf-b9cd-49d1-b453-d3b1e011af6d
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-ethics-and-politics-sayyid-hasan-islami/indescribability-human-being
+  title: Indescribability of the Human Being
+  slug: 6-indescribability-of-the-human-being
+  uuid: a4de21cd-ca88-4bde-9c0f-bcbce45e9d93
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-ethics-and-politics-sayyid-hasan-islami/man-state-nature
+  title: Man in the State of Nature
+  slug: 7-man-in-the-state-of-nature
+  uuid: aa77eaa0-11a8-420c-bbe3-69d50ee1b3be
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-ethics-and-politics-sayyid-hasan-islami/man-arena-conflict-between-good-and-evil
+  title: Man as the Arena of Conflict between Good and Evil
+  slug: 8-man-as-the-arena-of-conflict-between-good-and-evil
+  uuid: c8e9467e-bbd2-4ae1-8b26-a8d13f70a8e1
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-ethics-and-politics-sayyid-hasan-islami/philosophy-behind-suffering
+  title: The Philosophy behind Suffering
+  slug: 9-the-philosophy-behind-suffering
+  uuid: aeec25d0-f170-4183-adcb-415e6c78c596
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-ethics-and-politics-sayyid-hasan-islami/knowledge-mental-aid-or-burden
+  title: Is Knowledge a Mental Aid, or Burden?
+  slug: 10-is-knowledge-a-mental-aid-or-burden
+  uuid: b98a49f6-d464-4fb4-adc8-3e2942571aea
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-ethics-and-politics-sayyid-hasan-islami/behaviour-emanating-principles-ethics
+  title: Behaviour as Emanating from the Principles of Ethics
+  slug: 11-behaviour-as-emanating-from-the-principles-of-ethics
+  uuid: c688b9a2-19bd-4c20-8c5e-e35db3db621a
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-ethics-and-politics-sayyid-hasan-islami/part-2-ethics-and-politics
+  title: 'Part 2: Ethics and Politics'
+  slug: 12-part-2-ethics-and-politics
+  uuid: 622b7863-24ee-4d67-bd66-eae028a6690d
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-ethics-and-politics-sayyid-hasan-islami/ethics-and-politics-relationship
+  title: Ethics and Politics Relationship
+  slug: 13-ethics-and-politics-relationship
+  uuid: c383f2c4-9f23-46f7-949f-53f57f9687a0
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-ethics-and-politics-sayyid-hasan-islami/view-separation-ethics-and-politics
+  title: View on the separation of ethics and politics
+  slug: 14-view-on-the-separation-of-ethics-and-politics
+  uuid: 1c0121d3-8172-4798-b00b-729320f22b0a
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-ethics-and-politics-sayyid-hasan-islami/im%C4%81m-khomein%C4%AB-and-ethical-politics
+  title: Imām Khomeinī and Ethical Politics
+  slug: 15-imam-khomeini-and-ethical-politics
+  uuid: 416d4da7-b76d-4bff-8a33-1bcf651ce249
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-ethics-and-politics-sayyid-hasan-islami/politics-indispensable-realization-islam
+  title: Politics as indispensable for the realization of Islam
+  slug: 16-politics-as-indispensable-for-the-realization-of-islam
+  uuid: 948cd86b-e9d1-414e-be93-e61f0ec3539e
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-ethics-and-politics-sayyid-hasan-islami/part-3-three-ethical-pillars-politics
+  title: 'Part 3: Three Ethical Pillars of Politics'
+  slug: 17-part-3-three-ethical-pillars-of-politics
+  uuid: 5a2a36df-b8a6-4eeb-b6cd-9c02bd292c17
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-ethics-and-politics-sayyid-hasan-islami/three-ethical-pillars-politics
+  title: Three Ethical Pillars of Politics
+  slug: 18-three-ethical-pillars-of-politics
+  uuid: d8f0e436-b55e-447a-911c-76dbfe10cac2
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-ethics-and-politics-sayyid-hasan-islami/epilogue
+  title: Epilogue
+  slug: 19-epilogue
+  uuid: 5e49bbfb-c168-4d0a-bcc3-35e2376d289b
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-ethics-and-politics-sayyid-hasan-islami/bibliography
+  title: Bibliography
+  slug: 20-bibliography
+  uuid: 0e2f955d-432e-4d22-a2eb-8554b6b4b4ed
+---

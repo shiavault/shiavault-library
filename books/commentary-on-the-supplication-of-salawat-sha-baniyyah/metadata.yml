@@ -1,0 +1,40 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/commentary-on-the-supplication-of-salawat-shabaniyyah
+author: Jerrmein Abu Shahba
+title: Commentary on the Supplication of Salawat Sha’baniyyah
+slug: commentary-on-the-supplication-of-salawat-sha-baniyyah
+uuid: b8e4ac03-16c8-49dc-a25e-971857a6528f
+description: |
+  This text is a brief commentary on the famous Supplication of Salawat
+  Sha'baniyyah which has been taught to us by Imam Zainul 'Abideen (peace
+  be upon him). The reader is encouraged to analyze and reflect upon the
+  deeper meanings of each word to better appreciate this precious jewel
+  and recite it with cognition.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-on-the-supplication-of-salawat-shabaniyyah/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 43fc6cdc-aa14-41eb-b34e-641dcf726cf2
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-on-the-supplication-of-salawat-shabaniyyah/commentary-supplication
+  title: Commentary on the Supplication
+  slug: 2-commentary-on-the-supplication
+  uuid: a1084a7b-9d6a-4332-bf78-5a230aa0c6dd
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-on-the-supplication-of-salawat-shabaniyyah/conclusion
+  title: Conclusion
+  slug: 3-conclusion
+  uuid: ee5996d4-26cb-47a5-a032-104f5d7c03c0
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-on-the-supplication-of-salawat-shabaniyyah/full-text-salawat-sha%E2%80%99baniyyah
+  title: Full Text of Salawat Sha’baniyyah
+  slug: 4-full-text-of-salawat-sha-baniyyah
+  uuid: 50d596ac-d111-4696-b62e-e5873b30ebc2
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-on-the-supplication-of-salawat-shabaniyyah/references
+  title: References
+  slug: 5-references
+  uuid: 1142f098-c228-4cde-8409-5567db1f8fc7
+---

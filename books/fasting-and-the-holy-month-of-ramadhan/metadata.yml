@@ -1,0 +1,39 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/fasting-and-ramadhan-sheikh-mansour-leghaei
+author: Sheikh Mansour Leghaei
+publisher: Imam Husain Islamic Centre
+title: Fasting and the Holy month of Ramadhan
+slug: fasting-and-the-holy-month-of-ramadhan
+uuid: 8f39bf17-a792-4c9e-b1a8-a092a6799d7f
+description: |
+  In this collection of articles about fasting, the author discusses its
+  significance and practice during the times of the previous Prophets
+  (a.s) and also, the etiquette and purpose of the month of Ramadhan.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/fasting-and-ramadhan-sheikh-mansour-leghaei/fasting-bodymindspirit-healing
+  title: Fasting - A Body/Mind/Spirit Healing
+  slug: 1-fasting-a-body-mind-spirit-healing
+  uuid: e320cc92-97ba-4437-b7dd-7fb9b3a7a992
+- source: :alislam
+  source_url: http://www.al-islam.org/fasting-and-ramadhan-sheikh-mansour-leghaei/ettiquettes-fasting-person
+  title: Ettiquettes of a Fasting Person
+  slug: 2-ettiquettes-of-a-fasting-person
+  uuid: 63228b6f-3a4c-4072-b07e-761460429341
+- source: :alislam
+  source_url: http://www.al-islam.org/fasting-and-ramadhan-sheikh-mansour-leghaei/self-restraint-purpose-holy-month-ramadhan
+  title: Self-restraint, the Purpose of the Holy Month of Ramadhan
+  slug: 3-self-restraint-the-purpose-of-the-holy-month-of-ramadhan
+  uuid: 8215942b-6f6c-48ea-b166-746e53cbdfb1
+- source: :alislam
+  source_url: http://www.al-islam.org/fasting-and-ramadhan-sheikh-mansour-leghaei/ramadhan-awareness
+  title: Ramadhan Awareness
+  slug: 4-ramadhan-awareness
+  uuid: cb03387c-54ef-47c0-8291-345fa4ee221d
+- source: :alislam
+  source_url: http://www.al-islam.org/fasting-and-ramadhan-sheikh-mansour-leghaei/common-halal-and-non-halal-sea-foods
+  title: Common Halal and Non-Halal Sea Foods
+  slug: 5-common-halal-and-non-halal-sea-foods
+  uuid: 6e15718a-6f1a-4ce9-a06c-d6d378ba7596
+---

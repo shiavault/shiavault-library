@@ -1,0 +1,46 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/freedom-the-unstated-facts-and-points-ayatullah-misbah-yazdi
+author: Ayatullah Muhammad Taqi Misbah Yazdi
+publisher: Ahlul Bayt World Assembly
+translator: Mansoor Limba
+title: Freedom, The Unstated Facts and Points
+slug: freedom-the-unstated-facts-and-points
+uuid: 2cadd370-7fef-4533-9a68-1ccc3e8c9afa
+description: |
+  In this text, Ayatullah Muhammad Taqi Misbah Yazdi explains the
+  different kinds of freedom in great detail. He dwells on the
+  understanding of Freedom in its different forms that exist before us
+  today.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/freedom-the-unstated-facts-and-points-ayatullah-misbah-yazdi/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: c3cef8f5-40ce-46ed-81d3-c4893f604205
+- source: :alislam
+  source_url: http://www.al-islam.org/freedom-the-unstated-facts-and-points-ayatullah-misbah-yazdi/preface
+  title: Preface
+  slug: 2-preface
+  uuid: 80a6dc92-5631-486b-864e-a3ad63d1b189
+- source: :alislam
+  source_url: http://www.al-islam.org/freedom-the-unstated-facts-and-points-ayatullah-misbah-yazdi/various-meanings-freedom
+  title: The Various Meanings of Freedom
+  slug: 3-the-various-meanings-of-freedom
+  uuid: 9e415856-4ba5-4e7c-8f57-4d3d99944bd2
+- source: :alislam
+  source_url: http://www.al-islam.org/freedom-the-unstated-facts-and-points-ayatullah-misbah-yazdi/freedom-viewpoint-islam
+  title: Freedom from the Viewpoint of Islam
+  slug: 4-freedom-from-the-viewpoint-of-islam
+  uuid: 179ff63f-7237-4e96-8c4e-2895e8d786f8
+- source: :alislam
+  source_url: http://www.al-islam.org/freedom-the-unstated-facts-and-points-ayatullah-misbah-yazdi/freedom-belief-and-expression
+  title: The Freedom of Belief and Expression
+  slug: 5-the-freedom-of-belief-and-expression
+  uuid: 41885a9e-b059-499b-b7d3-4f4f9b6139fc
+- source: :alislam
+  source_url: http://www.al-islam.org/freedom-the-unstated-facts-and-points-ayatullah-misbah-yazdi/clarification-doubts
+  title: Clarification of Doubts
+  slug: 6-clarification-of-doubts
+  uuid: aa8f9c6e-5aac-44d8-ae32-14dbd0bdd6ce
+---

@@ -1,0 +1,102 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/the-life-of-imam-hasan-al-askari-baqir-shareef-al-qurashi
+author: Baqir Shareef al-Qurashi
+publisher: Ansariyan Publications - Qum
+translator: Abdullah al-Shahin
+title: The Life of Imam Hasan Al-'Askari
+slug: the-life-of-imam-hasan-al-askari
+uuid: 86a45f5b-0c5f-42b4-adeb-1e727100acff
+description: |
+  This text contains a detailed biography of the life, lineage, and
+  circumstances of our eleventh Imam [a]. Apart from detailing the life of
+  the Imam [a], the author also discusses the tafsir (exegesis) of the
+  Qur'an that is attributed to him, as well as lists and describes all the
+  companions of his who narrated traditions from him.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/the-life-of-imam-hasan-al-askari-baqir-shareef-al-qurashi/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: 4c960f02-ad8d-4809-9d77-0e96f3a98b82
+- source: :alislam
+  source_url: http://www.al-islam.org/the-life-of-imam-hasan-al-askari-baqir-shareef-al-qurashi/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 7dc8a142-83e3-4d7f-bca0-e1d3a3cd9b0f
+- source: :alislam
+  source_url: http://www.al-islam.org/the-life-of-imam-hasan-al-askari-baqir-shareef-al-qurashi/imam%E2%80%99s-noble-lineage
+  title: The Imam’s Noble Lineage
+  slug: 3-the-imam-s-noble-lineage
+  uuid: 1500c29a-d049-402b-a5be-a6ad5f779a69
+- source: :alislam
+  source_url: http://www.al-islam.org/the-life-of-imam-hasan-al-askari-baqir-shareef-al-qurashi/his-imamate
+  title: His Imamate
+  slug: 4-his-imamate
+  uuid: 3835a794-cfa7-4437-89d1-4e5c216908a8
+- source: :alislam
+  source_url: http://www.al-islam.org/the-life-of-imam-hasan-al-askari-baqir-shareef-al-qurashi/impressions-about-him
+  title: Impressions About Him
+  slug: 5-impressions-about-him
+  uuid: b7326abe-ee0e-4417-b6d8-9d4bb57134ff
+- source: :alislam
+  source_url: http://www.al-islam.org/the-life-of-imam-hasan-al-askari-baqir-shareef-al-qurashi/his-letters
+  title: His Letters
+  slug: 6-his-letters
+  uuid: d0312d11-3ef1-4ec2-845a-6355f09d707c
+- source: :alislam
+  source_url: http://www.al-islam.org/the-life-of-imam-hasan-al-askari-baqir-shareef-al-qurashi/words-light
+  title: Words of Light
+  slug: 7-words-of-light
+  uuid: 76b3d7b4-50b2-4a5f-bb64-3e8b8edf190b
+- source: :alislam
+  source_url: http://www.al-islam.org/the-life-of-imam-hasan-al-askari-baqir-shareef-al-qurashi/holy-qur%E2%80%99
+  title: With the Holy Qur’an
+  slug: 8-with-the-holy-qur-an
+  uuid: fa1ba5eb-bedc-4324-bee5-ffecbe9d4d5c
+- source: :alislam
+  source_url: http://www.al-islam.org/the-life-of-imam-hasan-al-askari-baqir-shareef-al-qurashi/his-traditions-and-jurisprudence
+  title: His Traditions and Jurisprudence
+  slug: 9-his-traditions-and-jurisprudence
+  uuid: c6fb8408-1f18-4719-9014-57c5980fa586
+- source: :alislam
+  source_url: http://www.al-islam.org/the-life-of-imam-hasan-al-askari-baqir-shareef-al-qurashi/his-companions-and-narrators-his
+  title: His Companions And The Narrators of His Traditions
+  slug: 10-his-companions-and-the-narrators-of-his-traditions
+  uuid: e5bc89fe-07bb-4963-9d5a-32d88c254180
+- source: :alislam
+  source_url: http://www.al-islam.org/the-life-of-imam-hasan-al-askari-baqir-shareef-al-qurashi/age-imam
+  title: The Age of the Imam
+  slug: 11-the-age-of-the-imam
+  uuid: f34f2457-f1fc-49b2-9285-6618e8b618eb
+- source: :alislam
+  source_url: http://www.al-islam.org/the-life-of-imam-hasan-al-askari-baqir-shareef-al-qurashi/political-life
+  title: Political Life
+  slug: 12-political-life
+  uuid: f15d39a7-08c8-4638-ac6b-b6c3d372ac24
+- source: :alislam
+  source_url: http://www.al-islam.org/the-life-of-imam-hasan-al-askari-baqir-shareef-al-qurashi/religious-life
+  title: The Religious Life
+  slug: 13-the-religious-life
+  uuid: 3f7ff4eb-794d-417d-b5d8-8ab95f0f57b3
+- source: :alislam
+  source_url: http://www.al-islam.org/the-life-of-imam-hasan-al-askari-baqir-shareef-al-qurashi/kings-age-imam
+  title: The Kings in the Age of the Imam
+  slug: 14-the-kings-in-the-age-of-the-imam
+  uuid: 9e3cf5b8-600d-4985-8bad-cebc2c0f5f6c
+- source: :alislam
+  source_url: http://www.al-islam.org/the-life-of-imam-hasan-al-askari-baqir-shareef-al-qurashi/better-world
+  title: To the Better World
+  slug: 15-to-the-better-world
+  uuid: fb1b6c3a-be34-4515-b4eb-319211c44c1d
+- source: :alislam
+  source_url: http://www.al-islam.org/the-life-of-imam-hasan-al-askari-baqir-shareef-al-qurashi/ziyarah-imam-al-hasan-al-askari
+  title: The Ziyarah of Imam Al-Hasan Al-Askari
+  slug: 16-the-ziyarah-of-imam-al-hasan-al-askari
+  uuid: 92f72650-0d23-454b-bfec-a8d08c0b8f7e
+- source: :alislam
+  source_url: http://www.al-islam.org/the-life-of-imam-hasan-al-askari-baqir-shareef-al-qurashi/reference-books
+  title: Reference Books
+  slug: 17-reference-books
+  uuid: a6474bdb-a5ad-4406-aa9c-cfcd8dc2fb94
+---

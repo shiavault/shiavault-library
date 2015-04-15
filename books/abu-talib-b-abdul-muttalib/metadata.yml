@@ -1,0 +1,93 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/abu-talib-bin-abdul-muttalib-kamal-al-sayyid
+author: Kamal al-Syyed
+publisher: Ansariyan Publications - Qum
+translator: Jasim al-Alyawy
+title: Abu Talib b. Abdul Muttalib
+slug: abu-talib-b-abdul-muttalib
+uuid: 70e9e31d-a76b-42e4-a1e5-4844598307e3
+description: |
+  Biography of the uncle of the Prophet (s), Hazrat Abu Talib (as).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-bin-abdul-muttalib-kamal-al-sayyid/year-elephant
+  title: The Year of the Elephant
+  slug: 1-the-year-of-the-elephant
+  uuid: e9ec898c-3aa0-4d83-bc03-d3208a622bbc
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-bin-abdul-muttalib-kamal-al-sayyid/abdul-muttalib
+  title: Abdul Muttalib
+  slug: 2-abdul-muttalib
+  uuid: 13dc9f69-ccb3-4fda-abcd-b28c9ff1aa03
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-bin-abdul-muttalib-kamal-al-sayyid/guardian
+  title: The Guardian
+  slug: 3-the-guardian
+  uuid: 8e3390fd-6d1f-4f0f-a5d4-b65d4d94634b
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-bin-abdul-muttalib-kamal-al-sayyid/good-news
+  title: The Good News
+  slug: 4-the-good-news
+  uuid: 78e155fa-a5ef-4e27-bc75-f2cb320fb292
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-bin-abdul-muttalib-kamal-al-sayyid/blessed-boy
+  title: The Blessed Boy
+  slug: 5-the-blessed-boy
+  uuid: 7a6b6b6b-00c0-4ea9-8382-317a5e0bbe8a
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-bin-abdul-muttalib-kamal-al-sayyid/supporter-persecuted
+  title: The Supporter of the Persecuted
+  slug: 6-the-supporter-of-the-persecuted
+  uuid: ebf6ccb3-6e09-4e3c-8258-c831449bfb84
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-bin-abdul-muttalib-kamal-al-sayyid/alliance-fodhool
+  title: The Alliance of Fodhool
+  slug: 7-the-alliance-of-fodhool
+  uuid: 5ff13cb7-5813-4197-a92f-6e799eb7aadf
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-bin-abdul-muttalib-kamal-al-sayyid/happy-marriage
+  title: The Happy Marriage
+  slug: 8-the-happy-marriage
+  uuid: 28495feb-d3c8-4a76-837f-9469c622618c
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-bin-abdul-muttalib-kamal-al-sayyid/jibreel
+  title: Jibreel
+  slug: 9-jibreel
+  uuid: c52d8a5a-1e44-4df7-8fda-29a70cf0487d
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-bin-abdul-muttalib-kamal-al-sayyid/prophets-house
+  title: In the Prophet's House
+  slug: 10-in-the-prophet-s-house
+  uuid: 2b0d8504-e649-4250-9dd2-ec9cc69135c0
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-bin-abdul-muttalib-kamal-al-sayyid/supporter
+  title: The Supporter
+  slug: 11-the-supporter
+  uuid: f9797b7c-91ba-4c0e-b695-8eba843abcb3
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-bin-abdul-muttalib-kamal-al-sayyid/light-islam
+  title: The Light of Islam
+  slug: 12-the-light-of-islam
+  uuid: 41991837-575e-4d6b-ad36-bb4950e528a6
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-bin-abdul-muttalib-kamal-al-sayyid/ban
+  title: The Ban
+  slug: 13-the-ban
+  uuid: 79972034-8ffb-4792-9021-4c6640e295c5
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-bin-abdul-muttalib-kamal-al-sayyid/good-news-0
+  title: The Good News
+  slug: 14-the-good-news
+  uuid: 04fa99fc-db0a-4f41-bff3-52ae9db7f59a
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-bin-abdul-muttalib-kamal-al-sayyid/demise
+  title: The Demise
+  slug: 15-the-demise
+  uuid: 4f131e44-d2c4-41da-8ebb-39e5a3d4b624
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-bin-abdul-muttalib-kamal-al-sayyid/year-sadness
+  title: The Year of Sadness
+  slug: 16-the-year-of-sadness
+  uuid: 2cb041c5-b615-449f-b277-459f955ad962
+---

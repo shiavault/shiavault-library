@@ -1,0 +1,41 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/fundamentals-of-knowing-god-in-greek-philosophy-and-divine-religion-reza-berenjkar
+author: Reza Berenjkar
+publisher: Naba Organization
+translator: Jalil Dorrani
+title: Fundamentals of Knowing God in Greek Philosophy and Divine Religion
+slug: fundamentals-of-knowing-god-in-greek-philosophy-and-divine-religion
+uuid: 371da9a4-fcc9-47f8-bdd9-bba1ddc2a687
+description: |
+  In this research, effort has been made to discuss and compare the
+  genuine foundations and basic fundamentals of Knowing God and the ways
+  of gaining the knowledge of God in Divine Religions and in Greek
+  Philosophy.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/fundamentals-of-knowing-god-in-greek-philosophy-and-divine-religion-reza-berenjkar/preface
+  title: Preface
+  slug: 1-preface
+  uuid: c1c5b3c3-a06f-46d8-8101-dd5ae7b8a690
+- source: :alislam
+  source_url: http://www.al-islam.org/fundamentals-of-knowing-god-in-greek-philosophy-and-divine-religion-reza-berenjkar/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: c65a88f0-ea0b-401f-bdde-f36404b58166
+- source: :alislam
+  source_url: http://www.al-islam.org/fundamentals-of-knowing-god-in-greek-philosophy-and-divine-religion-reza-berenjkar/section-one
+  title: 'Section One: Proving God'
+  slug: 3-section-one-proving-god
+  uuid: c73bcc6d-5794-4153-90f4-d2305878e3e6
+- source: :alislam
+  source_url: http://www.al-islam.org/fundamentals-of-knowing-god-in-greek-philosophy-and-divine-religion-reza-berenjkar/section-two
+  title: 'Section Two: Philosophical Theology (Knowing God)'
+  slug: 4-section-two-philosophical-theology-knowing-god
+  uuid: fa008c2a-a745-4454-91bc-e638419b6795
+- source: :alislam
+  source_url: http://www.al-islam.org/fundamentals-of-knowing-god-in-greek-philosophy-and-divine-religion-reza-berenjkar/section-three
+  title: 'Section Three: Divine Theology'
+  slug: 5-section-three-divine-theology
+  uuid: f17a56c8-e24c-4397-b365-3d0b309d9211
+---

@@ -1,0 +1,192 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi
+author: Allamah Muhammad Baqir Al-Majlisi
+publisher: Ansariyan Publications - Qum
+translator: Sayyid Athar Husayn S. H. Rizvi
+title: Hayat Al-Qulub Vol. 2
+slug: hayat-al-qulub-vol-2
+uuid: ab52b6f8-9609-4df2-ac24-214a699f2606
+description: |
+  This is the second volume of the three volume series by Allamah
+  Al-Majlisi, titled Hayat al-Qulub (Life of the Hearts). This volume is a
+  very detailed and comprehensive biography of Prophet Muhammad [s],
+  starting with an account of his esteemed ancestry and ending with the
+  events that transpired shortly after his death.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/publisher%E2%80%99s-preface
+  title: Publisher’s Preface
+  slug: 1-publisher-s-preface
+  uuid: ed3f45a2-acfe-4a9a-b05a-d49babd018fb
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/translators-foreword
+  title: Translators Foreword
+  slug: 2-translators-foreword
+  uuid: 7775b7d3-dd93-499d-ad21-7a77b905ce0b
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/ancestry-holy-prophet-s-and-circumstances-his
+  title: Ancestry of the Holy Prophet (S) and Circumstances of His Forefathers
+  slug: 3-ancestry-of-the-holy-prophet-s-and-circumstances-of-his-forefathers
+  uuid: 8c72c079-a635-4247-9324-d435410ddafd
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/prophecies-about-holy-prophet-s-birth
+  title: Prophecies about the Holy Prophet (S), Birth, appointment, conditions of
+    some faithful persons who lived during Fatara
+  slug: 4-prophecies-about-the-holy-prophet-s-birth-appointment-conditions-of-some-faithful-persons-who-lived-during-fatara
+  uuid: a4669510-06cb-4066-8cd2-e763dc4bc8dc
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/prophet%E2%80%99s-appearance-character-physique-and
+  title: Prophet’s appearance, character, physique and some miracles
+  slug: 5-prophet-s-appearance-character-physique-and-some-miracles
+  uuid: 5a0eaab4-10c7-41c8-b25b-1776a5c96142
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/holy-prophet-s-assumes-prophetical-office
+  title: The Holy Prophet (S) assumes the prophetical office
+  slug: 6-the-holy-prophet-s-assumes-the-prophetical-office
+  uuid: 82e0f441-0132-4da8-a707-84b31ea270b6
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/miscellaneous-skirmishes-till-battle-badr
+  title: Miscellaneous skirmishes till the Battle of Badr
+  slug: 7-miscellaneous-skirmishes-till-the-battle-of-badr
+  uuid: 9fbc156b-bbd4-4d55-ba60-7b3be9f70c91
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/greater-battle-badr
+  title: Greater Battle of Badr
+  slug: 8-greater-battle-of-badr
+  uuid: 00230fde-8e0b-4b73-9a31-e2db8dbe9ce0
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/skirmishes-and-incidents-between-badr-and
+  title: Skirmishes and incidents between Badr and Uhud
+  slug: 9-skirmishes-and-incidents-between-badr-and-uhud
+  uuid: c8f4d637-6ec1-4de6-9771-bebff467a3cf
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/battle-uhud
+  title: Battle of Uhud
+  slug: 10-battle-of-uhud
+  uuid: 1b5b7702-906b-41cd-b599-dffd5055d9ae
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/battle-humral-asad
+  title: Battle of Humral Asad
+  slug: 11-battle-of-humral-asad
+  uuid: 413e29e6-ebe3-4f05-8abe-8db97b6ed4cf
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/battles-between-uhud-and-khandaq
+  title: Battles between Uhud and Khandaq
+  slug: 12-battles-between-uhud-and-khandaq
+  uuid: ac7bc29c-648c-4620-811e-019bc9605deb
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/battle-khandaq
+  title: Battle of Khandaq
+  slug: 13-battle-of-khandaq
+  uuid: 6c0ee141-ea51-425d-98c2-85ed13f63e96
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/battle-bani-quraiza-%E2%80%93-martyrdom-saad-bin-maaz
+  title: Battle of Bani Quraiza – Martyrdom of Saad bin Maaz – Abu Lubabah repents
+  slug: 14-battle-of-bani-quraiza-martyrdom-of-saad-bin-maaz-abu-lubabah-repents
+  uuid: a9e62d17-ed23-418a-81e3-609bc7177c0f
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/battles-and-events-between-khandaq-and
+  title: Battles and events between Khandaq and Hudaibiyah
+  slug: 15-battles-and-events-between-khandaq-and-hudaibiyah
+  uuid: 31486625-3d75-45a5-a913-64925fd17d54
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/hudaibiyah-and-rizwan
+  title: Hudaibiyah and Rizwan
+  slug: 16-hudaibiyah-and-rizwan
+  uuid: e80ff491-79db-49bd-ab38-c44a9bba0060
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/conquest-khyber-and-ja%E2%80%99far%E2%80%99s-return-habasha
+  title: Conquest of Khyber and Ja’far’s return from Habasha
+  slug: 17-conquest-of-khyber-and-ja-far-s-return-from-habasha
+  uuid: ceb71bc4-39b5-42bf-b259-a8a942878219
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/expedition-umratul-qaza-%E2%80%93-letters-inviting
+  title: Expedition of Umratul Qaza – letters inviting Kings to embrace Islam – events
+    upto the Battle of Mutah
+  slug: 18-expedition-of-umratul-qaza-letters-inviting-kings-to-embrace-islam-events-upto-the-battle-of-mutah
+  uuid: ab2a19be-2a11-43d3-a0a5-587822f43fb1
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/account-battle-mutah
+  title: Account of the Battle of Mutah
+  slug: 19-account-of-the-battle-of-mutah
+  uuid: f168e2a6-5ca3-4a40-b091-283ef161293d
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/battle-zatul-salasil
+  title: Battle of Zatul Salasil
+  slug: 20-battle-of-zatul-salasil
+  uuid: 720ff237-bd66-4fc3-bbe0-16901a33be38
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/conquest-mecca
+  title: Conquest of Mecca
+  slug: 21-conquest-of-mecca
+  uuid: 5e3d629b-f121-4ab2-8c7a-720018d1e914
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/expedition-hunain-and-events-upto-battle
+  title: Expedition of Hunain and events upto the Battle of Tabuk
+  slug: 22-expedition-of-hunain-and-events-upto-the-battle-of-tabuk
+  uuid: 36c4cd8f-4b85-48e2-97d9-a35e4fe4c2c7
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/account-mubahila-imprecation-ceremony
+  title: An Account of the Mubahila (Imprecation) ceremony
+  slug: 23-an-account-of-the-mubahila-imprecation-ceremony
+  uuid: 0a009fb9-8c60-445d-888d-1d2520b187e2
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/events-took-place-till-farewell-hajj
+  title: Events that took place till the Farewell Hajj]
+  slug: 24-events-that-took-place-till-the-farewell-hajj
+  uuid: e3321cce-c708-4442-a924-1095edb69f5a
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/farewell-hajj-%E2%80%93-description-hajj-and-umrah
+  title: Farewell Hajj – description of Hajj and Umrah rituals
+  slug: 25-farewell-hajj-description-of-hajj-and-umrah-rituals
+  uuid: 2ad8f169-8a80-4b3a-a917-f2ae85a62ece
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/miscellaneous-points-about-prophet-%E2%80%93-details
+  title: Miscellaneous points about the Prophet – details of his companions –debates
+    with polytheists, Jews and Christians etc.
+  slug: 26-miscellaneous-points-about-the-prophet-details-of-his-companions-debates-with-polytheists-jews-and-christians-etc
+  uuid: 6c95ff00-5ce0-42d3-ad3e-b342b31232ed
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/account-prophet%E2%80%99s-children
+  title: An Account of the Prophet’s Children
+  slug: 27-an-account-of-the-prophet-s-children
+  uuid: 80335283-8997-437e-a9b3-15897267b2a9
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/wives-prophet-%E2%80%93-their-number-and-brief
+  title: Wives of the Prophet – their number and a brief account of them
+  slug: 28-wives-of-the-prophet-their-number-and-a-brief-account-of-them
+  uuid: bad5fd3d-ada3-4a12-b4a6-8520bb869e2f
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/account-relatives-and-servants-prophet
+  title: An Account of the relatives and servants of the Prophet
+  slug: 29-an-account-of-the-relatives-and-servants-of-the-prophet
+  uuid: 598576f3-daa2-4c54-bc71-4bdcc5170542
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/account-some-senior-companions
+  title: An Account of some Senior Companions
+  slug: 30-an-account-of-some-senior-companions
+  uuid: 7f325352-0ffb-402f-b1e7-2f7917b68ed7
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/excellence-ummah-messenger-allah-s-and-some
+  title: Excellence of the Ummah of the Messenger of Allah (S) and some facts about
+    it
+  slug: 31-excellence-of-the-ummah-of-the-messenger-of-allah-s-and-some-facts-about-it
+  uuid: c0d841be-26d7-4c7b-a458-d57819664e57
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/bequests-messenger-allah-s-and-incidents
+  title: Bequests of the Messenger of Allah (S) and incidents that occurred at the
+    time of his death
+  slug: 32-bequests-of-the-messenger-of-allah-s-and-incidents-that-occurred-at-the-time-of-his-death
+  uuid: 8e95567a-801c-4431-aaf5-2c50a477e296
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/death-prophet-and-incidents-after-his-demise
+  title: Death of the Prophet and the incidents after his demise
+  slug: 33-death-of-the-prophet-and-the-incidents-after-his-demise
+  uuid: 0e5e0a20-b117-4bd1-9867-6144e539d8aa
+- source: :alislam
+  source_url: http://www.al-islam.org/hayat-al-qulub-vol-2-allamah-muhammad-baqir-al-majlisi/incidents-occurred-tomb-prophet
+  title: Incidents that occurred at the tomb of the Prophet
+  slug: 34-incidents-that-occurred-at-the-tomb-of-the-prophet
+  uuid: 8343554b-3760-49ae-bdc7-81c589237f4d
+---

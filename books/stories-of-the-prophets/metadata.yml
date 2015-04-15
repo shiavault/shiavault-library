@@ -1,0 +1,92 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/stories-prophets
+publisher: Tawhid Institute
+title: Stories of The Prophets
+slug: stories-of-the-prophets
+uuid: d4fb5fd4-fe3e-4b4d-be85-fd8771dd46f3
+description: |
+  Simple English accounts of the lives of many Prophets, including
+  Prophets Adam, Nuh, Ibrahim, Yusuf, and Musa (a).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/stories-prophets/prophet-adam
+  title: Prophet Adam (a)
+  slug: 1-prophet-adam-a
+  uuid: 2e961686-11fc-484f-a657-9da43840350d
+- source: :alislam
+  source_url: http://www.al-islam.org/stories-prophets/habil-and-qabil
+  title: Habil and Qabil
+  slug: 2-habil-and-qabil
+  uuid: ad41babb-d4cf-4e5c-a991-7c1a52db6a64
+- source: :alislam
+  source_url: http://www.al-islam.org/stories-prophets/prophet-nuh
+  title: Prophet Nuh (a)
+  slug: 3-prophet-nuh-a
+  uuid: 9a68f4fb-fcdf-44d6-8b6f-bb56ed95688f
+- source: :alislam
+  source_url: http://www.al-islam.org/stories-prophets/prophet-hud
+  title: Prophet Hud (a)
+  slug: 4-prophet-hud-a
+  uuid: 8ad641a2-04c6-48d6-82be-0c654d1a803b
+- source: :alislam
+  source_url: http://www.al-islam.org/stories-prophets/prophet-salih
+  title: Prophet Salih (a)
+  slug: 5-prophet-salih-a
+  uuid: 0cfb047c-05fc-4f18-a481-1f40ab3f45ae
+- source: :alislam
+  source_url: http://www.al-islam.org/stories-prophets/prophet-ibrahim
+  title: Prophet Ibrahim (a)
+  slug: 6-prophet-ibrahim-a
+  uuid: 9439eea0-abd6-43d8-8f17-6c8cc0130645
+- source: :alislam
+  source_url: http://www.al-islam.org/stories-prophets/prophet-ibrahim-ii
+  title: Prophet Ibrahim (a) II
+  slug: 7-prophet-ibrahim-a-ii
+  uuid: 440c72d5-eb62-4ad8-bf16-419ce25c79b4
+- source: :alislam
+  source_url: http://www.al-islam.org/stories-prophets/prophet-ismail
+  title: Prophet Ismail (a)
+  slug: 8-prophet-ismail-a
+  uuid: dd200d54-030a-4427-9e40-26001b43eb36
+- source: :alislam
+  source_url: http://www.al-islam.org/stories-prophets/sacrifice-prophet-ibrahim
+  title: The Sacrifice of Prophet Ibrahim (a)
+  slug: 9-the-sacrifice-of-prophet-ibrahim-a
+  uuid: 183a1aae-1581-4d71-b729-37ced5fa4353
+- source: :alislam
+  source_url: http://www.al-islam.org/stories-prophets/prophet-ibrahim-prophet-ishaq
+  title: Prophet Ibrahim (a) & Prophet Ishaq (a)
+  slug: 10-prophet-ibrahim-a-prophet-ishaq-a
+  uuid: c8772a09-8c01-4d2c-9db3-a7d9265a72e8
+- source: :alislam
+  source_url: http://www.al-islam.org/stories-prophets/prophet-yaqub-prophet-yusuf
+  title: Prophet Yaqub (a) & Prophet Yusuf (a)
+  slug: 11-prophet-yaqub-a-prophet-yusuf-a
+  uuid: de1b6829-49d6-4534-82c5-f931f3be2fc2
+- source: :alislam
+  source_url: http://www.al-islam.org/stories-prophets/prophet-yusuf
+  title: Prophet Yusuf (a)
+  slug: 12-prophet-yusuf-a
+  uuid: f153c090-0783-4117-9a74-bb0d32e94496
+- source: :alislam
+  source_url: http://www.al-islam.org/stories-prophets/prophet-shuayb
+  title: Prophet Shu'ayb (a)
+  slug: 13-prophet-shu-ayb-a
+  uuid: fa60b12a-0810-49f4-9fd9-ad936b52bed7
+- source: :alislam
+  source_url: http://www.al-islam.org/stories-prophets/prophet-yunus
+  title: Prophet Yunus (a)
+  slug: 14-prophet-yunus-a
+  uuid: d72c29bb-93a5-494a-b520-9b82f0765eee
+- source: :alislam
+  source_url: http://www.al-islam.org/stories-prophets/prophet-ayyub
+  title: Prophet Ayyub (a)
+  slug: 15-prophet-ayyub-a
+  uuid: 4180e108-be5e-4923-aaf5-414e6c0bc8fe
+- source: :alislam
+  source_url: http://www.al-islam.org/stories-prophets/prophet-musa
+  title: Prophet Musa (a)
+  slug: 16-prophet-musa-a
+  uuid: a20faf08-09bd-47f8-a9c1-c382f62e5205
+---

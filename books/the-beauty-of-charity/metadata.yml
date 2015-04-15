@@ -1,0 +1,54 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/the-beauty-of-charity-ahmed-ali-al-kuwaity
+author: Ahmed Ali al-Kuwaity
+translator: Mrs. Shameem Muslim
+title: The Beauty of Charity
+slug: the-beauty-of-charity
+uuid: 9c649e11-cde9-428d-82b5-be9f89be3769
+description: |
+  The spiritual and worldly benefits of charity to individuals and society
+  as a whole. Includes stories of Prophets, Imams & Scholars who have
+  sacrificed their wealth for Allah (swt).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/the-beauty-of-charity-ahmed-ali-al-kuwaity/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: e4721d65-7252-4da6-8762-448625d44b7b
+- source: :alislam
+  source_url: http://www.al-islam.org/the-beauty-of-charity-ahmed-ali-al-kuwaity/charity-givers-are-alive-even-if-they-die
+  title: The Charity Givers are Alive even if They Die!
+  slug: 2-the-charity-givers-are-alive-even-if-they-die
+  uuid: 2a7d0840-81cc-45eb-93c5-d55d80b9dbb5
+- source: :alislam
+  source_url: http://www.al-islam.org/the-beauty-of-charity-ahmed-ali-al-kuwaity/charitable-and-sending-good-deeds-dead
+  title: The Charitable And Sending Of Good Deeds To The Dead
+  slug: 3-the-charitable-and-sending-of-good-deeds-to-the-dead
+  uuid: 13897e5f-59e5-4d16-9e42-3ea05bfad137
+- source: :alislam
+  source_url: http://www.al-islam.org/the-beauty-of-charity-ahmed-ali-al-kuwaity/charity-removes-evil-disasters-sickness-and-unfortunate
+  title: Charity Removes Evil, Disasters, Sickness And Unfortunate Incidences!
+  slug: 4-charity-removes-evil-disasters-sickness-and-unfortunate-incidences
+  uuid: 8cb446c2-cfad-403c-8157-1b03a6d8a179
+- source: :alislam
+  source_url: http://www.al-islam.org/the-beauty-of-charity-ahmed-ali-al-kuwaity/charity-increases-sustenance-and-protects-wealth
+  title: Charity Increases Sustenance And Protects Wealth
+  slug: 5-charity-increases-sustenance-and-protects-wealth
+  uuid: db277e0a-3196-4f16-9442-733bf8006abb
+- source: :alislam
+  source_url: http://www.al-islam.org/the-beauty-of-charity-ahmed-ali-al-kuwaity/our-scholars-models-sacrifice-and-charity
+  title: 'Our Scholars: Models Of Sacrifice And Charity'
+  slug: 6-our-scholars-models-of-sacrifice-and-charity
+  uuid: 84e37866-abe7-460c-a86b-6f08e8b4e599
+- source: :alislam
+  source_url: http://www.al-islam.org/the-beauty-of-charity-ahmed-ali-al-kuwaity/people-who-sacrificed-service-ahlul-bayt
+  title: The People who Sacrificed in the Service of Ahlul Bayt (a.s.)!
+  slug: 7-the-people-who-sacrificed-in-the-service-of-ahlul-bayt-a-s
+  uuid: 3d79fd70-5d01-4b42-b3d6-4f2579f53477
+- source: :alislam
+  source_url: http://www.al-islam.org/the-beauty-of-charity-ahmed-ali-al-kuwaity/conclusion
+  title: Conclusion
+  slug: 8-conclusion
+  uuid: e5effac8-b7e1-4582-861e-622e5ecef6de
+---

@@ -1,0 +1,35 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/truth-about-al-husayn-s-revolt-ayatullah-murtadha-mutahhari
+author: Ayatullah Murtadha Mutahhari
+translator: Najim al-Khafaji
+title: The truth about Al-Husayn’s Revolt
+slug: the-truth-about-al-husayn-s-revolt
+uuid: 14e020cf-1b51-4909-835f-21d02d07f58e
+description: |
+  The text is a transcript of a sermon/lecture the late author had
+  delivered in gatherings held in Tehran for the annual commemoration of
+  the martyrdom of Imam Husayn. Original title: Haqiqatun Nahdhal
+  Husayniya
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/truth-about-al-husayn-s-revolt-ayatullah-murtadha-mutahhari/translator-s-note
+  title: Translator’s Note
+  slug: 1-translator-s-note
+  uuid: f7516963-4d45-4fc3-b0c7-d6a42cb63d2f
+- source: :alislam
+  source_url: http://www.al-islam.org/truth-about-al-husayn-s-revolt-ayatullah-murtadha-mutahhari/husayn-universalist
+  title: Husayn, the Universalist
+  slug: 2-husayn-the-universalist
+  uuid: a1014b9c-7c64-4225-8202-f0d70c130415
+- source: :alislam
+  source_url: http://www.al-islam.org/truth-about-al-husayn-s-revolt-ayatullah-murtadha-mutahhari/truth-about-al-husayn-s-revolt
+  title: The Truth about Al-Husayn’s Revolt
+  slug: 3-the-truth-about-al-husayn-s-revolt
+  uuid: 8bd8ac4d-c3a6-4032-8e89-e702dce8202f
+- source: :alislam
+  source_url: http://www.al-islam.org/truth-about-al-husayn-s-revolt-ayatullah-murtadha-mutahhari/imam-husayn-s-revolt-causes
+  title: Imam Husayn’s revolt, the causes
+  slug: 4-imam-husayn-s-revolt-the-causes
+  uuid: f0a4884a-b156-40b6-bc1b-38760d490af0
+---

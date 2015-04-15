@@ -1,0 +1,33 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/forty-hadith-awaited-savior-humanity-abdul-rahim-mugahi
+author: Abdul-Rahim Mugahi
+publisher: The Islamic Education Board of the World Federation
+translator: Shaykh Saleem Bhimji
+title: 'Forty Hadith: The Awaited Savior of Humanity'
+slug: forty-hadith-the-awaited-savior-of-humanity
+uuid: 1ed23367-e863-46e5-a246-3a8a67c3ff80
+description: |
+  40 Hadith on the 12th Imam, the awaited savior.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-awaited-savior-humanity-abdul-rahim-mugahi/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 820d2257-bdef-426c-81a7-07deb2f425ba
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-awaited-savior-humanity-abdul-rahim-mugahi/translator%E2%80%99s-introduction
+  title: Translator’s Introduction
+  slug: 2-translator-s-introduction
+  uuid: 243a9042-99c4-4756-a4f5-b19c4a92165f
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-awaited-savior-humanity-abdul-rahim-mugahi/prayer-invoking-blessings-twelfth-imam-and
+  title: A Prayer Invoking Blessings for the Twelfth Imam and His fore-fathers
+  slug: 3-a-prayer-invoking-blessings-for-the-twelfth-imam-and-his-fore-fathers
+  uuid: cbdd7dcd-602c-4ae5-a206-38758fa2fa81
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-awaited-savior-humanity-abdul-rahim-mugahi/ahadith-narrations
+  title: Ahadith, the Narrations
+  slug: 4-ahadith-the-narrations
+  uuid: bf8ebaba-2418-4c89-8f3f-c00fe8a2c5df
+---

@@ -1,0 +1,105 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/wahhabism-ayatullah-jafar-subhani
+author: Ayatullah Ja'far Subhani
+publisher: Naba Organization
+translator: Jalil Dorrani
+title: Wahhabism
+slug: wahhabism
+uuid: fabda292-b76f-4dc2-bac4-c82c99e52bef
+description: |
+  The author provides an introduction to the life of the founder of
+  Wahhabism and an in depth analysis of the beliefs of Wahhabi School of
+  thought in the light of Quran, Hadith, and logical reasoning. The title
+  deals with following topics: Construction of graves, Ziyara, Tawassul,
+  Shafa’a, Nadhr, Commemorating the birth and death anniversaries of
+  Awliya Allah, and Political and Social dimensions of Hajj.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabism-ayatullah-jafar-subhani/familiarity-with-life-founder-wahhabism
+  title: Familiarity With The Life of The Founder of Wahhabism
+  slug: 1-familiarity-with-the-life-of-the-founder-of-wahhabism
+  uuid: 06dca356-baec-425f-85aa-8ce0ea27ebaf
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabism-ayatullah-jafar-subhani/wahhabis-and-renovation-graves-awliya-allah
+  title: Wahhabis and The Renovation of Graves of Awliya Allah
+  slug: 2-wahhabis-and-the-renovation-of-graves-of-awliya-allah
+  uuid: 3d01e670-e0fc-4023-84dd-6f54819862ba
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabism-ayatullah-jafar-subhani/construction-mosque-near-graves-pious-people
+  title: Construction of Mosque Near The Graves of Pious People
+  slug: 3-construction-of-mosque-near-the-graves-of-pious-people
+  uuid: 6d0cdcab-30da-4dbe-b5cf-04ea67f84374
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabism-ayatullah-jafar-subhani/visitation-ziyarat-graves-believers-view-point-holy-quran-sunnah
+  title: Visitation (Ziyarat) of Graves of Believers From The View-Point of The Holy
+    Qur’an And Sunnah
+  slug: 4-visitation-ziyarat-of-graves-of-believers-from-the-view-point-of-the-holy-qur-an-and-sunnah
+  uuid: 2135aa1d-6bab-40ee-8300-fecc2285acf5
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabism-ayatullah-jafar-subhani/valuable-effects-ziyarat-graves-religious-personalities
+  title: Valuable Effects of Ziyarat of The Graves of Religious Personalities
+  slug: 5-valuable-effects-of-ziyarat-of-the-graves-of-religious-personalities
+  uuid: c8921a0a-a6cc-4dbe-97de-e927b3173158
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabism-ayatullah-jafar-subhani/performance-prayer-and-supplication-near-graves-holy-personalities
+  title: Performance of Prayer And Supplication Near Graves Of The Holy Personalities
+  slug: 6-performance-of-prayer-and-supplication-near-graves-of-the-holy-personalities
+  uuid: 3353fc30-7b21-4dc7-8252-12d4228cc014
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabism-ayatullah-jafar-subhani/is-it-innovation-commemorate-birth-and-death-anniversaries-awliya
+  title: Is It An Innovation To Commemorate The Birth And Death Anniversaries Of Awliya
+    Allah?
+  slug: 7-is-it-an-innovation-to-commemorate-the-birth-and-death-anniversaries-of-awliya-allah
+  uuid: f9876445-f882-4482-87e9-d7a4c00d5a47
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabism-ayatullah-jafar-subhani/seeking-benediction-and-cure-signs-and-traces-awliya
+  title: Seeking Benediction And Cure From The Signs And Traces Of Awliya
+  slug: 8-seeking-benediction-and-cure-from-the-signs-and-traces-of-awliya
+  uuid: cec230e1-0f83-487d-b73f-7d28f9d4474f
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabism-ayatullah-jafar-subhani/tawhid-ibada-and-worship-or-pretext-wahhabis
+  title: Tawhid in 'Ibada and Worship (or Pretext of Wahhabis)
+  slug: 9-tawhid-in-ibada-and-worship-or-pretext-of-wahhabis
+  uuid: 88fec5bf-1f77-463e-8343-ee22f7d74ccf
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabism-ayatullah-jafar-subhani/seeking-help-awliya-allah-during-their-lifetime
+  title: Seeking Help From Awliya Allah During Their Lifetime
+  slug: 10-seeking-help-from-awliya-allah-during-their-lifetime
+  uuid: 1669affc-acc2-4284-8a41-8c6d3b5e2f51
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabism-ayatullah-jafar-subhani/seeking-help-spirits-awliya-allah
+  title: Seeking Help From The Spirits of Awliya Allah
+  slug: 11-seeking-help-from-the-spirits-of-awliya-allah
+  uuid: 76161119-d782-40e3-b5c5-327f230c0758
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabism-ayatullah-jafar-subhani/seeking-shafa-intercession-awliya-allah
+  title: Seeking Shafa’a (Intercession) From Awliya Allah
+  slug: 12-seeking-shafa-a-intercession-from-awliya-allah
+  uuid: 97b2b7b2-f16f-4f04-a542-5dd13148d5a2
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabism-ayatullah-jafar-subhani/belief-invisible-power-basis-shirk-polytheism
+  title: Is Belief In Invisible Power The Basis of Shirk (Polytheism)?
+  slug: 13-is-belief-in-invisible-power-the-basis-of-shirk-polytheism
+  uuid: 85e3db74-64c2-4cda-a3ff-d71bfef01ed2
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabism-ayatullah-jafar-subhani/pleading-allah-right-and-position-awliya
+  title: Pleading Allah By The Right And Position Of Awliya
+  slug: 14-pleading-allah-by-the-right-and-position-of-awliya
+  uuid: a9c1f07f-c4b2-40ab-a53b-0744ea3fb8ca
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabism-ayatullah-jafar-subhani/nadhr-vow-to-people-grave
+  title: Nadhr (Vow) To The People In Grave
+  slug: 15-nadhr-vow-to-the-people-in-grave
+  uuid: 79384ccb-c9ed-4eba-a427-99a7e582e312
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabism-ayatullah-jafar-subhani/calling-divine-personalities
+  title: "‘Calling’ The Divine Personalities"
+  slug: 16-calling-the-divine-personalities
+  uuid: 02eb525f-6e68-4fe0-a881-16a490a68591
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabism-ayatullah-jafar-subhani/political-and-social-dimensions-hajj
+  title: Political and Social Dimensions of Hajj
+  slug: 17-political-and-social-dimensions-of-hajj
+  uuid: ea0222fd-92e9-456c-b0e1-5254704df519
+---

@@ -1,0 +1,225 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid
+author: Shaykh al-Mufid
+publisher: World Organization for Islamic Services (WOFIS)
+translator: "'Irfan ‘Abdu 'l-Hamid"
+title: The Emendation of A Shi‘ite Creed
+slug: the-emendation-of-a-shi-ite-creed
+uuid: 5a41d8e7-be1c-4f3a-8d38-b47416ebfa24
+description: |
+  This text is a translation of Tashihu 'l-I‘tiqad of Abu ‘Abdillah,
+  Muhammad ibn Muhammad ibn Nu‘man, Known as ash-Shaykh al-Mufid (336/948
+  or 338/950 – 413/1022)
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 6716acf8-ee7a-4201-b0b4-59728ccce148
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/author-and-his-works
+  title: The Author and His Works
+  slug: 2-the-author-and-his-works
+  uuid: d2cd81ed-e80a-40ce-b766-76f0fadb8ea8
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/1-metaphorical-interpretation-baring-shank-kashfu-s-saq
+  title: 1. The Metaphorical Interpretation of the Baring of the Shank (Kashfu 'S-Saq)
+  slug: 3-1-the-metaphorical-interpretation-of-the-baring-of-the-shank-kashfu-s-saq
+  uuid: 6bb6975a-f063-4b04-8d41-708688d1236b
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/2-metaphorical-interpretation-hand-al-yad
+  title: 2. The Metaphorical Interpretation of "The Hand (Al-Yad)"
+  slug: 4-2-the-metaphorical-interpretation-of-the-hand-al-yad
+  uuid: 2562fc9b-fe82-49e4-ad33-0d4a8c9faa28
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/3-breathing-spirit-man-nafkhu-l-arwah
+  title: 3. The Breathing of the Spirit (into man) (Nafkhu 'l-Arwah)
+  slug: 5-3-the-breathing-of-the-spirit-into-man-nafkhu-l-arwah
+  uuid: d3a31967-9ae3-4a7f-b3c6-5b2468973579
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/4-metonym-and-metaphor-quran
+  title: 4. Metonym and Metaphor (in the Qur’an)
+  slug: 6-4-metonym-and-metaphor-in-the-qur-an
+  uuid: e5b2ebb9-375d-4bf4-85b2-2aa574517ff5
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/5-attribution-scheming-beguiling-and-mockery-allah
+  title: '5. The Attribution of Scheming: beguiling and Mockery to Allah'
+  slug: 7-5-the-attribution-of-scheming-beguiling-and-mockery-to-allah
+  uuid: c288e2cf-6654-40ff-b2a4-27ae0315bc0c
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/6-attribution-forgetfulness-allah
+  title: 6. The Attribution of Forgetfulness to Allah
+  slug: 8-6-the-attribution-of-forgetfulness-to-allah
+  uuid: fa0faa3e-7c4b-4bb3-93b3-d557c2dcb9cc
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/7-attributes-allah-sifat-allah
+  title: 7. The Attributes of Allah (Sifat Allah)
+  slug: 9-7-the-attributes-of-allah-sifat-allah
+  uuid: ba49e745-1f29-42aa-b719-8cc9ebea1285
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/8-belief-concerning-origination-human-actions
+  title: 8. The Belief concerning the Origination of Human Actions
+  slug: 10-8-the-belief-concerning-the-origination-of-human-actions
+  uuid: 6da0bf97-7fb7-49f1-8d06-55b0586dda79
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/9-concerning-human-actions-faslun-fi-afali-l-khalq
+  title: 9. Concerning Human Actions (faslun fi af‘Ali 'L-khalq)
+  slug: 11-9-concerning-human-actions-faslun-fi-af-ali-l-khalq
+  uuid: 805d63e1-a402-449d-ba8d-d749afa88ae7
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/10-predestination-and-free-will-al-jabr-wa-t-tafwid
+  title: 10. Predestination and Free Will (Al-Jabr wa 't-tafwid)
+  slug: 12-10-predestination-and-free-will-al-jabr-wa-t-tafwid
+  uuid: a9b402f1-4a00-4eb7-aced-91faf31f75eb
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/11-belief-concerning-allahs-intention-and-will-al-mashiah-wa
+  title: 11. The Belief concerning Allah's Intention and Will (Al-Mashiah Wa 'l-Iradah)
+  slug: 13-11-the-belief-concerning-allah-s-intention-and-will-al-mashiah-wa-l-iradah
+  uuid: 84604873-d6cc-4de8-aec7-3104db50c5ad
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/12-belief-concerning-destiny-and-decree-al-qada-wa-l-qadar
+  title: 12. The belief concerning destiny and decree (Al-Qada’ wa 'L-Qadar)
+  slug: 14-12-the-belief-concerning-destiny-and-decree-al-qada-wa-l-qadar
+  uuid: 9005eb0a-961e-40f4-9a9d-7852a5605e00
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/13-interpretation-reports-concerning-al-qada-and-al-qadar
+  title: 13. The interpretation of the reports concerning Al-Qada’ and Al-Qadar
+  slug: 15-13-the-interpretation-of-the-reports-concerning-al-qada-and-al-qadar
+  uuid: 3dd97972-c2d1-4015-bd78-fa836d145640
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/14-natural-religion-al-fitrah
+  title: 14. The Natural Religion (Al-Fitrah)
+  slug: 16-14-the-natural-religion-al-fitrah
+  uuid: 3411317b-7ffb-4e9f-a147-fe3474a3a637
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/15-concerning-human-capacity-al-istitaah
+  title: 15. Concerning Human Capacity (Al -Istita‘Ah)
+  slug: 17-15-concerning-human-capacity-al-istita-ah
+  uuid: f45aaa2a-955f-46bc-93f2-6e31b78ae517
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/16-concerning-al-bada
+  title: 16. Concerning Al-bada’
+  slug: 18-16-concerning-al-bada
+  uuid: 38eaff29-c182-4299-aaac-be424c91e9db
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/17-concerning-religious-disputation-al-jidal
+  title: 17. Concerning Religious Disputation (Al-Jidal)
+  slug: 19-17-concerning-religious-disputation-al-jidal
+  uuid: 984cfcec-1bc6-4056-af66-b6eef8d25d99
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/18-belief-concerning-tablet-and-pen-al-lawh-wa-l-qalam
+  title: 18. The belief concerning the tablet and the pen (Al-Lawh Wa 'L-Qalam)
+  slug: 20-18-the-belief-concerning-the-tablet-and-the-pen-al-lawh-wa-l-qalam
+  uuid: 1b700971-8bc0-48dd-9d5c-a3146134e5bc
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/19-metaphysical-meaning-throne-al-arsh
+  title: 19. The Metaphysical Meaning of the Throne (Al-‘Arsh)
+  slug: 21-19-the-metaphysical-meaning-of-the-throne-al-arsh
+  uuid: 269e686d-317f-43e2-bca6-0f550eef2a68
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/20-concerning-souls-and-spirits-al-arwah-wa-n-nufus
+  title: 20. Concerning Souls and Spirits (Al-Arwah wa 'n-Nufus)
+  slug: 22-20-concerning-souls-and-spirits-al-arwah-wa-n-nufus
+  uuid: c545b5e7-4826-4d0f-aa67-158fea62f124
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/21-what-ash-shaykh-abu-jafar-has-described-about-death
+  title: 21. What Ash-Shaykh Abu Ja‘far has described about Death
+  slug: 23-21-what-ash-shaykh-abu-ja-far-has-described-about-death
+  uuid: 6a7d1b8f-f1c7-4462-a6ba-c57b2fdb1138
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/22-belief-concerning-questioning-grave
+  title: 22. The Belief concerning the questioning in the Grave
+  slug: 24-22-the-belief-concerning-the-questioning-in-the-grave
+  uuid: b2db2643-550a-4e2f-8167-58689a8618cf
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/23-what-ash-shaykh-abu-jafar-has-mentioned-about-divine
+  title: 23. What Ash-Shaykh Abu Ja‘far has mentioned about Divine Justice
+  slug: 25-23-what-ash-shaykh-abu-ja-far-has-mentioned-about-divine-justice
+  uuid: 1e5f2e15-d858-474f-bacb-24677b960b4d
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/24-chapter-al-araf
+  title: 24. Chapter on Al-A‘raf
+  slug: 26-24-chapter-on-al-a-raf
+  uuid: a1ecc2d7-bf35-4f53-b418-94bbc072f93d
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/25-belief-concerning-bridge-sirat
+  title: 25. The Belief concerning the Bridge (As-Sirat)
+  slug: 27-25-the-belief-concerning-the-bridge-as-sirat
+  uuid: fe07f638-bc34-4183-ad5f-e915bb859d01
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/26-chapter-concerning-al-aqabat
+  title: 26. Chapter concerning Al-‘Aqabat
+  slug: 28-26-chapter-concerning-al-aqabat
+  uuid: 1f407502-03ac-4e9b-837c-d7728eca3b32
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/27-belief-concerning-reckoning-and-balance-al-hisab-wa-l
+  title: 27. The belief concerning reckoning and balance (Al-Hisab wa 'l-Mizan)
+  slug: 29-27-the-belief-concerning-reckoning-and-balance-al-hisab-wa-l-mizan
+  uuid: c9312e56-1452-4f1f-89be-8ea809ff5a65
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/28-concerning-paradise-and-hell-al-jannah-wa-n-nar
+  title: 28. Concerning Paradise and Hell (Al -Jannah wa 'N-nar)
+  slug: 30-28-concerning-paradise-and-hell-al-jannah-wa-n-nar
+  uuid: b8b9c847-f07c-4940-9b55-d8d07090f57d
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/29-point-unbelief
+  title: 29. The Point of Unbelief
+  slug: 31-29-the-point-of-unbelief
+  uuid: 60e4cf86-808e-4b58-abf6-66e2b3b34a1e
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/30-concerning-descent-revelation-nuzulu-l-wahy
+  title: 30. Concerning the descent of revelation (Nuzulu 'l-Wahy)
+  slug: 32-30-concerning-the-descent-of-revelation-nuzulu-l-wahy
+  uuid: cc147cce-dea8-444c-be02-99e7fc8492f7
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/31-revelation-quran-nuzulu-l-quran
+  title: 31. On the Revelation of the Qur’an (Nuzulu 'l-Qur’an)
+  slug: 33-31-on-the-revelation-of-the-qur-an-nuzulu-l-qur-an
+  uuid: 10a92b69-f529-4082-a8e6-4915553902f7
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/32-belief-impeccability-al-ismah
+  title: 32. The Belief on Impeccability (Al-‘Ismah)
+  slug: 34-32-the-belief-on-impeccability-al-ismah
+  uuid: 8b460a10-2d81-4bb9-ad49-efec1338022e
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/33-chapter-excess-and-delegation-al-ghuluww-wat-tafwid
+  title: 33. Chapter on Excess and Delegation (Al-Ghuluww wa’t-Tafwid)
+  slug: 35-33-chapter-on-excess-and-delegation-al-ghuluww-wa-t-tafwid
+  uuid: 027f2375-91ff-4c4f-8339-08bad1619e0a
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/34-dissimulation-taqiyyah
+  title: 34. On Dissimulation (At-Taqiyyah)
+  slug: 36-34-on-dissimulation-at-taqiyyah
+  uuid: 2ab64001-8565-4f07-bdb6-5b4efaa15469
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/35-ancestors-prophet-were-monotheists-muwahhidun
+  title: 35. That the ancestors of the prophet were monotheists (Muwahhidun)
+  slug: 37-35-that-the-ancestors-of-the-prophet-were-monotheists-muwahhidun
+  uuid: a2adbe62-a63a-4b73-a5bc-06ac89c1d171
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/36-concerning-interpretation-verse-4243
+  title: 36. Concerning the interpretation of the verse 42:43
+  slug: 38-36-concerning-the-interpretation-of-the-verse-42-43
+  uuid: 354f8a57-6ea0-4de7-b017-7f6c938ab5d5
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/37-prohibition-and-permission-al-hazr-wa-l-ibahah
+  title: 37. On Prohibition and Permission (Al-Hazr wa 'l-Ibahah)
+  slug: 39-37-on-prohibition-and-permission-al-hazr-wa-l-ibahah
+  uuid: c953c139-6644-40e4-9b14-96ae2dfc843e
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/38-medicine-tibb
+  title: 38. On Medicine (At-Tibb)
+  slug: 40-38-on-medicine-at-tibb
+  uuid: 45c883aa-5a47-4126-9a0f-a25780372ce9
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/39-divergent-traditions-al-ahadithu-l-mukhtalifah
+  title: 39. On the Divergent Traditions (Al -Ahadithu 'l-Mukhtalifah)
+  slug: 41-39-on-the-divergent-traditions-al-ahadithu-l-mukhtalifah
+  uuid: 4f4fe8bc-8341-4387-8952-90eaabc9c338
+- source: :alislam
+  source_url: http://www.al-islam.org/emendation-shiite-creed-shaykh-al-mufid/bibliography
+  title: Bibliography
+  slug: 42-bibliography
+  uuid: dedc8314-d80e-4ff4-ba0b-e1d6e51fa0d4
+---

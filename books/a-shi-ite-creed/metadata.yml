@@ -1,0 +1,254 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq
+author: Shaykh as-Saduq
+title: A Shi'ite Creed
+slug: a-shi-ite-creed
+uuid: 53cd6fdb-bddb-4f34-aa91-ca3308407283
+description: |
+  This text is a translation of one of the most important works of Shayh
+  Saduq; it presents a summary of all of the core tenets of the Shi'ite
+  creed.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/author
+  title: The Author
+  slug: 1-the-author
+  uuid: 6b27bf4f-e2a5-48a7-89dc-80848919a211
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 580d39cd-d47d-4584-b8c3-11075d28f0e9
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/tract-beliefs-shia-imamiya
+  title: Tract on The Beliefs of The Shi'a Imamiya
+  slug: 3-tract-on-the-beliefs-of-the-shi-a-imamiya
+  uuid: 2da26675-4fa1-41f7-9e4a-a8aa92767406
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/belief-imamiya-concerning-tawhid
+  title: The Belief of The Imamiya Concerning Tawhid
+  slug: 4-the-belief-of-the-imamiya-concerning-tawhid
+  uuid: f39bbcb1-5f76-43fb-906f-b7af82375b3b
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/attributes-his-essence-and-his-actions
+  title: Attributes Of (His) Essence And Of (His) Actions
+  slug: 5-attributes-of-his-essence-and-of-his-actions
+  uuid: 4242cefe-40d5-4055-9179-81fc3fce211f
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/belief-concerning-taklif-responsibility
+  title: Belief Concerning Taklif (Responsibility)
+  slug: 6-belief-concerning-taklif-responsibility
+  uuid: 976a183d-ae04-45a4-a9db-8886b52f5ec3
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/belief-respect-human-actions
+  title: The Belief In Respect Of Human Actions
+  slug: 7-the-belief-in-respect-of-human-actions
+  uuid: 52fc8ba8-b12d-411f-bedc-7dd95e0a8c20
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/regarding-denial-both-constraint-and-delegation
+  title: Regarding the Denial of Both Constraint And Delegation
+  slug: 8-regarding-the-denial-of-both-constraint-and-delegation
+  uuid: 34055217-bb44-4f9b-8a58-b79f41eba622
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/belief-concerning-allahs-intention-irada-and-will-mashia
+  title: The Belief Concerning (Allah's) Intention (Irada) And Will (Mashi'a)
+  slug: 9-the-belief-concerning-allah-s-intention-irada-and-will-mashi-a
+  uuid: 4745aefa-00c2-4830-ae5e-2e23b50104f3
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-qada-destiny-and-decree-qadar
+  title: Concerning (qada') Destiny And Decree (qadar)
+  slug: 10-concerning-qada-destiny-and-decree-qadar
+  uuid: f3a50bad-d147-40b1-9347-34deb3092c6a
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-mans-original-nature-fitra-and-his-true-guidance-hidaya
+  title: Concerning Man's Original Nature (fitra)  And His True Guidance (hidaya)
+  slug: 11-concerning-man-s-original-nature-fitra-and-his-true-guidance-hidaya
+  uuid: cff906da-6db2-4518-9970-59efa3d7ae0b
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/belief-capacity-human-beings-al-istitaa
+  title: Belief In The Capacity Of Human Beings (al-istita'a)
+  slug: 12-belief-in-the-capacity-of-human-beings-al-istita-a
+  uuid: d539c497-8601-40bf-9cf6-60328b06e1e3
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/regarding-source-creation-mabda
+  title: Regarding the Source of Creation (mabda' )
+  slug: 13-regarding-the-source-of-creation-mabda
+  uuid: 7fa90c90-3776-4a3e-b685-8ac036ccf979
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-abstention-disputation-jadal-and-contention-about-allah-mira
+  title: Concerning Abstention From Disputation (jadal) And Contention About Allah
+    (mira')
+  slug: 14-concerning-abstention-from-disputation-jadal-and-contention-about-allah-mira
+  uuid: 3f15d010-1152-40eb-885d-6c442ee694ce
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-tablet-lawh-and-pen-qalam
+  title: Concerning The Tablet (lawh) And The Pen (qalam)
+  slug: 15-concerning-the-tablet-lawh-and-the-pen-qalam
+  uuid: b967aec9-25cf-46a3-b3a5-812c24542b10
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/regarding-chair-kursi
+  title: Regarding The Chair (Kursi)
+  slug: 16-regarding-the-chair-kursi
+  uuid: 5b0e8408-e404-4321-bb9a-4d724a29ec09
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-throne
+  title: Concerning The Throne
+  slug: 17-concerning-the-throne
+  uuid: 06a641b1-7a4c-4eab-8303-891aff5fcecf
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-souls-nufus-and-spirits-arwah
+  title: Concerning Souls (nufus) And Spirits (arwah )
+  slug: 18-concerning-souls-nufus-and-spirits-arwah
+  uuid: 2fb2cc46-ef29-46c1-a250-b0c1150f427d
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-death-mawt
+  title: Concerning Death (mawt )
+  slug: 19-concerning-death-mawt
+  uuid: 7267323b-7a1b-42db-9175-126305dcc419
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-questioning-grave
+  title: Concerning The Questioning In The Grave
+  slug: 20-concerning-the-questioning-in-the-grave
+  uuid: fcbe9262-e77b-4a5a-9921-12becf223b3d
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-resurrection-raja
+  title: Concerning Resurrection (Raj'a)
+  slug: 21-concerning-resurrection-raj-a
+  uuid: 431ffbee-35ca-4f4b-916a-4a32845f4b46
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-return-bath-after-death
+  title: Concerning Return (Ba'th) After Death
+  slug: 22-concerning-return-ba-th-after-death
+  uuid: faa1357f-63c0-4361-b419-219e4bbcb378
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-pond-al-hawd
+  title: Concerning The Pond (al-Hawd)
+  slug: 23-concerning-the-pond-al-hawd
+  uuid: bad2b8cc-4c87-4b17-b9bb-01b543209f65
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-intersession-ash-shafaa
+  title: Concerning Intersession (ash-shafa'a)
+  slug: 24-concerning-intersession-ash-shafa-a
+  uuid: 3d1784e3-4223-497a-b20a-bb1cf16b51f7
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-promise-al-wad-and-threat-al-waid
+  title: Concerning The Promise (al-wa`d) And The Threat (al-wa'id)
+  slug: 25-concerning-the-promise-al-wa-d-and-the-threat-al-wa-id
+  uuid: ab376a5b-d637-4573-9d18-4dbdf85b5d69
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-what-written-against-slave
+  title: Concerning What is Written Against The Slave
+  slug: 26-concerning-what-is-written-against-the-slave
+  uuid: 2cd5b38c-3cb1-49a2-b2f7-7d7d585fb565
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-justice-al-adl
+  title: Concerning Justice (al-'adl)
+  slug: 27-concerning-justice-al-adl
+  uuid: d999365d-0694-460a-aba1-f2a4914fb136
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-purgatory-al-araf
+  title: Concerning Purgatory (al-A'raf)
+  slug: 28-concerning-purgatory-al-a-raf
+  uuid: d259dbb9-1b5d-4328-b36f-4ec02cfd1f36
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-bridge-sirat
+  title: Concerning The Bridge (as-Sirat)
+  slug: 29-concerning-the-bridge-as-sirat
+  uuid: 933414f3-955d-4016-9a2f-fa51ec7cb193
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/passes-road-mahshar
+  title: Passes On the Road to Mahshar
+  slug: 30-passes-on-the-road-to-mahshar
+  uuid: d4892f3c-dea9-4680-a3cd-fb6020d0b0e6
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-reckoning-al-hisab-and-scales-al-mawazin
+  title: Concerning The Reckoning (al-hisab) And The Scales (al-mawazin)
+  slug: 31-concerning-the-reckoning-al-hisab-and-the-scales-al-mawazin
+  uuid: 414273fe-614d-49be-9f08-397226392e37
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-garden-al-janna-and-fire-nar
+  title: Concerning The Garden (al-janna) And The Fire (an-nar)
+  slug: 32-concerning-the-garden-al-janna-and-the-fire-an-nar
+  uuid: 1e2661b2-1375-473f-99f5-140085d44a67
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/manner-descent-revelation-nuzulul-wahy
+  title: The Manner Of Descent Of Revelation (nuzulu'l-wahy)
+  slug: 33-the-manner-of-descent-of-revelation-nuzulu-l-wahy
+  uuid: 87fc8220-0282-4474-9458-e1133e76afc4
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/revelation-quran-night-power
+  title: Revelation Of The Qur'an In The Night Of Power
+  slug: 34-revelation-of-the-qur-an-in-the-night-of-power
+  uuid: 553a424a-c248-4c7c-a947-40590294fa3d
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/belief-concerning-quran
+  title: The Belief Concerning The Qur'an
+  slug: 35-the-belief-concerning-the-qur-an
+  uuid: 5377807b-d5f2-4c36-9214-1870d2d02034
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-extent-qur%E2%80%99
+  title: Concerning the Extent of The Qur’an
+  slug: 36-concerning-the-extent-of-the-qur-an
+  uuid: c9f7e5f8-9dde-4ad9-858f-356973a0c418
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-prophets-apostles-imams-and-angels
+  title: Concerning Prophets Apostles, Imams And Angels
+  slug: 37-concerning-prophets-apostles-imams-and-angels
+  uuid: 1541deee-b369-488d-bbde-28d16dc7d22e
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/number-prophets-and-vicegerents
+  title: The Number of Prophets And Vicegerents
+  slug: 38-the-number-of-prophets-and-vicegerents
+  uuid: 1aad8760-8e2f-4711-a0d1-a6e2d76f68c9
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-infallibility-isma
+  title: Concerning Infallibility ('isma)
+  slug: 39-concerning-infallibility-isma
+  uuid: 28fc248c-12ff-48c0-8dea-3a3936abdd91
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/denial-excess-and-delegation
+  title: The Denial Of Excess And Delegation
+  slug: 40-the-denial-of-excess-and-delegation
+  uuid: 0777ec3c-d438-40c2-be14-0311d876822a
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/belief-concerning-evil-doers
+  title: Belief Concerning Evil Doers
+  slug: 41-belief-concerning-evil-doers
+  uuid: 8c65cb92-65d4-4a90-b264-ef449ecdcc4c
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-dissimulation-taqiyya
+  title: Concerning Dissimulation (Taqiyya)
+  slug: 42-concerning-dissimulation-taqiyya
+  uuid: 7ffa6d20-1ffd-42ae-b664-d28778cccbee
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/ancestors-prophet
+  title: The Ancestors Of The Prophet
+  slug: 43-the-ancestors-of-the-prophet
+  uuid: ba311809-4f46-48f8-b57b-4142aa1ab29e
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-alids-alawiya
+  title: Concerning The Alids ('alawiya)
+  slug: 44-concerning-the-alids-alawiya
+  uuid: 99924ee1-ad58-4922-a9e5-ff01cc3d6bbf
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-reports-detailed-and-summary
+  title: Concerning Reports Detailed And Summary
+  slug: 45-concerning-reports-detailed-and-summary
+  uuid: d9393c7b-672f-4c61-b536-152e3ee27ce5
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-prohibition-and-permission
+  title: Concerning Prohibition And Permission
+  slug: 46-concerning-prohibition-and-permission
+  uuid: 27d7d57d-9bff-4902-b3e6-285833e64f9c
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-reports-regarding-medicine
+  title: Concerning The Reports Regarding Medicine
+  slug: 47-concerning-the-reports-regarding-medicine
+  uuid: 11727e8b-e9d1-4782-8997-3b4648f3d8a0
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-creed-shaykh-saduq/concerning-two-divergent-traditions
+  title: Concerning Two Divergent Traditions
+  slug: 48-concerning-two-divergent-traditions
+  uuid: f9fa5ac0-9fbc-4752-96db-17196ab97e8d
+---

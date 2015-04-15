@@ -1,0 +1,125 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat
+author: Sayyid Ali Akbar Sadaaqat
+publisher: The Islamic Education Board of the World Federation of Khoja Shia Ithna-Asheri
+  Muslim Communities
+title: Anecdotes for Reflection Part 1
+slug: anecdotes-for-reflection-part-1
+uuid: c8af7aee-4d82-4126-b6e5-4da942cb4df5
+description: |
+  Moral stories from the lives of the prophets, the Ahlul Bayt, and their
+  companions. Includes topics such as sincerity, hope, altruism, and
+  independence.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: e2d5598d-0a68-4d96-a338-4ab2489cc013
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 094f10cc-c07b-4402-97b4-42b56367299b
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat/1-morals
+  title: 1. Morals
+  slug: 3-1-morals
+  uuid: 2fb8db63-073d-4c55-8894-cfba7af2a962
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat/2-beneficence
+  title: 2. Beneficence
+  slug: 4-2-beneficence
+  uuid: 22a4d8d0-f39c-4784-954e-5c6cdd8e1b44
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat/3sincerity
+  title: 3.Sincerity
+  slug: 5-3-sincerity
+  uuid: fc712e32-b94a-4c27-8ce0-d01a9c7a08d1
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat/4-perseverance
+  title: 4. Perseverance
+  slug: 6-4-perseverance
+  uuid: 48bd8dd3-d963-4a0f-bdb2-a6518b49f2a8
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat/5-reconciliation
+  title: 5. Reconciliation
+  slug: 7-5-reconciliation
+  uuid: 06889cf9-a008-4def-b8bf-445b5c575393
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat/6-hopes
+  title: 6. Hopes
+  slug: 8-6-hopes
+  uuid: 13ac85d4-3b5b-4356-b4f8-8037e72a61a0
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat/7-trustworthiness
+  title: 7. Trustworthiness
+  slug: 9-7-trustworthiness
+  uuid: c507b9d5-89c5-4101-b977-efbfa4b655a1
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat/8-examination
+  title: 8. Examination
+  slug: 10-8-examination
+  uuid: 3b4b82c6-6c12-4616-93fd-b4e725d8b1a0
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat/9-enjoining-good-and-forbidding-evil
+  title: 9. Enjoining The Good And Forbidding The Evil
+  slug: 11-9-enjoining-the-good-and-forbidding-the-evil
+  uuid: 11945e03-6341-4fdd-9a31-53412b528cc9
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat/10-fairness
+  title: 10. Fairness
+  slug: 12-10-fairness
+  uuid: 43ed1918-cb58-4249-9b91-e99f4767d016
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat/11-altruism
+  title: 11. Altruism
+  slug: 13-11-altruism
+  uuid: 72356770-77e5-4881-a7e7-bc440dad1e01
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat/12-harassment
+  title: 12. Harassment
+  slug: 14-12-harassment
+  uuid: 42dfb4ec-7b3a-4d21-a4b4-f6feee1b51c1
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat/13-faith
+  title: 13. Faith
+  slug: 15-13-faith
+  uuid: c246b5f6-1720-48a8-835b-eeeaafe1c341
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat/14-brotherhood
+  title: 14. Brotherhood
+  slug: 16-14-brotherhood
+  uuid: 6dcd186a-ab9d-4f62-af63-1da48b66e8d1
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat/15-independence
+  title: 15. Independence
+  slug: 17-15-independence
+  uuid: 93f7cb08-0bee-4fe5-b094-516f314beddd
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat/16-stinginess
+  title: 16. Stinginess
+  slug: 18-16-stinginess
+  uuid: cd1b4c47-9eec-4bd4-8ac2-d2f893cb9c28
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat/17-evilness
+  title: 17. Evilness
+  slug: 19-17-evilness
+  uuid: d7cec803-eaf6-4af6-a48e-744ebec0ca7e
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat/18-misfortunes
+  title: 18. Misfortunes
+  slug: 20-18-misfortunes
+  uuid: 2f3725ac-3434-47fe-b03a-6e8dc87e76d0
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat/19-sickness
+  title: 19. Sickness
+  slug: 21-19-sickness
+  uuid: 0936d6eb-b143-4121-bf37-c94d34970842
+- source: :alislam
+  source_url: http://www.al-islam.org/anecdotes-reflection-part-1-sayyid-ali-akbar-sadaaqat/20-parents
+  title: 20. Parents
+  slug: 22-20-parents
+  uuid: d949d6e6-55e4-49fb-a9b5-a59c99d90bdd
+---

@@ -1,0 +1,18 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/al-miqdad-bin-al-aswad-kamal-al-sayyid
+author: Kamal al-Sayyid
+publisher: Ansariyan Publications - Qum
+translator: Jasim al-Alyawy
+title: Al-Miqdad bin al-Aswad
+slug: al-miqdad-bin-al-aswad
+uuid: 37f0a068-67b6-4a9d-ae64-0ed56d91fe14
+description: |
+  Biography of the devoted companion of the Prophet (s).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/al-miqdad-bin-al-aswad-kamal-al-sayyid/al-miqdad-bin-al-aswad
+  title: Al-Miqdad bin al-Aswad
+  slug: 1-al-miqdad-bin-al-aswad
+  uuid: 8142cc6a-cd6a-4b18-b916-16e0bf9cd634
+---

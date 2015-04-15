@@ -1,0 +1,113 @@
+---
+source: :mareef
+source_url: http://www.maaref-foundation.com/english/library/islamic_rules/method_of_salat/index.htm
+title: Method of Salat
+slug: method-of-salat
+uuid: 06611b2c-513b-4cd6-be22-b00e2e8d99f5
+chapters:
+- source: :mareef
+  source_url: http://www.ansariyan.org
+  title: Account Suspended
+  slug: 1-account-suspended
+  uuid: 36754cfc-db6d-45ee-8054-9ce3336f8b3c
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/islamic_rules/method_of_salat/01.htm
+  title: A Word From The Publisher
+  slug: 2-a-word-from-the-publisher
+  uuid: ae1f585b-ecf5-44e2-b7b2-3ff845767c68
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/islamic_rules/method_of_salat/02.htm
+  title: "( Usu L-e-din )"
+  slug: 3-usu-l-e-din
+  uuid: ace85bbb-0652-4a20-9ebd-7466dea148f5
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/islamic_rules/method_of_salat/03.htm
+  title: "( Furu'-e-din )"
+  slug: 4-furu-e-din
+  uuid: ee1cfa83-54f3-442e-bb24-0c5f770007cd
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/islamic_rules/method_of_salat/04.htm
+  title: "( the Importance of Salat)"
+  slug: 5-the-importance-of-salat
+  uuid: b518378c-6701-4dd5-bb67-154c729425e4
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/islamic_rules/method_of_salat/05.htm
+  title: "( Five Hadith From the Prophet (s) About Salat )"
+  slug: 6-five-hadith-from-the-prophet-s-about-salat
+  uuid: f393a82d-c765-4e58-bf5e-5065c014599c
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/islamic_rules/method_of_salat/06.htm
+  title: "( Concentration During Salat )"
+  slug: 7-concentration-during-salat
+  uuid: 97f6a356-e732-42c5-bdfa-ad848f75f89b
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/islamic_rules/method_of_salat/07.htm
+  title: "( Wudhu )"
+  slug: 8-wudhu
+  uuid: 43285fc9-72e5-4f89-9c80-8e6d45059e27
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/islamic_rules/method_of_salat/08.htm
+  title: "( Conditions For Wdhu )"
+  slug: 9-conditions-for-wdhu
+  uuid: e2faca46-78ab-4367-9009-55306e27bf96
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/islamic_rules/method_of_salat/09.htm
+  title: "( Things That Make the Wudhu Void )"
+  slug: 10-things-that-make-the-wudhu-void
+  uuid: 05d5ae1c-fa14-4400-82fb-e3f230708905
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/islamic_rules/method_of_salat/10.htm
+  title: "( Tayammum )"
+  slug: 11-tayammum
+  uuid: 980b7a73-a28e-43e4-b566-3205de57474a
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/islamic_rules/method_of_salat/11.htm
+  title: "( Adhan & Iqamah )"
+  slug: 12-adhan-iqamah
+  uuid: bacd9342-d285-496d-8cdd-4d290c123582
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/islamic_rules/method_of_salat/12.htm
+  title: "( the Method of Reading Our Salat )"
+  slug: 13-the-method-of-reading-our-salat
+  uuid: 8a654a41-ca39-4bc1-af7d-f0bacced7c96
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/islamic_rules/method_of_salat/13.htm
+  title: "( Surah Al-fatiha )"
+  slug: 14-surah-al-fatiha
+  uuid: debaccd3-867c-464c-ae4b-316622502168
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/islamic_rules/method_of_salat/14.htm
+  title: "( Surah Al-tawhid)"
+  slug: 15-surah-al-tawhid
+  uuid: 231dd4c4-169d-477b-bf02-b2f1d4702d5b
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/islamic_rules/method_of_salat/15.htm
+  title: "( Tashhud )"
+  slug: 16-tashhud
+  uuid: 022b2ef5-be42-446f-a835-b4872ba7c318
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/islamic_rules/method_of_salat/16.htm
+  title: "( Salam )"
+  slug: 17-salam
+  uuid: 9e49352c-8c6e-4485-90e8-a362818592d4
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/islamic_rules/method_of_salat/17.htm
+  title: "( Tasbihat Al-arba'h )"
+  slug: 18-tasbihat-al-arba-h
+  uuid: 474975ae-ed79-44d2-a76e-21736235a0aa
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/islamic_rules/method_of_salat/18.htm
+  title: "( Things That Make the Salat Void )"
+  slug: 19-things-that-make-the-salat-void
+  uuid: 8b5635f3-02ca-450d-8bb3-e6d8f3f97090
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/islamic_rules/method_of_salat/19.htm
+  title: "( the Wajibat of the Salat )"
+  slug: 20-the-wajibat-of-the-salat
+  uuid: 66639638-11a4-48cd-9c36-253ebc0e63c0
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/islamic_rules/method_of_salat/20.htm
+  title: "( the Place of Salat )"
+  slug: 21-the-place-of-salat
+  uuid: 7ace06c4-ef38-4119-ba3c-22975ecd3d5c
+---

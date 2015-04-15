@@ -1,0 +1,135 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani
+author: Muhammad Ali Chenarani
+publisher: Islamic Research Foundation Astan Quds Razavi
+translator: Ahmad Rezwani
+title: Battle of Harrah
+slug: battle-of-harrah
+uuid: 73f955fa-1a19-4d38-bdac-802c466af2df
+description: |
+  An analytical look at the historic account of the invasion and horrific
+  plunder of the holy city of Medina in the year 63 AH by the army of
+  Yazid b. Mu'awiyah.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 05a3d78e-8c67-4fec-8b94-db6872a19548
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: c7c1f313-b335-468b-b555-a8a968f8e38f
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/great-disaster
+  title: A Great Disaster
+  slug: 3-a-great-disaster
+  uuid: f91668c1-6f9c-438d-ac69-3bfa600f20ee
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/causes-revolt
+  title: Causes of the Revolt
+  slug: 4-causes-of-the-revolt
+  uuid: 3966bcb1-3558-4116-9db5-b9bd9ac091d8
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/open-confrontation-people-medina-against-umayyid-government
+  title: Open Confrontation of the People of Medina against Umayyid Government
+  slug: 5-open-confrontation-of-the-people-of-medina-against-umayyid-government
+  uuid: c95f7016-904f-459d-8c29-be69b8b8422f
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/dispatch-syrian-army-medina
+  title: Dispatch of the Syrian Army to Medina
+  slug: 6-dispatch-of-the-syrian-army-to-medina
+  uuid: 2d407f23-c24c-4852-88ac-81712e0d9b13
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/yazids-orders-commanders-syrian-army
+  title: Yazīd's Orders to the Commanders of the Syrian Army
+  slug: 7-yazid-s-orders-to-the-commanders-of-the-syrian-army
+  uuid: f97c171b-3b0e-4132-8c74-60b9a21485af
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/itinerary-syrian-army
+  title: The Itinerary of the Syrian Army
+  slug: 8-the-itinerary-of-the-syrian-army
+  uuid: 6ae455b8-d664-4026-8e22-8adfb7e4b2de
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/syrian-army-camps-near-medina
+  title: The Syrian Army Camps near Medina
+  slug: 9-the-syrian-army-camps-near-medina
+  uuid: f70f9357-fa49-433f-a557-3ee06485b3ec
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/abd-allah-b-hanzala-commander-medinan-forces
+  title: "‘Abd Allāh b. Hanzala, Commander of Medinan Forces"
+  slug: 10-abd-allah-b-hanzala-commander-of-medinan-forces
+  uuid: e64f8b63-0318-465f-b03a-f99933ea3302
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/confrontation-syrian-army-and-medinan-forces
+  title: Confrontation of the Syrian Army and the Medinan Forces
+  slug: 11-confrontation-of-the-syrian-army-and-the-medinan-forces
+  uuid: 4a11901b-9e49-4f9a-859e-414721ba4955
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/syrians-defeat-during-early-stages
+  title: The Syrian's Defeat during the Early Stages
+  slug: 12-the-syrian-s-defeat-during-the-early-stages
+  uuid: 53fdd4f1-526b-4dbf-97f2-684cd1ccf816
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/marwan-b-hakams-role-penetration-syrian-army-medina
+  title: Marwān b. Hakam's Role in Penetration of Syrian Army into Medina
+  slug: 13-marwan-b-hakam-s-role-in-penetration-of-syrian-army-into-medina
+  uuid: 9252dad9-b052-412f-87de-45da84b0b000
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/wearing-out-medinan-forces-syrian-army
+  title: Wearing out of Medinan Forces before the Syrian Army
+  slug: 14-wearing-out-of-medinan-forces-before-the-syrian-army
+  uuid: 69b09eb3-8621-49b9-893b-b6dd7daaceae
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/syrian-army-s-savage-invasion-medinan-houses
+  title: The Syrian Army’s Savage Invasion of Medinan Houses
+  slug: 15-the-syrian-army-s-savage-invasion-of-medinan-houses
+  uuid: 03b18783-c4ba-4b7d-9aea-179d1e6f4923
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/crimes-committed-prophets-holy-shrine-and-mosque
+  title: Crimes committed in the Prophet’s Holy Shrine and Mosque (Masjid al-Nabi)
+  slug: 16-crimes-committed-in-the-prophet-s-holy-shrine-and-mosque-masjid-al-nabi
+  uuid: 91b56605-8739-4e13-b6ec-b3be27ff2731
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/imam-zayn-al-abidins-stance-uprising-medinans
+  title: Imam Zayn al-‘Abidīn’s (‘a) Stance in the Uprising of Medinans
+  slug: 17-imam-zayn-al-abidin-s-a-stance-in-the-uprising-of-medinans
+  uuid: ec8b2d29-9ce9-4571-8f2e-b4ab98da11a8
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/medina-uprising-right-or-wrong-movement
+  title: The Medina Uprising; a Right or Wrong Movement?
+  slug: 18-the-medina-uprising-a-right-or-wrong-movement
+  uuid: 4d4e8cc7-3107-4aa3-8511-52504699f81f
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/tribes-actively-participated-medina-uprising
+  title: Tribes that Actively Participated in the Medina Uprising
+  slug: 19-tribes-that-actively-participated-in-the-medina-uprising
+  uuid: 93321a2a-a167-4742-998c-615f7b93ab18
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/those-who-were-executed
+  title: Those Who were Executed
+  slug: 20-those-who-were-executed
+  uuid: 4534afbd-22f8-45ba-ab43-057ce4134401
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/those-who-didnt-take-part-uprising
+  title: Those who didn’t take part in the uprising
+  slug: 21-those-who-didn-t-take-part-in-the-uprising
+  uuid: 95c382e6-b241-45a0-a160-c6eeadb502d9
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/aftermaths-battle-harrah
+  title: The Aftermaths of the Battle of Harrah
+  slug: 22-the-aftermaths-of-the-battle-of-harrah
+  uuid: a154e6ac-e2d4-4694-9176-8664f8d0ccf5
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/death-yazid-b-muawiyah
+  title: Death of Yazīd b. Mu‘āwiyah
+  slug: 23-death-of-yazid-b-mu-awiyah
+  uuid: bd43fd92-063e-48fb-81cf-c5d962cfff5f
+- source: :alislam
+  source_url: http://www.al-islam.org/battle-of-harrah-muhammad-ali-chenarani/bibliography
+  title: Bibliography
+  slug: 24-bibliography
+  uuid: c89b885f-6caf-479c-bb87-8d48c0ac3e2b
+---

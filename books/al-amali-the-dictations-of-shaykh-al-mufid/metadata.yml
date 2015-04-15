@@ -1,0 +1,240 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid
+author: Shaykh al-Mufid
+publisher: World Federation of Khoja Shia Ithna-Asheri Muslim Communities
+translator: Mulla Bashir Rahim
+title: Al-Amali, The Dictations of Shaykh al-Mufid
+slug: al-amali-the-dictations-of-shaykh-al-mufid
+uuid: ae365969-63a3-4254-ad12-68f672c811ba
+description: |
+  Dictations of ahadith (traditions) by the great Shi'i scholar Shaykh
+  al-Mufid to his students. One of the most important Shi'i sources of
+  hadith.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/completion
+  title: Completion
+  slug: 1-completion
+  uuid: 7fb3ebd3-f547-49a1-9880-b2c4948117a2
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/foreword
+  title: Foreword
+  slug: 2-foreword
+  uuid: 9f81f93d-f572-49da-b133-bfea6980bf04
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/past-master-sheikh-al-mufid
+  title: 'The Past Master: Sheikh Al-Mufid'
+  slug: 3-the-past-master-sheikh-al-mufid
+  uuid: 1aeeb905-b76c-4f61-ac0b-b9f7b4f4d6bb
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/first-assembly
+  title: The First Assembly
+  slug: 4-the-first-assembly
+  uuid: d631e2cb-d804-4690-8b20-e3699020f9ae
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/second-assembly
+  title: The Second Assembly
+  slug: 5-the-second-assembly
+  uuid: 25d7d532-3abc-4586-9c4e-922698bcfe03
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/third-assembly
+  title: Third Assembly
+  slug: 6-third-assembly
+  uuid: 7c8763be-809a-45ee-af45-6daabc7d5817
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/fourth-assembly
+  title: Fourth Assembly
+  slug: 7-fourth-assembly
+  uuid: c1aa2dea-bb62-4605-9e3d-24a3c89c358f
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/fifth-assembly
+  title: Fifth Assembly
+  slug: 8-fifth-assembly
+  uuid: ce2c2937-272a-46ac-a23f-7140b215218d
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/sixth-assembly
+  title: Sixth Assembly
+  slug: 9-sixth-assembly
+  uuid: a4aff025-db9b-4713-b969-d2ff2a401e6c
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/seventh-assembly
+  title: Seventh Assembly
+  slug: 10-seventh-assembly
+  uuid: 26b12477-5f8d-4f44-883b-d2089af6ec67
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/eighth-assembly
+  title: Eighth Assembly
+  slug: 11-eighth-assembly
+  uuid: fc6e93c1-bf0f-404c-85d0-0e3a5879efc5
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/ninth-assembly
+  title: Ninth Assembly
+  slug: 12-ninth-assembly
+  uuid: 2ceb124d-bc19-43c1-b061-e7f28f8de80f
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/tenth-assembly
+  title: Tenth Assembly
+  slug: 13-tenth-assembly
+  uuid: 745e6c87-4fa8-4edc-8d90-a4c5cd44e38d
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/eleventh-assembly
+  title: Eleventh Assembly
+  slug: 14-eleventh-assembly
+  uuid: 33b4cd7c-5d63-4248-acd6-1435793f0960
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/twelfth-assembly
+  title: Twelfth Assembly
+  slug: 15-twelfth-assembly
+  uuid: 1d6ee5d5-4f98-411e-8297-43ec1b2edfb3
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/thirteenth-assembly
+  title: Thirteenth Assembly
+  slug: 16-thirteenth-assembly
+  uuid: 627a03f0-6c4a-482f-b563-09dac190d1aa
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/fourteenth-assembly
+  title: Fourteenth Assembly
+  slug: 17-fourteenth-assembly
+  uuid: eb8d5be3-d9d2-4735-ad51-fd75660f633f
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/fifteenth-assembly
+  title: Fifteenth Assembly
+  slug: 18-fifteenth-assembly
+  uuid: 7abd661e-67fe-48e6-a065-eb7954c5bb24
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/sixteenth-assembly
+  title: Sixteenth Assembly
+  slug: 19-sixteenth-assembly
+  uuid: bf02632a-9efb-48b2-81de-94b16e72968a
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/seventeenth-assembly
+  title: Seventeenth Assembly
+  slug: 20-seventeenth-assembly
+  uuid: c2ea8b63-0631-4f0c-9a95-2cab14c19e64
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/eighteenth-assembly
+  title: Eighteenth Assembly
+  slug: 21-eighteenth-assembly
+  uuid: 7033440c-9c87-4ba2-b073-f638093c48c5
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/nineteenth-assembly
+  title: Nineteenth Assembly
+  slug: 22-nineteenth-assembly
+  uuid: 5504104f-f7a1-4f1c-8d66-61c67bcec605
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/twentieth-assembly
+  title: Twentieth Assembly
+  slug: 23-twentieth-assembly
+  uuid: 19bd1c5b-2dcf-4330-9d7e-5a4eb580e88b
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/twenty-first-assembly
+  title: Twenty first Assembly
+  slug: 24-twenty-first-assembly
+  uuid: 1a9c52e2-5469-41c5-bb25-afaa5eef678b
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/twenty-second-assembly
+  title: Twenty Second Assembly
+  slug: 25-twenty-second-assembly
+  uuid: 2438fca4-97a9-4de3-b08b-86b5724e3d39
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/twenty-third-assembly
+  title: Twenty Third Assembly
+  slug: 26-twenty-third-assembly
+  uuid: ffa5e275-b86b-43b3-ab0d-efbfbec656d0
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/twenty-fourth-assembly
+  title: Twenty Fourth Assembly
+  slug: 27-twenty-fourth-assembly
+  uuid: 3e44babb-5f58-4be9-82ac-7b6bb6753d08
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/twenty-fifth-assembly
+  title: Twenty Fifth Assembly
+  slug: 28-twenty-fifth-assembly
+  uuid: 6f6b0dda-6c60-47b0-917e-1e42c23cf570
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/twenty-sixth-assembly
+  title: Twenty Sixth Assembly
+  slug: 29-twenty-sixth-assembly
+  uuid: 5f07aad7-3f52-4a26-b1e4-8b412f65ec11
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/twenty-seventh-assembly
+  title: Twenty Seventh Assembly
+  slug: 30-twenty-seventh-assembly
+  uuid: 970690a7-8abd-453d-8a66-6ac25f497298
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/twenty-eighth-assembly
+  title: Twenty Eighth Assembly
+  slug: 31-twenty-eighth-assembly
+  uuid: 6fe4504f-fbe3-4569-a1f1-187c0e4f417b
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/twenty-ninth-assembly
+  title: Twenty Ninth Assembly
+  slug: 32-twenty-ninth-assembly
+  uuid: db80ab66-2892-4626-91b1-8d1a8caa24a7
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/thirtieth-assembly
+  title: Thirtieth Assembly
+  slug: 33-thirtieth-assembly
+  uuid: be82cf25-afb8-4695-8603-5299d988dfa9
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/thirty-first-assembly
+  title: Thirty First Assembly
+  slug: 34-thirty-first-assembly
+  uuid: 1c72f05f-d164-4608-888f-d3435f45937e
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/thirty-second-assembly
+  title: Thirty Second Assembly
+  slug: 35-thirty-second-assembly
+  uuid: a8144539-2d5c-4f07-b5b1-f4abdcdd7707
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/thirty-third-assembly
+  title: Thirty Third Assembly
+  slug: 36-thirty-third-assembly
+  uuid: 0fad0c1a-47ed-4df9-a14f-20aa0e184735
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/thirty-fourth-assembly
+  title: Thirty Fourth Assembly
+  slug: 37-thirty-fourth-assembly
+  uuid: 0f695ec1-c455-4e8d-823d-8efefad30744
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/thirty-fifth-assembly
+  title: Thirty Fifth Assembly
+  slug: 38-thirty-fifth-assembly
+  uuid: 522d2630-efa0-4fd3-a60a-23ed6e295d9d
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/thirty-sixth-assembly
+  title: Thirty Sixth Assembly
+  slug: 39-thirty-sixth-assembly
+  uuid: e36e9842-ca53-4c6b-9236-d876d948bc71
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/thirty-seventh-assembly
+  title: Thirty Seventh Assembly
+  slug: 40-thirty-seventh-assembly
+  uuid: 4f6c23cd-02b3-482b-8050-be10691e7397
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/thirty-eighth-assembly
+  title: Thirty Eighth Assembly
+  slug: 41-thirty-eighth-assembly
+  uuid: 5ecc196e-44da-4d16-8858-58c01d1a3caf
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/thirty-ninth-assembly
+  title: Thirty Ninth Assembly
+  slug: 42-thirty-ninth-assembly
+  uuid: de5cbc08-8cdc-489b-9f8d-0834c957b91b
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/fortieth-assembly
+  title: Fortieth Assembly
+  slug: 43-fortieth-assembly
+  uuid: 329ef4ea-16b7-4973-9397-1b40cad22f56
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/forty-first-assembly
+  title: Forty First Assembly
+  slug: 44-forty-first-assembly
+  uuid: ae9ebee5-95ea-48ee-8819-570de005a3ab
+- source: :alislam
+  source_url: http://www.al-islam.org/al-amali-dictations-shaykh-al-mufid/forty-second-assembly
+  title: Forty Second Assembly
+  slug: 45-forty-second-assembly
+  uuid: 85c914b8-81a0-4543-a9bd-4fdbf04e4f1a
+---

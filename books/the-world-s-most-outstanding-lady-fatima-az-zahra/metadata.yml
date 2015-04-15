@@ -1,0 +1,56 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/fatima-az-zahra-the-worlds-most-outstanding-lady-ayatullah-makarem-shirazi
+author: Ayatullah al-`Uzma al-Hajj ash-Shaykh Nasir Makarim Shirazi
+publisher: Naba Organization
+translator: Michele Ahmadi
+title: 'The world’s most outstanding Lady: Fatima az-Zahra’'
+slug: the-world-s-most-outstanding-lady-fatima-az-zahra
+uuid: 9926c43e-9b11-42a4-b8c1-63948e032815
+description: |
+  The historical proceedings of the Prophet's (s) daughter Fatima
+  Az-Zahra, from childhood until marriage. Then an account of the
+  sufferings and hardships after the martyrdom of the Holy Prophet (s),
+  till the moment of her martyrdom.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-az-zahra-the-worlds-most-outstanding-lady-ayatullah-makarem-shirazi/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: a1e38abe-0502-4d7b-bed7-7336ad256240
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-az-zahra-the-worlds-most-outstanding-lady-ayatullah-makarem-shirazi/word-publisher
+  title: A word from the publisher
+  slug: 2-a-word-from-the-publisher
+  uuid: 1f86e9e2-4805-4d07-a6bf-e0f3b44aeb54
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-az-zahra-the-worlds-most-outstanding-lady-ayatullah-makarem-shirazi/painful-fate-women
+  title: The Painful Fate of Women throughout History
+  slug: 3-the-painful-fate-of-women-throughout-history
+  uuid: 81070d9f-0f2b-460e-b394-35088d80e158
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-az-zahra-the-worlds-most-outstanding-lady-ayatullah-makarem-shirazi/splendorous-birth-fatimah
+  title: The Splendorous Birth of Fatimah
+  slug: 4-the-splendorous-birth-of-fatimah
+  uuid: d581c245-0604-41e1-8b20-c3649c662100
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-az-zahra-the-worlds-most-outstanding-lady-ayatullah-makarem-shirazi/extraordinary-love
+  title: The Extraordinary Love of the Prophet for Zahra
+  slug: 5-the-extraordinary-love-of-the-prophet-for-zahra
+  uuid: 5219c8c7-1f09-4b88-9974-3e92f9bfd287
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-az-zahra-the-worlds-most-outstanding-lady-ayatullah-makarem-shirazi/fatimah-s-her-father%E2%80%99s
+  title: Fatimah (S.) At Her Father’s Side
+  slug: 6-fatimah-s-at-her-father-s-side
+  uuid: 3c6f4dde-6e8f-4f61-a6e7-02d08d18ccec
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-az-zahra-the-worlds-most-outstanding-lady-ayatullah-makarem-shirazi/fatimah-sa-loyal-wife-ali
+  title: Fatimah (s.a.) The Loyal wife of Ali
+  slug: 7-fatimah-s-a-the-loyal-wife-of-ali
+  uuid: 22d9e24f-4c13-44e0-9526-951666988a2d
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-az-zahra-the-worlds-most-outstanding-lady-ayatullah-makarem-shirazi/fatimah-sa-after-prophet
+  title: Fatimah (s.a.) After the Prophet’s Death
+  slug: 8-fatimah-s-a-after-the-prophet-s-death
+  uuid: bd321850-d5b6-444e-8bb1-031d11dddf3f
+---

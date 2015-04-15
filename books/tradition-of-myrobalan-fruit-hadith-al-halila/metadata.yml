@@ -1,0 +1,31 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/tradition-myrobalan-fruit-hadith-al-halila-imam-jafar-al-sadiq
+author: Imam Ja'far al-Sadiq
+publisher: Majlisul Muslemeen
+translator: Wali Muhammad C. Momin
+title: Tradition of Myrobalan Fruit (Hadith al-Halila)
+slug: tradition-of-myrobalan-fruit-hadith-al-halila
+uuid: 35ef3477-01bf-4060-9cc7-68ea75d8498c
+description: |
+  A thought provoking dialogue between Imam Ja'far al-Sadiq (a) and an
+  atheist physician from India. Using logical arguments and the Myrobalan
+  fruit as its theme the Imam convinces the atheist beyond doubt of the
+  existence and attributes of Almighty Allah.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/tradition-myrobalan-fruit-hadith-al-halila-imam-jafar-al-sadiq/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 78aa2388-b5e8-4167-8d89-8265ce6660ea
+- source: :alislam
+  source_url: http://www.al-islam.org/tradition-myrobalan-fruit-hadith-al-halila-imam-jafar-al-sadiq/preface
+  title: Preface
+  slug: 2-preface
+  uuid: e9d6cf33-2955-405f-932d-fd47fea79fef
+- source: :alislam
+  source_url: http://www.al-islam.org/tradition-myrobalan-fruit-hadith-al-halila-imam-jafar-al-sadiq/hadith
+  title: The Hadith
+  slug: 3-the-hadith
+  uuid: bae9c54d-acd2-44ba-9dec-7a4ca4bb601f
+---

@@ -1,0 +1,53 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/master-and-mastership-ayatullah-murtadha-mutahhari
+author: Ayatullah Murtadha Mutahhari
+publisher: Islamic Seminary Publications
+title: Master and Mastership
+slug: master-and-mastership
+uuid: 285f25fe-5af7-463f-b3c3-d2c950320b4b
+description: |
+  Definition of the words stemming from the arabic root wala, types of
+  wala, wala of Imamate, leadership and control.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/master-and-mastership-ayatullah-murtadha-mutahhari/chapter-1-root-word
+  title: 'Chapter 1: Root Word'
+  slug: 1-chapter-1-root-word
+  uuid: 8caa54fa-69e2-4c2c-a2c4-1eee54aed9f0
+- source: :alislam
+  source_url: http://www.al-islam.org/master-and-mastership-ayatullah-murtadha-mutahhari/chapter-2-two-kinds-wala
+  title: 'Chapter 2: Two Kinds of Wala’'
+  slug: 2-chapter-2-two-kinds-of-wala
+  uuid: be537784-5ace-4cf2-af8b-091c7af0662e
+- source: :alislam
+  source_url: http://www.al-islam.org/master-and-mastership-ayatullah-murtadha-mutahhari/chapter-3-special-form-positive-wala
+  title: 'Chapter 3: Special Form of Positive Wala’'
+  slug: 3-chapter-3-special-form-of-positive-wala
+  uuid: 2115fe05-a89a-4162-8ce0-c55d8bebe61e
+- source: :alislam
+  source_url: http://www.al-islam.org/master-and-mastership-ayatullah-murtadha-mutahhari/chapter-4-classes-special-form-positive-wala
+  title: 'Chapter 4: Classes of Special Form of Positive Wala’'
+  slug: 4-chapter-4-classes-of-special-form-of-positive-wala
+  uuid: fd166752-c1ad-414b-b45b-0c087e24508c
+- source: :alislam
+  source_url: http://www.al-islam.org/master-and-mastership-ayatullah-murtadha-mutahhari/chapter-5-wala-imamate
+  title: 'Chapter 5: Wala’ of Imamate'
+  slug: 5-chapter-5-wala-of-imamate
+  uuid: 0854808b-d895-4d95-9463-c80a8a931741
+- source: :alislam
+  source_url: http://www.al-islam.org/master-and-mastership-ayatullah-murtadha-mutahhari/chapter-6-wala-leadership
+  title: 'Chapter 6: Wala’ of Leadership'
+  slug: 6-chapter-6-wala-of-leadership
+  uuid: 4f8e02ce-f408-4fa1-ac80-6bfbdf42e32b
+- source: :alislam
+  source_url: http://www.al-islam.org/master-and-mastership-ayatullah-murtadha-mutahhari/chapter-7-wala-control
+  title: 'Chapter 7: Wala’ of Control'
+  slug: 7-chapter-7-wala-of-control
+  uuid: 6ffb9d2b-f2f6-483f-bab7-72f68e01e10b
+- source: :alislam
+  source_url: http://www.al-islam.org/master-and-mastership-ayatullah-murtadha-mutahhari/appendix-spiritual-guidance-imam
+  title: 'Appendix: Spiritual Guidance of the Imam'
+  slug: 8-appendix-spiritual-guidance-of-the-imam
+  uuid: b14483af-9f96-439a-b804-2e9619a28bd1
+---

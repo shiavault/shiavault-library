@@ -1,0 +1,37 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/lessons-lives-ulema-abbas-jaffer
+author: Abbas Jaffer
+translator: Abbas Jaffer
+title: Lessons from the Lives of Ulema
+slug: lessons-from-the-lives-of-ulema
+uuid: 56af5abf-cf12-47c5-bdcc-25a6b4a6734a
+description: |
+  Anecdotes from the lives of Islamic Scholars
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-lives-ulema-abbas-jaffer/ayatullah-burujerdi-ra
+  title: Ayatullah Burujerdi (R.A.)
+  slug: 1-ayatullah-burujerdi-r-a
+  uuid: 864985b4-6fa4-45af-85a2-2f365b672f09
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-lives-ulema-abbas-jaffer/ayatullah-shaykh-ja%E2%80%99far-shustari-ra
+  title: Ayatullah Shaykh Ja’far Shustari (R.A.)
+  slug: 2-ayatullah-shaykh-ja-far-shustari-r-a
+  uuid: b4899488-f1f1-4236-a28f-0dcc1e8378ee
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-lives-ulema-abbas-jaffer/shaykh-abbas-e-qummi-ra
+  title: Shaykh Abbas-e-Qummi (R.A.)
+  slug: 3-shaykh-abbas-e-qummi-r-a
+  uuid: be5e2b7f-cea3-42c8-8639-a6db63d924dc
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-lives-ulema-abbas-jaffer/sayyid-ali-qadhi-tabatabai-ra
+  title: Sayyid Ali Qadhi Tabatabai (R.A.)
+  slug: 4-sayyid-ali-qadhi-tabatabai-r-a
+  uuid: 14c03273-d2a8-408f-bb1a-00a7f139a2e7
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-lives-ulema-abbas-jaffer/ayatullah-shaykh-muhammad-taqi-bahlool-ra
+  title: Ayatullah Shaykh Muhammad Taqi Bahlool (R.A.)
+  slug: 5-ayatullah-shaykh-muhammad-taqi-bahlool-r-a
+  uuid: 10ef0584-4b8a-401d-907c-c59c84ee1819
+---

@@ -1,0 +1,58 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islamic-systems-al-balagh
+author: N/A
+publisher: Al Balagh Foundation
+title: Islamic Systems
+slug: islamic-systems
+uuid: ff36a18d-f0f6-4ec4-aa16-a02336eb22d2
+description: |
+  Short introductory summaries of the various systems involved in the
+  governance of a nation according to the Islamic perspective.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-systems-al-balagh/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 42a3ffcf-2ccc-4862-a85f-ca995a9315b1
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-systems-al-balagh/definition
+  title: Definition
+  slug: 2-definition
+  uuid: 87426c55-76b8-4e2f-9038-744014ab40f8
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-systems-al-balagh/features-islamic-system
+  title: Features of the Islamic System
+  slug: 3-features-of-the-islamic-system
+  uuid: 08169be1-9fbe-449d-93ff-6753b35f9f93
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-systems-al-balagh/1-ritual-system
+  title: 1. Ritual System
+  slug: 4-1-ritual-system
+  uuid: a520d32e-9aed-4ef6-af5c-eac31cfca246
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-systems-al-balagh/2-political-system
+  title: 2. Political System
+  slug: 5-2-political-system
+  uuid: d2d137c6-0bf9-47df-a259-ff9a3dec1e54
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-systems-al-balagh/3-economic-system
+  title: 3. Economic System
+  slug: 6-3-economic-system
+  uuid: 56b94d37-4213-4d34-970e-60ac61304e62
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-systems-al-balagh/4-social-system
+  title: 4. Social System
+  slug: 7-4-social-system
+  uuid: c4ca7564-433c-4ba9-b769-1d4e2b631adf
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-systems-al-balagh/5-jihad-system
+  title: 5. Jihad System
+  slug: 8-5-jihad-system
+  uuid: 4461206c-1d56-4be0-891b-0d4a70e86ed9
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-systems-al-balagh/6-judicial-system
+  title: 6. Judicial System
+  slug: 9-6-judicial-system
+  uuid: 209fd29e-f17b-4846-a5ea-e2dbdd332a88
+---

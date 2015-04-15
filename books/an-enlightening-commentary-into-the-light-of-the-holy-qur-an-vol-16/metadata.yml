@@ -1,0 +1,127 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-16
+publisher: Imam Ali Foundation
+translator: Sayyid Abbas Sadr-'ameli
+title: An Enlightening Commentary into the Light of the Holy Qur'an vol. 16
+slug: an-enlightening-commentary-into-the-light-of-the-holy-qur-an-vol-16
+uuid: fbf58f7c-38d6-4c53-8698-09ac0d01d1e7
+description: |
+  An Enlightening Commentary into the Light of the Holy Qur'an vol. 16
+  From Surah az-Zumar (39) to Surah ad-Dukhan (44) The light of Islam has
+  enlightened and continuing to enlighten every corner in the world and
+  seekers of truth have closely associated to the Holy Quran which carries
+  the Word of Allah (SWT) to humanity. With increasing focus and attention
+  to the Holy Quran, efforts has been done to provide a pure, correct and
+  accurate translation of this divine book. But sometimes it is difficult
+  for the readers to understand all of the apparent and hidden meanings
+  and it is the duty of every Muslim, man or woman, to read, understand
+  and contemplate on the Holy Qur’an according to his own capacity. Hence,
+  the need for proper explanation becomes obvious and necessary. The book
+  titled, “An Enlightening Commentary into the Light of the Holy Qur’an”
+  compiled by a group of Muslim scholars, under the direction of Ayatullah
+  Allamah Al-Hajj Sayyid Kamal Faqih Imani is a valuable effort which
+  presents a thorough commentary on the Quran in 20 volumes made available
+  to the reader.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-16/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: c8ed86e9-a099-452e-8be9-89d0274706d1
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-16/acknowledgment
+  title: Acknowledgment
+  slug: 2-acknowledgment
+  uuid: e08cb217-5c24-4b18-87f0-44ac973dfb98
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-16/references
+  title: References
+  slug: 3-references
+  uuid: 1a1cb5e8-67a2-482b-bce6-2fe29b9f61b7
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-16/presentation-muslims
+  title: A Presentation to Muslims
+  slug: 4-a-presentation-to-muslims
+  uuid: 261e1c66-132c-4790-9cd9-6d2a5f6028c6
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-16/surah-al-zumar-chapter-39-verses-1-29
+  title: Surah al-Zumar, Chapter 39, Verses 1 - 29
+  slug: 5-surah-al-zumar-chapter-39-verses-1-29
+  uuid: 92d1db4b-8ff0-4b9a-86b5-735b1d9542e1
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-16/surah-al-zumar-verses-30-55
+  title: Surah al-Zumar, Verses 30 - 55
+  slug: 6-surah-al-zumar-verses-30-55
+  uuid: 42eda92c-58bb-4b08-ac67-b4bc15891017
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-16/surah-al-zumar-verses-56-75
+  title: Surah al-Zumar, Verses 56 - 75
+  slug: 7-surah-al-zumar-verses-56-75
+  uuid: 640ee6f8-1042-4599-b76f-952f72dbb7eb
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-16/surah-al-ghafir-chapter-40-verses-1-22
+  title: Surah al-Ghafir, Chapter 40, Verses 1 - 22
+  slug: 8-surah-al-ghafir-chapter-40-verses-1-22
+  uuid: 573488c3-e1a8-4442-92eb-6eff8e79a385
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-16/surah-al-ghafir-verses-23-45
+  title: Surah al-Ghafir, Verses 23 - 45
+  slug: 9-surah-al-ghafir-verses-23-45
+  uuid: d524ef2f-5516-42a1-8606-cfed51012380
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-16/surah-al-ghafir-verses-46-63
+  title: Surah al-Ghafir, Verses 46 - 63
+  slug: 10-surah-al-ghafir-verses-46-63
+  uuid: 28dcbf57-e45a-4134-b4da-fcaa8df35501
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-16/surah-al-ghafir-verses-64-85
+  title: Surah al-Ghafir, Verses 64 - 85
+  slug: 11-surah-al-ghafir-verses-64-85
+  uuid: 54eb8c12-45c1-49c6-b47b-aed249015d05
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-16/surah-fussilat-chapter-41-verses-1-40
+  title: Surah Fussilat, Chapter 41, Verses 1-40
+  slug: 12-surah-fussilat-chapter-41-verses-1-40
+  uuid: 98960e89-9755-4b20-899c-8afa77ecf6bb
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-16/surah-fussilat-verses-41-54
+  title: Surah Fussilat, Verses 41 - 54
+  slug: 13-surah-fussilat-verses-41-54
+  uuid: fb6bfc68-bd14-4ebf-9e98-6397d976e423
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-16/surah-al-shura-chapter-42-verses-1-26
+  title: Surah al-Shura, Chapter 42, Verses 1-26
+  slug: 14-surah-al-shura-chapter-42-verses-1-26
+  uuid: 78063da0-91d2-4237-9b55-c89b85bafbd1
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-16/surah-al-shura-verses-27-53
+  title: Surah al-Shura, Verses 27 - 53
+  slug: 15-surah-al-shura-verses-27-53
+  uuid: e18d929e-60ea-450e-858d-dfdfa87143c8
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-16/surah-al-zukhruf-chapter-43-verses-1-39
+  title: Surah al-Zukhruf, Chapter 43, Verses 1 - 39
+  slug: 16-surah-al-zukhruf-chapter-43-verses-1-39
+  uuid: 57ebcd74-50dd-4221-9771-2884ff267bf3
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-16/surah-al-zukhruf-verses-40-63
+  title: Surah al-Zukhruf, Verses 40 - 63
+  slug: 17-surah-al-zukhruf-verses-40-63
+  uuid: f30b423c-de6f-4d23-9dae-c744f44ab329
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-16/surah-al-zukhruf-verses-64-89
+  title: Surah al-Zukhruf, Verses 64- 89
+  slug: 18-surah-al-zukhruf-verses-64-89
+  uuid: aeec65a0-e7af-4731-a190-b0119fc15854
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-16/surah-al-dukhan-chapter-44-verses-1-36
+  title: Surah al-Dukhan, Chapter 44, Verses 1 - 36
+  slug: 19-surah-al-dukhan-chapter-44-verses-1-36
+  uuid: d60d451c-7d96-4c67-ba9c-a9402f7f5413
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-16/surah-al-dukhan-chapter-44-verses-37-59
+  title: Surah al-Dukhan, Chapter 44, Verses 37- 59
+  slug: 20-surah-al-dukhan-chapter-44-verses-37-59
+  uuid: c46f14c2-472a-4cdf-a6f9-1a7d29190084
+---

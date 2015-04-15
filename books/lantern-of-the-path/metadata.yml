@@ -1,0 +1,524 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq
+author: Imam Ja'far al-Sadiq ('a)
+publisher: Zahra Publications
+translator: Shaykh Fadhlallah Haeri
+title: Lantern of the Path
+slug: lantern-of-the-path
+uuid: 99df8301-3ebd-42e2-a17b-77d62e00bb09
+description: |
+  A collection of Hadith by the sixth Imam (as) on knowledge, behavior,
+  remembrance, prayer, and fear of God.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/publisher%E2%80%99s-note
+  title: Publisher’s Note
+  slug: 1-publisher-s-note
+  uuid: 75cb645e-a611-4493-a827-b61c0270a8ec
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/translator%E2%80%99s-note-and-acknowledgements
+  title: Translator’s Note and Acknowledgements
+  slug: 2-translator-s-note-and-acknowledgements
+  uuid: 28a914aa-0ebd-4e34-b303-0bcd93a31bfe
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: 05a0583b-45f7-4b5a-b56c-393123ad9a63
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/bondage-ubudiyah
+  title: Bondage ('Ubudiyah)
+  slug: 4-bondage-ubudiyah
+  uuid: b7e0c0ca-3153-496e-ba8c-a8fd0517a27d
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/more-bondage
+  title: More on Bondage
+  slug: 5-more-on-bondage
+  uuid: 4ecdc2c2-2683-444d-9290-51cfe8a55f8b
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/lowering-gaze
+  title: On Lowering the Gaze
+  slug: 6-on-lowering-the-gaze
+  uuid: 42e50c8a-1178-43b8-bfb9-8fe35a0a1238
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/walking
+  title: On Walking
+  slug: 7-on-walking
+  uuid: aa2c02b0-9010-4065-8008-f9cc418755f5
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/knowledge
+  title: On Knowledge
+  slug: 8-on-knowledge
+  uuid: 53a62032-55d2-4a98-bd77-7e7988c8902f
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/giving-judgement
+  title: Giving Judgement
+  slug: 9-giving-judgement
+  uuid: 6307bbd5-a63d-4014-a5c5-7536ec96ab75
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/enjoining-what-good-and-forbidding-what-evil
+  title: Enjoining what is Good and Forbidding what is Evil
+  slug: 10-enjoining-what-is-good-and-forbidding-what-is-evil
+  uuid: 0d83e7b3-e77f-4d77-93b7-367b58629df9
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/how-men-knowledge-are-ruined
+  title: How the Men of Knowledge are Ruined
+  slug: 11-how-the-men-of-knowledge-are-ruined
+  uuid: b1628e94-be0a-4f89-847c-49fb3f31be53
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/guarding-oneself-riayah
+  title: Guarding Oneself (Ri'ayah)
+  slug: 12-guarding-oneself-ri-ayah
+  uuid: 737364f6-3ad1-4cc9-bd0d-f153778c8578
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/thankfulness
+  title: Thankfulness
+  slug: 13-thankfulness
+  uuid: 95621674-2377-49b9-9183-7d8a7aa77dfd
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/leaving-your-home
+  title: On Leaving your Home
+  slug: 14-on-leaving-your-home
+  uuid: f656871a-2940-4a77-a5fe-0e9bbd42b38a
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/reciting-quran
+  title: On Reciting the Qur'an
+  slug: 15-on-reciting-the-qur-an
+  uuid: 6d269d0c-d6ab-4097-a544-84b4d7d322f1
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/dress
+  title: Dress
+  slug: 16-dress
+  uuid: cd80a318-e805-4fb5-b56c-3e1d19605cb2
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/showing
+  title: Showing Off
+  slug: 17-showing-off
+  uuid: 7c739bcd-9a2b-4df5-8d91-d8d34bebd034
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/truthfulness
+  title: Truthfulness
+  slug: 18-truthfulness
+  uuid: c457c53a-229e-4167-b770-21e1fc117cb1
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/sincerity
+  title: Sincerity
+  slug: 19-sincerity
+  uuid: 1dd9a96b-70bb-4cde-8f20-d215cc4c7a27
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/precaution
+  title: Precaution
+  slug: 20-precaution
+  uuid: 909b7154-c6ac-4178-b660-5bc2b98e1bf7
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/fearing-allah
+  title: Fearing Allah
+  slug: 21-fearing-allah
+  uuid: 0c44ed0b-2b3a-4429-87a9-e35a2ee62ac4
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/social-interactions
+  title: Social Interactions
+  slug: 22-social-interactions
+  uuid: 9eb63d1f-1fa4-4bad-9720-a057168f144e
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/sleep
+  title: Sleep
+  slug: 23-sleep
+  uuid: 80912880-1a8c-4275-bc96-5c2b0cb924ae
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/pilgrimage
+  title: Pilgrimage
+  slug: 24-pilgrimage
+  uuid: 23df3475-6c52-444a-8543-f77c297e2090
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/charity
+  title: Charity
+  slug: 25-charity
+  uuid: 843fe801-fdc4-4651-9b34-936fcc934ba2
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/intention
+  title: Intention
+  slug: 26-intention
+  uuid: c94810bd-bbc4-41dd-bb82-134eed46a128
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/remembrance
+  title: Remembrance
+  slug: 27-remembrance
+  uuid: 5b15257b-d36d-4bfb-a7df-5b215f27bf33
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/ruin-reciters
+  title: The Ruin of the Reciters
+  slug: 28-the-ruin-of-the-reciters
+  uuid: 61a5d05e-6d36-4b60-87b1-d0f092cf3c08
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/clarification-truth-and-falsehood
+  title: Clarification of Truth and Falsehood
+  slug: 29-clarification-of-truth-and-falsehood
+  uuid: c996063a-1981-414b-ab36-3f15a93a5025
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/gnosis-prophets
+  title: The Gnosis of the Prophets
+  slug: 30-the-gnosis-of-the-prophets
+  uuid: f4af2c6d-4340-484a-be3a-1e6d3a9d12f7
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/recognition-imams
+  title: The Recognition of the Imams
+  slug: 31-the-recognition-of-the-imams
+  uuid: eae30b7e-97dc-476b-801f-dd1546f87ed4
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/recognition-companions
+  title: Recognition of the Companions
+  slug: 32-recognition-of-the-companions
+  uuid: 377449d6-37e1-482f-bdf2-302cb81f4485
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/honour-and-sanctity-believers
+  title: The Honour and Sanctity of the Believers
+  slug: 33-the-honour-and-sanctity-of-the-believers
+  uuid: 6c47f79b-7374-4d7a-9dd3-39cc2125d908
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/dutifulness-parents
+  title: Dutifulness to Parents
+  slug: 34-dutifulness-to-parents
+  uuid: 6e33fa58-71f1-4a90-a0b7-40f0921a82b8
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/humility
+  title: Humility
+  slug: 35-humility
+  uuid: af6d39dc-0f4b-4b6c-bc57-3f6f03cff2d4
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/ignorance
+  title: Ignorance
+  slug: 36-ignorance
+  uuid: f12f0eaf-b4db-45ed-b76b-3f313716e20e
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/eating
+  title: Eating
+  slug: 37-eating
+  uuid: 86577358-58f5-4d02-85e3-7ec3fddb09bf
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/evil-whispering
+  title: Evil Whispering
+  slug: 38-evil-whispering
+  uuid: ac090e85-5f02-411a-ade0-58cb47b40d6b
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/pride
+  title: Pride
+  slug: 39-pride
+  uuid: f21477b5-7eb4-4b11-be56-fd859753e8f0
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/generosity
+  title: Generosity
+  slug: 40-generosity
+  uuid: d99b41b3-1b61-40e8-a4cd-df53bca0b243
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/self-reckoning
+  title: Self-Reckoning
+  slug: 41-self-reckoning
+  uuid: d51f6027-e54a-4877-bd33-0b71e42004eb
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/opening-prayer
+  title: Opening the Prayer
+  slug: 42-opening-the-prayer
+  uuid: c4f42d6c-ffc0-4ada-a884-cd0b2d36c9fc
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/bowing-prayer
+  title: Bowing in Prayer
+  slug: 43-bowing-in-prayer
+  uuid: c7c8ec48-1ccb-4d66-a75e-1bb8ee0401eb
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/prostration-prayer
+  title: Prostration in Prayer
+  slug: 44-prostration-in-prayer
+  uuid: 8abb0014-bf50-4230-aeec-10a9438144f7
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/tashahhud
+  title: The Tashahhud
+  slug: 45-the-tashahhud
+  uuid: 8fb2753a-cc05-45ad-be4b-36138b17492e
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/salam
+  title: Salam
+  slug: 46-salam
+  uuid: 420bcad4-cea0-42d9-9f2c-f592ad221809
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/repentance
+  title: Repentance
+  slug: 47-repentance
+  uuid: a5b80c68-a0f9-4d61-89b8-5297ac3de394
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/retreat
+  title: Retreat
+  slug: 48-retreat
+  uuid: 120f8a2d-840f-4e4e-bca7-b5bbddbecdcd
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/silence
+  title: Silence
+  slug: 49-silence
+  uuid: cee835cc-613e-495f-b6f4-dc758e0d1e7e
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/intellect-and-passion
+  title: Intellect and Passion
+  slug: 50-intellect-and-passion
+  uuid: ba0e245c-a85f-4770-a641-591d52cdfc61
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/envy
+  title: Envy
+  slug: 51-envy
+  uuid: e2447740-f095-4694-8fb7-8066f8e0714c
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/greed
+  title: Greed
+  slug: 52-greed
+  uuid: ee249965-40a7-4250-b7ce-326e73e26226
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/corruption
+  title: Corruption
+  slug: 53-corruption
+  uuid: 87e8ca41-b680-4002-902a-6331c09b5bae
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/well-being
+  title: Well-being
+  slug: 54-well-being
+  uuid: 76d5c3de-9308-4948-9c71-c3dd33e4a435
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/worship
+  title: Worship
+  slug: 55-worship
+  uuid: 2d2eaf6e-33ec-4326-b7d2-4a0574c121d8
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/reflection
+  title: Reflection
+  slug: 56-reflection
+  uuid: a16a2b40-dd58-4f02-b584-27cf1a13a732
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/rest
+  title: Rest
+  slug: 57-rest
+  uuid: 60090948-a91b-4b8f-99b0-050ba79c36f4
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/avarice
+  title: Avarice
+  slug: 58-avarice
+  uuid: 98ee147f-ed51-4c9a-8385-de0331ddf2a1
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/clarification
+  title: Clarification
+  slug: 59-clarification
+  uuid: 3614ff2c-9d80-4efe-971a-74147b17b46b
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/judgements
+  title: Judgements
+  slug: 60-judgements
+  uuid: c38d892e-af1d-4795-ac44-0fda9388a357
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/siwak
+  title: Siwak
+  slug: 61-siwak
+  uuid: 58e6c475-054f-48f0-bc6c-bac71e987726
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/using-lavatory
+  title: Using the Lavatory
+  slug: 62-using-the-lavatory
+  uuid: ec8362f0-0f13-41c3-ba4b-7b0d7815f4c3
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/purification
+  title: Purification
+  slug: 63-purification
+  uuid: 317b2b86-310a-4055-8b34-bc3cc5b7a11f
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/entering-mosque
+  title: Entering the Mosque
+  slug: 64-entering-the-mosque
+  uuid: 9cba2901-2051-4fb2-b981-1b4fb4bd60cf
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/supplication
+  title: Supplication
+  slug: 65-supplication
+  uuid: a9bb7b68-d982-4c89-9825-0d00c2714294
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/fasting
+  title: Fasting
+  slug: 66-fasting
+  uuid: 8b200a25-d02c-4853-a30e-40fa4af5118d
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/abstinence
+  title: Abstinence
+  slug: 67-abstinence
+  uuid: 135cc02d-0c57-4f48-9b3b-094272c68f87
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/description-world
+  title: A Description of this World
+  slug: 68-a-description-of-this-world
+  uuid: 9b865956-d031-499a-93ef-a20a57b41875
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/reluctance-act
+  title: Reluctance to Act
+  slug: 69-reluctance-to-act
+  uuid: e9f1a887-0bdc-4e0f-a237-7a140be6189b
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/delusion
+  title: Delusion
+  slug: 70-delusion
+  uuid: e041a99c-7c2a-40e8-9617-9b1e48c0d24a
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/description-hypocrite
+  title: A Description of the Hypocrite
+  slug: 71-a-description-of-the-hypocrite
+  uuid: 45a60d93-4f96-462b-b7ac-04e999b7ede2
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/proper-social-transaction
+  title: Proper Social Transaction
+  slug: 72-proper-social-transaction
+  uuid: 5deb92f2-5692-43f3-847a-ee692b3cbd39
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/taking-and-giving
+  title: Taking and Giving
+  slug: 73-taking-and-giving
+  uuid: 7c79719f-a79c-41d5-9145-c935714d3915
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/brotherhood
+  title: Brotherhood
+  slug: 74-brotherhood
+  uuid: d9d4b9e3-291d-4d69-9a06-78f4b0be8294
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/consultation
+  title: Consultation
+  slug: 75-consultation
+  uuid: 94039a1e-4279-4497-9c96-16a428b01738
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/forbearance
+  title: Forbearance
+  slug: 76-forbearance
+  uuid: 2e082394-639a-4d30-bd70-618b7afa053e
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/following-anothers-example
+  title: Following Another's Example
+  slug: 77-following-another-s-example
+  uuid: 5bb4cde8-b757-4dfd-8597-089a7a1205a0
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/pardon
+  title: Pardon
+  slug: 78-pardon
+  uuid: 2fc4d390-41f2-4597-bf51-632c261bc823
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/exhortation
+  title: Exhortation
+  slug: 79-exhortation
+  uuid: 7c9ff3e7-dee9-4aca-a732-0124053c10cd
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/advice-wasiyah
+  title: Advice (wasiyah)
+  slug: 80-advice-wasiyah
+  uuid: 5101bf1a-74ed-4bb2-9215-a128fa06d466
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/trustful-reliance
+  title: Trustful Reliance
+  slug: 81-trustful-reliance
+  uuid: 59b90b8c-7552-4c41-b092-7402a12589f5
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/respect-ones-brothers
+  title: Respect for One's Brothers
+  slug: 82-respect-for-one-s-brothers
+  uuid: 0028a2ff-e2f2-4fda-842b-267fe6e941d5
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/striving-and-discipline
+  title: Striving and Discipline
+  slug: 83-striving-and-discipline
+  uuid: 577c9a47-05e4-40ee-8671-d91f8bb9a960
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/contemplation-death
+  title: Contemplation of Death
+  slug: 84-contemplation-of-death
+  uuid: 401bfda5-5bfb-4979-b976-c540353e6a26
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/good-opinion
+  title: Good Opinion
+  slug: 85-good-opinion
+  uuid: f4d12cc8-1699-4e16-9d64-645c83b8cdb5
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/entrusting-oneself-allah
+  title: Entrusting Oneself to Allah
+  slug: 86-entrusting-oneself-to-allah
+  uuid: 3fbfbb92-2f2c-45b6-9032-4796771e9be9
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/certainty
+  title: Certainty
+  slug: 87-certainty
+  uuid: d180e192-2138-4449-b404-765ca07ade47
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/fear-and-hope
+  title: Fear and Hope
+  slug: 88-fear-and-hope
+  uuid: 02771f5a-8e94-4e10-90c1-13d13f43b716
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/contentment
+  title: Contentment
+  slug: 89-contentment
+  uuid: 9349f2d8-d811-4a84-ae5b-152eb3096ba1
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/affliction
+  title: Affliction
+  slug: 90-affliction
+  uuid: 9c5f42da-3346-41f0-83ac-e77dfbbae487
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/patience
+  title: Patience
+  slug: 91-patience
+  uuid: 9ecf6c18-ee9a-4c72-9296-b9be1c778b75
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/sorrow
+  title: Sorrow
+  slug: 92-sorrow
+  uuid: 36051438-e554-4966-9336-e22036150177
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/modesty
+  title: Modesty
+  slug: 93-modesty
+  uuid: 276b3a1d-ae7e-4617-9952-eb235c907eb9
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/gnosis-ma-rifah
+  title: Gnosis (ma 'rifah)
+  slug: 94-gnosis-ma-rifah
+  uuid: d805a293-ae82-43f9-bac2-f015ef4ec19a
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/love-allah
+  title: Love of Allah
+  slug: 95-love-of-allah
+  uuid: f0e2a54f-101d-4647-bb16-82fc02a9fdd1
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/love-sake-allah
+  title: Love for the Sake of Allah
+  slug: 96-love-for-the-sake-of-allah
+  uuid: 31930dc3-40d1-4684-bb88-374ac8c49dd9
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/yearning
+  title: Yearning
+  slug: 97-yearning
+  uuid: 428d6ac1-daf3-4d8a-abd3-fc84dd3987e8
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/wisdom
+  title: Wisdom
+  slug: 98-wisdom
+  uuid: b7469149-1e34-46ba-8cc1-07110addc492
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/making-claims
+  title: Making Claims
+  slug: 99-making-claims
+  uuid: 63cf9414-66ea-40de-b3fe-1eaf8ef7d03f
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/taking-heed
+  title: Taking Heed
+  slug: 100-taking-heed
+  uuid: 5b7a9df2-4389-43d4-9b0b-2071ddcbe968
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/contentedness
+  title: Contentedness
+  slug: 101-contentedness
+  uuid: 647417e5-c40b-4fbe-89ff-2f283621f645
+- source: :alislam
+  source_url: http://www.al-islam.org/lantern-of-the-path-imam-jafar-sadiq/slander
+  title: Slander
+  slug: 102-slander
+  uuid: 83cac503-0238-41d5-b7eb-85b11069de57
+---

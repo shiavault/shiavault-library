@@ -1,0 +1,34 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/jurisprudence-and-its-principles-ayatullah-murtadha-mutahhari
+author: Ayatullah Murtadha Mutahhari
+publisher: Tahrike Tarsile Qur'an
+translator: Salman Tawhidi
+title: Jurisprudence and Its Principles
+slug: jurisprudence-and-its-principles
+uuid: 5115e6ed-78c7-49eb-8dc1-605ed5a30060
+description: |
+  History and sources of jurisprudence, history of jurisprudents, as well
+  as methods, laws, and issues relating to jurisprudence.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-and-its-principles-ayatullah-murtadha-mutahhari/translators-introduction
+  title: Translator's Introduction
+  slug: 1-translator-s-introduction
+  uuid: 9a652453-c6b7-4337-8b8f-d1862303c767
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-and-its-principles-ayatullah-murtadha-mutahhari/principles-jurisprudence-usul-al-fiqh
+  title: The Principles of Jurisprudence (usul al-fiqh)
+  slug: 2-the-principles-of-jurisprudence-usul-al-fiqh
+  uuid: 3515abbb-cd90-4267-9fa6-8b8497be1950
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-and-its-principles-ayatullah-murtadha-mutahhari/jurisprudence-fiqh
+  title: Jurisprudence (fiqh)
+  slug: 3-jurisprudence-fiqh
+  uuid: 5abaddb0-a399-40c0-86d7-133f577dcf1d
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-and-its-principles-ayatullah-murtadha-mutahhari/translators-epilogue
+  title: Translator's Epilogue
+  slug: 4-translator-s-epilogue
+  uuid: 1731893f-513e-49f2-bacd-8d3a050a30b0
+---

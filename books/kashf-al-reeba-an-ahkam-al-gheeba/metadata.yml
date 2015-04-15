@@ -1,0 +1,51 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/kashf-ar-reeba-an-ahkam-al-gheeba-removing-doubt-from-gheeba-rulings
+author: Sheikh Taqi ad-Dīn Ibrahim son of Ali al-`Amili
+translator: Yasin T. Al-Jibouri
+title: Kashf Al-Reeba An Ahkam Al-Gheeba
+slug: kashf-al-reeba-an-ahkam-al-gheeba
+uuid: fb4fadca-8405-4354-aa33-855143c2c192
+description: |
+  A full-length text focusing completely on the topic of Gheebah
+  (backbiting). Using the Qur'an and aHadeeth it describes the different
+  types of Gheebah, makes distinction between the permissible and
+  impermissible Gheebah, explains the consequences of engaging in it and
+  describes methods of preventing ourselves from it.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/kashf-ar-reeba-an-ahkam-al-gheeba-removing-doubt-from-gheeba-rulings/publishers-preface
+  title: Publisher's Preface
+  slug: 1-publisher-s-preface
+  uuid: 5a0c5aea-35f0-41c6-99f1-554cd7f13985
+- source: :alislam
+  source_url: http://www.al-islam.org/kashf-ar-reeba-an-ahkam-al-gheeba-removing-doubt-from-gheeba-rulings/introducing-book-and-author
+  title: Introducing The Book And Author
+  slug: 2-introducing-the-book-and-author
+  uuid: 018efd11-c298-470c-9b8d-3be3404d5d5f
+- source: :alislam
+  source_url: http://www.al-islam.org/kashf-ar-reeba-an-ahkam-al-gheeba-removing-doubt-from-gheeba-rulings/why-people-backbite
+  title: Why People Backbite
+  slug: 3-why-people-backbite
+  uuid: 126791f7-30b0-4e44-9d08-b93579c9eace
+- source: :alislam
+  source_url: http://www.al-islam.org/kashf-ar-reeba-an-ahkam-al-gheeba-removing-doubt-from-gheeba-rulings/preventive-treatment-gheeba
+  title: Preventive Treatment of Gheeba
+  slug: 4-preventive-treatment-of-gheeba
+  uuid: 1ef5884c-99b9-4833-8946-73b0f60f9e35
+- source: :alislam
+  source_url: http://www.al-islam.org/kashf-ar-reeba-an-ahkam-al-gheeba-removing-doubt-from-gheeba-rulings/permissible-backbiting
+  title: Permissible Backbiting
+  slug: 5-permissible-backbiting
+  uuid: 8624dc85-a231-4de7-b501-cd96e98cd6b5
+- source: :alislam
+  source_url: http://www.al-islam.org/kashf-ar-reeba-an-ahkam-al-gheeba-removing-doubt-from-gheeba-rulings/contemplation-consequences
+  title: Contemplation on Consequences of Gheeba
+  slug: 6-contemplation-on-consequences-of-gheeba
+  uuid: f095708f-0abb-497c-b417-e98ea9d245c8
+- source: :alislam
+  source_url: http://www.al-islam.org/kashf-ar-reeba-an-ahkam-al-gheeba-removing-doubt-from-gheeba-rulings/removing-doubt-about-rulings
+  title: Removing Doubt About The Rulings Relevant To Backbiting
+  slug: 7-removing-doubt-about-the-rulings-relevant-to-backbiting
+  uuid: 77ba5914-4b51-43cc-a6dc-24a161371985
+---

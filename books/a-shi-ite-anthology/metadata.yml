@@ -1,0 +1,56 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/a-shiite-anthology-muhammad-husayn-tabatabai
+author: Allamah Sayyid Muhammad Husayn at-Tabataba'i
+publisher: Muhammadi Trust of Great Britain and Northern Ireland
+translator: William C. Chittick
+title: A Shi'ite Anthology
+slug: a-shi-ite-anthology
+uuid: 9c23d7af-35b5-4c16-a52f-4bbed60c24c6
+description: |
+  A collection of sayings, sermons, prayers and writings that cover the
+  three basic dimensions of Shi'ite tradition: 1. The Unity of God 2. The
+  political, social and moral teachings and 3. The spiritual life.
+  Translated by William Chittick, and Introduction by Seyyed Hossein Nasr.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-anthology-muhammad-husayn-tabatabai/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 6d5d1d68-1c31-463d-ad2e-7fd4d835ca98
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-anthology-muhammad-husayn-tabatabai/translators-introduction
+  title: Translator's Introduction
+  slug: 2-translator-s-introduction
+  uuid: da827e52-d661-47a5-8627-5119be100066
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-anthology-muhammad-husayn-tabatabai/foreword
+  title: Foreword
+  slug: 3-foreword
+  uuid: b5a30578-22a0-4f02-bcaa-6c275c6aedd2
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-anthology-muhammad-husayn-tabatabai/unity-god
+  title: On the Unity of God
+  slug: 4-on-the-unity-of-god
+  uuid: 51b865b1-6bc4-4980-a87e-1882bb87ad00
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-anthology-muhammad-husayn-tabatabai/ruler-and-society
+  title: The Ruler and Society
+  slug: 5-the-ruler-and-society
+  uuid: 55dc8d0f-2cd9-4046-80cf-3f5e0e4bba4c
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-anthology-muhammad-husayn-tabatabai/spiritual-life-prayer-and-supplication
+  title: 'The Spiritual Life: Prayer and Supplication'
+  slug: 6-the-spiritual-life-prayer-and-supplication
+  uuid: 9df2085d-7a86-4fd9-804f-a3c27fc4c295
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-anthology-muhammad-husayn-tabatabai/appendix-twelve-imams
+  title: 'Appendix: The Twelve Imams'
+  slug: 7-appendix-the-twelve-imams
+  uuid: cc66f0a9-b7c6-4dc0-9cda-fc1dd0e0b0b8
+- source: :alislam
+  source_url: http://www.al-islam.org/a-shiite-anthology-muhammad-husayn-tabatabai/bibliography
+  title: Bibliography
+  slug: 8-bibliography
+  uuid: 726ba1bc-16b2-4f70-8cae-08eec55c5075
+---

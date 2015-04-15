@@ -1,0 +1,81 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/society-and-history-ayatullah-murtadha-mutahhari
+author: Ayatullah Murtadha Mutahhari
+publisher: Ansariyan Publications - Qum
+title: Society and History
+slug: society-and-history
+uuid: 0bff42ba-e0a6-4261-a580-992c570f98f7
+description: |
+  This text authored by Martyr Ayatullah Murtadha Mutahhari serves to
+  present the Islamic approach to society and history. The author combined
+  these two areas of study as the discussion of the problems that deal
+  with society and history are closely related and this analysis reveals
+  Islam’s profoundness in dealing with various issues.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/society-and-history-ayatullah-murtadha-mutahhari/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: e2546e6f-a36a-4fc4-a4fb-be685a663f90
+- source: :alislam
+  source_url: http://www.al-islam.org/society-and-history-ayatullah-murtadha-mutahhari/what-society
+  title: What is Society?
+  slug: 2-what-is-society
+  uuid: a98837b7-d539-4e3b-bcd6-452c0252051d
+- source: :alislam
+  source_url: http://www.al-islam.org/society-and-history-ayatullah-murtadha-mutahhari/society-and-tradition
+  title: Society and Tradition
+  slug: 3-society-and-tradition
+  uuid: 58c5c786-e403-469f-b528-d27fc4757309
+- source: :alislam
+  source_url: http://www.al-islam.org/society-and-history-ayatullah-murtadha-mutahhari/social-divisions-and-polarization
+  title: Social Divisions and Polarization
+  slug: 4-social-divisions-and-polarization
+  uuid: e86c55b7-d561-45b4-9572-1bf0ad8e3425
+- source: :alislam
+  source_url: http://www.al-islam.org/society-and-history-ayatullah-murtadha-mutahhari/nature-society-homogeneity-or-heterogeneity
+  title: 'Nature of Society: Homogeneity or Heterogeneity?'
+  slug: 5-nature-of-society-homogeneity-or-heterogeneity
+  uuid: 3d9df4f9-8dd2-4801-9c29-56ac422b54e9
+- source: :alislam
+  source_url: http://www.al-islam.org/society-and-history-ayatullah-murtadha-mutahhari/societies-future
+  title: Societies of the Future
+  slug: 6-societies-of-the-future
+  uuid: 7aee8598-df05-4fde-8d4c-2e96370ba102
+- source: :alislam
+  source_url: http://www.al-islam.org/society-and-history-ayatullah-murtadha-mutahhari/what-history
+  title: What is History?
+  slug: 7-what-is-history
+  uuid: 6ec6c79d-dc3c-440f-a901-63531d3f01bc
+- source: :alislam
+  source_url: http://www.al-islam.org/society-and-history-ayatullah-murtadha-mutahhari/history-materialistic-nature
+  title: Is History Materialistic in Nature?
+  slug: 8-is-history-materialistic-in-nature
+  uuid: 03c81a31-2e9c-42ca-8799-fb20cc27ea42
+- source: :alislam
+  source_url: http://www.al-islam.org/society-and-history-ayatullah-murtadha-mutahhari/criticism-historical-materialism
+  title: Criticism of Historical Materialism
+  slug: 9-criticism-of-historical-materialism
+  uuid: 4d253532-e25a-4969-9382-f69accf3b296
+- source: :alislam
+  source_url: http://www.al-islam.org/society-and-history-ayatullah-murtadha-mutahhari/islam-and-historical-materialism
+  title: Islam and Historical Materialism
+  slug: 10-islam-and-historical-materialism
+  uuid: 80d9c9e7-d3dd-4f74-acd7-828733b9c213
+- source: :alislam
+  source_url: http://www.al-islam.org/society-and-history-ayatullah-murtadha-mutahhari/islams-philosophy-history
+  title: Islam's 'Philosophy' of History
+  slug: 11-islam-s-philosophy-of-history
+  uuid: 0d2219ad-7701-4315-9634-1345d9155006
+- source: :alislam
+  source_url: http://www.al-islam.org/society-and-history-ayatullah-murtadha-mutahhari/evolution-and-change-history
+  title: Evolution and Change in History
+  slug: 12-evolution-and-change-in-history
+  uuid: bea74ff2-6d88-4fbd-89d0-0cb280b80479
+- source: :alislam
+  source_url: http://www.al-islam.org/society-and-history-ayatullah-murtadha-mutahhari/note-publisher-book
+  title: Note by the Publisher of the Book
+  slug: 13-note-by-the-publisher-of-the-book
+  uuid: 6fd6c19d-3de6-4d24-ab51-7e0c584a1305
+---

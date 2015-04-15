@@ -1,0 +1,61 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/commentary-tafsir-suratul-jinn-makarim-shirazi
+author: Ayatullah al-`Uzma al-Hajj ash-Shaykh Nasir Makarim Shirazi
+publisher: Islamic Humanitarian Service (IHS)
+translator: Saleem Bhimji
+title: Commentary of Suratul Jinn
+slug: commentary-of-suratul-jinn
+uuid: 69c5c02d-e9f9-4e06-a682-607e26a53f5d
+description: |
+  In this book, the authors explain in detail the meaning, merits and
+  traditions related to Suratul Jinn. Among other things they discuss the
+  presence of believing and non-believing jinns and their belief in
+  Prophet Mohammad (S) and the Day of Judgment.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-tafsir-suratul-jinn-makarim-shirazi/biography-author
+  title: Biography of the Author
+  slug: 1-biography-of-the-author
+  uuid: 0b5e9f74-c31f-4e37-ad89-6cc8e1f283c9
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-tafsir-suratul-jinn-makarim-shirazi/arabic-text-suratul-jinn
+  title: Arabic Text of Suratul Jinn
+  slug: 2-arabic-text-of-suratul-jinn
+  uuid: eaae107c-9f75-486d-9c0c-195ef11595dc
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-tafsir-suratul-jinn-makarim-shirazi/contents-suratul-jinn
+  title: Contents of Suratul Jinn
+  slug: 3-contents-of-suratul-jinn
+  uuid: aa09b256-1641-4011-be27-84c4d2fa922d
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-tafsir-suratul-jinn-makarim-shirazi/merits-reciting-suratul-jinn
+  title: Merits of Reciting Suratul Jinn
+  slug: 4-merits-of-reciting-suratul-jinn
+  uuid: 43d53a65-086a-46f7-b9d5-19e0ae3ab5e1
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-tafsir-suratul-jinn-makarim-shirazi/%C2%A0occasion-revelation-suratul-jinn
+  title: " Occasion of Revelation of Suratul Jinn"
+  slug: 5-occasion-of-revelation-of-suratul-jinn
+  uuid: a5a81ea8-8a3a-42ff-b3ef-4eba93eba9ae
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-tafsir-suratul-jinn-makarim-shirazi/commentary-suratul-jinn
+  title: Commentary of Suratul Jinn
+  slug: 6-commentary-of-suratul-jinn
+  uuid: 93690eda-5c9e-4bba-ace1-514e842a7c0c
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-tafsir-suratul-jinn-makarim-shirazi/various-points
+  title: Various Points
+  slug: 7-various-points
+  uuid: 986c1c85-f7e0-4acd-956b-b31bda1c9f66
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-tafsir-suratul-jinn-makarim-shirazi/final-words-ayatullah-makarim-shirazi
+  title: Final Words by Ayatullah Makarim Shirazi
+  slug: 8-final-words-by-ayatullah-makarim-shirazi
+  uuid: 13bdca41-5060-4c3f-a694-c61454feff94
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-tafsir-suratul-jinn-makarim-shirazi/selection-ahadith-al-usul-al-kafi-concerning-jinn
+  title: Selection of Ahadith from Al-Usul Al-Kafi Concerning the Jinn
+  slug: 9-selection-of-ahadith-from-al-usul-al-kafi-concerning-the-jinn
+  uuid: 1dd81759-7493-4ae1-a24c-8c27297366dd
+---

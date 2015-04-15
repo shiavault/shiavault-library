@@ -1,0 +1,786 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi
+author: Ayatullah al-`Uzma al-Hajj ash-Shaykh Nasir Makarim Shirazi
+translator: Monir Shafiei
+title: One Hundred And Fifty Lessons For Life
+slug: one-hundred-and-fifty-lessons-for-life
+uuid: ff36441d-2d31-413e-a3a8-0d7b4a35a9f1
+description: |
+  In this wonderful book compiled by Ayatullah Nasir Makarim Shirazi, the
+  reader learns many beautiful and beneficial narrations from the Ahlul
+  Bayt (as) that teach us how to live a successful life based on the true
+  Sunnah of the Prophet (S). The short but powerful traditions found
+  within this short book serve as amazing examples of Islam's morals and
+  attributes for those who wish to know some of this religion by means of
+  a brief study. The original Arabic traditions are coupled with
+  translation, as well as eloquent descriptions for the benefit of the
+  reader.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/translator-dedication
+  title: Translator Dedication
+  slug: 1-translator-dedication
+  uuid: 7c2c8ef2-c31c-4007-8bae-e496125c47a9
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/contents-book
+  title: Contents of This Book
+  slug: 2-contents-of-this-book
+  uuid: efbd74bf-7a01-4fd1-b6b3-fb36db9b6315
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/biography-author
+  title: Biography of the Author
+  slug: 3-biography-of-the-author
+  uuid: 8d72beea-2b9b-45d2-b9ff-9807f4ecfe1b
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-thinking-reflection-meditation
+  title: 'Lesson one: Thinking, reflection, meditation'
+  slug: 4-lesson-one-thinking-reflection-meditation
+  uuid: 56346b27-7e9b-448b-ac78-8d87915923ac
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-two-measure-deliberation
+  title: 'Lesson Two: Measure of Deliberation'
+  slug: 5-lesson-two-measure-of-deliberation
+  uuid: 8e8558bc-2f5f-4f8f-bdee-73a533971083
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-three-what-about-souls-food
+  title: 'Lesson Three: What About the Soul''s Food?'
+  slug: 6-lesson-three-what-about-the-soul-s-food
+  uuid: 851dd373-139e-4e1f-8d1e-d702287c1bf7
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-four-role-pen
+  title: 'Lesson Four: Role of The Pen'
+  slug: 7-lesson-four-role-of-the-pen
+  uuid: 5aebe6f6-1e62-4154-b316-9e70d9fbe370
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-five-between-two-great
+  title: 'Lesson Five: Between Two Great Responsibilities'
+  slug: 8-lesson-five-between-two-great-responsibilities
+  uuid: 286cf0aa-9a7c-4652-85a3-e9f54aadc519
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-six-causes-destruction-society
+  title: 'Lesson Six: Causes for Destruction of a Society'
+  slug: 9-lesson-six-causes-for-destruction-of-a-society
+  uuid: c3132bfa-5a2a-473d-af77-a7d559ff3689
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-seven-indolence-and-poverty
+  title: 'Lesson Seven: Indolence and Poverty'
+  slug: 10-lesson-seven-indolence-and-poverty
+  uuid: 05aac7a0-a46a-4eb6-afd7-97ace17d6675
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-eight-rain-knowledge-hearts
+  title: 'Lesson Eight: Rain of Knowledge On Hearts'
+  slug: 11-lesson-eight-rain-of-knowledge-on-hearts
+  uuid: bcc0d389-9939-4854-bba2-cb0510d1c234
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-nine-source-arrogance
+  title: 'Lesson Nine: Source of Arrogance'
+  slug: 12-lesson-nine-source-of-arrogance
+  uuid: f6271f7d-fde4-4747-8fc2-d6deef89b9c3
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-ten-three-worthy-things-god
+  title: 'Lesson Ten: Three Worthy Things Before God'
+  slug: 13-lesson-ten-three-worthy-things-before-god
+  uuid: 61bf8d02-26e9-4cc4-a2b3-9f13a1df1e52
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-eleven-martyrdom-imam-husayn
+  title: 'Lesson Eleven: Martyrdom of Imam Husayn (a.s.)'
+  slug: 14-lesson-eleven-martyrdom-of-imam-husayn-a-s
+  uuid: 42d52152-5c27-4eef-bf26-4daaca983a5b
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-twelve-two-signs-real-muslim
+  title: 'Lesson Twelve: Two Signs of a Real Muslim'
+  slug: 15-lesson-twelve-two-signs-of-a-real-muslim
+  uuid: 1ef1e212-d54b-44fe-bc56-3dbb5ea30e66
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-thirteen-fire-anger
+  title: 'Lesson Thirteen: Fire of Anger'
+  slug: 16-lesson-thirteen-fire-of-anger
+  uuid: ee92dee7-8982-4f76-afff-d3b5ed04c422
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-fourteen-source-wealth
+  title: 'Lesson Fourteen: Source of Wealth'
+  slug: 17-lesson-fourteen-source-of-wealth
+  uuid: cc7b49a2-881a-4817-9c04-9a2bdf2ad37e
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-fifteen-worst-profession
+  title: 'Lesson Fifteen: The Worst Profession'
+  slug: 18-lesson-fifteen-the-worst-profession
+  uuid: 08c97f60-3e60-4b43-987b-f2e6088ab02d
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-sixteen-mastership-and-captivity
+  title: 'Lesson Sixteen: Mastership and Captivity'
+  slug: 19-lesson-sixteen-mastership-and-captivity
+  uuid: 432ff90b-3278-40d1-b916-724b388d754b
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-seventeen-hypocrisy-and-affectation
+  title: 'Lesson Seventeen: Hypocrisy and Affectation'
+  slug: 20-lesson-seventeen-hypocrisy-and-affectation
+  uuid: dd3f6b9d-2a7b-4c49-852b-886dd963e931
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-eighteen-envy
+  title: 'Lesson Eighteen: Envy'
+  slug: 21-lesson-eighteen-envy
+  uuid: 1f34d852-5d68-4ddf-9a13-a398c88ca488
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-nineteen-those-deprived-gods-mercy
+  title: 'Lesson Nineteen: Those deprived from God’s mercy'
+  slug: 22-lesson-nineteen-those-deprived-from-god-s-mercy
+  uuid: 718541c0-d8e7-46be-a002-0cb7bffad048
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-twenty-worst-friends
+  title: 'Lesson Twenty: The Worst Friends'
+  slug: 23-lesson-twenty-the-worst-friends
+  uuid: 493f093e-4f5f-43b4-a3ae-4ab4ae1d5813
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-twenty-one-completion-work
+  title: 'Lesson Twenty One: Completion of work'
+  slug: 24-lesson-twenty-one-completion-of-work
+  uuid: 5158fabc-c8fe-44d1-8ec2-62a4895d2cd4
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-twenty-two-everlasting-programs
+  title: 'Lesson twenty two: Everlasting Programs'
+  slug: 25-lesson-twenty-two-everlasting-programs
+  uuid: 26677a59-598f-4264-8eb9-43e2ab30eec3
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-twenty-three-most-severe-punishment
+  title: 'Lesson Twenty Three: The Most Severe Punishment'
+  slug: 26-lesson-twenty-three-the-most-severe-punishment
+  uuid: 475298c9-49f0-4d47-8420-49da3de44994
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-twenty-four-calamity-debt
+  title: 'Lesson Twenty Four: Calamity of Debt'
+  slug: 27-lesson-twenty-four-calamity-of-debt
+  uuid: ba7e83fa-17d0-4837-8e5a-191f84205b2e
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-twenty-five-healthy-social-life
+  title: 'Lesson Twenty Five: A Healthy Social Life'
+  slug: 28-lesson-twenty-five-a-healthy-social-life
+  uuid: 17c22097-d572-4b13-93c8-199e017043c3
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-twenty-six-key-misfortunes
+  title: 'Lesson Twenty Six: Key of Misfortunes'
+  slug: 29-lesson-twenty-six-key-of-misfortunes
+  uuid: 7745f8ef-6693-4c43-84d6-0c4f5866013e
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-twenty-seven-signs-people-paradise
+  title: 'Lesson Twenty Seven: Signs of the People of Paradise'
+  slug: 30-lesson-twenty-seven-signs-of-the-people-of-paradise
+  uuid: 8080ade5-55a4-4644-91fe-0ff29ee310e3
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-twenty-eight-signs-hypocrite
+  title: 'Lesson Twenty Eight: Signs of a Hypocrite'
+  slug: 31-lesson-twenty-eight-signs-of-a-hypocrite
+  uuid: 62eb4613-4120-400a-97f2-5ec58c4ab929
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-twenty-nine-counsel
+  title: 'Lesson Twenty Nine: Counsel'
+  slug: 32-lesson-twenty-nine-counsel
+  uuid: a0417b28-b583-4375-a7ff-a69e5c21029c
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-thirty-speech-and-silence
+  title: 'Lesson Thirty: Speech and Silence'
+  slug: 33-lesson-thirty-speech-and-silence
+  uuid: 359f96ba-cefa-437c-8489-97929a9ef12c
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-thirty-one-delight-forgiveness
+  title: 'Lesson Thirty One: Delight of Forgiveness'
+  slug: 34-lesson-thirty-one-delight-of-forgiveness
+  uuid: f56e12cd-ab1f-4433-a091-ea1da242f037
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-thirty-two-asceticism-its-real-sense
+  title: 'Lesson Thirty Two: Asceticism in its Real Sense'
+  slug: 35-lesson-thirty-two-asceticism-in-its-real-sense
+  uuid: 98366bf4-90d3-4603-bc2d-4aaffbe7eced
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-thirty-three-rank-those-who-refrain
+  title: 'Lesson Thirty Three: The rank of those who refrain from sins'
+  slug: 36-lesson-thirty-three-the-rank-of-those-who-refrain-from-sins
+  uuid: 714c5dbe-1a71-4e9c-837b-861b1af2baa1
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-thirty-four-best-people
+  title: 'Lesson Thirty Four: The Best People'
+  slug: 37-lesson-thirty-four-the-best-people
+  uuid: c61fd14c-5a8f-4376-9627-7901d841c3ed
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-thirty-five-worship-free-men
+  title: 'Lesson Thirty Five: Worship of Free Men'
+  slug: 38-lesson-thirty-five-worship-of-free-men
+  uuid: d1d02481-09b5-45a0-984c-8771310f9988
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-thirty-sixwhat-breaks-mans-back
+  title: Lesson Thirty Six:What Breaks Man’s Back
+  slug: 39-lesson-thirty-six-what-breaks-man-s-back
+  uuid: c5dcf816-4082-4e81-bad9-6cc6b52d5b16
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-thirty-seven-be-clean
+  title: 'Lesson Thirty Seven: Be clean'
+  slug: 40-lesson-thirty-seven-be-clean
+  uuid: 0aa84793-b4af-4d8c-a49e-e8cb365f8689
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-thirty-eight-consequences-ignorance
+  title: 'Lesson Thirty Eight: Consequences of Ignorance'
+  slug: 41-lesson-thirty-eight-consequences-of-ignorance
+  uuid: b1130d98-8c53-46e0-8cff-1cbc4ba3f216
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-thirty-nine-foundations-guidance
+  title: 'Lesson Thirty Nine: Foundations of Guidance'
+  slug: 42-lesson-thirty-nine-foundations-of-guidance
+  uuid: a3167fa1-5d29-4d65-a87d-26fb6717d843
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-forty-mourning
+  title: 'Lesson Forty: Mourning'
+  slug: 43-lesson-forty-mourning
+  uuid: f3f9991a-37eb-4193-abec-b2ed2c9351c1
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-forty-one-examine-yourself-everyday
+  title: 'Lesson Forty One: Examine Yourself Everyday'
+  slug: 44-lesson-forty-one-examine-yourself-everyday
+  uuid: 2c62cea5-7821-46a4-a4b9-4194c293a5f6
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-forty-two-belief-stronger-iron
+  title: 'Lesson Forty Two: Belief is Stronger than Iron'
+  slug: 45-lesson-forty-two-belief-is-stronger-than-iron
+  uuid: 63f2ea62-75e0-4be0-b22b-9ce1d508629f
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-forty-three-reality-unity-and-divine
+  title: 'Lesson Forty Three: Reality of unity and divine justice'
+  slug: 46-lesson-forty-three-reality-of-unity-and-divine-justice
+  uuid: 2ae40bcf-c7f8-4e04-9c02-3051532c0bce
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-forty-four-some-signs-belief
+  title: 'Lesson Forty Four: Some Signs of Belief'
+  slug: 47-lesson-forty-four-some-signs-of-belief
+  uuid: 9653b80c-fcb6-4309-8f76-a000f67ec3b3
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-forty-five-world-not-final-purpose
+  title: 'Lesson Forty Five: World Is Not The Final Purpose, Rather It Is A Means'
+  slug: 48-lesson-forty-five-world-is-not-the-final-purpose-rather-it-is-a-means
+  uuid: b7e894f5-ad65-4291-ace0-deb0dd58e662
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-forty-six-man-what-your-price
+  title: 'Lesson Forty Six: Man, what is your price?'
+  slug: 49-lesson-forty-six-man-what-is-your-price
+  uuid: 6ddc550f-809a-4abf-af26-75c2f3519ec0
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-forty-seven-truth-and-falsehood
+  title: 'Lesson Forty Seven: Truth and Falsehood'
+  slug: 50-lesson-forty-seven-truth-and-falsehood
+  uuid: 0caa5831-0943-41b8-b0cc-ea82239a5d0e
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-forty-eight-most-valuable-heritage
+  title: 'Lesson Forty Eight: Most valuable heritage of Arab'
+  slug: 51-lesson-forty-eight-most-valuable-heritage-of-arab
+  uuid: 499965e0-7e53-45e3-abfe-e45f73533027
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-forty-nine-those-who-defraud-and
+  title: 'Lesson Forty Nine: Those who Defraud and Cheat'
+  slug: 52-lesson-forty-nine-those-who-defraud-and-cheat
+  uuid: 4429c8c2-768b-499f-90d9-c39be04ee3f1
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-fifty-slander
+  title: 'Lesson Fifty: Slander'
+  slug: 53-lesson-fifty-slander
+  uuid: c567b650-a196-4d49-8fb9-9eea71853a01
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-fifty-one-signs-oppressor
+  title: 'Lesson Fifty One: Signs of an Oppressor'
+  slug: 54-lesson-fifty-one-signs-of-an-oppressor
+  uuid: 87c5ffa2-469e-49a8-bb1d-d05c3c70057d
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-fifty-two-there-no-incurable-disease
+  title: 'Lesson Fifty Two: There is no incurable disease'
+  slug: 55-lesson-fifty-two-there-is-no-incurable-disease
+  uuid: 18d39e58-a32e-4ffa-9794-a6b2e37d3d25
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-fifty-three-why-are-favors-lost
+  title: 'Lesson Fifty Three: Why are Favors Lost?'
+  slug: 56-lesson-fifty-three-why-are-favors-lost
+  uuid: cde29769-ce8c-49b9-bc47-6b8105ec5749
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-fifty-four-martyrdom-and-purity
+  title: 'Lesson Fifty Four: Martyrdom and Purity'
+  slug: 57-lesson-fifty-four-martyrdom-and-purity
+  uuid: 7a0a46d4-12bd-4bab-91aa-09cd9a4a6f1f
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-fifty-five-self-sacrificing-lovers
+  title: 'Lesson Fifty Five: Self Sacrificing Lovers'
+  slug: 58-lesson-fifty-five-self-sacrificing-lovers
+  uuid: 117cb466-977f-4e73-bdfa-653f59a013ba
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-fifty-six-wise-and-fool
+  title: 'Lesson Fifty Six: The Wise and The Fool'
+  slug: 59-lesson-fifty-six-the-wise-and-the-fool
+  uuid: a41f8eee-0e7a-4ab9-b9b8-adfd0aa6cc62
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-fifty-seven-real-religious-men-are
+  title: 'Lesson Fifty Seven: The Real Religious Men Are Few'
+  slug: 60-lesson-fifty-seven-the-real-religious-men-are-few
+  uuid: 2aa4e0a3-7cf4-46a2-a523-481cf2003940
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-fifty-eight-justice-among-children
+  title: 'Lesson Fifty Eight: Justice Among Children'
+  slug: 61-lesson-fifty-eight-justice-among-children
+  uuid: 6f5ce3ba-9276-4413-8668-51cfcbbb63e9
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-fifty-nine-you-are-always-being
+  title: 'Lesson Fifty Nine: You Are Always Being Watched'
+  slug: 62-lesson-fifty-nine-you-are-always-being-watched
+  uuid: 292f71cc-8fec-4edd-bac5-0335a5a2953c
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-sixty-neither-flattery-nor-envy
+  title: 'Lesson Sixty: Neither Flattery, Nor Envy'
+  slug: 63-lesson-sixty-neither-flattery-nor-envy
+  uuid: 50b7c987-44d7-4aff-b0ac-50625467027b
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-sixty-one-help-your-brothers
+  title: 'Lesson Sixty One: Help Your Brothers'
+  slug: 64-lesson-sixty-one-help-your-brothers
+  uuid: 2001227b-660d-462b-98c7-ef88ac777f31
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-sixty-two-do-not-dwell-past
+  title: 'Lesson Sixty Two: Do Not Dwell On The Past'
+  slug: 65-lesson-sixty-two-do-not-dwell-on-the-past
+  uuid: d1032fbf-f487-478c-98ab-e896be79fc89
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-sixty-three-universality-islam
+  title: 'Lesson Sixty Three: The Universality of Islam'
+  slug: 66-lesson-sixty-three-the-universality-of-islam
+  uuid: 03999f72-ce46-455a-ac3f-85921ca300f1
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-sixty-four-do-not-belittle-any-sin
+  title: 'Lesson Sixty Four: Do Not Belittle Any Sin!'
+  slug: 67-lesson-sixty-four-do-not-belittle-any-sin
+  uuid: 669ed4a5-7a31-4ec4-a259-86b91cd22399
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-sixty-five-excellence-scholar
+  title: 'Lesson Sixty Five: Excellence of a Scholar'
+  slug: 68-lesson-sixty-five-excellence-of-a-scholar
+  uuid: 8a4171c7-5480-482a-b492-9c7dcd9ad5fd
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-sixty-six-mutual-rights
+  title: 'Lesson Sixty Six: Mutual Rights'
+  slug: 69-lesson-sixty-six-mutual-rights
+  uuid: aff41331-1598-48e3-a4cf-6f8c9135fe14
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-sixty-seven-obedience-less-costly
+  title: 'Lesson Sixty Seven: Obedience Is Less Costly'
+  slug: 70-lesson-sixty-seven-obedience-is-less-costly
+  uuid: 60ea9e18-286a-42a8-a371-08a8229be7c2
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-sixty-eight-world-market
+  title: 'Lesson Sixty Eight: The World Is A Market'
+  slug: 71-lesson-sixty-eight-the-world-is-a-market
+  uuid: a20a2380-d2bc-4ec0-b49b-70434f3ebbf8
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-sixty-nine-most-dignified-people
+  title: 'Lesson Sixty Nine: The Most Dignified People'
+  slug: 72-lesson-sixty-nine-the-most-dignified-people
+  uuid: 95627735-1b80-4d24-a590-d7b57f824cc1
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-seventy-three-basic-social
+  title: 'Lesson Seventy: Three Basic Social Principles'
+  slug: 73-lesson-seventy-three-basic-social-principles
+  uuid: acd0720f-56be-45bd-9b1c-abc7bb616a0d
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-seventy-one-hastiness-and
+  title: 'Lesson Seventy One: Hastiness And Precipitance'
+  slug: 74-lesson-seventy-one-hastiness-and-precipitance
+  uuid: 88b69e48-8176-4b03-a45b-194de0ebcbef
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-seventy-two-true-asceticism
+  title: 'Lesson Seventy Two: True Asceticism'
+  slug: 75-lesson-seventy-two-true-asceticism
+  uuid: 6874a728-37b7-42bb-a704-55da779d030a
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-seventy-three-trial-dignity
+  title: 'Lesson Seventy Three: Trial Of Dignity'
+  slug: 76-lesson-seventy-three-trial-of-dignity
+  uuid: e74c06d9-bf4d-4ee2-8724-d312542c0bab
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-seventy-four-correct-program-world
+  title: 'Lesson Seventy Four: Correct Program For World And Hereafter'
+  slug: 77-lesson-seventy-four-correct-program-for-world-and-hereafter
+  uuid: fba50040-f29a-4946-85ea-1ab32c8d3481
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-seventy-five-effect-sin
+  title: 'Lesson Seventy Five: Effect Of Sin'
+  slug: 78-lesson-seventy-five-effect-of-sin
+  uuid: faf8eeda-24d4-48b8-b040-176f27faa026
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-seventy-six-shias-and-divine
+  title: 'Lesson Seventy Six: Shi’as And Divine Bounties'
+  slug: 79-lesson-seventy-six-shi-as-and-divine-bounties
+  uuid: c1cd2cc7-fd4b-4780-a341-40cf0a9c639f
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-seventy-seven-whom-we-shall-consult
+  title: 'Lesson Seventy Seven: With Whom We Shall Consult?'
+  slug: 80-lesson-seventy-seven-with-whom-we-shall-consult
+  uuid: 0d34c1b6-6031-4867-bd27-2dbae5ab287d
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-seventy-eight-best-favor
+  title: 'Lesson Seventy Eight: The Best Favor'
+  slug: 81-lesson-seventy-eight-the-best-favor
+  uuid: f40fa413-3917-43d3-9007-ed9206ce1788
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-seventy-nine-hidden-imam
+  title: 'Lesson Seventy Nine: A Hidden Imam'
+  slug: 82-lesson-seventy-nine-a-hidden-imam
+  uuid: 07115b11-34c3-49d1-bd44-bd4511cc17d6
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-eighty-do-not-listen-all-utterances
+  title: 'Lesson Eighty: Do Not Listen To All Utterances!'
+  slug: 83-lesson-eighty-do-not-listen-to-all-utterances
+  uuid: 0be98ee2-e740-40e7-9cbe-76989d95df15
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-eighty-one-devilish-people
+  title: 'Lesson Eighty One: Devilish People'
+  slug: 84-lesson-eighty-one-devilish-people
+  uuid: f60c5757-9b59-461b-969a-3c3034977de0
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-eighty-two-real-feast
+  title: 'Lesson Eighty Two: Real Feast'
+  slug: 85-lesson-eighty-two-real-feast
+  uuid: 364012a2-3ae0-49b5-bdc1-f8db9f60be1e
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-eighty-three-what-has-real-value
+  title: 'Lesson Eighty Three: What Has Real Value'
+  slug: 86-lesson-eighty-three-what-has-real-value
+  uuid: 7cedf9cb-e561-49d9-83ed-30b7a721fa25
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-eighty-four-two-things-cause
+  title: 'Lesson Eighty Four: Two Things Cause Destruction Of People'
+  slug: 87-lesson-eighty-four-two-things-cause-destruction-of-people
+  uuid: 0861ceb6-6d4b-4bed-a255-a7e2ad8a0ecc
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-eighty-five-good-deed-never-small
+  title: 'Lesson Eighty Five: A Good Deed Is Never Small'
+  slug: 88-lesson-eighty-five-a-good-deed-is-never-small
+  uuid: f9c004c0-958c-47ab-adfc-1683c424482e
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-eighty-six-sins-and-apology
+  title: 'Lesson Eighty Six: Sins And Apology'
+  slug: 89-lesson-eighty-six-sins-and-apology
+  uuid: 273c4fc3-6b00-4389-a578-c6adbb777522
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-eighty-seven-worst-method-life
+  title: 'Lesson Eighty Seven: The Worst Method Of Life'
+  slug: 90-lesson-eighty-seven-the-worst-method-of-life
+  uuid: 5a256370-74d1-46b0-a1fa-79625b271444
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-eighty-eight-our-promises-are-our
+  title: 'Lesson Eighty Eight: Our Promises Are Our Debts'
+  slug: 91-lesson-eighty-eight-our-promises-are-our-debts
+  uuid: 08c7d6e4-997b-4cb4-be38-b22ef1f19508
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-eighty-nine-illegitimate-property
+  title: 'Lesson Eighty Nine: Illegitimate Property'
+  slug: 92-lesson-eighty-nine-illegitimate-property
+  uuid: c7f86615-e42f-4330-b458-901f6545cef1
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-ninety-be-self-sufficient
+  title: 'Lesson Ninety: Be Self-Sufficient'
+  slug: 93-lesson-ninety-be-self-sufficient
+  uuid: 48370e60-3b3e-41d7-b580-9572508a833a
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-ninety-one-woe-unto-such-person
+  title: 'Lesson Ninety One: Woe Unto Such Person!'
+  slug: 94-lesson-ninety-one-woe-unto-such-person
+  uuid: f93a3409-5a4a-4a1c-89d9-29e0ee6da1b8
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-ninety-two-sinful-ways-solve-nothing
+  title: 'Lesson Ninety Two: Sinful Ways Solve Nothing!'
+  slug: 95-lesson-ninety-two-sinful-ways-solve-nothing
+  uuid: 9a80e9d3-6b6e-44c8-834e-87c3a172c607
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-ninety-three-self-conceited
+  title: 'Lesson Ninety Three: The Self-Conceited!'
+  slug: 96-lesson-ninety-three-the-self-conceited
+  uuid: 3243a4d8-2582-4b64-a442-6a71acfb6a80
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-ninety-four-nearer-kinsfolk
+  title: 'Lesson Ninety Four: Nearer Kinsfolk'
+  slug: 97-lesson-ninety-four-nearer-kinsfolk
+  uuid: 569551ec-efd7-4579-bd29-6b1314ecfefa
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-ninety-five-throwing-habit
+  title: 'Lesson Ninety Five: Throwing Off A Habit'
+  slug: 98-lesson-ninety-five-throwing-off-a-habit
+  uuid: b101e04d-96b7-43e4-84d8-04c7f7ad2cb7
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-ninety-six-epic-karbala
+  title: 'Lesson Ninety Six: Epic Of Karbala'
+  slug: 99-lesson-ninety-six-epic-of-karbala
+  uuid: 6a320c12-a003-4cb4-a8e4-7732f6225707
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-ninety-seven-who-wise
+  title: 'Lesson Ninety Seven: Who Is Wise?'
+  slug: 100-lesson-ninety-seven-who-is-wise
+  uuid: fac902e0-17d6-48ef-8684-5326cf06e451
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-ninety-eight-cause-enmity
+  title: 'Lesson Ninety Eight: Cause Of Enmity'
+  slug: 101-lesson-ninety-eight-cause-of-enmity
+  uuid: 01631aa1-b1b3-4986-9a3f-790ffc03a34f
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-ninety-nine-zealous
+  title: 'Lesson Ninety Nine: The Zealous'
+  slug: 102-lesson-ninety-nine-the-zealous
+  uuid: 54e31d20-49b8-4a30-b8c3-77278ae6834d
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-believer-useful
+  title: 'Lesson One Hundred: The Believer is Useful'
+  slug: 103-lesson-one-hundred-the-believer-is-useful
+  uuid: 63d6b719-1f2b-4f2d-94eb-eae1bbb51478
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-one-best-hands
+  title: 'Lesson One Hundred One: The Best Hands'
+  slug: 104-lesson-one-hundred-one-the-best-hands
+  uuid: 15f94585-f110-465e-be3c-974a9cdd72e8
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-two-worse-death
+  title: 'Lesson One Hundred Two: Worse Than Death'
+  slug: 105-lesson-one-hundred-two-worse-than-death
+  uuid: c89aa68b-3b6f-4a90-9df2-a5eb1eff21f9
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-three-believers-and
+  title: 'Lesson One Hundred Three: Believers And Hypocrites'
+  slug: 106-lesson-one-hundred-three-believers-and-hypocrites
+  uuid: 14e645b2-dddd-4400-b64f-f25fa4d5e3be
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-four-best-heritage
+  title: 'Lesson One Hundred Four: The Best Heritage'
+  slug: 107-lesson-one-hundred-four-the-best-heritage
+  uuid: 89b357a4-ac54-4754-8a5b-5e722346f6d8
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-five-respect-freedom
+  title: 'Lesson One Hundred Five: Respect Of Freedom Of Thought'
+  slug: 108-lesson-one-hundred-five-respect-of-freedom-of-thought
+  uuid: 89b5856e-d6b8-4c9c-9f2c-eec964494738
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-six-six-flaws-not-found
+  title: 'Lesson One Hundred Six: Six Flaws Not Found In Believers'
+  slug: 109-lesson-one-hundred-six-six-flaws-not-found-in-believers
+  uuid: 09a8f82f-b831-437c-abf2-5ee57657ac33
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-seven-do-not-sever-all
+  title: 'Lesson One Hundred Seven: Do Not Sever All Relations With God'
+  slug: 110-lesson-one-hundred-seven-do-not-sever-all-relations-with-god
+  uuid: b592d26c-dd2d-419b-9009-8fb629dc1d7f
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-eight-true-worship
+  title: 'Lesson One Hundred Eight: True Worship'
+  slug: 111-lesson-one-hundred-eight-true-worship
+  uuid: 1fdca786-d74f-4e9c-9248-843ba3a3d07b
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-nine-do-not-forget-your
+  title: 'Lesson One Hundred Nine: Do Not Forget Your Own Faults'
+  slug: 112-lesson-one-hundred-nine-do-not-forget-your-own-faults
+  uuid: c7781a97-adbf-4885-853c-b0188eeceadd
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-ten-great-torment
+  title: 'Lesson One Hundred Ten: Great Torment'
+  slug: 113-lesson-one-hundred-ten-great-torment
+  uuid: 60cdd69c-5331-4fa3-8d1f-49a7922cee04
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-eleven-holy-quran
+  title: 'Lesson one Hundred Eleven: The Holy Quran is Evergreen'
+  slug: 114-lesson-one-hundred-eleven-the-holy-quran-is-evergreen
+  uuid: e4f61a56-6be2-451b-a531-d01a9210881a
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-twelve-beware-sensuality
+  title: 'Lesson One Hundred Twelve: Beware Of Sensuality'
+  slug: 115-lesson-one-hundred-twelve-beware-of-sensuality
+  uuid: b8671f1d-b347-49f3-ae75-c64991878e2b
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-thirteen-only-way
+  title: 'Lesson One Hundred Thirteen: The Only Way Of Proximity To Allah'
+  slug: 116-lesson-one-hundred-thirteen-the-only-way-of-proximity-to-allah
+  uuid: 2de271c7-d801-44e0-bbdb-af9884968402
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-fourteen-ill-gotten
+  title: 'Lesson One Hundred Fourteen: Ill-Gotten Wealth'
+  slug: 117-lesson-one-hundred-fourteen-ill-gotten-wealth
+  uuid: 656a07bc-5d0a-41d6-8c15-e7eccea2197d
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-fifteen-most-truthful
+  title: 'Lesson One Hundred Fifteen: The Most Truthful And Wise'
+  slug: 118-lesson-one-hundred-fifteen-the-most-truthful-and-wise
+  uuid: 049ddb55-06cc-4e9f-adf4-79b12f36260e
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-sixteen-simple-life-and
+  title: 'Lesson One Hundred Sixteen: Simple Life And Cooperation In House-Keeping'
+  slug: 119-lesson-one-hundred-sixteen-simple-life-and-cooperation-in-house-keeping
+  uuid: 56bc8b4b-92c3-472a-8af4-3ee7aa0fc521
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-seventeen-one-hour
+  title: 'Lesson One Hundred Seventeen: One Hour Of Justice'
+  slug: 120-lesson-one-hundred-seventeen-one-hour-of-justice
+  uuid: 7760ac4b-6671-47ac-8bf2-ad37bc69b5af
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-eighteen-real-physician
+  title: 'Lesson One Hundred Eighteen: Real Physician'
+  slug: 121-lesson-one-hundred-eighteen-real-physician
+  uuid: 51e412db-5c3d-47be-a2a7-59507c5d3d35
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-nineteen-successors
+  title: 'Lesson One Hundred Nineteen: Successors Of The Prophet'
+  slug: 122-lesson-one-hundred-nineteen-successors-of-the-prophet
+  uuid: bbb57483-be1b-4c9e-ab6f-b400786d350c
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-twenty-sinful-feast
+  title: 'Lesson One Hundred Twenty: Sinful Feast'
+  slug: 123-lesson-one-hundred-twenty-sinful-feast
+  uuid: 53572c16-90cf-43be-b49d-2dd343c3f580
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-twenty-one-do-productive
+  title: 'Lesson One Hundred Twenty One: Do Productive Works'
+  slug: 124-lesson-one-hundred-twenty-one-do-productive-works
+  uuid: 94d61917-1a8c-483a-8223-d3495ad9e7b3
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-twenty-two-lifespan
+  title: 'Lesson One Hundred Twenty Two: Lifespan'
+  slug: 125-lesson-one-hundred-twenty-two-lifespan
+  uuid: bc954aed-f3bf-41d2-a8e1-f9818bdb1a55
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-twenty-three-cooperation
+  title: 'Lesson One Hundred Twenty Three: Cooperation With Satan!'
+  slug: 126-lesson-one-hundred-twenty-three-cooperation-with-satan
+  uuid: 5cfb7136-2b04-4766-9df7-8d1feb172ad9
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-twenty-four-take-counsel
+  title: 'Lesson One Hundred Twenty Four: Take Counsel To Be Guided!'
+  slug: 127-lesson-one-hundred-twenty-four-take-counsel-to-be-guided
+  uuid: 074152f6-6743-443b-a884-66616d90095b
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-twenty-five-salam
+  title: 'Lesson One Hundred Twenty Five: Salam, Islamic Salutation'
+  slug: 128-lesson-one-hundred-twenty-five-salam-islamic-salutation
+  uuid: d7d50152-94c1-458d-8e9e-b36f10b078b3
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-twenty-six-non
+  title: 'Lesson One Hundred Twenty Six: Non Conformity Of Belief With Action'
+  slug: 129-lesson-one-hundred-twenty-six-non-conformity-of-belief-with-action
+  uuid: dd233b38-2de9-4dca-9dff-1336e044cc55
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-twenty-seven-divine
+  title: 'Lesson One Hundred Twenty Seven: Divine Chastisement'
+  slug: 130-lesson-one-hundred-twenty-seven-divine-chastisement
+  uuid: d7f036dd-4cec-4a75-b7e4-c87c99e78b68
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-twenty-eight-forgotten
+  title: 'Lesson One Hundred Twenty Eight: A Forgotten Reality'
+  slug: 131-lesson-one-hundred-twenty-eight-a-forgotten-reality
+  uuid: 90d03ef2-b8cf-4465-9402-8d3a30534494
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-twenty-nine-place
+  title: 'Lesson One Hundred Twenty Nine: Place Of Knowledge And Wisdom'
+  slug: 132-lesson-one-hundred-twenty-nine-place-of-knowledge-and-wisdom
+  uuid: 516f22fa-e177-495a-af18-115b25175f59
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-thirty-heavy-duties-imam
+  title: 'Lesson One Hundred Thirty: Heavy Duties Of Imam'
+  slug: 133-lesson-one-hundred-thirty-heavy-duties-of-imam
+  uuid: e1723df5-4b66-450c-a810-fc58f63b8f1e
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-thirty-one-piety-opens
+  title: 'Lesson One Hundred Thirty One: Piety Opens All Doors'
+  slug: 134-lesson-one-hundred-thirty-one-piety-opens-all-doors
+  uuid: 3968c0a6-013e-48ec-a181-c3183d171f8d
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-thirty-two-beware-mean
+  title: 'Lesson One Hundred Thirty Two: Beware Of Mean People!'
+  slug: 135-lesson-one-hundred-thirty-two-beware-of-mean-people
+  uuid: a8b1a9e4-2c39-4b27-a0e4-6c0b36496d83
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-thirty-three-greater
+  title: 'Lesson One Hundred Thirty Three: Greater Jihad'
+  slug: 136-lesson-one-hundred-thirty-three-greater-jihad
+  uuid: 80d6d3ac-d271-4255-92a6-ffb167279d40
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-thirty-four-occultation
+  title: 'Lesson One Hundred Thirty Four: Occultation Of Imam Al- Mahdi (a.s.)'
+  slug: 137-lesson-one-hundred-thirty-four-occultation-of-imam-al-mahdi-a-s
+  uuid: 85de69b6-e70c-4ec0-bbc9-ee219d5a82f7
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-thirty-five-source-evils
+  title: 'Lesson One Hundred Thirty Five: Source Of Evils'
+  slug: 138-lesson-one-hundred-thirty-five-source-of-evils
+  uuid: f577b985-0849-4025-8021-bf3553f7a1b4
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-thirty-six-fulfilment
+  title: 'Lesson One Hundred Thirty Six: Fulfilment of Obligations'
+  slug: 139-lesson-one-hundred-thirty-six-fulfilment-of-obligations
+  uuid: ab7d2b6d-0da9-4af8-95f1-b22eeeab100f
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-thirty-seven-inhabitants
+  title: 'Lesson One Hundred Thirty Seven: Inhabitants Of Stars'
+  slug: 140-lesson-one-hundred-thirty-seven-inhabitants-of-stars
+  uuid: ee66a11c-9ef4-4f6b-9587-163aebf96c1e
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-thirty-eight-holy-quran
+  title: 'Lesson One Hundred Thirty Eight: Holy Qur’an And The Law Of Gravity'
+  slug: 141-lesson-one-hundred-thirty-eight-holy-qur-an-and-the-law-of-gravity
+  uuid: d07f7c62-8d15-407d-b21c-a0ffa34c72d3
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-thirty-nine-mystery
+  title: 'Lesson One Hundred Thirty Nine: Mystery Of Mountains!'
+  slug: 142-lesson-one-hundred-thirty-nine-mystery-of-mountains
+  uuid: b47951ff-c463-48af-9856-639cf43cec62
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-forty-microscopic
+  title: 'Lesson One Hundred Forty: Microscopic Creatures'
+  slug: 143-lesson-one-hundred-forty-microscopic-creatures
+  uuid: d76507ff-b0b7-478a-a8c2-1eddb6d3621f
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-forty-one-only-name
+  title: 'Lesson One Hundred Forty One: Only A Name From Islam'
+  slug: 144-lesson-one-hundred-forty-one-only-a-name-from-islam
+  uuid: 9bc0f160-e723-4181-835c-96530680b791
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-forty-two-criterion
+  title: 'Lesson One Hundred Forty Two: Criterion For Assessment Of Intellect And
+    Ignorance'
+  slug: 145-lesson-one-hundred-forty-two-criterion-for-assessment-of-intellect-and-ignorance
+  uuid: 64b2642c-6a5b-4fea-9626-6429d1323182
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-forty-three-higher-favor
+  title: 'Lesson One Hundred Forty Three: Higher Than Favor'
+  slug: 146-lesson-one-hundred-forty-three-higher-than-favor
+  uuid: 250b2b46-6e01-4203-a481-02dc94398d13
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-forty-four-revival
+  title: 'Lesson One Hundred Forty Four: Revival Of Doctrine Of The Prophet’s Household'
+  slug: 147-lesson-one-hundred-forty-four-revival-of-doctrine-of-the-prophet-s-household
+  uuid: e747e538-8639-4357-85dd-4871f0f6404d
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-forty-five-trust-respect
+  title: 'Lesson One Hundred Forty Five: Trust In Respect Of Keeping Secrets'
+  slug: 148-lesson-one-hundred-forty-five-trust-in-respect-of-keeping-secrets
+  uuid: 738c6a6f-9490-41e0-baf8-61d91596f7fd
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-forty-six-signs-believer
+  title: 'Lesson One Hundred Forty Six: Signs Of A Believer'
+  slug: 149-lesson-one-hundred-forty-six-signs-of-a-believer
+  uuid: 8dcd701c-0767-402f-9073-67766f7db558
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-forty-seven-first
+  title: 'Lesson One Hundred Forty Seven: First Prerequisite For Any Work'
+  slug: 150-lesson-one-hundred-forty-seven-first-prerequisite-for-any-work
+  uuid: 2bb970b8-8f3d-4ade-951f-13498040c8fe
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-forty-eight-importance
+  title: 'Lesson One Hundred Forty Eight: Importance of A Guest'
+  slug: 151-lesson-one-hundred-forty-eight-importance-of-a-guest
+  uuid: e048220f-0a69-4839-9304-a3e3d260192b
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-forty-nine-respect-and
+  title: 'Lesson One Hundred Forty Nine: Respect And Affection'
+  slug: 152-lesson-one-hundred-forty-nine-respect-and-affection
+  uuid: 45eab6dc-c2fd-4c7c-aa59-266d62f08f6f
+- source: :alislam
+  source_url: http://www.al-islam.org/one-hundred-and-fifty-lessons-life-nasir-makarim-shirazi/lesson-one-hundred-fifty-provide-yourself
+  title: 'Lesson One Hundred Fifty: Provide For Yourself In The Next World In Advance'
+  slug: 153-lesson-one-hundred-fifty-provide-for-yourself-in-the-next-world-in-advance
+  uuid: 67f7f3ff-661f-4549-b0ea-f4f20e33e0c5
+---

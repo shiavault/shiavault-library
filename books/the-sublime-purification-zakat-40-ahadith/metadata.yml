@@ -1,0 +1,29 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/forty-ahadith-on-zakat
+publisher: The World Federation of Khoja Shia Ithna-Asheri Muslim Communities
+compiler: Muhammad Reza Tajri
+translator: Muhammad Reza Tajri
+title: 'The Sublime Purification: Zakat, 40 Ahadith'
+slug: the-sublime-purification-zakat-40-ahadith
+uuid: bca9c612-6701-4328-a127-8fa45778f13f
+description: |
+  A short text containing forty ahadith (narrations) about the
+  significance, purpose, and benefits of Zakat.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-zakat/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 400a0cb5-2cc0-4149-b200-b788b2287975
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-zakat/foreword
+  title: Foreword
+  slug: 2-foreword
+  uuid: fa10df9e-c95d-4af1-bd87-ef443372ba36
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-zakat/ahadith-traditions
+  title: The Ahadith, The Traditions
+  slug: 3-the-ahadith-the-traditions
+  uuid: 01f857b1-63bb-48f3-8c2b-7e442541da45
+---

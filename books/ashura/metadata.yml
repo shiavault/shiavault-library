@@ -1,0 +1,79 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/ashura-shaykh-muhammad-mahdi-al-asifi
+author: Shaykh Muhammad Mahdi Al-Asifi
+publisher: ABWA Publishing and Printing Center
+translator: "'Umar Kumo"
+title: Ashura
+slug: ashura
+uuid: 42bd1387-523f-4c78-9b6c-617a8ec22691
+description: |
+  The research and analysis on the Uprising of Imam Husayn (as) from Hijaz
+  to Iraq.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/ashura-shaykh-muhammad-mahdi-al-asifi/publishers-foreword
+  title: Publisher’s Foreword
+  slug: 1-publisher-s-foreword
+  uuid: 41b9fbf8-fef6-471f-a5e8-4070242cfb34
+- source: :alislam
+  source_url: http://www.al-islam.org/ashura-shaykh-muhammad-mahdi-al-asifi/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 07629870-07c1-434c-b63f-8a4fabb93e24
+- source: :alislam
+  source_url: http://www.al-islam.org/ashura-shaykh-muhammad-mahdi-al-asifi/critical-juncture-life-mankind
+  title: Critical Juncture In The Life Of Mankind
+  slug: 3-critical-juncture-in-the-life-of-mankind
+  uuid: be20361a-1ffb-45e2-8fdb-2a3a3fa9a3d5
+- source: :alislam
+  source_url: http://www.al-islam.org/ashura-shaykh-muhammad-mahdi-al-asifi/meditations-husayns-speech-day-ashura
+  title: Meditations On Husayn’s Speech On The Day Of Ashura
+  slug: 4-meditations-on-husayn-s-speech-on-the-day-of-ashura
+  uuid: d35d2fbf-e070-4fac-8716-9058d9b9075e
+- source: :alislam
+  source_url: http://www.al-islam.org/ashura-shaykh-muhammad-mahdi-al-asifi/political-goals-imam-husayn-ass-uprising
+  title: Political Goals Of Imam Husayn (As)'S Uprising
+  slug: 5-political-goals-of-imam-husayn-as-s-uprising
+  uuid: fd4c6709-d4e5-449c-96c3-ed6bbc10cc36
+- source: :alislam
+  source_url: http://www.al-islam.org/ashura-shaykh-muhammad-mahdi-al-asifi/husayn-ass-letter-karbala-his-brother-muhammad
+  title: Husayn (As)’S Letter From Karbala To His Brother, Muhammad
+  slug: 6-husayn-as-s-letter-from-karbala-to-his-brother-muhammad
+  uuid: 7d898d06-f033-4a75-8d92-87908db72fd4
+- source: :alislam
+  source_url: http://www.al-islam.org/ashura-shaykh-muhammad-mahdi-al-asifi/defying-death-day-ashura
+  title: Defying Death On The Day Of Ashura
+  slug: 7-defying-death-on-the-day-of-ashura
+  uuid: 8d5c7dee-77c5-4d42-8544-d70abe1c0859
+- source: :alislam
+  source_url: http://www.al-islam.org/ashura-shaykh-muhammad-mahdi-al-asifi/some-instances-loyalty-supplication-ziyarat-al-warith
+  title: 'Some Instances Of Loyalty In The Supplication: Ziyarat Al-Warith'
+  slug: 8-some-instances-of-loyalty-in-the-supplication-ziyarat-al-warith
+  uuid: b5950fa1-e7fb-46d5-b00f-bc8904a243ab
+- source: :alislam
+  source_url: http://www.al-islam.org/ashura-shaykh-muhammad-mahdi-al-asifi/loyalty-and-repudiation-supplication-ziyarat-ashura
+  title: Loyalty And Repudiation In The Supplication Of Ziyarat Ashura
+  slug: 9-loyalty-and-repudiation-in-the-supplication-of-ziyarat-ashura
+  uuid: 11279344-595c-4eb0-8aad-2b584bf0aac4
+- source: :alislam
+  source_url: http://www.al-islam.org/ashura-shaykh-muhammad-mahdi-al-asifi/imam-husayn-ass-portrayal-islamic-society-during-umayyad-rule
+  title: Imam Husayn (As)’S Portrayal of Islamic Society During Umayyad Rule
+  slug: 10-imam-husayn-as-s-portrayal-of-islamic-society-during-umayyad-rule
+  uuid: 7c6b63a6-5a8d-4381-a783-260d0e684f52
+- source: :alislam
+  source_url: http://www.al-islam.org/ashura-shaykh-muhammad-mahdi-al-asifi/four-unchangeable-aspects-imam-husayn-ass-uprising
+  title: The Four Unchangeable Aspects of Imam Husayn (as)’S Uprising
+  slug: 11-the-four-unchangeable-aspects-of-imam-husayn-as-s-uprising
+  uuid: 8601eec4-c5c8-4288-94aa-2261cb740996
+- source: :alislam
+  source_url: http://www.al-islam.org/ashura-shaykh-muhammad-mahdi-al-asifi/loyalty-and-repudiation-day-ashura
+  title: Loyalty and Repudiation on the Day of Ashura
+  slug: 12-loyalty-and-repudiation-on-the-day-of-ashura
+  uuid: 4e2a2d02-603c-40b4-bf44-4635c7ffbb45
+- source: :alislam
+  source_url: http://www.al-islam.org/ashura-shaykh-muhammad-mahdi-al-asifi/first-speech-imam-husayns-uprising
+  title: The First Speech of Imam Husayn's (as) Uprising
+  slug: 13-the-first-speech-of-imam-husayn-s-as-uprising
+  uuid: e5a101b1-7528-4973-8145-6a61c7e9db66
+---

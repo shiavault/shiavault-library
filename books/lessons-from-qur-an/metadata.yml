@@ -1,0 +1,54 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/lessons-quran-muhsin-qaraati
+author: Muhsin Qara'ati
+publisher: Islamic Seminary Publications
+translator: S.M.S. Hyder
+title: Lessons From Qur'an
+slug: lessons-from-qur-an
+uuid: 91d32696-f52e-493f-8b52-f23ac10862e5
+description: |
+  Compilation of series of lectures on monotheism, justice, social
+  justice, Prophethood, Imamate, and the day of resurrection.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-quran-muhsin-qaraati/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 21b90d88-6a68-48ee-a2d1-1d14c543ef48
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-quran-muhsin-qaraati/monotheism
+  title: Monotheism
+  slug: 2-monotheism
+  uuid: 742afb06-3e45-4404-89a9-3191470d9ede
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-quran-muhsin-qaraati/justice
+  title: Justice
+  slug: 3-justice
+  uuid: 28681399-4018-4365-8921-073a6caf37ba
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-quran-muhsin-qaraati/social-justice
+  title: Social Justice
+  slug: 4-social-justice
+  uuid: 4ad70352-f6c3-41ac-9f7f-d59e04ff5c71
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-quran-muhsin-qaraati/prophethood
+  title: Prophethood
+  slug: 5-prophethood
+  uuid: 4e269faf-beb1-4ad8-8cd8-21d0732e6c11
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-quran-muhsin-qaraati/imamate
+  title: Imamate
+  slug: 6-imamate
+  uuid: adaaa28c-884c-437b-814f-bc579ad523fc
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-quran-muhsin-qaraati/day-resurrection
+  title: The Day of Resurrection
+  slug: 7-the-day-of-resurrection
+  uuid: a473f388-aaf9-4aa9-93dc-f51a131bd65a
+- source: :alislam
+  source_url: http://www.al-islam.org/lessons-quran-muhsin-qaraati/effects-remembering-death-and-resurrection-day
+  title: The Effects of Remembering Death and the Resurrection Day
+  slug: 8-the-effects-of-remembering-death-and-the-resurrection-day
+  uuid: 46e85b83-474a-4f70-85d1-e33f1578caa3
+---

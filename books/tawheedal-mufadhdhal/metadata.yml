@@ -1,0 +1,38 @@
+---
+source: :mareef
+source_url: http://www.maaref-foundation.com/english/library/beliefs/tawheed_al-mufadhdhal/index.htm
+title: Tawheedal-mufadhdhal
+slug: tawheedal-mufadhdhal
+uuid: 3ec23124-f9fc-47d5-a41b-fb38f428353d
+chapters:
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/beliefs/tawheed_al-mufadhdhal/introduction.htm
+  title: Introduction
+  slug: 1-introduction
+  uuid: 33c405a2-25af-4c4b-9988-2d765f395ba9
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/beliefs/tawheed_al-mufadhdhal/hadith_al-mufadhdhal.htm
+  title: Hadith Al-mufadhdhal
+  slug: 2-hadith-al-mufadhdhal
+  uuid: d661b2c3-29a0-4cdd-9208-6cf16ea91cad
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/beliefs/tawheed_al-mufadhdhal/first.htm
+  title: The First Meeting
+  slug: 3-the-first-meeting
+  uuid: 48077ebc-5751-499d-9663-af79e8b765a9
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/beliefs/tawheed_al-mufadhdhal/second.htm
+  title: The Second Meeting
+  slug: 4-the-second-meeting
+  uuid: 32b513d1-f001-4890-8cfb-2ca7f06b7cd3
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/beliefs/tawheed_al-mufadhdhal/third.htm
+  title: The Third Meeting
+  slug: 5-the-third-meeting
+  uuid: 1d65182a-aac0-4f3a-b016-5deb161e1fea
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/beliefs/tawheed_al-mufadhdhal/fourth.htm
+  title: The Fourth Meeting
+  slug: 6-the-fourth-meeting
+  uuid: 52ea35c0-75c4-4c1f-adcf-2c9dc4c34cab
+---

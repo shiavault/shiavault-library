@@ -1,0 +1,79 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/life-muhammad-prophet-sayyid-saeed-akhtar-rizvi
+author: Sayyid Saeed Akhtar Rizvi
+publisher: Darul Tabligh North America
+title: The Life of Muhammad The Prophet
+slug: the-life-of-muhammad-the-prophet
+uuid: 87274d3f-1248-4786-b277-358954ef694b
+description: |
+  Detailed account of the life and history of Prophet Muhammad (s),
+  including his birth and early life, events in Makkah and Madina, and his
+  final years.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/life-muhammad-prophet-sayyid-saeed-akhtar-rizvi/acknowledgement
+  title: Acknowledgement
+  slug: 1-acknowledgement
+  uuid: f9632694-95ed-4ac4-a029-64dd42ba8779
+- source: :alislam
+  source_url: http://www.al-islam.org/life-muhammad-prophet-sayyid-saeed-akhtar-rizvi/preface
+  title: Preface
+  slug: 2-preface
+  uuid: f59c5011-cf59-4d63-8d56-ed835af68050
+- source: :alislam
+  source_url: http://www.al-islam.org/life-muhammad-prophet-sayyid-saeed-akhtar-rizvi/creation
+  title: Creation
+  slug: 3-creation
+  uuid: e4e4e672-1da3-465e-95a5-a1d7d7bfb2f2
+- source: :alislam
+  source_url: http://www.al-islam.org/life-muhammad-prophet-sayyid-saeed-akhtar-rizvi/year-elephant
+  title: The Year of the Elephant
+  slug: 4-the-year-of-the-elephant
+  uuid: 88c0c344-3653-4507-be24-4e0f7224cdc0
+- source: :alislam
+  source_url: http://www.al-islam.org/life-muhammad-prophet-sayyid-saeed-akhtar-rizvi/faith-ancestors-holy-prophet
+  title: Faith of the Ancestors of the Holy Prophet
+  slug: 5-faith-of-the-ancestors-of-the-holy-prophet
+  uuid: 1e55b00b-1774-4f7d-9bdd-412957859287
+- source: :alislam
+  source_url: http://www.al-islam.org/life-muhammad-prophet-sayyid-saeed-akhtar-rizvi/early-years
+  title: Early Years
+  slug: 6-early-years
+  uuid: cafa33ef-1d33-4e87-9029-27137009f282
+- source: :alislam
+  source_url: http://www.al-islam.org/life-muhammad-prophet-sayyid-saeed-akhtar-rizvi/dawn-prophethood
+  title: The Dawn of Prophethood
+  slug: 7-the-dawn-of-prophethood
+  uuid: eed5d0b4-1ac5-48cb-a92f-412316f7e149
+- source: :alislam
+  source_url: http://www.al-islam.org/life-muhammad-prophet-sayyid-saeed-akhtar-rizvi/battles
+  title: Battles
+  slug: 8-battles
+  uuid: ac7e2360-14e4-4ec8-885f-11aff2589b90
+- source: :alislam
+  source_url: http://www.al-islam.org/life-muhammad-prophet-sayyid-saeed-akhtar-rizvi/islam-spreads
+  title: Islam Spreads
+  slug: 9-islam-spreads
+  uuid: 27959fe3-5665-4e1f-bf1d-a68fb780df7b
+- source: :alislam
+  source_url: http://www.al-islam.org/life-muhammad-prophet-sayyid-saeed-akhtar-rizvi/farewell-pilgrimage
+  title: The Farewell Pilgrimage
+  slug: 10-the-farewell-pilgrimage
+  uuid: fde293e2-68ff-4cfb-9ace-c0e5a2fd3e87
+- source: :alislam
+  source_url: http://www.al-islam.org/life-muhammad-prophet-sayyid-saeed-akhtar-rizvi/death-and-burial
+  title: Death and Burial
+  slug: 11-death-and-burial
+  uuid: f0edefbf-12d6-41c2-9fb3-3c764c50baf8
+- source: :alislam
+  source_url: http://www.al-islam.org/life-muhammad-prophet-sayyid-saeed-akhtar-rizvi/marriages-holy-prophet
+  title: Marriages of the Holy Prophet
+  slug: 12-marriages-of-the-holy-prophet
+  uuid: 695b9d9c-8311-49f7-9f3c-e14896b81c9d
+- source: :alislam
+  source_url: http://www.al-islam.org/life-muhammad-prophet-sayyid-saeed-akhtar-rizvi/glossary
+  title: Glossary
+  slug: 13-glossary
+  uuid: 85149e53-6b44-44bb-b3db-c419ed257617
+---

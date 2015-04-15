@@ -1,0 +1,116 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan
+author: Allama Husayn Ansariyan
+publisher: Ansariyan Publications - Qum
+translator: Hamideh Elahinia
+title: Commentary On Kumayl Supplication
+slug: commentary-on-kumayl-supplication
+uuid: 2598f3c1-a1cf-49ce-a121-ba88a8dc5daa
+description: |
+  This book presents a detailed commentary- phrase by phrase- of Dua
+  (Supplication of ) Kumayl taught to the esteemed companion Kumayl ibn
+  Ziyad by Imam Ali (AS).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/publishers-foreword
+  title: Publisher’s Foreword
+  slug: 1-publisher-s-foreword
+  uuid: e5baf6f4-b268-45d3-bd12-cdc9bad82e53
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/authors-preface
+  title: Author’s Preface
+  slug: 2-author-s-preface
+  uuid: b0114f09-3a2f-4e54-990b-94d8269ca7a7
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/note-translator
+  title: Note from Translator
+  slug: 3-note-from-translator
+  uuid: 8abac7d6-17d0-4748-9fd4-9f752b80b804
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/dua-supplication-glance
+  title: Du’a’ (supplication) in a Glance
+  slug: 4-du-a-supplication-in-a-glance
+  uuid: 6621ae89-cb51-4cf0-9ea0-567a3a2f943c
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/kumayl-ibn-ziyad-nakhai
+  title: Kumayl Ibn Ziyad Nakha’i
+  slug: 5-kumayl-ibn-ziyad-nakha-i
+  uuid: 65cf6d08-ddbb-42ed-a567-5137bba3e184
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/dua-kumayl
+  title: Du’a’ Kumayl
+  slug: 6-du-a-kumayl
+  uuid: 302b5f81-e70a-4aa7-9f6b-4a22eae5bfea
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/commentary-bismillah-ar-rahman-ar-rahim
+  title: 'Commentary of: “Bismillah, ar-Rahman, ar-Rahim”'
+  slug: 7-commentary-of-bismillah-ar-rahman-ar-rahim
+  uuid: 5d91f6db-709c-4b88-81c5-69108e33c5d0
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/commentary-allahumma-inni-asaluka-bi
+  title: 'Commentary of: “Allahumma Inni Asaluka bi rahmatika allati wa si’at kulla
+    shay”'
+  slug: 8-commentary-of-allahumma-inni-asaluka-bi-rahmatika-allati-wa-si-at-kulla-shay
+  uuid: 4673204d-8c88-4085-9c43-32864c5f4ac8
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/commentary-wa-biquwwatikallati-qaharta-biha
+  title: 'Commentary of: “Wa biquwwatika’llati qaharta biha kulla shay”'
+  slug: 9-commentary-of-wa-biquwwatika-llati-qaharta-biha-kulla-shay
+  uuid: e17dd9d9-d96a-430d-a94f-82d82c70751d
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/commentary-wa-khadhaa-laha-kulla-shay
+  title: 'Commentary of: “Wa khadha’a laha kulla shay..”'
+  slug: 10-commentary-of-wa-khadha-a-laha-kulla-shay
+  uuid: 6036a33a-eb52-4451-9ac2-a4aa2cc47506
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/commentary-wa-bi-jabarutikallati-ghalabta
+  title: 'Commentary of: “Wa bi jabarutika’llati ghalabta biha kulla shay”'
+  slug: 11-commentary-of-wa-bi-jabarutika-llati-ghalabta-biha-kulla-shay
+  uuid: 0e20a204-bd83-443c-84d5-5435474a39da
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/commentary-wa-bi-izzatikallati-la-yaqawm-laha
+  title: 'Commentary of:  “Wa bi ‘izzatika’llati la yaqawm laha shay”'
+  slug: 12-commentary-of-wa-bi-izzatika-llati-la-yaqawm-laha-shay
+  uuid: a50a7d97-c52b-47d1-a180-1286fd06bc6a
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/commentary-wa-bi-sultanikaalladhi-ala-kulla
+  title: 'Commentary of: “Wa bi Sultanika’alladhi ‘ala kulla shay”'
+  slug: 13-commentary-of-wa-bi-sultanika-alladhi-ala-kulla-shay
+  uuid: 22f748e7-8021-483f-bea5-31a7bcff8afa
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/commentary-wa-bi-wajhikalbaqia-bada-fanai
+  title: 'Commentary of: “Wa bi wajhika’lbaqia ba’da fana’i kully shay”'
+  slug: 14-commentary-of-wa-bi-wajhika-lbaqia-ba-da-fana-i-kully-shay
+  uuid: 4b4156ac-a871-49b7-a9b0-1a9d85153e29
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/commentary-wa-biasmaaikallati-malat-arkana
+  title: 'Commentary of: “Wa bia’smaa’ika’llati malat Arkana kully shay”'
+  slug: 15-commentary-of-wa-bia-smaa-ika-llati-malat-arkana-kully-shay
+  uuid: 009c4bde-90f8-4ded-877c-edeb061b182d
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/commentary
+  title: 'Commentary of:'
+  slug: 16-commentary-of
+  uuid: a189ade0-96b5-4350-9f99-b942ee3e222a
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/commentary-0
+  title: 'Commentary of:'
+  slug: 17-commentary-of
+  uuid: 9dabae06-a3a8-42c8-b644-cc5b6fa68cd5
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/commentary-1
+  title: 'Commentary of:'
+  slug: 18-commentary-of
+  uuid: 8cae786d-6eda-4085-bdd6-81c651c2b579
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/meaning-bala-tribulation
+  title: The Meaning of ‘bala' (tribulation)’
+  slug: 19-the-meaning-of-bala-tribulation
+  uuid: c8b5e68e-62f0-4ce9-b60a-12e4075f81f4
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-kumayl-supplication-allama-husayn-ansariyan/complete-text-dua-kumayl-arabic
+  title: Complete text of Du’a’ Kumayl in Arabic with Trasliteration and English Translation
+  slug: 20-complete-text-of-du-a-kumayl-in-arabic-with-trasliteration-and-english-translation
+  uuid: 29ae8ec8-c5ed-4d90-b642-125647c12a86
+---

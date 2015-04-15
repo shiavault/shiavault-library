@@ -1,0 +1,85 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/history-of-the-caliphs-rasul-jafariyan
+author: Rasul Ja’fariyan
+publisher: Ansariyan Publications - Qum
+title: History of The Caliphs
+slug: history-of-the-caliphs
+uuid: cc41423b-99a9-4505-b6df-78dc77409624
+description: |
+  In this book, the author covers the history of Shi'i Islam from after
+  the death of the Prophet . He discusses in detail the rule of the three
+  Caliphs and of Imam Ali after that. He also delves into the history of
+  the Ummayad rulers and their actions.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/history-of-the-caliphs-rasul-jafariyan/translator%E2%80%99s-note
+  title: Translator’s Note
+  slug: 1-translator-s-note
+  uuid: dc4fb51f-5efc-427a-bf27-79c482bddcf9
+- source: :alislam
+  source_url: http://www.al-islam.org/history-of-the-caliphs-rasul-jafariyan/abu-bakr%E2%80%99s-caliphate
+  title: Abu Bakr’s Caliphate
+  slug: 2-abu-bakr-s-caliphate
+  uuid: 480a284e-90f4-4325-8895-f404d5ff47da
+- source: :alislam
+  source_url: http://www.al-islam.org/history-of-the-caliphs-rasul-jafariyan/umar%E2%80%99s-caliphate
+  title: Umar’s Caliphate
+  slug: 3-umar-s-caliphate
+  uuid: 554e0164-c154-4ad4-8617-4ad1be7cd0b9
+- source: :alislam
+  source_url: http://www.al-islam.org/history-of-the-caliphs-rasul-jafariyan/uthman%E2%80%99s-caliphate
+  title: Uthman’s Caliphate
+  slug: 4-uthman-s-caliphate
+  uuid: 93b62905-2f69-4d92-9e60-31426cba6068
+- source: :alislam
+  source_url: http://www.al-islam.org/history-of-the-caliphs-rasul-jafariyan/imam-%E2%80%98ali%E2%80%99s-imamate
+  title: Imam ‘Ali’s Imamate
+  slug: 5-imam-ali-s-imamate
+  uuid: 41a3a31e-7a92-4002-8fff-217399993b94
+- source: :alislam
+  source_url: http://www.al-islam.org/history-of-the-caliphs-rasul-jafariyan/imam-hasan%E2%80%99s-imamate
+  title: Imam Hasan’s Imamate
+  slug: 6-imam-hasan-s-imamate
+  uuid: 1fbe42e2-d13d-4c22-93cb-cfe29e09358a
+- source: :alislam
+  source_url: http://www.al-islam.org/history-of-the-caliphs-rasul-jafariyan/mu%E2%80%98awiya%E2%80%99s-monarchy
+  title: Mu‘awiya’s Monarchy
+  slug: 7-mu-awiya-s-monarchy
+  uuid: e3ef616d-55b9-4271-a4ec-50db7ff2ff9e
+- source: :alislam
+  source_url: http://www.al-islam.org/history-of-the-caliphs-rasul-jafariyan/karbala%E2%80%99s-movement
+  title: Karbala’s Movement
+  slug: 8-karbala-s-movement
+  uuid: 232e31c6-665d-4417-8f01-774ea51f9584
+- source: :alislam
+  source_url: http://www.al-islam.org/history-of-the-caliphs-rasul-jafariyan/transfer-caliphate-marwanids
+  title: Transfer of Caliphate to the Marwanids
+  slug: 9-transfer-of-caliphate-to-the-marwanids
+  uuid: 0339ecc9-7f9c-4c2a-9183-00ef4d099977
+- source: :alislam
+  source_url: http://www.al-islam.org/history-of-the-caliphs-rasul-jafariyan/iman-sajjad
+  title: Iman as-Sajjad (a)
+  slug: 10-iman-as-sajjad-a
+  uuid: 4131f279-f2ac-4f0a-9149-76cdb10d3987
+- source: :alislam
+  source_url: http://www.al-islam.org/history-of-the-caliphs-rasul-jafariyan/marwanids%E2%80%99-government
+  title: The Marwanids’ Government
+  slug: 11-the-marwanids-government
+  uuid: 015a863d-acc3-43a7-acbf-9d026a60bce0
+- source: :alislam
+  source_url: http://www.al-islam.org/history-of-the-caliphs-rasul-jafariyan/shi%E2%80%98ite-muslims-last-decades-umayyad-state
+  title: Shi‘ite Muslims In The Last Decades Of The Umayyad State
+  slug: 12-shi-ite-muslims-in-the-last-decades-of-the-umayyad-state
+  uuid: 0239ce7c-c602-477f-ae5c-e04b6918680f
+- source: :alislam
+  source_url: http://www.al-islam.org/history-of-the-caliphs-rasul-jafariyan/decline-marwanid
+  title: Decline of the Marwanid
+  slug: 13-decline-of-the-marwanid
+  uuid: f6c14e40-b80b-4942-83f5-17d2bf9921dd
+- source: :alislam
+  source_url: http://www.al-islam.org/history-of-the-caliphs-rasul-jafariyan/references
+  title: References
+  slug: 14-references
+  uuid: e3ec70e3-5f46-48db-aa79-f4efabdb6e02
+---

@@ -1,0 +1,104 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/sorrow-and-sufferings-noorali-s-merchant
+author: Noorali S. Merchant
+title: Sorrow and Sufferings
+slug: sorrow-and-sufferings
+uuid: c7c04e5e-873b-456c-9fe8-54d55b5dc961
+description: |
+  A Collection of Poems on the martyrdom of Imam Husayn (a), and 'what
+  others have to say about Imam Husayn (a)'.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/sorrow-and-sufferings-noorali-s-merchant/1-scene-prior-islam
+  title: "(1) The Scene Prior To Islam"
+  slug: 1-1-the-scene-prior-to-islam
+  uuid: 9fc032ea-7dc7-471f-a25f-2684f66e2f3c
+- source: :alislam
+  source_url: http://www.al-islam.org/sorrow-and-sufferings-noorali-s-merchant/2-birth-islam
+  title: "(2) Birth Of Islam"
+  slug: 2-2-birth-of-islam
+  uuid: 2786ac6e-1b36-4120-888e-2ab8f7b49337
+- source: :alislam
+  source_url: http://www.al-islam.org/sorrow-and-sufferings-noorali-s-merchant/3-preachings-and-initial-struggle
+  title: "(3) Preachings And Initial Struggle"
+  slug: 3-3-preachings-and-initial-struggle
+  uuid: 1c9d98aa-5d69-4222-9e4b-b277fee6d0b0
+- source: :alislam
+  source_url: http://www.al-islam.org/sorrow-and-sufferings-noorali-s-merchant/4-origins-karbalas-tragedy
+  title: "(4) The Origins Of Karbala's Tragedy"
+  slug: 4-4-the-origins-of-karbala-s-tragedy
+  uuid: 57b20b71-3ca8-4340-930d-97873c4206f8
+- source: :alislam
+  source_url: http://www.al-islam.org/sorrow-and-sufferings-noorali-s-merchant/5-yazids-demand-allegiance
+  title: "(5) Yazid's Demand For Allegiance"
+  slug: 5-5-yazid-s-demand-for-allegiance
+  uuid: de912580-ed52-4d11-836c-6cae8bd991b9
+- source: :alislam
+  source_url: http://www.al-islam.org/sorrow-and-sufferings-noorali-s-merchant/6-journey-mecca
+  title: "(6) The Journey To Mecca"
+  slug: 6-6-the-journey-to-mecca
+  uuid: 52a30d49-7100-44e6-86f3-32fd43441fda
+- source: :alislam
+  source_url: http://www.al-islam.org/sorrow-and-sufferings-noorali-s-merchant/7-betrayal
+  title: "(7) The Betrayal"
+  slug: 7-7-the-betrayal
+  uuid: f5f683bc-46ae-41b0-b9a0-6d81289a63b8
+- source: :alislam
+  source_url: http://www.al-islam.org/sorrow-and-sufferings-noorali-s-merchant/8-gems
+  title: "(8) The Gems"
+  slug: 8-8-the-gems
+  uuid: 27af2aad-f605-4767-91a7-1cded404d283
+- source: :alislam
+  source_url: http://www.al-islam.org/sorrow-and-sufferings-noorali-s-merchant/9-supreme-sacrifice
+  title: "(9) The Supreme Sacrifice"
+  slug: 9-9-the-supreme-sacrifice
+  uuid: ec10facc-ac58-4442-b472-a88198791526
+- source: :alislam
+  source_url: http://www.al-islam.org/sorrow-and-sufferings-noorali-s-merchant/10-loot
+  title: "(10) The Loot"
+  slug: 10-10-the-loot
+  uuid: 55d0f37c-6f4c-4101-988d-55bdc5367698
+- source: :alislam
+  source_url: http://www.al-islam.org/sorrow-and-sufferings-noorali-s-merchant/11-journey-kufa
+  title: "(11) The Journey To Kufa"
+  slug: 11-11-the-journey-to-kufa
+  uuid: cfc0b5e7-f4e4-444f-b4d8-2ca70395c724
+- source: :alislam
+  source_url: http://www.al-islam.org/sorrow-and-sufferings-noorali-s-merchant/12-devils-den
+  title: "(12) The Devil's Den"
+  slug: 12-12-the-devil-s-den
+  uuid: 32efbf7a-2639-4764-8d94-130a00089950
+- source: :alislam
+  source_url: http://www.al-islam.org/sorrow-and-sufferings-noorali-s-merchant/13-rose-bud-fades-away
+  title: "(13) A Rose Bud Fades Away"
+  slug: 13-13-a-rose-bud-fades-away
+  uuid: 1eb9563a-516e-43b8-8e9a-57e019dc93dc
+- source: :alislam
+  source_url: http://www.al-islam.org/sorrow-and-sufferings-noorali-s-merchant/14-triumph-truth
+  title: "(14) The Triumph Of Truth"
+  slug: 14-14-the-triumph-of-truth
+  uuid: e742dfbe-d705-4507-b833-9b1af6a3241d
+- source: :alislam
+  source_url: http://www.al-islam.org/sorrow-and-sufferings-noorali-s-merchant/15-savior-islam
+  title: "(15) The Savior Of Islam"
+  slug: 15-15-the-savior-of-islam
+  uuid: cf9d4169-4e14-436c-a360-d5beb41b537f
+- source: :alislam
+  source_url: http://www.al-islam.org/sorrow-and-sufferings-noorali-s-merchant/16-tributes-and-prayers
+  title: "(16) Tributes And Prayers"
+  slug: 16-16-tributes-and-prayers
+  uuid: b95e7a53-c3ae-426f-b3e9-2da7cef0fb3f
+- source: :alislam
+  source_url: http://www.al-islam.org/sorrow-and-sufferings-noorali-s-merchant/names-martyrs-who-sacrificed-their-lives-karbala-sake-lofty
+  title: Names Of Martyrs Who Sacrificed Their Lives At Karbala For The Sake Of The
+    Lofty Principles Of Islam As Mentioned In "Ziyarah Al-Nahiyyah"
+  slug: 17-names-of-martyrs-who-sacrificed-their-lives-at-karbala-for-the-sake-of-the-lofty-principles-of-islam-as-mentioned-in-ziyarah-al-nahiyyah
+  uuid: 1534e4a6-0bbf-4330-be6e-93fe25c2e695
+- source: :alislam
+  source_url: http://www.al-islam.org/sorrow-and-sufferings-noorali-s-merchant/opinions-expressed-distinguished-non-muslims-martyrdom
+  title: Opinions Expressed By Distinguished Non-Muslims on The Martyrdom of Husayn
+    Ibn Ali (A.S)
+  slug: 18-opinions-expressed-by-distinguished-non-muslims-on-the-martyrdom-of-husayn-ibn-ali-a-s
+  uuid: 1b88a079-d3b9-4745-a4a7-4fb20fef7cdc
+---

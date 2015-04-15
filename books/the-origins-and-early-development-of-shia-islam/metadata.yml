@@ -1,0 +1,71 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/the-origins-and-early-development-of-shia-islam-sayyid-jafari
+author: Sayyid Husayn Muhammad Ja'fari
+publisher: Ansariyan Publications - Qum
+title: The Origins and Early Development of Shia Islam
+slug: the-origins-and-early-development-of-shia-islam
+uuid: 80579075-53cc-4d60-a399-47172d2d0edf
+description: |
+  This full length text is a very detailed and comprehensive history of
+  the early stages of Shi'ism. The author has extensively used primary
+  historical sources as well as more recent academic works in order to
+  present one of the most detailed accounts of early Shi'ism that is
+  available in the English language today.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/the-origins-and-early-development-of-shia-islam-sayyid-jafari/chapter-1-conceptual-foundations
+  title: 'Chapter 1:  Conceptual Foundations'
+  slug: 1-chapter-1-conceptual-foundations
+  uuid: 1858926d-41f6-4b31-819f-4cab5855a5af
+- source: :alislam
+  source_url: http://www.al-islam.org/the-origins-and-early-development-of-shia-islam-sayyid-jafari/chapter-2-saqifa-first-manifestations
+  title: 'Chapter 2:  Saqifa, The First Manifestations'
+  slug: 2-chapter-2-saqifa-the-first-manifestations
+  uuid: bd8aacd2-67ae-45e8-9422-220404e10d62
+- source: :alislam
+  source_url: http://www.al-islam.org/the-origins-and-early-development-of-shia-islam-sayyid-jafari/chapter-3-ali-and-first-two-caliphs
+  title: 'Chapter 3:  ''Ali and the First Two Caliphs'
+  slug: 3-chapter-3-ali-and-the-first-two-caliphs
+  uuid: 13409ad2-4c6f-4d54-8ccd-f256fdf63c21
+- source: :alislam
+  source_url: http://www.al-islam.org/the-origins-and-early-development-of-shia-islam-sayyid-jafari/chapter-4-re-emergence-alid-party
+  title: 'Chapter 4:  The Re-emergence of the ''Alid Party'
+  slug: 4-chapter-4-the-re-emergence-of-the-alid-party
+  uuid: bf392f08-afb5-4da9-ad06-c88125762e51
+- source: :alislam
+  source_url: http://www.al-islam.org/the-origins-and-early-development-of-shia-islam-sayyid-jafari/chapter-5-kufa-stage-shii-activities
+  title: 'Chapter 5:  Kufa, Stage of Shi''i Activities'
+  slug: 5-chapter-5-kufa-stage-of-shi-i-activities
+  uuid: 6afd1bca-3b52-4fdc-926b-dbabda92d31e
+- source: :alislam
+  source_url: http://www.al-islam.org/the-origins-and-early-development-of-shia-islam-sayyid-jafari/chapter-6-abdication-hasan
+  title: 'Chapter 6:  The Abdication of Hasan'
+  slug: 6-chapter-6-the-abdication-of-hasan
+  uuid: 5c0e8761-4d5f-4cc5-8902-7cd1fc255263
+- source: :alislam
+  source_url: http://www.al-islam.org/the-origins-and-early-development-of-shia-islam-sayyid-jafari/chapter-7-martyrdom-husayn
+  title: 'Chapter 7:  The Martyrdom of Husayn'
+  slug: 7-chapter-7-the-martyrdom-of-husayn
+  uuid: b81daa88-2c87-4bcd-8db0-97f87167d8d3
+- source: :alislam
+  source_url: http://www.al-islam.org/the-origins-and-early-development-of-shia-islam-sayyid-jafari/chapter-8-reaction-after-karbala
+  title: 'Chapter 8:  The Reaction after Karbala'
+  slug: 8-chapter-8-the-reaction-after-karbala
+  uuid: 9808d71c-34a0-44c1-b77f-0bd4cf717f0c
+- source: :alislam
+  source_url: http://www.al-islam.org/the-origins-and-early-development-of-shia-islam-sayyid-jafari/chapter-9-struggle-legitimacy
+  title: 'Chapter 9:  The Struggle for Legitimacy'
+  slug: 9-chapter-9-the-struggle-for-legitimacy
+  uuid: f172f9d6-c7b9-4c2b-83c6-8ead59dab674
+- source: :alislam
+  source_url: http://www.al-islam.org/the-origins-and-early-development-of-shia-islam-sayyid-jafari/chapter-10-imamate-jafar-sadiq
+  title: 'Chapter 10:  The Imamate of Ja''far as-Sadiq'
+  slug: 10-chapter-10-the-imamate-of-ja-far-as-sadiq
+  uuid: 7f465ec5-7221-4c68-b58c-7b9f492cadea
+- source: :alislam
+  source_url: http://www.al-islam.org/the-origins-and-early-development-of-shia-islam-sayyid-jafari/chapter-11-doctrine-imamate
+  title: 'Chapter 11:  The Doctrine of the Imamate'
+  slug: 11-chapter-11-the-doctrine-of-the-imamate
+  uuid: 7e2f2c18-ac25-4905-933a-adbe60268040
+---

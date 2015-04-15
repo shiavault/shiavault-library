@@ -1,0 +1,80 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/obligations-and-prohibitions-islamic-divine-law-ayatullah-ali-meshkini
+author: Ayatullah 'Ali Meshkini
+publisher: ABWA Publishing and Printing Center
+translator: Zeynab Biria
+title: Obligations and Prohibitions in Islamic Divine Law
+slug: obligations-and-prohibitions-in-islamic-divine-law
+uuid: 50034ea0-1e76-45d7-b226-c415b83edef8
+description: |
+  This book presents the issues the society is confronted with, in a brief
+  and simple language, both in the field of thought and practice.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/obligations-and-prohibitions-islamic-divine-law-ayatullah-ali-meshkini/preface-assembly
+  title: Preface of the Assembly
+  slug: 1-preface-of-the-assembly
+  uuid: b60a63b3-f83c-4db8-bd5c-cd4e0b1f7f8a
+- source: :alislam
+  source_url: http://www.al-islam.org/obligations-and-prohibitions-islamic-divine-law-ayatullah-ali-meshkini/foreword
+  title: Foreword
+  slug: 2-foreword
+  uuid: 5581553a-8db1-4a96-96b2-c981161f8fa2
+- source: :alislam
+  source_url: http://www.al-islam.org/obligations-and-prohibitions-islamic-divine-law-ayatullah-ali-meshkini/preface
+  title: Preface
+  slug: 3-preface
+  uuid: 354b93f5-c853-46f8-bf72-bc33f41ef245
+- source: :alislam
+  source_url: http://www.al-islam.org/obligations-and-prohibitions-islamic-divine-law-ayatullah-ali-meshkini/part-1-ideological-laws
+  title: 'Part 1: Ideological Laws'
+  slug: 4-part-1-ideological-laws
+  uuid: 43dabc42-7f66-4ff7-b973-709ccf364656
+- source: :alislam
+  source_url: http://www.al-islam.org/obligations-and-prohibitions-islamic-divine-law-ayatullah-ali-meshkini/part-2-chapter-1-learning
+  title: 'Part 2 Chapter 1: Learning Religious Knowledge'
+  slug: 5-part-2-chapter-1-learning-religious-knowledge
+  uuid: c1f7f2b3-8921-422e-8124-8fbb861b14fd
+- source: :alislam
+  source_url: http://www.al-islam.org/obligations-and-prohibitions-islamic-divine-law-ayatullah-ali-meshkini/part-2-chapter-2-rulings
+  title: 'Part 2 Chapter 2: Rulings of Devotional Acts'
+  slug: 6-part-2-chapter-2-rulings-of-devotional-acts
+  uuid: 54540e5a-76e1-47a6-87c8-ca7264d5a8b0
+- source: :alislam
+  source_url: http://www.al-islam.org/obligations-and-prohibitions-islamic-divine-law-ayatullah-ali-meshkini/part-2-chapter-3-laws
+  title: 'Part 2 Chapter 3: Laws Pertaining To Matrimonial And Family Affairs'
+  slug: 7-part-2-chapter-3-laws-pertaining-to-matrimonial-and-family-affairs
+  uuid: 931632ca-d241-4794-89e1-780ff03b4909
+- source: :alislam
+  source_url: http://www.al-islam.org/obligations-and-prohibitions-islamic-divine-law-ayatullah-ali-meshkini/part-2-chapter-4-laws
+  title: 'Part 2 Chapter 4: Laws Pertaining To Financial And Ownership Affairs'
+  slug: 8-part-2-chapter-4-laws-pertaining-to-financial-and-ownership-affairs
+  uuid: 0faf4e68-a8bc-47bf-8166-987728f3cb05
+- source: :alislam
+  source_url: http://www.al-islam.org/obligations-and-prohibitions-islamic-divine-law-ayatullah-ali-meshkini/part-2-chapter-5-laws
+  title: 'Part 2 Chapter 5: Laws Pertaining To Food, Dress, and Ways Of Self-Protection'
+  slug: 9-part-2-chapter-5-laws-pertaining-to-food-dress-and-ways-of-self-protection
+  uuid: 5eae783b-ef21-400a-acc4-a82e2c8084c5
+- source: :alislam
+  source_url: http://www.al-islam.org/obligations-and-prohibitions-islamic-divine-law-ayatullah-ali-meshkini/part-2-chapter-6-laws
+  title: 'Part 2 Chapter 6: Laws Pertaining To Contracts And One-Side Decisions'
+  slug: 10-part-2-chapter-6-laws-pertaining-to-contracts-and-one-side-decisions
+  uuid: f065f19d-c1b2-4bdd-be51-07a5bb372418
+- source: :alislam
+  source_url: http://www.al-islam.org/obligations-and-prohibitions-islamic-divine-law-ayatullah-ali-meshkini/part-2-chapter-7
+  title: 'Part 2 Chapter 7: Miscellaneous Laws Pertaining To Mental And Physical Issues'
+  slug: 11-part-2-chapter-7-miscellaneous-laws-pertaining-to-mental-and-physical-issues
+  uuid: 759c4a6b-dc37-45bf-8228-11e5e341d145
+- source: :alislam
+  source_url: http://www.al-islam.org/obligations-and-prohibitions-islamic-divine-law-ayatullah-ali-meshkini/part-2-chapter-8-laws
+  title: 'Part 2 Chapter 8: Laws Pertaining To Authority Over Muslims And The Muslim
+    Community'
+  slug: 12-part-2-chapter-8-laws-pertaining-to-authority-over-muslims-and-the-muslim-community
+  uuid: 1efd94bc-7696-4c78-80a4-36afd58d9e8f
+- source: :alislam
+  source_url: http://www.al-islam.org/obligations-and-prohibitions-islamic-divine-law-ayatullah-ali-meshkini/epilogue
+  title: Epilogue
+  slug: 13-epilogue
+  uuid: 8763e62e-3718-4f5c-88a0-4066189c93f7
+---

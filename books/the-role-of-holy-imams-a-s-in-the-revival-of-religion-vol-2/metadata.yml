@@ -1,0 +1,29 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/role-holy-imams-revival-religion-vol-2-murtadha-al-askari
+author: Allamah Sayyid Murtadha Askari
+publisher: Naba Organization
+translator: Jalil Dorrani
+title: The Role of Holy Imams (a.s.) in the Revival of Religion Vol. 2
+slug: the-role-of-holy-imams-a-s-in-the-revival-of-religion-vol-2
+uuid: 1b71589a-863f-4333-afb6-979319241ff6
+description: |
+  The series of lectures delivered by Allamah Sayyid Murtadha al-Askari on
+  discussion of the principle matters concerning veracious Islam.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/role-holy-imams-revival-religion-vol-2-murtadha-al-askari/chapter-5
+  title: Chapter 5
+  slug: 1-chapter-5
+  uuid: 4c836b98-0210-4d37-82e4-e47d32f3c815
+- source: :alislam
+  source_url: http://www.al-islam.org/role-holy-imams-revival-religion-vol-2-murtadha-al-askari/chapter-6
+  title: Chapter 6
+  slug: 2-chapter-6
+  uuid: 83fc5326-12e8-4bb5-84c3-240ea4f0038d
+- source: :alislam
+  source_url: http://www.al-islam.org/role-holy-imams-revival-religion-vol-2-murtadha-al-askari/chapter-7
+  title: Chapter 7
+  slug: 3-chapter-7
+  uuid: 9dd02256-dcd5-430f-a3f0-0d510e439244
+---

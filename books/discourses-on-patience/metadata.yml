@@ -1,0 +1,50 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/discourses-patience-ayatullah-sayyid-ali-khamenei
+author: Ayatullah Sayyid Ali Khamene'i
+publisher: Ansariyan Publications - Qum
+translator: Sayyid Hussein Alamdar
+title: Discourses On Patience
+slug: discourses-on-patience
+uuid: 5959c433-d519-41ba-80b6-10fed7fcd87b
+description: |
+  This text analyzes the topic of patience in light of traditions, Islamic
+  code, and history while shedding light on the advantages and effects of
+  patience.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/discourses-patience-ayatullah-sayyid-ali-khamenei/preface
+  title: Preface
+  slug: 1-preface
+  uuid: f02344c0-1614-4fe7-be8d-04df6af0b7cf
+- source: :alislam
+  source_url: http://www.al-islam.org/discourses-patience-ayatullah-sayyid-ali-khamenei/chapter1-discourse-patience
+  title: 'Chapter1: Discourse on Patience'
+  slug: 2-chapter1-discourse-on-patience
+  uuid: ee1bab82-78c7-4818-90a0-969dd48cd0b9
+- source: :alislam
+  source_url: http://www.al-islam.org/discourses-patience-ayatullah-sayyid-ali-khamenei/chapter-2-importance-patience-light-traditions
+  title: 'Chapter 2: Importance of Patience in the Light of Traditions'
+  slug: 3-chapter-2-importance-of-patience-in-the-light-of-traditions
+  uuid: 2c6d7dea-8225-46b1-8980-b83215be868a
+- source: :alislam
+  source_url: http://www.al-islam.org/discourses-patience-ayatullah-sayyid-ali-khamenei/chapter-3-patience-islamic-codices
+  title: 'Chapter 3: Patience in Islamic Codices'
+  slug: 4-chapter-3-patience-in-islamic-codices
+  uuid: 6f8367e0-53b2-41fd-81e1-0805dc0e0b9e
+- source: :alislam
+  source_url: http://www.al-islam.org/discourses-patience-ayatullah-sayyid-ali-khamenei/chapter-4-fields-patience
+  title: 'Chapter 4: The Fields of Patience'
+  slug: 5-chapter-4-the-fields-of-patience
+  uuid: b1ef9fe7-4bd6-4f4c-9c59-b44b2b4c43c6
+- source: :alislam
+  source_url: http://www.al-islam.org/discourses-patience-ayatullah-sayyid-ali-khamenei/chapter-5-historical-examples
+  title: 'Chapter 5: Historical Examples'
+  slug: 6-chapter-5-historical-examples
+  uuid: 571f66cb-1170-4634-bc13-72cbe0806878
+- source: :alislam
+  source_url: http://www.al-islam.org/discourses-patience-ayatullah-sayyid-ali-khamenei/chapter-6-advantages-and-effects-patience
+  title: 'Chapter 6: The Advantages and Effects of Patience'
+  slug: 7-chapter-6-the-advantages-and-effects-of-patience
+  uuid: bb1fd933-ac8e-45f6-a970-c045d5f08e0f
+---

@@ -1,0 +1,178 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri
+author: Yasin T. Al-Jibouri
+title: Karbala and Beyond
+slug: karbala-and-beyond
+uuid: b6a6a146-1b53-4003-a933-8c7591da1497
+description: |
+  This book contains a brief yet documented narrative of an incident that
+  took place in Karbala’’, Iraq, in 61 A.H. (After Hijra, or Hegira)/680
+  A.D. It has stamped the history of the Muslim nation ever since, and it
+  will continue to do so till the reappearance of the Awaited One, the
+  Mahdi from among the offspring of Prophet Muhammad. It refers to a
+  revolution against tyranny and oppression led by Imam al-Husayn son of
+  Imam Ali ibn [son of] Abu [father of] Talib and grandson of Prophet
+  Muhammad.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: b3e6f386-5aba-4fb4-8280-0e3151546f83
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/publisher-s-preface
+  title: Publisher’s Preface
+  slug: 2-publisher-s-preface
+  uuid: 9f4d4574-31ba-4dff-9cd6-874e70afabb3
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/prologue-eternal-struggle-between-right-and-wrong
+  title: 'Prologue: Eternal Struggle Between Right And Wrong'
+  slug: 3-prologue-eternal-struggle-between-right-and-wrong
+  uuid: a22a9651-88cc-45e4-b66c-0733edd37d9c
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/introduction
+  title: Introduction
+  slug: 4-introduction
+  uuid: 853cbc25-d5c0-474e-a7a9-1032ba701c65
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/part-1-husayn-and-his-foes-martyrdom
+  title: 'Part 1: Husayn And His Foes, Martyrdom'
+  slug: 5-part-1-husayn-and-his-foes-martyrdom
+  uuid: 279699a7-b5d9-4d50-a3b7-53e557334707
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/part-2-summary-post-martyrdom-events
+  title: 'Part 2: A Summary of Post-Martyrdom Events'
+  slug: 6-part-2-a-summary-of-post-martyrdom-events
+  uuid: 82df830b-e424-47fd-bb68-bc4a5372bd72
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/part-3-revolution-s-outcome
+  title: 'Part 3: The Revolution’s Outcome'
+  slug: 7-part-3-the-revolution-s-outcome
+  uuid: 6dfc0d53-f8ce-4f0d-93c2-be123adfab93
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/part-4-husayn-s-successors-nine-infallible-imams
+  title: 'Part 4: Husayn’s Successors - Nine Infallible Imams'
+  slug: 8-part-4-husayn-s-successors-nine-infallible-imams
+  uuid: 5f73b6b7-b0c1-4473-b97f-3928b18e19c6
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/conclusion
+  title: Conclusion
+  slug: 9-conclusion
+  uuid: 0e754dfb-3b5d-45a1-9d56-d5fcd4ebea7a
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/appendix-arabic-poems-eulogizing-imam-husayn-s-martyrdom
+  title: 'Appendix: Arabic Poems Eulogizing Imam Husayn’s Martyrdom'
+  slug: 10-appendix-arabic-poems-eulogizing-imam-husayn-s-martyrdom
+  uuid: f85f6349-a094-4cb1-8688-22d12bdb8431
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/glossary-islamic-terms
+  title: Glossary of Islamic Terms
+  slug: 11-glossary-of-islamic-terms
+  uuid: 544c8de2-faf4-4c93-8637-98ce82afa7a9
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/a
+  title: "ا،أ، آ، ع, A"
+  slug: 12-a
+  uuid: b92246bf-de35-468f-8d61-bbb5b0f55fb2
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/b
+  title: "ب, B"
+  slug: 13-b
+  uuid: 8585e5c8-9d98-488a-91d7-161842f9e87d
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/D
+  title: "د، ذ, D"
+  slug: 14-d
+  uuid: 6362bc82-a12d-4463-9a49-820e62ce2136
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/E
+  title: "ع, E"
+  slug: 15-e
+  uuid: 3a51b6fe-fb65-42b9-80e8-a22806799977
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/F
+  title: "ف, F"
+  slug: 16-f
+  uuid: 6b6457a3-d3ab-4e4d-b69e-11600dc47323
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/g-gh
+  title: "غ, G, Gh"
+  slug: 17-g-gh
+  uuid: 5f64fe5a-9fb2-4efe-b9f9-7cab40502581
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/h
+  title: "ح،ه H,"
+  slug: 18-h
+  uuid: 4ba7db82-dca5-487e-9734-0a31c4b1611e
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/%D8%A5%D8%8C%D8%B9-i
+  title: "إ،ع, I"
+  slug: 19-i
+  uuid: 078275db-979a-44ea-b317-70f9d1969695
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/%D8%AC-j
+  title: "ج, J"
+  slug: 20-j
+  uuid: 6241816b-8f15-4f06-9b2c-3dbc35718b20
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/%D9%83%D8%8C%D8%AE-k-kh
+  title: "ك،خ K, Kh,"
+  slug: 21-k-kh
+  uuid: bc2d175d-243b-4a7d-8ab7-dc06f61e2d2b
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/%D9%84-l
+  title: "ل, L"
+  slug: 22-l
+  uuid: 68544ffa-fe3b-433c-8012-bda21d721230
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/%D9%85-m
+  title: "م, M"
+  slug: 23-m
+  uuid: fbd21439-675d-4ad1-8839-8d9850f1f71d
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/%D9%86-n
+  title: "ن, N"
+  slug: 24-n
+  uuid: ae8ffbce-f86f-4c48-9118-f069cedb4c2e
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/p
+  title: P
+  slug: 25-p
+  uuid: bee772c8-c5c2-4380-805d-c379d21c739f
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/%D9%82-q
+  title: "ق, Q"
+  slug: 26-q
+  uuid: f15c94e5-6775-4a40-8ad0-491168017ee1
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/%D8%B1-r
+  title: "ر, R"
+  slug: 27-r
+  uuid: ae7ccb0f-2c52-4ade-a770-40cb21418eeb
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/%D8%B3%D8%8C%D8%B5-s
+  title: "س،ص, S"
+  slug: 28-s
+  uuid: 32ea72e6-2ea2-4c53-bd06-36aca327aba8
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/%D8%AA%D8%8C-%D8%B7%D8%8C-%D8%B0-t
+  title: "ت، ط، ذ, T"
+  slug: 29-t
+  uuid: f9750abc-202f-4935-9c6e-533fdaf87195
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/%D8%A3%D8%8C-%D8%B9-u
+  title: "أ، ع, U"
+  slug: 30-u
+  uuid: 97419a34-eaaa-4a9d-afdb-09342caad3a6
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/%D9%88-w
+  title: "و, W"
+  slug: 31-w
+  uuid: c610f45e-818c-4da3-949b-c6dcba29600f
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-beyond-yasin-t-al-jibouri/%D8%B2%D8%8C%D8%B6%D8%8C-%D8%B8-z
+  title: "ز،ض، ظ, Z"
+  slug: 32-z
+  uuid: 12ad9d52-adfb-477d-8d69-305df3b864f3
+---

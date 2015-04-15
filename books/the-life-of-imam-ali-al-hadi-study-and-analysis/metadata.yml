@@ -1,0 +1,69 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/life-imam-ali-al-hadi-study-and-analysis-baqir-shareef-al-qurashi
+author: Baqir Shareef al-Qurashi
+publisher: Ansariyan Publications - Qum
+translator: Abdullah al-Shahin
+title: The Life of Imam ‘Ali al-Hadi, Study and Analysis
+slug: the-life-of-imam-ali-al-hadi-study-and-analysis
+uuid: 46851988-9b03-4473-9db6-4c71e2566939
+description: |
+  A comprehensive and detailed biography and analysis of the life of our
+  tenth Imam, Ali bin Muhammad al-Hadi [a].
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-ali-al-hadi-study-and-analysis-baqir-shareef-al-qurashi/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: f1d388c2-0f4d-449c-840b-0df00627c69f
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-ali-al-hadi-study-and-analysis-baqir-shareef-al-qurashi/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: dfcaf3be-6dfa-4624-bdf9-a7291d51e67a
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-ali-al-hadi-study-and-analysis-baqir-shareef-al-qurashi/his-birth-and-upbringing
+  title: His Birth and Upbringing
+  slug: 3-his-birth-and-upbringing
+  uuid: 20a6abcd-54cc-4861-b9da-cbc6d120a46c
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-ali-al-hadi-study-and-analysis-baqir-shareef-al-qurashi/aspects-his-personality
+  title: Aspects of his Personality
+  slug: 4-aspects-of-his-personality
+  uuid: 40771f6d-cb37-4f0b-bf8b-35ec99ac281a
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-ali-al-hadi-study-and-analysis-baqir-shareef-al-qurashi/his-knowledge-and-sciences
+  title: His Knowledge and Sciences
+  slug: 5-his-knowledge-and-sciences
+  uuid: 28a34103-dfb9-467b-b09c-bca2a60c1f80
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-ali-al-hadi-study-and-analysis-baqir-shareef-al-qurashi/his-companions-and-narrators-his
+  title: His Companions and the Narrators of his Traditions
+  slug: 6-his-companions-and-the-narrators-of-his-traditions
+  uuid: 5ef7d8be-4431-486c-be06-86a3ccd40fc7
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-ali-al-hadi-study-and-analysis-baqir-shareef-al-qurashi/imam-al-hadi-samarra%E2%80%99
+  title: Imam al-Hadi in Samarra’
+  slug: 7-imam-al-hadi-in-samarra
+  uuid: 8d67e0e8-f473-4eba-815e-898342ae740f
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-ali-al-hadi-study-and-analysis-baqir-shareef-al-qurashi/age-imam
+  title: The Age of the Imam
+  slug: 8-the-age-of-the-imam
+  uuid: 51e1cd20-97b1-46d2-b82f-72e5b437e359
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-ali-al-hadi-study-and-analysis-baqir-shareef-al-qurashi/paradise
+  title: To the Paradise
+  slug: 9-to-the-paradise
+  uuid: eaea26dc-4ab6-441f-b0f5-e16341c8e9e0
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-ali-al-hadi-study-and-analysis-baqir-shareef-al-qurashi/ziyarah-imam-%E2%80%98ali-al-hadi
+  title: The Ziyarah of Imam ‘Ali al-Hadi (a.s)
+  slug: 10-the-ziyarah-of-imam-ali-al-hadi-a-s
+  uuid: 2f442004-ed59-4cc8-a5da-1149d571d2fa
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-ali-al-hadi-study-and-analysis-baqir-shareef-al-qurashi/common-ziyarah-imam-al-hadi-and
+  title: The Common Ziyarah Of Imam Al-Hadi And Imam Al-Askari
+  slug: 11-the-common-ziyarah-of-imam-al-hadi-and-imam-al-askari
+  uuid: 1c453ce3-2a5f-484c-a544-a95b61f3736a
+---

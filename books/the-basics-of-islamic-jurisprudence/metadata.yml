@@ -1,0 +1,49 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/the-basics-of-islamic-jurisprudence-hassan-al-ridai
+author: Hassan Al-Rida'i
+translator: Hamid Hussein Waqar
+title: The Basics of Islamic Jurisprudence
+slug: the-basics-of-islamic-jurisprudence
+uuid: 234790c0-8261-49dc-8876-0a0856b98873
+description: |
+  A description of the general and specific topics that are covered in
+  Islamic jurisprudence such as terminologies, sects, sources and
+  subjects.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/the-basics-of-islamic-jurisprudence-hassan-al-ridai/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: e66d216a-4915-44e1-9d9f-49dbcb58e28e
+- source: :alislam
+  source_url: http://www.al-islam.org/the-basics-of-islamic-jurisprudence-hassan-al-ridai/literal-and-figurative-definition-jurispudence
+  title: The Literal and Figurative Definition of Jurispudence
+  slug: 2-the-literal-and-figurative-definition-of-jurispudence
+  uuid: bbd3c3f8-125c-4a59-a21e-243e19629adc
+- source: :alislam
+  source_url: http://www.al-islam.org/the-basics-of-islamic-jurisprudence-hassan-al-ridai/importance-jurisprudence
+  title: The Importance of Jurisprudence
+  slug: 3-the-importance-of-jurisprudence
+  uuid: 69a20ccf-d485-43b0-814f-8c68bfdcb03d
+- source: :alislam
+  source_url: http://www.al-islam.org/the-basics-of-islamic-jurisprudence-hassan-al-ridai/jurisprudence-jargon
+  title: Jurisprudence Jargon
+  slug: 4-jurisprudence-jargon
+  uuid: ac046ef6-288d-4f14-9370-45f2e261c08e
+- source: :alislam
+  source_url: http://www.al-islam.org/the-basics-of-islamic-jurisprudence-hassan-al-ridai/jurisprudential-sects-islam
+  title: The Jurisprudential Sects of Islam
+  slug: 5-the-jurisprudential-sects-of-islam
+  uuid: c6ae81a7-5a6b-4b3d-adf9-f94a81c6504f
+- source: :alislam
+  source_url: http://www.al-islam.org/the-basics-of-islamic-jurisprudence-hassan-al-ridai/history-ahlul-bayt-jurisprudential
+  title: The History of the Ahlul-Bayt (a) Jurisprudential
+  slug: 6-the-history-of-the-ahlul-bayt-a-jurisprudential
+  uuid: 4015aa80-73da-42c4-b45d-5f25176657de
+- source: :alislam
+  source_url: http://www.al-islam.org/the-basics-of-islamic-jurisprudence-hassan-al-ridai/subjects-jurisprudence
+  title: Subjects of Jurisprudence
+  slug: 7-subjects-of-jurisprudence
+  uuid: 71694710-4652-48be-bb3f-0cfc7fb3372c
+---

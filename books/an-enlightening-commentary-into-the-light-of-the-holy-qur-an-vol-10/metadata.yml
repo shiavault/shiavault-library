@@ -1,0 +1,142 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10
+publisher: Imam Ali Foundation
+translator: Sayyid Abbas Sadr-'ameli
+title: An Enlightening Commentary into the Light of the Holy Qur'an vol. 10
+slug: an-enlightening-commentary-into-the-light-of-the-holy-qur-an-vol-10
+uuid: 5fdc104d-39db-4b3b-b5fb-93dd4dbaac45
+description: |
+  An Enlightening Commentary into the Light of the Holy Qur'an vol. 10
+  From Surah al-Anbiya’ (21) to Surah al-Hajj (22) The light of Islam has
+  enlightened and continuing to enlighten every corner in the world and
+  seekers of truth have closely associated to the Holy Quran which carries
+  the Word of Allah (SWT) to humanity. With increasing focus and attention
+  to the Holy Quran, efforts has been done to provide a pure, correct and
+  accurate translation of this divine book. But sometimes it is difficult
+  for the readers to understand all of the apparent and hidden meanings
+  and it is the duty of every Muslim, man or woman, to read, understand
+  and contemplate on the Holy Qur’an according to his own capacity. Hence,
+  the need for proper explanation becomes obvious and necessary. The book
+  titled, “An Enlightening Commentary into the Light of the Holy Qur’an”
+  compiled by a group of Muslim scholars, under the direction of Ayatullah
+  Allamah Al-Hajj Sayyid Kamal Faqih Imani is a valuable effort which
+  presents a thorough commentary on the Quran in 20 volumes made available
+  to the reader.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 92869365-63a3-46cc-a43a-795cdbad19d2
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/acknowledgment
+  title: Acknowledgment
+  slug: 2-acknowledgment
+  uuid: 6b919a75-2a35-4867-acbb-9156aad926bd
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/references
+  title: References
+  slug: 3-references
+  uuid: 87ee502e-46ee-46ef-8bf1-46aaa0f27e93
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/presentation-muslims
+  title: A Presentation to Muslims
+  slug: 4-a-presentation-to-muslims
+  uuid: 4c952b3a-0e72-4f01-98c0-2de4e4500931
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/surah-al-anbiya-chapter-21
+  title: Surah Al-’Anbiya’, Chapter 21
+  slug: 5-surah-al-anbiya-chapter-21
+  uuid: e314590d-2ebc-4858-acba-d34cbd42ebf3
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/section-1-judgment-getting-nigh
+  title: 'Section 1: Judgment Getting Nigh'
+  slug: 6-section-1-judgment-getting-nigh
+  uuid: e10e28cd-0069-42c3-8d84-219fd72f912b
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/section-2-everything-universe-belongs-only-allah
+  title: 'Section 2: Everything in the universe belongs only to Allah'
+  slug: 7-section-2-everything-in-the-universe-belongs-only-to-allah
+  uuid: c0899bae-0f8d-4da6-96f6-a71b22cbebab
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/section-3-every-soul-shall-taste-death
+  title: 'Section 3: Every Soul Shall Taste Death'
+  slug: 8-section-3-every-soul-shall-taste-death
+  uuid: 2017095c-9ea8-4ca1-ad23-0446f1bc7dd2
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/section-4-divine-mercy
+  title: 'Section 4: The Divine Mercy'
+  slug: 9-section-4-the-divine-mercy
+  uuid: 1727bb3c-d1b6-4b61-9dc0-1a0626987981
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/section-5-abraham-argues-against-idolatry
+  title: 'Section 5: Abraham Argues Against Idolatry'
+  slug: 10-section-5-abraham-argues-against-idolatry
+  uuid: 5858ca34-af6b-4343-891a-832ffa128b86
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/section-6-apostle-allah-delivered-and-blessed
+  title: 'Section 6: The Apostle of Allah Delivered and Blessed'
+  slug: 11-section-6-the-apostle-of-allah-delivered-and-blessed
+  uuid: f52fd7bf-1b81-45a5-a54d-350e652b59e3
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/section-7-righteous-shall-inherit-earth
+  title: 'Section 7: The Righteous Shall Inherit the Earth'
+  slug: 12-section-7-the-righteous-shall-inherit-the-earth
+  uuid: 0aaa22ae-eceb-4db6-8556-8b9b30acd9fd
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/surah-al-hajj-chapter-22
+  title: Surah Al-Hajj, Chapter 22
+  slug: 13-surah-al-hajj-chapter-22
+  uuid: c1826bb8-5563-4a46-bbc6-7b5630782b31
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/section-1-awful-day-judgment
+  title: 'Section 1: The Awful Day of Judgment'
+  slug: 14-section-1-the-awful-day-of-judgment
+  uuid: 4434ce22-0774-4fbf-8c5f-fbc6e3f34905
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/section-2-weak-faith
+  title: 'Section 2: The Weak in Faith'
+  slug: 15-section-2-the-weak-in-faith
+  uuid: b4251e6b-01c5-408d-8dee-de4256c73ca9
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/section-3-believers-shall-be-rewarded
+  title: 'Section 3: Believers Shall Be Rewarded'
+  slug: 16-section-3-believers-shall-be-rewarded
+  uuid: f31bd5e5-6df5-4bdd-a3fb-e0ca6fe2cfb4
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/section-4-pilgrimage-sacred-house
+  title: 'Section 4: Pilgrimage to the Sacred House'
+  slug: 17-section-4-pilgrimage-to-the-sacred-house
+  uuid: b3c19dbe-41a2-4920-9fa5-c60b6634b1bb
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/section-5-regard-sign-allah
+  title: 'Section 5: Regard for the Sign of Allah'
+  slug: 18-section-5-regard-for-the-sign-of-allah
+  uuid: 73152d23-44bc-4625-aa1d-b59aa190c8f4
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/section-6-fight-self-defence-permitted
+  title: 'Section 6: Fight in Self-Defence Permitted'
+  slug: 19-section-6-fight-in-self-defence-permitted
+  uuid: 0275cf50-eaea-4ae8-bf2f-c7442597974b
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/section-7-enticement-satan
+  title: 'Section 7: The Enticement by Satan'
+  slug: 20-section-7-the-enticement-by-satan
+  uuid: c221e6aa-ec7e-4303-8c5a-20c5312799aa
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/section-8-reward-those-who-migrate-allahs-cause
+  title: 'Section 8: Reward For Those Who Migrate in Allah’s Cause'
+  slug: 21-section-8-reward-for-those-who-migrate-in-allah-s-cause
+  uuid: c1814d86-3ba6-467b-b945-61012fcde4bb
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/section-9-allahs-will-alone-done
+  title: 'Section 9: Allah’s Will Alone is Done'
+  slug: 22-section-9-allah-s-will-alone-is-done
+  uuid: 8d96ad79-b2ed-4a6f-9b64-851fb01a24f2
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-10/section-10-muslims-chosen-allah-himself
+  title: 'Section 10: The Muslims, Chosen By Allah Himself'
+  slug: 23-section-10-the-muslims-chosen-by-allah-himself
+  uuid: 1257a367-d02b-49fe-b056-9119d482f440
+---

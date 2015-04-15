@@ -1,0 +1,95 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/akhlaq-al-aimma-morals-manners-holy-imams-maulana-sayyid-zafar-hasan-amrohi
+author: Maulana Sayyid Zafar Hasan Amrohi
+publisher: Ansariyan Publications - Qum
+translator: Sayyid Athar Husayn  S.H. Rizvi
+title: Akhlaq al-A’imma, Morals & Manners of the Holy Imams
+slug: akhlaq-al-a-imma-morals-manners-of-the-holy-imams
+uuid: 79e1fd88-0318-4912-8d47-e1821dc685d4
+description: |
+  The aim of this book is to present the perfect morals of the Holy Imams.
+  Topics include their knowledge, worship, bravery, justice, chastity,
+  humility and contentment.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/akhlaq-al-aimma-morals-manners-holy-imams-maulana-sayyid-zafar-hasan-amrohi/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 82e0aeb2-99c1-4def-84e0-16c7640f9ae7
+- source: :alislam
+  source_url: http://www.al-islam.org/akhlaq-al-aimma-morals-manners-holy-imams-maulana-sayyid-zafar-hasan-amrohi/what-are-ethics
+  title: What are Ethics?
+  slug: 2-what-are-ethics
+  uuid: 603a0d48-ad49-4a40-86ac-5d057245a539
+- source: :alislam
+  source_url: http://www.al-islam.org/akhlaq-al-aimma-morals-manners-holy-imams-maulana-sayyid-zafar-hasan-amrohi/aim-book
+  title: Aim of this Book
+  slug: 3-aim-of-this-book
+  uuid: fd755fab-feb4-4f90-906b-7a0724cf2dff
+- source: :alislam
+  source_url: http://www.al-islam.org/akhlaq-al-aimma-morals-manners-holy-imams-maulana-sayyid-zafar-hasan-amrohi/merits-fourteen
+  title: Merits of the Fourteen Infallibles
+  slug: 4-merits-of-the-fourteen-infallibles
+  uuid: 3b880cb8-74d5-4bc4-a84f-f0b8c55ee77b
+- source: :alislam
+  source_url: http://www.al-islam.org/akhlaq-al-aimma-morals-manners-holy-imams-maulana-sayyid-zafar-hasan-amrohi/amazing-appeal-good
+  title: Amazing Appeal of Good Morals
+  slug: 5-amazing-appeal-of-good-morals
+  uuid: 479a06c6-e824-4438-bda3-3f965f801c61
+- source: :alislam
+  source_url: http://www.al-islam.org/akhlaq-al-aimma-morals-manners-holy-imams-maulana-sayyid-zafar-hasan-amrohi/perfection-morals-hands
+  title: Perfection of Morals at the Hands of the Holy Prophet (S)?
+  slug: 6-perfection-of-morals-at-the-hands-of-the-holy-prophet-s
+  uuid: b16a1550-30de-4a29-be8e-72c2933818c0
+- source: :alislam
+  source_url: http://www.al-islam.org/akhlaq-al-aimma-morals-manners-holy-imams-maulana-sayyid-zafar-hasan-amrohi/explanation-four-merits
+  title: Explanation of the Four Merits
+  slug: 7-explanation-of-the-four-merits
+  uuid: d009012f-9324-4444-b149-871579e5fe34
+- source: :alislam
+  source_url: http://www.al-islam.org/akhlaq-al-aimma-morals-manners-holy-imams-maulana-sayyid-zafar-hasan-amrohi/knowledge-ahl-ul-bayt
+  title: Knowledge of Ahl ul-Bayt
+  slug: 8-knowledge-of-ahl-ul-bayt
+  uuid: 9a0016f7-95a7-48df-9aad-fa1c3f89f1b1
+- source: :alislam
+  source_url: http://www.al-islam.org/akhlaq-al-aimma-morals-manners-holy-imams-maulana-sayyid-zafar-hasan-amrohi/practical-virtues-holy
+  title: Practical Virtues of the Holy Imams
+  slug: 9-practical-virtues-of-the-holy-imams
+  uuid: 8f31eb6d-3890-4aa7-b0e2-7aed0d228ea0
+- source: :alislam
+  source_url: http://www.al-islam.org/akhlaq-al-aimma-morals-manners-holy-imams-maulana-sayyid-zafar-hasan-amrohi/humility-holy-imams
+  title: Humility of the Holy Imams (a.s)
+  slug: 10-humility-of-the-holy-imams-a-s
+  uuid: 12ac50b2-37ce-40a6-9f64-8a96ee202049
+- source: :alislam
+  source_url: http://www.al-islam.org/akhlaq-al-aimma-morals-manners-holy-imams-maulana-sayyid-zafar-hasan-amrohi/forbearance-holy-imams
+  title: Forbearance of the Holy Imams (a.s)
+  slug: 11-forbearance-of-the-holy-imams-a-s
+  uuid: d64fa37c-77b6-449e-8e9b-df13ee8d5c28
+- source: :alislam
+  source_url: http://www.al-islam.org/akhlaq-al-aimma-morals-manners-holy-imams-maulana-sayyid-zafar-hasan-amrohi/holy-imams%E2%80%99-affection
+  title: The Holy Imams’ affection for fellow creatures
+  slug: 12-the-holy-imams-affection-for-fellow-creatures
+  uuid: 9677e912-fc80-4f3d-b084-abf1273f1505
+- source: :alislam
+  source_url: http://www.al-islam.org/akhlaq-al-aimma-morals-manners-holy-imams-maulana-sayyid-zafar-hasan-amrohi/hospitality-holy-imams
+  title: Hospitality of the Holy Imams (a.s)
+  slug: 13-hospitality-of-the-holy-imams-a-s
+  uuid: 208ed3bf-42c6-4748-8110-75a3dc936761
+- source: :alislam
+  source_url: http://www.al-islam.org/akhlaq-al-aimma-morals-manners-holy-imams-maulana-sayyid-zafar-hasan-amrohi/holy-imams%E2%80%99-kindness
+  title: The Holy Imams’ kindness to relatives
+  slug: 14-the-holy-imams-kindness-to-relatives
+  uuid: 10abc147-3c46-47ed-a99c-a2a1ceb346fc
+- source: :alislam
+  source_url: http://www.al-islam.org/akhlaq-al-aimma-morals-manners-holy-imams-maulana-sayyid-zafar-hasan-amrohi/holy-imams%E2%80%99-benevolence
+  title: The Holy Imams’ Benevolence to Slaves
+  slug: 15-the-holy-imams-benevolence-to-slaves
+  uuid: 5fc43dbf-093d-4962-95ef-0cf9859baba4
+- source: :alislam
+  source_url: http://www.al-islam.org/akhlaq-al-aimma-morals-manners-holy-imams-maulana-sayyid-zafar-hasan-amrohi/contentment-holy-imams
+  title: Contentment of the Holy Imams (a.s)
+  slug: 16-contentment-of-the-holy-imams-a-s
+  uuid: b7cc8d1a-456d-4740-9553-047bfa51f107
+---

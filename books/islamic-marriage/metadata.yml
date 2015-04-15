@@ -1,0 +1,108 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islamic-marriage-syed-athar-husain-sh-rizvi
+author: Syed Athar Husain S.H. Rizvi
+publisher: World Islamic Network (WIN)
+title: Islamic Marriage
+slug: islamic-marriage
+uuid: e1f9fb3b-6ccc-4143-b665-ea74a98ba9d1
+description: |
+  This book is compiled for those intending to marry in the near future or
+  the newly married people.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-marriage-syed-athar-husain-sh-rizvi/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: b4607fcf-70bf-4c2a-bb93-6110c9dae31e
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-marriage-syed-athar-husain-sh-rizvi/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 50631f50-9dc3-430a-8b9d-4aed5b257bfc
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-marriage-syed-athar-husain-sh-rizvi/importance-marriage-islam
+  title: Importance of Marriage in Islam
+  slug: 3-importance-of-marriage-in-islam
+  uuid: 13d27664-3b06-4544-9eaf-885dd3b19b1c
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-marriage-syed-athar-husain-sh-rizvi/when-must-we-marry
+  title: When Must We Marry?
+  slug: 4-when-must-we-marry
+  uuid: b919ec22-f604-4af4-83aa-d8321d152bbc
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-marriage-syed-athar-husain-sh-rizvi/selection-spouse
+  title: Selection of Spouse
+  slug: 5-selection-of-spouse
+  uuid: 76b1eb22-7744-4fee-820f-89dcd50ff45a
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-marriage-syed-athar-husain-sh-rizvi/marriage-ceremony
+  title: The Marriage Ceremony
+  slug: 6-the-marriage-ceremony
+  uuid: 3aec4782-59e1-4d80-bde3-3e8b3c997758
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-marriage-syed-athar-husain-sh-rizvi/components-ideal-islamic-marriage
+  title: Components of an Ideal Islamic Marriage
+  slug: 7-components-of-an-ideal-islamic-marriage
+  uuid: edaf6187-670b-4105-af9f-7dd45bc3187f
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-marriage-syed-athar-husain-sh-rizvi/wedding-night
+  title: The Wedding Night
+  slug: 8-the-wedding-night
+  uuid: e44848ec-dccf-4584-9b46-7131e5423d7c
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-marriage-syed-athar-husain-sh-rizvi/days-and-times-sex
+  title: Days and Times for Sex
+  slug: 9-days-and-times-for-sex
+  uuid: c963ee00-78f6-47a8-be2c-c59b4ee76215
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-marriage-syed-athar-husain-sh-rizvi/sexual-techniques
+  title: Sexual Techniques
+  slug: 10-sexual-techniques
+  uuid: ab9c76e2-d061-40d2-8e84-ea2defdf43a7
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-marriage-syed-athar-husain-sh-rizvi/du%E2%80%99-pregnancy
+  title: Du’a for Pregnancy
+  slug: 11-du-a-for-pregnancy
+  uuid: cc43a314-0446-4f99-ba97-8e8e6faa2090
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-marriage-syed-athar-husain-sh-rizvi/contraceptives-and-abortion
+  title: Contraceptives and Abortion
+  slug: 12-contraceptives-and-abortion
+  uuid: 94e722f3-030a-423c-bc4c-e185a9046945
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-marriage-syed-athar-husain-sh-rizvi/major-ablution-ghusl-janabat
+  title: The Major Ablution (Ghusl Janabat)
+  slug: 13-the-major-ablution-ghusl-janabat
+  uuid: bd2168d1-0794-447b-b6aa-8bac868bdd8d
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-marriage-syed-athar-husain-sh-rizvi/mutual-rights-and-behavior
+  title: Mutual Rights and Behavior
+  slug: 14-mutual-rights-and-behavior
+  uuid: fa5f5cea-5fdd-4712-bb06-f339e2f5d7c1
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-marriage-syed-athar-husain-sh-rizvi/duties-other-family-members
+  title: Duties of Other Family Members
+  slug: 15-duties-of-other-family-members
+  uuid: 544b9f2f-7c96-4c84-9488-60ee4c6c6b79
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-marriage-syed-athar-husain-sh-rizvi/conclusion
+  title: Conclusion
+  slug: 16-conclusion
+  uuid: 88a038f1-5b76-4a4c-9e7a-58c894dcea5c
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-marriage-syed-athar-husain-sh-rizvi/glossary-islamic-terms
+  title: Glossary of Islamic Terms
+  slug: 17-glossary-of-islamic-terms
+  uuid: 8296d799-0c88-4a56-99f0-599d7fcba337
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-marriage-syed-athar-husain-sh-rizvi/bibliography
+  title: Bibliography
+  slug: 18-bibliography
+  uuid: 4e2e6b00-a56b-4f72-8687-f85be3553725
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-marriage-syed-athar-husain-sh-rizvi/endnote
+  title: Endnote
+  slug: 19-endnote
+  uuid: 24c6f245-bf7b-47ae-b675-69953303a7b5
+---

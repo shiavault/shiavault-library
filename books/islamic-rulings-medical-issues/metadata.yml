@@ -1,0 +1,93 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islamic-rulings-medical-issues-sayyid-ali-khamenei
+author: Ayatullah Sayyid Ali Khamene'i
+translator: Hamid Hussein Waqar
+title: 'Islamic Rulings: Medical Issues'
+slug: islamic-rulings-medical-issues
+uuid: 9f8a9731-cff5-419f-af7d-5892e8e6ea4f
+description: |
+  A compilation of queries on various topics answered by Ayatollah Sayyid
+  ‘Ali Khamenei’i which have been arranged in topic-wise sections.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-rulings-medical-issues-sayyid-ali-khamenei/rulings-regarding-spiritual-purity-tah%C4%81rat
+  title: Rulings Regarding Spiritual Purity (Tahārat)
+  slug: 1-rulings-regarding-spiritual-purity-taharat
+  uuid: 6eb2892c-4db4-40a6-9218-df02dc1518fb
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-rulings-medical-issues-sayyid-ali-khamenei/rules-regarding-prayer
+  title: Rules Regarding Prayer
+  slug: 2-rules-regarding-prayer
+  uuid: 2a4cce36-79b7-4502-80da-0d42434e33f4
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-rulings-medical-issues-sayyid-ali-khamenei/rules-regarding-fasting
+  title: Rules Regarding Fasting
+  slug: 3-rules-regarding-fasting
+  uuid: 36ad852c-f823-4574-8bcc-fca30115516f
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-rulings-medical-issues-sayyid-ali-khamenei/rules-regarding-food
+  title: Rules Regarding Food
+  slug: 4-rules-regarding-food
+  uuid: eb41bd88-fe10-49a3-bcce-b94a844a2696
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-rulings-medical-issues-sayyid-ali-khamenei/rules-regarding-looking-touching-and-examining
+  title: Rules Regarding Looking, Touching and Examining
+  slug: 5-rules-regarding-looking-touching-and-examining
+  uuid: 4744e6ad-aae1-4400-a158-693136a60493
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-rulings-medical-issues-sayyid-ali-khamenei/rules-regarding-surgery
+  title: Rules Regarding Surgery
+  slug: 6-rules-regarding-surgery
+  uuid: 7135259f-5683-4c1b-9a7b-ce0a53d88c87
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-rulings-medical-issues-sayyid-ali-khamenei/rules-regarding-changing-one%E2%80%99s-sex
+  title: Rules Regarding  Changing One’s Sex
+  slug: 7-rules-regarding-changing-one-s-sex
+  uuid: a2ee960d-8eb1-431d-a251-2440c75bc16e
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-rulings-medical-issues-sayyid-ali-khamenei/rules-regarding-pregnancy-and-methods-preventing
+  title: Rules Regarding Pregnancy and Methods of Preventing Pregnancy
+  slug: 8-rules-regarding-pregnancy-and-methods-of-preventing-pregnancy
+  uuid: 9f7dc725-2ea0-4c0d-a0ec-c5580ce2b32d
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-rulings-medical-issues-sayyid-ali-khamenei/rules-regarding-barrenness-and-impregnation
+  title: Rules Regarding Barrenness and Impregnation
+  slug: 9-rules-regarding-barrenness-and-impregnation
+  uuid: 50072915-bf09-4d11-985b-1a117cd79b82
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-rulings-medical-issues-sayyid-ali-khamenei/rules-regarding-death-and-death-bed
+  title: Rules Regarding Death and The Death Bed
+  slug: 10-rules-regarding-death-and-the-death-bed
+  uuid: 5d3cbecf-43fe-4941-b14a-294d20a65bd7
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-rulings-medical-issues-sayyid-ali-khamenei/rules-regarding-internal-examination-dead-body
+  title: Rules Regarding Internal Examination of a Dead Body
+  slug: 11-rules-regarding-internal-examination-of-a-dead-body
+  uuid: 89808046-19cb-4e15-9ddc-f66250f0fab5
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-rulings-medical-issues-sayyid-ali-khamenei/rules-regarding-organ-transplants
+  title: Rules Regarding Organ Transplants
+  slug: 12-rules-regarding-organ-transplants
+  uuid: 61778ea2-bbf0-4050-8138-7c52f679199a
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-rulings-medical-issues-sayyid-ali-khamenei/rules-regarding-abortion-and-blood-money
+  title: Rules Regarding Abortion and Blood Money
+  slug: 13-rules-regarding-abortion-and-blood-money
+  uuid: eae48a2c-31c7-4010-99f0-bb10b6f8b55d
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-rulings-medical-issues-sayyid-ali-khamenei/rules-regarding-assisted-suicide
+  title: Rules Regarding Assisted Suicide
+  slug: 14-rules-regarding-assisted-suicide
+  uuid: c634dba2-71c8-41db-8a69-b4823d87a247
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-rulings-medical-issues-sayyid-ali-khamenei/rules-regarding-smoking
+  title: Rules Regarding Smoking
+  slug: 15-rules-regarding-smoking
+  uuid: 6f8ab99b-89a3-494c-a46f-56983d494325
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-rulings-medical-issues-sayyid-ali-khamenei/miscellaneous-rulings
+  title: Miscellaneous Rulings
+  slug: 16-miscellaneous-rulings
+  uuid: a65c3cd8-55b0-488c-8453-a356eec9e6f0
+---

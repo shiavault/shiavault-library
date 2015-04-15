@@ -1,0 +1,138 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy
+author: Syed A.A Razwy
+publisher: Tahrike Tarsile Qur'an
+title: Khadijatul Kubra
+slug: khadijatul-kubra
+uuid: b8709173-1f38-4cc8-9558-9836cb65b6d9
+description: |
+  Her family tree, early life, marriage to the Prophet (s), generosity,
+  status, and role in the events of early Islamic history.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/family-tree
+  title: The Family Tree
+  slug: 1-the-family-tree
+  uuid: 852ac4a9-9d8c-433e-9c51-5914d7cc7db4
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/map-arabia
+  title: Map of Arabia
+  slug: 2-map-of-arabia
+  uuid: 2147ef29-5c2b-4c93-abfa-3d25d53a59f1
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/%C2%A0introduction
+  title: " Introduction"
+  slug: 3-introduction
+  uuid: 94a61983-252e-4754-a428-535695b6deb0
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/chapter-1-makka-sixth-century
+  title: 'Chapter 1: Makka in the Sixth Century'
+  slug: 4-chapter-1-makka-in-the-sixth-century
+  uuid: f3550822-d850-4645-92bd-428a2228bc98
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/chapter-2-early-life
+  title: 'Chapter 2: Early Life'
+  slug: 5-chapter-2-early-life
+  uuid: 1d2d1ef6-5838-4bf4-8be5-daaedd28abd5
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/chapter-3-muhammad-mustafa-s
+  title: 'Chapter 3: Muhammad Mustafa (S)'
+  slug: 6-chapter-3-muhammad-mustafa-s
+  uuid: 7bda48bc-b2c3-48e2-be89-8968d5dde43a
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/chapter-4-marriage
+  title: 'Chapter 4: The Marriage'
+  slug: 7-chapter-4-the-marriage
+  uuid: 3b54d5a8-8ce5-4ca7-a0d6-6cab5c5efede
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/chapter-5-eve-proclamation-islam
+  title: 'Chapter 5: The Eve Of the Proclamation of Islam'
+  slug: 8-chapter-5-the-eve-of-the-proclamation-of-islam
+  uuid: fd428f8b-b630-496c-ac0f-0c4e7acd9db9
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/chapter-6-proclamation-islam
+  title: 'Chapter 6: The Proclamation of Islam'
+  slug: 9-chapter-6-the-proclamation-of-islam
+  uuid: ea09c08e-dbe0-4b6f-b9a4-efdddafd4b2b
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/chapter-7-persecution-muslims
+  title: 'Chapter 7: The Persecution of the Muslims'
+  slug: 10-chapter-7-the-persecution-of-the-muslims
+  uuid: 3d83ceff-30c7-46ce-a8cb-ae7d69a622ff
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/chapter-8-two-migrations
+  title: 'Chapter 8: The Two Migrations'
+  slug: 11-chapter-8-the-two-migrations
+  uuid: f4a00a54-f558-4a4b-a5e0-bd1802974630
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/chapter-9-hamza-accepts-islam
+  title: 'Chapter 9: Hamza Accepts Islam'
+  slug: 12-chapter-9-hamza-accepts-islam
+  uuid: fe46d979-68eb-4a39-ba09-7e6f361db275
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/chapter-10-umars-conversion-islam
+  title: 'Chapter 10: Umar''s Conversion to Islam'
+  slug: 13-chapter-10-umar-s-conversion-to-islam
+  uuid: e13e1ab0-e666-4b46-898c-633a9d055574
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/chapter-11-siege-bani-hashim
+  title: 'Chapter 11: The Siege of Bani Hashim'
+  slug: 14-chapter-11-the-siege-of-bani-hashim
+  uuid: 738ca385-d6a6-499b-bb76-6ad1f5e1ce42
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/chapter-12-death
+  title: 'Chapter 12: The Death'
+  slug: 15-chapter-12-the-death
+  uuid: 5a415aa3-ca14-4a13-aa6f-44eabceaa654
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/chapter-13-mother-believers
+  title: 'Chapter 13: The Mother of Believers'
+  slug: 16-chapter-13-the-mother-of-believers
+  uuid: 7a777fcb-3eb3-428e-b04f-03a5a3c5739b
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/chapter-14-perfect-woman
+  title: 'Chapter 14: The Perfect Woman'
+  slug: 17-chapter-14-the-perfect-woman
+  uuid: c9a13a79-500f-473e-87f5-6b34d89f046b
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/chapter-15-generosity
+  title: 'Chapter 15: Generosity'
+  slug: 18-chapter-15-generosity
+  uuid: c763a328-ad89-44c9-9868-c61a54476b00
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/chapter-16-khadija-and-muhammad
+  title: 'Chapter 16: Khadija and Muhammad'
+  slug: 19-chapter-16-khadija-and-muhammad
+  uuid: 8da330b9-ebbb-4152-b7f8-a87c7def7c20
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/chapter-17-khadija-and-her-co-wives
+  title: 'Chapter 17: Khadija and her Co-wives'
+  slug: 20-chapter-17-khadija-and-her-co-wives
+  uuid: e2ed567a-d434-42c0-8147-0ef7cc4674c4
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/chapter-18-khadija-and-ayesha
+  title: 'Chapter 18: Khadija and Ayesha'
+  slug: 21-chapter-18-khadija-and-ayesha
+  uuid: 50228801-4fe6-4ef7-afab-f6ec65131781
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/chapter-19-khadija-and-islam
+  title: 'Chapter 19: Khadija and Islam'
+  slug: 22-chapter-19-khadija-and-islam
+  uuid: 2699ac84-2ecc-46e7-bc74-83a08e42df05
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/chapter-20-khadija-and-muslim-historians
+  title: 'Chapter 20: Khadija and Muslim Historians'
+  slug: 23-chapter-20-khadija-and-muslim-historians
+  uuid: 04600cc5-9d79-4123-a03e-09b58b338695
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/chapter-21-epilogue
+  title: 'Chapter 21: Epilogue'
+  slug: 24-chapter-21-epilogue
+  uuid: a94010f3-190c-4c47-bfb7-408adb96c209
+- source: :alislam
+  source_url: http://www.al-islam.org/khadijatul-kubra-sayyid-ali-asghar-razwy/bibliography
+  title: Bibliography
+  slug: 25-bibliography
+  uuid: 3f826635-91b9-4d54-a11c-59949e61d4ac
+---

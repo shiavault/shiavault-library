@@ -1,0 +1,83 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islam-dialogue-and-civil-society-khatami
+author: Sayyid Muhammad Khatami
+publisher: The Foundation for the Revival of Islamic Heritage
+title: Islam, Dialogue and Civil Society
+slug: islam-dialogue-and-civil-society
+uuid: 0f8ef248-a4db-4dff-8bcb-c9439f80bdac
+description: |
+  Dialogues among civilizations, Islamic world and modern changes, reason
+  and religion, freedom and development, and traditions and modernity.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-dialogue-and-civil-society-khatami/preface
+  title: Preface
+  slug: 1-preface
+  uuid: fdd2cc4e-0707-442d-bd11-122fa1465722
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-dialogue-and-civil-society-khatami/dialogue-among-civilizations-and-world-islam
+  title: Dialogue among Civilizations and the World of Islam
+  slug: 2-dialogue-among-civilizations-and-the-world-of-islam
+  uuid: 917837ee-6511-48e0-9358-8e51e8c3b89d
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-dialogue-and-civil-society-khatami/dialogue-between-east-and-west
+  title: Dialogue between East and West
+  slug: 3-dialogue-between-east-and-west
+  uuid: 61c8a30e-7121-47f1-87cf-8aef034406ce
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-dialogue-and-civil-society-khatami/islamic-world-and-modern-challenges
+  title: The Islamic World and Modern Challenges
+  slug: 4-the-islamic-world-and-modern-challenges
+  uuid: 25d9878e-7c2f-4766-b308-3ae1d0a74e3e
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-dialogue-and-civil-society-khatami/dialogue-and-new-millennium
+  title: Dialogue and the New Millennium
+  slug: 5-dialogue-and-the-new-millennium
+  uuid: a1f67fcd-3936-4697-b4e4-ee6579a61431
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-dialogue-and-civil-society-khatami/reason-and-religion
+  title: Reason and Religion
+  slug: 6-reason-and-religion
+  uuid: 85d1de0f-8519-46b9-9830-05129a4697ed
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-dialogue-and-civil-society-khatami/religious-belief-todays-world
+  title: Religious Belief in Today's World
+  slug: 7-religious-belief-in-today-s-world
+  uuid: a96b7ca7-3839-41e2-9f36-9d74e963d7f3
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-dialogue-and-civil-society-khatami/fears-and-hopes
+  title: Fears and Hopes
+  slug: 8-fears-and-hopes
+  uuid: 1b4241cb-aead-4455-ac4f-e7aacaad85f2
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-dialogue-and-civil-society-khatami/%C2%A0
+  title: " "
+  slug: 9-
+  uuid: 70733d63-cac8-47e0-b309-bb6ecd6ee651
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-dialogue-and-civil-society-khatami/observations-information-world
+  title: Observations on the Information World
+  slug: 10-observations-on-the-information-world
+  uuid: e4f23886-e461-4c1a-9555-c6baefa16176
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-dialogue-and-civil-society-khatami/tradition-modernity-and-development
+  title: Tradition, Modernity and Development
+  slug: 11-tradition-modernity-and-development
+  uuid: 6e609e01-59b4-47e0-b5dc-2160af8f1f99
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-dialogue-and-civil-society-khatami/freedom-and-development
+  title: Freedom and Development
+  slug: 12-freedom-and-development
+  uuid: f1fc6859-7a5e-424d-8b38-c7d60d186223
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-dialogue-and-civil-society-khatami/our-revolution-and-future-islam
+  title: Our Revolution and the Future of Islam
+  slug: 13-our-revolution-and-the-future-of-islam
+  uuid: ca653386-fb4a-4542-8416-4d717e12e7c0
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-dialogue-and-civil-society-khatami/biographical-note
+  title: Biographical Note
+  slug: 14-biographical-note
+  uuid: 3f53a446-6dd1-45e4-b29d-d43750591217
+---

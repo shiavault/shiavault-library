@@ -1,0 +1,43 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/freedom-and-causality-contemporary-islamic-western-philosophy-ayatullah-mohsen-araki
+author: Ayatullah Mohsen Araki
+title: Freedom and Causality in Contemporary Islamic & Western Philosophy
+slug: freedom-and-causality-in-contemporary-islamic-western-philosophy
+uuid: fd1b18bc-22e0-446a-b60d-3e5ea996b72d
+description: |
+  This text authored by Mohsen Mohammadi Araghi which addresses the topics
+  of freewill and causality in contemporary Islamic and western philosophy
+  and the theory of moral obligation.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/freedom-and-causality-contemporary-islamic-western-philosophy-ayatullah-mohsen-araki/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 28cef2f2-c906-4942-861d-0fc9bedc798e
+- source: :alislam
+  source_url: http://www.al-islam.org/freedom-and-causality-contemporary-islamic-western-philosophy-ayatullah-mohsen-araki/part-1
+  title: 'Part 1: The Background of the Problem in Islamic Philosophy'
+  slug: 2-part-1-the-background-of-the-problem-in-islamic-philosophy
+  uuid: 226e90a5-a3e9-4c46-ba3c-232a554a864d
+- source: :alislam
+  source_url: http://www.al-islam.org/freedom-and-causality-contemporary-islamic-western-philosophy-ayatullah-mohsen-araki/part-2-freewill
+  title: 'Part 2: Freewill and Causality in the Contemporary Islamic Philosophy'
+  slug: 3-part-2-freewill-and-causality-in-the-contemporary-islamic-philosophy
+  uuid: c06e32e7-a667-48b2-b119-795caf2bb0f8
+- source: :alislam
+  source_url: http://www.al-islam.org/freedom-and-causality-contemporary-islamic-western-philosophy-ayatullah-mohsen-araki/part-3-free
+  title: 'Part 3: Free Will and Causality in Contemporary Western Philosophy'
+  slug: 4-part-3-free-will-and-causality-in-contemporary-western-philosophy
+  uuid: fada9e85-f3ce-4f9e-babf-77285413e8cd
+- source: :alislam
+  source_url: http://www.al-islam.org/freedom-and-causality-contemporary-islamic-western-philosophy-ayatullah-mohsen-araki/part-4-theory
+  title: 'Part 4: The Theory of Moral Obligation (Moral Necessity)'
+  slug: 5-part-4-the-theory-of-moral-obligation-moral-necessity
+  uuid: a6ab9d12-9a3d-4951-a968-94c72e8afc63
+- source: :alislam
+  source_url: http://www.al-islam.org/freedom-and-causality-contemporary-islamic-western-philosophy-ayatullah-mohsen-araki/bibliography
+  title: Bibliography
+  slug: 6-bibliography
+  uuid: 4b215d84-b8b7-4354-b935-7463d36b40aa
+---

@@ -1,0 +1,96 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/beacons-of-light-at-tabarsi
+author: Abu Ali al Fadl ibn al Hasan ibn al Fadl at Tabarsi
+publisher: W.O.F.I.S. World Organization for Islamic Services
+translator: Dr. Mahmoud AyoubDr. Lynda Clarke
+title: Beacons of Light
+slug: beacons-of-light
+uuid: 35bf539d-e25f-4d42-b7b2-6749569a8804
+description: |
+  The Prophet of Islam (s), his signs, miracles, biography and family
+  life, and a biography of his daughter Lady Fatima (a). A Partial
+  translation of I'lamu 'l Wara bi Alami 'l-Huda by Abu Ali al Fadl ibn al
+  Hasan ibn al Fadl at Tabarsi (c. 468/1076 - 548/1154)
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/beacons-of-light-at-tabarsi/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 7e6f3204-6366-43ba-a284-783aad6b445c
+- source: :alislam
+  source_url: http://www.al-islam.org/beacons-of-light-at-tabarsi/prologue
+  title: Prologue
+  slug: 2-prologue
+  uuid: 8f803490-2da8-49b8-8485-774492894b57
+- source: :alislam
+  source_url: http://www.al-islam.org/beacons-of-light-at-tabarsi/holy-prophet-islam
+  title: The Holy Prophet of Islam
+  slug: 3-the-holy-prophet-of-islam
+  uuid: 431f6f6f-0c35-41fb-b227-9de2937ea912
+- source: :alislam
+  source_url: http://www.al-islam.org/beacons-of-light-at-tabarsi/concerning-his-resplendant-signs-and-miracles
+  title: Concerning his Resplendant Signs and Miracles
+  slug: 4-concerning-his-resplendant-signs-and-miracles
+  uuid: 07dd6bcb-5c32-46a3-a26d-fd963a694287
+- source: :alislam
+  source_url: http://www.al-islam.org/beacons-of-light-at-tabarsi/beginning-call
+  title: The Beginning of the Call
+  slug: 5-the-beginning-of-the-call
+  uuid: 5dd11401-8c47-482c-9e4e-7fa6b763b78f
+- source: :alislam
+  source_url: http://www.al-islam.org/beacons-of-light-at-tabarsi/general-account-prophets-battles
+  title: A General Account of the Prophet's Battles
+  slug: 6-a-general-account-of-the-prophet-s-battles
+  uuid: fffe38b3-4731-44fd-87ca-b8430e3b7e82
+- source: :alislam
+  source_url: http://www.al-islam.org/beacons-of-light-at-tabarsi/confrontation-battle-nor-are-they-hollow
+  title: In the confrontation of battle; nor are they hollow
+  slug: 7-in-the-confrontation-of-battle-nor-are-they-hollow
+  uuid: d5a4f58e-a7c6-4284-b6e5-e940d60f5235
+- source: :alislam
+  source_url: http://www.al-islam.org/beacons-of-light-at-tabarsi/such-blows-would-remove-heads-bodies
+  title: Such blows as would remove heads from bodies!
+  slug: 8-such-blows-as-would-remove-heads-from-bodies
+  uuid: 02dcfa62-0e91-4882-8403-2a2e108c79f8
+- source: :alislam
+  source_url: http://www.al-islam.org/beacons-of-light-at-tabarsi/lord-i-do-believe-all-he-says
+  title: Lord, I do believe in all that he says!
+  slug: 9-lord-i-do-believe-in-all-that-he-says
+  uuid: e17909c5-7c02-459c-8fa1-64a0959640f7
+- source: :alislam
+  source_url: http://www.al-islam.org/beacons-of-light-at-tabarsi/said-he%E2%80%91-who-your-master-arid-patron
+  title: Said he.‑ "Who is your master arid patron?"
+  slug: 10-said-he-who-is-your-master-arid-patron
+  uuid: 2b6da4b0-b112-4999-995b-269718b35ae1
+- source: :alislam
+  source_url: http://www.al-islam.org/beacons-of-light-at-tabarsi/nor-would-you-find-among-us-today-anyone-who-might-abandon-you
+  title: Nor would you find among us today anyone who might abandon you. "
+  slug: 11-nor-would-you-find-among-us-today-anyone-who-might-abandon-you
+  uuid: 54b802cc-cd0d-4527-959f-e94ad9342768
+- source: :alislam
+  source_url: http://www.al-islam.org/beacons-of-light-at-tabarsi/said-he-rise-o-ali-i
+  title: 'Said he: "Rise up, O Ali, for I'
+  slug: 12-said-he-rise-up-o-ali-for-i
+  uuid: 3196bf98-3df8-4ef6-93c9-fd9a731a169a
+- source: :alislam
+  source_url: http://www.al-islam.org/beacons-of-light-at-tabarsi/be-you-all-him-true-supporters-and-loyal-allies
+  title: Be you all to him true supporters and loyal allies!"
+  slug: 13-be-you-all-to-him-true-supporters-and-loyal-allies
+  uuid: 5a431c7f-91af-4c33-8895-d904ec2986ff
+- source: :alislam
+  source_url: http://www.al-islam.org/beacons-of-light-at-tabarsi/abul-hasan-grasp-it-hand-determined-man
+  title: Abul Hasan, grasp it with the hand of a determined man!
+  slug: 14-abul-hasan-grasp-it-with-the-hand-of-a-determined-man
+  uuid: 547cd827-5160-44e2-9459-27659c874cfe
+- source: :alislam
+  source_url: http://www.al-islam.org/beacons-of-light-at-tabarsi/his-wives-children-and-relatives
+  title: His Wives, Children and Relatives
+  slug: 15-his-wives-children-and-relatives
+  uuid: b9e0e400-57bd-46ae-b45c-052f871ebadc
+- source: :alislam
+  source_url: http://www.al-islam.org/beacons-of-light-at-tabarsi/fatimah-az%E2%80%91zahra-daughter-holy-prophet-islam
+  title: Fatimah Az‑Zahra', Daughter of the Holy Prophet of Islam
+  slug: 16-fatimah-az-zahra-daughter-of-the-holy-prophet-of-islam
+  uuid: 7c83bc15-d307-44df-abdb-c111e00cdb50
+---

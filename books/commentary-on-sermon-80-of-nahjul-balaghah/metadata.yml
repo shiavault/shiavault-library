@@ -1,0 +1,41 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/commentary-sermon-80-nahjul-balaghah-ayatullah-makarim-shirazi
+author: Ayatullah al-Uzma Nasir Makarim Shirazi
+publisher: www.al-mubin.org
+translator: Saleem Bhimji
+title: Commentary on Sermon 80 of Nahjul Balaghah
+slug: commentary-on-sermon-80-of-nahjul-balaghah
+uuid: bdcc2adb-2ee1-497f-9b8b-943be305b344
+description: |
+  An eye opener and intriguing read, this booklet explains and puts into
+  perspective the famous and widely misunderstood sermon given by Amir
+  al-mumineen Imam Ali bin Abi Taleb (as) with regard to the
+  “deficiencies” in woman.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-sermon-80-nahjul-balaghah-ayatullah-makarim-shirazi/sermon-glance
+  title: The Sermon at a Glance
+  slug: 1-the-sermon-at-a-glance
+  uuid: 9e350bfd-bb90-4d2f-b3a1-50d06f101182
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-sermon-80-nahjul-balaghah-ayatullah-makarim-shirazi/text-sermon
+  title: Text of the Sermon
+  slug: 2-text-of-the-sermon
+  uuid: 20eb889b-ac1d-4f2c-a349-a7d2e3272888
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-sermon-80-nahjul-balaghah-ayatullah-makarim-shirazi/transmission-sermon
+  title: The Transmission of this Sermon
+  slug: 3-the-transmission-of-this-sermon
+  uuid: b8d21f97-ed92-4435-9ab3-af47c845e4d6
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-sermon-80-nahjul-balaghah-ayatullah-makarim-shirazi/important-points
+  title: Important Points
+  slug: 4-important-points
+  uuid: 4b10dcb5-0fc4-4bf5-b55e-f507d29752a9
+- source: :alislam
+  source_url: http://www.al-islam.org/commentary-sermon-80-nahjul-balaghah-ayatullah-makarim-shirazi/word-about-aysha-and-her-life-history
+  title: A Word About ‘A’ysha And Her Life History
+  slug: 5-a-word-about-a-ysha-and-her-life-history
+  uuid: 86d3e657-9f6d-4fbb-8864-f470b3e8327b
+---

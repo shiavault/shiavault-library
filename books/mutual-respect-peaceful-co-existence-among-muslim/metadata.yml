@@ -1,0 +1,42 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/mutual-respect-peaceful-co-existence-among-muslim
+publisher: Organization of North America Shia Ithna Asheri Muslim Community
+compiler: Sayyid Muhammad Rizvi
+translator: Sayyid Muhammad Rizvi
+title: Mutual Respect & Peaceful Co-Existence Among Muslim
+slug: mutual-respect-peaceful-co-existence-among-muslim
+uuid: 12e31f56-8d9f-48d1-aadc-398846e61cdc
+description: |
+  The views of our leading mujtahideen, compiled in this booklet, are
+  guidelines for us to follow the example of the Ahlul Bayt (a.s.). In our
+  interaction with the fellow Muslims, the question is not about what to
+  say and not to say, the question is about how to say it and how not to
+  say it.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/mutual-respect-peaceful-co-existence-among-muslim/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: e0815c7a-545d-4a0f-b92e-27cfa0f6b4d3
+- source: :alislam
+  source_url: http://www.al-islam.org/mutual-respect-peaceful-co-existence-among-muslim/1-harmony-peaceful-co-existence-between-muslims
+  title: "(1) On Harmony & Peaceful Co-existence Between the Muslims"
+  slug: 2-1-on-harmony-peaceful-co-existence-between-the-muslims
+  uuid: 7323412b-e734-4811-afda-edc245669d38
+- source: :alislam
+  source_url: http://www.al-islam.org/mutual-respect-peaceful-co-existence-among-muslim/2-abusing-insulting-leaders-sunni-madhhab
+  title: "(2) On Abusing & Insulting Leaders of Sunni Madhhab"
+  slug: 3-2-on-abusing-insulting-leaders-of-sunni-madhhab
+  uuid: 27cae5fd-e755-4d86-b589-5ec53b0484af
+- source: :alislam
+  source_url: http://www.al-islam.org/mutual-respect-peaceful-co-existence-among-muslim/3-so-should-we-not-discuss-historical-differences
+  title: "(3) So Should We Not Discuss Historical Differences?"
+  slug: 4-3-so-should-we-not-discuss-historical-differences
+  uuid: ac8f717c-8ad9-4cd0-b1a3-3d8901b8dc4a
+- source: :alislam
+  source_url: http://www.al-islam.org/mutual-respect-peaceful-co-existence-among-muslim/4-status-sunnis-shia-fiqh
+  title: "(4) Status of the Sunnis in Shi‘a Fiqh"
+  slug: 5-4-status-of-the-sunnis-in-shi-a-fiqh
+  uuid: 752427dd-940f-4c10-b7ae-fe03941763de
+---

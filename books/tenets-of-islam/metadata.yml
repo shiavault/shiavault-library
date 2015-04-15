@@ -1,0 +1,138 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi
+author: Shaykh Tusi
+publisher: Islamic Seminary Publications
+title: Tenets of Islam
+slug: tenets-of-islam
+uuid: a0f10ff6-d2e6-4433-a77e-8c04e0c81845
+description: |
+  Short passages on numerous Islamic beliefs, including God, Prophethood,
+  Imamate, and the Day of Judgement
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/about-author
+  title: About the Author
+  slug: 1-about-the-author
+  uuid: d1113e0e-baa6-400c-b3e9-26791d059587
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/foreword
+  title: Foreword
+  slug: 2-foreword
+  uuid: 32677fa5-83f8-46c8-9bdd-1a853c936eb5
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/attributes-allah
+  title: The Attributes of Allah
+  slug: 3-the-attributes-of-allah
+  uuid: b946d32d-590d-4f8d-96da-849507496fe5
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/monotheism
+  title: Monotheism
+  slug: 4-monotheism
+  uuid: d7960707-7821-4fee-a3d2-00a8fb33e7cc
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/justice
+  title: Justice
+  slug: 5-justice
+  uuid: cdbfb39b-686c-451f-bd8f-8a14e685ffb0
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/resignation-will-allah
+  title: Resignation to the Will of Allah
+  slug: 6-resignation-to-the-will-of-allah
+  uuid: d1dfdc52-cda6-4bf5-8336-1b060aa4ec6f
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/grace-allah
+  title: Grace of Allah
+  slug: 7-grace-of-allah
+  uuid: e4c8a85e-58f0-42ac-8ecc-a7d868850744
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/prophethood
+  title: Prophethood
+  slug: 8-prophethood
+  uuid: 08656a44-80e0-40fb-b1c0-2512873a3d20
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/infallibility
+  title: Infallibility
+  slug: 9-infallibility
+  uuid: 23d4bc64-3878-4606-9a61-f844a558ac2a
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/seal-prophets
+  title: The Seal of the Prophets
+  slug: 10-the-seal-of-the-prophets
+  uuid: bc7a9f43-0c04-4a31-9ba7-f88ba99a2422
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/superiority-holy-prophet-s
+  title: The Superiority of the Holy Prophet [s]
+  slug: 11-the-superiority-of-the-holy-prophet-s
+  uuid: 192fece4-c478-4738-9dd6-d0dec01cb522
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/ascension
+  title: Ascension
+  slug: 12-ascension
+  uuid: 636cc769-3285-460e-a397-a8e9d19c8ca8
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/abrogation-previous-religions
+  title: Abrogation of Previous Religions
+  slug: 13-abrogation-of-previous-religions
+  uuid: dcf16a47-b202-4b0e-a630-0647afff09c5
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/leadership-imam-ali
+  title: Leadership of Imam Ali [a]
+  slug: 14-leadership-of-imam-ali-a
+  uuid: d4211013-7467-40b1-9caf-92fb2f3c20da
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/leaders-islam
+  title: The Leaders of Islam
+  slug: 15-the-leaders-of-islam
+  uuid: 77266ec7-098a-4f68-80d6-5b7877574b49
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/imams-are-infallible
+  title: Imams are Infallible
+  slug: 16-imams-are-infallible
+  uuid: bc1e5488-f6ef-4368-ab4c-68e2f4eff1a2
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/superiority-imams
+  title: Superiority of the Imams
+  slug: 17-superiority-of-the-imams
+  uuid: 00a527fc-2fc3-4315-9778-88ed6933f3f7
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/religion-ancestors-prophets-imams
+  title: The Religion of the Ancestors of the Prophets & Imams
+  slug: 18-the-religion-of-the-ancestors-of-the-prophets-imams
+  uuid: 15c6da95-1cf1-4b1b-a449-89dd430d8f03
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/awaited-saviour
+  title: The Awaited Saviour
+  slug: 19-the-awaited-saviour
+  uuid: a7c83c4b-9ad4-4795-9cdd-98ffe6f0dc47
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/return-rajah
+  title: The Return (Raj'ah)
+  slug: 20-the-return-raj-ah
+  uuid: 5b1bf596-863d-41ed-b92f-d51e28bdac3c
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/resurrection
+  title: The Resurrection
+  slug: 21-the-resurrection
+  uuid: 328b95e8-169b-47a1-88c9-16fafaf4062c
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/faith-message-holy-prophet-s
+  title: Faith in the Message of the Holy Prophet [s]
+  slug: 22-faith-in-the-message-of-the-holy-prophet-s
+  uuid: 0e9b1ec2-8ed8-4e30-9c2b-de8cc45989a8
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/repentance
+  title: Repentance
+  slug: 23-repentance
+  uuid: 3c84fc1b-566d-4bb7-a9a8-bc435c1467cc
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/enjoining-good-forbidding-evil
+  title: Enjoining Good & Forbidding Evil
+  slug: 24-enjoining-good-forbidding-evil
+  uuid: 1928e5ba-ec3b-4d31-874c-13029fd1c549
+- source: :alislam
+  source_url: http://www.al-islam.org/tenets-islam-shaykh-tusi/invocation
+  title: Invocation
+  slug: 25-invocation
+  uuid: 80b65971-6e81-48d5-b421-f7f1d3d8d43a
+---

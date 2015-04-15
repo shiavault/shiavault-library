@@ -1,0 +1,53 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/child-custody-islamic-jurisprudence-saeid-nazari-tavakkoli
+author: Saeid Nazari Tavakkoli
+publisher: The A.Q.R. Printing and Publishing institute
+compiler: Ahmad Namaee
+translator: Ahmad Rezwani
+title: Child Custody in Islamic Jurisprudence
+slug: child-custody-in-islamic-jurisprudence
+uuid: 4de54501-9865-4d3d-8495-6caf150f9d7c
+description: |
+  In this informative book written and compiled by Saeid Nazari Tavakkoli,
+  we learn the many different laws on the rights of the mother, the
+  father, the child, and their related topics such as breastfeeding,
+  weaning, child custody in case of divorce, responsibilities of the
+  parents, rules regarding abandoned children, and a great many other laws
+  related to these very important topics according to Islamic Shia
+  jurisprudence. Laws discussed in this book are based on the Quran, and
+  Hadith of the Prophet (saws) and holy Ahlu-Bayt (as). Various
+  fundamental opinions of other Islamic schools of thought are also
+  mentioned herein and discussed.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/child-custody-islamic-jurisprudence-saeid-nazari-tavakkoli/publishers-note
+  title: Publisher’s Note
+  slug: 1-publisher-s-note
+  uuid: 2bd398fe-3f37-429b-8139-a56c182a3a19
+- source: :alislam
+  source_url: http://www.al-islam.org/child-custody-islamic-jurisprudence-saeid-nazari-tavakkoli/prologue
+  title: Prologue
+  slug: 2-prologue
+  uuid: 263d6c78-6c30-4bda-adf4-bb7d9484fb3c
+- source: :alislam
+  source_url: http://www.al-islam.org/child-custody-islamic-jurisprudence-saeid-nazari-tavakkoli/part-one-study-legal-issues-breastfeeding
+  title: 'Part One:  A Study on the Legal Issues of Breastfeeding (Ridhaʿ)'
+  slug: 3-part-one-a-study-on-the-legal-issues-of-breastfeeding-ridha
+  uuid: 7a293067-454f-4c6c-87ea-4a23319df76e
+- source: :alislam
+  source_url: http://www.al-islam.org/child-custody-islamic-jurisprudence-saeid-nazari-tavakkoli/part-two-study-legal-issues-child-custody
+  title: 'Part Two: A Study of the Legal Issues of Child Custody (Hidhanat)'
+  slug: 4-part-two-a-study-of-the-legal-issues-of-child-custody-hidhanat
+  uuid: 1bb74b31-c928-4d31-a6a9-58d0f4132074
+- source: :alislam
+  source_url: http://www.al-islam.org/child-custody-islamic-jurisprudence-saeid-nazari-tavakkoli/part-three-study-legal-issues-abandoned
+  title: 'Part Three: A Study on the Legal Issues of Abandoned Children (Laqit)'
+  slug: 5-part-three-a-study-on-the-legal-issues-of-abandoned-children-laqit
+  uuid: a382c347-0504-47ed-a9d3-30c260606dc6
+- source: :alislam
+  source_url: http://www.al-islam.org/child-custody-islamic-jurisprudence-saeid-nazari-tavakkoli/bibliography
+  title: Bibliography
+  slug: 6-bibliography
+  uuid: e8c09647-657f-4d15-ba17-a45bd8ef9387
+---

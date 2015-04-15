@@ -1,0 +1,84 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/quran-and-mourning-hussain-jafar-ali-asil
+author: Jafar Ali Asil
+translator: R. Bokhari
+title: The Quran And Mourning for Hussain
+slug: the-quran-and-mourning-for-hussain
+uuid: d27e1d03-0a7a-4101-8c8d-b5218fefa61a
+description: |
+  This booklet answers why we will not allow the suppression of the
+  commemoration of Hussain’s martyrdom, for Hussain (pbuh) was the epitome
+  of love and devotion to Allah.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-and-mourning-hussain-jafar-ali-asil/translators-foreword
+  title: Translator’s Foreword
+  slug: 1-translator-s-foreword
+  uuid: 291b9ed3-0f08-4769-a648-1da7f10c6bb8
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-and-mourning-hussain-jafar-ali-asil/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 76a7e23d-94f7-4058-8b37-c0290785a06d
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-and-mourning-hussain-jafar-ali-asil/days-mourning
+  title: The Days of Mourning
+  slug: 3-the-days-of-mourning
+  uuid: d63d270a-0940-414f-a0ef-cf74e003328a
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-and-mourning-hussain-jafar-ali-asil/status-martyrs-quran
+  title: The Status of Martyrs in the Quran
+  slug: 4-the-status-of-martyrs-in-the-quran
+  uuid: 1bd7cda0-fead-4694-9951-a473f5fb944c
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-and-mourning-hussain-jafar-ali-asil/arguments-raised-against-mourning
+  title: The Arguments Raised Against Mourning
+  slug: 5-the-arguments-raised-against-mourning
+  uuid: 199b4b84-13a8-49a3-999a-8efe3c4bc329
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-and-mourning-hussain-jafar-ali-asil/mourning-prophets-quran
+  title: The Mourning of Prophets in the Quran
+  slug: 6-the-mourning-of-prophets-in-the-quran
+  uuid: 458ecb7e-a1cd-40b1-ad27-54dcb986984b
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-and-mourning-hussain-jafar-ali-asil/crying-quran
+  title: Crying in the Quran
+  slug: 7-crying-in-the-quran
+  uuid: b36d3b42-3360-4c0b-a822-e187f53df480
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-and-mourning-hussain-jafar-ali-asil/patience-quran
+  title: "‘ Patience’ in the Quran"
+  slug: 8-patience-in-the-quran
+  uuid: af22036a-418b-4df4-a6ca-f1c801633682
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-and-mourning-hussain-jafar-ali-asil/rubbing-garments-earth-healer-quran
+  title: Rubbing of Garments / Earth as a Healer in the Quran
+  slug: 9-rubbing-of-garments-earth-as-a-healer-in-the-quran
+  uuid: a8c6abbb-7dee-4282-992a-63832cc43ed5
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-and-mourning-hussain-jafar-ali-asil/kissing-objects-places-associated-revered-persons
+  title: Kissing Objects / Places Associated with Revered Persons
+  slug: 10-kissing-objects-places-associated-with-revered-persons
+  uuid: 3764f34d-edf7-4798-9bff-2bfced4455b6
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-and-mourning-hussain-jafar-ali-asil/respecting-associated-objects-places
+  title: Respecting ‘Associated’ Objects / Places
+  slug: 11-respecting-associated-objects-places
+  uuid: 28e1e922-54c5-4e56-9fc6-9625e1e4e21b
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-and-mourning-hussain-jafar-ali-asil/prostration
+  title: Prostration
+  slug: 12-prostration
+  uuid: e4dfb3ec-4dd4-440f-b863-0eb601eaf53b
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-and-mourning-hussain-jafar-ali-asil/images-and-replicas-resemblance
+  title: Images and replicas of Resemblance
+  slug: 13-images-and-replicas-of-resemblance
+  uuid: 5d19ac9b-d073-41a1-ae20-7128d7b41ef7
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-and-mourning-hussain-jafar-ali-asil/conclusion
+  title: Conclusion
+  slug: 14-conclusion
+  uuid: 23828550-ff6e-4ac0-9709-8015e785eb71
+---

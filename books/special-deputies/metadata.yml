@@ -1,0 +1,53 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/special-deputies-association-imam-al-mahdi
+publisher: Association of Imam Mahdi
+compiler: Association of Imam Mahdi
+title: Special Deputies
+slug: special-deputies
+uuid: e0e19ea3-882b-44dd-b442-c11793d224c9
+description: |
+  A short biographical text detailing the lives and circumstances of the
+  four special deputies of Imam Mahdi [ajtf] during the Minor Occultation.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/special-deputies-association-imam-al-mahdi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: d5fba58e-9bf7-4e93-a27f-40fadd5f210a
+- source: :alislam
+  source_url: http://www.al-islam.org/special-deputies-association-imam-al-mahdi/need-representation
+  title: The Need for Representation
+  slug: 2-the-need-for-representation
+  uuid: 00f557df-334a-4154-bbe1-f8a1ccc0090b
+- source: :alislam
+  source_url: http://www.al-islam.org/special-deputies-association-imam-al-mahdi/first-deputy-hazrat-%E2%80%98uthman-b-sa%E2%80%99eed-al-amri-ra
+  title: The first deputy - Hazrat ‘Uthman b. Sa’eed al-Amri (r.a.)
+  slug: 3-the-first-deputy-hazrat-uthman-b-sa-eed-al-amri-r-a
+  uuid: 4eb9d02e-5e72-428c-9b80-cfddc3289274
+- source: :alislam
+  source_url: http://www.al-islam.org/special-deputies-association-imam-al-mahdi/second-special-deputy-muhammad-b-%E2%80%98uthman-b-sa%E2%80%99eed-amri-ra
+  title: The Second Special Deputy Muhammad B. ‘Uthman B. Sa’eed Amri (r.a.)
+  slug: 4-the-second-special-deputy-muhammad-b-uthman-b-sa-eed-amri-r-a
+  uuid: 1ca52b1e-58c8-402b-b7b0-ae7c27c50b71
+- source: :alislam
+  source_url: http://www.al-islam.org/special-deputies-association-imam-al-mahdi/third-special-deputy-husain-b-rauh-nawbakhti-ra
+  title: 'The Third Special Deputy: Husain B. Rauh Nawbakhti (r.a.)'
+  slug: 5-the-third-special-deputy-husain-b-rauh-nawbakhti-r-a
+  uuid: 5c878e19-3b84-48b4-b1af-272c688e4696
+- source: :alislam
+  source_url: http://www.al-islam.org/special-deputies-association-imam-al-mahdi/husain-b-rauh-ra-during-period-2nd-special-deputy
+  title: Husain b. Rauh (r.a.) During the Period of the 2nd  Special Deputy
+  slug: 6-husain-b-rauh-r-a-during-the-period-of-the-2nd-special-deputy
+  uuid: 8d8a58f8-1d0c-4a72-b03e-709c8a152e2b
+- source: :alislam
+  source_url: http://www.al-islam.org/special-deputies-association-imam-al-mahdi/fourth-special-deputy-ali-ibn-muhammad-samari-ra
+  title: 'The Fourth Special Deputy: Ali Ibn Muhammad Samari (r.a.)'
+  slug: 7-the-fourth-special-deputy-ali-ibn-muhammad-samari-r-a
+  uuid: 48d718d5-4750-44e8-b9f6-5ea3cd18c0fc
+- source: :alislam
+  source_url: http://www.al-islam.org/special-deputies-association-imam-al-mahdi/protectors-wilayat
+  title: The Protectors of Wilayat
+  slug: 8-the-protectors-of-wilayat
+  uuid: 3c3126dd-93bc-4e8e-beb4-f1226db30770
+---

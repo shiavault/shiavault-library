@@ -1,0 +1,76 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/study-polytheism-and-idolatry-quran-abbas-sayyid-karimi
+author: Sayyid ‘Abbas Sayyid Karimi (Husayni)
+publisher: ABWA Publishing and Printing Center
+translator: Kelvin Lembani (Muhammad ‘Abd al-‘Aziz)
+title: A Study of Polytheism and Idolatry in the Qur’an
+slug: a-study-of-polytheism-and-idolatry-in-the-qur-an
+uuid: fd55707a-2873-4b60-a72a-cfbb521f7cca
+description: |
+  This text presents an analysis of polytheism with respect to God and
+  idols, using the Holy Quran as reference. It also studies idolatry with
+  respect to resurrection and refutes that concept logically while
+  explaining the essence of monotheism.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/study-polytheism-and-idolatry-quran-abbas-sayyid-karimi/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: fbaf37a3-7267-4350-9769-97c66ac565de
+- source: :alislam
+  source_url: http://www.al-islam.org/study-polytheism-and-idolatry-quran-abbas-sayyid-karimi/chapter-1-polytheistic-beliefs-respect-allah
+  title: 'Chapter 1: Polytheistic Beliefs with respect to Allah'
+  slug: 2-chapter-1-polytheistic-beliefs-with-respect-to-allah
+  uuid: b24b5af2-2433-4c6d-91ff-e8a5d0155f45
+- source: :alislam
+  source_url: http://www.al-islam.org/study-polytheism-and-idolatry-quran-abbas-sayyid-karimi/chapter-2-polytheistic-beliefs-respect-idols
+  title: 'Chapter 2: Polytheistic Beliefs with respect to Idols'
+  slug: 3-chapter-2-polytheistic-beliefs-with-respect-to-idols
+  uuid: c92c59b0-a4ae-497d-8d71-d96c6b7977c2
+- source: :alislam
+  source_url: http://www.al-islam.org/study-polytheism-and-idolatry-quran-abbas-sayyid-karimi/chapter-3-idolatrous-beliefs-respect
+  title: 'Chapter 3: Idolatrous Beliefs with respect to the Resurrection'
+  slug: 4-chapter-3-idolatrous-beliefs-with-respect-to-the-resurrection
+  uuid: 4c85aff3-dbb7-427e-af9a-cf29420a8630
+- source: :alislam
+  source_url: http://www.al-islam.org/study-polytheism-and-idolatry-quran-abbas-sayyid-karimi/chapter-4-idolatrous-religious-rites
+  title: 'Chapter 4: Idolatrous Religious Rites'
+  slug: 5-chapter-4-idolatrous-religious-rites
+  uuid: 7cd9b0c5-0b3a-4b73-abc8-57c4eaa73d6e
+- source: :alislam
+  source_url: http://www.al-islam.org/study-polytheism-and-idolatry-quran-abbas-sayyid-karimi/chapter-5-social-culture-idolaters
+  title: 'Chapter 5: The Social Culture of Idolaters'
+  slug: 6-chapter-5-the-social-culture-of-idolaters
+  uuid: cee826c3-3f9c-4cc3-a715-750a5774114e
+- source: :alislam
+  source_url: http://www.al-islam.org/study-polytheism-and-idolatry-quran-abbas-sayyid-karimi/chapter-6-idolatry-illogical-creed
+  title: 'Chapter 6: Idolatry is an Illogical Creed'
+  slug: 7-chapter-6-idolatry-is-an-illogical-creed
+  uuid: 0bff210f-a6f7-4655-9221-b96c4eddb706
+- source: :alislam
+  source_url: http://www.al-islam.org/study-polytheism-and-idolatry-quran-abbas-sayyid-karimi/chapter-7-causes-idolatry
+  title: 'Chapter 7: Causes of Idolatry'
+  slug: 8-chapter-7-causes-of-idolatry
+  uuid: 47ee2eba-33da-469a-8749-cf8215ca1f7a
+- source: :alislam
+  source_url: http://www.al-islam.org/study-polytheism-and-idolatry-quran-abbas-sayyid-karimi/chapter-8-categories-polytheists
+  title: 'Chapter 8: Categories of Polytheists'
+  slug: 9-chapter-8-categories-of-polytheists
+  uuid: b3201681-0d8a-455b-8de3-b585f8dc646a
+- source: :alislam
+  source_url: http://www.al-islam.org/study-polytheism-and-idolatry-quran-abbas-sayyid-karimi/chapter-9-types-polytheism
+  title: 'Chapter 9: Types of Polytheism'
+  slug: 10-chapter-9-types-of-polytheism
+  uuid: 6d2372e1-142a-4c32-ab53-ba9c728e942e
+- source: :alislam
+  source_url: http://www.al-islam.org/study-polytheism-and-idolatry-quran-abbas-sayyid-karimi/chapter-10-what-tawh%C4%ABd-monotheism
+  title: 'Chapter 10: What is Tawhīd (Monotheism)?'
+  slug: 11-chapter-10-what-is-tawhid-monotheism
+  uuid: 7f4e4d8d-d906-4c1b-a471-f8beca52f06e
+- source: :alislam
+  source_url: http://www.al-islam.org/study-polytheism-and-idolatry-quran-abbas-sayyid-karimi/chapter-11-etymological-and-juristic-meaning
+  title: 'Chapter 11: The Etymological and Juristic Meaning of Worship [‘ibādah]'
+  slug: 12-chapter-11-the-etymological-and-juristic-meaning-of-worship-ibadah
+  uuid: d30ab80a-71e5-4b28-b754-7446d22e71d4
+---

@@ -1,0 +1,63 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/the-journey-of-tears-bashir-hassanali-rahim
+title: The Journey of Tears
+slug: the-journey-of-tears
+uuid: a981e08a-e22b-4780-b44e-f5e01899d55d
+description: |
+  This text has been written primarily to bring forth awareness in youths
+  to understand the University of Imam Husayn (a.s.) from a broader
+  perspective. It also provides a detailed account of Imam Husayn (a.s.)'s
+  journey.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/the-journey-of-tears-bashir-hassanali-rahim/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: 03ccf904-fc18-41d5-8432-561326173bf0
+- source: :alislam
+  source_url: http://www.al-islam.org/the-journey-of-tears-bashir-hassanali-rahim/foreword-project-initiator
+  title: Foreword by Project Initiator
+  slug: 2-foreword-by-project-initiator
+  uuid: cb813715-836d-4590-b10c-9f4dbd607e77
+- source: :alislam
+  source_url: http://www.al-islam.org/the-journey-of-tears-bashir-hassanali-rahim/introduction-history-and-philosophy-aza%E2%80%99-al-husayn
+  title: 'Introduction: The History and Philosophy of Aza’ al-Husayn'
+  slug: 3-introduction-the-history-and-philosophy-of-aza-al-husayn
+  uuid: bec83c7a-c7cb-41db-9be8-cd1ccc4ba482
+- source: :alislam
+  source_url: http://www.al-islam.org/the-journey-of-tears-bashir-hassanali-rahim/departure-madina
+  title: Departure of Madina
+  slug: 4-departure-of-madina
+  uuid: aef5f2b5-11ef-49a7-91ce-7f9b933669bc
+- source: :alislam
+  source_url: http://www.al-islam.org/the-journey-of-tears-bashir-hassanali-rahim/first-journey-madina-mecca
+  title: The First Journey - Madina to Mecca
+  slug: 5-the-first-journey-madina-to-mecca
+  uuid: 3aa91f14-aa99-4b00-bb4c-ec04ea8ce37c
+- source: :alislam
+  source_url: http://www.al-islam.org/the-journey-of-tears-bashir-hassanali-rahim/second-journey-mecca-karbala%E2%80%99
+  title: The Second Journey - Mecca to Karbala’
+  slug: 6-the-second-journey-mecca-to-karbala
+  uuid: 86398cb6-6c05-4a95-9033-8e45fbdc76f0
+- source: :alislam
+  source_url: http://www.al-islam.org/the-journey-of-tears-bashir-hassanali-rahim/third-journey-karbala%E2%80%99-kufa
+  title: The Third Journey - Karbala’ to Kufa
+  slug: 7-the-third-journey-karbala-to-kufa
+  uuid: 5ae6660c-c82f-4a07-bda3-246e1eac888b
+- source: :alislam
+  source_url: http://www.al-islam.org/the-journey-of-tears-bashir-hassanali-rahim/fourth-journey-kufa-shaam
+  title: The Fourth Journey - Kufa to Shaam
+  slug: 8-the-fourth-journey-kufa-to-shaam
+  uuid: 9b59343f-da63-492a-88eb-9cd25f1d3a60
+- source: :alislam
+  source_url: http://www.al-islam.org/the-journey-of-tears-bashir-hassanali-rahim/fifth-journey-shaam-medina
+  title: The Fifth Journey - Shaam to Medina
+  slug: 9-the-fifth-journey-shaam-to-medina
+  uuid: 6439f751-bac9-4dfd-a491-107885aedabb
+- source: :alislam
+  source_url: http://www.al-islam.org/the-journey-of-tears-bashir-hassanali-rahim/conclusions
+  title: Conclusions
+  slug: 10-conclusions
+  uuid: 7fbe0c33-5d2d-4d34-b0b8-a4f23c77918c
+---

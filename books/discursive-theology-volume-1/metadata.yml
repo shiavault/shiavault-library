@@ -1,0 +1,172 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani
+author: Dr. ‘Ali Rabbani Gulpaygani
+publisher: Al-Mustafa International College
+translator: Mansoor L. Limba
+title: Discursive Theology Volume 1
+slug: discursive-theology-volume-1
+uuid: a60472cb-5241-476c-92b0-3ef4a7a5c035
+description: |
+  This text deals with a set of ideological and scholastic questions based
+  upon Islamic theology from the perspective of Shī‘ah Imāmiyyah school of
+  thought. Reason and revelation have been the final reference and arbiter
+  in decisions and evaluations. A series of lessons surrounding
+  recognition of God is presented.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 7f8cd183-0bff-49d5-9a5e-752bb32e7033
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/preface
+  title: Preface
+  slug: 2-preface
+  uuid: 64221ebb-abf7-41bd-aec5-02ebb9f83b2c
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-1-why-should-we-know-god
+  title: 'Lesson 1: Why Should We Know God?'
+  slug: 3-lesson-1-why-should-we-know-god
+  uuid: d7f0a24f-259f-41d4-8b7c-e006afcc805e
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-2-ways-knowing-god
+  title: 'Lesson 2: The Ways of Knowing God'
+  slug: 4-lesson-2-the-ways-of-knowing-god
+  uuid: 95347899-1317-4514-95e8-4302214884b7
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-3-natural-disposition-fi%E1%B9%ADrah-and
+  title: 'Lesson 3: Natural Disposition (Fiṭrah) and Knowing God'
+  slug: 5-lesson-3-natural-disposition-fi-rah-and-knowing-god
+  uuid: 114f587a-8569-48d6-8a62-f5240d3b5192
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-4-order-universe-and-knowing-god
+  title: 'Lesson 4: Order in the Universe and Knowing God'
+  slug: 6-lesson-4-order-in-the-universe-and-knowing-god
+  uuid: 9c21c20c-2f6f-4b06-bc8e-381dbb53aa6c
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-5-assessment-humes-objections-argument
+  title: 'Lesson 5: Assessment of Hume’s Objections to the Argument of Design'
+  slug: 7-lesson-5-assessment-of-hume-s-objections-to-the-argument-of-design
+  uuid: 2a52c5af-db6a-499e-bb21-f5b4c94c66db
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-6-argument-contingency
+  title: 'Lesson 6: The Argument of Contingency'
+  slug: 8-lesson-6-the-argument-of-contingency
+  uuid: cb350e09-e01b-4955-8fbb-a9e9aaf7354c
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-7-argument-possibility-and-necessity
+  title: 'Lesson 7: The Argument of Possibility and Necessity'
+  slug: 9-lesson-7-the-argument-of-possibility-and-necessity
+  uuid: dbd1ca53-d50d-4f61-8767-9c63b0fc8c5d
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-8-unity-gods-essence-and-attributes
+  title: 'Lesson 8: The Unity of God’s Essence and Attributes'
+  slug: 10-lesson-8-the-unity-of-god-s-essence-and-attributes
+  uuid: 3ee79fdc-6926-4b63-844c-0ea6c13f5f44
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-9-unity-god-creation
+  title: 'Lesson 9: The Unity of God in Creation'
+  slug: 11-lesson-9-the-unity-of-god-in-creation
+  uuid: c868bf7f-68ea-4b53-9b63-ccf42d94b8c1
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-10-divine-unity-lordship
+  title: 'Lesson 10: The Divine Unity in Lordship'
+  slug: 12-lesson-10-the-divine-unity-in-lordship
+  uuid: 7ebbf666-3608-4070-b38f-6f704d8345bd
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-11-divine-unity-worship
+  title: 'Lesson 11: The Divine Unity in Worship'
+  slug: 13-lesson-11-the-divine-unity-in-worship
+  uuid: a0d83290-90a5-4ec4-9fb2-dc164855126a
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-12-attributes-god
+  title: 'Lesson 12: The Attributes of God'
+  slug: 14-lesson-12-the-attributes-of-god
+  uuid: 9af8a29e-f596-45f5-acee-e503e01ca111
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-13-knowledge-god
+  title: 'Lesson 13: The Knowledge of God'
+  slug: 15-lesson-13-the-knowledge-of-god
+  uuid: 807d6d73-0729-479d-a52b-abe741a6f05e
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-14-gods-power-and-will
+  title: 'Lesson 14: God’s Power and Will'
+  slug: 16-lesson-14-god-s-power-and-will
+  uuid: 05ebe79f-8a40-4474-9c3f-ed575da69be8
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-15-life-pre-existence-and-eternity
+  title: 'Lesson 15: Life, Pre-existence and Eternity'
+  slug: 17-lesson-15-life-pre-existence-and-eternity
+  uuid: a0c58499-9824-49af-831c-6602d3b1023c
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-16-divine-will-and-decree
+  title: 'Lesson 16: The Divine Will and Decree'
+  slug: 18-lesson-16-the-divine-will-and-decree
+  uuid: 73610b23-2a3c-429b-8877-009862b86213
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-17-divine-speech-and-word
+  title: 'Lesson 17: The Divine Speech and Word'
+  slug: 19-lesson-17-the-divine-speech-and-word
+  uuid: 80b2e52c-5663-4a6e-9558-7f95b470a5bd
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-18-attributes-khabariyyah
+  title: 'Lesson 18: The Attributes of Khabariyyah'
+  slug: 20-lesson-18-the-attributes-of-khabariyyah
+  uuid: 13d5750d-d198-4548-807a-633de0ba4c74
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-19-negative-attributes-al-%E1%B9%A3if%C4%81t-al
+  title: 'Lesson 19: Negative Attributes (Al-Ṣifāt al-Salbiyyah)'
+  slug: 21-lesson-19-negative-attributes-al-ifat-al-salbiyyah
+  uuid: d75dfa41-e467-49a7-a914-d9b2558332eb
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-20-divine-justice-and-wisdom
+  title: 'Lesson 20: The Divine Justice and Wisdom'
+  slug: 22-lesson-20-the-divine-justice-and-wisdom
+  uuid: dc979f63-08d0-4591-8dc1-41482e416e72
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-21-rational-goodness-and-evil
+  title: 'Lesson 21: Rational Goodness and Evil'
+  slug: 23-lesson-21-rational-goodness-and-evil
+  uuid: a1c0e87e-e853-4de1-99ab-3b2b018ce524
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-22-proofs-divine-justice-and-wisdom
+  title: 'Lesson 22: The Proofs of Divine Justice and Wisdom'
+  slug: 24-lesson-22-the-proofs-of-divine-justice-and-wisdom
+  uuid: 57319cd8-c05c-4547-ae7e-d1185f5886de
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-23-creation-goal-oriented
+  title: 'Lesson 23: The Creation as Goal-oriented'
+  slug: 25-lesson-23-the-creation-as-goal-oriented
+  uuid: f7d48f17-0b96-4930-bdef-72f87b7bb196
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-24-evil-and-best-order
+  title: 'Lesson 24: Evil and the Best Order'
+  slug: 26-lesson-24-evil-and-the-best-order
+  uuid: 0bab010f-18d8-448c-abc3-75a09fbb5f00
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-25-evil-and-justice-god
+  title: 'Lesson 25: Evil and the Justice of God'
+  slug: 27-lesson-25-evil-and-the-justice-of-god
+  uuid: 0ba3aa1a-6f7a-42bb-976b-3a27b19126ad
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-26-man-and-freewill
+  title: 'Lesson 26: Man and Freewill'
+  slug: 28-lesson-26-man-and-freewill
+  uuid: 71d831f7-e0c4-4408-8c9b-8f36b2c6284a
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-27-misgivings-predeterminists
+  title: 'Lesson 27: Misgivings of the Predeterminists'
+  slug: 29-lesson-27-misgivings-of-the-predeterminists
+  uuid: 1bbd5e22-4708-43bd-8375-b0d635be97b6
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-28-mandatoriness-obligation
+  title: 'Lesson 28: The Mandatoriness of Obligation'
+  slug: 30-lesson-28-the-mandatoriness-of-obligation
+  uuid: 047b04ac-6b37-4fad-8721-e43672eb4b49
+- source: :alislam
+  source_url: http://www.al-islam.org/discursive-theology-volume-1-dr-ali-rabbani-gulpaygani/lesson-29-necessity-grace
+  title: 'Lesson 29: The Necessity for Grace'
+  slug: 31-lesson-29-the-necessity-for-grace
+  uuid: 0e3675f9-6437-4e44-8297-c70d6aa1814d
+---

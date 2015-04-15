@@ -1,0 +1,134 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani
+author: Ayatullah al Uzma Sayyid Ali al-Husaini Seestani
+publisher: World Federation of KSI Muslim Communities
+title: Islamic Laws
+slug: islamic-laws
+uuid: 318d8747-9d74-468b-af82-81968697924f
+description: |
+  Laws on cleanliness, prayers, fasting, hajj, transactions, marriage, and
+  other topics. According to the Risalah of Ayatullah Ali al-Husayni
+  Al-Seestani.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/important-note
+  title: Important Note
+  slug: 1-important-note
+  uuid: a99cec4d-1471-463b-a8ed-c82dcaed6d4a
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/taqlid-following-mujtahid
+  title: 'Taqlid: Following a Mujtahid'
+  slug: 2-taqlid-following-a-mujtahid
+  uuid: e7d69ccb-ca93-44f4-9c0f-06326c62fc20
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/taharat
+  title: Taharat
+  slug: 3-taharat
+  uuid: f50cd76e-efe0-4c08-8bc7-a5b2e6fe425b
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/rules-salat-part-i-iii
+  title: Rules of Salat  (Part I of III)
+  slug: 4-rules-of-salat-part-i-of-iii
+  uuid: 3c63c957-f074-4ca4-8c1c-77ed318d06ad
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/rules-salat-part-ii-iii
+  title: Rules of Salat  (Part II of III)
+  slug: 5-rules-of-salat-part-ii-of-iii
+  uuid: ab06f4a4-e2c2-477d-97ce-7fdc3537ced8
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/rules-salat-part-iii-iii
+  title: Rules of Salat  (Part III of III)
+  slug: 6-rules-of-salat-part-iii-of-iii
+  uuid: b75be3ef-7c87-404e-b889-cb970ec28c84
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/fasting-part-i-ii
+  title: Fasting (Part I of II)
+  slug: 7-fasting-part-i-of-ii
+  uuid: b50ad161-c0f9-4f93-be9c-a497113a6a1e
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/fasting-part-ii-ii
+  title: Fasting (Part II of II)
+  slug: 8-fasting-part-ii-of-ii
+  uuid: 6b637a05-5059-4623-bb8d-8c2689491047
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/khums
+  title: Khums
+  slug: 9-khums
+  uuid: 8fda3127-9d5e-4f8a-9851-00e404a471dc
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/zakat-part-i-ii
+  title: Zakat (Part I of II)
+  slug: 10-zakat-part-i-of-ii
+  uuid: f7547148-b682-44dc-aa4d-4652c86736b5
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/zakat-part-ii-ii
+  title: Zakat (Part II of II)
+  slug: 11-zakat-part-ii-of-ii
+  uuid: 97f0b563-b14c-4c4b-a4fb-c3fe2119fc0a
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/hajj
+  title: Hajj
+  slug: 12-hajj
+  uuid: 1f71c2f8-ace9-460a-a567-da5b891f7c3c
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/transactions-part-i-iii
+  title: Transactions (Part I of III)
+  slug: 13-transactions-part-i-of-iii
+  uuid: a177a82f-62ef-4236-b039-0b5e1933bc2f
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/transactions-part-ii-iii
+  title: Transactions (Part II of III)
+  slug: 14-transactions-part-ii-of-iii
+  uuid: fd0c81bf-cda2-44a4-890e-fccd1fc03125
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/transactions-part-iii-iii
+  title: Transactions (Part III of III)
+  slug: 15-transactions-part-iii-of-iii
+  uuid: d04609f0-9b86-44e4-8b20-9523cb83f968
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/marriage-part-i-ii
+  title: Marriage (Part I of II)
+  slug: 16-marriage-part-i-of-ii
+  uuid: 37437e16-7abe-453b-bde7-b0948a67f383
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/marriage-part-ii-ii
+  title: Marriage (Part II of II)
+  slug: 17-marriage-part-ii-of-ii
+  uuid: 7456c194-432b-4f98-acb5-c6efba168d64
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/divorce
+  title: Divorce
+  slug: 18-divorce
+  uuid: bc0d34ba-845f-4a00-9cd6-71b921d01dc5
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/usurpation-ghasb
+  title: Usurpation (Ghasb)
+  slug: 19-usurpation-ghasb
+  uuid: 61c5c68f-66a4-46b0-b5da-06ba8e8ee0a8
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/slaughtering-and-hunting-animals
+  title: Slaughtering and Hunting of Animals
+  slug: 20-slaughtering-and-hunting-of-animals
+  uuid: 6bef1d44-98aa-455f-9f19-dca8890d42e4
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/rules-things-allowed-eat-and-drink
+  title: Rules of Things Allowed to Eat and Drink
+  slug: 21-rules-of-things-allowed-to-eat-and-drink
+  uuid: 52d0fd1f-0264-419f-8511-5fe8ec3f5bfa
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/vow-and-covenant
+  title: Vow and Covenant
+  slug: 22-vow-and-covenant
+  uuid: 0fb0cee7-e124-4af6-9bfc-ebf5b9a90b7a
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/rules-regarding-waqf
+  title: Rules Regarding Waqf
+  slug: 23-rules-regarding-waqf
+  uuid: d934b4d5-3830-4d9e-b539-242a5c7e827d
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-al-uzma-sayyid-ali-al-husaini-seestani/rules-regarding-will-wasiyyat
+  title: Rules Regarding Will (Wasiyyat)
+  slug: 24-rules-regarding-will-wasiyyat
+  uuid: 33f83e6a-51f2-4130-ae49-4a15ead159df
+---

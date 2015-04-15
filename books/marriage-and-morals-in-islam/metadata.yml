@@ -1,0 +1,75 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/marriage-and-morals-islam-sayyid-muhammad-rizvi
+author: Sayyid Muhammad Rizvi
+publisher: Islamic Education & Information Center
+title: Marriage and Morals in Islam
+slug: marriage-and-morals-in-islam
+uuid: dd7f4fd7-8d0c-4219-9105-204d9833d994
+description: |
+  Useful guide including discussions on Western sexual morality, Islamic
+  sexual morality, Islamic view of marriage and women, beginning of sexual
+  life, rules of marriage and the wedding night, contraceptives abortion,
+  and human reproduction. An essential guide for every bride and groom.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/marriage-and-morals-islam-sayyid-muhammad-rizvi/preface-first-edition
+  title: Preface to the First Edition
+  slug: 1-preface-to-the-first-edition
+  uuid: 34cb4629-0eb0-414e-9547-4eababcf923b
+- source: :alislam
+  source_url: http://www.al-islam.org/marriage-and-morals-islam-sayyid-muhammad-rizvi/preface-second-edition
+  title: Preface to the Second Edition
+  slug: 2-preface-to-the-second-edition
+  uuid: 80b4b4ff-6ce5-4c3b-9c2b-9de63447f3b5
+- source: :alislam
+  source_url: http://www.al-islam.org/marriage-and-morals-islam-sayyid-muhammad-rizvi/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: dc44cd85-003b-4c74-bcdf-28a933c10f91
+- source: :alislam
+  source_url: http://www.al-islam.org/marriage-and-morals-islam-sayyid-muhammad-rizvi/chapter-one-western-sexual-morality
+  title: 'Chapter One: The Western Sexual Morality'
+  slug: 4-chapter-one-the-western-sexual-morality
+  uuid: a35b4c38-fee3-4cd8-919a-a6ecd233048c
+- source: :alislam
+  source_url: http://www.al-islam.org/marriage-and-morals-islam-sayyid-muhammad-rizvi/chapter-two-islamic-sexual-morality-1-its-foundation
+  title: 'Chapter Two: The Islamic Sexual Morality (1) Its Foundation'
+  slug: 5-chapter-two-the-islamic-sexual-morality-1-its-foundation
+  uuid: 9d4d1308-a5cb-443e-98d6-4a6359c32bc9
+- source: :alislam
+  source_url: http://www.al-islam.org/marriage-and-morals-islam-sayyid-muhammad-rizvi/chapter-three-islamic-sexual-morality-2-its
+  title: 'Chapter Three: The Islamic Sexual Morality (2) Its Structure'
+  slug: 6-chapter-three-the-islamic-sexual-morality-2-its-structure
+  uuid: 6993af72-6814-43f6-a163-ba94c91f3558
+- source: :alislam
+  source_url: http://www.al-islam.org/marriage-and-morals-islam-sayyid-muhammad-rizvi/chapter-four-contraceptives-abortion
+  title: 'Chapter Four: Contraceptives & Abortion'
+  slug: 7-chapter-four-contraceptives-abortion
+  uuid: 9ac795d1-bea4-4f70-bfa4-d86d00b58ed7
+- source: :alislam
+  source_url: http://www.al-islam.org/marriage-and-morals-islam-sayyid-muhammad-rizvi/chapter-five-new-techniques-human-reproduction
+  title: 'Chapter Five: New Techniques in Human Reproduction'
+  slug: 8-chapter-five-new-techniques-in-human-reproduction
+  uuid: 201f6dc7-424b-4ea7-8d7a-4bb3dba1e682
+- source: :alislam
+  source_url: http://www.al-islam.org/marriage-and-morals-islam-sayyid-muhammad-rizvi/appendix-i-sources-shariah
+  title: 'Appendix I: Sources of the Shari''ah'
+  slug: 9-appendix-i-sources-of-the-shari-ah
+  uuid: 120c60a0-caf3-4d5c-bd01-27a081f3475c
+- source: :alislam
+  source_url: http://www.al-islam.org/marriage-and-morals-islam-sayyid-muhammad-rizvi/appendix-ii-major-ablution-ghusl-janabat
+  title: 'Appendix II: The Major Ablution (Ghusl Janabat)'
+  slug: 10-appendix-ii-the-major-ablution-ghusl-janabat
+  uuid: 7c424ffc-5dc1-4c97-8343-f0dacaaa7658
+- source: :alislam
+  source_url: http://www.al-islam.org/marriage-and-morals-islam-sayyid-muhammad-rizvi/glossary-frequently-used-terms
+  title: Glossary of Frequently Used Terms
+  slug: 11-glossary-of-frequently-used-terms
+  uuid: 2953d54e-bb59-4f56-8837-8810fbc228ee
+- source: :alislam
+  source_url: http://www.al-islam.org/marriage-and-morals-islam-sayyid-muhammad-rizvi/bibliography-works-cited
+  title: Bibliography of Works Cited
+  slug: 12-bibliography-of-works-cited
+  uuid: 221c1acb-5785-437c-ba9b-a946bb73897a
+---

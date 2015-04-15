@@ -1,0 +1,59 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/hajj-the-islamic-pilgrimage-sayyid-mohammed-zia-abadi
+author: Sayyid Muhammad Zia Abadi
+publisher: Ansariyan Publications - Qum
+translator: Ali Akbar Aghili Ashtiani
+title: Hajj - The Islamic Pilgrimage
+slug: hajj-the-islamic-pilgrimage
+uuid: 76d3c3d7-f107-4b07-b885-c86c1793258e
+description: |
+  Effects and philosophy of Hajj, stages of Hajj, and a description of
+  specific rites of Hajj.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-the-islamic-pilgrimage-sayyid-mohammed-zia-abadi/translators-note
+  title: Translators Note
+  slug: 1-translators-note
+  uuid: 4811e7ce-f2de-43e0-8f2d-1ebf1452d3d0
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-the-islamic-pilgrimage-sayyid-mohammed-zia-abadi/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 4a451e3f-fb9a-4c20-8425-2553a12a602a
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-the-islamic-pilgrimage-sayyid-mohammed-zia-abadi/purpose-acts-worship
+  title: The Purpose of the Acts of Worship
+  slug: 3-the-purpose-of-the-acts-of-worship
+  uuid: cb1075f9-6f7f-49eb-93b1-6e19b1e7a2dc
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-the-islamic-pilgrimage-sayyid-mohammed-zia-abadi/social-effects-hajj
+  title: Social Effects of Hajj
+  slug: 4-social-effects-of-hajj
+  uuid: 34f5814d-621c-4c75-af65-055216a09062
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-the-islamic-pilgrimage-sayyid-mohammed-zia-abadi/spiritual-philosophy-hajj
+  title: Spiritual Philosophy of Hajj
+  slug: 5-spiritual-philosophy-of-hajj
+  uuid: 513daed1-e9af-442f-b679-61bbc9cbdc14
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-the-islamic-pilgrimage-sayyid-mohammed-zia-abadi/stages-hajj
+  title: Stages of Hajj
+  slug: 6-stages-of-hajj
+  uuid: e10b0f71-9273-4e66-8c85-ca7d1166bede
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-the-islamic-pilgrimage-sayyid-mohammed-zia-abadi/halting-places
+  title: Halting Places
+  slug: 7-halting-places
+  uuid: 2935d0b3-c6fc-4a07-b649-f24b73ce2bb3
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-the-islamic-pilgrimage-sayyid-mohammed-zia-abadi/conclusion-hajj-rites
+  title: Conclusion of the Hajj Rites
+  slug: 8-conclusion-of-the-hajj-rites
+  uuid: d0251e57-b533-42e9-be1b-3e4196a0f695
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-the-islamic-pilgrimage-sayyid-mohammed-zia-abadi/visitation
+  title: Visitation
+  slug: 9-visitation
+  uuid: 4b45c857-d39a-455f-b8e3-3e5ac1963735
+---

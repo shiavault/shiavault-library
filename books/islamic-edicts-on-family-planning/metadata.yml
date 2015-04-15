@@ -1,0 +1,65 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islamic-edicts-on-family-planning
+compiler: Dr. Bahram DilawarDr. SaffiyahShahryari AfsharDr. A`dham Dukht Rahimi
+translator: Shaykh Saleem Bhimji
+title: Islamic Edicts on Family Planning
+slug: islamic-edicts-on-family-planning
+uuid: 4976bb36-481d-40ee-9aad-3cada9e68f14
+description: |
+  This book is a compilation of rulings given by the Maraji' on issues
+  related to family planning, like birth control, its various applications
+  and procedures, and abortion. It also includes rulings by Sunni scholars
+  on these topics.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-edicts-on-family-planning/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 9cdab6f1-b178-4273-a478-5efb728016a1
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-edicts-on-family-planning/birth-control
+  title: Birth Control
+  slug: 2-birth-control
+  uuid: 8bba7da8-05ca-4ea4-af3a-5443f4bb2f42
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-edicts-on-family-planning/abortions
+  title: Abortions
+  slug: 3-abortions
+  uuid: 07d0eb16-50b0-4765-86a4-e0f7d1a51c89
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-edicts-on-family-planning/noble-presence-protector-and-grand-marja%E2%80%99-shia-ayatullah-al-uzma
+  title: The Noble Presence of the Protector and Grand Marja’ of the Shi`a, Ayatullah
+    al-`Uzma Imam Khumayni
+  slug: 4-the-noble-presence-of-the-protector-and-grand-marja-of-the-shi-a-ayatullah-al-uzma-imam-khumayni
+  uuid: 02aa2feb-f511-45b1-bc03-f51336231572
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-edicts-on-family-planning/noble-presence-protector-and-grand-marja%E2%80%99-shia-ayatullah-al-uzma-0
+  title: The Noble Presence of the Protector and Grand Marja’ of the Shi`a, Ayatullah
+    al-`Uzma Najafi Mar`ashi
+  slug: 5-the-noble-presence-of-the-protector-and-grand-marja-of-the-shi-a-ayatullah-al-uzma-najafi-mar-ashi
+  uuid: 03789bee-cc74-44d6-83db-e002d1c3bb2d
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-edicts-on-family-planning/noble-presence-protector-and-grand-marja%E2%80%99-shia-ayatullah-al-uzma-1
+  title: The Noble Presence of the Protector and Grand Marja’ of the Shi`a, Ayatullah
+    al-`Uzma Gulpaygani
+  slug: 6-the-noble-presence-of-the-protector-and-grand-marja-of-the-shi-a-ayatullah-al-uzma-gulpaygani
+  uuid: 7acfed79-4d25-43df-9000-d722c27b4129
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-edicts-on-family-planning/noble-presence-protector-and-grand-marja%E2%80%99-shia-ayatullah-al-uzma-2
+  title: The Noble Presence of the Protector and Grand Marja’ of the Shi`a, Ayatullah
+    al-`Uzma Shirazi
+  slug: 7-the-noble-presence-of-the-protector-and-grand-marja-of-the-shi-a-ayatullah-al-uzma-shirazi
+  uuid: a2a2e81f-b258-4af9-8e78-d413184a9bf6
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-edicts-on-family-planning/opinion-scholars-and-jurisprudents-ahl-sunnah-relation-family
+  title: Opinion of the Scholars and Jurisprudents of the Ahl As-Sunnah in relation
+    to Family Planning
+  slug: 8-opinion-of-the-scholars-and-jurisprudents-of-the-ahl-as-sunnah-in-relation-to-family-planning
+  uuid: 652ac27e-4c84-4bfc-a017-64dbe4fe6887
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-edicts-on-family-planning/sources-books-used
+  title: Sources of Books Used
+  slug: 9-sources-of-books-used
+  uuid: 9737cf16-f9b5-4d21-b109-493e47a3bd99
+---

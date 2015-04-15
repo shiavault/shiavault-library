@@ -1,0 +1,137 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18
+publisher: Imam Ali Foundation
+translator: Sayyid Abbas Sadr-'ameli
+title: An Enlightening Commentary into the Light of the Holy Qur'an vol. 18
+slug: an-enlightening-commentary-into-the-light-of-the-holy-qur-an-vol-18
+uuid: 27204d23-8695-48f6-9e46-ecd0dd5d6b52
+description: |
+  An Enlightening Commentary into the Light of the Holy Qur'an vol. 18
+  From Surah al-Mujadalah (58) to Surah al-Qiyamah (75) The light of Islam
+  has enlightened and continuing to enlighten every corner in the world
+  and seekers of truth have closely associated to the Holy Quran which
+  carries the Word of Allah (SWT) to humanity. With increasing focus and
+  attention to the Holy Quran, efforts has been done to provide a pure,
+  correct and accurate translation of this divine book. But sometimes it
+  is difficult for the readers to understand all of the apparent and
+  hidden meanings and it is the duty of every Muslim, man or woman, to
+  read, understand and contemplate on the Holy Qur’an according to his own
+  capacity. Hence, the need for proper explanation becomes obvious and
+  necessary. The book titled, “An Enlightening Commentary into the Light
+  of the Holy Qur’an” compiled by a group of Muslim scholars, under the
+  direction of Ayatullah Allamah Al-Hajj Sayyid Kamal Faqih Imani is a
+  valuable effort which presents a thorough commentary on the Quran in 20
+  volumes made available to the reader.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: e4a08276-463f-4c00-8e62-7ff32f50b444
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18/acknowledgment
+  title: Acknowledgment
+  slug: 2-acknowledgment
+  uuid: 2385c4cf-8748-4e06-98ef-60621767f14f
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18/references
+  title: References
+  slug: 3-references
+  uuid: 854c693b-5142-40bb-9b4e-213a4b969bd0
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18/presentation-muslims
+  title: A Presentation to Muslims
+  slug: 4-a-presentation-to-muslims
+  uuid: c89d8a8d-b0aa-45bc-9e9e-6ccc6e1a5baf
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18/surah-mujadila-chapter-58
+  title: Surah Mujadila, Chapter 58
+  slug: 5-surah-mujadila-chapter-58
+  uuid: 0a5349a1-e8a1-44f3-b52c-9e40ad65ccde
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18/surah-al-hashr-chapter-59
+  title: Surah al-Hashr, Chapter 59
+  slug: 6-surah-al-hashr-chapter-59
+  uuid: 030bf67d-6b73-48ce-950a-db097f798d93
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18/surah-al-mumtahana-chapter-60
+  title: Surah al-Mumtahana, Chapter 60
+  slug: 7-surah-al-mumtahana-chapter-60
+  uuid: d3af56a6-6408-4af3-8861-4e2f739890da
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18/surah-al-saff-chapter-61
+  title: Surah al-Saff, Chapter 61
+  slug: 8-surah-al-saff-chapter-61
+  uuid: 2fa7fbb7-3e28-4b55-bfa5-a9b08c86fc46
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18/surah-al-juma-chapter-62
+  title: Surah al-Jum‘a, Chapter 62
+  slug: 9-surah-al-jum-a-chapter-62
+  uuid: d0313708-6928-4a0b-8d1f-b6bae845b2a9
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18/surah-al-munafiqun-chapter-63
+  title: Surah al-Munafiqun, Chapter 63
+  slug: 10-surah-al-munafiqun-chapter-63
+  uuid: 438da47f-e109-4fe9-b7f2-b83ef3ecc4cd
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18/surah-al-taghabun-chapter-64
+  title: Surah al-Taghabun, Chapter 64
+  slug: 11-surah-al-taghabun-chapter-64
+  uuid: e5aecff0-af44-4fcf-81f6-04fbc65f2688
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18/surah-al-talaq-chapter-65
+  title: Surah al-Talaq, Chapter 65
+  slug: 12-surah-al-talaq-chapter-65
+  uuid: bbe21145-18b2-4e48-b0d0-c9fcfd147735
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18/surah-al-tahrim-chapter-66
+  title: Surah al-Tahrim, Chapter 66
+  slug: 13-surah-al-tahrim-chapter-66
+  uuid: c5072420-b398-421f-8ed3-2f4b3e1f6f76
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18/surah-al-mulk-chapter-67
+  title: Surah al-Mulk, Chapter 67
+  slug: 14-surah-al-mulk-chapter-67
+  uuid: 7579ec09-8e76-4b66-b947-35d2a76268a2
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18/surah-al-qalam-chapter-68
+  title: Surah al-Qalam, Chapter 68
+  slug: 15-surah-al-qalam-chapter-68
+  uuid: d5e310b6-ee2d-4914-bbfb-d6a577255635
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18/surah-al-haqqa-chapter-69
+  title: Surah al-Haqqa, Chapter 69
+  slug: 16-surah-al-haqqa-chapter-69
+  uuid: 154a8706-db70-4741-8a86-8808be69224b
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18/surah-al-maarij-chapter-70
+  title: Surah al-Ma‘arij, Chapter 70
+  slug: 17-surah-al-ma-arij-chapter-70
+  uuid: 3a508e37-a3e5-4031-828b-0078e45919c0
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18/surah-nuh-chapter-71
+  title: Surah Nuh, Chapter 71
+  slug: 18-surah-nuh-chapter-71
+  uuid: c97c4df8-1393-4b82-96e3-7207fa9bb7b9
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18/surah-al-jinn-chapter-72
+  title: Surah al-Jinn, Chapter 72
+  slug: 19-surah-al-jinn-chapter-72
+  uuid: 76c25695-c99d-4607-9cca-773c304d6e6b
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18/surah-al-muzzammil-chapter-73
+  title: Surah al-Muzzammil, Chapter 73
+  slug: 20-surah-al-muzzammil-chapter-73
+  uuid: c7e5b385-4b67-4c3b-9083-48cea0ab7ff8
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18/surah-al-mudaththir-chapter-74
+  title: Surah al-Mudaththir, Chapter 74
+  slug: 21-surah-al-mudaththir-chapter-74
+  uuid: fe15bbd3-2ada-4bef-9203-47978750be86
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-18/surah-al-qiyama-chapter-75
+  title: Surah al-Qiyama, Chapter 75
+  slug: 22-surah-al-qiyama-chapter-75
+  uuid: dbb4f228-45fa-4982-a857-f3194b5d9b15
+---

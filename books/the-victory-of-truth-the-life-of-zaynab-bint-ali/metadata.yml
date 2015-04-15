@@ -1,0 +1,83 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/victory-truth-life-zaynab-bint-ali
+author: Muna Haeri Bilgrami
+publisher: Zahra Publications
+title: 'The Victory of Truth: The Life of Zaynab bint Ali'
+slug: the-victory-of-truth-the-life-of-zaynab-bint-ali
+uuid: 457632c4-1104-4e81-8bcb-62183548738c
+description: |
+  Biography of the daughter of Imam 'Ali (a), her early life, and her
+  important role in the events of Karbala, Kufa and Sham
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/victory-truth-life-zaynab-bint-ali/acknowledgments
+  title: Acknowledgments
+  slug: 1-acknowledgments
+  uuid: 57e64f85-d234-4479-a7e6-2de535f497f4
+- source: :alislam
+  source_url: http://www.al-islam.org/victory-truth-life-zaynab-bint-ali/introduction%C2%A0
+  title: Introduction 
+  slug: 2-introduction
+  uuid: cfffa684-5cf8-4ea3-a4fa-e5b099ea9b02
+- source: :alislam
+  source_url: http://www.al-islam.org/victory-truth-life-zaynab-bint-ali/angelic-appellation%C2%A0
+  title: Angelic Appellation 
+  slug: 3-angelic-appellation
+  uuid: b5753027-4207-49dc-9acc-de5818ec7ffb
+- source: :alislam
+  source_url: http://www.al-islam.org/victory-truth-life-zaynab-bint-ali/growing-medina%C2%A0
+  title: Growing Up in Medina 
+  slug: 4-growing-up-in-medina
+  uuid: 147ec59c-119c-4741-8674-9946ab2340f8
+- source: :alislam
+  source_url: http://www.al-islam.org/victory-truth-life-zaynab-bint-ali/womanhood%C2%A0
+  title: Womanhood 
+  slug: 5-womanhood
+  uuid: 849be830-e4dc-4eb8-9bde-48ed0109e1d0
+- source: :alislam
+  source_url: http://www.al-islam.org/victory-truth-life-zaynab-bint-ali/assassination%C2%A0
+  title: Assassination 
+  slug: 6-assassination
+  uuid: 68b8ae47-5824-4ef8-b029-88aec15ca1cd
+- source: :alislam
+  source_url: http://www.al-islam.org/victory-truth-life-zaynab-bint-ali/rendezvous-fate-karbala%C2%A0
+  title: Rendezvous with Fate - Karbala 
+  slug: 7-rendezvous-with-fate-karbala
+  uuid: 8ddb3589-aed1-4961-9ca5-a5583c203108
+- source: :alislam
+  source_url: http://www.al-islam.org/victory-truth-life-zaynab-bint-ali/sacrifice-karbala%C2%A0
+  title: Sacrifice - Karbala 
+  slug: 8-sacrifice-karbala
+  uuid: bf22ed5e-605e-4152-be9c-3506d604b0e4
+- source: :alislam
+  source_url: http://www.al-islam.org/victory-truth-life-zaynab-bint-ali/eloquent-defiance-kufa%C2%A0
+  title: Eloquent Defiance - Kufa 
+  slug: 9-eloquent-defiance-kufa
+  uuid: 0eb71588-b859-4888-b038-7313a0756172
+- source: :alislam
+  source_url: http://www.al-islam.org/victory-truth-life-zaynab-bint-ali/victory-truth-damascus%C2%A0
+  title: The Victory of Truth - Damascus 
+  slug: 10-the-victory-of-truth-damascus
+  uuid: 4756065c-8f10-4954-813e-537286c3e802
+- source: :alislam
+  source_url: http://www.al-islam.org/victory-truth-life-zaynab-bint-ali/return-medina%C2%A0
+  title: Return to Medina 
+  slug: 11-return-to-medina
+  uuid: f27a08ef-ef8d-4e16-8c07-1e228fc2d455
+- source: :alislam
+  source_url: http://www.al-islam.org/victory-truth-life-zaynab-bint-ali/epilogue%C2%A0
+  title: Epilogue 
+  slug: 12-epilogue
+  uuid: a45df4f1-dc6c-4db4-97a5-4a660cd374e9
+- source: :alislam
+  source_url: http://www.al-islam.org/victory-truth-life-zaynab-bint-ali/notes%C2%A0
+  title: Notes 
+  slug: 13-notes
+  uuid: 6d4442e1-93e0-4dea-bff4-11900b5a5eb1
+- source: :alislam
+  source_url: http://www.al-islam.org/victory-truth-life-zaynab-bint-ali/ziyarat%C2%A0
+  title: Ziyarat 
+  slug: 14-ziyarat
+  uuid: b30a9bdf-b7a5-494f-942b-480abfd09229
+---

@@ -1,0 +1,75 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/ismat-infallibiity-of-prophets-in-the-quran-sayyid-muhammad-rizvi
+author: Sayyid Muhammad Rizvi
+publisher: Bilal Muslim Mission of Tanzania
+title: The Infallibility of the Prophets in the Qur'an
+slug: the-infallibility-of-the-prophets-in-the-qur-an
+uuid: 9c10a1a5-8c21-4c12-87ad-c670a84a6be3
+description: |
+  A short text on the nature of Ismah (infallibility) and its necessity
+  for the person holding the position of Prophethood. Examples from the
+  Qur'an are discussed where it might appear to some that certain prophets
+  of Islam departed from this state of infallibility.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/ismat-infallibiity-of-prophets-in-the-quran-sayyid-muhammad-rizvi/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: e3b95812-0647-45a9-b579-a719d5ebe7ed
+- source: :alislam
+  source_url: http://www.al-islam.org/ismat-infallibiity-of-prophets-in-the-quran-sayyid-muhammad-rizvi/preface
+  title: Preface
+  slug: 2-preface
+  uuid: 9abd05e5-9af0-4900-b295-7e8bd0618577
+- source: :alislam
+  source_url: http://www.al-islam.org/ismat-infallibiity-of-prophets-in-the-quran-sayyid-muhammad-rizvi/definition-%E2%80%98ismah
+  title: The Definition of ‘Ismah
+  slug: 3-the-definition-of-ismah
+  uuid: 655de048-c175-4ff2-8b67-c54d83c20573
+- source: :alislam
+  source_url: http://www.al-islam.org/ismat-infallibiity-of-prophets-in-the-quran-sayyid-muhammad-rizvi/muslims-belief-%E2%80%98ismah
+  title: Muslims & the Belief in ‘Ismah
+  slug: 4-muslims-the-belief-in-ismah
+  uuid: 3091fbfc-bc85-4ab1-8681-39e54e06a722
+- source: :alislam
+  source_url: http://www.al-islam.org/ismat-infallibiity-of-prophets-in-the-quran-sayyid-muhammad-rizvi/why-%E2%80%98ismah
+  title: Why ‘Ismah?
+  slug: 5-why-ismah
+  uuid: 4bf2fddd-241b-420d-8fb0-c80ed3377dd3
+- source: :alislam
+  source_url: http://www.al-islam.org/ismat-infallibiity-of-prophets-in-the-quran-sayyid-muhammad-rizvi/humanism-infallibility
+  title: Humanism & Infallibility
+  slug: 6-humanism-infallibility
+  uuid: 7080c0b5-bac0-4b78-a44f-e52b63901609
+- source: :alislam
+  source_url: http://www.al-islam.org/ismat-infallibiity-of-prophets-in-the-quran-sayyid-muhammad-rizvi/allegorical-verses-qur%E2%80%99
+  title: The Allegorical Verses of the Qur’an
+  slug: 7-the-allegorical-verses-of-the-qur-an
+  uuid: e8443947-1561-40a2-ae41-d0cabf013898
+- source: :alislam
+  source_url: http://www.al-islam.org/ismat-infallibiity-of-prophets-in-the-quran-sayyid-muhammad-rizvi/case-adam
+  title: The Case of Adam (a.s.)
+  slug: 8-the-case-of-adam-a-s
+  uuid: 54455fc0-54a4-4ef4-8393-3b143652d56c
+- source: :alislam
+  source_url: http://www.al-islam.org/ismat-infallibiity-of-prophets-in-the-quran-sayyid-muhammad-rizvi/case-prophet-ibrahim
+  title: The Case of Prophet Ibrahim (a.s.)
+  slug: 9-the-case-of-prophet-ibrahim-a-s
+  uuid: ce29f6f1-cee6-461b-8e2d-f62b5790bfc4
+- source: :alislam
+  source_url: http://www.al-islam.org/ismat-infallibiity-of-prophets-in-the-quran-sayyid-muhammad-rizvi/case-prophet-musa
+  title: The Case of Prophet Musa (a.s.)
+  slug: 10-the-case-of-prophet-musa-a-s
+  uuid: bce486c5-678e-4fde-88f2-bfc9c104ab08
+- source: :alislam
+  source_url: http://www.al-islam.org/ismat-infallibiity-of-prophets-in-the-quran-sayyid-muhammad-rizvi/case-prophet-yunus
+  title: The Case of Prophet Yunus (a.s.)
+  slug: 11-the-case-of-prophet-yunus-a-s
+  uuid: 0dff340c-881d-43b8-a1e3-829d998fd75d
+- source: :alislam
+  source_url: http://www.al-islam.org/ismat-infallibiity-of-prophets-in-the-quran-sayyid-muhammad-rizvi/case-prophet-muhammad-s
+  title: The Case of Prophet Muhammad (S)
+  slug: 12-the-case-of-prophet-muhammad-s
+  uuid: 7d231852-88f4-45fe-9666-187a211575c6
+---

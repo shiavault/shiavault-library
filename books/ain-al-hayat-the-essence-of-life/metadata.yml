@@ -1,0 +1,132 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/ain-al-hayat-essence-life-muhammad-baqir-al-majlisi
+author: Allamah Muhammad Baqir Al-Majlisi
+publisher: Ansariyan Publications - Qum
+translator: Sayyid Tahir Bilgrami
+title: Ain-Al Hayat, The Essence of Life
+slug: ain-al-hayat-the-essence-of-life
+uuid: 270671cb-e5ff-4462-b734-c8084ecc514c
+description: |
+  ‘Ain-Al Hayat عين الحياة The book begins with the biographical
+  descriptions of some of the truest Companions of The Prophet (S),
+  namely, Salman Farsi, Abu Dharr Ghifari and Miqdad Al-Aswad. Then in
+  each chapter he picks up various themes related to the Existence of
+  Allah SWT, His creation of the universe, the angels, His Attributes,
+  Prophethood, followed by Imamah, The Day of Judgment, the value and
+  rewards of good deeds etc. Allama Majlisi elaborates upon the aqaeed
+  (tenets of beliefs) in their various ramifications and shows us how to
+  attain total devotion to Allah SWT. One chapter is devoted to the
+  benefits of reciting The Quran as a whole and verses from various
+  chapters. There is also very good advice about dealing with rulers and
+  about helping one’s brethren in faith, examples from the lives of Imam
+  Husain (as) and Imam Zaynul Abideen (as) as well as supplications to be
+  recited after each salaat and before going to bed. Negative behavioral
+  traits that show the degree of one’s belief and faith are listed and
+  discussed. These include, inter alia, lying, greed, backbiting, false
+  allegations, pride etc. The book also includes various supplications to
+  be recited after each prayer, especially the tasbeeh and its merits. The
+  book concludes with The Prophet’s Will concerning Abu Dharr, the most
+  truthful person.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/ain-al-hayat-essence-life-muhammad-baqir-al-majlisi/about-author
+  title: About The Author
+  slug: 1-about-the-author
+  uuid: d2d6a6c7-45e9-4c04-9fe5-b0a191a5d6ee
+- source: :alislam
+  source_url: http://www.al-islam.org/ain-al-hayat-essence-life-muhammad-baqir-al-majlisi/introduction-profiles-benevolent-companions
+  title: 'Introduction: Profiles of The Benevolent Companions of The Prophet (S)'
+  slug: 2-introduction-profiles-of-the-benevolent-companions-of-the-prophet-s
+  uuid: 6025bf41-a4d3-4623-a5d2-7cc07f086160
+- source: :alislam
+  source_url: http://www.al-islam.org/ain-al-hayat-essence-life-muhammad-baqir-al-majlisi/chapter-1-steps
+  title: 'Chapter 1: The Steps'
+  slug: 3-chapter-1-the-steps
+  uuid: 6d2a5a18-4666-48b5-ae70-6b59b68c8e67
+- source: :alislam
+  source_url: http://www.al-islam.org/ain-al-hayat-essence-life-muhammad-baqir-al-majlisi/chapter-2-fundamentals
+  title: 'Chapter 2: The Fundamentals'
+  slug: 4-chapter-2-the-fundamentals
+  uuid: 8c6eee61-209d-4a62-b6c9-b035e59bb4b8
+- source: :alislam
+  source_url: http://www.al-islam.org/ain-al-hayat-essence-life-muhammad-baqir-al-majlisi/chapter-3-benefits
+  title: 'Chapter 3: The Benefits'
+  slug: 5-chapter-3-the-benefits
+  uuid: e9d6d6ee-2ed0-4752-995d-a6aba4bb84bc
+- source: :alislam
+  source_url: http://www.al-islam.org/ain-al-hayat-essence-life-muhammad-baqir-al-majlisi/chapter-4-refulgence-or-rays-light
+  title: 'Chapter 4: Refulgence Or Rays Of Light'
+  slug: 6-chapter-4-refulgence-or-rays-of-light
+  uuid: 2ad0b498-60be-4763-b034-6060c84a566c
+- source: :alislam
+  source_url: http://www.al-islam.org/ain-al-hayat-essence-life-muhammad-baqir-al-majlisi/chapter-5-objectives
+  title: 'Chapter 5: The Objectives'
+  slug: 7-chapter-5-the-objectives
+  uuid: 1f4882c0-12d9-47b7-8fb2-3ac1605a4b7b
+- source: :alislam
+  source_url: http://www.al-islam.org/ain-al-hayat-essence-life-muhammad-baqir-al-majlisi/chapter-6-maxims-or-regulations
+  title: 'Chapter 6: The Maxims Or Regulations'
+  slug: 8-chapter-6-the-maxims-or-regulations
+  uuid: 8bc8a8ff-7865-4324-8dfd-00c378bc51e4
+- source: :alislam
+  source_url: http://www.al-islam.org/ain-al-hayat-essence-life-muhammad-baqir-al-majlisi/chapter-7-traits-qasail
+  title: 'Chapter 7: The Traits, Qasail'
+  slug: 9-chapter-7-the-traits-qasail
+  uuid: 7498b9b7-f16e-4bc8-86ee-d8ba72d850b1
+- source: :alislam
+  source_url: http://www.al-islam.org/ain-al-hayat-essence-life-muhammad-baqir-al-majlisi/chapter-8-lamaat-rays-light
+  title: 'Chapter 8: Lamaat, The Rays of Light'
+  slug: 10-chapter-8-lamaat-the-rays-of-light
+  uuid: 5b38d98a-5bf3-402d-8bd9-0e30d9e56267
+- source: :alislam
+  source_url: http://www.al-islam.org/ain-al-hayat-essence-life-muhammad-baqir-al-majlisi/chapter-9-fruits
+  title: 'Chapter 9: The Fruits'
+  slug: 11-chapter-9-the-fruits
+  uuid: 54e17d55-fef4-44b0-889c-5035c4a14376
+- source: :alislam
+  source_url: http://www.al-islam.org/ain-al-hayat-essence-life-muhammad-baqir-al-majlisi/chapter-10-stars
+  title: 'Chapter 10: The Stars'
+  slug: 12-chapter-10-the-stars
+  uuid: 85564645-4aab-41a8-b92c-ac92fccc1e3c
+- source: :alislam
+  source_url: http://www.al-islam.org/ain-al-hayat-essence-life-muhammad-baqir-al-majlisi/chapter-11-yanabeeh-or-streams
+  title: 'Chapter 11: The Yanabeeh or Streams'
+  slug: 13-chapter-11-the-yanabeeh-or-streams
+  uuid: 37351f3d-7fc3-40c2-b0e5-c13e145ab53b
+- source: :alislam
+  source_url: http://www.al-islam.org/ain-al-hayat-essence-life-muhammad-baqir-al-majlisi/first-stream-about-aged-muslims
+  title: 'The First Stream: About Aged Muslims'
+  slug: 14-the-first-stream-about-aged-muslims
+  uuid: 416a58d2-5220-4cce-af2d-466550a15c40
+- source: :alislam
+  source_url: http://www.al-islam.org/ain-al-hayat-essence-life-muhammad-baqir-al-majlisi/second-stream-about-superiority-holy-quran
+  title: 'The Second Stream: About Superiority of The Holy Qur’an'
+  slug: 15-the-second-stream-about-superiority-of-the-holy-qur-an
+  uuid: 5be756b6-9034-4c3e-8ee3-d3b0717a4030
+- source: :alislam
+  source_url: http://www.al-islam.org/ain-al-hayat-essence-life-muhammad-baqir-al-majlisi/third-stream-about-dealing-kings
+  title: 'The Third Stream: About Dealing With The Kings'
+  slug: 16-the-third-stream-about-dealing-with-the-kings
+  uuid: 32c0dce6-fab9-4caf-8765-588acc1941d9
+- source: :alislam
+  source_url: http://www.al-islam.org/ain-al-hayat-essence-life-muhammad-baqir-al-majlisi/chapter-12-status
+  title: 'Chapter 12: The Status'
+  slug: 17-chapter-12-the-status
+  uuid: d27d4d63-7e77-43d3-badb-461faee9766a
+- source: :alislam
+  source_url: http://www.al-islam.org/ain-al-hayat-essence-life-muhammad-baqir-al-majlisi/chapter-13-masabeeh-lamps
+  title: 'Chapter 13: Masabeeh, The Lamps'
+  slug: 18-chapter-13-masabeeh-the-lamps
+  uuid: a46842a0-7400-4e30-a6c5-e15412fcf3b0
+- source: :alislam
+  source_url: http://www.al-islam.org/ain-al-hayat-essence-life-muhammad-baqir-al-majlisi/chapter-14-invocations
+  title: 'Chapter 14: Invocations'
+  slug: 19-chapter-14-invocations
+  uuid: 8949b035-7ca2-4709-a267-85d3d3b9784f
+- source: :alislam
+  source_url: http://www.al-islam.org/ain-al-hayat-essence-life-muhammad-baqir-al-majlisi/appendix-prophet-s-advice-abu-dharr
+  title: 'Appendix: The Prophet’s Advice To Abu Dharr'
+  slug: 20-appendix-the-prophet-s-advice-to-abu-dharr
+  uuid: d9c3712a-8ba8-41f2-a4ac-864afed8012b
+---

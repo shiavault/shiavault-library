@@ -1,0 +1,34 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/forty-ahadith-ghadir-mahmud-sharifi
+author: Mahmud Sharifi
+publisher: The Islamic Education Board of the World Federation
+translator: Shaykh Saleem Bhimji
+title: Forty Ahadith on Ghadir
+slug: forty-ahadith-on-ghadir
+uuid: 3357cef3-6bfd-4411-bfc6-a45409d4178d
+description: |
+  This text is a collection of forty ahadith about the great event of
+  Ghadir Qum from the fourteen infallibles.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-ghadir-mahmud-sharifi/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: c08d6e70-3770-4f08-87ca-0056b56838c6
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-ghadir-mahmud-sharifi/status-eidul-ghadir
+  title: The Status of 'Eidul Ghadir
+  slug: 2-the-status-of-eidul-ghadir
+  uuid: 639e3249-237f-47c7-a3f4-c59a21072d20
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-ghadir-mahmud-sharifi/worthy-and-deserving-day-ghadir
+  title: The Worthy and Deserving Day of Ghadir
+  slug: 3-the-worthy-and-deserving-day-of-ghadir
+  uuid: 497ea255-670b-429d-a85f-02ab45d8a8ee
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-ghadir-mahmud-sharifi/wilayat-ghadir
+  title: Wilayat in Ghadir
+  slug: 4-wilayat-in-ghadir
+  uuid: b8135866-2ca3-4539-ac6d-79cf9a51bcfb
+---

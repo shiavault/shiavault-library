@@ -1,0 +1,159 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri
+author: Muhammad Rayshahri
+publisher: Dar al-Hadith Publications
+title: The Elixir of Love
+slug: the-elixir-of-love
+uuid: 5800084c-9aba-43fb-a068-b9e0f01c22bc
+description: |
+  Spiritual lessons on the love of Allah (swt) from the life of the 20th
+  century spiritual exemplar, Shaykh Rajab Ali Khayyat. Includes anecotes
+  from his life and practical ethical advice for living a spiritual life.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 97405650-ae5b-4b19-84e3-a32be1ae4713
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/part-1-traits
+  title: 'Part 1: Traits'
+  slug: 2-part-1-traits
+  uuid: f4a5bfac-eb4e-46dc-a02c-660dc8c60114
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/life
+  title: Life
+  slug: 3-life
+  uuid: cea8fe73-7684-4f2b-a35c-935fcff499d7
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/occupation
+  title: Occupation
+  slug: 4-occupation
+  uuid: 1e66c131-1677-4916-9cb9-dd11343e9360
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/self-sacrifice
+  title: Self -Sacrifice
+  slug: 5-self-sacrifice
+  uuid: 95bdffb1-f882-44bc-ab2c-eae05a365e2a
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/acts-selfless-devotion
+  title: Acts of Selfless Devotion
+  slug: 6-acts-of-selfless-devotion
+  uuid: 4cc3ec33-cab8-4e73-82f5-74ba57bf489d
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/ethics
+  title: Ethics
+  slug: 7-ethics
+  uuid: 74c2948a-f267-45ee-b591-5524ef5337a8
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/awaiting-faraj-second-coming-imam-al-asr-aj
+  title: Awaiting the Faraj (Second Coming of Imam al-'Asr (aj))
+  slug: 8-awaiting-the-faraj-second-coming-of-imam-al-asr-aj
+  uuid: 1d56f3d1-a5dc-41e8-b669-b29a110a2964
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/poetry
+  title: Poetry
+  slug: 9-poetry
+  uuid: 4731b921-a2ba-431d-a1af-4f31abadf6a0
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/politics
+  title: Politics
+  slug: 10-politics
+  uuid: 12f88ddb-4de9-44d1-8619-827a0585f2f7
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/part-2-leap-forward
+  title: 'Part 2: A Leap Forward'
+  slug: 11-part-2-a-leap-forward
+  uuid: f303a826-d3ef-452a-9ebd-011fce559576
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/divine-training
+  title: Divine Training
+  slug: 12-divine-training
+  uuid: 255a58eb-0e9e-42f1-874c-ab468616a4ed
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/help-unseen-world
+  title: Help from the Unseen World
+  slug: 13-help-from-the-unseen-world
+  uuid: 8b27511e-4d86-4ad9-8ec1-ced2da3a5860
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/spiritual-perfections
+  title: Spiritual Perfections
+  slug: 14-spiritual-perfections
+  uuid: a25c4802-709f-4125-8be2-3d18ca5c0e39
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/part-3-self-building
+  title: 'Part 3: Self-Building'
+  slug: 15-part-3-self-building
+  uuid: f6258f31-6bb1-49fd-871f-7aa93a91ee58
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/ways-self-building
+  title: The Ways of Self-Building
+  slug: 16-the-ways-of-self-building
+  uuid: 820c2e77-4481-4684-8b95-c18c6358c8b1
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/basis-self-building
+  title: The Basis of Self-Building
+  slug: 17-the-basis-of-self-building
+  uuid: f2e6c61d-5984-4428-a627-36c9b0074c11
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/elixir-self-building
+  title: The Elixir of Self-Building
+  slug: 18-the-elixir-of-self-building
+  uuid: 10756747-2a92-4800-96c8-a0e4dea520b3
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/sincerity-friends-god
+  title: Sincerity of Friends of God
+  slug: 19-sincerity-of-friends-of-god
+  uuid: f92cbc60-5dff-437d-9347-18163b369bb1
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/dhikr-friends-god
+  title: The Dhikr of the Friends of God
+  slug: 20-the-dhikr-of-the-friends-of-god
+  uuid: 1cd9a82b-d28c-4966-805d-d3bf3ed30868
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/supplications-friends-god
+  title: Supplications of the Friends of God
+  slug: 21-supplications-of-the-friends-of-god
+  uuid: 2416f6c2-3d40-401f-a52c-2187803ccf3e
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/benevolence-friends-god
+  title: Benevolence of the Friends of God
+  slug: 22-benevolence-of-the-friends-of-god
+  uuid: 9e81e4f9-a272-41e9-b615-9704c67cbfb1
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/prayers-friends-god
+  title: Prayers of the Friends of God
+  slug: 23-prayers-of-the-friends-of-god
+  uuid: bbfae859-0ae9-47e1-8779-22136371926e
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/hajj-friends-god
+  title: The Hajj of the Friends of God
+  slug: 24-the-hajj-of-the-friends-of-god
+  uuid: 2e0e0cf3-ba1d-4561-b03c-6cddf98681a3
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/friends-gods-fear
+  title: Friends of God's Fear
+  slug: 25-friends-of-god-s-fear
+  uuid: 702cb871-30db-4ed1-b9d5-322d265493ab
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/part-4-passing-away
+  title: 'Part 4: Passing Away'
+  slug: 26-part-4-passing-away
+  uuid: 31467752-3a3b-4e4a-a31c-52c577e7fd26
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/passing-away-shaykh-rajab-ali-khayyat
+  title: The Passing Away of Shaykh Rajab Ali Khayyat
+  slug: 27-the-passing-away-of-shaykh-rajab-ali-khayyat
+  uuid: e928743e-1b95-462d-a4a7-0047bb2297b4
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/passing-away-ayatollah-hujjat
+  title: The Passing Away of Ayatollah Hujjat
+  slug: 28-the-passing-away-of-ayatollah-hujjat
+  uuid: 869d006b-8518-4657-b91f-ad7c95843b3d
+- source: :alislam
+  source_url: http://www.al-islam.org/the-elixir-of-love-muhammad-rayshahri/passing-away-haj-akhund-turbati
+  title: The Passing Away of Haj Akhund Turbati
+  slug: 29-the-passing-away-of-haj-akhund-turbati
+  uuid: 0b365327-5b0a-4150-be25-da4bcd1f7f3c
+---

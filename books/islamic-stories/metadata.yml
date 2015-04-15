@@ -1,0 +1,130 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islamic-stories
+title: Islamic Stories
+slug: islamic-stories
+uuid: 7c6ab290-1f8a-4ac5-a2c9-6c2d830e6960
+description: |
+  Stories from the lives of the Prophets, Imams, and Companions.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/call-prayers-cold-wintry-morning
+  title: A Call to Prayers On A Cold Wintry Morning
+  slug: 1-a-call-to-prayers-on-a-cold-wintry-morning
+  uuid: 57ebe9ec-e15d-4021-a1da-4242c802d7b0
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/bahlool-proves-three-facts
+  title: Bahlool Proves the Three Facts
+  slug: 2-bahlool-proves-the-three-facts
+  uuid: 2bb86d02-784b-45e1-ac4d-eb9552c02d46
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/ahlul-bait-mubahala
+  title: Ahlul Bait at Mubahala
+  slug: 3-ahlul-bait-at-mubahala
+  uuid: 87ad4085-9314-46e3-bacf-346461b77e4b
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/god-sees-you-everywhere
+  title: God Sees You Everywhere
+  slug: 4-god-sees-you-everywhere
+  uuid: aba94e22-7d32-4ecd-8ea5-dcba91ad5db7
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/tit-tat
+  title: Tit For Tat
+  slug: 5-tit-for-tat
+  uuid: 8393bf81-3746-4b18-9db0-f4e33f57e133
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/co-operation-key-success
+  title: Co-Operation the Key To Success
+  slug: 6-co-operation-the-key-to-success
+  uuid: c7dabf7b-3648-420e-914b-6fd44a33b06f
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/she-had-true-faith
+  title: She Had True Faith
+  slug: 7-she-had-true-faith
+  uuid: 8f90e0ef-4ed4-416b-ad1f-c4459a0ebb3c
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/al-quran-great-and-holy-book
+  title: Al-Qur'an - The Great and Holy Book
+  slug: 8-al-qur-an-the-great-and-holy-book
+  uuid: 7055f885-699f-432c-9cb1-0347d9cef58a
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/must-god-be-just
+  title: Must God be Just?
+  slug: 9-must-god-be-just
+  uuid: 230869ab-e7d7-4e7f-8e8b-12c6f8e10a5c
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/shadow-tree-shadow-islam
+  title: From The Shadow of A Tree to the Shadow of Islam
+  slug: 10-from-the-shadow-of-a-tree-to-the-shadow-of-islam
+  uuid: e3adc0bf-54f7-4486-8977-757a833ec76e
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/path-religion
+  title: On The Path of Religion
+  slug: 11-on-the-path-of-religion
+  uuid: 379d0cf9-c25f-48e8-b498-76084d8b0e27
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/ant-prays-rain
+  title: The Ant Prays For Rain
+  slug: 12-the-ant-prays-for-rain
+  uuid: 155d8a2d-d436-4b9c-a0c7-a686e7a8c380
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/care-animals
+  title: Care for Animals
+  slug: 13-care-for-animals
+  uuid: 2658b66e-1c13-4061-88ef-f7ee0ac63596
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/prophet-sulaiman-solomon-king-prophet
+  title: Prophet Sulaiman (Solomon) the King Prophet
+  slug: 14-prophet-sulaiman-solomon-the-king-prophet
+  uuid: 966022e5-c2b1-48e7-a41f-f32c2cb7324c
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/here-comes-al-amin-trustworthy
+  title: Here Comes Al-Amin - The Trustworthy
+  slug: 15-here-comes-al-amin-the-trustworthy
+  uuid: 2a9f5241-1219-4e4c-9bf0-ed2db03bd088
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/hercules-and-islam
+  title: Hercules and Islam
+  slug: 16-hercules-and-islam
+  uuid: 30343c01-c5e6-47b0-9b23-94b677b488be
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/jafar-al-tayyar-refugee-who-brought-islam-africa
+  title: Ja'far Al-Tayyar, The Refugee Who Brought Islam to Africa
+  slug: 17-ja-far-al-tayyar-the-refugee-who-brought-islam-to-africa
+  uuid: 714b493e-24e5-4931-9eea-472c06881d2a
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/prophet-ibrahim-and-idol-worship
+  title: Prophet Ibrahim and the Idol Worship
+  slug: 18-prophet-ibrahim-and-the-idol-worship
+  uuid: 98ad848e-8762-4052-8487-4a76cc5608fc
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/prophet-muhammad-s-enters-madina
+  title: The Prophet Muhammad (S) Enters Madina
+  slug: 19-the-prophet-muhammad-s-enters-madina
+  uuid: b18f6c0f-d63b-45b1-95da-5bd6e3166f97
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/nazr-vow-allah-be-fulfilled
+  title: 'Nazr: A Vow with Allah to Be Fulfilled'
+  slug: 20-nazr-a-vow-with-allah-to-be-fulfilled
+  uuid: a59bbd94-9dea-4c43-97e7-14d2b8d0676e
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/sake-allah-only
+  title: For The Sake of Allah Only
+  slug: 21-for-the-sake-of-allah-only
+  uuid: 47c536ce-c057-4480-be45-8c2237d2784a
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/imamat-guidance-we-need
+  title: Imamat Is Guidance We Need
+  slug: 22-imamat-is-guidance-we-need
+  uuid: 30b737c3-be0f-4d0d-adce-9a8b7bd6cfab
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/learned-man-and-hungry-dog
+  title: The Learned Man and the Hungry Dog
+  slug: 23-the-learned-man-and-the-hungry-dog
+  uuid: 0d30d6b3-3685-4172-b9a6-5a28314dc0c0
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-stories/five-loaves
+  title: The Five Loaves
+  slug: 24-the-five-loaves
+  uuid: 31c27f79-5ecd-4224-bb39-035265e2166e
+---

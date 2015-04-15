@@ -1,0 +1,93 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/15-whispered-prayers-sahifa-al-kamila-sajjadiyyah
+title: The 15 Whispered Prayers of As-Sahifa al-Kamila as-Sajjadiyyah
+slug: the-15-whispered-prayers-of-as-sahifa-al-kamila-as-sajjadiyyah
+uuid: 48c7bced-d375-4a49-84bf-faefdc9b05fd
+description: |
+  The Whispered prayers, is a collection of 15 Intimate conversations with
+  God extracted from the book Sahifa Sajjadiya, known famously as the
+  Psalms of Islam. The translation is based on the Tafseer of Sheikh Dr.
+  Mohammad Ali Shomali www.quranstudy.com
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/15-whispered-prayers-sahifa-al-kamila-sajjadiyyah/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: bd9379be-90cd-4ccc-9486-3283907e2489
+- source: :alislam
+  source_url: http://www.al-islam.org/15-whispered-prayers-sahifa-al-kamila-sajjadiyyah/whispered-prayer-repenters
+  title: The Whispered Prayer of the Repenters
+  slug: 2-the-whispered-prayer-of-the-repenters
+  uuid: 77062b49-eb97-4e70-a0f6-cb534e57723b
+- source: :alislam
+  source_url: http://www.al-islam.org/15-whispered-prayers-sahifa-al-kamila-sajjadiyyah/whispered-prayer-complainers
+  title: The Whispered Prayer of the Complainers
+  slug: 3-the-whispered-prayer-of-the-complainers
+  uuid: b3086784-bfea-4a1e-a4ee-2b2cf0f32a38
+- source: :alislam
+  source_url: http://www.al-islam.org/15-whispered-prayers-sahifa-al-kamila-sajjadiyyah/whispered-prayer-fearful
+  title: The Whispered Prayer of the Fearful
+  slug: 4-the-whispered-prayer-of-the-fearful
+  uuid: d2adcae3-d95b-4a99-9d86-a59ed8b1e88c
+- source: :alislam
+  source_url: http://www.al-islam.org/15-whispered-prayers-sahifa-al-kamila-sajjadiyyah/whispered-prayer-hopeful
+  title: The Whispered Prayer of the Hopeful
+  slug: 5-the-whispered-prayer-of-the-hopeful
+  uuid: 1847eb44-a673-484c-800f-f7f0e8f66824
+- source: :alislam
+  source_url: http://www.al-islam.org/15-whispered-prayers-sahifa-al-kamila-sajjadiyyah/whispered-prayer-beseechers
+  title: The Whispered Prayer of the Beseechers
+  slug: 6-the-whispered-prayer-of-the-beseechers
+  uuid: 34889eda-595c-4e58-bbd8-b22e3534c00d
+- source: :alislam
+  source_url: http://www.al-islam.org/15-whispered-prayers-sahifa-al-kamila-sajjadiyyah/whispered-prayer-thankful
+  title: The Whispered Prayer of the Thankful
+  slug: 7-the-whispered-prayer-of-the-thankful
+  uuid: 91ac41cc-22b5-4793-9429-25dd1ae16d41
+- source: :alislam
+  source_url: http://www.al-islam.org/15-whispered-prayers-sahifa-al-kamila-sajjadiyyah/whispered-prayer-obedient-towards-god
+  title: The Whispered Prayer obedient towards God
+  slug: 8-the-whispered-prayer-obedient-towards-god
+  uuid: e8c4178a-9be7-4118-ad59-5156bc79b1ec
+- source: :alislam
+  source_url: http://www.al-islam.org/15-whispered-prayers-sahifa-al-kamila-sajjadiyyah/whispered-prayer-devotees
+  title: The Whispered Prayer of the Devotees
+  slug: 9-the-whispered-prayer-of-the-devotees
+  uuid: 39b8a375-4c65-4778-a7da-fcb71200677e
+- source: :alislam
+  source_url: http://www.al-islam.org/15-whispered-prayers-sahifa-al-kamila-sajjadiyyah/whispered-prayer-lovers
+  title: The Whispered Prayer of the Lovers
+  slug: 10-the-whispered-prayer-of-the-lovers
+  uuid: 7e84e1cb-5cc5-487c-96f9-8dc8996a09eb
+- source: :alislam
+  source_url: http://www.al-islam.org/15-whispered-prayers-sahifa-al-kamila-sajjadiyyah/whispered-prayer-those-asking-mediation
+  title: The Whispered Prayer of those Asking for Mediation
+  slug: 11-the-whispered-prayer-of-those-asking-for-mediation
+  uuid: a71b985b-af86-4d36-b229-14b504f1e916
+- source: :alislam
+  source_url: http://www.al-islam.org/15-whispered-prayers-sahifa-al-kamila-sajjadiyyah/whispered-prayer-utterly-poor
+  title: The Whispered Prayer of the Utterly Poor
+  slug: 12-the-whispered-prayer-of-the-utterly-poor
+  uuid: a005b3c0-f06c-46d4-aa2e-5bca2621cf7a
+- source: :alislam
+  source_url: http://www.al-islam.org/15-whispered-prayers-sahifa-al-kamila-sajjadiyyah/whispered-prayer-knowers
+  title: The Whispered Prayer of the Knowers
+  slug: 13-the-whispered-prayer-of-the-knowers
+  uuid: 7ed24480-1727-49ec-9691-bd2c11fffe1b
+- source: :alislam
+  source_url: http://www.al-islam.org/15-whispered-prayers-sahifa-al-kamila-sajjadiyyah/whispered-prayer-rememberers
+  title: The Whispered Prayer of the Rememberers
+  slug: 14-the-whispered-prayer-of-the-rememberers
+  uuid: e377a328-4719-4098-b2bb-2cfb36ccd11f
+- source: :alislam
+  source_url: http://www.al-islam.org/15-whispered-prayers-sahifa-al-kamila-sajjadiyyah/whispered-prayer-those-who-hold-fast
+  title: The Whispered Prayer of those who Hold Fast
+  slug: 15-the-whispered-prayer-of-those-who-hold-fast
+  uuid: 7b4af3dd-f645-484c-abeb-000cef05c23b
+- source: :alislam
+  source_url: http://www.al-islam.org/15-whispered-prayers-sahifa-al-kamila-sajjadiyyah/whispered-prayer-abstainers
+  title: The Whispered Prayer of the Abstainers
+  slug: 16-the-whispered-prayer-of-the-abstainers
+  uuid: b84713e9-182d-4c64-aa46-da0d237b5f86
+---

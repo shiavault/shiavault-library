@@ -1,0 +1,19 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/saeed-bin-jubayr-kamal-al-sayyid
+author: Kamal al-Sayyid
+publisher: Ansariyan Publications - Qum
+title: Saeed bin Jubayr
+slug: saeed-bin-jubayr
+uuid: 1eccfd32-c7e2-41e2-8d39-2daf665e5ed7
+description: |
+  Story about the life of a companion of Imam Zain ul Abideen named Saeed
+  bin Jubayr, and his martyrdom by the orders of Al-Hajjaj bin Yousuf
+  al-Thaqafi and the aftermath of his martyrdom...
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/saeed-bin-jubayr-kamal-al-sayyid/saeed-bin-jubayr
+  title: Saeed bin Jubayr
+  slug: 1-saeed-bin-jubayr
+  uuid: 3bfe764f-c4a2-4702-ab05-2be6ae560f07
+---

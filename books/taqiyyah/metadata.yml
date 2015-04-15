@@ -1,0 +1,28 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/taqiyyah-sayyid-akhtar-rizvi
+author: Sayyid Saeed Akhtar Rizvi
+publisher: Bilal Muslim Mission of Tanzania
+title: Taqiyyah
+slug: taqiyyah
+uuid: 7590d401-94be-44c7-b301-32a9a764ac61
+description: |
+  What is Taqiyah? When can it be used? Best way to perform taqiyah, and
+  when it is not allowed.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/taqiyyah-sayyid-akhtar-rizvi/taqiyyah
+  title: Taqiyyah
+  slug: 1-taqiyyah
+  uuid: 9c2eae78-b71d-4ee0-9d57-9ed088fc2992
+- source: :alislam
+  source_url: http://www.al-islam.org/taqiyyah-sayyid-akhtar-rizvi/tawriya
+  title: Tawriya
+  slug: 2-tawriya
+  uuid: bdec6afb-45ef-4116-901b-6e865608d710
+- source: :alislam
+  source_url: http://www.al-islam.org/taqiyyah-sayyid-akhtar-rizvi/when-taqiyyah-not-allowed
+  title: When Taqiyyah is Not Allowed
+  slug: 3-when-taqiyyah-is-not-allowed
+  uuid: bd3caf71-fc26-4ce2-8847-bf7886dc188b
+---

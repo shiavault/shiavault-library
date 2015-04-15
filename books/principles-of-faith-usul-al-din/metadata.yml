@@ -1,0 +1,73 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/principles-faith-usul-al-din-husayn-vahid-khorasani
+author: Ayatullah al-’Udhma Shaykh Husayn Vahid Khorasani
+title: Principles of Faith (Usul al-Din)
+slug: principles-of-faith-usul-al-din
+uuid: 185970ce-40f4-4ef9-bc4a-7c417ad42fe8
+description: |
+  This book contains both logical and textual proofs for the tenets and
+  principles of Islam. It is written by one of the leading figures of the
+  Religious Seminary in Qum, Ayatullah Vahid Khorasani.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/principles-faith-usul-al-din-husayn-vahid-khorasani/translators-preface
+  title: Translator’s Preface
+  slug: 1-translator-s-preface
+  uuid: f1e241e0-8be6-4662-aaf9-de8c824ab7b3
+- source: :alislam
+  source_url: http://www.al-islam.org/principles-faith-usul-al-din-husayn-vahid-khorasani/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: da44e351-73df-4e66-8e33-03e1987fcab6
+- source: :alislam
+  source_url: http://www.al-islam.org/principles-faith-usul-al-din-husayn-vahid-khorasani/basic-preliminaries
+  title: Basic Preliminaries
+  slug: 3-basic-preliminaries
+  uuid: 8f2d8800-2f54-4e58-8776-a74ef625ec67
+- source: :alislam
+  source_url: http://www.al-islam.org/principles-faith-usul-al-din-husayn-vahid-khorasani/ways-attaining-faith-allah
+  title: The Ways of Attaining Faith in Allah
+  slug: 4-the-ways-of-attaining-faith-in-allah
+  uuid: dd078976-0266-4ae8-9f9f-af0d0459fc66
+- source: :alislam
+  source_url: http://www.al-islam.org/principles-faith-usul-al-din-husayn-vahid-khorasani/divine-unity-tawhid
+  title: Divine Unity (Tawhid)
+  slug: 5-divine-unity-tawhid
+  uuid: 0fb529de-3d45-4769-b584-6146d39b6e53
+- source: :alislam
+  source_url: http://www.al-islam.org/principles-faith-usul-al-din-husayn-vahid-khorasani/divine-justice-adl
+  title: Divine Justice (‘Adl)
+  slug: 6-divine-justice-adl
+  uuid: 3882921e-f236-4324-ac15-0fbedf037454
+- source: :alislam
+  source_url: http://www.al-islam.org/principles-faith-usul-al-din-husayn-vahid-khorasani/common-prophethood-nabuwwat-ammah
+  title: Common Prophethood (Nabuwwat ‘Ammah)
+  slug: 7-common-prophethood-nabuwwat-ammah
+  uuid: 2f77f793-5d15-413c-be99-d72f02a50db6
+- source: :alislam
+  source_url: http://www.al-islam.org/principles-faith-usul-al-din-husayn-vahid-khorasani/special-prophethood-nabuwwat-khassah
+  title: The Special Prophethood (Nabuwwat Khassah)
+  slug: 8-the-special-prophethood-nabuwwat-khassah
+  uuid: a88701d8-a13c-40e8-9c95-e6cf9e547c1c
+- source: :alislam
+  source_url: http://www.al-islam.org/principles-faith-usul-al-din-husayn-vahid-khorasani/return-maad
+  title: The Return (Ma’ad)
+  slug: 9-the-return-ma-ad
+  uuid: 6765aa3d-0860-4d5b-b568-9120a1ae2c3b
+- source: :alislam
+  source_url: http://www.al-islam.org/principles-faith-usul-al-din-husayn-vahid-khorasani/divine-leadership-imamat
+  title: The Divine Leadership (Imamat)
+  slug: 10-the-divine-leadership-imamat
+  uuid: ede528ae-e1fd-4eb1-a0b2-585278f48176
+- source: :alislam
+  source_url: http://www.al-islam.org/principles-faith-usul-al-din-husayn-vahid-khorasani/twelve-imams
+  title: The Twelve Imams (as)
+  slug: 11-the-twelve-imams-as
+  uuid: d579681b-eaa7-4a0a-9c8c-f77d95d88bc1
+- source: :alislam
+  source_url: http://www.al-islam.org/principles-faith-usul-al-din-husayn-vahid-khorasani/branches-faith-furu-al-din
+  title: Branches of Faith (Furu’ al-Din)
+  slug: 12-branches-of-faith-furu-al-din
+  uuid: 074f690d-2028-4730-a0cf-a3b77053299d
+---

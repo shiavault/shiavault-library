@@ -1,0 +1,35 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/western-civilization-through-muslim-eyes-sayyid-mujtaba-musawi-lari
+author: Sayyid Mujtaba Musawi Lari
+title: Western Civilization through Muslim Eyes
+slug: western-civilization-through-muslim-eyes
+uuid: 4735e626-bbf4-4271-a587-f487bd0c244c
+description: |
+  The Author in the book highlights and answers some of the vital
+  questions like: What is the position of Islam today, what is its task
+  and what role should it and could it be playing in helping mankind out
+  of the morass into which the divisive materialism of East and West
+  threaten to plunge us one and all?
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/western-civilization-through-muslim-eyes-sayyid-mujtaba-musawi-lari/part-1-physiognomy-west
+  title: 'Part 1: Physiognomy of the West'
+  slug: 1-part-1-physiognomy-of-the-west
+  uuid: 8d3f1c9b-9e1a-48e5-8757-e3501962ae69
+- source: :alislam
+  source_url: http://www.al-islam.org/western-civilization-through-muslim-eyes-sayyid-mujtaba-musawi-lari/part-2-islams-gifts-world
+  title: 'Part 2: Islam''s Gifts to the World'
+  slug: 2-part-2-islam-s-gifts-to-the-world
+  uuid: 0538969b-11e7-4756-ad9f-695cf8c2be48
+- source: :alislam
+  source_url: http://www.al-islam.org/western-civilization-through-muslim-eyes-sayyid-mujtaba-musawi-lari/part-3-islam-and-social-problems
+  title: 'Part 3: Islam and Social Problems'
+  slug: 3-part-3-islam-and-social-problems
+  uuid: 0452f5e4-76fa-456d-a7c0-00e82913f4c8
+- source: :alislam
+  source_url: http://www.al-islam.org/western-civilization-through-muslim-eyes-sayyid-mujtaba-musawi-lari/conclusion
+  title: Conclusion
+  slug: 4-conclusion
+  uuid: 258e28cd-5d3a-4383-9d57-2e4576c3c18f
+---

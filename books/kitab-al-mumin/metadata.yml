@@ -1,0 +1,67 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/kitab-al-mumin-al-husayn-ibn-said-al-kufi-al-ahwazi
+publisher: Ansariyan Publications - Qum
+compiler: Al-Husayn ibn Sa`id al-Kufi al-Ahwazi
+title: Kitab Al-Mumin
+slug: kitab-al-mumin
+uuid: ac8b93bf-5cd9-4d91-9ccc-8780e1915c38
+description: |
+  An elaborate text that describes the nature of Belief (eeman) and
+  Believers (mu’minoon) in the light of traditions of the Ahl al-Bayt,
+  emphasizing on the consequences of belief and the rights the believers
+  have upon each other.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-mumin-al-husayn-ibn-said-al-kufi-al-ahwazi/biography-compiler
+  title: Biography of the Compiler
+  slug: 1-biography-of-the-compiler
+  uuid: 7c846f68-f139-4d73-9bb9-fb39f31ac2a4
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-mumin-al-husayn-ibn-said-al-kufi-al-ahwazi/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 3b844644-d56c-47ea-aeb4-8aaedb724292
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-mumin-al-husayn-ibn-said-al-kufi-al-ahwazi/chapter-1the-severity-believer%E2%80%99s-afflictions
+  title: Chapter 1:The Severity of a Believer’s Afflictions
+  slug: 3-chapter-1-the-severity-of-a-believer-s-afflictions
+  uuid: d16152a1-270b-4fd3-b95a-83107c5efe54
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-mumin-al-husayn-ibn-said-al-kufi-al-ahwazi/chapter-2-exclusive-honors-allah-has-reserved
+  title: 'Chapter  2 : The Exclusive Honors that Allah has Reserved for the Believers'
+  slug: 4-chapter-2-the-exclusive-honors-that-allah-has-reserved-for-the-believers
+  uuid: 616cb74f-3157-45a4-a4bf-a412ea65ec36
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-mumin-al-husayn-ibn-said-al-kufi-al-ahwazi/chapter-3-bond-allah-has-set-amongst-believers
+  title: 'Chapter 3: The bond that Allah has set amongst the believers'
+  slug: 5-chapter-3-the-bond-that-allah-has-set-amongst-the-believers
+  uuid: 7de23240-cf56-45ef-bec8-d81969f7843c
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-mumin-al-husayn-ibn-said-al-kufi-al-ahwazi/chapter-4-rights-believer-fellow-believers
+  title: 'Chapter 4: The Rights of a Believer on a Fellow Believers'
+  slug: 6-chapter-4-the-rights-of-a-believer-on-a-fellow-believers
+  uuid: 4db947fa-cf17-43d9-b07e-66d17d4b9b56
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-mumin-al-husayn-ibn-said-al-kufi-al-ahwazi/chapter-5-reward-helping-believer-relieving-him
+  title: 'Chapter 5: The Reward of Helping a Believer, Relieving Him of Distress And
+    Showing Him Kindness'
+  slug: 7-chapter-5-the-reward-of-helping-a-believer-relieving-him-of-distress-and-showing-him-kindness
+  uuid: 361482eb-74f6-4883-a47c-eadfa2f8b524
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-mumin-al-husayn-ibn-said-al-kufi-al-ahwazi/chapter-6-visiting-believer-socially-and-when-he
+  title: 'Chapter 6: Visiting a Believer Socially and When He is Ill'
+  slug: 8-chapter-6-visiting-a-believer-socially-and-when-he-is-ill
+  uuid: 281f9048-8aa6-4758-9c0e-856d57b06b00
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-mumin-al-husayn-ibn-said-al-kufi-al-ahwazi/chapter-7-reward-one-who-feeds-believer-quenches
+  title: 'Chapter 7: The Reward of one who Feeds a Believer, Quenches his Thirst,
+    Clothes him or Pays off his Debt'
+  slug: 9-chapter-7-the-reward-of-one-who-feeds-a-believer-quenches-his-thirst-clothes-him-or-pays-off-his-debt
+  uuid: 152d63a9-1131-4655-b0f5-4a48f2fa5d87
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-mumin-al-husayn-ibn-said-al-kufi-al-ahwazi/chapter-8-what-allah-has-forbidden-believer-do
+  title: 'Chapter  8: What Allah has Forbidden a Believer to do Against a Fellow Believer'
+  slug: 10-chapter-8-what-allah-has-forbidden-a-believer-to-do-against-a-fellow-believer
+  uuid: 609407a7-d73c-432f-9b1e-4c0d38b67adc
+---

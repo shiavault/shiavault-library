@@ -1,0 +1,124 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari
+author: Sayyid Mujtaba Musawi Lari
+publisher: Islamic Education Center
+translator: Hamid Algar
+title: God and His Attributes
+slug: god-and-his-attributes
+uuid: bf3688e6-772e-4018-98cb-aa49b344b2e4
+description: |
+  Belief in God, God in the Qur'an, free will, and a discussion of some of
+  attributes of God. Translated by Dr. Hamid Algar.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari/about-author
+  title: About the Author
+  slug: 1-about-the-author
+  uuid: ccff168a-2072-4281-88eb-146a65806ce8
+- source: :alislam
+  source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari/lesson-1-development-beliefs-through-ages
+  title: 'Lesson 1: The Development of Beliefs Through Ages'
+  slug: 2-lesson-1-the-development-of-beliefs-through-ages
+  uuid: 7bbd4e0d-b040-4e81-9d9f-d0c9dee6ecfb
+- source: :alislam
+  source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari/lesson-2-depth-mans-being-impel-him-seek-god
+  title: 'Lesson 2: The Depth of Mans being Impel Him to Seek God'
+  slug: 3-lesson-2-the-depth-of-mans-being-impel-him-to-seek-god
+  uuid: e60ae488-82cb-45f5-a6a0-8b0fcfca1ce7
+- source: :alislam
+  source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari/lesson-3-god-and-empirical-logic
+  title: 'Lesson 3: God and Empirical Logic'
+  slug: 4-lesson-3-god-and-empirical-logic
+  uuid: 64518549-e2cf-4af4-94c8-d01400c9fc7d
+- source: :alislam
+  source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari/lesson-4-belief-reality-unseen-involves-more-god
+  title: 'Lesson 4: Belief in the Reality of the Unseen Involves More than God'
+  slug: 5-lesson-4-belief-in-the-reality-of-the-unseen-involves-more-than-god
+  uuid: 751b3586-9b79-45c0-ad23-0a72170398f5
+- source: :alislam
+  source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari/lesson-5-manifestations-god-nature
+  title: 'Lesson 5: The Manifestations of God in Nature'
+  slug: 6-lesson-5-the-manifestations-of-god-in-nature
+  uuid: 7142a520-95bb-4b72-902b-6b2176a70bb9
+- source: :alislam
+  source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari/lesson-6-need-world-one-without-need
+  title: 'Lesson 6: The Need of the World for One Without Need'
+  slug: 7-lesson-6-the-need-of-the-world-for-one-without-need
+  uuid: 0bc233a6-2a93-4fd0-9e72-ae988387aeb6
+- source: :alislam
+  source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari/lesson-7-finiteness-chain-causality
+  title: 'Lesson 7: The Finiteness of the Chain of Causality'
+  slug: 8-lesson-7-the-finiteness-of-the-chain-of-causality
+  uuid: b5b64c53-fe44-49b3-9628-c9b8d597e4fa
+- source: :alislam
+  source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari/lesson-8-pseudo-scientific-demagoguery
+  title: 'Lesson 8: Pseudo-Scientific Demagoguery'
+  slug: 9-lesson-8-pseudo-scientific-demagoguery
+  uuid: 178c6b7d-bcf1-4d1e-af66-52664fece059
+- source: :alislam
+  source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari/lesson-9-how-does-qur%27-present-god
+  title: 'Lesson 9: How does the Qur’an Present God'
+  slug: 10-lesson-9-how-does-the-qur-an-present-god
+  uuid: dade6ec2-c116-4efd-979b-4e3a0a1622c2
+- source: :alislam
+  source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari/lesson-10-conditions-ideal-object-worship
+  title: 'Lesson 10: The Conditions for an Ideal Object of Worship'
+  slug: 11-lesson-10-the-conditions-for-an-ideal-object-of-worship
+  uuid: ce641d1f-24a0-4489-b47d-3e324faaf97d
+- source: :alislam
+  source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari/lesson-11-incomparability-divine-attributes
+  title: 'Lesson 11: The Incomparability of the Divine Attributes'
+  slug: 12-lesson-11-the-incomparability-of-the-divine-attributes
+  uuid: 65fcbe8b-eeed-4bca-9575-2fc2f800c661
+- source: :alislam
+  source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari/lesson-12-infinite-power-god
+  title: 'Lesson 12: The Infinite Power of God'
+  slug: 13-lesson-12-the-infinite-power-of-god
+  uuid: 5d1c7a08-0132-4339-91e3-afdf700b4800
+- source: :alislam
+  source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari/lesson-13-boundless-knowledge-god
+  title: 'Lesson 13: The Boundless Knowledge of God'
+  slug: 14-lesson-13-the-boundless-knowledge-of-god
+  uuid: cb81b1c9-c8b4-49cd-9316-f063ff6713d0
+- source: :alislam
+  source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari/lesson-14-opinions-concerning-god%27s-justice
+  title: 'Lesson 14: Opinions Concerning God’s Justice'
+  slug: 15-lesson-14-opinions-concerning-god-s-justice
+  uuid: 73bb98a6-8528-4c14-9c29-e8b130801abd
+- source: :alislam
+  source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari/lesson-15-analysis-misfortune-and-hardship
+  title: 'Lesson 15: An Analysis of Misfortune and Hardship'
+  slug: 16-lesson-15-an-analysis-of-misfortune-and-hardship
+  uuid: 9192e423-5d57-4355-b36e-a1ff596310e0
+- source: :alislam
+  source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari/lesson-16-hardship-cause-awakening
+  title: 'Lesson 16: Hardship, A Cause of Awakening'
+  slug: 17-lesson-16-hardship-a-cause-of-awakening
+  uuid: 0c95e28e-fddf-43ae-bdbc-27f208684777
+- source: :alislam
+  source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari/lesson-17-some-aspects-inequality
+  title: 'Lesson 17: Some Aspects of Inequality'
+  slug: 18-lesson-17-some-aspects-of-inequality
+  uuid: 05618790-a6ce-48ae-8329-f7e2533c559d
+- source: :alislam
+  source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari/lesson-18-general-view-problem
+  title: 'Lesson 18: A General View of the Problem'
+  slug: 19-lesson-18-a-general-view-of-the-problem
+  uuid: e9b91b6c-3d44-455d-92a7-689ae1ea01e6
+- source: :alislam
+  source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari/lesson-19-free-will
+  title: 'Lesson 19: Free Will'
+  slug: 20-lesson-19-free-will
+  uuid: aa9ff1aa-6526-4786-8a24-38d725fa2bc8
+- source: :alislam
+  source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari/lesson-20-form-god%27s-will-and-volition
+  title: 'Lesson 20: The Form of God’s Will and Volition'
+  slug: 21-lesson-20-the-form-of-god-s-will-and-volition
+  uuid: c1a82192-1362-4e37-89ff-df8ef8551cdb
+- source: :alislam
+  source_url: http://www.al-islam.org/god-and-his-attributes-sayyid-mujtaba-musawi-lari/lesson-21-improper-interpretation-faith-and
+  title: 'Lesson 21: An Improper Interpretation of Faith and Destiny'
+  slug: 22-lesson-21-an-improper-interpretation-of-faith-and-destiny
+  uuid: 25d7548b-d206-4fab-8319-c4d77cd03069
+---

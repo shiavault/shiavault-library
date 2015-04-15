@@ -1,0 +1,45 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/quran-islam-allamah-muhammad-husayn-tabatabai
+author: Allamah Muhammad Husayn Tabatabai
+publisher: Zahra Publications
+title: The Qur'an in Islam
+slug: the-qur-an-in-islam
+uuid: 4e9036ac-c5e1-4e9f-935f-a180f79ccd1a
+description: |
+  Value of Qur'an among Muslims, order of revelation and growth of
+  Qur'anic sciences as well as teachings of the Qur'an including the
+  Angels, Man, and the Qur'an itself.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-islam-allamah-muhammad-husayn-tabatabai/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: 507befae-73e9-442d-a0b0-801e1aa0adb9
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-islam-allamah-muhammad-husayn-tabatabai/part-1-value-quran-eyes-muslims
+  title: 'Part 1: The Value of the Qur''an in the Eyes of the Muslims '
+  slug: 2-part-1-the-value-of-the-qur-an-in-the-eyes-of-the-muslims
+  uuid: 3678ba5b-3cc7-47b9-aecb-8853d36cd8b6
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-islam-allamah-muhammad-husayn-tabatabai/part-2-teachings-quran
+  title: 'Part 2: The Teachings of the Qur''an'
+  slug: 3-part-2-the-teachings-of-the-qur-an
+  uuid: 1ac62958-0c28-4b45-8c3b-df3a9ad1bf1a
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-islam-allamah-muhammad-husayn-tabatabai/part-3-revelation-quran
+  title: 'Part 3: The Revelation of the Qur''an'
+  slug: 4-part-3-the-revelation-of-the-qur-an
+  uuid: 1e75f60d-508f-436b-b4fc-7c9fd8715c1a
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-islam-allamah-muhammad-husayn-tabatabai/part-4-relationship-quran%C2%A0-sciences%C2%A0
+  title: 'Part 4: The Relationship of the Qur''an to the Sciences '
+  slug: 5-part-4-the-relationship-of-the-qur-an-to-the-sciences
+  uuid: 11ceeb04-2900-48d8-ad13-9a77db4c8b47
+- source: :alislam
+  source_url: http://www.al-islam.org/quran-islam-allamah-muhammad-husayn-tabatabai/part-5-order-qurans-revelation%C2%A0and-growth-quranic
+  title: 'Part 5: The Order of the Qur''an''s Revelation and the Growth of the Qur''anic
+    Sciences '
+  slug: 6-part-5-the-order-of-the-qur-an-s-revelation-and-the-growth-of-the-qur-anic-sciences
+  uuid: a72ae4df-e6a2-4d6b-930e-f8fc24518f79
+---

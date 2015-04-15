@@ -1,0 +1,595 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi
+author: Sayyid 'Abd al-Husayn Sharaf al-Din al-Musawi
+publisher: Imam Husayn (as) Islamic Foundation Beirut
+translator: Yasin T. Al-Jibouri
+title: Al-Muraja'at
+slug: al-muraja-at
+uuid: 5c58fd83-7c5c-4ba4-838c-b85c699abe6c
+description: |
+  A series of letters debating Shi'i and Sunni beliefs between the late
+  Shi'i scholar Sharaf al-Din, and the late Sunni scholar and head of
+  Al-Azhar university.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/authors-biography
+  title: Author's Biography
+  slug: 1-author-s-biography
+  uuid: 5f95ce63-e791-4467-bb2d-5208a3827bc0
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/introduction-and-foreword
+  title: Introduction and Foreword
+  slug: 2-introduction-and-foreword
+  uuid: e329e026-cfd4-41d6-bc3c-213206071227
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-1
+  title: Letter 1
+  slug: 3-letter-1
+  uuid: 042976a2-730b-4018-9076-08be9b69630f
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-2
+  title: Letter 2
+  slug: 4-letter-2
+  uuid: 79c8b7ec-e212-4680-910b-41e8c93376a4
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-3
+  title: Letter 3
+  slug: 5-letter-3
+  uuid: 5b4eeb15-4e14-47d9-859f-0792ce35497e
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-4
+  title: Letter 4
+  slug: 6-letter-4
+  uuid: c0f58610-d45c-4d39-a63f-572440aa2bcd
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-5
+  title: Letter 5
+  slug: 7-letter-5
+  uuid: 59970707-cfea-456e-bc1b-c086616b2a8b
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-6
+  title: Letter 6
+  slug: 8-letter-6
+  uuid: a1957d96-906c-4ad4-b618-5c6467c2e1de
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-7
+  title: Letter 7
+  slug: 9-letter-7
+  uuid: 87ae6b84-e548-478a-ab51-b2ffc3503ed3
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-8
+  title: Letter 8
+  slug: 10-letter-8
+  uuid: 122b7927-1cff-4001-b905-5c8189ea7b26
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-9
+  title: Letter 9
+  slug: 11-letter-9
+  uuid: 9edd36ab-9c1d-4c2f-b62c-0e8e3de22f4c
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-10
+  title: Letter 10
+  slug: 12-letter-10
+  uuid: 61478998-628f-4a48-a5f8-ca2b15c1289f
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-11
+  title: Letter 11
+  slug: 13-letter-11
+  uuid: 1eb01239-f9ae-41ff-84e4-2bb95211394e
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/iii-asking-clear-signs-book
+  title: III Asking for Clear Signs from the Book.
+  slug: 14-iii-asking-for-clear-signs-from-the-book
+  uuid: a839467b-f510-40fe-ba2b-b87949d7dad1
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-12
+  title: Letter 12
+  slug: 15-letter-12
+  uuid: 2c7d9ae8-3df2-413d-9783-d48251deb759
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-13
+  title: Letter 13
+  slug: 16-letter-13
+  uuid: 69e6f929-2631-4eaa-b6f2-472ce2032875
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-14
+  title: Letter 14
+  slug: 17-letter-14
+  uuid: dcf574b2-83ca-4d72-ac39-45da94b87236
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-15
+  title: Letter 15
+  slug: 18-letter-15
+  uuid: 57df748a-2ea5-4a1a-a07f-9a11f17071e8
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-16
+  title: Letter 16
+  slug: 19-letter-16
+  uuid: 182f22e1-9832-4111-a8a6-4b5138958836
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-17
+  title: Letter 17
+  slug: 20-letter-17
+  uuid: e8386217-2151-4d79-81f6-1d7e9484e683
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-18
+  title: Letter 18
+  slug: 21-letter-18
+  uuid: 22019ccb-fd3e-467e-85ea-12729565072c
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-19
+  title: Letter 19
+  slug: 22-letter-19
+  uuid: ef581393-e5d8-4267-b4ae-992e3118d316
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-20
+  title: Letter 20
+  slug: 23-letter-20
+  uuid: 995d79b4-08b7-414c-b70b-2aab5293b875
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-21
+  title: Letter 21
+  slug: 24-letter-21
+  uuid: c22f52e4-c195-41bc-b08c-5cf78046448b
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-22
+  title: Letter 22
+  slug: 25-letter-22
+  uuid: a3498262-c0b1-4062-b409-b4c0aa7ab348
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-23
+  title: Letter 23
+  slug: 26-letter-23
+  uuid: 6d7ff54e-4c9b-4f14-8147-de4202e2fa41
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-24
+  title: Letter 24
+  slug: 27-letter-24
+  uuid: a22ed67c-cfc9-4071-9c82-2bbe5c106c9c
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-25
+  title: Letter 25
+  slug: 28-letter-25
+  uuid: eaf9e07e-f1bc-43de-803d-b2a04b5f11c4
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-26
+  title: Letter 26
+  slug: 29-letter-26
+  uuid: 6669be6b-554b-4f40-a129-acdf1ef1477a
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-27
+  title: Letter 27
+  slug: 30-letter-27
+  uuid: ba07614f-106b-4463-8704-b86c07aa43a3
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-28
+  title: Letter 28
+  slug: 31-letter-28
+  uuid: f6de366b-d1d4-4bf9-8e90-e86da721ff18
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-29
+  title: Letter 29
+  slug: 32-letter-29
+  uuid: ff8e4049-cf00-483d-a49c-fe011c3a6865
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-30
+  title: Letter 30
+  slug: 33-letter-30
+  uuid: da03949d-337e-451d-968d-95da61b74237
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-31
+  title: Letter 31
+  slug: 34-letter-31
+  uuid: ec2580cf-e833-403a-a62a-cbbc78d94c2f
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-32
+  title: Letter 32
+  slug: 35-letter-32
+  uuid: 11a83646-351e-4f97-861b-dc4c9f4e6b06
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-33
+  title: Letter 33
+  slug: 36-letter-33
+  uuid: 663eb617-61da-442d-8638-771375533c12
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-34
+  title: Letter 34
+  slug: 37-letter-34
+  uuid: 5d0522c1-6246-4ad3-8257-687b5459f871
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-35
+  title: Letter 35
+  slug: 38-letter-35
+  uuid: 8a304326-4c23-4158-b7e7-18c170d0cb19
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-36
+  title: Letter 36
+  slug: 39-letter-36
+  uuid: 0aaae5ff-4b37-4147-a807-a8b8a01696b8
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-37
+  title: Letter 37
+  slug: 40-letter-37
+  uuid: 095703ff-afed-4005-a720-a98a89d1c812
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-38
+  title: Letter 38
+  slug: 41-letter-38
+  uuid: 0b7ab425-ed69-40f5-b9fb-3885443543d6
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-39
+  title: Letter 39
+  slug: 42-letter-39
+  uuid: 245eb8b9-386f-4a60-8e82-9bc64e48e6a1
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-40
+  title: Letter 40
+  slug: 43-letter-40
+  uuid: d048ba99-4474-4090-8b93-b61e7be4274d
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-41
+  title: Letter 41
+  slug: 44-letter-41
+  uuid: e525dee1-2ad5-44e3-95ff-53e5a676961a
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-42
+  title: Letter 42
+  slug: 45-letter-42
+  uuid: 2a11b1b5-276d-48bf-9855-7438501a9ee3
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-43
+  title: Letter 43
+  slug: 46-letter-43
+  uuid: 989f6a79-eb73-4fb4-9d43-81a5d5fc55e9
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-44
+  title: Letter 44
+  slug: 47-letter-44
+  uuid: b1496565-77c4-4955-96d3-7b60e75f0d88
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-45
+  title: Letter 45
+  slug: 48-letter-45
+  uuid: b32bf824-1bad-4c25-a056-00628217812b
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-46
+  title: Letter 46
+  slug: 49-letter-46
+  uuid: 3706c9f5-789a-4a25-a45b-57d4990bc647
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-47
+  title: Letter 47
+  slug: 50-letter-47
+  uuid: 40b27f1d-2147-46bb-8eb7-f917715744db
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-48
+  title: Letter 48
+  slug: 51-letter-48
+  uuid: 9947da92-51e6-4fa2-85a8-23f4855d446f
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-49
+  title: Letter 49
+  slug: 52-letter-49
+  uuid: 0170a339-b113-425b-ad96-6f3016bb1131
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-50
+  title: Letter 50
+  slug: 53-letter-50
+  uuid: 66421ee0-fb41-473d-afd8-7aecf117e151
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-51
+  title: Letter 51
+  slug: 54-letter-51
+  uuid: 0656d682-94ef-486f-9607-3263ce126719
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-52
+  title: Letter 52
+  slug: 55-letter-52
+  uuid: 597f0a2b-db43-4e58-bf47-80042e9fa98c
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-53-0
+  title: Letter 53
+  slug: 56-letter-53
+  uuid: a98d8659-c132-48a7-b9a9-b6f41db23fa0
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-54
+  title: Letter 54
+  slug: 57-letter-54
+  uuid: f3dac5f2-d83f-4e6b-afa2-1b9fb499aad4
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-55
+  title: Letter 55
+  slug: 58-letter-55
+  uuid: 04ab2ca9-c3b8-4d85-a9e8-ce81eeb79004
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-56
+  title: Letter 56
+  slug: 59-letter-56
+  uuid: 612b0186-c89f-4ad9-92c8-195bff092d0e
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-57
+  title: Letter 57
+  slug: 60-letter-57
+  uuid: d2f2a884-5d58-4724-81de-9fed62c86c76
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-58
+  title: Letter 58
+  slug: 61-letter-58
+  uuid: bf06bb6a-cd83-4e26-b882-4001d2608cd9
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-59
+  title: Letter 59
+  slug: 62-letter-59
+  uuid: 3290ee1a-d58f-4f69-b400-a740092e463b
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-60
+  title: Letter 60
+  slug: 63-letter-60
+  uuid: 291586b0-7de4-4e65-8678-ab4efb086086
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-61
+  title: Letter 61
+  slug: 64-letter-61
+  uuid: ba013602-5038-46aa-8cfb-63fca3a85d90
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-62
+  title: Letter 62
+  slug: 65-letter-62
+  uuid: a2f7fcfa-63ec-4bb0-92a7-fe782038ca80
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-63
+  title: Letter 63
+  slug: 66-letter-63
+  uuid: c2ac8982-17ed-4913-a428-c598cd2db29e
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-64
+  title: Letter 64
+  slug: 67-letter-64
+  uuid: fcfb37b5-8fd9-4f25-b298-0219dd56d30c
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-65
+  title: Letter 65
+  slug: 68-letter-65
+  uuid: 3a2fed57-7d84-40b9-86ec-6d061cc27571
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-66
+  title: Letter 66
+  slug: 69-letter-66
+  uuid: 2eab4d32-af48-4bae-8398-2e0a0e425872
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-67
+  title: Letter 67
+  slug: 70-letter-67
+  uuid: fa0b067a-3b1f-453c-a760-37ab209176e3
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-68
+  title: Letter 68
+  slug: 71-letter-68
+  uuid: 16316c65-98e2-4324-8149-0b9ee3e57c24
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-69
+  title: Letter 69
+  slug: 72-letter-69
+  uuid: f70a5d8f-8163-40f3-be58-e182ff9f4a4a
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-70
+  title: Letter 70
+  slug: 73-letter-70
+  uuid: d4eb07e4-a3af-467c-897e-bf90370e343c
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-71
+  title: Letter 71
+  slug: 74-letter-71
+  uuid: c44f1a68-1598-4f2b-874d-73fdc0e53e82
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-72
+  title: Letter 72
+  slug: 75-letter-72
+  uuid: 95e346d2-8586-4959-b096-b4556776e1f0
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-73
+  title: Letter 73
+  slug: 76-letter-73
+  uuid: 6389e105-0706-4124-b4c3-f4ed17a434f9
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-74
+  title: Letter 74
+  slug: 77-letter-74
+  uuid: 167d22c5-ac3a-4728-ac1c-758fc21e0079
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-75
+  title: Letter 75
+  slug: 78-letter-75
+  uuid: 51e4b44b-547e-4f05-8cb8-01027f10b359
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-76
+  title: Letter 76
+  slug: 79-letter-76
+  uuid: afcb9ebc-6dc0-4268-9753-16bf1d9c2542
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-77
+  title: Letter 77
+  slug: 80-letter-77
+  uuid: c1036624-ed31-485a-863f-88b080459b82
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-78
+  title: Letter 78
+  slug: 81-letter-78
+  uuid: 5e57ca9d-ac80-4d05-a0fd-1933e3ffd804
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-79
+  title: Letter 79
+  slug: 82-letter-79
+  uuid: 1fe8879d-f169-4822-a2d8-1cd627699b79
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-80
+  title: Letter 80
+  slug: 83-letter-80
+  uuid: 51e8bc80-aa21-4cfa-8b65-4d32440dbf87
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-81
+  title: Letter 81
+  slug: 84-letter-81
+  uuid: 588162e7-404b-4645-bf9e-887b42c221d4
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-82
+  title: Letter 82
+  slug: 85-letter-82
+  uuid: 878c12c5-034c-43cd-9538-6fbc5cc5d512
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-83
+  title: Letter 83
+  slug: 86-letter-83
+  uuid: 042f887b-d71d-4327-bdd1-b9c11758d8a0
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-84
+  title: Letter 84
+  slug: 87-letter-84
+  uuid: 04cf8eea-e128-4512-9bd9-bb195e973de2
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-85
+  title: Letter 85
+  slug: 88-letter-85
+  uuid: 337456e7-c22a-43ff-862b-4433ab8abd56
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-86
+  title: Letter 86
+  slug: 89-letter-86
+  uuid: 7c048509-bef0-4459-b704-507400d6ac3e
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-87
+  title: Letter 87
+  slug: 90-letter-87
+  uuid: 378721d7-5917-4426-ac86-14d25bfc0c69
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-88
+  title: Letter 88
+  slug: 91-letter-88
+  uuid: 11ad0488-f3d5-494b-b168-f2af4d95a5e3
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-89
+  title: Letter 89
+  slug: 92-letter-89
+  uuid: f56e0d80-327c-4faf-95a9-cddda520ccfc
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-90
+  title: Letter 90
+  slug: 93-letter-90
+  uuid: 35d9bd44-4421-4aa1-b628-bf34957d450c
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-91
+  title: Letter 91
+  slug: 94-letter-91
+  uuid: 03450adf-a38c-4991-9076-fcf2a1832aa0
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-92
+  title: Letter 92
+  slug: 95-letter-92
+  uuid: f8242fa3-fbb0-4114-b681-d0bec99e8bb3
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-93
+  title: Letter 93
+  slug: 96-letter-93
+  uuid: 53c71444-f257-4f80-8e8a-75be7d70e1a2
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-94
+  title: Letter 94
+  slug: 97-letter-94
+  uuid: 986674df-aae7-45dd-80d8-62e3383add5b
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-95
+  title: Letter 95
+  slug: 98-letter-95
+  uuid: 56657ab8-08a6-4628-a840-64b6721fe362
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-96
+  title: Letter 96
+  slug: 99-letter-96
+  uuid: 0b469647-1f66-44bc-b144-69d7b37f5791
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-97
+  title: Letter 97
+  slug: 100-letter-97
+  uuid: 05da8545-35bd-41c7-b006-7f3cc41b0034
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-98
+  title: Letter 98
+  slug: 101-letter-98
+  uuid: 243b369d-f66e-43c8-af2b-d5cc64bdd44d
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-99
+  title: Letter 99
+  slug: 102-letter-99
+  uuid: 58c11c68-92b4-4840-b373-7cf5bc3fdf09
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-100
+  title: Letter 100
+  slug: 103-letter-100
+  uuid: e1caa8b9-268b-4f45-a63b-a2a20075d97e
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-101
+  title: Letter 101
+  slug: 104-letter-101
+  uuid: c902a9aa-9e35-479c-bdc4-1bb72f1c4797
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-102
+  title: Letter 102
+  slug: 105-letter-102
+  uuid: 1e8a0067-2d52-418e-8a2d-9adf48baccfc
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-103
+  title: Letter 103
+  slug: 106-letter-103
+  uuid: 4af66311-ed17-4d80-a31b-34b8c2f37924
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-104
+  title: Letter 104
+  slug: 107-letter-104
+  uuid: f3e16a66-d4aa-4867-9903-9457e9b7260e
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-105
+  title: Letter 105
+  slug: 108-letter-105
+  uuid: f8966d57-d5e3-4922-ba4a-93d91616ae04
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-106
+  title: Letter 106
+  slug: 109-letter-106
+  uuid: 323e8279-9571-4b58-b3e9-fdc8ced2371f
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-107
+  title: Letter 107
+  slug: 110-letter-107
+  uuid: 2691d735-a87d-4a4c-b459-148e77122195
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-108
+  title: Letter 108
+  slug: 111-letter-108
+  uuid: 78d7ac32-af8f-4717-b44e-34a1e62d7e4d
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-109
+  title: Letter 109
+  slug: 112-letter-109
+  uuid: e3366fdf-f510-4622-b678-c19c9a73a298
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-110
+  title: Letter 110
+  slug: 113-letter-110
+  uuid: 8ab7a47e-3d92-4597-a180-6b995a8fbb50
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-111
+  title: Letter 111
+  slug: 114-letter-111
+  uuid: 38e05ec6-105e-4169-ae3a-22b6ef65a89a
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/letter-112
+  title: Letter 112
+  slug: 115-letter-112
+  uuid: 501efd03-4f18-4123-a5f1-76f1089ffb96
+- source: :alislam
+  source_url: http://www.al-islam.org/al-murajaat-shii-sunni-dialogue-sharaf-al-din-al-musawi/glossary
+  title: Glossary
+  slug: 116-glossary
+  uuid: 39fe9bbf-1874-4816-ab58-17e168a6c3db
+---

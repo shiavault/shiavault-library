@@ -1,0 +1,47 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/immigration-and-jihad-ayatullah-murtadha-mutahhari
+author: Ayatullah Murtadha Mutahhari
+publisher: Dar Al-Hadi Publications London U.K.
+translator: Najim al-Khafaji
+title: Immigration and Jihad
+slug: immigration-and-jihad
+uuid: c40842ae-d3ae-417f-a7fb-61c4f2ac3b4c
+description: |
+  This booklet is a record of a series of lectures the late author had
+  delivered in gatherings held in Tehran for the annual commemoration of
+  the martyrdom of Imam Hussain (a.s.). The discussions in these three
+  lectures revolve around the concepts of both immigration (hijra) and
+  jihad (struggle, or fighting back).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/immigration-and-jihad-ayatullah-murtadha-mutahhari/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 58f399dd-9a37-4a8e-8df0-981c5324b25d
+- source: :alislam
+  source_url: http://www.al-islam.org/immigration-and-jihad-ayatullah-murtadha-mutahhari/translators-note
+  title: Translator's Note
+  slug: 2-translator-s-note
+  uuid: 3557304b-23e3-4211-92b9-d181a4f45169
+- source: :alislam
+  source_url: http://www.al-islam.org/immigration-and-jihad-ayatullah-murtadha-mutahhari/introduction-arabic-translation
+  title: Introduction to the Arabic Translation
+  slug: 3-introduction-to-the-arabic-translation
+  uuid: 94bcb800-88c2-4705-8e49-ddec1de3a2a3
+- source: :alislam
+  source_url: http://www.al-islam.org/immigration-and-jihad-ayatullah-murtadha-mutahhari/lecture-one
+  title: Lecture One
+  slug: 4-lecture-one
+  uuid: c6c3afab-2dfb-454c-960b-e675053ef1c7
+- source: :alislam
+  source_url: http://www.al-islam.org/immigration-and-jihad-ayatullah-murtadha-mutahhari/lecture-two
+  title: Lecture Two
+  slug: 5-lecture-two
+  uuid: eb7e26c9-4b2c-450b-9e49-2b5167e290f4
+- source: :alislam
+  source_url: http://www.al-islam.org/immigration-and-jihad-ayatullah-murtadha-mutahhari/lecture-three
+  title: Lecture Three
+  slug: 6-lecture-three
+  uuid: 0a25a8f1-e18f-4448-9e97-3302d6446ac9
+---

@@ -1,0 +1,59 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/al-wahid-al-behbahani-man-intellect-abbas-al-abiri
+author: "'Abbas al-'Abiri"
+publisher: Ansariyan Publications - Qum
+translator: Hassan M. Najafi
+title: Al-Wahid al-Behbahani, Man of Intellect
+slug: al-wahid-al-behbahani-man-of-intellect
+uuid: 21616fe8-94a9-443d-b662-4871bdc5c3ba
+description: |
+  This book is one of the series of books on biographies of those scholars
+  having played a bright role in the world of thought and knowledge.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/al-wahid-al-behbahani-man-intellect-abbas-al-abiri/publishers-foreword
+  title: Publisher’s Foreword
+  slug: 1-publisher-s-foreword
+  uuid: 7f0d6680-9655-4ec1-afd7-b9aeecb838d5
+- source: :alislam
+  source_url: http://www.al-islam.org/al-wahid-al-behbahani-man-intellect-abbas-al-abiri/preamble
+  title: Preamble
+  slug: 2-preamble
+  uuid: 2e7b6068-5270-4fa3-98c2-5a902dd5bf5a
+- source: :alislam
+  source_url: http://www.al-islam.org/al-wahid-al-behbahani-man-intellect-abbas-al-abiri/translators-introduction
+  title: Translator’s Introduction
+  slug: 3-translator-s-introduction
+  uuid: cd2e81db-412b-4c5f-82da-5f6a1a5af1e2
+- source: :alislam
+  source_url: http://www.al-islam.org/al-wahid-al-behbahani-man-intellect-abbas-al-abiri/chapter-1
+  title: Chapter 1
+  slug: 4-chapter-1
+  uuid: 53d3ca57-06d5-4d06-98ac-ebcac3319098
+- source: :alislam
+  source_url: http://www.al-islam.org/al-wahid-al-behbahani-man-intellect-abbas-al-abiri/chapter-2
+  title: Chapter 2
+  slug: 5-chapter-2
+  uuid: 55f7c4ab-7687-403a-af76-881fa828225d
+- source: :alislam
+  source_url: http://www.al-islam.org/al-wahid-al-behbahani-man-intellect-abbas-al-abiri/chapter-3
+  title: Chapter 3
+  slug: 6-chapter-3
+  uuid: 3c3c75f7-6d7f-4acf-9338-e907b8991ba4
+- source: :alislam
+  source_url: http://www.al-islam.org/al-wahid-al-behbahani-man-intellect-abbas-al-abiri/chapter-4
+  title: Chapter 4
+  slug: 7-chapter-4
+  uuid: 38c26b50-1a28-47bc-be6d-d5d818b159f9
+- source: :alislam
+  source_url: http://www.al-islam.org/al-wahid-al-behbahani-man-intellect-abbas-al-abiri/chapter-5
+  title: Chapter 5
+  slug: 8-chapter-5
+  uuid: 98b4a1e5-b8a8-4d3b-a11e-fb758a8b29a2
+- source: :alislam
+  source_url: http://www.al-islam.org/al-wahid-al-behbahani-man-intellect-abbas-al-abiri/chapter-6
+  title: Chapter 6
+  slug: 9-chapter-6
+  uuid: 919cbaaf-425d-4198-b36c-49fcae760ac6
+---

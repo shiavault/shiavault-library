@@ -1,0 +1,52 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/repentance-demolition-and-reconstruction
+publisher: Al-Balagh Foundation
+title: Repentance as Demolition and Reconstruction
+slug: repentance-as-demolition-and-reconstruction
+uuid: d1d4a64f-6d82-4d28-9666-15b0eaafda85
+description: |
+  This book explores the true meaning of repentance and guides on how to
+  achieve it.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/repentance-demolition-and-reconstruction/publishers-note
+  title: Publisher's Note
+  slug: 1-publisher-s-note
+  uuid: 389d85dd-215f-45c4-8c6a-e7535aa80831
+- source: :alislam
+  source_url: http://www.al-islam.org/repentance-demolition-and-reconstruction/repentance-language-law-and-meaning
+  title: Repentance in Language, Law and Meaning
+  slug: 2-repentance-in-language-law-and-meaning
+  uuid: 62dfbbc4-9e40-4dcb-8c9e-23cce6b6c9af
+- source: :alislam
+  source_url: http://www.al-islam.org/repentance-demolition-and-reconstruction/repentance-attributes-and-consequences
+  title: Repentance in Attributes and Consequences
+  slug: 3-repentance-in-attributes-and-consequences
+  uuid: f9e33848-b6d0-40dd-8c7d-1eb7702b67bd
+- source: :alislam
+  source_url: http://www.al-islam.org/repentance-demolition-and-reconstruction/repentance-indicates-truth-islam
+  title: Repentance Indicates the Truth of Islam
+  slug: 4-repentance-indicates-the-truth-of-islam
+  uuid: 471df72e-43b1-4681-9c0b-6e204b2d0f6e
+- source: :alislam
+  source_url: http://www.al-islam.org/repentance-demolition-and-reconstruction/psychological-and-social-impacts-repentance
+  title: The Psychological and Social Impacts of Repentance
+  slug: 5-the-psychological-and-social-impacts-of-repentance
+  uuid: 7ac09473-3514-471b-b2a9-8a3d0518a201
+- source: :alislam
+  source_url: http://www.al-islam.org/repentance-demolition-and-reconstruction/necessity-repentance
+  title: The Necessity of Repentance
+  slug: 6-the-necessity-of-repentance
+  uuid: 7585de98-99f7-4031-b27f-9890609010aa
+- source: :alislam
+  source_url: http://www.al-islam.org/repentance-demolition-and-reconstruction/elements-repentance
+  title: Elements of Repentance
+  slug: 7-elements-of-repentance
+  uuid: dfae1198-f803-4b90-bf46-43a97ba462ef
+- source: :alislam
+  source_url: http://www.al-islam.org/repentance-demolition-and-reconstruction/achieving-repentance
+  title: Achieving Repentance
+  slug: 8-achieving-repentance
+  uuid: 0f92ffc0-c993-42ae-a91c-a92bab148001
+---

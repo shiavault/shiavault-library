@@ -1,0 +1,195 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14
+publisher: Imam Ali Foundation
+translator: Sayyid Abbas Sadr-'ameli
+title: An Enlightening Commentary into the Light of the Holy Qur'an vol. 14
+slug: an-enlightening-commentary-into-the-light-of-the-holy-qur-an-vol-14
+uuid: 4a1f007d-726e-4e2f-923e-492c38232c2d
+description: |
+  An Enlightening Commentary into the Light of the Holy Qur'an vol. 14
+  From Surah al- ‘Ankabut (29) verse 45 to Surah al-Azhab (33) The light
+  of Islam has enlightened and continuing to enlighten every corner in the
+  world and seekers of truth have closely associated to the Holy Quran
+  which carries the Word of Allah (SWT) to humanity. With increasing focus
+  and attention to the Holy Quran, efforts has been done to provide a
+  pure, correct and accurate translation of this divine book. But
+  sometimes it is difficult for the readers to understand all of the
+  apparent and hidden meanings and it is the duty of every Muslim, man or
+  woman, to read, understand and contemplate on the Holy Qur’an according
+  to his own capacity. Hence, the need for proper explanation becomes
+  obvious and necessary. The book titled, “An Enlightening Commentary into
+  the Light of the Holy Qur’an” compiled by a group of Muslim scholars,
+  under the direction of Ayatullah Allamah Al-Hajj Sayyid Kamal Faqih
+  Imani is a valuable effort which presents a thorough commentary on the
+  Quran in 20 volumes made available to the reader.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: b80b10e7-5834-4a92-84c5-a378de54023a
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/acknowledgment
+  title: Acknowledgment
+  slug: 2-acknowledgment
+  uuid: ff0d9ccb-6bd3-462f-a592-b8710cc34844
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/references
+  title: References
+  slug: 3-references
+  uuid: aa67301e-ba73-436f-86d6-ba3e8ade699c
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/presentation-muslims
+  title: A Presentation to Muslims
+  slug: 4-a-presentation-to-muslims
+  uuid: a7257dda-f45b-418c-83fa-718ac0df3a60
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/surah-al-ankabut-section-5-argue-best-way-possible
+  title: 'Surah Al-‘Ankabut, Section 5: To Argue in the Best Way Possible'
+  slug: 5-surah-al-ankabut-section-5-to-argue-in-the-best-way-possible
+  uuid: 7e4f1149-57a2-4aae-875f-372842606d19
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-6-disbelievers-warned
+  title: 'Section 6: The Disbelievers Warned'
+  slug: 6-section-6-the-disbelievers-warned
+  uuid: f8002141-67b3-461e-997b-97e05ace055f
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-7-sincere-seekers-shall-be-guided-aright
+  title: 'Section 7: The Sincere Seekers Shall Be Guided Aright'
+  slug: 7-section-7-the-sincere-seekers-shall-be-guided-aright
+  uuid: 23d52c22-6a90-4d2a-a898-70c25a1e498b
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/surah-ar-room-chapter-30
+  title: Surah Ar-Room, Chapter 30
+  slug: 8-surah-ar-room-chapter-30
+  uuid: 6499e0ae-71dd-4f56-8704-376af1c25d4b
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-1the-defeat-romans-prophesied
+  title: Section 1:The Defeat of the Romans Prophesied
+  slug: 9-section-1-the-defeat-of-the-romans-prophesied
+  uuid: d7c9c389-c8f9-4c3e-aa27-60014edbeb20
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-2-five-times-daily-glorification-allah
+  title: 'Section 2: The Five Times of the Daily Glorification of Allah'
+  slug: 10-section-2-the-five-times-of-the-daily-glorification-of-allah
+  uuid: 52516a20-fee3-41d9-aee1-51400e40f9db
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-3-might-allah-manifesting-nature
+  title: 'Section 3: The Might of Allah Manifesting in Nature'
+  slug: 11-section-3-the-might-of-allah-manifesting-in-nature
+  uuid: 1ac0acd1-8577-4565-a0c8-9d287e6f6319
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-4-islam-natural-religion
+  title: 'Section 4: Islam, the Natural Religion'
+  slug: 12-section-4-islam-the-natural-religion
+  uuid: 55fde862-a41d-4e16-ba09-c0051806dc39
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-5-suffering-world-through-what-men-have
+  title: 'Section 5: Suffering of the World Through What Men Have Themselves Wrought'
+  slug: 13-section-5-suffering-of-the-world-through-what-men-have-themselves-wrought
+  uuid: a5680938-fd8b-419b-8cde-5c0300b3d608
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-6-evidence-those-given-knowledge-and-faith
+  title: 'Section 6: The Evidence of Those Given Knowledge and Faith'
+  slug: 14-section-6-the-evidence-of-those-given-knowledge-and-faith
+  uuid: cc076ff4-599e-4ccd-bfd7-0fe8759c5992
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/surah-luqman-chapter-31
+  title: Surah Luqman, Chapter 31
+  slug: 15-surah-luqman-chapter-31
+  uuid: a545d800-3cb7-4e5e-b3f0-b9b8d0c831ea
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-1-quran-guidance-and-mercy-righteous
+  title: 'Section 1: Qur’an, a Guidance and Mercy for the Righteous'
+  slug: 16-section-1-qur-an-a-guidance-and-mercy-for-the-righteous
+  uuid: dc06d7bf-6352-4768-945e-99d16c2fc3f4
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-2-ethics-preached-through-luqman
+  title: 'Section 2: The Ethics Preached Through Luqman'
+  slug: 17-section-2-the-ethics-preached-through-luqman
+  uuid: b0a961b4-a473-4ab5-8435-9055ffddb311
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-3-he-who-submits-himself-allah-holds-never
+  title: 'Section 3: He Who Submits Himself to Allah Holds the Never-Breaking Firmest
+    Rope'
+  slug: 18-section-3-he-who-submits-himself-to-allah-holds-the-never-breaking-firmest-rope
+  uuid: 904aef84-8c5a-4f80-8b75-b4d8e38e8282
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-4-let-not-life-world-deceive-anyone
+  title: 'Section 4: Let Not the Life of This World Deceive Anyone'
+  slug: 19-section-4-let-not-the-life-of-this-world-deceive-anyone
+  uuid: 6035618e-bcd5-41c1-a618-fe7e51ab38f7
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/surah-sajdah-chapter-32
+  title: Surah As-Sajdah, Chapter 32
+  slug: 20-surah-as-sajdah-chapter-32
+  uuid: 22933843-348a-43ea-b6b9-fcc65f0b1df3
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-1-quran-book-lord-worlds
+  title: 'Section 1: Qur’an, the Book From the Lord of the Worlds'
+  slug: 21-section-1-qur-an-the-book-from-the-lord-of-the-worlds
+  uuid: 36b523f2-ff99-4d41-91d4-f8aed4b56888
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-2-believer-and-disbeliever-cannot-be-equal
+  title: 'Section 2: A Believer and Disbeliever Cannot Be Equal'
+  slug: 22-section-2-a-believer-and-disbeliever-cannot-be-equal
+  uuid: b51feddb-d92a-41d0-85f7-205d1604dd82
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-3-similitude-moses-missions
+  title: 'Section 3: Similitude of Moses’ Missions'
+  slug: 23-section-3-similitude-of-moses-missions
+  uuid: a2129309-ff9e-4433-ba75-9cd4ed53175c
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/surah-al-ahzab-chapter-33
+  title: Surah Al-’Ahzab, Chapter 33
+  slug: 24-surah-al-ahzab-chapter-33
+  uuid: adf2bed5-725d-460e-83d1-7bf7f08abed7
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-1-prophet-muhammads-claim-upon-souls
+  title: 'Section 1: The Prophet Muhammad’s Claim Upon the Souls of the Believers'
+  slug: 25-section-1-the-prophet-muhammad-s-claim-upon-the-souls-of-the-believers
+  uuid: b754838a-f35d-4849-a008-3f55d1f1b099
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-2-treachery-hypocrites-exposed
+  title: 'Section 2: The Treachery of the Hypocrites Exposed'
+  slug: 26-section-2-the-treachery-of-the-hypocrites-exposed
+  uuid: 42c66ac1-b702-4247-870a-590e1f4343da
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-3-excellent-pattern-apostle-muhammad
+  title: 'Section 3: An Excellent Pattern in the Apostle Muhammad'
+  slug: 27-section-3-an-excellent-pattern-in-the-apostle-muhammad
+  uuid: ebc175b8-6621-4bb5-8f4b-3593d47c37cd
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-4-ahlul-bayt-divinely-made-pure
+  title: 'Section 4: The Ahlul Bayt Divinely Made Pure'
+  slug: 28-section-4-the-ahlul-bayt-divinely-made-pure
+  uuid: 3d593710-7a44-4224-8082-b1eb45835180
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-5-no-believer-shall-have-any-choice-against
+  title: 'Section 5: No Believer Shall Have Any Choice Against the Command of the
+    Prophet of Allah'
+  slug: 29-section-5-no-believer-shall-have-any-choice-against-the-command-of-the-prophet-of-allah
+  uuid: 56eda669-7def-4ed3-a70e-c5ff855c7593
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-6-prophet-sent-witness-bearer-glad-tiding
+  title: 'Section 6: The Prophet Sent as a Witness, a Bearer of Glad-tiding and Bright
+    Lamp'
+  slug: 30-section-6-the-prophet-sent-as-a-witness-a-bearer-of-glad-tiding-and-bright-lamp
+  uuid: aacbccc4-0a22-4be8-9a85-83723a08178d
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-7-those-who-annoy-allah-and-his-prophet
+  title: 'Section 7: Those Who Annoy Allah and His Prophet Muhammad'
+  slug: 31-section-7-those-who-annoy-allah-and-his-prophet-muhammad
+  uuid: 6d78ea45-5630-41e6-ab7b-07d239c3889d
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-8-knowledge-hour-judgment
+  title: 'Section 8: The Knowledge of the Hour of Judgment'
+  slug: 32-section-8-the-knowledge-of-the-hour-of-judgment
+  uuid: e7fa6fd5-7565-4f4f-aedf-3b8cceee128d
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-14/section-9-he-who-obeys-allah-and-his-apostle
+  title: 'Section 9: He Who Obeys Allah and His Apostle Achieves a Mighty Success'
+  slug: 33-section-9-he-who-obeys-allah-and-his-apostle-achieves-a-mighty-success
+  uuid: 1c29fdc9-b91e-449a-b4c7-665e8005707e
+---

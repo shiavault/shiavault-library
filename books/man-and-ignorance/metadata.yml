@@ -1,0 +1,47 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/man-and-ignorance
+publisher: Al-Balagh Foundation
+title: Man and Ignorance
+slug: man-and-ignorance
+uuid: e2c5a8b8-3a1d-4dcf-a144-143f43995f46
+description: |
+  This books explores the deviations of Ignorance and presents methods to
+  get rid of it.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/man-and-ignorance/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 4d85ac3c-4e3d-4ecf-983d-4be972a705a9
+- source: :alislam
+  source_url: http://www.al-islam.org/man-and-ignorance/what-does-jahiliyah-mean
+  title: What does Jahiliyah mean?
+  slug: 2-what-does-jahiliyah-mean
+  uuid: db158c83-e02f-4832-93e0-5c48b835c132
+- source: :alislam
+  source_url: http://www.al-islam.org/man-and-ignorance/islam-and-jahiliyah
+  title: Islam and Jahiliyah
+  slug: 3-islam-and-jahiliyah
+  uuid: a0caf5a8-f75d-4308-b04f-76f524113762
+- source: :alislam
+  source_url: http://www.al-islam.org/man-and-ignorance/essential-centers
+  title: Essential Centers
+  slug: 4-essential-centers
+  uuid: 24f33cd2-7ed9-4049-8ee4-9b4d91657e30
+- source: :alislam
+  source_url: http://www.al-islam.org/man-and-ignorance/how-can-we-get-rid-ignorant-backgrounds
+  title: How can we get rid of ignorant backgrounds?
+  slug: 5-how-can-we-get-rid-of-ignorant-backgrounds
+  uuid: 27f0a7cb-1801-46a7-b43b-f8b4870e0c09
+- source: :alislam
+  source_url: http://www.al-islam.org/man-and-ignorance/methods-salvation
+  title: The Methods of Salvation
+  slug: 6-the-methods-of-salvation
+  uuid: 8622d99d-c7e7-458f-8e72-33443ac3be25
+- source: :alislam
+  source_url: http://www.al-islam.org/man-and-ignorance/nature-conflict-between-jahiliyah-and-islam
+  title: The Nature of Conflict between Jahiliyah and Islam
+  slug: 7-the-nature-of-conflict-between-jahiliyah-and-islam
+  uuid: 3e6c7a46-aed1-40e9-8ccd-0e7037786f6c
+---

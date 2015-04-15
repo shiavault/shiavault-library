@@ -1,0 +1,210 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui
+author: Ayatullah Sayyid Abulqasim al-Khui
+publisher: Islamic Seminary Publications
+translator: Muhammad Fazal Haq
+title: Islamic Laws of Ayatullah Khui
+slug: islamic-laws-of-ayatullah-khui
+uuid: 9e29d1c7-39a2-4a4c-809a-2977a7fd7f7b
+description: |
+  Laws on cleanliness, prayers, fasting, hajj, transactions, marriage, and
+  other topics. According to the risalah of Ayatullah Sayyid AbulQasim
+  al-Khu'i.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/taqlid
+  title: Taqlid
+  slug: 1-taqlid
+  uuid: 585d3ac5-1b6d-4d4b-ad25-b8419cce6db5
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/taharat
+  title: Taharat
+  slug: 2-taharat
+  uuid: 20dde3b2-5c25-45e1-a826-62164ec77aa7
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/impure-things-najasat
+  title: Impure Things (Najasat)
+  slug: 3-impure-things-najasat
+  uuid: 60141548-99a7-4dfe-93da-e2a8e78174c3
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/purifying-things
+  title: Purifying Things
+  slug: 4-purifying-things
+  uuid: 4cbab26f-6a2b-4fc3-97de-8b2269b9ca83
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/ablutions
+  title: Ablutions
+  slug: 5-ablutions
+  uuid: bac5ef62-77dc-4f89-90ca-261aed5bbc9d
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/obligatory-ceremonial-baths
+  title: Obligatory Ceremonial Baths
+  slug: 6-obligatory-ceremonial-baths
+  uuid: be15f98b-04ed-470d-8596-9610d3ff262d
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/kinds-blood-seen-women
+  title: Kinds of Blood Seen By Women
+  slug: 7-kinds-of-blood-seen-by-women
+  uuid: d47d3619-4eae-4e5a-9d61-d28e4e96710c
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/ceremonial-bath-touching-dead-body
+  title: Ceremonial Bath For Touching A Dead Body
+  slug: 8-ceremonial-bath-for-touching-a-dead-body
+  uuid: 12e3ca78-39dc-43dc-9a3d-01600904905b
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/orders-regarding-dying-person
+  title: Orders Regarding a Dying Person
+  slug: 9-orders-regarding-a-dying-person
+  uuid: 7f8a9fce-8b69-4a2e-afdf-b1aa2de5a0ba
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/method-bathing-dead-body
+  title: The Method of Bathing a Dead Body
+  slug: 10-the-method-of-bathing-a-dead-body
+  uuid: 3363b7b0-47a6-4de0-89f6-144e2e98a966
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/orders-regarding-shrouding-dead-body
+  title: Orders Regarding Shrouding Of The Dead Body
+  slug: 11-orders-regarding-shrouding-of-the-dead-body
+  uuid: c69a0afa-0edf-4209-96d0-bcabbd147b88
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/orders-regarding-prayers-dead-body
+  title: Orders Regarding Prayers For The Dead Body
+  slug: 12-orders-regarding-prayers-for-the-dead-body
+  uuid: 0766cc2f-3a14-4035-a574-061b1b49b19e
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/orders-regarding-burial-dead-body
+  title: Orders Regarding Burial Of The Dead Body
+  slug: 13-orders-regarding-burial-of-the-dead-body
+  uuid: 3e3c0273-6932-4e11-97db-13590bd37609
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/ceremonial-recommended-baths
+  title: Ceremonial Recommended Baths
+  slug: 14-ceremonial-recommended-baths
+  uuid: 7e0053a0-1f8a-4f24-8853-e4551e9a8cfb
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/tayammum
+  title: Tayammum
+  slug: 15-tayammum
+  uuid: 6af8c182-9f16-4c77-886d-0c26aa690b24
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/prayers
+  title: Prayers
+  slug: 16-prayers
+  uuid: b0c63e34-9c66-47c5-b732-cea14a132614
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/orders-regarding-things-which-invalidate-prayers
+  title: Orders Regarding Things Which Invalidate Prayers
+  slug: 17-orders-regarding-things-which-invalidate-prayers
+  uuid: f10e4f1b-be10-4983-98e7-546f5741b454
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/prayers-traveller
+  title: Prayers of a Traveller
+  slug: 18-prayers-of-a-traveller
+  uuid: 68159873-f507-4fd2-a6c3-dba8bd0b7203
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/congregational-prayers
+  title: Congregational Prayers
+  slug: 19-congregational-prayers
+  uuid: 00ae5b88-c3dd-4cc4-bd28-1608368caa22
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/prayer-signs-salat-al-ayat
+  title: Prayer of the Signs (Salat al-Ayat)
+  slug: 20-prayer-of-the-signs-salat-al-ayat
+  uuid: eefb64a7-e3bc-4aae-8903-2a0555e87400
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/eid-ul-fitr-and-eid-ul-azha-prayers
+  title: Eid Ul Fitr And Eid Ul Azha Prayers
+  slug: 21-eid-ul-fitr-and-eid-ul-azha-prayers
+  uuid: 974fab41-4095-47e6-9517-5fa7b953a3d6
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/engaging-person-offer-prayers
+  title: Engaging A Person To Offer Prayers
+  slug: 22-engaging-a-person-to-offer-prayers
+  uuid: 93391274-e1bc-4cf9-b82d-f861fe4b33f8
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/fasting
+  title: Fasting
+  slug: 23-fasting
+  uuid: e0898c29-a1bf-483b-86f8-c22904d46f28
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/khums
+  title: Khums
+  slug: 24-khums
+  uuid: 0b04de48-0759-4fa5-a9a1-255520fb720d
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/zakat
+  title: Zakat
+  slug: 25-zakat
+  uuid: 101675cf-9fb5-4fb8-90d4-a140da8cd869
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/hajj
+  title: Hajj
+  slug: 26-hajj
+  uuid: 91309453-ad47-4387-a44b-2243939fe5fe
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/transactions
+  title: Transactions
+  slug: 27-transactions
+  uuid: ef6cdf4a-50d2-4dc2-a372-1506bea85789
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/marriage
+  title: Marriage
+  slug: 28-marriage
+  uuid: 836929f7-b8d4-4a82-a8c7-af2ef8b93cc0
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/divorce
+  title: Divorce
+  slug: 29-divorce
+  uuid: 40316f4a-76e7-4050-aecf-9ae32be17be1
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/usurpation-ghasb
+  title: Usurpation (Ghasb)
+  slug: 30-usurpation-ghasb
+  uuid: 0ede774c-31f1-44c6-bac1-65c33bd3b702
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/rules-lost-property-when-found
+  title: Rules of the Lost Property When Found
+  slug: 31-rules-of-the-lost-property-when-found
+  uuid: 8c844559-5103-4490-ac55-3292e17e9de0
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/slaughetering-and-hunting-animals
+  title: Slaughetering and Hunting of Animals
+  slug: 32-slaughetering-and-hunting-of-animals
+  uuid: 31bee99c-947b-4ad3-ab8c-5d429b4045af
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/vow-and-covenant
+  title: Vow and Covenant
+  slug: 33-vow-and-covenant
+  uuid: df383cf9-98fb-4f12-9180-093e154878dc
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/orders-regarding-endowments-or-trust
+  title: Orders Regarding Endowments Or Trust
+  slug: 34-orders-regarding-endowments-or-trust
+  uuid: c33e7ef8-6be7-4964-ad66-692d7d21beb2
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/orders-regarding-will-wasiyyat
+  title: Orders Regarding Will (Wasiyyat)
+  slug: 35-orders-regarding-will-wasiyyat
+  uuid: 7bac87fe-5707-429e-ab17-f9c236bdc7f7
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/punishment-prescribed-certain-sins
+  title: Punishment Prescribed For Certain Sins
+  slug: 36-punishment-prescribed-for-certain-sins
+  uuid: 40d68215-21f7-4f7d-a721-5c348cc43740
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/miscellaneous-problems
+  title: Miscellaneous Problems
+  slug: 37-miscellaneous-problems
+  uuid: a18d81e6-ba27-4df7-b5a4-e5a75ae86b44
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/promissory-notes
+  title: Promissory Notes
+  slug: 38-promissory-notes
+  uuid: 56421d17-7256-4d26-8e50-5a306c253c3a
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-abul-qasim-al-khui/current-issues
+  title: Current Issues
+  slug: 39-current-issues
+  uuid: af9bf99b-3bae-4873-826e-0d3a470aee87
+---

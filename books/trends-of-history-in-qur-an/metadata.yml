@@ -1,0 +1,99 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/trends-history-quran-muhammad-baqir-al-sadr
+author: Sayyid Muhammad Baqir al-Sadr
+publisher: Islamic Seminary Publications
+title: Trends of History in Qur'an
+slug: trends-of-history-in-qur-an
+uuid: 44dbc36c-9442-4ff3-8c9a-05a595cf2210
+description: |
+  A collection of the Ayatullah's last lectures on topical exegesis, norms
+  and laws of history mentioned in the Qur'an, and man, nature and
+  society.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/trends-history-quran-muhammad-baqir-al-sadr/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 1beeda92-5466-4fc9-bfb5-72134f63cf9c
+- source: :alislam
+  source_url: http://www.al-islam.org/trends-history-quran-muhammad-baqir-al-sadr/foreword-ayatullahs-last-lectures
+  title: Foreword to Ayatullah's Last Lectures
+  slug: 2-foreword-to-ayatullah-s-last-lectures
+  uuid: 1b5cf545-db7b-49dd-a05a-99bb736f12e7
+- source: :alislam
+  source_url: http://www.al-islam.org/trends-history-quran-muhammad-baqir-al-sadr/what-topical-exegesis-1
+  title: What is Topical Exegesis? 1
+  slug: 3-what-is-topical-exegesis-1
+  uuid: 0a6d32d1-e942-432b-b35e-fe8299df8c3b
+- source: :alislam
+  source_url: http://www.al-islam.org/trends-history-quran-muhammad-baqir-al-sadr/what-topical-exegesis-2
+  title: What is Topical Exegesis? 2
+  slug: 4-what-is-topical-exegesis-2
+  uuid: 20c8f360-7442-45f9-83ad-cd2bf30baca5
+- source: :alislam
+  source_url: http://www.al-islam.org/trends-history-quran-muhammad-baqir-al-sadr/topical-exegesis-3
+  title: Topical Exegesis 3
+  slug: 5-topical-exegesis-3
+  uuid: 4827d2c0-f83c-4104-88d0-958d27a968bd
+- source: :alislam
+  source_url: http://www.al-islam.org/trends-history-quran-muhammad-baqir-al-sadr/norms-history-mentioned-quran
+  title: Norms of history mentioned in the Qur'an
+  slug: 6-norms-of-history-mentioned-in-the-qur-an
+  uuid: 67b65209-b7b4-4e78-b2ed-8e367412d40d
+- source: :alislam
+  source_url: http://www.al-islam.org/trends-history-quran-muhammad-baqir-al-sadr/norms-history-quran
+  title: Norms of History in the Qur'an
+  slug: 7-norms-of-history-in-the-qur-an
+  uuid: de59cbf3-1261-4776-8785-e57af3e000da
+- source: :alislam
+  source_url: http://www.al-islam.org/trends-history-quran-muhammad-baqir-al-sadr/field-which-norms-history-operate
+  title: Field in which norms of History Operate
+  slug: 8-field-in-which-norms-of-history-operate
+  uuid: b2aa4da4-e07a-4f60-bc86-4e84674df23b
+- source: :alislam
+  source_url: http://www.al-islam.org/trends-history-quran-muhammad-baqir-al-sadr/laws-history-quran
+  title: Laws of History in the Qur'an
+  slug: 9-laws-of-history-in-the-qur-an
+  uuid: cfbc24a4-f84d-4819-8fcf-8ec6b5d088b8
+- source: :alislam
+  source_url: http://www.al-islam.org/trends-history-quran-muhammad-baqir-al-sadr/analysis-social-elements-1
+  title: Analysis of Social Elements 1
+  slug: 10-analysis-of-social-elements-1
+  uuid: 0d21b2f4-6e85-406d-869b-2ba6c52b610e
+- source: :alislam
+  source_url: http://www.al-islam.org/trends-history-quran-muhammad-baqir-al-sadr/mans-role-march-history
+  title: Man's Role in the March of History
+  slug: 11-man-s-role-in-the-march-of-history
+  uuid: a4cdc786-4665-4db6-85c7-8d5a29e319cd
+- source: :alislam
+  source_url: http://www.al-islam.org/trends-history-quran-muhammad-baqir-al-sadr/selection-ideal
+  title: Selection of Ideal
+  slug: 12-selection-of-ideal
+  uuid: 32dba89d-5184-418a-980f-0fa350ee49c7
+- source: :alislam
+  source_url: http://www.al-islam.org/trends-history-quran-muhammad-baqir-al-sadr/all-proceed-towards-absolute-ideal
+  title: All Proceed towards Absolute Ideal
+  slug: 13-all-proceed-towards-absolute-ideal
+  uuid: 5c6c40a2-b7eb-4b69-a2cd-8dea187cbb4d
+- source: :alislam
+  source_url: http://www.al-islam.org/trends-history-quran-muhammad-baqir-al-sadr/analysis-social-elements-2
+  title: Analysis of Social Elements 2
+  slug: 14-analysis-of-social-elements-2
+  uuid: f4987c97-4f99-4de6-91e5-d096c8b5751e
+- source: :alislam
+  source_url: http://www.al-islam.org/trends-history-quran-muhammad-baqir-al-sadr/effect-mans-contact-nature-and-other-man
+  title: Effect of Man's Contact with Nature and with other Man
+  slug: 15-effect-of-man-s-contact-with-nature-and-with-other-man
+  uuid: 68e24cba-d3ec-4f60-a4e5-221ab836dd37
+- source: :alislam
+  source_url: http://www.al-islam.org/trends-history-quran-muhammad-baqir-al-sadr/basis-constant-and-changeable-laws-islam
+  title: Basis of Constant and changeable Laws of Islam
+  slug: 16-basis-of-constant-and-changeable-laws-of-islam
+  uuid: 2c803f39-1a18-4a27-a193-a1afa01bccb8
+- source: :alislam
+  source_url: http://www.al-islam.org/trends-history-quran-muhammad-baqir-al-sadr/ayatullahs-heart-to-heart-talk-religious-scholars
+  title: Ayatullah's Heart to Heart Talk to the Religious Scholars
+  slug: 17-ayatullah-s-heart-to-heart-talk-to-the-religious-scholars
+  uuid: d57fe723-1b96-4d45-af74-68aeec0ed940
+---

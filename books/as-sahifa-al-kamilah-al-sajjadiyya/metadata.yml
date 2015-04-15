@@ -1,0 +1,332 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen
+author: Imam Zain ul Abideen
+publisher: Muhammadi Trust of Great Britain and Northern Ireland
+title: As-Sahifa Al-Kamilah Al-Sajjadiyya
+slug: as-sahifa-al-kamilah-al-sajjadiyya
+uuid: 5a2985a5-10e3-41de-afee-fb7813ac514a
+description: |
+  A collection of supplications and whispered prayers composed by the
+  great-grandson of the Prophet (s). Includes supplication for the Coming
+  of the Month of Ramadhan, and supplication for Bidding Farewell to the
+  Month of Ramadhan. At the end there is also the famous Treatise on
+  Rights that explains beautifully the rights in an Islamic point of view.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: f8205f03-a755-4ffa-a44d-35df8e33c7bd
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/translators-introduction
+  title: Translator's Introduction
+  slug: 2-translator-s-introduction
+  uuid: c98248e9-0cb9-4142-8516-1686420cddbc
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/preface-concerning-chain-authorities-sahifa
+  title: 'Preface: Concerning the Chain of Authorities of the Sahifa'
+  slug: 3-preface-concerning-the-chain-of-authorities-of-the-sahifa
+  uuid: c2fee8b9-2946-4e9c-b31b-da34c7da3517
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/supplications
+  title: Supplications
+  slug: 4-supplications
+  uuid: 97f312a1-1e49-4f69-b962-67f40f81c93a
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/1-praise-god
+  title: 1) In Praise of God
+  slug: 5-1-in-praise-of-god
+  uuid: dff33dcc-eb7e-43f0-b5bd-c20e30ac53b8
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/2-blessing-upon-muhammad-and-his-household
+  title: 2) Blessing upon Muhammad and his Household
+  slug: 6-2-blessing-upon-muhammad-and-his-household
+  uuid: d91ba8d4-26fb-4665-b04c-3ea20cec747e
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/3-blessing-upon-bearers-throne
+  title: 3) Blessing upon the Bearers of the Throne
+  slug: 7-3-blessing-upon-the-bearers-of-the-throne
+  uuid: d0240112-d9ca-43a6-8a9a-ba145b01c865
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/4-blessing-upon-attesters-messengers
+  title: 4) Blessing upon the Attesters to the Messengers
+  slug: 8-4-blessing-upon-the-attesters-to-the-messengers
+  uuid: 7cdff7ad-eff4-4934-8b54-27367a1df030
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/5-his-supplication-himself-and-people-under-his
+  title: 5) His Supplication for himself and the People under his Guardianship
+  slug: 9-5-his-supplication-for-himself-and-the-people-under-his-guardianship
+  uuid: 6d08cd3e-749c-4fdd-996e-e8f7e6dd73f3
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/6-his-supplication-morning-and-evening
+  title: 6) His Supplication in the Morning and Evening
+  slug: 10-6-his-supplication-in-the-morning-and-evening
+  uuid: ac2a3040-b239-48bd-9c4d-e653b3e1fb67
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/7-his-supplication-worrisome-tasks
+  title: 7) His Supplication in Worrisome Tasks
+  slug: 11-7-his-supplication-in-worrisome-tasks
+  uuid: 034e20a4-80ca-4d88-81af-601d88340f80
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/8-his-supplication-seeking-refuge
+  title: 8) His Supplication in Seeking Refuge
+  slug: 12-8-his-supplication-in-seeking-refuge
+  uuid: 4dbd640d-bb48-4216-9e25-36fdd0aeb34a
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/9-his-supplication-yearning
+  title: 9) His Supplication in Yearning
+  slug: 13-9-his-supplication-in-yearning
+  uuid: 43c25bb6-3bc0-44de-89a3-5d7aec4296b2
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/10-his-supplication-seeking-asylum-god
+  title: 10) His Supplication in Seeking Asylum with God
+  slug: 14-10-his-supplication-in-seeking-asylum-with-god
+  uuid: ff414ce5-0589-42b1-9fe3-3a3e291128d1
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/11-his-supplication-good-outcomes
+  title: 11) His Supplication for Good Outcomes
+  slug: 15-11-his-supplication-for-good-outcomes
+  uuid: 662901df-7de4-413f-bba8-a089d11a9cd5
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/12-his-supplication-confession
+  title: 12) His Supplication in Confession
+  slug: 16-12-his-supplication-in-confession
+  uuid: eeacfee3-c264-479e-9ad1-edd422a1b8b3
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/13-his-supplication-seeking-needs-god
+  title: 13) His Supplication in Seeking Needs from God
+  slug: 17-13-his-supplication-in-seeking-needs-from-god
+  uuid: 70451494-8498-47f9-b86f-c5eb74587ea2
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/14-his-supplication-suffering-acts-wrongdoing
+  title: 14) His Supplication in Suffering Acts of Wrongdoing
+  slug: 18-14-his-supplication-in-suffering-acts-of-wrongdoing
+  uuid: e795a8c6-615c-4e90-b6f7-72e011a354af
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/15-his-supplication-when-sick
+  title: 15) His Supplication when Sick
+  slug: 19-15-his-supplication-when-sick
+  uuid: 7c49e3f5-1a22-44ac-a51a-5ca5109ceccc
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/16-his-supplication-asking-release
+  title: 16) His Supplication in Asking Release
+  slug: 20-16-his-supplication-in-asking-release
+  uuid: b8a8b797-0402-4297-a6c3-f8ac97a33d3a
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/17-his-supplication-against-satan
+  title: 17) His Supplication Against Satan
+  slug: 21-17-his-supplication-against-satan
+  uuid: b28b914e-d475-493e-9149-9546ae30b187
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/18-his-supplication-perils
+  title: 18) His Supplication in Perils
+  slug: 22-18-his-supplication-in-perils
+  uuid: b19ea2e8-d322-443c-b2e6-c034888ccb54
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/19-his-supplication-asking-water-during-drought
+  title: 19) His Supplication in Asking for Water during a Drought
+  slug: 23-19-his-supplication-in-asking-for-water-during-a-drought
+  uuid: 9986a2fb-334d-406b-9605-1eb9b1a8d4bd
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/20-his-supplication-noble-moral-traits-and-acts
+  title: 20) His Supplication on Noble Moral Traits and Acts Pleasing to God
+  slug: 24-20-his-supplication-on-noble-moral-traits-and-acts-pleasing-to-god
+  uuid: 7ba056ae-81b5-4b44-9512-c4bc50d65740
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/21-his-supplication-sorrow
+  title: 21) His Supplication in Sorrow
+  slug: 25-21-his-supplication-in-sorrow
+  uuid: 995141bb-d2b7-460d-acec-1e9150b723b6
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/22-his-supplication-hardship
+  title: 22) His Supplication in Hardship
+  slug: 26-22-his-supplication-in-hardship
+  uuid: 064a7ff6-67cc-487a-8223-065add0a2507
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/23-his-supplication-well-being
+  title: 23) His Supplication for Well-Being
+  slug: 27-23-his-supplication-for-well-being
+  uuid: 16bcabfc-f826-4250-b0ac-e915ff493342
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/24-his-supplication-his-parents
+  title: 24) His Supplication for his Parents (upon the two of them be peace)
+  slug: 28-24-his-supplication-for-his-parents-upon-the-two-of-them-be-peace
+  uuid: 0e95c70d-95ae-48ed-9c9e-999a2e5b82c1
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/25-his-supplication-his-children
+  title: 25) His Supplication for his Children
+  slug: 29-25-his-supplication-for-his-children
+  uuid: e0ea9b17-ae02-4319-a96a-e47950575523
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/26-his-supplication-his-neighbours-and-friends
+  title: 26) His Supplication for his Neighbours and Friends
+  slug: 30-26-his-supplication-for-his-neighbours-and-friends
+  uuid: 6cda9758-818a-4240-a0db-91cfc3cf07b6
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/27-his-supplication-people-frontiers
+  title: 27) His Supplication for the People of the Frontiers
+  slug: 31-27-his-supplication-for-the-people-of-the-frontiers
+  uuid: 390e01e2-f93d-4947-85d4-23c6d2283902
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/28-his-supplication-fleeing-god
+  title: 28) His Supplication in Fleeing to God
+  slug: 32-28-his-supplication-in-fleeing-to-god
+  uuid: e5f590cd-ca27-41e9-b660-8c51b319c855
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/29-his-supplication-when-his-provision-was-stinted
+  title: 29) His Supplication when his Provision was Stinted
+  slug: 33-29-his-supplication-when-his-provision-was-stinted
+  uuid: c043b066-d608-40f2-a623-cee23eec7854
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/30-his-supplication-help-repaying-debts
+  title: 30) His Supplication for Help in Repaying Debts
+  slug: 34-30-his-supplication-for-help-in-repaying-debts
+  uuid: a6880f6a-eef1-4a03-bd51-67d999ce8177
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/31-his-supplication-repentance
+  title: 31) His Supplication in Repentance
+  slug: 35-31-his-supplication-in-repentance
+  uuid: e61d8c89-b03f-4675-a795-059a7b1c843b
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/32-his-supplication-night-prayer
+  title: 32) His Supplication in the Night Prayer
+  slug: 36-32-his-supplication-in-the-night-prayer
+  uuid: 4e9cbef4-4ada-4716-9be2-e4d410c1aacf
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/33-his-supplication-asking-best
+  title: 33) His Supplication in Asking for the Best
+  slug: 37-33-his-supplication-in-asking-for-the-best
+  uuid: 1e8e6bf4-3e91-4def-8c8f-7596b6f5be42
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/34-his-supplication-when-afflicted
+  title: 34) His Supplication when Afflicted
+  slug: 38-34-his-supplication-when-afflicted
+  uuid: 2bbe47c6-696e-426b-969b-f8778e2d9882
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/35-his-supplication-satisfaction-decree
+  title: 35) His Supplication in Satisfaction with the Decree
+  slug: 39-35-his-supplication-in-satisfaction-with-the-decree
+  uuid: 8a53d154-0ef8-4031-9133-cf3ed577a4d0
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/36-his-supplication-upon-hearing-thunder
+  title: 36) His Supplication upon Hearing Thunder
+  slug: 40-36-his-supplication-upon-hearing-thunder
+  uuid: 5d3b44d3-72aa-4c22-af31-1ce16339e5cf
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/37-his-supplication-giving-thanks
+  title: 37) His Supplication in Giving Thanks
+  slug: 41-37-his-supplication-in-giving-thanks
+  uuid: ff4050f8-127b-4446-81b0-43217325eeb2
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/38-his-supplication-asking-pardon
+  title: 38) His Supplication in Asking Pardon
+  slug: 42-38-his-supplication-in-asking-pardon
+  uuid: d65abc8f-1cff-47d3-85c6-462015d6e53c
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/39-his-supplication-seeking-pardon-and-mercy
+  title: 39) His Supplication in Seeking Pardon and Mercy
+  slug: 43-39-his-supplication-in-seeking-pardon-and-mercy
+  uuid: 03150d0e-faf1-45d6-8a9f-b1833bfc063a
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/40-his-supplication-when-death-was-mentioned
+  title: 40) His Supplication when Death was Mentioned
+  slug: 44-40-his-supplication-when-death-was-mentioned
+  uuid: 7f315310-2f35-470a-809b-aff15dc24903
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/41-his-supplication-asking-covering-and-protection
+  title: 41) His Supplication in Asking for Covering and Protection
+  slug: 45-41-his-supplication-in-asking-for-covering-and-protection
+  uuid: a3af2378-15f0-44e7-83f6-0fb77f59e807
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/42-his-supplication-upon-completing-reading-quran
+  title: 42) His Supplication upon Completing a Reading of the Qur'an
+  slug: 46-42-his-supplication-upon-completing-a-reading-of-the-qur-an
+  uuid: c5006eee-acc7-4ce0-93ba-2707460af82e
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/43-his-supplication-when-he-looked-new-crescent
+  title: 43) His Supplication when he Looked at the New Crescent Moon
+  slug: 47-43-his-supplication-when-he-looked-at-the-new-crescent-moon
+  uuid: b0ca1b64-e712-4d27-98aa-fab078fd0ddd
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/44-his-supplication-coming-month-ramadan
+  title: 44) His Supplication for the Coming of the Month of Ramadan
+  slug: 48-44-his-supplication-for-the-coming-of-the-month-of-ramadan
+  uuid: c914e876-b985-4357-8628-52f5c5d4d412
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/45-his-supplication-bidding-farewell-month-ramadan
+  title: 45) His Supplication in Bidding Farewell to the Month of Ramadan
+  slug: 49-45-his-supplication-in-bidding-farewell-to-the-month-of-ramadan
+  uuid: 01fd026f-d6bc-48ef-a9fe-1960bb61228a
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/46-his-supplication-day-fast-breaking-and-friday
+  title: 46) His Supplication on the Day of Fast-Breaking and on Friday
+  slug: 50-46-his-supplication-on-the-day-of-fast-breaking-and-on-friday
+  uuid: 0e8ecd78-c7b6-48a8-8067-3b438aec79ef
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/47-his-supplication-day-arafa
+  title: 47) His Supplication on the Day of 'Arafa
+  slug: 51-47-his-supplication-on-the-day-of-arafa
+  uuid: 4d60a7ab-8f7b-434c-ba03-1a0ea19571f1
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/48-his-supplication-day-sacrifice-and-friday
+  title: 48) His Supplication on the Day of Sacrifice and on Friday
+  slug: 52-48-his-supplication-on-the-day-of-sacrifice-and-on-friday
+  uuid: 821106ac-a0ae-4fde-b314-3fcecfafa648
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/49-his-supplication-repelling-enemies
+  title: 49) His Supplication in Repelling Enemies
+  slug: 53-49-his-supplication-in-repelling-enemies
+  uuid: 08463306-1101-42cb-b183-45666eae23a9
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/50-his-supplication-fear
+  title: 50) His Supplication in Fear
+  slug: 54-50-his-supplication-in-fear
+  uuid: cba818a6-9132-48ab-8267-40980acd9bad
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/51-his-supplication-pleading-and-abasement
+  title: 51) His Supplication in Pleading and Abasement
+  slug: 55-51-his-supplication-in-pleading-and-abasement
+  uuid: fc17c57c-366a-463d-9353-a5bb82889edb
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/52-his-supplication-imploring-god
+  title: 52) His Supplication in Imploring God
+  slug: 56-52-his-supplication-in-imploring-god
+  uuid: 4c4229b2-4d6c-4a93-81ee-3c947ed12a52
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/53-his-supplication-abasing-himself
+  title: 53) His Supplication in Abasing himself
+  slug: 57-53-his-supplication-in-abasing-himself
+  uuid: ba42bdbf-d0d4-4b10-96fe-9e1a77cc5442
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/54-his-supplication-removal-worries
+  title: 54) His Supplication for the Removal of Worries
+  slug: 58-54-his-supplication-for-the-removal-of-worries
+  uuid: 6ba62624-82b6-4683-b2c5-ed7621a7d324
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/addenda-seven-additional-supplications
+  title: Addenda :These seven additional supplications are appended in some copies
+    of the Sahifa
+  slug: 59-addenda-these-seven-additional-supplications-are-appended-in-some-copies-of-the-sahifa
+  uuid: b3aa3846-f38e-40b1-a478-4e3313000539
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/supplications-days-week
+  title: The Supplications for the Days of the Week
+  slug: 60-the-supplications-for-the-days-of-the-week
+  uuid: b2b92ab7-ba11-4a43-9a4d-1e8f3d96446a
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/fifteen-whispered-prayers-words-sayyid-al-sajidin
+  title: Fifteen Whispered Prayers from the Words of Sayyid al-Sajidin
+  slug: 61-fifteen-whispered-prayers-from-the-words-of-sayyid-al-sajidin
+  uuid: 0c8d8d17-4056-417d-a0e5-7c8984f137a9
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/treatise-rights-risalat-al-huquq
+  title: Treatise On Rights  (Risalat al-Huquq)
+  slug: 62-treatise-on-rights-risalat-al-huquq
+  uuid: 8145cedf-13c9-4b15-9296-d2165cf93aef
+- source: :alislam
+  source_url: http://www.al-islam.org/sahifa-al-kamilah-sajjadiyya-imam-zain-ul-abideen/treatise-rights
+  title: The Treatise On Rights
+  slug: 63-the-treatise-on-rights
+  uuid: 51da56a4-5b79-4994-ac17-5bc0ba3ae4d7
+---

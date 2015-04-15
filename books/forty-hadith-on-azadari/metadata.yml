@@ -1,0 +1,23 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/forty-hadith-on-azadari
+publisher: The Islamic Education Board of the World Federation of Khoja Shia Ithna-Asheri
+  Muslim Communities
+compiler: Agha Jawad MuhaddathiShahnawaz Mahdavi
+title: Forty Hadith on Azadari
+slug: forty-hadith-on-azadari
+uuid: 54638021-d90f-4b7e-939c-e01242b0b61d
+description: |
+  A collection of forty traditions on A'zadari
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-on-azadari/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: c35aa2bc-8429-41ba-b392-c04cdb1bfe11
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-on-azadari/ahadith-traditions
+  title: Ahadith, The Traditions
+  slug: 2-ahadith-the-traditions
+  uuid: b95bd0fa-daef-4400-b206-19295741c622
+---

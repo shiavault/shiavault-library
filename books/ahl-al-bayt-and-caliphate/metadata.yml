@@ -1,0 +1,35 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/ahl-al-bayt-and-caliphate-ayatullah-murtadha-mutahhari
+author: Ayatullah Murtadha Mutahhari
+translator: Jalil Dorrani
+title: Ahl al-Bayt And Caliphate
+slug: ahl-al-bayt-and-caliphate
+uuid: 56ad0f55-9663-41fe-99cb-368ea00b56d0
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/ahl-al-bayt-and-caliphate-ayatullah-murtadha-mutahhari/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 5709cd6a-80b5-4db3-915a-844dc6bf7f91
+- source: :alislam
+  source_url: http://www.al-islam.org/ahl-al-bayt-and-caliphate-ayatullah-murtadha-mutahhari/distinguished-position-ahl-al-bayt
+  title: The Distinguished Position of Ahl al-Bayt
+  slug: 2-the-distinguished-position-of-ahl-al-bayt
+  uuid: b2e3793a-bbed-45ad-8c9f-811e21037d50
+- source: :alislam
+  source_url: http://www.al-islam.org/ahl-al-bayt-and-caliphate-ayatullah-murtadha-mutahhari/precedence-and-priority
+  title: Precedence and Priority
+  slug: 3-precedence-and-priority
+  uuid: b6f09343-6d9c-4891-82c3-743b1b95a549
+- source: :alislam
+  source_url: http://www.al-islam.org/ahl-al-bayt-and-caliphate-ayatullah-murtadha-mutahhari/criticism-against-caliphs
+  title: Criticism against The Caliphs
+  slug: 4-criticism-against-the-caliphs
+  uuid: 9e4ebcb3-f146-4a2a-83c8-45208b050ba1
+- source: :alislam
+  source_url: http://www.al-islam.org/ahl-al-bayt-and-caliphate-ayatullah-murtadha-mutahhari/bitter-silence
+  title: A Bitter Silence
+  slug: 5-a-bitter-silence
+  uuid: 14fa51d0-33d9-4121-8644-1d00f4725c5e
+---

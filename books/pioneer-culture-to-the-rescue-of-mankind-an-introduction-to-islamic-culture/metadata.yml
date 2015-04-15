@@ -1,0 +1,38 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/pioneer-culture-rescue-mankind-introduction-islamic-culture-muhammad-taqi-jafari
+author: Allamah Muhammad Taqi Ja'fari
+publisher: Allameh Ja'fari Institute
+title: Pioneer Culture to the Rescue of Mankind - An Introduction to Islamic Culture
+slug: pioneer-culture-to-the-rescue-of-mankind-an-introduction-to-islamic-culture
+uuid: 2eb26129-a692-4af2-8dab-d89fbf185f8e
+description: |
+  This book was written by late Allamah Muhammad Taqi Ja’fari. The author
+  compares and analyzes various definitions and main elements of culture
+  in different civilizations and countries and regions of the world. The
+  author also highlights main ingredients of Islamic culture and proves
+  that only Islamic culture is compatible with human nature and
+  advancement and the establishment of a just and progressive human
+  society.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/pioneer-culture-rescue-mankind-introduction-islamic-culture-muhammad-taqi-jafari/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 879df85f-bf0e-431e-b46c-c64cf2049c04
+- source: :alislam
+  source_url: http://www.al-islam.org/pioneer-culture-rescue-mankind-introduction-islamic-culture-muhammad-taqi-jafari/definitions-culture
+  title: Definitions of Culture in Well-known Dictionaries and Encyclopaedias
+  slug: 2-definitions-of-culture-in-well-known-dictionaries-and-encyclopaedias
+  uuid: 04e14bec-0aab-4346-82ba-68a22253a038
+- source: :alislam
+  source_url: http://www.al-islam.org/pioneer-culture-rescue-mankind-introduction-islamic-culture-muhammad-taqi-jafari/essence
+  title: The Essence of Evolutionary Culture
+  slug: 3-the-essence-of-evolutionary-culture
+  uuid: e779fb7a-3064-45b4-bb69-8ea1b793f644
+- source: :alislam
+  source_url: http://www.al-islam.org/pioneer-culture-rescue-mankind-introduction-islamic-culture-muhammad-taqi-jafari/appendix
+  title: Appendix
+  slug: 4-appendix
+  uuid: 385df8bf-0814-4a31-a299-705110c5ccce
+---

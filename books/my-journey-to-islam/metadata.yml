@@ -1,0 +1,17 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/my-journey-islam-laila-bigelli
+author: Laila Bigelli
+publisher: Islamic Humanitarian Service (IHS)
+title: My journey to Islam
+slug: my-journey-to-islam
+uuid: 309611b3-1810-4be7-8a80-0c662efaa2a8
+description: |
+  Experience of discovering Islam.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/my-journey-islam-laila-bigelli/my-journey-islam
+  title: My journey to Islam
+  slug: 1-my-journey-to-islam
+  uuid: e351cbe6-34ab-4302-a4e9-f1439836f080
+---

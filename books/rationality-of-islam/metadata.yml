@@ -1,0 +1,54 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/rationality-islam-ayatullah-sayyid-abulqasim-al-khui
+author: Ayatullah Sayyid Abulqasim al-Khui
+publisher: Islamic Seminary Publications
+title: Rationality of Islam
+slug: rationality-of-islam
+uuid: fc4afb23-a43f-4964-94d0-a84eea90251e
+description: |
+  Role of religion, its need and impact on human life. A short history of
+  the lives of the leaders of Islam and a basic guide to administration
+  according to principles of Islam.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/rationality-islam-ayatullah-sayyid-abulqasim-al-khui/preface
+  title: Preface
+  slug: 1-preface
+  uuid: ae910268-dca0-447b-8616-61712c15555a
+- source: :alislam
+  source_url: http://www.al-islam.org/rationality-islam-ayatullah-sayyid-abulqasim-al-khui/religion-and-its-role-human-life
+  title: Religion and Its Role in Human Life
+  slug: 2-religion-and-its-role-in-human-life
+  uuid: 6a8ca85c-2389-49bb-9653-fcf8931a9006
+- source: :alislam
+  source_url: http://www.al-islam.org/rationality-islam-ayatullah-sayyid-abulqasim-al-khui/belief-allah
+  title: Belief in Allah
+  slug: 3-belief-in-allah
+  uuid: 9782465f-ec2f-49c3-8251-bd18c9205527
+- source: :alislam
+  source_url: http://www.al-islam.org/rationality-islam-ayatullah-sayyid-abulqasim-al-khui/towards-eternal-life
+  title: Towards Eternal Life
+  slug: 4-towards-eternal-life
+  uuid: 485e50d6-6d5b-46f8-b9a7-e7d7e524f113
+- source: :alislam
+  source_url: http://www.al-islam.org/rationality-islam-ayatullah-sayyid-abulqasim-al-khui/guides-humanity
+  title: Guides of Humanity
+  slug: 5-guides-of-humanity
+  uuid: 97ceaf8c-571c-404b-ac0d-0d15a0e13d61
+- source: :alislam
+  source_url: http://www.al-islam.org/rationality-islam-ayatullah-sayyid-abulqasim-al-khui/successors-prophet-s
+  title: Successors of the Prophet (S)
+  slug: 6-successors-of-the-prophet-s
+  uuid: 8892e4d0-67a5-4813-8452-aec7e3b71e84
+- source: :alislam
+  source_url: http://www.al-islam.org/rationality-islam-ayatullah-sayyid-abulqasim-al-khui/islamic-teachings
+  title: Islamic Teachings
+  slug: 7-islamic-teachings
+  uuid: b26fbee8-638a-4e8d-9151-5528430ff1d7
+- source: :alislam
+  source_url: http://www.al-islam.org/rationality-islam-ayatullah-sayyid-abulqasim-al-khui/basic-guide-islamic-administration
+  title: A Basic Guide in Islamic Administration
+  slug: 8-a-basic-guide-in-islamic-administration
+  uuid: 17ecbea0-09df-4ccf-b4a1-1915cac1cc5a
+---

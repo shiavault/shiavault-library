@@ -1,0 +1,165 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi
+author: Muhammad al Tijani al Samawi
+title: Then I was Guided
+slug: then-i-was-guided
+uuid: 90772755-f237-4ce5-a73e-717a9bf1df91
+description: |
+  An autobiographical account of Sayed Tijani's search for knowledge,
+  which aims to remove some of the barriers that exist between the schools
+  of thought of the ahl-as-Sunnah and the shi'a by clearing misconceptions
+  about Shi'ism.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: ec0bfb4b-e338-4ffa-8e6c-72455e78640c
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/foreword
+  title: Foreword
+  slug: 2-foreword
+  uuid: 2e5f64fd-4a78-4c6e-a25c-5efc44a08a85
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/brief-look-my-life
+  title: A Brief Look at My Life
+  slug: 3-a-brief-look-at-my-life
+  uuid: 5024760a-1bfa-439a-95f5-9e521fdb0bd7
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/pilgrimage-house-allah
+  title: The Pilgrimage to the House of Allah
+  slug: 4-the-pilgrimage-to-the-house-of-allah
+  uuid: 813238a8-6bbf-48a1-98a8-e030647f4165
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/egypt
+  title: In Egypt
+  slug: 5-in-egypt
+  uuid: 824886dd-d763-44d4-947f-86e31c29541f
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/meeting-board-ship
+  title: A Meeting on Board the Ship
+  slug: 6-a-meeting-on-board-the-ship
+  uuid: d0626548-4e3d-40dc-b19a-37197cd2be31
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/my-first-visit-iraq
+  title: My First Visit to Iraq
+  slug: 7-my-first-visit-to-iraq
+  uuid: 3588e952-bd0f-41c5-947c-54e12333877c
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/abdul-qadir-al-jilani-and-musa-al-kazim
+  title: Abdul Qadir al-Jilani and Musa al-Kazim
+  slug: 8-abdul-qadir-al-jilani-and-musa-al-kazim
+  uuid: a52c4005-55a4-44bc-96b2-dd43f909866d
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/skepticism-and-questioning
+  title: Skepticism and Questioning
+  slug: 9-skepticism-and-questioning
+  uuid: 3c427ffe-1f93-4056-9859-7e2c55cf2dea
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/visit-al-najaf
+  title: The Visit to al Najaf
+  slug: 10-the-visit-to-al-najaf
+  uuid: e85be800-00c2-4dfa-b51f-8b5c202344bd
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/meeting-al-ulama%E2%80%99-learned-men
+  title: A Meeting with the Al Ulama’  (The Learned Men)
+  slug: 11-a-meeting-with-the-al-ulama-the-learned-men
+  uuid: 6df4f0e1-a13a-4c30-abd1-7abdfe5a8099
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/meeting-al-sayyid-muhammad-baqir-al-sadr
+  title: A Meeting with Al Sayyid Muhammad Baqir al Sadr
+  slug: 12-a-meeting-with-al-sayyid-muhammad-baqir-al-sadr
+  uuid: 5e5d8be7-d7ca-4d6c-a037-cbb942dfc399
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/skepticism-and-perplexity
+  title: Skepticism and Perplexity
+  slug: 13-skepticism-and-perplexity
+  uuid: 1b691e71-0e63-47af-9825-4aaad28c8f15
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/journey-hijaz
+  title: The Journey to Hijaz
+  slug: 14-the-journey-to-hijaz
+  uuid: 5150c629-b090-4bc9-a22d-30f1b8b3600e
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/beginning-research
+  title: The Beginning of the Research
+  slug: 15-the-beginning-of-the-research
+  uuid: 8556a567-ff16-4ccf-85bf-1a23a7cda050
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/companions-prophet-seen-shi%E2%80%99-and-sunnis
+  title: The Companions of the Prophet as seen by the Shi’a and the Sunnis
+  slug: 16-the-companions-of-the-prophet-as-seen-by-the-shi-a-and-the-sunnis
+  uuid: 2d15ee4d-252a-46cc-9ae0-606582ff49ca
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/companions-peace-treaty-al-hudaibiyah
+  title: The Companions at the Peace Treaty of al Hudaibiyah
+  slug: 17-the-companions-at-the-peace-treaty-of-al-hudaibiyah
+  uuid: 935f4bee-fc0c-47f4-8ac9-04f4e42026a0
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/companions-and-raziyat-yawm-al-khamis-calamity
+  title: The Companions and the Raziyat Yawm al Khamis (The Calamity of Thursday)
+  slug: 18-the-companions-and-the-raziyat-yawm-al-khamis-the-calamity-of-thursday
+  uuid: 966d1ac1-a96f-4a14-873b-4c49649650af
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/companions-military-detachment-under-usamah
+  title: The Companions in the Military Detachment under Usamah
+  slug: 19-the-companions-in-the-military-detachment-under-usamah
+  uuid: c0314f14-eec2-4b71-9513-54cd329cc455
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/opinion-quran-regarding-companions
+  title: The Opinion of the Quran regarding the Companions
+  slug: 20-the-opinion-of-the-quran-regarding-the-companions
+  uuid: 3843c0b3-bce6-497d-8070-b9d74ff2e862
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/opinion-messenger-regarding-companions
+  title: The Opinion of the Messenger regarding the Companions
+  slug: 21-the-opinion-of-the-messenger-regarding-the-companions
+  uuid: 0f9464fa-461a-4bda-8f08-af1da45ea923
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/opinion-companions-about-each-other
+  title: The Opinion of the Companions about Each Other
+  slug: 22-the-opinion-of-the-companions-about-each-other
+  uuid: 84dd3abd-41b4-4dd6-a9d6-d78ea0fe5ca1
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/beginning-change
+  title: The Beginning of the Change
+  slug: 23-the-beginning-of-the-change
+  uuid: 1ad2fda7-c758-4aa6-94bf-4b1eeabe2dbf
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/dialogue-scholar
+  title: A Dialogue With a Scholar
+  slug: 24-a-dialogue-with-a-scholar
+  uuid: 4ca10f6f-8c15-4de6-8e80-5f3fa46dd464
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/reasons-behind-enlightment
+  title: The Reasons Behind the Enlightment
+  slug: 25-the-reasons-behind-the-enlightment
+  uuid: 41d9bff6-7797-45de-b80b-7c3cc9bf6c50
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/correct-prophetic-traditions-which-indicate-fact-it
+  title: The Correct Prophetic Traditions Which Indicate the Fact that it is Compulsory
+    to Follow the Ahl al Bayt
+  slug: 26-the-correct-prophetic-traditions-which-indicate-the-fact-that-it-is-compulsory-to-follow-the-ahl-al-bayt
+  uuid: a9a3e556-68f8-44a6-b43a-f483d1314924
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/our-misfortune-regarding-ijtihad-against-texts
+  title: Our Misfortune Regarding Ijtihad Against the Texts
+  slug: 27-our-misfortune-regarding-ijtihad-against-the-texts
+  uuid: d2579bcd-42b3-4610-bbb4-a168c1a78f82
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/invitation-friends-join-research
+  title: An Invitation to Friends to Join the Research
+  slug: 28-an-invitation-to-friends-to-join-the-research
+  uuid: 4ebbe0c6-7d05-406d-86f2-0fc2a70ab89b
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/guidance-truth
+  title: The Guidance of Truth
+  slug: 29-the-guidance-of-truth
+  uuid: 089db6e3-ef80-4174-9674-7c00904c9323
+- source: :alislam
+  source_url: http://www.al-islam.org/then-i-was-guided-muhammad-al-tijani-al-samawi/references
+  title: The References
+  slug: 30-the-references
+  uuid: a27c787f-33d2-483c-8ed6-d443b41bc786
+---

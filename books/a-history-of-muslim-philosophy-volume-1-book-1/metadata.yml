@@ -1,0 +1,51 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-1
+title: A History of Muslim Philosophy Volume 1, Book 1
+slug: a-history-of-muslim-philosophy-volume-1-book-1
+uuid: a0f24c12-efd6-49a5-8829-fbca52cd3aef
+description: |
+  A Compendium of articles on the History of Muslim Philosophy. In this
+  book: Pre-Islamic Philosophical Thought
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-1/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 4a26d317-b2b3-4554-99ca-f5b7b4a8da07
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-1/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: b1cf3603-7db0-4311-8668-b30a3caec311
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-1/chapter-1pre-islamic-indian-thought
+  title: Chapter 1:Pre-Islamic Indian Thought
+  slug: 3-chapter-1-pre-islamic-indian-thought
+  uuid: 445c4251-c160-4557-87c2-62b9f0857dab
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-1/chapter-2-pre-islamic-chinese-thought
+  title: 'Chapter 2: Pre-Islamic Chinese Thought'
+  slug: 4-chapter-2-pre-islamic-chinese-thought
+  uuid: 06945ab5-15da-421f-bdf3-2b9b5995877e
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-1/chapter-3-pre-islamic-iranian-thought
+  title: 'Chapter 3: Pre-Islamic Iranian Thought'
+  slug: 5-chapter-3-pre-islamic-iranian-thought
+  uuid: e1b6bf46-0c57-42fa-a9f0-e1cd603c794f
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-1/chapter-4-greek-thought
+  title: 'Chapter 4: Greek Thought'
+  slug: 6-chapter-4-greek-thought
+  uuid: aec4565e-a650-48bb-85ef-fa859c965b7b
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-1/chapter-5-alexandrio-syriac-thought
+  title: 'Chapter 5: Alexandrio Syriac Thought'
+  slug: 7-chapter-5-alexandrio-syriac-thought
+  uuid: 93186c77-c4c4-490b-bf3e-62654a8c4e4a
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-1/chapter-6-pre-islamic-arabian-thought
+  title: 'Chapter 6: Pre Islamic Arabian Thought'
+  slug: 8-chapter-6-pre-islamic-arabian-thought
+  uuid: 3d11c156-dc24-4799-bb02-9b5c8b1f95ae
+---

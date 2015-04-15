@@ -1,0 +1,89 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/slavery-from-islamic-and-christian-perspective-sayyid-akhtar-rizvi
+author: Sayyid Saeed Akhtar Rizvi
+publisher: Vancouver Islamic Educational Foundation
+title: Slavery
+slug: slavery
+uuid: bc008365-a400-42d5-8f17-edcdd5f0c068
+description: |
+  Slavery in ancient times, Christianity and slavery, Islam attacks
+  slavery, slaves in the history of Islam, the Negro slavery, and the
+  abolition of slavery.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/slavery-from-islamic-and-christian-perspective-sayyid-akhtar-rizvi/prefaces
+  title: Prefaces
+  slug: 1-prefaces
+  uuid: b318e8f9-59f8-4d05-bb4e-0b00d05e3fb0
+- source: :alislam
+  source_url: http://www.al-islam.org/slavery-from-islamic-and-christian-perspective-sayyid-akhtar-rizvi/slavery-ancient-times
+  title: Slavery in Ancient Times
+  slug: 2-slavery-in-ancient-times
+  uuid: 2e8bad71-6906-49cb-9afa-fbe5cd7b6233
+- source: :alislam
+  source_url: http://www.al-islam.org/slavery-from-islamic-and-christian-perspective-sayyid-akhtar-rizvi/christianity-and-slavery
+  title: Christianity and Slavery
+  slug: 3-christianity-and-slavery
+  uuid: 0196cd71-97d1-4ae0-9e14-e907201c3704
+- source: :alislam
+  source_url: http://www.al-islam.org/slavery-from-islamic-and-christian-perspective-sayyid-akhtar-rizvi/islam-attacks-slavery
+  title: Islam Attacks Slavery
+  slug: 4-islam-attacks-slavery
+  uuid: 769ac709-e8c2-4e12-be69-aa47065d5990
+- source: :alislam
+  source_url: http://www.al-islam.org/slavery-from-islamic-and-christian-perspective-sayyid-akhtar-rizvi/slaves-history-islam
+  title: Slaves in the History of Islam
+  slug: 5-slaves-in-the-history-of-islam
+  uuid: 81a13737-f8ed-4209-b6de-cd84ec6a727b
+- source: :alislam
+  source_url: http://www.al-islam.org/slavery-from-islamic-and-christian-perspective-sayyid-akhtar-rizvi/origin-negro-slavery
+  title: The Origin of Negro Slavery
+  slug: 6-the-origin-of-negro-slavery
+  uuid: e8fb9c17-b1fa-4ae5-a827-71d045c4cfb8
+- source: :alislam
+  source_url: http://www.al-islam.org/slavery-from-islamic-and-christian-perspective-sayyid-akhtar-rizvi/christians-organise-slave-trade
+  title: Christians Organise Slave-Trade
+  slug: 7-christians-organise-slave-trade
+  uuid: c833e25d-c41d-4ad4-a239-1547b13844e8
+- source: :alislam
+  source_url: http://www.al-islam.org/slavery-from-islamic-and-christian-perspective-sayyid-akhtar-rizvi/east-african-slave-trade
+  title: East African Slave-Trade
+  slug: 8-east-african-slave-trade
+  uuid: 85f6568a-b473-4cff-bb39-fa92d1810394
+- source: :alislam
+  source_url: http://www.al-islam.org/slavery-from-islamic-and-christian-perspective-sayyid-akhtar-rizvi/sufferings-slaves
+  title: Sufferings of Slaves
+  slug: 9-sufferings-of-slaves
+  uuid: 87f61849-61f9-4458-87ca-010bd1720197
+- source: :alislam
+  source_url: http://www.al-islam.org/slavery-from-islamic-and-christian-perspective-sayyid-akhtar-rizvi/churches-participate-slave-trade
+  title: Churches Participate in Slave-Trade
+  slug: 10-churches-participate-in-slave-trade
+  uuid: 4d287711-3b47-4abb-ae0a-299658ad1997
+- source: :alislam
+  source_url: http://www.al-islam.org/slavery-from-islamic-and-christian-perspective-sayyid-akhtar-rizvi/why-slavery-was-abolished
+  title: Why Slavery Was Abolished
+  slug: 11-why-slavery-was-abolished
+  uuid: a9630b0a-b558-4045-a939-6800f47b48cd
+- source: :alislam
+  source_url: http://www.al-islam.org/slavery-from-islamic-and-christian-perspective-sayyid-akhtar-rizvi/hypocricy-abolitionists
+  title: Hypocricy of the Abolitionists
+  slug: 12-hypocricy-of-the-abolitionists
+  uuid: 7398d920-1f9b-4659-ab0e-1687e83b72f7
+- source: :alislam
+  source_url: http://www.al-islam.org/slavery-from-islamic-and-christian-perspective-sayyid-akhtar-rizvi/was-american-civil-war-emancipate
+  title: Was American Civil War to Emancipate The Slaves
+  slug: 13-was-american-civil-war-to-emancipate-the-slaves
+  uuid: 5c0b3364-41b9-4efd-b2e5-5425bbcf513c
+- source: :alislam
+  source_url: http://www.al-islam.org/slavery-from-islamic-and-christian-perspective-sayyid-akhtar-rizvi/territorial-slavery
+  title: Territorial Slavery
+  slug: 14-territorial-slavery
+  uuid: 0d499082-dbdc-4c2e-8426-4ebe2a289fa6
+- source: :alislam
+  source_url: http://www.al-islam.org/slavery-from-islamic-and-christian-perspective-sayyid-akhtar-rizvi/postscript
+  title: Postscript
+  slug: 15-postscript
+  uuid: 9c5915e2-488f-4d91-9931-8c5eba5e8212
+---

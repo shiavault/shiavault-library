@@ -1,0 +1,45 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/revealer-messenger-message-sayyid-muhammad-baqir-al-sadr
+author: Sayyid Muhammad Baqir al-Sadr
+publisher: World Organization for Islamic Services ( WOFIS)
+translator: Dr. Mahmoud M. Ayoub
+title: The Revealer, The Messenger, The Message
+slug: the-revealer-the-messenger-the-message
+uuid: 00987804-a0a6-48d9-9b21-c1facf068428
+description: |
+  Belief in God, His existence, and His attributes. Belief in the
+  Messenger Prophet Muhammad (s) and in prophethood. Belief in the message
+  Islam.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/revealer-messenger-message-sayyid-muhammad-baqir-al-sadr/publishers-preface
+  title: Publishers Preface
+  slug: 1-publishers-preface
+  uuid: 4e2f1bcf-d290-4400-8170-9514adf47f8e
+- source: :alislam
+  source_url: http://www.al-islam.org/revealer-messenger-message-sayyid-muhammad-baqir-al-sadr/authors-foreword
+  title: Author's Foreword
+  slug: 2-author-s-foreword
+  uuid: 8dd1f446-9797-4240-bb56-39c93b96d667
+- source: :alislam
+  source_url: http://www.al-islam.org/revealer-messenger-message-sayyid-muhammad-baqir-al-sadr/part-1-revealer
+  title: Part 1 - The Revealer
+  slug: 3-part-1-the-revealer
+  uuid: 0c8145a0-b7cd-4598-9c45-7490825249b4
+- source: :alislam
+  source_url: http://www.al-islam.org/revealer-messenger-message-sayyid-muhammad-baqir-al-sadr/part-2-messenger
+  title: 'Part 2: The Messenger'
+  slug: 4-part-2-the-messenger
+  uuid: 40768a64-9ed4-466b-ba1a-f30ef917b188
+- source: :alislam
+  source_url: http://www.al-islam.org/revealer-messenger-message-sayyid-muhammad-baqir-al-sadr/part-3-message
+  title: 'Part 3: The Message'
+  slug: 5-part-3-the-message
+  uuid: e7f4fe0f-37a6-406c-9cf9-590659bed66e
+- source: :alislam
+  source_url: http://www.al-islam.org/revealer-messenger-message-sayyid-muhammad-baqir-al-sadr/glossary
+  title: Glossary
+  slug: 6-glossary
+  uuid: f55cd8b6-9591-499c-9b96-8b0e41327823
+---

@@ -1,0 +1,126 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini
+author: Sayyid Moustafa Al-Qazwini
+publisher: The Islamic Educational Center of Orange County
+title: Inquiries About Shi'a Islam
+slug: inquiries-about-shi-a-islam
+uuid: 088c1520-2225-4221-956e-959e7a2d8664
+description: |
+  An excellent introduction to the major doctrines of Shi'i Islam,
+  including an explanation of the Ahlul Bayt, infallibility, intercession,
+  dissimulation, companions and wives of the Prophet, and other schools of
+  Islamic thought.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini/about-author
+  title: About the Author
+  slug: 1-about-the-author
+  uuid: 6f1c2e43-2e68-4365-b463-0a245acbc5d5
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 1c390b0f-b81d-478e-8852-d5de9cecc21a
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini/introduction-second-edition
+  title: Introduction to Second Edition
+  slug: 3-introduction-to-second-edition
+  uuid: ee03d6f9-7de2-4e80-a984-5d90503e1df0
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini/who-are-the-shia
+  title: Who are the Shi‘a?
+  slug: 4-who-are-the-shi-a
+  uuid: ccc64688-7f55-40aa-b555-addfe5842ff2
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini/five-schools-islamic-thought
+  title: The Five Schools of Islamic Thought
+  slug: 5-the-five-schools-of-islamic-thought
+  uuid: 0a959697-e3ec-416b-85a3-c9219f30f878
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini/imamah
+  title: Imamah
+  slug: 6-imamah
+  uuid: a84cb273-157e-4444-bb89-b35f0dcb05f9
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini/seven-categories-verses-allahs-government-quran
+  title: Seven Categories of Verses of Allah’s Government in the Qur’an
+  slug: 7-seven-categories-of-verses-of-allah-s-government-in-the-qur-an
+  uuid: a471cdcf-195f-4ba2-900c-2157f353f3fb
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini/imam-ali-ibn-abi-talib
+  title: Imam ‘Ali ibn Abi Talib
+  slug: 8-imam-ali-ibn-abi-talib
+  uuid: f8d099bf-7859-44eb-8fd6-1268a010cdc8
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini/ahlul-bayt
+  title: The Ahlul Bayt
+  slug: 9-the-ahlul-bayt
+  uuid: c7df6b27-4d18-4989-b1a6-65d634b67d1e
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini/infallibility
+  title: Infallibility
+  slug: 10-infallibility
+  uuid: 086dac66-058f-46e9-b2dd-55aee0028417
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini/intercession-shafaah
+  title: Intercession (Shafa‘ah)
+  slug: 11-intercession-shafa-ah
+  uuid: 8a6dfef9-cb83-4d7d-8051-2bf0b03a9de0
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini/calling-upon-prophet-and-imams-help
+  title: Calling Upon the Prophet and Imams for Help
+  slug: 12-calling-upon-the-prophet-and-imams-for-help
+  uuid: fbd91913-d7b3-49fb-b631-c3bd24a0da12
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini/imam-al-mahdi
+  title: Imam al-Mahdi
+  slug: 13-imam-al-mahdi
+  uuid: 79e771ca-692d-419f-a480-2a360e7c312c
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini/dissimulation-taqiyyah
+  title: Dissimulation (Taqiyyah)
+  slug: 14-dissimulation-taqiyyah
+  uuid: f03aab31-d77e-4b3c-a8f5-a2900f87dd59
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini/seeing-allah-ruyat-allah
+  title: Seeing Allah (Ru’yat Allah)
+  slug: 15-seeing-allah-ru-yat-allah
+  uuid: 4057e3c9-a247-4cf8-ba2b-78a77f7b42da
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini/prayers-upon-prophet-salat-ala-an-nabi
+  title: The Prayers Upon the Prophet (Salat ‘ala an-Nabi)
+  slug: 16-the-prayers-upon-the-prophet-salat-ala-an-nabi
+  uuid: cc52882e-0f8d-4030-aee1-387c4a317a72
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini/issues-pertaining-practice-prayers
+  title: Issues Pertaining to the Practice of the Prayers
+  slug: 17-issues-pertaining-to-the-practice-of-the-prayers
+  uuid: a70511a3-6645-403c-855f-5cc3195624a2
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini/companions-prophet
+  title: Companions of the Prophet
+  slug: 18-companions-of-the-prophet
+  uuid: 6ff968e1-e860-42f0-8583-27f2baa6ea23
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini/differences-and-misunderstandings-between-shia-other-schools
+  title: Differences and Misunderstandings between the Shi‘a and the Other Schools
+    of Thought
+  slug: 19-differences-and-misunderstandings-between-the-shi-a-and-the-other-schools-of-thought
+  uuid: 98a2a5d1-fd8a-4407-be39-06548469cc5d
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini/conclusion-call-muslim-unity
+  title: 'Conclusion: A Call for Muslim Unity'
+  slug: 20-conclusion-a-call-for-muslim-unity
+  uuid: d8aeb80e-2e91-4993-b0e8-99ff75685ec6
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini/references
+  title: References
+  slug: 21-references
+  uuid: ab39bcde-803a-4670-a5d2-e93d9f77ae94
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-shia-islam-sayyid-moustafa-al-qazwini/glossary
+  title: Glossary
+  slug: 22-glossary
+  uuid: f4dcd799-26f8-49ff-872b-bf55cdb6adb6
+---

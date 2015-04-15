@@ -1,0 +1,189 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib
+author: Ayatullah Sayyid Abdul Husayn Dastghaib Shirazi
+publisher: Ansariyan Publications - Qum
+translator: Syed Athar Husain S.H. Rizvi
+title: 'Heart of the Qur''an: A Commentary to Sura al Yasin'
+slug: heart-of-the-qur-an-a-commentary-to-sura-al-yasin
+uuid: 907a4ba6-5ed3-4de1-85cb-6c7ae3d6b6f0
+description: |
+  A detailed tafsir (exegesis) on Surah Yasin by Ayatullah Dastaghaib
+  Shirazi.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 3a02f355-3a2d-4ca9-bfbc-417878c5cc0e
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: e949a7eb-ccfd-4f62-bd1d-a5d73a2e3ce1
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-1-4
+  title: Ayat no.  1-4
+  slug: 3-ayat-no-1-4
+  uuid: d15b751c-b9af-4bc8-a034-6a0e10f51bc7
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-5
+  title: Ayat no.  5
+  slug: 4-ayat-no-5
+  uuid: cbf36776-4696-48e1-a6a8-4847f1104326
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-5-9
+  title: Ayat no.  5-9
+  slug: 5-ayat-no-5-9
+  uuid: 6fa02220-ed25-4ecd-9d31-45676ac1298b
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-10-11
+  title: Ayat no.  10-11
+  slug: 6-ayat-no-10-11
+  uuid: d659d093-1aac-489d-829c-9a922e2563cc
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-12
+  title: Ayat no.  12
+  slug: 7-ayat-no-12
+  uuid: 7d7c170b-dc6a-49f7-aa11-5ba4adc65245
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-13-15
+  title: Ayat no.  13-15
+  slug: 8-ayat-no-13-15
+  uuid: c3f647de-db85-4100-8365-2d336b3ae546
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-18-21
+  title: Ayat 18-21
+  slug: 9-ayat-18-21
+  uuid: cae40013-3481-4d5a-85fe-29fe4cda8f12
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-20-21
+  title: Ayat no.  20-21
+  slug: 10-ayat-no-20-21
+  uuid: bec88807-fe11-43f3-ad50-5e2578b05a42
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-22-23
+  title: Ayat no.  22-23
+  slug: 11-ayat-no-22-23
+  uuid: 388fc9aa-929f-45b2-9817-2c22419b5f06
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-26-27
+  title: Ayat no.  26-27
+  slug: 12-ayat-no-26-27
+  uuid: 838d9d24-9ac1-4962-a981-2ce35397d1a2
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-26-29
+  title: Ayat no.  26-29
+  slug: 13-ayat-no-26-29
+  uuid: 8a3911c6-90f1-4a1f-b241-06db30c0d488
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-30-31
+  title: Ayat no.  30-31
+  slug: 14-ayat-no-30-31
+  uuid: d2cc81f5-d5c6-4194-99e0-b465ea97441f
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-32-25
+  title: Ayat no.  32-25
+  slug: 15-ayat-no-32-25
+  uuid: ea94bbd0-1aee-4490-97fd-b4c80c5a3190
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-33-35
+  title: Ayat no.  33-35
+  slug: 16-ayat-no-33-35
+  uuid: 8121621c-ab3e-40fe-b0e0-8465f4e9d495
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-36-38
+  title: Ayat no.  36-38
+  slug: 17-ayat-no-36-38
+  uuid: e607bae7-0d1f-42cb-8411-eca01d31ce70
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-41-44
+  title: Ayat no.  41-44
+  slug: 18-ayat-no-41-44
+  uuid: 620d9b50-a5f0-4ade-985c-a7085f258c13
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-45-52
+  title: Ayat no.  45-52
+  slug: 19-ayat-no-45-52
+  uuid: 2c200ed1-2057-4e49-ae75-4a3a9ae22e19
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-53-57
+  title: Ayat no.  53-57
+  slug: 20-ayat-no-53-57
+  uuid: cb25d7d2-1931-4a11-9aee-ed70fd016852
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-58-59
+  title: Ayat no.  58-59
+  slug: 21-ayat-no-58-59
+  uuid: 655ff554-b6c0-457c-afba-6b8f1f5fda89
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-60-61
+  title: Ayat no.  60-61
+  slug: 22-ayat-no-60-61
+  uuid: 7be995b7-7e8a-4ffd-9880-df1284660f58
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-60-63
+  title: Ayat no.  60-63
+  slug: 23-ayat-no-60-63
+  uuid: b5bd1ca0-3a83-4994-8c25-a9c2cd94413d
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-61-62
+  title: Ayat no.  61-62
+  slug: 24-ayat-no-61-62
+  uuid: 8ab268c6-d72b-4baf-8d2a-b8cc840cc686
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-63-65
+  title: Ayat no.  63-65
+  slug: 25-ayat-no-63-65
+  uuid: 9f4a0b29-d370-4563-a60c-acf98bb43c89
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-66-67
+  title: Ayat no.  66-67
+  slug: 26-ayat-no-66-67
+  uuid: 6c2be557-238e-4812-a6ab-ab8baeab9889
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-66-68
+  title: Ayat no.  66-68
+  slug: 27-ayat-no-66-68
+  uuid: 29084da0-01ea-472b-86e3-b7ad919fe1b0
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-67-68
+  title: Ayat no.  67-68
+  slug: 28-ayat-no-67-68
+  uuid: b0f9ae42-f5de-4ad2-8213-efa4873a85b4
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-69
+  title: Ayat no.  69
+  slug: 29-ayat-no-69
+  uuid: f5d9bc19-413b-4652-975c-a5fbffc1ba18
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-71-76
+  title: Ayat no.  71-76
+  slug: 30-ayat-no-71-76
+  uuid: 22b40802-12ed-4ce1-9cdb-78c25a6cbc2e
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-77
+  title: Ayat no.  77
+  slug: 31-ayat-no-77
+  uuid: 1225a388-171c-48ed-892d-6eee2bc90c9c
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-77-80
+  title: Ayat no.  77-80
+  slug: 32-ayat-no-77-80
+  uuid: 09cd7c58-5edb-407a-8cc8-3ba6ff019cbd
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-78-81
+  title: Ayat no.  78-81
+  slug: 33-ayat-no-78-81
+  uuid: 849d62fa-9b13-4798-9b77-b755e94d0b95
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/ayat-no-82-83
+  title: Ayat no.  82-83
+  slug: 34-ayat-no-82-83
+  uuid: 75468ac7-7983-457d-a4fe-3b387c740d23
+- source: :alislam
+  source_url: http://www.al-islam.org/the-heart-of-the-quran-commentary-of-sura-yasin-ayatullah-dastaghaib/complete-translation-sura-yasin
+  title: Complete Translation of Sura al Yasin
+  slug: 35-complete-translation-of-sura-al-yasin
+  uuid: 5c33f00e-1979-4982-ad56-c7453ac02b17
+---

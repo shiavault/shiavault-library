@@ -1,0 +1,51 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/fatima-zahra-noble-quran-nasir-makarim-shirazi
+author: Ayatullah al-`Uzma al-Hajj ash-Shaykh Nasir Makarim Shirazi
+translator: Shaykh Saleem Bhimji
+title: Fatima Zahra’ in the Noble Qur’an
+slug: fatima-zahra-in-the-noble-qur-an
+uuid: c11121fa-c829-4ce3-961d-bc5feb3e6176
+description: |
+  This text presents an Excerpt from Tafsir Namuna - originally written in
+  Farsi – on the Exegesis of Suratul Insan, Suratul Qadr and Suratul
+  Kawthar, to highlight the some of the verses of the Holy Quran which
+  were revealed in honor of Seyyida Fatima Al Zahra (AS).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-zahra-noble-quran-nasir-makarim-shirazi/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: b98ea39e-f3e9-4d82-9999-8a31a8253f2e
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-zahra-noble-quran-nasir-makarim-shirazi/introduction-translator
+  title: Introduction by the Translator
+  slug: 2-introduction-by-the-translator
+  uuid: fb56a8cf-caf3-4dff-a189-362f688bbb09
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-zahra-noble-quran-nasir-makarim-shirazi/suratul-insan-al-dahr-mankind-or-time
+  title: Suratul Insan (al-Dahr), Mankind or The Time
+  slug: 3-suratul-insan-al-dahr-mankind-or-the-time
+  uuid: 5bfe2454-6244-46a6-aa95-0fac86e357e1
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-zahra-noble-quran-nasir-makarim-shirazi/suratul-qadr-night-ordainment-or-power
+  title: Suratul Qadr, (The Night of) Ordainment or Power
+  slug: 4-suratul-qadr-the-night-of-ordainment-or-power
+  uuid: 56a1bf8f-f228-4ab7-a820-88e9a8f13192
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-zahra-noble-quran-nasir-makarim-shirazi/suratul-kawthar-abundant-good
+  title: Suratul Kawthar, Abundant Good
+  slug: 5-suratul-kawthar-abundant-good
+  uuid: dc6dd9bc-eb2a-40b6-aeba-77d4b529455b
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-zahra-noble-quran-nasir-makarim-shirazi/ziyarah-mistress-women-worlds-lady-fatima-zahra-may
+  title: Ziyarah for the Mistress of the Women of the Worlds, Lady Fatima Zahra’,
+    may Allah’s peace and blessings be upon her
+  slug: 6-ziyarah-for-the-mistress-of-the-women-of-the-worlds-lady-fatima-zahra-may-allah-s-peace-and-blessings-be-upon-her
+  uuid: 5d6d3646-f789-44a4-9cfc-081be5480831
+- source: :alislam
+  source_url: http://www.al-islam.org/fatima-zahra-noble-quran-nasir-makarim-shirazi/other-translations-available-saleem-bhimji
+  title: Other translations available from Saleem Bhimji
+  slug: 7-other-translations-available-from-saleem-bhimji
+  uuid: 5adb66a1-ef48-4f9f-b3c7-3ee25eedd015
+---

@@ -1,0 +1,63 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/human-rights-ayatullah-muhammad-ali-tashkiri
+author: Ayatullah Muhammad Ali Tashkiri
+title: Human Rights
+slug: human-rights
+uuid: 3f93494b-0b84-41fb-b7c2-500fe76b4e89
+description: |
+  This text authored by Ayatullah Tashkiri focuses on human rights and
+  their conceptual development, and compares the texts of the universal
+  and Islamic declaration of human rights.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/human-rights-ayatullah-muhammad-ali-tashkiri/publishers-note
+  title: Publishers Note
+  slug: 1-publishers-note
+  uuid: eb718a6a-753b-4101-8527-ac57f303972c
+- source: :alislam
+  source_url: http://www.al-islam.org/human-rights-ayatullah-muhammad-ali-tashkiri/human-rights-and-their-conceptual-development
+  title: Human Rights and Their Conceptual Development
+  slug: 2-human-rights-and-their-conceptual-development
+  uuid: e31ffe96-7dad-45df-9744-511d7c119a88
+- source: :alislam
+  source_url: http://www.al-islam.org/human-rights-ayatullah-muhammad-ali-tashkiri/text-universal-declaration-human-rights
+  title: Text of the ‘Universal Declaration of Human Rights’
+  slug: 3-text-of-the-universal-declaration-of-human-rights
+  uuid: 3fdd816c-383e-4977-a07a-fed36f90fc26
+- source: :alislam
+  source_url: http://www.al-islam.org/human-rights-ayatullah-muhammad-ali-tashkiri/text-islamic-declaration-human-rights
+  title: Text of the Islamic Declaration Of Human Rights
+  slug: 4-text-of-the-islamic-declaration-of-human-rights
+  uuid: 4f26c5ec-efab-492d-b3e4-3342bd74e6ea
+- source: :alislam
+  source_url: http://www.al-islam.org/human-rights-ayatullah-muhammad-ali-tashkiri/comparison-between-rights-islamic-and-universal
+  title: Comparison between the Rights in the Islamic and the Universal Declarations
+  slug: 5-comparison-between-the-rights-in-the-islamic-and-the-universal-declarations
+  uuid: d1bb5011-24b2-40ba-9a1c-c2520124b04f
+- source: :alislam
+  source_url: http://www.al-islam.org/human-rights-ayatullah-muhammad-ali-tashkiri/foundations-human-rights-islam-and-universal
+  title: Foundations of Human Rights in Islam and the Universal Declaration
+  slug: 6-foundations-of-human-rights-in-islam-and-the-universal-declaration
+  uuid: 53ef4a14-669f-4924-8e95-298f4a6085e3
+- source: :alislam
+  source_url: http://www.al-islam.org/human-rights-ayatullah-muhammad-ali-tashkiri/essential-differences-human-rights-two-declarations
+  title: Essential Differences in Human Rights in the two Declarations
+  slug: 7-essential-differences-in-human-rights-in-the-two-declarations
+  uuid: e2d66989-8464-43bb-b7ba-d4c925670d8f
+- source: :alislam
+  source_url: http://www.al-islam.org/human-rights-ayatullah-muhammad-ali-tashkiri/shortfalls-universal-declaration
+  title: Shortfalls in the Universal Declaration
+  slug: 8-shortfalls-in-the-universal-declaration
+  uuid: ad2ac347-9ace-4fef-b884-b2e44635e34f
+- source: :alislam
+  source_url: http://www.al-islam.org/human-rights-ayatullah-muhammad-ali-tashkiri/human-rights-theory-and-practice-past-and-present
+  title: Human Rights in Theory and Practice in the Past and Present
+  slug: 9-human-rights-in-theory-and-practice-in-the-past-and-present
+  uuid: 18413e30-b117-46cc-a014-278799c28975
+- source: :alislam
+  source_url: http://www.al-islam.org/human-rights-ayatullah-muhammad-ali-tashkiri/summing
+  title: Summing Up
+  slug: 10-summing-up
+  uuid: fafdb1c2-83cc-47da-a7d9-0e1c43a2d5c6
+---

@@ -1,0 +1,80 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/new-analysis-wahhabi-doctrines-muhammad-husayn-ibrahimi
+author: Muhammad Husayn Ibrahimi
+publisher: ABWA Publishing and Printing Center
+translator: Mansoor Limba
+title: A New Analysis of Wahhabi Doctrines
+slug: a-new-analysis-of-wahhabi-doctrines
+uuid: 2c7457c8-c3f3-4d8f-aad0-4e907f52af6f
+description: |
+  A text that examines fundamental Wahhabi beliefs in comparison to those
+  of the Ahlus Sunnah and the Shi\`ah. Topics discussed within include a
+  summarized account of the life of Shaykh Muhammad ibn Abd al-Wahhab, one
+  of the prominent figures of this movement, and some of the major
+  ideological issues in which Wahhabis deviate from mainstream Muslims
+  (like Tawassul, Ziyarah, Ta'wil of the Qur'an, etc.).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/new-analysis-wahhabi-doctrines-muhammad-husayn-ibrahimi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: e2a3c269-568b-49c3-81de-593f86212c2b
+- source: :alislam
+  source_url: http://www.al-islam.org/new-analysis-wahhabi-doctrines-muhammad-husayn-ibrahimi/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: fa83b1ef-63b6-47c1-a17e-6ab4d39d452d
+- source: :alislam
+  source_url: http://www.al-islam.org/new-analysis-wahhabi-doctrines-muhammad-husayn-ibrahimi/islam-school-unity
+  title: Islam as the School of Unity
+  slug: 3-islam-as-the-school-of-unity
+  uuid: 11fabd5d-7c0e-40d5-9785-73b5e30d3cb1
+- source: :alislam
+  source_url: http://www.al-islam.org/new-analysis-wahhabi-doctrines-muhammad-husayn-ibrahimi/life-account-shaykh-ibn-%E2%80%98abd-al-wahhab-and
+  title: The Life Account of Shaykh Ibn ‘Abd al-Wahhab and Ibn Sa‘ud
+  slug: 4-the-life-account-of-shaykh-ibn-abd-al-wahhab-and-ibn-sa-ud
+  uuid: 476d6caa-d2ab-41d8-92bf-ac1f2fec4ce1
+- source: :alislam
+  source_url: http://www.al-islam.org/new-analysis-wahhabi-doctrines-muhammad-husayn-ibrahimi/tawhid-shiah-and-wahhabi-points-view
+  title: Tawhid from the Shi`ah and Wahhabi Points of View
+  slug: 5-tawhid-from-the-shi-ah-and-wahhabi-points-of-view
+  uuid: 7afcb488-359c-473f-884e-004eb02a63bc
+- source: :alislam
+  source_url: http://www.al-islam.org/new-analysis-wahhabi-doctrines-muhammad-husayn-ibrahimi/tawassul-resorting-inter-mediation-death-and
+  title: Tawassul {Resorting To Inter mediation}, Death and Shafa‘Ah {Intercession}
+    According to the Shi`ah and the Wahhabis
+  slug: 6-tawassul-resorting-to-inter-mediation-death-and-shafa-ah-intercession-according-to-the-shi-ah-and-the-wahhabis
+  uuid: 36b05553-b437-440b-a11d-b6048ae8109a
+- source: :alislam
+  source_url: http://www.al-islam.org/new-analysis-wahhabi-doctrines-muhammad-husayn-ibrahimi/ziyarah-visitation-and-laws-pertaining
+  title: Ziyarah {Visitation} and the Laws Pertaining to the Graves and Mosques According
+    to the Shi`ah and Wahhabis
+  slug: 7-ziyarah-visitation-and-the-laws-pertaining-to-the-graves-and-mosques-according-to-the-shi-ah-and-wahhabis
+  uuid: 56dc873a-82e8-4c8b-ac18-5a09197c4714
+- source: :alislam
+  source_url: http://www.al-islam.org/new-analysis-wahhabi-doctrines-muhammad-husayn-ibrahimi/miracles-karamah-saints-god-awliya%E2%80%99-allah
+  title: The Miracles {Karamah} of the Saints of God {Awliya’ Allah}
+  slug: 8-the-miracles-karamah-of-the-saints-of-god-awliya-allah
+  uuid: 0c7b30a6-b266-4f9c-9b46-dc25e9d88c6f
+- source: :alislam
+  source_url: http://www.al-islam.org/new-analysis-wahhabi-doctrines-muhammad-husayn-ibrahimi/allegorical-interpretation-ta%E2%80%99wil-qur%E2%80%99
+  title: Allegorical Interpretation {Ta’wil} in the Qur’an
+  slug: 9-allegorical-interpretation-ta-wil-in-the-qur-an
+  uuid: 6ba0110e-623a-48de-a935-df23848b72d7
+- source: :alislam
+  source_url: http://www.al-islam.org/new-analysis-wahhabi-doctrines-muhammad-husayn-ibrahimi/distortion-tahrif-qur%E2%80%99-traditions-and
+  title: Distortion {Tahrif} in the Qur’an, Traditions and History
+  slug: 10-distortion-tahrif-in-the-qur-an-traditions-and-history
+  uuid: fb5d56a2-c00e-48f1-b48c-15b9a05c1a02
+- source: :alislam
+  source_url: http://www.al-islam.org/new-analysis-wahhabi-doctrines-muhammad-husayn-ibrahimi/absolute-obedience-ruler
+  title: Absolute Obedience to the Ruler
+  slug: 11-absolute-obedience-to-the-ruler
+  uuid: 4be77b83-800e-45e1-931f-6b40158566b4
+- source: :alislam
+  source_url: http://www.al-islam.org/new-analysis-wahhabi-doctrines-muhammad-husayn-ibrahimi/bibliography
+  title: Bibliography
+  slug: 12-bibliography
+  uuid: db3f9169-7266-433f-b258-859571c84203
+---

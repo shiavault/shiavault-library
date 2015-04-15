@@ -1,0 +1,89 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/when-power-and-piety-collide-sayyid-moustafa-al-qazwini
+author: Sayyid Moustafa Al-Qazwini
+title: When Power and Piety Collide
+slug: when-power-and-piety-collide
+uuid: fb2b9d09-4c39-41f4-8563-f8f7c2fc55f2
+description: |
+  An in-depth study and analysis of the early Islamic history and
+  caliphate and personalities of the first three caliphs based on Sunni
+  sources in order to understand the difference between Shi’a and Sunni
+  schools of thought.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/when-power-and-piety-collide-sayyid-moustafa-al-qazwini/prologue
+  title: Prologue
+  slug: 1-prologue
+  uuid: 37bad24c-6af6-4952-8cbf-e33471250909
+- source: :alislam
+  source_url: http://www.al-islam.org/when-power-and-piety-collide-sayyid-moustafa-al-qazwini/acknowledgement
+  title: Acknowledgement
+  slug: 2-acknowledgement
+  uuid: daafcfd8-e889-4d59-9240-d9b4b1e47d88
+- source: :alislam
+  source_url: http://www.al-islam.org/when-power-and-piety-collide-sayyid-moustafa-al-qazwini/dedication
+  title: Dedication
+  slug: 3-dedication
+  uuid: 1af75afd-7a7f-4fd7-ad0b-dd7d7706f0d9
+- source: :alislam
+  source_url: http://www.al-islam.org/when-power-and-piety-collide-sayyid-moustafa-al-qazwini/chapter-1-smashing-idols-tribalism
+  title: 'Chapter 1: Smashing the Idols of Tribalism'
+  slug: 4-chapter-1-smashing-the-idols-of-tribalism
+  uuid: 4c9d2cd8-75ed-4bf9-9a34-2a24a33827d2
+- source: :alislam
+  source_url: http://www.al-islam.org/when-power-and-piety-collide-sayyid-moustafa-al-qazwini/chapter-2-quraysh-group
+  title: 'Chapter 2:  Quraysh Group'
+  slug: 5-chapter-2-quraysh-group
+  uuid: 8f0f7d2e-91b9-431f-834c-f06dfb5aa0a2
+- source: :alislam
+  source_url: http://www.al-islam.org/when-power-and-piety-collide-sayyid-moustafa-al-qazwini/chapter-3-saqifah-union
+  title: 'Chapter 3: The Saqifah Union'
+  slug: 6-chapter-3-the-saqifah-union
+  uuid: 05135a43-f6fc-4e34-b161-653ce0b16146
+- source: :alislam
+  source_url: http://www.al-islam.org/when-power-and-piety-collide-sayyid-moustafa-al-qazwini/chapter-4-political-policies-quraysh
+  title: 'Chapter 4: Political Policies of Quraysh'
+  slug: 7-chapter-4-political-policies-of-quraysh
+  uuid: 2f50b764-51c1-4f57-8d84-435a5fbf1389
+- source: :alislam
+  source_url: http://www.al-islam.org/when-power-and-piety-collide-sayyid-moustafa-al-qazwini/chapter-5-backlash
+  title: 'Chapter 5: Backlash'
+  slug: 8-chapter-5-backlash
+  uuid: c514c48e-ac22-4790-b44d-4d4baac6ebb6
+- source: :alislam
+  source_url: http://www.al-islam.org/when-power-and-piety-collide-sayyid-moustafa-al-qazwini/chapter-6-transition-group
+  title: 'Chapter 6: Transition of the Group'
+  slug: 9-chapter-6-transition-of-the-group
+  uuid: 8cf60362-4136-4506-9f08-75e150f2dd28
+- source: :alislam
+  source_url: http://www.al-islam.org/when-power-and-piety-collide-sayyid-moustafa-al-qazwini/chapter-7-prohibition-transcribing-hadith
+  title: 'Chapter 7: Prohibition of Transcribing the Hadith'
+  slug: 10-chapter-7-prohibition-of-transcribing-the-hadith
+  uuid: 545750cc-8459-47ba-8b43-aa1ee36e1e2e
+- source: :alislam
+  source_url: http://www.al-islam.org/when-power-and-piety-collide-sayyid-moustafa-al-qazwini/chapter-8-legacy-quraysh-hadith
+  title: 'Chapter 8: Legacy of the Quraysh on the Hadith'
+  slug: 11-chapter-8-legacy-of-the-quraysh-on-the-hadith
+  uuid: 9bb6c53c-2d88-4eff-b228-60da25b100e8
+- source: :alislam
+  source_url: http://www.al-islam.org/when-power-and-piety-collide-sayyid-moustafa-al-qazwini/chapter-9-arduous-truth
+  title: 'Chapter 9: Arduous Truth'
+  slug: 12-chapter-9-arduous-truth
+  uuid: 1ee7edb7-fb99-4603-8db6-79157fbb5fef
+- source: :alislam
+  source_url: http://www.al-islam.org/when-power-and-piety-collide-sayyid-moustafa-al-qazwini/chapter-10-ummah-fractures
+  title: 'Chapter 10: The Ummah Fractures'
+  slug: 13-chapter-10-the-ummah-fractures
+  uuid: 7e8f756d-ba67-4930-b9e1-95f7bbd81b9f
+- source: :alislam
+  source_url: http://www.al-islam.org/when-power-and-piety-collide-sayyid-moustafa-al-qazwini/conclusion
+  title: Conclusion
+  slug: 14-conclusion
+  uuid: 307fbf5d-3726-4846-8d95-99b0aa9290d4
+- source: :alislam
+  source_url: http://www.al-islam.org/when-power-and-piety-collide-sayyid-moustafa-al-qazwini/glossary
+  title: Glossary
+  slug: 15-glossary
+  uuid: e7dfa600-64f7-4345-9267-2b65bea51bcf
+---

@@ -1,0 +1,71 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/mushaf-fatimah-abdullah-amini
+author: Abdullah Amini
+publisher: Astan-e Qods Publication
+title: Mushaf Fatimah (a.s)
+slug: mushaf-fatimah-a-s
+uuid: 3ae8901e-449d-449a-9f0c-441691c0c1c5
+description: |
+  A detailed and thoroughly referenced text shedding light on what has
+  been referenced in numerous Shi'a Hadith as "Mushaf Fatimah [a]" and
+  "Mushaf Ali [a]". The author goes into detail regarding the reliability
+  of these narrations and the opinions of our eminent scholars regarding
+  these Masahif.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/mushaf-fatimah-abdullah-amini/translator%E2%80%99s-introduction
+  title: Translator’s Introduction
+  slug: 1-translator-s-introduction
+  uuid: 3e8642ef-8a0f-4780-8de1-922ddce42a61
+- source: :alislam
+  source_url: http://www.al-islam.org/mushaf-fatimah-abdullah-amini/translator%E2%80%99s-note
+  title: Translator’s note
+  slug: 2-translator-s-note
+  uuid: 28ace37c-2eb7-4d6e-9646-efab5776f23a
+- source: :alislam
+  source_url: http://www.al-islam.org/mushaf-fatimah-abdullah-amini/author%E2%80%99s-introduction
+  title: Author’s Introduction
+  slug: 3-author-s-introduction
+  uuid: 1bc7c28f-d60f-4002-8230-2ed29111ad8e
+- source: :alislam
+  source_url: http://www.al-islam.org/mushaf-fatimah-abdullah-amini/what-mushaf-fatimah
+  title: What is Mushaf Fatimah?
+  slug: 4-what-is-mushaf-fatimah
+  uuid: a0df7f0c-0a7e-46de-b603-6c07670177e8
+- source: :alislam
+  source_url: http://www.al-islam.org/mushaf-fatimah-abdullah-amini/mushaf-classical-writings
+  title: Mushaf in classical writings
+  slug: 5-mushaf-in-classical-writings
+  uuid: 31752c31-14ed-422e-816e-0425074a1ae1
+- source: :alislam
+  source_url: http://www.al-islam.org/mushaf-fatimah-abdullah-amini/other-books-lady-fatimah
+  title: Other books by Lady Fatimah (a.s)
+  slug: 6-other-books-by-lady-fatimah-a-s
+  uuid: c79afde3-1fea-4d78-b6bd-94d2ad394a9e
+- source: :alislam
+  source_url: http://www.al-islam.org/mushaf-fatimah-abdullah-amini/reliability-narrations-regarding-mushaf-fatimah
+  title: Reliability of the narrations regarding Mushaf Fatimah
+  slug: 7-reliability-of-the-narrations-regarding-mushaf-fatimah
+  uuid: d531efda-1764-48bf-8056-c80fc0ed03d6
+- source: :alislam
+  source_url: http://www.al-islam.org/mushaf-fatimah-abdullah-amini/regarding-mushaf-its-author-scribe-content-and-size
+  title: 'Regarding the Mushaf: its author, scribe, content and size'
+  slug: 8-regarding-the-mushaf-its-author-scribe-content-and-size
+  uuid: 9d68e126-abd1-4fa2-89a3-2c96939090cf
+- source: :alislam
+  source_url: http://www.al-islam.org/mushaf-fatimah-abdullah-amini/mushaf-fatimah-and-mushaf-companions
+  title: Mushaf Fatimah and the Mushaf of the Companions
+  slug: 9-mushaf-fatimah-and-the-mushaf-of-the-companions
+  uuid: f131038e-eb37-4f8e-b74b-90c2a978eeb1
+- source: :alislam
+  source_url: http://www.al-islam.org/mushaf-fatimah-abdullah-amini/angelic-discourse-those-who-are-not-messengers
+  title: Angelic Discourse With Those Who Are Not Messengers
+  slug: 10-angelic-discourse-with-those-who-are-not-messengers
+  uuid: aa91c26d-d36a-4707-91db-894b3f697c34
+- source: :alislam
+  source_url: http://www.al-islam.org/mushaf-fatimah-abdullah-amini/inquiries-regarding-mushaf
+  title: Inquiries regarding the Mushaf
+  slug: 11-inquiries-regarding-the-mushaf
+  uuid: f1db2e2d-3c98-4663-a2ef-29b034610b25
+---

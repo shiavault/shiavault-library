@@ -1,0 +1,28 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/tranquil-heart
+translator: M Raza
+title: Tranquil Heart
+slug: tranquil-heart
+uuid: de834531-d83d-4721-a734-5a6e8b8e9d8d
+description: |
+  43 recollections of Imam Khomeini relating to prayers (salaat) by
+  individuals who spent time with him. The incidents emphasize the
+  importance and love which the Imam gave to the Salaat.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/tranquil-heart/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 9f78dfcb-1c77-41f2-95a3-81d8f1ea74b5
+- source: :alislam
+  source_url: http://www.al-islam.org/tranquil-heart/recollections
+  title: Recollections
+  slug: 2-recollections
+  uuid: d9b4a420-f7db-4810-8c46-c356692c01d5
+- source: :alislam
+  source_url: http://www.al-islam.org/tranquil-heart/glossary
+  title: Glossary
+  slug: 3-glossary
+  uuid: 8f58e646-31ab-4dfb-a8b8-0b1a78c7ca68
+---

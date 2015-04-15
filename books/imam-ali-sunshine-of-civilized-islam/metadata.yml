@@ -1,0 +1,44 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/imam-ali-sunshine-civilized-islam-muhammad-husayn-tahmasebi
+author: Muhammad Husayn Tahmasebi
+publisher: Ansariyan Publications - Qum
+title: Imam ‘Ali Sunshine of Civilized Islam
+slug: imam-ali-sunshine-of-civilized-islam
+uuid: dbe23074-f441-4981-8b36-54c6671a189f
+description: |
+  This text presents Imam Ali's accomplishments and role during and after
+  the life of the Holy Prophet (S). It describes his humane qualities and
+  virtues.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ali-sunshine-civilized-islam-muhammad-husayn-tahmasebi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 65459949-db0c-4da2-aee7-9ea90183d497
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ali-sunshine-civilized-islam-muhammad-husayn-tahmasebi/self-denial-and-piety
+  title: Self-Denial And Piety
+  slug: 2-self-denial-and-piety
+  uuid: e30ef121-8740-4ae4-84b6-ef9a2d50dbc7
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ali-sunshine-civilized-islam-muhammad-husayn-tahmasebi/advent-islam-and-role-imam-ali
+  title: Advent of Islam and the Role of Imam ‘Ali (as)
+  slug: 3-advent-of-islam-and-the-role-of-imam-ali-as
+  uuid: a71c556d-93db-47d8-84cb-13c9febfcf39
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ali-sunshine-civilized-islam-muhammad-husayn-tahmasebi/humane-qualities-imam-ali
+  title: The Humane Qualities Of Imam ‘Ali (as)
+  slug: 4-the-humane-qualities-of-imam-ali-as
+  uuid: 57c270a4-b589-4844-a926-c3d35a070258
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ali-sunshine-civilized-islam-muhammad-husayn-tahmasebi/how-and-which-way-can-we-reach-truth
+  title: How And By Which Way Can We Reach The Truth Of Islam?
+  slug: 5-how-and-by-which-way-can-we-reach-the-truth-of-islam
+  uuid: 677ef322-f8df-4607-9de7-c0ed84c44bf8
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-ali-sunshine-civilized-islam-muhammad-husayn-tahmasebi/reference-books
+  title: Reference Books
+  slug: 6-reference-books
+  uuid: cef5a9bf-e2cc-48d4-9b73-41760816bade
+---

@@ -1,0 +1,82 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islam-and-contemporary-man-muhammad-husayn-tabatabai
+author: Allamah Sayyid Muhammad Husayn at-Tabataba'i
+publisher: ABWA Publishing and Printing Center
+translator: Dawud Sodagar
+title: Islam and the Contemporary Man
+slug: islam-and-the-contemporary-man
+uuid: 354c5a2f-27d0-4eaa-8e62-b76fa70901c5
+description: |
+  This text titled "Islam and the Contemporary Man" discusses how Islam is
+  a universal religion that can be applied in the modern day. Key topics
+  and questions are addressed such as nature of man, philosophical and
+  scientific problems, creation and resurrection, and essence of
+  existence.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-contemporary-man-muhammad-husayn-tabatabai/transliteration-symbols
+  title: Transliteration Symbols
+  slug: 1-transliteration-symbols
+  uuid: e03fa5dc-43e8-4075-a2ed-156fac46ce67
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-contemporary-man-muhammad-husayn-tabatabai/foreword
+  title: Foreword
+  slug: 2-foreword
+  uuid: 61981991-2c05-4408-951b-8b46120d9dcd
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-contemporary-man-muhammad-husayn-tabatabai/chapter-1-way-primordial-human-nature-fitrah
+  title: 'Chapter 1: The Way of the Primordial Human Nature [Fitrah]'
+  slug: 3-chapter-1-the-way-of-the-primordial-human-nature-fitrah
+  uuid: 6cce32c0-e2e3-48c2-9740-47a4e4c034d7
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-contemporary-man-muhammad-husayn-tabatabai/chapter-2-some-philosophic-and-scientific
+  title: 'Chapter 2: Some Philosophic and Scientific Problems'
+  slug: 4-chapter-2-some-philosophic-and-scientific-problems
+  uuid: 48e7344b-17f1-46ab-b272-65ebb6c7dbab
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-contemporary-man-muhammad-husayn-tabatabai/chapter-3-creation-and-resurrection
+  title: 'Chapter 3: Creation and Resurrection'
+  slug: 5-chapter-3-creation-and-resurrection
+  uuid: ee3b9ce7-24d8-486f-9cac-93210308a50b
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-contemporary-man-muhammad-husayn-tabatabai/chapter-4-miscellaneous-questions
+  title: 'Chapter 4: Miscellaneous Questions'
+  slug: 6-chapter-4-miscellaneous-questions
+  uuid: afef447c-90d8-405a-88fa-485234d7c537
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-contemporary-man-muhammad-husayn-tabatabai/chapter-5-human-origin-and-end
+  title: 'Chapter 5: Human Origin and End'
+  slug: 7-chapter-5-human-origin-and-end
+  uuid: 459119b2-f663-43a8-b3e4-2b1dea19efef
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-contemporary-man-muhammad-husayn-tabatabai/chapter-6-divine-knowledge-possessed-prophet
+  title: 'Chapter 6: Divine Knowledge Possessed By the Prophet and the Imams'
+  slug: 8-chapter-6-divine-knowledge-possessed-by-the-prophet-and-the-imams
+  uuid: 135901f2-dcca-424e-a3bf-0cd5a4f0e897
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-contemporary-man-muhammad-husayn-tabatabai/chapter-7-refuting-wahhabi-contentions
+  title: 'Chapter 7: Refuting Wahhabi Contentions'
+  slug: 9-chapter-7-refuting-wahhabi-contentions
+  uuid: 1bff2c98-8e77-4284-beff-7841d41807f1
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-contemporary-man-muhammad-husayn-tabatabai/chapter-8-essence-and-existence
+  title: 'Chapter 8: Essence and Existence'
+  slug: 10-chapter-8-essence-and-existence
+  uuid: 20dedb2e-044b-4d5c-8a9a-70f5b7957ccc
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-contemporary-man-muhammad-husayn-tabatabai/chapter-9-miscellaneous-questions
+  title: 'Chapter 9: Miscellaneous Questions'
+  slug: 11-chapter-9-miscellaneous-questions
+  uuid: 1de45b5d-18ca-49e2-a118-1eeff8a155a6
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-contemporary-man-muhammad-husayn-tabatabai/chapter-10-some-quranic-questions
+  title: 'Chapter 10: Some Qur’anic Questions'
+  slug: 12-chapter-10-some-qur-anic-questions
+  uuid: 26435a9c-72d6-4784-9922-cee19b4ed1f4
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-and-contemporary-man-muhammad-husayn-tabatabai/chapter-11-some-objections-and-answers-thereto
+  title: 'Chapter 11: Some Objections and the Answers Thereto'
+  slug: 13-chapter-11-some-objections-and-the-answers-thereto
+  uuid: 02f489a3-7727-491a-95c6-ce82080541f3
+---

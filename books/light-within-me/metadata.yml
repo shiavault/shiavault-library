@@ -1,0 +1,60 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/light-within-me-mutahhari-tabatabai-khomeini
+author: Ayatullah Murtadha MutahhariAllamah Sayyid Muhammad Husayn at-Tabataba'iAyatullah
+  Sayyid Imam Ruhallah al-Musawi al-Khomeini
+publisher: Ansariyan Publications - Qum
+title: Light Within Me
+slug: light-within-me
+uuid: 0ccbfbdc-4213-4da7-85b0-b58fa5247385
+description: |
+  Introduction to Irfan, stages of the spiritual journey, guidance and
+  perfection, Interpretation of Sura al-Hamd, and the Invocation of
+  Sha'baniyah.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/light-within-me-mutahhari-tabatabai-khomeini/preface-allamah-muhammad-husayn-tabatabai
+  title: Preface by Allamah Muhammad Husayn Tabataba’i
+  slug: 1-preface-by-allamah-muhammad-husayn-tabataba-i
+  uuid: 2e15ec47-aa3d-4ebf-ac34-82da72425226
+- source: :alislam
+  source_url: http://www.al-islam.org/light-within-me-mutahhari-tabatabai-khomeini/part-1-introduction-irfan-murtadha-mutahhari
+  title: 'Part 1: An Introduction to Irfan by Shahid Murtadha Mutahhari'
+  slug: 2-part-1-an-introduction-to-irfan-by-shahid-murtadha-mutahhari
+  uuid: 1ba21d3d-2e76-4274-81c0-5606b6aa8da8
+- source: :alislam
+  source_url: http://www.al-islam.org/light-within-me-mutahhari-tabatabai-khomeini/part-2-1-stages-spiritual-journey-allamah-tabatabai
+  title: 'Part 2.1: Stages of Spiritual Journey by Allamah Muhammad Husayn Tabataba’i'
+  slug: 3-part-2-1-stages-of-spiritual-journey-by-allamah-muhammad-husayn-tabataba-i
+  uuid: d85b78c0-93de-45b2-972f-68fc3c70ea5a
+- source: :alislam
+  source_url: http://www.al-islam.org/light-within-me-mutahhari-tabatabai-khomeini/part-2-2-twelve-worlds-allamah-tabatabai
+  title: 'Part 2.2: The Twelve Worlds'
+  slug: 4-part-2-2-the-twelve-worlds
+  uuid: c5653857-108b-49d1-9963-fac4db0207ac
+- source: :alislam
+  source_url: http://www.al-islam.org/light-within-me-mutahhari-tabatabai-khomeini/part-2-3-rules-attaining-spiritual-perfection-allamah-tabatabai
+  title: 'Part 2.3: Rules of Attaining Spiritual Perfection'
+  slug: 5-part-2-3-rules-of-attaining-spiritual-perfection
+  uuid: d21325a7-3be0-4bb2-b357-18a5abe3f44b
+- source: :alislam
+  source_url: http://www.al-islam.org/light-within-me-mutahhari-tabatabai-khomeini/part-3-1-interpretation-surah-al-hamd-ayatullah-ruhullah
+  title: 'Part 3.1: Interpretation of Surah al-Hamd by Ayatullah Ruhullah Khumayni'
+  slug: 6-part-3-1-interpretation-of-surah-al-hamd-by-ayatullah-ruhullah-khumayni
+  uuid: 61a01d63-ffe6-4e2c-a333-188a0be3630a
+- source: :alislam
+  source_url: http://www.al-islam.org/light-within-me-mutahhari-tabatabai-khomeini/part-3-2-relationship-between-allah-and-his-creation
+  title: 'Part 3.2: Relationship between Allah and His Creation'
+  slug: 7-part-3-2-relationship-between-allah-and-his-creation
+  uuid: 799cd209-c3a8-4039-b32b-7f735577b90a
+- source: :alislam
+  source_url: http://www.al-islam.org/light-within-me-mutahhari-tabatabai-khomeini/part-3-3-allah-and-his-glory
+  title: 'Part 3.3: Allah and His Glory'
+  slug: 8-part-3-3-allah-and-his-glory
+  uuid: 0f09fd12-b612-4d67-91f9-2334c88135e2
+- source: :alislam
+  source_url: http://www.al-islam.org/light-within-me-mutahhari-tabatabai-khomeini/appendix-invocation-shabaniyah
+  title: 'Appendix: The Invocation of Shabaniyah'
+  slug: 9-appendix-the-invocation-of-shabaniyah
+  uuid: f0782da7-9183-4f8d-8302-4b29f92b5463
+---

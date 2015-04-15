@@ -1,0 +1,54 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/twelve-successors-holy-prophet-sayyid-murtada-al-askari
+author: Sayyid Murtada al-'Askari
+publisher: World Islamic Network (WIN)
+translator: Al-Qalam Translators and Writers Bureau
+title: The Twelve Successors of the Holy Prophet
+slug: the-twelve-successors-of-the-holy-prophet
+uuid: 77f5cc8a-a73b-41e6-ab18-eb71ebd7fbd4
+description: |
+  Narrations of the Prophet on the number of Imams, the twelve Imams
+  according to the school of caliphate, brief account of the Imams.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/twelve-successors-holy-prophet-sayyid-murtada-al-askari/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 3c1c6d31-9e07-466a-bcb5-224fecf0d594
+- source: :alislam
+  source_url: http://www.al-islam.org/twelve-successors-holy-prophet-sayyid-murtada-al-askari/narrations-holy-prophet-s-stipulating-number
+  title: Narrations of the Holy Prophet (S) Stipulating the Number of Imams
+  slug: 2-narrations-of-the-holy-prophet-s-stipulating-the-number-of-imams
+  uuid: b1a03e8f-cd90-40ae-bfa3-7c55eb744c92
+- source: :alislam
+  source_url: http://www.al-islam.org/twelve-successors-holy-prophet-sayyid-murtada-al-askari/twelve-imams-old-testament
+  title: The Twelve Imams in the Old Testament
+  slug: 3-the-twelve-imams-in-the-old-testament
+  uuid: 7a81e485-65f6-4c68-9557-7b789e99e047
+- source: :alislam
+  source_url: http://www.al-islam.org/twelve-successors-holy-prophet-sayyid-murtada-al-askari/explanation-narrations
+  title: Explanation of the Narrations
+  slug: 4-explanation-of-the-narrations
+  uuid: 2e349a3a-b557-4356-b7e8-9d38a294f3cb
+- source: :alislam
+  source_url: http://www.al-islam.org/twelve-successors-holy-prophet-sayyid-murtada-al-askari/bewildering-interpretations
+  title: Bewildering Interpretations
+  slug: 5-bewildering-interpretations
+  uuid: 8c2feb55-5df7-4185-86f2-2fba73e9a753
+- source: :alislam
+  source_url: http://www.al-islam.org/twelve-successors-holy-prophet-sayyid-murtada-al-askari/twelve-imams-according-school-caliphate
+  title: The Twelve Imams According to the School of the Caliphate
+  slug: 6-the-twelve-imams-according-to-the-school-of-the-caliphate
+  uuid: 5f898fbf-2a92-42be-acd1-c987a60c3d5b
+- source: :alislam
+  source_url: http://www.al-islam.org/twelve-successors-holy-prophet-sayyid-murtada-al-askari/brief-account-twelve-successors-holy-prophet
+  title: A Brief Account of the Twelve Successors of the Holy Prophet (S)
+  slug: 7-a-brief-account-of-the-twelve-successors-of-the-holy-prophet-s
+  uuid: 104f1cea-2938-46e0-b334-89b35ac83f51
+- source: :alislam
+  source_url: http://www.al-islam.org/twelve-successors-holy-prophet-sayyid-murtada-al-askari/important-advice
+  title: An Important Advice
+  slug: 8-an-important-advice
+  uuid: 5b866ee9-41a8-4a1d-8e79-06602c89a9c8
+---

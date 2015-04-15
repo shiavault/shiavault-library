@@ -1,0 +1,39 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/role-holy-imams-revival-religion-vol-1-murtadha-al-askari
+author: Allamah Sayyid Murtadha Askari
+publisher: Naba Organization
+translator: Michele Ahmadi
+title: The Role of Holy Imams (a.s.) in the Revival of Religion Vol. 1
+slug: the-role-of-holy-imams-a-s-in-the-revival-of-religion-vol-1
+uuid: b0d62477-e503-4ea7-a049-d76c8bf9bae0
+description: |
+  The series of lectures delivered by Allamah Sayyid Murtadha al-Askari on
+  discussion of the principle matters concerning veracious Islam.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/role-holy-imams-revival-religion-vol-1-murtadha-al-askari/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 469de774-80d5-4328-a2a7-bc877f07f826
+- source: :alislam
+  source_url: http://www.al-islam.org/role-holy-imams-revival-religion-vol-1-murtadha-al-askari/chapter-1-islamic-terminology
+  title: 'Chapter 1: Islamic Terminology'
+  slug: 2-chapter-1-islamic-terminology
+  uuid: c82c6249-4acd-405d-a560-33f7ba87b385
+- source: :alislam
+  source_url: http://www.al-islam.org/role-holy-imams-revival-religion-vol-1-murtadha-al-askari/chapter-2-causes-distortions
+  title: 'Chapter 2: Causes of Distortions'
+  slug: 3-chapter-2-causes-of-distortions
+  uuid: 43b9fff2-a651-44b8-8fad-61b6691b69e3
+- source: :alislam
+  source_url: http://www.al-islam.org/role-holy-imams-revival-religion-vol-1-murtadha-al-askari/chapter-3-causes-distortions-i
+  title: 'Chapter 3: Causes of Distortions I'
+  slug: 4-chapter-3-causes-of-distortions-i
+  uuid: 1ca7859e-6657-4e65-9b3c-b6595701f3a2
+- source: :alislam
+  source_url: http://www.al-islam.org/role-holy-imams-revival-religion-vol-1-murtadha-al-askari/chapter-4-causes-distortions-ii
+  title: 'Chapter 4: Causes of Distortions II'
+  slug: 5-chapter-4-causes-of-distortions-ii
+  uuid: 0fd2021d-078b-4386-bc46-18f0e7fb2d48
+---

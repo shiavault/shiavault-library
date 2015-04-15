@@ -1,0 +1,258 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni
+author: Rashid Al-Shartuni
+translator: Hamid Hussein Waqar
+title: Elementary Arabic Morphology 3
+slug: elementary-arabic-morphology-3
+uuid: 740aeeca-fe2e-41e4-b446-a29214451a3d
+description: |
+  A study of Arabic Morphology volume 3. Translated by Hamid Hussein
+  Waqar.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/introduction-morphology
+  title: An Introduction To Morphology
+  slug: 1-an-introduction-to-morphology
+  uuid: b22a379d-48ad-4545-b1de-5f67a6285003
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/preterite-aorist-and-imperative-verbs
+  title: Preterite, Aorist, and Imperative Verbs
+  slug: 2-preterite-aorist-and-imperative-verbs
+  uuid: c315b317-39b3-4aa5-95de-91c946acc89a
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/verbs-and-without-increase-letters-added-their
+  title: Verbs With and Without Increase Letters Added To Their Roots
+  slug: 3-verbs-with-and-without-increase-letters-added-to-their-roots
+  uuid: 8caef2bd-8ce2-46dd-bbe6-3884a896d3e4
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/triliteral-and-quadriliteral-verbs-increase
+  title: Triliteral and Quadriliteral Verbs with Increase Letters
+  slug: 4-triliteral-and-quadriliteral-verbs-with-increase-letters
+  uuid: 74896670-d72f-4a40-a6ed-4582c08860d9
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/sound-and-unsound-verbs
+  title: Sound and Unsound Verbs
+  slug: 5-sound-and-unsound-verbs
+  uuid: 86c7af8d-7666-46e9-937d-3a78499295e1
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/transitive-and-intransitive-verbs
+  title: Transitive and Intransitive Verbs
+  slug: 6-transitive-and-intransitive-verbs
+  uuid: 2c04100b-8e88-4aed-9561-d9f7d0ab831b
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/active-and-passive-verbs
+  title: Active and Passive Verbs
+  slug: 7-active-and-passive-verbs
+  uuid: ed483211-9a8d-4117-b7e8-2e09fe21bdc2
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/conjugation-verb-its-pronoun
+  title: Conjugation of A Verb With Its Pronoun
+  slug: 8-conjugation-of-a-verb-with-its-pronoun
+  uuid: 5ffce368-5e85-466d-ba19-5b7a3ca7f706
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/incorporation
+  title: Incorporation
+  slug: 9-incorporation
+  uuid: 386d7f30-114a-4a45-b2bc-ba29236c0b6d
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/weak-letter-transformation
+  title: Weak Letter Transformation
+  slug: 10-weak-letter-transformation
+  uuid: ef3eb242-e5da-4f03-a4dd-6fcc96bd829e
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/writing-hamza
+  title: Writing a Hamza
+  slug: 11-writing-a-hamza
+  uuid: 54d70f57-1473-4dd0-b41f-549aa2f0982b
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/wasl-and-qat%E2%80%9B-hamza
+  title: The wasl and qat‛ hamza
+  slug: 12-the-wasl-and-qat-hamza
+  uuid: dca1f0af-c749-4ed9-80e4-b2031ee48a66
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/non-perfect-verbs
+  title: Non-Perfect Verbs
+  slug: 13-non-perfect-verbs
+  uuid: 6b7dbc11-ab09-4ad1-90c2-b2a3a4dd6a2b
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/emphasis-and-non-emphasis
+  title: Emphasis and Non-Emphasis
+  slug: 14-emphasis-and-non-emphasis
+  uuid: 94fb8fcd-be35-4bf1-89e4-7a2d6956793c
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/conjugation-passive-voice
+  title: The Conjugation of the Passive Voice
+  slug: 15-the-conjugation-of-the-passive-voice
+  uuid: 4f8bfa6b-0b44-4c7a-a6bd-cfe83ff06f2f
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/infinitive
+  title: The Infinitive
+  slug: 16-the-infinitive
+  uuid: ba40b1aa-b5b2-4e33-9f91-00235f98c5f8
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/mimi-infinitive-and-quasi-infinitive-noun
+  title: The Mimi Infinitive and The Quasi-Infinitive Noun
+  slug: 17-the-mimi-infinitive-and-the-quasi-infinitive-noun
+  uuid: 05b06fa4-3df3-446d-9b96-4d91aedba119
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/nomen-vicis-and-nomen-speciei
+  title: The Nomen Vicis And The Nomen Speciei
+  slug: 18-the-nomen-vicis-and-the-nomen-speciei
+  uuid: 1e096113-1ccc-4959-b104-96f6c1c4496a
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/active-and-passive-nouns
+  title: The Active and Passive Nouns
+  slug: 19-the-active-and-passive-nouns
+  uuid: 717959c0-50e0-4fd8-ad86-ad3a6cc23d26
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/epithet
+  title: Epithet
+  slug: 20-epithet
+  uuid: 82baf27c-c23c-4894-8e29-d9d109bb6670
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/comparative-and-superlative-nouns
+  title: Comparative and Superlative Nouns
+  slug: 21-comparative-and-superlative-nouns
+  uuid: 31067d07-48a8-4276-bff2-3d96c8199cfb
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/exaggerated-forms
+  title: The Exaggerated Forms
+  slug: 22-the-exaggerated-forms
+  uuid: d4ae9a6d-f6e4-493d-9699-c10d35303a03
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/adverbial-nouns-place-and-time-and-instrumental
+  title: Adverbial Nouns of Place and Time and Instrumental Nouns
+  slug: 23-adverbial-nouns-of-place-and-time-and-instrumental-nouns
+  uuid: ab061cd5-ca10-4521-86a2-54258ea378e1
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/structure-noun
+  title: The Structure of a Noun
+  slug: 24-the-structure-of-a-noun
+  uuid: 1c63ff47-ae7c-4e55-9d32-5843449f2fe7
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/rules-pertaining-dual-form
+  title: Rules Pertaining to the Dual Form
+  slug: 25-rules-pertaining-to-the-dual-form
+  uuid: 39df7586-146a-4232-9463-66e5de180a11
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/sound-masculine-plural
+  title: Sound Masculine Plural
+  slug: 26-sound-masculine-plural
+  uuid: c3bce843-8b9e-468c-af56-37dc49a5f253
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/sound-feminine-plural
+  title: Sound Feminine Plural
+  slug: 27-sound-feminine-plural
+  uuid: ae33f674-e813-4667-87cd-aad7a875a9d0
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/broken-plurals
+  title: Broken Plurals
+  slug: 28-broken-plurals
+  uuid: f9576c9a-5ec5-4d34-a047-88c7eabcc705
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/rules-broken-plurals
+  title: Rules of Broken Plurals
+  slug: 29-rules-of-broken-plurals
+  uuid: 31f193ab-9921-4e74-b4e2-50bf018c4ea7
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/nouns-and-epithets
+  title: Nouns and Epithets
+  slug: 30-nouns-and-epithets
+  uuid: 607455f5-7f52-4f26-800e-91e5d78aef9b
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/generic-and-proper-nouns
+  title: Generic and Proper Nouns
+  slug: 31-generic-and-proper-nouns
+  uuid: 36965574-4769-4a6b-a6c8-8d235459545d
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/masculine-and-feminine-nouns
+  title: Masculine And Feminine Nouns
+  slug: 32-masculine-and-feminine-nouns
+  uuid: bef50e15-40c4-4991-85a7-10ed33478741
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/possessive-nouns
+  title: Possessive Nouns
+  slug: 33-possessive-nouns
+  uuid: 31b71d2b-d655-44fc-9246-cf2709072b58
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/diminutive-form
+  title: The Diminutive Form
+  slug: 34-the-diminutive-form
+  uuid: 4e772d06-0dcb-4bdd-aeea-3090cdb0239f
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/declination
+  title: Declination
+  slug: 35-declination
+  uuid: d0ae730c-74cb-4536-ae6b-b54fea8a2d98
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/implied-declinable-signs
+  title: Implied Declinable Signs
+  slug: 36-implied-declinable-signs
+  uuid: 6cbd1ba0-0730-446c-87c0-4cf3f4562e7c
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/conjugational-and-non-conjugational-declinable
+  title: Conjugational and Non-Conjugational Declinable Nouns
+  slug: 37-conjugational-and-non-conjugational-declinable-nouns
+  uuid: f6954fe4-0522-458b-ae1e-d9a71046f596
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/indeclinable-words
+  title: Indeclinable Words
+  slug: 38-indeclinable-words
+  uuid: 8db149db-2f2d-41d7-8627-49d784080907
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/pronouns
+  title: Pronouns
+  slug: 39-pronouns
+  uuid: 7075b45c-7119-4cb6-a2ac-40ca1c253312
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/demonstrative-pronouns
+  title: Demonstrative Pronouns
+  slug: 40-demonstrative-pronouns
+  uuid: a603355d-99d7-4c2e-9643-0cde99e0d39d
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/conjuncts
+  title: Conjuncts
+  slug: 41-conjuncts
+  uuid: 862d2cd7-8c1a-46e0-974c-6f0a973abfba
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/relative-clause
+  title: The Relative Clause
+  slug: 42-the-relative-clause
+  uuid: 17ad29f8-b54c-4411-acb9-801ffb15a912
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/conditional-nouns
+  title: Conditional Nouns
+  slug: 43-conditional-nouns
+  uuid: 83eb56b6-a661-4709-b623-2d5015e63d17
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/interrogative-nounds
+  title: Interrogative Nounds
+  slug: 44-interrogative-nounds
+  uuid: c4e8b017-f14d-47c3-9a30-e6c7f2ec1340
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/metonymy
+  title: Metonymy
+  slug: 45-metonymy
+  uuid: 3337377d-6cce-4479-9bdf-6fdfa6d3f56d
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/adverbial-nounds
+  title: Adverbial Nounds
+  slug: 46-adverbial-nounds
+  uuid: 38e5bf06-0da6-4f05-b6d6-a29ffffa2385
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/verbal-nouns
+  title: Verbal Nouns
+  slug: 47-verbal-nouns
+  uuid: 65929a0f-a10b-4b56-8844-996620a7754e
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/cardinal-numbers
+  title: Cardinal Numbers
+  slug: 48-cardinal-numbers
+  uuid: b588fd70-42f3-4e4f-9528-ac71f103db93
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-3-rashid-al-shartuni/ordinal-numbers
+  title: Ordinal Numbers
+  slug: 49-ordinal-numbers
+  uuid: fc9622b3-cd02-4293-9d1e-f93aa6aa3a58
+---

@@ -1,0 +1,42 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/last-luminary
+title: The Last Luminary
+slug: the-last-luminary
+uuid: 58bdc0aa-d048-4c55-99e0-ae04b0e4e7ba
+description: |
+  This text is a brief attempt to study the short history of the
+  fundamental belief to the life of Hujjat al-Haqq (The Rightful Proof of
+  Allah), and sheds light on the minor and major occultation.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/last-luminary/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 16ce5bda-82d4-4c3d-b5f1-893412e3f62d
+- source: :alislam
+  source_url: http://www.al-islam.org/last-luminary/good-news
+  title: The Good News
+  slug: 2-the-good-news
+  uuid: 89507b87-1a4e-468b-b848-a196e5c2c0e4
+- source: :alislam
+  source_url: http://www.al-islam.org/last-luminary/birth
+  title: The Birth
+  slug: 3-the-birth
+  uuid: 6ea84941-14f1-409f-a24f-d51987107f06
+- source: :alislam
+  source_url: http://www.al-islam.org/last-luminary/minor-occultation
+  title: The Minor Occultation
+  slug: 4-the-minor-occultation
+  uuid: d3eee972-727f-4e96-924d-61b8ea3d95c4
+- source: :alislam
+  source_url: http://www.al-islam.org/last-luminary/major-occultation
+  title: The Major Occultation
+  slug: 5-the-major-occultation
+  uuid: a106084b-5565-42f8-b48d-cb8783669144
+- source: :alislam
+  source_url: http://www.al-islam.org/last-luminary/shiites-during-imams-occultation
+  title: The Shi'ites During The Imam's Occultation
+  slug: 6-the-shi-ites-during-the-imam-s-occultation
+  uuid: 3954a595-1626-4d3c-9cc4-48dc3d0dfca3
+---

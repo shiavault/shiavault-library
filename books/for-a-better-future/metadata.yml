@@ -1,0 +1,49 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/better-future-abdul-adheem-al-muhtadi-al-bahrani
+author: Abdul Adheem al-Muhtadi al-Bahrani
+publisher: Ansariyan Publications - Qum
+translator: Abdullah al-Shahin
+title: For a Better Future
+slug: for-a-better-future
+uuid: 99707097-b31e-421e-b881-fcf0bcad2f06
+description: |
+  The book contains 200 questions and answers regarding the concerns of
+  the youth, marriage and children.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/better-future-abdul-adheem-al-muhtadi-al-bahrani/about-author
+  title: About the Author
+  slug: 1-about-the-author
+  uuid: 1288b3c6-b14b-4b66-92e9-19e9cf598f52
+- source: :alislam
+  source_url: http://www.al-islam.org/better-future-abdul-adheem-al-muhtadi-al-bahrani/dedication
+  title: Dedication
+  slug: 2-dedication
+  uuid: 522b111a-8fd5-463e-a2cd-aa33072b133c
+- source: :alislam
+  source_url: http://www.al-islam.org/better-future-abdul-adheem-al-muhtadi-al-bahrani/i-begin-here
+  title: I Begin Here
+  slug: 3-i-begin-here
+  uuid: f06261bd-49d1-4069-a25a-6087259d298d
+- source: :alislam
+  source_url: http://www.al-islam.org/better-future-abdul-adheem-al-muhtadi-al-bahrani/part-1-what-youth-need
+  title: 'Part 1: What The Youth Need'
+  slug: 4-part-1-what-the-youth-need
+  uuid: 36bdaa2c-19ac-45b6-a642-2392a2f192a5
+- source: :alislam
+  source_url: http://www.al-islam.org/better-future-abdul-adheem-al-muhtadi-al-bahrani/part-2-husbands-and-wives-sharing-lives-and-seeking
+  title: 'Part 2: Husbands and Wives, Sharing lives and seeking Happiness'
+  slug: 5-part-2-husbands-and-wives-sharing-lives-and-seeking-happiness
+  uuid: a4b72515-86cb-4604-8d23-ef5095877f15
+- source: :alislam
+  source_url: http://www.al-islam.org/better-future-abdul-adheem-al-muhtadi-al-bahrani/part-3-children-are-tomorrow%E2%80%99s-adults
+  title: 'Part 3: Children are Tomorrow’s Adults'
+  slug: 6-part-3-children-are-tomorrow-s-adults
+  uuid: d6932b6c-4bac-47cf-9e87-c7b9b4aeea28
+- source: :alislam
+  source_url: http://www.al-islam.org/better-future-abdul-adheem-al-muhtadi-al-bahrani/supplication
+  title: Supplication
+  slug: 7-supplication
+  uuid: be7af7eb-2cb7-4923-9f7f-7d72e5f2e9ad
+---

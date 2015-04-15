@@ -1,0 +1,29 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/introduction-kitab-al-irshad-muhammad-rida-jafari
+author: Muhammad Rida Ja‘fari
+publisher: World Organization for Islamic Services (WOFIS)
+title: Introduction to Kitab al-Irshad
+slug: introduction-to-kitab-al-irshad
+uuid: 5ec55c07-0c4a-4ea3-a347-4306296349c6
+description: |
+  This text is an introduction to Kitab al-Irshad written by Shaykh
+  al-Mufid which covers the topics of Imamate and the different Shi'ah
+  Sects.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-kitab-al-irshad-muhammad-rida-jafari/al-irshad
+  title: Al-Irshad
+  slug: 1-al-irshad
+  uuid: 836bd586-ed32-4ec8-87f7-62b26f7f5572
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-kitab-al-irshad-muhammad-rida-jafari/imamate
+  title: Imamate
+  slug: 2-imamate
+  uuid: e64db12a-1625-43d7-ae1c-53a05cbc17d3
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-kitab-al-irshad-muhammad-rida-jafari/shiah-sects
+  title: Shi‘ah Sects
+  slug: 3-shi-ah-sects
+  uuid: 8455f2ea-7dab-4f72-bf0a-f6ae6249f1f2
+---

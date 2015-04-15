@@ -1,0 +1,127 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-12
+publisher: Imam Ali Foundation
+translator: Sayyid Abbas Sadr-'ameli
+title: An Enlightening Commentary into the Light of the Holy Qur'an vol. 12
+slug: an-enlightening-commentary-into-the-light-of-the-holy-qur-an-vol-12
+uuid: 99aa4441-9155-4f4f-82ac-3723f588807a
+description: |
+  An Enlightening Commentary into the Light of the Holy Qur'an vol. 12
+  From Surah al-Furqan (25) verse 21 to Surah ash-Shuara’ (26) The light
+  of Islam has enlightened and continuing to enlighten every corner in the
+  world and seekers of truth have closely associated to the Holy Quran
+  which carries the Word of Allah (SWT) to humanity. With increasing focus
+  and attention to the Holy Quran, efforts has been done to provide a
+  pure, correct and accurate translation of this divine book. But
+  sometimes it is difficult for the readers to understand all of the
+  apparent and hidden meanings and it is the duty of every Muslim, man or
+  woman, to read, understand and contemplate on the Holy Qur’an according
+  to his own capacity. Hence, the need for proper explanation becomes
+  obvious and necessary. The book titled, “An Enlightening Commentary into
+  the Light of the Holy Qur’an” compiled by a group of Muslim scholars,
+  under the direction of Ayatullah Allamah Al-Hajj Sayyid Kamal Faqih
+  Imani is a valuable effort which presents a thorough commentary on the
+  Quran in 20 volumes made available to the reader.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-12/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 8f450b0a-9f12-4e4d-99f4-bb471ba1828c
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-12/acknowledgment
+  title: Acknowledgment
+  slug: 2-acknowledgment
+  uuid: 76aca956-f41d-4de5-a510-2aa73756ee05
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-12/references
+  title: References
+  slug: 3-references
+  uuid: 2c8b1423-fc1a-40d5-9666-7f269b1bf423
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-12/presentation-muslims
+  title: A Presentation to Muslims
+  slug: 4-a-presentation-to-muslims
+  uuid: 36c07a58-a5e9-4082-9062-f043ca6ce25d
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-12/surah-al-furqan-section-3-quran-was-revealed
+  title: Surah al-Furqan, Section 3, The Qur’an Was Revealed Gradually
+  slug: 5-surah-al-furqan-section-3-the-qur-an-was-revealed-gradually
+  uuid: 0ef966de-ba36-48dc-8096-94f7fbbabb9f
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-12/section-4-what-happened-disbeliever-people-past
+  title: 'Section 4: What Happened to the Disbeliever People in the Past'
+  slug: 6-section-4-what-happened-to-the-disbeliever-people-in-the-past
+  uuid: 88726cea-9784-4206-af3a-48ccfea6d721
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-12/section-5-guidance-man-gets-working-nature
+  title: 'Section 5: The Guidance Man Gets From the Working of Nature'
+  slug: 7-section-5-the-guidance-man-gets-from-the-working-of-nature
+  uuid: 72887371-85f1-4c93-b1e3-59f7421f1ee4
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-12/section-6-repentance-belief-and-good-deeds
+  title: 'Section 6: Repentance, Belief and Good Deeds'
+  slug: 8-section-6-repentance-belief-and-good-deeds
+  uuid: 49ed42e1-7de6-4e18-872a-3192edd9500b
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-12/surah-ash-shuara-chapter-26
+  title: Surah Ash-Shu‘ara, Chapter 26
+  slug: 9-surah-ash-shu-ara-chapter-26
+  uuid: 225554eb-7b73-4ec1-a5d0-8f63072d0409
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-12/section-1-quran-book-manifest
+  title: 'Section 1: Qur’an, the Book Manifest'
+  slug: 10-section-1-qur-an-the-book-manifest
+  uuid: dcc0bbf7-df29-4b13-8128-1e056eaa3f18
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-12/section-2-moses-and-aaron-sent-towards-pharaoh
+  title: 'Section 2: Moses and Aaron Sent Towards Pharaoh'
+  slug: 11-section-2-moses-and-aaron-sent-towards-pharaoh
+  uuid: 4627ea13-26ad-47bf-84dd-51335bc67786
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-12/section-3-pharaohs-sorcerers-embrace-truth
+  title: 'Section 3: Pharaoh’s Sorcerers Embrace the Truth'
+  slug: 12-section-3-pharaoh-s-sorcerers-embrace-the-truth
+  uuid: be7226f8-cebb-499d-93d4-0d710b5bbcab
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-12/section-4-moses-rescues-children-israel
+  title: 'Section 4: Moses Rescues the Children of Israel'
+  slug: 13-section-4-moses-rescues-the-children-of-israel
+  uuid: fa9a1d6c-9974-4fb1-864c-9c5647b9d815
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-12/section-5-abraham-exhorts-his-father-discard
+  title: 'Section 5: Abraham Exhorts His Father to Discard Idolatry'
+  slug: 14-section-5-abraham-exhorts-his-father-to-discard-idolatry
+  uuid: d048c6da-f2f3-4b5a-96fe-6f75154782a9
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-12/section-6-noah-exhorts-people-worship-only-true-god
+  title: 'Section 6: Noah Exhorts the People to Worship the Only True God'
+  slug: 15-section-6-noah-exhorts-the-people-to-worship-the-only-true-god
+  uuid: d83bb1cc-1924-48e0-98f3-d6d63dfe723f
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-12/section-7-hud-exhorts-his-people-guard-themselves
+  title: 'Section 7: Hud Exhorts His People to Guard Themselves Against Evil'
+  slug: 16-section-7-hud-exhorts-his-people-to-guard-themselves-against-evil
+  uuid: bc0eb254-553d-4998-bb25-ce63efc9f599
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-12/section-8-salih-preaches-righteousness-people-thamud
+  title: 'Section 8: Salih Preaches Righteousness to the People of Thamud'
+  slug: 17-section-8-salih-preaches-righteousness-to-the-people-of-thamud
+  uuid: b097e64a-a04e-41fc-8685-f43fe97bcc77
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-12/section-9-lut-admonishes-his-people
+  title: 'Section 9: Lut Admonishes His People'
+  slug: 18-section-9-lut-admonishes-his-people
+  uuid: b2a75211-1911-4185-84b3-cedb28c3ec60
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-12/section-10-shuaybs-mission-dwellers-forest
+  title: 'Section 10: Shu‘ayb’s Mission to the Dwellers of the Forest'
+  slug: 19-section-10-shu-ayb-s-mission-to-the-dwellers-of-the-forest
+  uuid: 8677b326-e033-411f-b915-b7f0b82e5046
+- source: :alislam
+  source_url: http://www.al-islam.org/enlightening-commentary-light-holy-quran-vol-12/section-11-spirit-faithful-descended-quran
+  title: 'Section 11: The Spirit-Faithful, Descended with the Qur’an'
+  slug: 20-section-11-the-spirit-faithful-descended-with-the-qur-an
+  uuid: bd98cdd6-d5bd-4d44-bc04-2c2b3db4f32a
+---

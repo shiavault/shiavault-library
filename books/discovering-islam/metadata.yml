@@ -1,0 +1,85 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/discovering-islam-moustafa-al-qazwini
+author: Sayyid Moustafa Al-Qazwini
+publisher: The Islamic Educational Center of Orange County
+title: Discovering Islam
+slug: discovering-islam
+uuid: 74aa11e7-7af3-4b1a-af25-43a4e13d6119
+description: |
+  An introductory text on the fundamentals and spirit of Islam from a
+  Shi’a perspective describing the basic principles as well as the common
+  practices. This text is especially beneficial to those who are new to
+  Islam, or are considering becoming Muslim.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/discovering-islam-moustafa-al-qazwini/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 0897087e-b804-4bc3-bbd5-e9571f3008c0
+- source: :alislam
+  source_url: http://www.al-islam.org/discovering-islam-moustafa-al-qazwini/author%E2%80%99s-note
+  title: Author’s Note
+  slug: 2-author-s-note
+  uuid: bbb23d95-9b50-44a1-b0fa-05f44c9cce32
+- source: :alislam
+  source_url: http://www.al-islam.org/discovering-islam-moustafa-al-qazwini/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: 93e92093-ae45-4791-84d4-af4289706ed4
+- source: :alislam
+  source_url: http://www.al-islam.org/discovering-islam-moustafa-al-qazwini/pillars-islam-islamic-beliefs
+  title: 'Pillars of Islam: Islamic Beliefs'
+  slug: 4-pillars-of-islam-islamic-beliefs
+  uuid: be7e79da-a9af-4b0a-ae01-dd0660ea736b
+- source: :alislam
+  source_url: http://www.al-islam.org/discovering-islam-moustafa-al-qazwini/divine-justice-%E2%80%98adil
+  title: Divine Justice (‘Adil)
+  slug: 5-divine-justice-adil
+  uuid: c5692209-84b7-4a90-8ba6-23e20346d735
+- source: :alislam
+  source_url: http://www.al-islam.org/discovering-islam-moustafa-al-qazwini/prophethood-nubuwwa
+  title: Prophethood (Nubuwwa)
+  slug: 6-prophethood-nubuwwa
+  uuid: cdff5fbf-228b-4d3c-9ffd-080d36c6642d
+- source: :alislam
+  source_url: http://www.al-islam.org/discovering-islam-moustafa-al-qazwini/succession-prophet-muhammad-imama
+  title: Succession to the Prophet Muhammad (Imama)
+  slug: 7-succession-to-the-prophet-muhammad-imama
+  uuid: 3d179109-e3fe-4684-9b84-438de63b328b
+- source: :alislam
+  source_url: http://www.al-islam.org/discovering-islam-moustafa-al-qazwini/day-judgment-and-resurrection-qiyama
+  title: The Day of Judgment and the Resurrection (Qiyama)
+  slug: 8-the-day-of-judgment-and-the-resurrection-qiyama
+  uuid: 8a4276cc-d5a0-4a02-9228-292bfa1a7029
+- source: :alislam
+  source_url: http://www.al-islam.org/discovering-islam-moustafa-al-qazwini/islamic-practices
+  title: Islamic Practices
+  slug: 9-islamic-practices
+  uuid: 4ba56c85-1c41-4294-9ebf-6103b5787060
+- source: :alislam
+  source_url: http://www.al-islam.org/discovering-islam-moustafa-al-qazwini/religious-texts
+  title: Religious Texts
+  slug: 10-religious-texts
+  uuid: 69c3f095-335d-4285-b0a7-6766fe3f0b7d
+- source: :alislam
+  source_url: http://www.al-islam.org/discovering-islam-moustafa-al-qazwini/other-islamic-issues
+  title: Other Islamic Issues
+  slug: 11-other-islamic-issues
+  uuid: b481ada5-f9ab-4b3c-bae4-8c2917b6c2a9
+- source: :alislam
+  source_url: http://www.al-islam.org/discovering-islam-moustafa-al-qazwini/epilogue
+  title: Epilogue
+  slug: 12-epilogue
+  uuid: 29dde18c-6361-4ca0-9056-b9a139e73297
+- source: :alislam
+  source_url: http://www.al-islam.org/discovering-islam-moustafa-al-qazwini/glossary
+  title: Glossary
+  slug: 13-glossary
+  uuid: 0f249b72-69bd-4731-9d19-3739c05d5967
+- source: :alislam
+  source_url: http://www.al-islam.org/discovering-islam-moustafa-al-qazwini/other-islamic-books-written-sayyid-moustafa-al-qazwini
+  title: Other Islamic Books written by Sayyid Moustafa al-Qazwini
+  slug: 14-other-islamic-books-written-by-sayyid-moustafa-al-qazwini
+  uuid: 7a90fb18-1f07-4077-851d-300149a23664
+---

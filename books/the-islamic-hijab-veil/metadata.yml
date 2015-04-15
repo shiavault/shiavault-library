@@ -1,0 +1,52 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islamic-hijab-al-balagh
+author: Al-Balagh Foundation
+publisher: Al-Balagh Foundation
+title: The Islamic Hijab (Veil)
+slug: the-islamic-hijab-veil
+uuid: 40a3788d-1113-4b6c-b370-4f0249e5eac5
+description: |
+  The 'Islamic Hijab (Veil)' is a text written with the aim to give a more
+  factual approach, and a deeper meaning to Hijab in Islam. It addresses
+  the responsibility both men and women have in applying Hijab, as well as
+  addressing the doubts one may have, and logically explaining 'Why
+  Hijab?'. The Al-Balagh foundation have thoroughly researched this topic
+  using authentic sources, including the Holy Qur'an.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-hijab-al-balagh/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 8448c95f-e75f-4855-8862-d69ef5cd347c
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-hijab-al-balagh/islamic-hijab-its-form-and-meaning
+  title: 'Islamic Hijab: its Form and Meaning'
+  slug: 2-islamic-hijab-its-form-and-meaning
+  uuid: 1872d78c-e69a-4e7c-8484-e654c2324021
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-hijab-al-balagh/why-hijab
+  title: Why Hijab?
+  slug: 3-why-hijab
+  uuid: 14180d44-cb73-4d87-b3f2-fefe7b896734
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-hijab-al-balagh/responsibility-hijab-man-and-woman
+  title: Responsibility of Hijab for Man and Woman
+  slug: 4-responsibility-of-hijab-for-man-and-woman
+  uuid: 0862c083-b67e-4b30-85d3-7d52d81edff3
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-hijab-al-balagh/doubts-concerning-hijab
+  title: Doubts Concerning Hijab
+  slug: 5-doubts-concerning-hijab
+  uuid: e27fb41f-6a9e-4d2e-bb8b-350c97cfa47f
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-hijab-al-balagh/womans-role-islamic-civilization
+  title: Woman's Role in the Islamic Civilization
+  slug: 6-woman-s-role-in-the-islamic-civilization
+  uuid: 09f22a42-4dbb-48d0-a2b7-cb8838224778
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-hijab-al-balagh/what-holy-quran-and-traditions-say-about-woman-and-social-life
+  title: What The Holy Qur'an And Traditions Say About Woman And Social Life
+  slug: 7-what-the-holy-qur-an-and-traditions-say-about-woman-and-social-life
+  uuid: e8953219-f478-4fd6-af98-24101ca1a82e
+---

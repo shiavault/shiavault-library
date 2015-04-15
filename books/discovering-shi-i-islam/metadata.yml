@@ -1,0 +1,60 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/discovering-shii-islam-mohammad-ali-shomali
+author: Mohammad Ali Shomali
+publisher: Jami‘at al-Zahra - Islamic Seminary for Women - Qum
+title: Discovering Shi'i Islam
+slug: discovering-shi-i-islam
+uuid: 80865280-578a-47a5-b725-30d8c96294d1
+description: |
+  Discovering Shi’i Islam is a brief introduction to main issues related
+  to Islam in general and Shi’i Islam in particular. Though simply and
+  clearly written, it is an outcome of more than twenty years of
+  involvement in Islamic studies. The text studies the origins of Shi’i
+  Islam and its sources, i.e. the Qur.an, the Sunnah, the reason and
+  consensus. It also studies fundamental doctrines and main practices of
+  Islam. It ends with a brief account of the latest statistics about the
+  present Muslim population of the world along with a breakdown of
+  religious affiliations of some countries with a long history of Shi’i
+  presence therein. Discovering Shi’i Islam represents a sincere
+  commitment to Islamic unity and is hoped to serve as a modest step
+  towards Muslim brotherhood. Indeed, this book echoes the Qur’anic call
+  for unity which extends to all people of faith to unify their efforts
+  and concentrate on their common ground.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/discovering-shii-islam-mohammad-ali-shomali/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 6c275138-936b-499c-9830-b5bb227d4a5a
+- source: :alislam
+  source_url: http://www.al-islam.org/discovering-shii-islam-mohammad-ali-shomali/chapter-1-origins-shii-islam
+  title: 'Chapter 1: Origins of Shi’i Islam'
+  slug: 2-chapter-1-origins-of-shi-i-islam
+  uuid: a399f277-7f17-4719-8336-ffd32c04d8cd
+- source: :alislam
+  source_url: http://www.al-islam.org/discovering-shii-islam-mohammad-ali-shomali/chapter-2-sources-shii-thought
+  title: 'Chapter 2: Sources of shi’i thought'
+  slug: 3-chapter-2-sources-of-shi-i-thought
+  uuid: 949d6829-7abe-4b59-b854-f3dc40f6222c
+- source: :alislam
+  source_url: http://www.al-islam.org/discovering-shii-islam-mohammad-ali-shomali/chapter-3-doctrines
+  title: 'Chapter 3: Doctrines'
+  slug: 4-chapter-3-doctrines
+  uuid: 2d7d9f04-6ada-4e4d-ab4f-8836c908008c
+- source: :alislam
+  source_url: http://www.al-islam.org/discovering-shii-islam-mohammad-ali-shomali/chapter-4-practices
+  title: 'Chapter 4: Practices'
+  slug: 5-chapter-4-practices
+  uuid: 2975e697-1424-4cdf-ae6a-31f4135f5ded
+- source: :alislam
+  source_url: http://www.al-islam.org/discovering-shii-islam-mohammad-ali-shomali/chapter-5-shia-in-the-world
+  title: 'Chapter 5 : The shi’a in the world'
+  slug: 6-chapter-5-the-shi-a-in-the-world
+  uuid: 467e4c8a-5e91-4ae8-b107-21a9492ac07e
+- source: :alislam
+  source_url: http://www.al-islam.org/discovering-shii-islam-mohammad-ali-shomali/bibliography
+  title: Bibliography
+  slug: 7-bibliography
+  uuid: 0e269454-9c56-4813-b91a-8ba5e6a5f725
+---

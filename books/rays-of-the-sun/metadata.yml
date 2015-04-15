@@ -1,0 +1,98 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/rays-of-the-sun-eighty-three-stories-from-life-of-imam-khomeini
+author: Foundation of the Representation of the Office of Spiritual Leadership in
+  Universities
+translator: Abbas MeraliShaheen Merali
+title: Rays of the Sun
+slug: rays-of-the-sun
+uuid: 8287e663-7615-43de-8bbb-55accc5d13bf
+description: |
+  Stories from the personal and public life of the great scholar and
+  leader of the Islamic revolution in Iran. Includes stories about Imam
+  Khomeini's home life, his relationship with family members and with the
+  public, his knowledge, his worship and his last days. Also includes an
+  account of meeting Imam from the Western journalist Robin Woodsworth
+  Carlsen.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/rays-of-the-sun-eighty-three-stories-from-life-of-imam-khomeini/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 1d8342ae-2045-4349-8ace-f2974e7b3a50
+- source: :alislam
+  source_url: http://www.al-islam.org/rays-of-the-sun-eighty-three-stories-from-life-of-imam-khomeini/imam-and-home-life
+  title: Imam and Home Life
+  slug: 2-imam-and-home-life
+  uuid: 97f317cc-12e0-4b6e-86ad-37a2052063b1
+- source: :alislam
+  source_url: http://www.al-islam.org/rays-of-the-sun-eighty-three-stories-from-life-of-imam-khomeini/imam-and-children
+  title: Imam and Children
+  slug: 3-imam-and-children
+  uuid: 1d0e3fcc-d13e-4752-8603-239ed0186bd1
+- source: :alislam
+  source_url: http://www.al-islam.org/rays-of-the-sun-eighty-three-stories-from-life-of-imam-khomeini/imam-and-women
+  title: Imam and Women
+  slug: 4-imam-and-women
+  uuid: 96dd4c3f-4422-4cd5-961d-7e24aa734273
+- source: :alislam
+  source_url: http://www.al-islam.org/rays-of-the-sun-eighty-three-stories-from-life-of-imam-khomeini/imam-and-youth
+  title: Imam and Youth
+  slug: 5-imam-and-youth
+  uuid: 09892259-14f0-4bbc-af4f-ecc1ff14c740
+- source: :alislam
+  source_url: http://www.al-islam.org/rays-of-the-sun-eighty-three-stories-from-life-of-imam-khomeini/imam-and-people
+  title: Imam and the People
+  slug: 6-imam-and-the-people
+  uuid: 4ca08d03-2daf-44e7-b70d-63ee04e2d7de
+- source: :alislam
+  source_url: http://www.al-islam.org/rays-of-the-sun-eighty-three-stories-from-life-of-imam-khomeini/imam-and-paris
+  title: Imam and Paris
+  slug: 7-imam-and-paris
+  uuid: 190ac3b4-c677-4114-9cfe-86820eb86f8f
+- source: :alislam
+  source_url: http://www.al-islam.org/rays-of-the-sun-eighty-three-stories-from-life-of-imam-khomeini/imam-and-revolution
+  title: Imam and the Revolution
+  slug: 8-imam-and-the-revolution
+  uuid: fe73731d-7fa6-4b09-bf01-2fb5ba0c77e5
+- source: :alislam
+  source_url: http://www.al-islam.org/rays-of-the-sun-eighty-three-stories-from-life-of-imam-khomeini/imam-and-knowledge-unseen
+  title: Imam and Knowledge of the Unseen
+  slug: 9-imam-and-knowledge-of-the-unseen
+  uuid: 34c309e7-252b-48bc-8c37-49292a9549ad
+- source: :alislam
+  source_url: http://www.al-islam.org/rays-of-the-sun-eighty-three-stories-from-life-of-imam-khomeini/imam-and-imam-mahdi-aj
+  title: Imam and Imam Mahdi (aj)
+  slug: 10-imam-and-imam-mahdi-aj
+  uuid: 3f31a8bc-77eb-4572-a27c-798d80dea1bc
+- source: :alislam
+  source_url: http://www.al-islam.org/rays-of-the-sun-eighty-three-stories-from-life-of-imam-khomeini/imam-and-worship
+  title: Imam and Worship
+  slug: 11-imam-and-worship
+  uuid: 15b9c30b-28ee-4066-8bbc-568ec35f9a3f
+- source: :alislam
+  source_url: http://www.al-islam.org/rays-of-the-sun-eighty-three-stories-from-life-of-imam-khomeini/imam-and-prayers
+  title: Imam and Prayers
+  slug: 12-imam-and-prayers
+  uuid: 79fc08ac-4811-47ac-b887-3e765c625bac
+- source: :alislam
+  source_url: http://www.al-islam.org/rays-of-the-sun-eighty-three-stories-from-life-of-imam-khomeini/imam-and-islam
+  title: Imam and Islam
+  slug: 13-imam-and-islam
+  uuid: 45f3ed70-eb35-4d99-8ebe-c486e3b5fde9
+- source: :alislam
+  source_url: http://www.al-islam.org/rays-of-the-sun-eighty-three-stories-from-life-of-imam-khomeini/setting-sun
+  title: The Setting of the Sun
+  slug: 14-the-setting-of-the-sun
+  uuid: 52859b5f-34d0-48cb-886d-edcce3d0c26c
+- source: :alislam
+  source_url: http://www.al-islam.org/rays-of-the-sun-eighty-three-stories-from-life-of-imam-khomeini/imam-khomeini-through-eyes-non
+  title: Imam Khomeini through the Eyes of a Non-Muslim
+  slug: 15-imam-khomeini-through-the-eyes-of-a-non-muslim
+  uuid: 868815b7-477a-4ebd-8eb5-07dacc9528b7
+- source: :alislam
+  source_url: http://www.al-islam.org/rays-of-the-sun-eighty-three-stories-from-life-of-imam-khomeini/glossary
+  title: Glossary
+  slug: 16-glossary
+  uuid: 5f022199-bcd0-4f0c-9f26-50e3b7078f9f
+---

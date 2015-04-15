@@ -1,0 +1,113 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islam-in-the-bible-thomas-mcelwain
+author: Thomas McElwain
+title: Islam In The Bible
+slug: islam-in-the-bible
+uuid: fdedc9a8-05bf-467d-b4a1-d986828c97fa
+description: |
+  Common beliefs and practices in Islam and Christianity including the
+  concept of God, Divine Guidance, leadership, prayer, fasting, sacrifice
+  and marriage.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-in-the-bible-thomas-mcelwain/dedicatory-acknowledgement
+  title: Dedicatory Acknowledgement
+  slug: 1-dedicatory-acknowledgement
+  uuid: 819525e8-d815-44bc-a7e5-68024b9fb8ee
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-in-the-bible-thomas-mcelwain/about-author
+  title: About the Author
+  slug: 2-about-the-author
+  uuid: ce37cd1e-84fb-4e93-a63a-a102ad51976b
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-in-the-bible-thomas-mcelwain/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: 7931b988-c2a7-4e11-b94c-f25d7561f738
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-in-the-bible-thomas-mcelwain/beliefs-and-practices-common
+  title: Beliefs and Practices in Common
+  slug: 4-beliefs-and-practices-in-common
+  uuid: bad79f85-9e90-4f9b-be09-a4b2ee9204f7
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-in-the-bible-thomas-mcelwain/god
+  title: God
+  slug: 5-god
+  uuid: 2f7fba5c-8cd5-4018-b6de-23d43d96527f
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-in-the-bible-thomas-mcelwain/just-god
+  title: A Just God
+  slug: 6-a-just-god
+  uuid: 78752d3e-7368-45d6-af59-518615dcd44f
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-in-the-bible-thomas-mcelwain/son-god-or-god-son
+  title: Son of God or God the Son?
+  slug: 7-son-of-god-or-god-the-son
+  uuid: f4025f5a-fc8d-4ab0-9630-1aaa79f7c690
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-in-the-bible-thomas-mcelwain/unitarian-answers-trinitarian-claims
+  title: Unitarian Answers to Trinitarian claims
+  slug: 8-unitarian-answers-to-trinitarian-claims
+  uuid: e0564317-4160-4b33-a751-be9893b6de4f
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-in-the-bible-thomas-mcelwain/divine-guidance
+  title: Divine Guidance
+  slug: 9-divine-guidance
+  uuid: afe6cd0b-fddc-4d71-8c67-dd414d3c9bcb
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-in-the-bible-thomas-mcelwain/character-and-development-divine-guidance-bible-history
+  title: The Character and Development of Divine Guidance in Bible History
+  slug: 10-the-character-and-development-of-divine-guidance-in-bible-history
+  uuid: f4c3a7df-1340-4ce5-bfa7-96e949436320
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-in-the-bible-thomas-mcelwain/purity
+  title: Purity
+  slug: 11-purity
+  uuid: 8a559b22-7654-4a39-8290-51ecab5afe59
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-in-the-bible-thomas-mcelwain/prayer
+  title: Prayer
+  slug: 12-prayer
+  uuid: 32291e7d-69a3-458d-ae58-596a572fa2b2
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-in-the-bible-thomas-mcelwain/fasting
+  title: Fasting
+  slug: 13-fasting
+  uuid: 29cf447c-0c0c-4afa-a54c-33be77361da5
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-in-the-bible-thomas-mcelwain/pilgrimage
+  title: Pilgrimage
+  slug: 14-pilgrimage
+  uuid: 979d92e0-c6e8-41ee-a184-d1a94fe1b38d
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-in-the-bible-thomas-mcelwain/sacrifice
+  title: Sacrifice
+  slug: 15-sacrifice
+  uuid: 4b1eca6b-cbf4-4afa-8860-3668964261d2
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-in-the-bible-thomas-mcelwain/usury
+  title: Usury
+  slug: 16-usury
+  uuid: 0dc5e086-2d47-4470-9d66-bc0246b4dc9a
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-in-the-bible-thomas-mcelwain/marriage
+  title: Marriage
+  slug: 17-marriage
+  uuid: 99de30c3-9843-48b5-8cf6-c8e27b3bd4d4
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-in-the-bible-thomas-mcelwain/bible-islamic-scripture
+  title: The Bible as Islamic Scripture
+  slug: 18-the-bible-as-islamic-scripture
+  uuid: 52d7e7cd-b1f3-444d-ac6d-d82a28adaa8c
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-in-the-bible-thomas-mcelwain/negative-considerations
+  title: Negative Considerations
+  slug: 19-negative-considerations
+  uuid: ea21ee30-d943-4ed7-bbe1-dc06f113dbd1
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-in-the-bible-thomas-mcelwain/conclusions
+  title: Conclusions
+  slug: 20-conclusions
+  uuid: 3f4f0174-992c-4e3c-886d-3386eff09329
+---

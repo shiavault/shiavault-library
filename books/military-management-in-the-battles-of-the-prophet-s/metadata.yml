@@ -1,0 +1,76 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/military-management-battles-prophet
+author: Muhammad Dhahir Watr
+publisher: The Heritage International Inc.
+translator: Abu Zahra Muhammadi
+title: Military Management in the Battles of the Prophet (s)
+slug: military-management-in-the-battles-of-the-prophet-s
+uuid: 56c6b7a0-5f64-48ad-9a6a-c8ba389d8cd8
+description: |
+  A very detailed and fully referenced text about the management,
+  organization and mode of operation of the Islamic military in the
+  battles that the Muslim community engaged in under the leadership of the
+  Holy Prophet [s].
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/military-management-battles-prophet/translator%E2%80%99s-introduction
+  title: Translator’s Introduction
+  slug: 1-translator-s-introduction
+  uuid: 77e3c3a5-253d-49e3-a7a0-6259d0fd57e3
+- source: :alislam
+  source_url: http://www.al-islam.org/military-management-battles-prophet/author%E2%80%99s-introduction
+  title: Author’s Introduction
+  slug: 2-author-s-introduction
+  uuid: 62c3fd36-e7de-452a-a32b-95d011efcf64
+- source: :alislam
+  source_url: http://www.al-islam.org/military-management-battles-prophet/preface
+  title: Preface
+  slug: 3-preface
+  uuid: ca985c3b-ce0c-4bd8-98ba-36377bd0112e
+- source: :alislam
+  source_url: http://www.al-islam.org/military-management-battles-prophet/scope-research
+  title: Scope Of Research
+  slug: 4-scope-of-research
+  uuid: f8565684-48d4-4d54-9890-fb8a8af56da2
+- source: :alislam
+  source_url: http://www.al-islam.org/military-management-battles-prophet/chronological-introduction-and-description-most-important
+  title: A Chronological Introduction And Description Of The Most Important Sources
+  slug: 5-a-chronological-introduction-and-description-of-the-most-important-sources
+  uuid: 1ebe5fea-5336-46fe-9853-f5dafbdeedc3
+- source: :alislam
+  source_url: http://www.al-islam.org/military-management-battles-prophet/most-important-historians
+  title: The Most Important Historians
+  slug: 6-the-most-important-historians
+  uuid: ceb8e037-186f-4a0c-b5b1-6b17e3339666
+- source: :alislam
+  source_url: http://www.al-islam.org/military-management-battles-prophet/arab-military-isl%C4%81m
+  title: The Arab Military Before Islām
+  slug: 7-the-arab-military-before-islam
+  uuid: 20e3f206-1ff9-48f8-b174-f95973f41b06
+- source: :alislam
+  source_url: http://www.al-islam.org/military-management-battles-prophet/leadership-and-command
+  title: Leadership And Command
+  slug: 8-leadership-and-command
+  uuid: 22a591a1-9fa0-4418-9a2e-49c667701432
+- source: :alislam
+  source_url: http://www.al-islam.org/military-management-battles-prophet/staff-headquarters
+  title: Staff Headquarters
+  slug: 9-staff-headquarters
+  uuid: 08b59e79-d1de-485f-8f34-2fc2d2e7b291
+- source: :alislam
+  source_url: http://www.al-islam.org/military-management-battles-prophet/department-intelligence-and-security
+  title: The Department of Intelligence And Security
+  slug: 10-the-department-of-intelligence-and-security
+  uuid: dce3a4ba-a4d2-4fb7-9bb7-56e2a2a5f585
+- source: :alislam
+  source_url: http://www.al-islam.org/military-management-battles-prophet/department-supplies-and-reinforcements
+  title: Department Of Supplies And Reinforcements
+  slug: 11-department-of-supplies-and-reinforcements
+  uuid: 72c9bdf0-72e8-4e8d-a624-6881f9991294
+- source: :alislam
+  source_url: http://www.al-islam.org/military-management-battles-prophet/bibliography
+  title: Bibliography
+  slug: 12-bibliography
+  uuid: b83df459-bb82-4851-935a-416c4c49e2f9
+---

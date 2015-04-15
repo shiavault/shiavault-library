@@ -1,0 +1,53 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/shiism-sunnism-ayatullah-sayyid-muhammad-ridha-mudarrisi-yazdi
+author: Ayatullah Sayyid Muhammad Ridha Mudarrisi Yazdi
+publisher: Ansariyan Publications - Qum
+title: Shiism in Sunnism
+slug: shiism-in-sunnism
+uuid: 43d06422-2457-40ca-903c-5bce95736304
+description: |
+  A discussion providing evidence of Shi'a ideology and practice from the
+  Quran & Sunni sources.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/shiism-sunnism-ayatullah-sayyid-muhammad-ridha-mudarrisi-yazdi/translator%E2%80%99s-preface
+  title: Translator’s Preface
+  slug: 1-translator-s-preface
+  uuid: 61b44e0e-675a-4ac5-95c3-0b8d99de4f22
+- source: :alislam
+  source_url: http://www.al-islam.org/shiism-sunnism-ayatullah-sayyid-muhammad-ridha-mudarrisi-yazdi/editor%E2%80%99s-introduction
+  title: The Editor’s Introduction
+  slug: 2-the-editor-s-introduction
+  uuid: bafa4ee3-7695-4196-9fea-769d20d2b27d
+- source: :alislam
+  source_url: http://www.al-islam.org/shiism-sunnism-ayatullah-sayyid-muhammad-ridha-mudarrisi-yazdi/introduction-recognition-imams-light
+  title: 'An Introduction to: Recognition of the Imams in The Light of Traditions'
+  slug: 3-an-introduction-to-recognition-of-the-imams-in-the-light-of-traditions
+  uuid: f4afa4b7-c7b9-41d6-bdb7-bbb37a228946
+- source: :alislam
+  source_url: http://www.al-islam.org/shiism-sunnism-ayatullah-sayyid-muhammad-ridha-mudarrisi-yazdi/ijtihad-and-taqlid
+  title: Ijtihad and Taqlid
+  slug: 4-ijtihad-and-taqlid
+  uuid: 545f5eb5-8232-47a7-a143-53ad99a079bf
+- source: :alislam
+  source_url: http://www.al-islam.org/shiism-sunnism-ayatullah-sayyid-muhammad-ridha-mudarrisi-yazdi/wuzu-statutory-ablution-allah%E2%80%99s-book
+  title: Wuzu (Statutory Ablution) in Allah’s Book and the Prophet’s Tradition
+  slug: 5-wuzu-statutory-ablution-in-allah-s-book-and-the-prophet-s-tradition
+  uuid: ce155ea1-8b7a-47bb-b6f5-ba73ae17ffda
+- source: :alislam
+  source_url: http://www.al-islam.org/shiism-sunnism-ayatullah-sayyid-muhammad-ridha-mudarrisi-yazdi/tradition-and-heresy-adhan-call
+  title: Tradition and Heresy in Adhan (Call to Prayer)
+  slug: 6-tradition-and-heresy-in-adhan-call-to-prayer
+  uuid: 299c7643-b8bc-4178-b7c6-0e9bd793f2bb
+- source: :alislam
+  source_url: http://www.al-islam.org/shiism-sunnism-ayatullah-sayyid-muhammad-ridha-mudarrisi-yazdi/simultaneous-performance-prayers
+  title: Simultaneous Performance of Prayers
+  slug: 7-simultaneous-performance-of-prayers
+  uuid: 35ab6864-1fca-4a68-8a52-ee39209bcec9
+- source: :alislam
+  source_url: http://www.al-islam.org/shiism-sunnism-ayatullah-sayyid-muhammad-ridha-mudarrisi-yazdi/prostration-tradition-prophet-and
+  title: Prostration in the Tradition of the Prophet (a.s) and the Companions
+  slug: 8-prostration-in-the-tradition-of-the-prophet-a-s-and-the-companions
+  uuid: 7d71adf4-cc09-4f34-b4de-2e762d212292
+---

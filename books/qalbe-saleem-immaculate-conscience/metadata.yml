@@ -1,0 +1,44 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/qalbe-saleem-immaculate-conscience-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi
+author: Ayatullah Sayyid Abdul Husayn Dastghaib Shirazi
+publisher: Ansariyan Publications - Qum
+title: Qalbe-Saleem, Immaculate Conscience
+slug: qalbe-saleem-immaculate-conscience
+uuid: f853349b-2416-4ab8-a3f7-13c1cf7a9403
+description: |
+  An elaborate text that describes extensively the sins and diseases of
+  the heart, as seen through the light of the Qur'an and the narrations
+  (ahadith) of the Ahlulbayt ('a).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/qalbe-saleem-immaculate-conscience-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/mission-prophets
+  title: Mission of the Prophets
+  slug: 1-mission-of-the-prophets
+  uuid: ca56f5dd-f0f5-42ba-8371-364657160502
+- source: :alislam
+  source_url: http://www.al-islam.org/qalbe-saleem-immaculate-conscience-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/first-disease
+  title: First Disease-Disbelief
+  slug: 2-first-disease-disbelief
+  uuid: c477150d-fd0d-4d8f-9b2f-15a700476b40
+- source: :alislam
+  source_url: http://www.al-islam.org/qalbe-saleem-immaculate-conscience-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/second-disease
+  title: 'Second Disease: Hypocrisy'
+  slug: 3-second-disease-hypocrisy
+  uuid: 0549752e-76e8-4bed-b115-29b8cf2c8e55
+- source: :alislam
+  source_url: http://www.al-islam.org/qalbe-saleem-immaculate-conscience-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/third-disease
+  title: 'Third Disease: Polytheism'
+  slug: 4-third-disease-polytheism
+  uuid: 0c9a7be5-f0d4-446a-8350-ce3d34e8009e
+- source: :alislam
+  source_url: http://www.al-islam.org/qalbe-saleem-immaculate-conscience-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/fourth-disease
+  title: 'Fourth Disease: Doubt'
+  slug: 5-fourth-disease-doubt
+  uuid: fafbc78f-c8c6-4d2d-96ae-e956cb1e02c9
+- source: :alislam
+  source_url: http://www.al-islam.org/qalbe-saleem-immaculate-conscience-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/intention
+  title: Intention
+  slug: 6-intention
+  uuid: ca6f32ee-0c1e-4ba0-9959-b369233fd043
+---

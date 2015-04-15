@@ -1,0 +1,33 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/fatimiyyah-ashura-lutfullah-safi-al-gulpaygani
+author: Ayatullah Lutfullah as-Safi al-Gulpaygani
+translator: Shaykh Saleem Bhimji
+title: Fatimiyyah is ʿAshuraʾ
+slug: fatimiyyah-is-ashura
+uuid: 43996811-21a5-44d4-8bef-74994b5dc646
+description: |
+  This text authored presents an analysis of the historic Fadak sermon of
+  Sayyida Fatima (sa).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/fatimiyyah-ashura-lutfullah-safi-al-gulpaygani/fatimiyyah-means-oppose-chiefs-oppression
+  title: "‘Fatimiyyah means to oppose the chiefs of oppression…’"
+  slug: 1-fatimiyyah-means-to-oppose-the-chiefs-of-oppression
+  uuid: 7b552f3a-95b0-4aff-8b8a-56b2dd0d35ce
+- source: :alislam
+  source_url: http://www.al-islam.org/fatimiyyah-ashura-lutfullah-safi-al-gulpaygani/historic-fadak-sermon-fatima
+  title: The Historic Fadak Sermon of Fatima
+  slug: 2-the-historic-fadak-sermon-of-fatima
+  uuid: b9b287d6-0ec8-4f6a-828d-c9e0af58cfa7
+- source: :alislam
+  source_url: http://www.al-islam.org/fatimiyyah-ashura-lutfullah-safi-al-gulpaygani/fadak-sermon-fatima-zahra-peace-be-upon-her-arabic
+  title: The Fadak Sermon of Fatima Zahra, peace be upon her, in Arabic
+  slug: 3-the-fadak-sermon-of-fatima-zahra-peace-be-upon-her-in-arabic
+  uuid: a5576516-7c73-4077-bfc2-1894d2eb7ccb
+- source: :alislam
+  source_url: http://www.al-islam.org/fatimiyyah-ashura-lutfullah-safi-al-gulpaygani/fadak-sermon-fatima-zahra-peace-be-upon-her-farsi
+  title: The Fadak Sermon of Fatima Zahra, peace be upon her, in Farsi
+  slug: 4-the-fadak-sermon-of-fatima-zahra-peace-be-upon-her-in-farsi
+  uuid: cdf64394-2e9e-4b04-a3af-375c868be4ff
+---

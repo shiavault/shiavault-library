@@ -1,0 +1,46 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/animals-welfare-acts-utilization-limits-islam-saeid-nazari-tavakkoli
+author: Saeid Nazari Tavakkoli
+publisher: The A.Q.R. Printing and Publishing institute
+translator: Ahmad Rezwani
+title: Animals Welfare Acts and Utilization Limits in Islam
+slug: animals-welfare-acts-and-utilization-limits-in-islam
+uuid: 4878d45d-1c67-4b76-a4c3-2ae29d1b65e6
+description: |
+  Original title: حیوانات، قوانین حمایتی و حدود بهره¬وری در اسلام .
+  انگليسي This book is an auxiliary textbook for the students of
+  Jurisprudence and Fundamentals of Islamic Law. It deals with the Animals
+  welfare & utilization based upon Holy Qur’an and the Sunna.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/animals-welfare-acts-utilization-limits-islam-saeid-nazari-tavakkoli/publishers-note
+  title: Publishers’ Note
+  slug: 1-publishers-note
+  uuid: 7ee86fd1-2822-40ec-bc0b-fa958beeb386
+- source: :alislam
+  source_url: http://www.al-islam.org/animals-welfare-acts-utilization-limits-islam-saeid-nazari-tavakkoli/preface
+  title: Preface
+  slug: 2-preface
+  uuid: 548164fe-e6b9-4843-855a-a40e6ccb2bb5
+- source: :alislam
+  source_url: http://www.al-islam.org/animals-welfare-acts-utilization-limits-islam-saeid-nazari-tavakkoli/discourse-one-theological
+  title: 'Discourse One: Theological Studies'
+  slug: 3-discourse-one-theological-studies
+  uuid: ddacb812-fe65-448e-85f4-124d4a5ae2ba
+- source: :alislam
+  source_url: http://www.al-islam.org/animals-welfare-acts-utilization-limits-islam-saeid-nazari-tavakkoli/discourse-two-legal-studies
+  title: 'Discourse Two: Legal Studies'
+  slug: 4-discourse-two-legal-studies
+  uuid: aeb146ff-a051-4d0e-88ec-57eae406711f
+- source: :alislam
+  source_url: http://www.al-islam.org/animals-welfare-acts-utilization-limits-islam-saeid-nazari-tavakkoli/discourse-three-ethical-studies
+  title: 'Discourse Three: Ethical Studies'
+  slug: 5-discourse-three-ethical-studies
+  uuid: 4f7fd89d-de02-482f-9944-63a7a5965c5a
+- source: :alislam
+  source_url: http://www.al-islam.org/animals-welfare-acts-utilization-limits-islam-saeid-nazari-tavakkoli/bibliography
+  title: Bibliography
+  slug: 6-bibliography
+  uuid: c097a403-e72e-4e07-b0e5-b035adb4fca7
+---

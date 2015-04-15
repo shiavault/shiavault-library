@@ -1,0 +1,79 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/karbala-and-ashura-ali-husayn-jalali
+author: Ali Husayn Jalali
+publisher: Ansariyan Publications - Qum
+title: Karbala and Ashura
+slug: karbala-and-ashura
+uuid: 866c8013-b641-48ac-91ee-857c32e1a422
+description: |
+  A brief yet documented narrative of events that took place in Medinah,
+  Mecca, Karbāla’, Kufah, and Syria, and began in Rajab, 60 A.H. (680 CE)
+  and ended in Muharram 61.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-ashura-ali-husayn-jalali/publisher%E2%80%99s-word
+  title: Publisher’s Word
+  slug: 1-publisher-s-word
+  uuid: cc8688f0-ec66-47ba-a7b0-b43bede9ca50
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-ashura-ali-husayn-jalali/preface
+  title: Preface
+  slug: 2-preface
+  uuid: a8d4ae56-ff12-47ff-b6a6-7c23c07bc2d6
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-ashura-ali-husayn-jalali/karbala%E2%80%99
+  title: Before Karbala’
+  slug: 3-before-karbala
+  uuid: 0b4a09a3-4e45-4a18-bd7e-225a3488b9df
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-ashura-ali-husayn-jalali/muslim-meets-ibn-ziyad
+  title: Muslim Meets Ibn Ziyad
+  slug: 4-muslim-meets-ibn-ziyad
+  uuid: c5430715-9b95-40c9-93d7-ef0bf72d4f42
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-ashura-ali-husayn-jalali/muslim%E2%80%99s-son
+  title: Muslim’s Son
+  slug: 5-muslim-s-son
+  uuid: f829b971-a7d6-4808-813a-6b476e48ce24
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-ashura-ali-husayn-jalali/imam%E2%80%99s-journey-karb%C4%81la%E2%80%99%E2%80%99
+  title: The Imam’s Journey to Karbāla’’
+  slug: 6-the-imam-s-journey-to-karbala
+  uuid: 5e9f0489-1e57-49f0-8a98-91987b6215ae
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-ashura-ali-husayn-jalali/stops-imam%E2%80%99s-journey
+  title: Stops on the Imam’s Journey
+  slug: 7-stops-on-the-imam-s-journey
+  uuid: 00ebd103-f898-4d3a-827b-fc5d43a940c1
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-ashura-ali-husayn-jalali/karbala%E2%80%99-0
+  title: At Karbala’
+  slug: 8-at-karbala
+  uuid: 236dfd45-d66a-4dcc-b364-54cd7029c8c5
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-ashura-ali-husayn-jalali/after-karb%C4%81la%E2%80%99
+  title: After Karbāla’
+  slug: 9-after-karbala
+  uuid: 473dd145-cef2-452a-b331-5e60c2c87061
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-ashura-ali-husayn-jalali/ziyarah-imam-husayn
+  title: The Ziyarah of Imam Husayn
+  slug: 10-the-ziyarah-of-imam-husayn
+  uuid: eca40dfa-eb42-4738-9ed7-b0fb14fd3972
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-ashura-ali-husayn-jalali/map-imam-husayn%E2%80%99s-journey-karb%C4%81la%E2%80%B2
+  title: Map of Imam Husayn’s Journey to Karbāla′
+  slug: 11-map-of-imam-husayn-s-journey-to-karbala
+  uuid: 7b71d395-db1e-418e-b5c3-88d052bd2905
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-ashura-ali-husayn-jalali/chronology-life-imam-husayn
+  title: Chronology of the Life of Imam Husayn
+  slug: 12-chronology-of-the-life-of-imam-husayn
+  uuid: 76dcd173-93c3-4289-be46-44c4a6ddbaf1
+- source: :alislam
+  source_url: http://www.al-islam.org/karbala-and-ashura-ali-husayn-jalali/bibliography
+  title: Bibliography
+  slug: 13-bibliography
+  uuid: f285c1fa-3215-4c7d-9eff-8d39531ed6d7
+---

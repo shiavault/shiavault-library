@@ -1,0 +1,333 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani
+author: Ayatullah Jafar Subhani
+publisher: Islamic Seminary Publications
+title: The Message
+slug: the-message
+uuid: 2122d1b9-d05d-4088-a1cb-cd855d0973df
+description: |
+  A detail and inspiring account of the life of Prophet Muhammad (s),
+  based on authentic historical documents.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 37435a89-8237-4e32-a431-687222c09bb0
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-1-arabian-peninsula-cradle-islamic-culture
+  title: 'Chapter 1: Arabian Peninsula the Cradle of Islamic Culture'
+  slug: 2-chapter-1-arabian-peninsula-the-cradle-of-islamic-culture
+  uuid: c1edde3c-76ba-4c21-ba8d-de1e3a7abda8
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-2-arabia-islam
+  title: 'Chapter 2: Arabia Before Islam'
+  slug: 3-chapter-2-arabia-before-islam
+  uuid: ea590a54-86ad-4042-a860-188f701a1724
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-3-conditions-roman-and-iranian-empires
+  title: 'Chapter 3: Conditions of Roman and Iranian Empires'
+  slug: 4-chapter-3-conditions-of-roman-and-iranian-empires
+  uuid: 0340f30b-4deb-4d88-9e84-0d363bec43ca
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-4-ancestors-prophet
+  title: 'Chapter 4: Ancestors of The Prophet'
+  slug: 5-chapter-4-ancestors-of-the-prophet
+  uuid: f07b34cd-1df9-455a-90f6-b55873a3ffa8
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-5-birth-prophet
+  title: 'Chapter 5: Birth of the Prophet'
+  slug: 6-chapter-5-birth-of-the-prophet
+  uuid: 3b373a00-769f-42b1-a5db-22f7750b153e
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-6-childhood-prophet
+  title: 'Chapter 6: Childhood of The Prophet'
+  slug: 7-chapter-6-childhood-of-the-prophet
+  uuid: 508478e3-3587-470f-8992-5eea658dc582
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-7-rejoining-family
+  title: 'Chapter 7: Rejoining the Family'
+  slug: 8-chapter-7-rejoining-the-family
+  uuid: d5848e14-b503-4a90-b7e3-b1a22f304870
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-8-period-youth
+  title: 'Chapter 8: Period of Youth'
+  slug: 9-chapter-8-period-of-youth
+  uuid: f81028c9-7912-4d80-8f17-ef5e3a1beb74
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-9-sheperd-merchant
+  title: 'Chapter 9: From Sheperd to Merchant'
+  slug: 10-chapter-9-from-sheperd-to-merchant
+  uuid: 5d42910a-2af2-4cc8-a825-3cf7aafee4e4
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-10-marriage-upto-prophethood
+  title: 'Chapter 10: From Marriage upto Prophethood'
+  slug: 11-chapter-10-from-marriage-upto-prophethood
+  uuid: e30f21e4-5476-4d36-a2d3-a7dbf1764e46
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-11-first-manifestation-reality
+  title: 'Chapter 11: The First Manifestation of Reality'
+  slug: 12-chapter-11-the-first-manifestation-of-reality
+  uuid: c93afa49-4396-4cac-a2fa-c322972605c7
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-12-first-revelation
+  title: 'Chapter 12: The First Revelation'
+  slug: 13-chapter-12-the-first-revelation
+  uuid: c066ade3-53d3-4f97-ac6b-7239cebbf949
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-13-who-were-first-persons-embrace-islam
+  title: 'Chapter 13: Who Were The First Persons to Embrace Islam?'
+  slug: 14-chapter-13-who-were-the-first-persons-to-embrace-islam
+  uuid: 27c9a123-98e9-49f0-8fc3-262b5427c2c8
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-14-cessatation-revelation
+  title: 'Chapter 14: Cessatation of Revelation'
+  slug: 15-chapter-14-cessatation-of-revelation
+  uuid: 2b7621c7-ef4c-4f53-b173-92a990e303e5
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-15-general-invitation
+  title: 'Chapter 15: General Invitation'
+  slug: 16-chapter-15-general-invitation
+  uuid: 4c1aefce-a6b6-4e00-93ae-faae54b719ee
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-16-judgement-quraysh-about-holy-quran
+  title: 'Chapter 16: Judgement of Quraysh about The Holy Qur''an'
+  slug: 17-chapter-16-judgement-of-quraysh-about-the-holy-qur-an
+  uuid: 3099dbe8-183d-4e39-bcf4-e7c7081b58dc
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-17-first-migration
+  title: 'Chapter 17: The First Migration'
+  slug: 18-chapter-17-the-first-migration
+  uuid: bc54b175-4391-490c-8a6d-d97f608e2125
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-18-rusty-weapons
+  title: 'Chapter 18: Rusty Weapons'
+  slug: 19-chapter-18-rusty-weapons
+  uuid: 2f33d2f2-ab3e-47fe-850f-e558070ce903
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-19-fiction-gharaniq
+  title: 'Chapter 19: The Fiction of Gharaniq'
+  slug: 20-chapter-19-the-fiction-of-gharaniq
+  uuid: 88641dbb-f6a7-48eb-9d24-68766ed304c2
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-20-economic-blockade
+  title: 'Chapter 20: Economic Blockade'
+  slug: 21-chapter-20-economic-blockade
+  uuid: 0abdb879-87af-4e6b-b779-d815e8aff069
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-21-death-abu-talib
+  title: 'Chapter 21: Death of Abu Talib'
+  slug: 22-chapter-21-death-of-abu-talib
+  uuid: 2ca70184-76a7-4358-9cbf-2d30513dba8f
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-22-meraj-%E2%80%93-heavenly-ascension
+  title: 'Chapter 22: Me`raj – The Heavenly Ascension'
+  slug: 23-chapter-22-me-raj-the-heavenly-ascension
+  uuid: 9271d27c-2a5b-4771-b95d-d687540b23cc
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-23-journey-taif
+  title: 'Chapter 23: Journey to Ta`if'
+  slug: 24-chapter-23-journey-to-ta-if
+  uuid: 65fb13fe-7931-49ac-b3d5-216a24531c1e
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-24-agreement-aqabah
+  title: 'Chapter 24: The Agreement of Aqabah'
+  slug: 25-chapter-24-the-agreement-of-aqabah
+  uuid: 7117f022-6eb2-4ce2-bdda-f4f666fc5d90
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-25-event-migration
+  title: 'Chapter 25: The Event of Migration'
+  slug: 26-chapter-25-the-event-of-migration
+  uuid: d46fd279-6381-4355-b518-67ce6dfd926a
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-26-events-first-year-migration
+  title: 'Chapter 26: The Events of the First Year of Migration'
+  slug: 27-chapter-26-the-events-of-the-first-year-of-migration
+  uuid: 4709ed97-425b-4bd9-832e-566fbeede605
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-27-some-events-first-and-second-years-migration
+  title: 'Chapter 27: Some Events of the First and Second Years of Migration'
+  slug: 28-chapter-27-some-events-of-the-first-and-second-years-of-migration
+  uuid: 8504e1f7-a6a5-45bd-b618-38e22a665551
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-28-events-second-year-migration
+  title: 'Chapter 28: The Events of the Second Year of Migration'
+  slug: 29-chapter-28-the-events-of-the-second-year-of-migration
+  uuid: c26b3842-0264-4c0d-9c67-c55ce731bba0
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-29-change-qiblah
+  title: 'Chapter 29: Change of Qiblah'
+  slug: 30-chapter-29-change-of-qiblah
+  uuid: 40fd77e5-d2a4-4a2d-9d9c-6183d8d40d23
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-30-battle-badr
+  title: 'Chapter 30: The Battle of Badr'
+  slug: 31-chapter-30-the-battle-of-badr
+  uuid: 536c8aa7-fd32-488a-8730-a88d71df9b20
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-31-dangerous-designs-jews
+  title: 'Chapter 31: Dangerous Designs of the Jews'
+  slug: 32-chapter-31-dangerous-designs-of-the-jews
+  uuid: 81d6e575-83a6-4269-a6b1-9e6b6417bc33
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-32-events-third-year-migration
+  title: 'Chapter 32: The Events of the Third Year of Migration'
+  slug: 33-chapter-32-the-events-of-the-third-year-of-migration
+  uuid: 719b688a-d2d8-4589-9371-c57cd4671301
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-33-events-third-and-fourth-years-migration
+  title: 'Chapter 33: The Events of the Third and Fourth Years of Migration'
+  slug: 34-chapter-33-the-events-of-the-third-and-fourth-years-of-migration
+  uuid: 2d4d64d0-13b5-4339-b5a2-4afa845ec380
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-34-jews-quit-zone-islam
+  title: 'Chapter 34: The Jews Quit the Zone of Islam'
+  slug: 35-chapter-34-the-jews-quit-the-zone-of-islam
+  uuid: 9fbcb33f-55ba-49aa-98fb-36a15c565183
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-35-events-fourth-year-migration
+  title: 'Chapter 35: The Events of the Fourth Year of Migration'
+  slug: 36-chapter-35-the-events-of-the-fourth-year-of-migration
+  uuid: 7e40e47a-137b-4df4-bf6f-3c1dd8c5cdfc
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-36-events-fifth-year-migration
+  title: 'Chapter 36: The Events of the Fifth Year of Migration'
+  slug: 37-chapter-36-the-events-of-the-fifth-year-of-migration
+  uuid: f29e6a06-8b0f-458d-852e-1bb31010f9f3
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-37-battle-ahzab
+  title: 'Chapter 37: The Battle of Ahzab'
+  slug: 38-chapter-37-the-battle-of-ahzab
+  uuid: 30c43245-38fe-421f-b976-4f3cb0ad8550
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-38-last-stage-mischief
+  title: 'Chapter 38: The Last Stage of Mischief'
+  slug: 39-chapter-38-the-last-stage-of-mischief
+  uuid: 5969198c-0154-4912-89ab-9485843dd24e
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-39-events-fifth-and-sixth-years-migration
+  title: 'Chapter 39: The Events of the Fifth and Sixth Years of Migration'
+  slug: 40-chapter-39-the-events-of-the-fifth-and-sixth-years-of-migration
+  uuid: 5a3c3a24-0412-4884-a7bc-12c060650438
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-40-events-sixth-year-migration
+  title: 'Chapter 40: The Events of The Sixth Year of Migration'
+  slug: 41-chapter-40-the-events-of-the-sixth-year-of-migration
+  uuid: 0623489a-3700-4ede-9d7a-e20f2067fb47
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-41-religious-and-political-journey
+  title: 'Chapter 41: A Religious and Political Journey'
+  slug: 42-chapter-41-a-religious-and-political-journey
+  uuid: f91f3f03-50df-4f0f-bc7d-0a7baf6750b0
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-42-events-seventh-year-migration
+  title: 'Chapter 42: The Events of the Seventh Year of Migration'
+  slug: 43-chapter-42-the-events-of-the-seventh-year-of-migration
+  uuid: 6fbb628e-ebf5-4067-abfd-fbc7d5fd61c2
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-43-fort-khayber-centre-danger
+  title: 'Chapter 43: Fort of Khayber the Centre of Danger'
+  slug: 44-chapter-43-fort-of-khayber-the-centre-of-danger
+  uuid: d672337a-ae3c-4031-a2ba-67fac578d107
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-44-story-fadak
+  title: 'Chapter 44: The Story of Fadak'
+  slug: 45-chapter-44-the-story-of-fadak
+  uuid: ccdc3631-ff85-48f3-b9d8-21c0230542cf
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-45-lapsed-umrah
+  title: 'Chapter 45: The Lapsed `Umrah'
+  slug: 46-chapter-45-the-lapsed-umrah
+  uuid: b397088f-6b8e-400c-8d6f-9ffa1daf21e3
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-46-events-eighth-year-migration
+  title: 'Chapter 46: The Events of the Eighth Year of Migration'
+  slug: 47-chapter-46-the-events-of-the-eighth-year-of-migration
+  uuid: c2fb3572-3370-449a-a9e0-c533f5803686
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-47-battle-zatus-salasil
+  title: 'Chapter 47: The Battle of Zatus Salasil'
+  slug: 48-chapter-47-the-battle-of-zatus-salasil
+  uuid: e333f575-8f25-40b6-82e3-472f59c83862
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-48-conquest-makkah
+  title: 'Chapter 48: The Conquest of Makkah'
+  slug: 49-chapter-48-the-conquest-of-makkah
+  uuid: 3ad224da-bce3-4593-84cb-62599f7e131c
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-49-battle-hunayn
+  title: 'Chapter 49: The Battle of Hunayn'
+  slug: 50-chapter-49-the-battle-of-hunayn
+  uuid: e6eca356-fc02-4dba-89a0-940383593c01
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-50-battle-ta%E2%80%99if
+  title: 'Chapter 50: The Battle of Ta’if'
+  slug: 51-chapter-50-the-battle-of-ta-if
+  uuid: 6e56efb1-2a86-4639-910f-d8d9e76d46d4
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-51-famous-panegyric-ka%E2%80%99b-bin-zuhayr
+  title: 'Chapter 51: The Famous Panegyric of Ka’b Bin Zuhayr'
+  slug: 52-chapter-51-the-famous-panegyric-of-ka-b-bin-zuhayr
+  uuid: 8452cd53-8cb7-4d2c-af84-1bf19c0ef7b7
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-52-events-ninth-year-migration
+  title: 'Chapter 52: The Events of the Ninth Year of Migration'
+  slug: 53-chapter-52-the-events-of-the-ninth-year-of-migration
+  uuid: b9ca4788-69e0-45ba-9516-45776355833b
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-53-battle-tabuk
+  title: 'Chapter 53: The Battle of Tabuk'
+  slug: 54-chapter-53-the-battle-of-tabuk
+  uuid: 9107685e-ddf2-4e3b-81c4-6ef4882bb19c
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-54-deputation-thaqif-goes-madina
+  title: 'Chapter 54: The Deputation of Thaqif Goes to Madina'
+  slug: 55-chapter-54-the-deputation-of-thaqif-goes-to-madina
+  uuid: e4bba23e-d633-4f10-96a9-2ba0374ddce3
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-55-prophet-mourning-his-son
+  title: 'Chapter 55: The Prophet Mourning for His Son'
+  slug: 56-chapter-55-the-prophet-mourning-for-his-son
+  uuid: bf747b49-76df-411b-9b03-f7f69c4c8d59
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-56-eradication-idol-worship-arabia
+  title: 'Chapter 56: Eradication of Idol-Worship in Arabia'
+  slug: 57-chapter-56-eradication-of-idol-worship-in-arabia
+  uuid: 7121959c-276b-48ed-be6b-d1e684210767
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-57-representatives-najran-madina
+  title: 'Chapter 57: Representatives of Najran in Madina'
+  slug: 58-chapter-57-representatives-of-najran-in-madina
+  uuid: 82f85c6c-3c15-4c4a-ac19-ba5fc2e8d29c
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-58-events-tenth-year-migration
+  title: 'Chapter 58: The Events of the Tenth Year of Migration'
+  slug: 59-chapter-58-the-events-of-the-tenth-year-of-migration
+  uuid: 269b1968-68c7-4dbb-aa83-c372db7c6a5b
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-59-farewell-haj
+  title: 'Chapter 59: The Farewell Haj'
+  slug: 60-chapter-59-the-farewell-haj
+  uuid: 19170636-801f-4dc7-a2bb-bc318278e974
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-60-islam-completed-appointment-successor
+  title: 'Chapter 60: Islam is completed by The Appointment of Successor'
+  slug: 61-chapter-60-islam-is-completed-by-the-appointment-of-successor
+  uuid: 23f670bc-3ad5-40c9-95b7-72eb8291dc39
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-61-events-eleventh-year-migration
+  title: 'Chapter 61: The Events of the Eleventh Year of Migration'
+  slug: 62-chapter-61-the-events-of-the-eleventh-year-of-migration
+  uuid: 104be501-e7fb-44e9-be33-4ebb5e83746c
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-62-will-which-was-not-written
+  title: 'Chapter 62: A Will which was Not Written'
+  slug: 63-chapter-62-a-will-which-was-not-written
+  uuid: b7caab00-d94e-47c9-8ff4-64b7fa799c9c
+- source: :alislam
+  source_url: http://www.al-islam.org/the-message-ayatullah-jafar-subhani/chapter-63-last-hours-prophet
+  title: 'Chapter 63: The Last Hours of the Prophet'
+  slug: 64-chapter-63-the-last-hours-of-the-prophet
+  uuid: 2ac4fe91-9ad3-4b94-b60b-00e9cb25d283
+---

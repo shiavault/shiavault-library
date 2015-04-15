@@ -1,0 +1,40 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/the-ritual-ablutions-for-women-sayyid-muhammad-rizvi
+author: Sayyid Muhammad Rizvi
+publisher: Vancouver Islamic Educational Foundation
+title: The Ritual Ablutions for Women
+slug: the-ritual-ablutions-for-women
+uuid: 722c5cc6-709b-41c7-bf5a-d91ee0e69162
+description: |
+  Knowing the laws regarding the monthly periods and pre or post-natal
+  bleeding is an essential duty of every Muslim woman. This book consists
+  of three parts (1) Menstruation (2) Irregular Bleeding (3) Post-natal
+  Bleeding.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/the-ritual-ablutions-for-women-sayyid-muhammad-rizvi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 96ba22b9-dc70-4364-a4ed-2c510ec8809b
+- source: :alislam
+  source_url: http://www.al-islam.org/the-ritual-ablutions-for-women-sayyid-muhammad-rizvi/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 0efb05e9-9f78-4a32-a005-3d0e3fdaae75
+- source: :alislam
+  source_url: http://www.al-islam.org/the-ritual-ablutions-for-women-sayyid-muhammad-rizvi/istihazah-irregular-bleeding
+  title: Istihazah - The Irregular Bleeding
+  slug: 3-istihazah-the-irregular-bleeding
+  uuid: 3bc724b6-00ca-4389-9e19-ec2c5fc8b343
+- source: :alislam
+  source_url: http://www.al-islam.org/the-ritual-ablutions-for-women-sayyid-muhammad-rizvi/defnition-nifas-post-natal-bleeding
+  title: Defnition Of Nifas - Post Natal Bleeding
+  slug: 4-defnition-of-nifas-post-natal-bleeding
+  uuid: feecd497-a20a-4a65-968e-4f8a7652379a
+- source: :alislam
+  source_url: http://www.al-islam.org/the-ritual-ablutions-for-women-sayyid-muhammad-rizvi/glossary
+  title: Glossary
+  slug: 5-glossary
+  uuid: 5c659461-3679-4902-977c-7c1d6d6e5ac4
+---

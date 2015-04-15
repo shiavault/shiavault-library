@@ -1,0 +1,64 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islamic-thought-book-two-ali-reza-amini-mohsen-javadi
+author: Ali Reza AminiMohsen Javadi
+publisher: ABWA Publishing and Printing Center
+translator: Mansoor L. Limba
+title: Islamic Thought (Ma‘arif Islami) Book Two
+slug: islamic-thought-ma-arif-islami-book-two
+uuid: a12de950-32ed-4728-9f84-7343c888b0a9
+description: |
+  This text is the second of two books and it analyzes the concept of
+  prophethood and Imamate.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-two-ali-reza-amini-mohsen-javadi/publishers-foreword
+  title: Publisher’s Foreword
+  slug: 1-publisher-s-foreword
+  uuid: ff6d360a-81ea-461f-a5ed-755e5f7275f7
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-two-ali-reza-amini-mohsen-javadi/foreword
+  title: Foreword
+  slug: 2-foreword
+  uuid: 30133609-b888-4d73-8e67-f62dfd7c0693
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-two-ali-reza-amini-mohsen-javadi/preface-farsi-edition
+  title: Preface to the Farsi Edition
+  slug: 3-preface-to-the-farsi-edition
+  uuid: 3b2cbfea-3cef-4f15-bc73-7f8029ff9fd6
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-two-ali-reza-amini-mohsen-javadi/chapter-one-prophethood
+  title: 'Chapter One: Prophethood'
+  slug: 4-chapter-one-prophethood
+  uuid: 73b54f12-9f1d-4fc4-a1c8-8260efde22fe
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-two-ali-reza-amini-mohsen-javadi/section-one-necessity-prophethood
+  title: 'Section One: The Necessity of Prophethood'
+  slug: 5-section-one-the-necessity-of-prophethood
+  uuid: cab34ff2-e697-4094-9267-dbae532c5aed
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-two-ali-reza-amini-mohsen-javadi/section-two-contributions-and-blessings
+  title: 'Section Two: The Contributions and Blessings of the Prophets'
+  slug: 6-section-two-the-contributions-and-blessings-of-the-prophets
+  uuid: 72772ae0-95c6-417a-ac53-5b9afeebcab9
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-two-ali-reza-amini-mohsen-javadi/section-three-revelation-and-miracle
+  title: 'Section Three: Revelation and Miracle'
+  slug: 7-section-three-revelation-and-miracle
+  uuid: 6571b382-ba22-4b06-b6d5-c7a92ff3384c
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-two-ali-reza-amini-mohsen-javadi/chapter-two-imamate-and-leadership
+  title: 'Chapter Two: Imamate and Leadership'
+  slug: 8-chapter-two-imamate-and-leadership
+  uuid: f5ea1d61-4a57-4fe8-99e3-dde4b9002485
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-two-ali-reza-amini-mohsen-javadi/section-one-period-presence-im%C4%81ms
+  title: 'Section One: Period of the Presence of the Imāms (‘a)'
+  slug: 9-section-one-period-of-the-presence-of-the-imams-a
+  uuid: 77821b4d-0a4c-4d39-9417-d264e427a033
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-thought-book-two-ali-reza-amini-mohsen-javadi/section-two-period-occultation
+  title: 'Section Two: Period of Occultation'
+  slug: 10-section-two-period-of-occultation
+  uuid: 5d12948b-9687-4909-94f6-bf85f3f2a9ab
+---

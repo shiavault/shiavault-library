@@ -1,0 +1,1034 @@
+Considering Whose Justice? Which Rationality?
+=============================================
+
+Alasdair MacIntyre's *Whose Justice? Which Rationality?*[^1] Is an
+important book, a book with which Muslims, in particular, need to become
+acquainted. The author, Alasdair MacIntyre, is one of the most profound
+and most controversial moralists and social thinkers of our time.
+
+The book, *Whose Justice? Which Rationality?* is not an easy work. It
+requires some familiarity with various details of Western culture, in
+particular its moral and political philosophies. So, rather than merely
+summarize the work, I will try to show why I think it is important for
+Muslim thinkers to read and criticize it.
+
+For this purpose I begin with a general discussion of the work's
+importance in the context of MacIntyre's other writings, and then turn
+to two of the major topics discussed in the work, relativism and
+liberalism, and the related issues of religion and historicism. Along
+the way I offer some humble criticisms of my own, and suggestions for
+further research.
+
+Of all those who have stood against the currents of modernism, Alasdair
+MacIntyre stands out as the philosopher who has offered the most
+profound critique. Born in 1929 in Glasgow, Scotland, he has taught at
+Leeds University, University College, Oxford, the University of Essex,
+Boston
+
+University, Vanderbilt University and the University of Notre Dame, has
+written ten books, has edited important anthologies, and has authored
+about two hundred articles and book reviews. His After virtue, which was
+first published in 1981, sent shock waves through the Western
+intellectual world.[^2] He committed what for many was an unforgivable
+sin when he claimed that the project of the Enlightenment period of
+European thought was a failure.
+
+This rejection of modernist thinking was focused upon moral philosophy,
+but it attracted the attention of a readership much wider than what
+could be expected for a book in ethics. There were even articles in the
+popular press about the revival of Aristotelian thought initiated by
+MacIntyre's work, and in the article on the history of twentieth century
+Anglo-American Ethics in the Encyclopedia of Ethics, Alan
+Donaganpredicts that MacIntyre's attention to Thomistic thought will
+influence the philosophical work to be done in the twenty-first
+century.[^3]
+
+MacIntyre's work has also sparked controversy among political theorists
+and social critics, as well as professional philosophers.[^4]
+Conferences have been convened to discuss his ideas, critical studies of
+his work have been compiled, and several of his books and articles have
+been translated into foreign languages.
+
+In the field of ethics, MacIntyre has spawned a revival of interest in
+Aristotelian ethics with such force that it is now generally recognized
+as serious rival to the two major strands of moral philosophy that have
+been dominant in the West since the Enlightenment: utilitarianism and
+Kantianism.
+
+Numerous books and articles have been written since the publication of
+after virtue proclaiming the advantages of an Aristotelian virtue ethics
+over utilitarian consequentialism and Kantian deontology.
+
+In political theory, there has been a steady stream of writings in which
+liberalism is defended against MacIntyre's criticisms, or elaborating
+those criticisms, often in the form of a communitarian theory which
+MacIntyre himself has repudiated.[^5]
+
+In religious thought, MacIntyre's work has prompted a renewed interest
+in Neo-Thomism, especially as it is related to ethics and social
+political thought.
+
+MacIntyre's emphasis on the importance of history has also led to heated
+discussions in which he has often been accused of being a relativist. It
+was largely in response to this sort of misunderstanding, subsequent to
+the publication of after virtue, that MacIntyre wrote the sequel, Whose
+Justice? Which Rationality? MacIntyre's rejections of historicism and
+relativism in this latter work have also contributed to the depth of the
+discussions of these issues.
+
+So, one reason for reading MacIntyre is because his work has been
+tremendously influential, even among those who disagree with his
+positions. Another reason would be interest in the topics he discusses:
+history, politics, ethics, religion, epistemology, philosophy in general
+and the relations among them. For Muslims, however, there are additional
+reasons to read MacIntyre.
+
+One of the most important issues in Islamic social and political thought
+since the nineteenth century has been the confrontation of traditional
+Muslim societies with
+
+European modernism and one of the most important facets of modernism
+about which Muslim thinkers are concerned is that of political
+liberalism. Muslims who argue that liberal ideals and institutions are
+compatible with Islam are usually classified as modernists. At the other
+extreme are those who would claim that liberal and Islamic thought agree
+on nothing.
+
+The vast majority of Muslim intellectuals and scholars, however, fall
+somewhere between these extremes. The interesting discussion in
+contemporary Muslim social thought is not over whether modernists or
+conservatives hold a more defensible position, but what aspects of
+liberal thought may be accommodated and what aspects must be rejected.
+
+MacIntyre's writings are interesting in this context because, like many
+Muslims, he is very strongly opposed to many aspects of modernism and
+liberalism for what turn out to be ultimately religious
+reasons.Furthermore, the philosophical perspective he seeks to defend, a
+form of Neo-Thomism with a strong emphasis on Aristotle, is more similar
+to the philosophical perspective of traditional Islamic thought than are
+any of the other major tendencies to be found among contemporary Western
+philosophers.
+
+Of course, there remain important differences between the attitudes of
+Muslims and those expressed by MacIntyre, to be discussed below, but
+regardless of our differences, the thought of the most profound critic
+of modernism and liberalism in the West should be of great interest to
+those who feel a need to resist the imposition of modernist and liberal
+thought on Muslim societies, such as those inspired by the warnings of
+the Grand Leader of the Islamic Revolution against the "cultural
+invasion".
+
+Muslim liberals who await a repetition of the European Enlightenment in
+Islamic culture would also be well advised to read MacIntyre, who has
+declared the Enlightenment project to be a failure and ultimately
+incoherent. Perhaps if Muslim modernists would read MacIntyre they would
+become more critical of the claims made on behalf of liberalism, and
+would come to recognize the need to examine the intellectual history of
+their own traditions, as well as those of the West, to find the way
+forward.
+
+Perhaps MacIntyre's books can serve as a kind of vaccination against the
+infatuation with Western culture Persians call *gharbzadigi*.
+
+After Virtue
+------------
+
+The book that initially provoked the great storm of controversy was
+After virtue, and in order to understand the true significance of Whose
+Justice? Which Rationality? One must understand something about the
+earlier work.
+
+After virtue begins with the 'disquieting suggestion' that moral
+discourse in the West has lost its meaning, that it serves as a disguise
+for the expression of preferences, attempts to gain power, emotions and
+attitudes, but that it has ceased to have any relation to what is truly
+good or right. MacIntyre pins responsibility for the collapse of Western
+ethics on the Enlightenment. Much of the book goes on to criticize
+various aspect of Enlightenment thought in Hume, Kant, the
+utilitarian’s, the emotivists, and in contemporary liberal political
+philosophy, especially as elaborated by John Rawls.[^6]
+
+MacIntyre sees only two ways to pass beyond the errors of modernism and
+liberalism: either we must accept a Nietzschean nihilism or we must
+return to an Aristotelian ethics. However, the Aristotelian alternative
+is not a simple return to Greek or medieval systems of thought. For the
+Enlightenment criticisms of scholasticism to be successfully answered,
+the return must be to a reformed Aristotelianism consonant with modern
+science.
+
+This means that the telos or end of man is not to be understood as
+determined by biology; rather it is to be fathomed by reflection on
+history, and the human practices and traditions that have evolved over
+the course of history. The second half of after virtue consists in
+MacIntyre's elaboration of this historically grounded Aristotelianism
+and its development as a theory of the virtues.
+
+Relativism
+----------
+
+Like the Nietzschean critics of the arrogance of the Enlightenment,
+MacIntyre accepts that there is no absolute standpoint from which we can
+arrive at absolute moral truths. Each of us must view the world from his
+own position in history and society.
+
+It is this admission that led many critics of after virtue to accuse him
+of relativism or historicism, and it is largely in response to this
+criticism that Whose Justice? Which Rationality? Was written.
+
+Unlike the Nietzscheans, or genealogists as MacIntyre refers[^7] to
+those often called post modernists, MacIntyre does not accept the claim
+that because we are bound to our finite perspectives conditioned by
+history and social position, we are barred from certainty or absolute
+truth. Rather, he holds that man has the ability to understand rival
+perspectives even when one cannot be translated into the idiom of the
+other.
+
+On the basis of this understanding, rational evaluation and judgment can
+be made with regard to the strengths and weaknesses of the rival
+worldviews and ideologies.
+
+MacIntyre extends this discussion in Whose Justice? Which Rationality?
+Beyond ethics, which was the focus of his attention in after virtue, to
+the very principle of rationality, thus bringing the insight of his
+ethical thought to bear on epistemology.
+
+There are two major themes developed in Whose Justice? Which
+Rationality?: first, there is a continuation of the critique of
+liberalism found in After virtue coupled with an affirmation of a
+religious perspective; and second, there is a rejection of relativism
+coupled with an insistence on the significance of historical
+considerations for the adjudication of disputes across traditions.
+
+When two traditions of thought are so different that what is considered
+self-evident or obvious in one tradition is considered dubious or
+incomprehensible in the other, the very principles of reason come under
+question.
+
+In contemporary Western thought, what are often considered to be
+principles of reason are those that have proven indispensable to the
+natural sciences and mathematics. If one wants to judge whether this
+view of rationality is correct or that, for example, found in the works
+of Muslim philosophers, one must be very careful to avoid begging the
+question by using the very principles in one's evaluation that are under
+dispute.
+
+Relativists have considered such controversies to be irresolvable. They
+claim that we are stuck inside our own worldviews, unable to make
+judgments on any of them. MacIntyre distinguishes two forms of
+relativism, which he terms relativist and perspectivalist.
+
+The relativist claims that there can be no rationality as such, but only
+rationality relative to the standards of some particular tradition. The
+perspectivalist claims that the central beliefs of a tradition are not
+to be considered as true or false, but as providing different,
+complementary perspectives for envisaging the realities about which they
+speak to us.
+
+MacIntyre argues that both the relativist and the perspectivalist are
+wrong. They are wrong because they fail to admit the absolute timeless
+character of the truth, and would replace truth by what is often called
+warranted assertibility.[^8] Instead of truth; they hold that the best
+we can attain is the right or warrant to assert various statements in
+various circumstances.
+
+MacIntyre's solution to the problem of how to reach absolute truth from
+a historically limited position is that attention to history itself may
+reveal the superiority of one tradition over another with respect to a
+given topic.
+
+To have passed through an epistemologicalcrisis successfully enables the
+adherents of a tradition of enquiry to rewrite its history in a more
+insightful way. And such a history of a particular tradition provides
+not only a way of identifying the continuities in virtue of which that
+tradition of enquiry has survived and flourished as one and the same
+tradition, but also of identifying more accurately that structure of
+justification which underpins whatever claims to truth are made within
+it, claims which are more and other than claims to warranted
+assertibility.
+
+The concept of warranted assertibility always has application only at
+some particular time and place in respect of standards then prevailing
+at some particular stage in the development of a tradition of enquiry,
+and a claim that such and such is warranted assertible always,
+therefore, has to make implicit or explicit references to such times and
+places. The concept of truth, however, is timeless.[^9]
+
+MacIntyre argues that since a tradition can fail to pull through an
+epistemological crisis on its own standards, the relativist is wrong if
+he thinks that each tradition must always vindicate itself. MacIntyre
+further argues that there are cases of cultural encounter in which one
+must come to admit the superiority of an alien culture in some regard,
+because it explains why the crisis occurred and does not suffer from the
+same defects present in one's own culture.  
+ It is in this way that the people of Rome could come to accept
+Christianity, and the people of Iran, Islam. Each people saw that their
+own traditions had reached a point of crises, a point at which further
+progress could only be made by the adoption of a new religion.
+
+The relativist claims that there is no way in which a tradition can
+enter into rational debate with another, "But if this were so, then
+there could be no good reason to give one's allegiance to the standpoint
+of any one tradition rather to that of any other."[^10]
+
+To the contrary, MacIntyre claims that the question of which tradition
+to which one is to give one's allegiance is far from arbitrary, and the
+intellectual struggle of all those who have changed their minds about
+the correctness of an intellectual or spiritual tradition is more than
+ample evidence that the question, “Which side are you on?" is one which
+requires rational evaluation, however much other factors may come into
+play.
+
+Perhaps MacIntyre is reflecting here on his own brief membership in the
+Communist Party and subsequent rejection of Marxism and conversion to
+Catholicism. One who adopts an intellectual position must always ask
+himself if it can adequately respond to criticism, criticism that can
+mount to produce what may be termed an epistemological crisis. "It is in
+respect of their adequacy or inadequacy in their responses to
+epistemological crises that traditions are vindicated or fail to be
+vindicated."[^11]
+
+MacIntyre also argues that the position of the relativist is
+self-defeating. The relativist pretends to issue his challenge from a
+neutral ground where different traditions may be compared and truth may
+be proclaimed relative to each of them. But this is as much a claim to
+absolute truth as any other. This argument and others similar to it
+which are to be found in Whose Justice? Which Rationality? Have provoked
+penetrating criticism.
+
+John Haldane has argued that one need not assume that there is some
+neutral ground from which to issue the relativist claim.[^12] Within an
+intellectual tradition, one may observe that there are other
+incommensurable traditions and decide that relativism best explains
+this.
+
+MacIntyre accepts Haldane's point, admitting that the case against
+relativism in Whose Justice? Which Rationality? Needs to be amended. At
+the same time, he points out that within every major intellectual
+tradition; various claims are presented about morals and rationality as
+absolutely true.
+
+The problem is then raised as to how this anti-relativistic commitment
+to truth can coexist with the recognition of rival intellectual
+traditions with their different standards of rationality and morality.
+
+MacIntyre's solution is that common standards are to be sought, even
+where none exist, by dialectical interchange between the rival
+viewpoints. One tradition of inquiry will be in a position to uphold the
+truth of its claims against rivals in which those claims are not
+recognized when it develops the intellectual apparatus to explain the
+rival viewpoint, and why the disagreement has arisen, and why the rival
+is incorrect.
+
+In other words, through intellectual conflict between traditions, a
+tradition can vindicate itself only when it can enrich its own
+conceptual resources sufficiently to explain the errors of its rivals.
+This kind of conflict and progress is only possible when there is a
+commitment to finding the truth.
+
+With relativism there can be no intellectual advancement, because there
+is no attempt made to adjudicate among different theoretical viewpoints,
+and without the attempt to reach a more comprehensive position in which
+truth and falsity can be distinguished, traditions cannot evolve
+rationally, nor can they maintain their previous truth claims.
+
+MacIntyre sees relativism as tempting those who despair of intellectual
+advancement, and for the sake of intellectual advancement, he sees it as
+a temptation that must be avoided.
+
+MacIntyre dismisses the perspectivalist position with the rebuff,
+"theirs is not so much a conclusion about truth as exclusion from it and
+thereby from rational debate."[^13] The perspectivalist, like the
+reductive religious pluralist, states that rival traditions provide
+different views of the same reality, and none can be considered
+absolutely true or false.
+
+MacIntyre objects that the traditions really do conflict with one
+another, and the fact that they are rivals itself bears testimony to
+their substantive disagreements over what is true and false. The claim
+that there is no ultimate truth of the matter is really just a way of
+avoiding the work that needs to be done in order to determine exactly
+where and in what respects in each of the rival traditions the truth
+lies, and when the differences in the rivals is so deep that the very
+principles of rationality are called into question, the rivalry produces
+an epistemological crisis, but even here, the need and duty to provide a
+rational evaluation of the rivals remains.
+
+MacIntyre contends that epistemological crisis occurs when different
+traditions with different languages confront one another. Those who
+learn to think in both languages come to the understanding that there
+are things in one language for which the other does not have the
+expressive resources, and thereby they discover a flaw in the deficient
+tradition.
+
+In this way he shows how rational evaluation of different traditions is
+possible, although this evaluation itself must begin from within a
+specific tradition. His emphasis on the fact that the starting point of
+our inquiry is tradition bound is comparable to a common theme among
+writers in the hermeneutic tradition, such as Gadamer.
+
+The fantasy of universal standards of reason to which all rational
+beings must submit by virtue of being rational has been abandoned. This
+separates MacIntyre from traditional writers, as Thomas McCarthy has
+observed:
+
+Even arguments like Alasdair MacIntyre's for the superiority of
+pre-modern traditions are not themselves traditional arguments but the
+traditionalistic arguments of hyper-reflexive moderns.[^14]
+
+What distinguishes MacIntyre from others who share his sensitivity to
+context dependency is his robust sense of the truth. The
+incommensurability of competing traditions, according to MacIntyre, is
+not as absolute as some have imagined.
+
+Logic retains authority, even if its principles are disputed, and what
+is sought is truth, and although he rejects correspondence theories of
+truth that would pair judgments to facts (because he considers the
+concept of fact to be an invention of seventeenth century European
+thought), the theory of truth to which he gives his allegiance is still
+a correspondence theory.[^15]
+
+In response to a sympathetic comparison between his position and views
+current among certain philosophers of science, MacIntyre objects:
+
+I had hoped that what I had said about truth in enquiry in Chapter 18 of
+Whose Justice? Which Rationality? Would have made it adequately clear
+that I regard any attempt to eliminate the notion of truth from that of
+enquiry as bound to fail. It is in part for this reason that I regard
+the Nietzschean tradition as always in danger of lapsing into fatal
+incoherence.[^16]
+
+MacIntyre's solution to the problem of relativism is especially
+important for Muslims because it offers a way to break the deadlock
+between Muslim intellectuals who, over impressed with the intellectual
+traditions of the West, deny that Islam asserts any absolute truths that
+man is capable of grasping, and those 'ulama who insist on the
+self-evidence of the fundamental truths of their own traditions without
+seeing that such claims are ineffective against rival systems of thought
+in which there are profound differences about what, if anything, is to
+be considered self-evident.
+
+The solution MacIntyre offers is one in which there is hope that the
+absolute truths of Islam can be rationally defended against opponents as
+certain, but only by developing the Islamic intellectual traditions to
+the point that they are able to explain the successes as well as the
+failures of their rivals.
+
+Liberalism
+----------
+
+MacIntyre's disappointment liberalism is more extensive and more
+profound that that of other Western critics: more extensive because it
+applies to the political theories of the left and the right, more
+profound because it traces the failings of liberalism to its origins in
+the Enlightenment, and traces the injustice of the modern nation-state
+to its very essence. As Ronald Beiner observes:
+
+What makes MacIntyre unique? Is that for him the problem is not merely
+individualism or liberalism but modernity as such. Therefore he includes
+even Marxism within the scope of his critique.[^17]
+
+In some ways, MacIntyre's rejection of liberalism is similar to his
+rejection of relativism. Just as the relativists contradicts himself if
+he would proclaim the absolute truth of the proposition that there are
+no absolute truths, the liberal contradicts himself by proclaiming
+neutrality between all ideologies, when, in fact, liberalism itself is
+an ideology.
+
+Liberalism is an intellectual tradition as ideological as any other, and
+it allows for scholarly inquiry only after initiation into accepted
+modes of appraisal which deny the worth of serious challenges to
+liberalism itself.
+
+Just as Haldane argued that the relativist need not claim that
+relativism is absolutely true independent of any tradition, defenders of
+liberalism have responded to MacIntyre's criticism of liberalism by
+admitting that liberalism is an ideology, that it is not absolutely
+neutral.[^18]
+
+In Whose Justice? Which Rationality? MacIntyre responds that liberalism
+is a defective and ultimately incoherent ideology. His insight into the
+defects of liberalism is one that was first expressed in his first
+book,Marxism:
+
+An Interpretation, which was written when he was only twenty-three years
+old. In the revised edition of this work MacIntyre emphasizes the need
+for an ideology on the scale of Christianity or Marxism that can offer
+an interpretation of human existence by means of which people can
+situate themselves in the world and direct their actions to ends that
+transcend their own immediate situations. He argues that liberalism is
+an ideology that cannot function effectively as such.
+
+The axis about which the failure of liberalism turns is its assertion of
+the fact! Value gap.[^19] Liberalism fails as an ideology because it
+does not permit one to discover one's own identity and appropriate ends
+by gaining knowledge of nature and society, or by understanding human
+existence in relation to al­laqq, the Exalted. In liberalism, all values
+are personal except the value of respecting personal values, and this is
+simply not sufficient to orient one's life.
+
+Modernism inhibits orientation because from the point of view of modern
+liberalism, religious traditions seem irrational. The standards of
+rationality to which the religious traditions of enquiry appeal are so
+different from those which dominate the natural and social sciences in
+the West today that traditional and modernist ways of thinking have
+become nearly mutually incomprehensible.
+
+Nevertheless, a tradition may come to be rationally accepted by those
+who live within the horizons of Western liberal culture once they come
+to recognize themselves as imprisoned by a set of beliefs which lack
+justification in precisely the same way and to the same extent as do the
+positions which they reject but also to understand themselves as
+hitherto deprived of what tradition affords, as persons in part
+constituted as what they are up to this point by an absence, by what is
+from the standpoint of traditions an impoverishment.[^20]
+
+The impoverishment of which MacIntyre speaks here is one which Islam
+excels at eradicating. What the individual posited by liberal theory
+lacks is an effective ideology to provide understanding and purpose on
+the basis of which communities can be established. Modern liberal
+thinkers imagine themselves to be independent, far beyond the
+constraints of any ideology, but MacIntyre charges that from an
+Aristotelian point of view they have refused to learn or have been
+unable to learn that "one cannot think for oneself if one thinks
+entirely by oneself," and that it is only by participation in rational
+practice-based community that one becomes truly rational.
+
+MacIntyre admits that this kind of recognition amounts to a sort of
+conversion. Individuals at the point of conversion will invite a
+tradition of enquiry to furnish them with a kind of self-knowledge which
+they have not as yet possessed by first providing them with an awareness
+of the specific character of their own incoherence and then accounting
+for the particular character of this incoherence by its metaphysical,
+moral, and political scheme of classification and explanation.
+
+The catalogs of virtues and vices, the norms of conformity and deviance,
+the accounts of educational success and failure, the narratives of
+possible types of human life which each tradition has elaborated in its
+own terms, all these invite the individual educated into self-knowledge
+of his or her own incoherence to acknowledge in which of these rival
+modes of moral understanding he or she finds him or herself most
+adequately explained and accounted for.[^21]
+
+Not only does MacIntyre explain how someone in a liberal society may
+evolve to the point of being able to convert to a religious tradition,
+his astute observations regarding the logic of liberal thought also
+helps to illuminate the West's failure to understand and hostility
+toward the current Islamic movement.
+
+The liberal's moral analysis is one that begins by abstracting the
+claims to be debated from their contexts in tradition, and then proceeds
+with an evaluation of rational justifiability that is supposed to
+convince any rational person. The liberal fantasy of universal progress
+implies that the most rational standards are those that dominate the
+most recent trends of its own thought.
+
+To the extent that Muslims are unwilling to adopt the standards of
+modernism, they are thought to be irrational. Islamic intellectual
+traditions are taken to be more or less the same as what the West
+progressed beyond when it abandoned medieval scholasticism.
+
+The caricature of Islam drawn by the liberal West requires neglect of
+the particularities of character, history, and circumstance. This makes
+it impossible to engage in the kind of rational dialogue that could move
+through argumentative evaluation to the rational acceptance or rejection
+of a tradition.
+
+Thus, the kind of debate which is enforced in the public forums of
+enquiry in modern liberal culture for the most part effectively preclude
+the voices of tradition outside liberalism from being heard.
+
+Materialistic consumerism is a direct result of the liberal's pretense
+of neutrality. Since all the citizens of the liberal state are supposed
+to be free to pursue their own happiness, and since despite their
+differences about what ultimate happiness is, the vast majority seem to
+be in agreement on the idea that its pursuit is aided by ever increasing
+acquisition and consumption, which goes by the euphemism of economic
+development, it becomes nearly self-evident that it is in the national
+interests of the liberal state to pursue economic development.[^22]
+
+MacIntyre explains that those who adhere to the standpoint dominant in
+peculiarly modern societies recognize that acquisitiveness is a
+character trait indispensable to continuous and limitless economic
+growth, and one of their central beliefs is that continuous and
+limitless economic growth is a fundamental good. That a systematically
+lower standard of living ought to be preferred to a systematically
+higher standard of living is a thought incompatible with either the
+economics or the politics of peculiarly modern societies..
+
+But a community which was guided by Aristotelian norms would not only
+have to view acquisitiveness as a vice but would have to set strict
+limits to growth insofar as that is necessary to preserve or enhance
+adistribution of goods according to desert.[^23]
+
+From the Aristotelian point of view advocated by MacIntyre, the problem
+with the modern liberal state goes way beyond its worldliness. There is
+no way, MacIntyre insists, for those who rule in a modern state to avoid
+doing injustice.
+
+Modern nation-states which masquerade as embodiments of community are
+always to be resisted. The modern nation-state, in whatever guise, is a
+dangerous and unmanageable institution, presenting itself on the one
+hand as a bureaucratic supplier of goods and services, which is always
+about to, but never actually does, give its clients value for money, and
+on the other as a repository of sacred values, which from time to time
+invites one to lay down one's life on its behalf; .it is like being
+asked to die for the telephone company. . To empower even the liberal
+state as a bearer of values always imperils those values..[^24]
+
+His criticism of the liberal state is so harsh that it could be mistaken
+for a form of anarchism was it not for the fact that he explicitly
+advises his readers to cooperate with the state by paying their taxes.
+What sort of politics does MacIntyre advocate?
+
+MacIntyre suggests that the focus of the political life of an
+Aristotelian of the sort he lauds should be "the family, the
+neighborhood, the workplace, the parish, and the school, or clinic,
+communities within which the needs of the hungry and the homeless can be
+met."[^25] Are we then to leave the state to "the barbarians" mentioned
+at the close of After virtue?[^26]
+
+And what are we to do about the hungry and homeless who live outside our
+parish? Is it not incumbent upon a religious society to take the reins
+of state power out of the hands of those who are driving it to ruin,
+even if the nation-state of its own momentum will not readily change
+course? A more realistic political Aristotelianism than the one
+advocated by MacIntyre would not shun the need to shoulder the burden of
+the modern state in full recognition of its deficiencies and in the hope
+that it could be transformed into something better.
+
+MacIntyre does not see this as a live option because he seems to be
+thinking of Europe and the U.S., where the prospects for anything better
+than liberal government are unpromising, because the major alternative
+there to liberalism is nationalism, and nationalism easily degrades into
+the fascist rage we have witnessed in the attempt to exterminate the
+Muslims of Bosnia.  
+ Within Muslim societies, however, there is an alternative to both
+nationalism and liberalism that is not taken seriously by Western
+theorists.[^27]
+
+MacIntyre's retreat to the local takes the punch out of his critique of
+liberalism. Liberals do not oppose local associations with substantive
+ideologies, values and purposes. Liberal political theory is a theory of
+government, not of local voluntary associations. If MacIntyre had
+announced at the start of his book that his quarrel with liberalism was
+over how local associations are to be organized, and not about
+government, it would not have attracted the attention it has.
+
+Indeed, if one were to read Whose Justice? Which Rationality? from the
+start with the assumption that the critique of liberalism was not to
+extend to liberal theories of government, much of what MacIntyre says
+would not make any sense.
+
+Consider the passage quoted above in which limits to economic growth are
+advocated. What is at issue here is how whole societies conduct their
+economic affairs, and no matter how large and thriving the private
+sector of any society is, the role of governments in directing the
+economic affairs of the societies they rule is undeniable.
+
+So, what MacIntyre is objecting to is the flaws of liberal governments
+and of liberal theories of how governments should conduct their affairs.
+
+Here again, MacIntyre's work should be helpful for those engaged in the
+development of Islamic political theory. If we accept MacIntyre's
+critique of the modern form of nation state, the creation of Islamic
+republic’s cannot be the ultimate goal of Islamic political activity,
+but only an intermediary stage in a development leading to more
+perfectly Islamic forms of governance, culminating in the governance of
+the *Vali al­'Asr (as)* , may his emergence be hastened.
+
+Religion
+--------
+
+Muslims share a common cause with Western critics of liberalism, such as
+MacIntyre and others who have launched their criticisms from a religious
+standpoint. By examining this work it may even be discovered that this
+sort of criticism is more appropriate from an Islamic standpoint than
+from a Neo-Thomist one.
+
+The alienation expressed by MacIntyre is a social one, but there are
+deeper forms of alienation, which from the religious point of view have
+their source in distance from God. The sort of community MacIntyre seeks
+is one whose rival paradigms are those of the Christian Church and the
+Muslim ummah.
+
+But the source of the cohesion of these communities is their harmony
+with the divine order. If the methods of evaluation of rival traditions
+as outlined by MacIntyre are to be employed to compare Christendom and
+the ummah, it will be necessary to examine the ways in which the
+intellectual traditions within the two communities have responded and
+continue to formulate responses to the challenge of liberal modernism.
+
+For his own part, MacIntyre concludes that the Thomistic synthesis of
+Augustinian and Aristotelian thought has been confirmed in its
+encounters with other traditions. But the analysis he offers is not
+specific to the defense of Catholicism, but rather may be used to
+support various forms of traditional thought against the secular liberal
+scientism that prevails in the West.
+
+Indeed, a major flaw in all of MacIntyre's writings is that it fails to
+pay any attention to Islam at all. When MacIntyre compares competing
+traditions of liberal, Marxist and religious thought, the term religious
+can always be replaced by Christian without altering the intended
+meaning.[^28]
+
+Prior to his conversion to Neo-Thomism, which occurred sometime between
+the writing of After virtue and Whose Justice? Which Rationality?,
+MacIntyre could be scathingly critical of Christianity, even if, at the
+very same time, appreciative of its strengths.[^29]
+
+The weaknesses of Christianity to which he drew attention in his first
+book were its dogmatism and otherworldliness-its inherent tendency to
+disown its own revolutionary vision, to circumscribe itself within the
+spiritual and to accommodate itself to the status quo, even if this
+meant tyranny.
+
+Nothing in Whose Justice? Which Rationality?explains how these
+criticisms are to be answered. Islam, on the other hand, has not
+disowned its revolutionary vision, nor has it had an episode comparable
+to Galileo's encounter with the Inquisition.
+
+This is not to deny that terrible injustices have been and continue to
+be perpetrated in the name of Islam, nor that fanatical intolerance has
+not marred doctrinal disputes among Muslims. Nevertheless, it must be
+admitted that the dogmas accepted by Muslims have not prevented them
+from accepting the natural sciences or technology, nor from the adoption
+of Western social institutions when it has appeared (rightly or wrongly)
+rational to do so.
+
+It must also be admitted that the call for justice issued by Islam,
+particularly in its Shi'i version, retains its ability to inspire
+revolutionary fervor. Muslims have not abandoned the hope for a just
+society in this world.
+
+Because it began as a political no less than spiritual movement, Muslims
+cannot deny that Islam demands them to seek justice in the here and now.
+Because of the priority of the spiritual, however, Islam is able to
+provide the moral basis and orientation lacking in secular ideologies.
+
+MacIntyre's failure to answer his own criticisms of Christianity have
+left at least one Muslim reader with the impression that his work
+provides a better defense of Islam than it does for the Christianity he
+himself professes.
+
+History
+-------
+
+The review I have presented thus far of Whose Justice? Which
+Rationality? May give the false impression that the book consists of
+highly abstract discussions of such issues as relativism, liberalism,
+rationality and religious traditions.
+
+Such discussions are indeed to be found between the covers of this
+volume, but the bulk of the work is history. The concepts of justice and
+practical rationality are examined through their historical developments
+in four traditions: Aristotelian, Augustinian, Humean and modern
+liberal.
+
+The book is divided into twenty chapters, the first of which is an
+introduction. There follow seven chapters on the evolution of the
+concepts of justice and practical rationality from the Homeric period,
+through Plato and culminating in one chapter each on Aristotle's
+conceptions of justice and practical rationality.
+
+Next come three chapters on Augustine and the synthesis between
+Aristotelian and Augustinian thought formulated by Aquinas. Five
+chapters follow this on the Scottish Enlightenment, ending with a
+critique of Hume. There is only one chapter specifically devoted to
+modern liberalism, and then three more to draw conclusions.
+
+MacIntyre contends that the concepts of justice and practical
+rationality must be studied through the examination of the traditions in
+which these concepts have emerged. But the history MacIntyre tells is
+not a mere recounting of what was said or written in the past; rather,
+it is a critical history in which triumphs and defeats are evaluated,
+and lessons drawn for contemporary thinking on the relevant issues.
+
+The critique of liberalism, for example, is not confined to the chapter
+devoted specifically to this topic, but is a theme that recurs amidst
+historical discussions of earlier traditions of enquiry. As a result,
+the history of ideas recounted by MacIntyre is not a mere succession of
+doctrines espoused and then forgotten, but it is a history of how ideas
+become influential, are misunderstood and are reformed and synthesized
+with others through an ongoing process of rational evaluation in which
+the very standards of rational evaluation themselves take part in the
+process.
+
+It is here that MacIntyre may be misunderstood as advocating
+historicism, the view that reality is beyond the reach of the human
+intellect because the intellect is forever held captive to the
+prejudices and other shortcomings of its historical situation.
+
+This sort of historicism is said to result from subtracting the notion
+of Absolute Mind from Hegel's philosophy,[^30] and it is not uncommon
+among twentieth century philosophers. Versions of it have been
+propounded by Dewey, Rorty, Gadamer and Foucault. But MacIntyre
+explicitly rejects historicism in both its Hegelian and its more recent
+formulations.
+
+And here our discussion of the role of history in MacIntyre's work
+returns us to the rejection of relativism. Contrary to the relativist
+historicists, he holds that it is precisely through the study of the
+history of rational debate that the timeless truth reveals itself, and
+furthermore, he claims that this approach to reality is advocated by
+Aquinas.
+
+MacIntyre is aware that it will be objected that rational justification,
+according to both Aristotle and Aquinas, is a matter of deducibility
+from first principles, in the case of derived propositions, and of the
+self-evidence of these first principles as necessary truths.
+
+MacIntyre responds that this objection fails to recognize the difference
+between rational justification within a science and the rational
+justification of the sciences. It is only the former sort of
+justification that proceeds by way of deduction and self-evidence.
+
+Rational justification within a perfected science is indeed a matter of
+demonstrating how derivative truths follow from the first truths of that
+particular science, in some types of case supplemented by additional
+premises; and the justification of the principles of a subordinate
+science by some higher-order enquiry will be similarly
+demonstrative.[^31]
+
+As for the rational justification of the sciences, however, this method
+is inadequate, for here we face disagreement about what is self-evident.
+But in the face of this disagreement we are not to despair, for the
+intellect has the capacity for dialectical as well as deductive
+reasoning. The passage quoted above continues:
+
+First principles themselves will be dialectically justifiable; their
+evidentness consists in their recognizability, in the light of such
+dialectic, as concerning what is the case per se, what attributes, for
+example, belong to the essential nature of what constitutes the
+fundamental subject matter of the science in question.
+
+MacIntyre continues with the admission that there are some
+first-principles, such as the logical relations between wholes and
+parts, that any rational being must find undeniable. But these alone
+will not be sufficient to provide the necessary basis for the deductive
+justification of the sciences.
+
+The self-evident principles admitted by rival traditions of enquiry will
+not be sufficient to settle the disputes between them. For disputes at
+such a fundamental level there is no alternative but examination of the
+history of thought on the disputed subject, an appreciation of the
+insights to be gained from each of the rival modes of enquiry, and an
+attempt to find a place in one's own tradition for the truths formulated
+in the rival tradition.
+
+In this way, we find suggestions in Whose Justice? Which Rationality?
+for a program which would lead to the development of Islamic thought,
+and whose successful completion would result in the revival and
+vindication of its traditions of enquiry in the international market
+place of ideas as well as Islamic centers of learning, God willing!
+
+Needless to say, the task at hand is a great one that we should not
+expect to be completed in one or two generations. However, there is
+reason to be cautiously optimistic. The first steps along this path in
+twentieth century thought have already been taken by such scholars as
+Shahid Mutahhari and Shahid Sadr who have shown that Islamic thought is
+sufficiently rich and flexible to demonstrate its superiority over
+Marxism.
+
+Despite this success, work remains to be done even with regard to
+Marxism in order deepen the critique and thereby to secure the territory
+gained. There is also a daunting amount of historical research that
+needs to be done on the developments which have taken place within the
+Islamic sciences, and not merely philosophy, but the entire spectrum of
+Islamic thought, from fiqh to mathematics.
+
+We need to understand, for example, how Aristotle's understanding of
+practical rationality and justice were transformed in the hands of Ibn
+Sina, not merely insofar as Neoplatonic elements were incorporated, but
+how the doctrines of Aristotle were reformulated in Farabi's thought and
+then adopted by Ibn Sina, and exactly how much was changed of this and
+why by the Safavid period philosophers such as Sadr al-Muta'alihin.
+
+This kind of work requires close textual analysis, and an excellent
+place to begin is with the themes of Whose Justice? Which Rationality?
+The concepts of justice and practical rationality. MacIntyre did not
+review Islamic thought on these issues, but then this is not really his
+area. Without a familiarity with the relevant Arabic texts, the task
+cannot be done. This is a task to be taken up by Muslim scholars, and
+God willing, it will be.
+
+What the study of MacIntyre's work promises for Muslims is an example of
+how the history of ideas can increase one's understanding of
+philosophical differences, and how that understanding can be used to
+mount a criticism of elements of Western culture Muslims have also found
+objectionable. At every turn, further research by Muslim scholars
+suggests itself.
+
+For example, what are the similarities and differences between the
+criticism of modernism offered by MacIntyre and that offered by Muslim
+thinkers? How do the concepts of justice employed by Muslim scholars
+compare to those exhibited in the four traditions MacIntyre discusses in
+Whose Justice? Which Rationality??
+
+What are the similarities and differences between the account of
+dialectic found in Aquinas and that of the Kitab al-Jadal that scholars
+say is mistakenly attributed to Farabi? What are the differences between
+the concept of the nation-state as understood in Western political
+philosophy and the political entities discussed by Muslim political
+thinkers? This list could easily be extended for pages.
+
+Muslim thinkers have often neglected the history of ideas in favor of a
+more direct approach to the ideas themselves. While it may be a useful
+exercise to consider the positions of ancient and medieval authors
+without regard to the historical contexts in which these positions were
+formulated, history brings depth to understanding.
+
+When we come to appreciate how ideas have been forged under the cultural
+pressures of their times, we gain the ability to look more critically at
+our own ideas, suspecting that they, too, may have evolved through a
+process of selection to which we may not give our approval.
+
+This critical attitude may aid us in our attempts to uncover hidden
+assumptions in our own thinking and in the thinking of those whom we
+would criticize. Once these assumptions are made explicit, we can
+examine the arguments and intuitions relevant to them.
+
+It seems somewhat ironic that while many have claimed that an historical
+consciousness is one of the chief distinctions of the Semitic religions,
+in contrast to Neo-Platonism, for example, and while we find a very
+subtle historical consciousness advocated in the Qur'an, much of the
+thought produced by Muslim scholars, even traditional Islamic thought,
+seems oblivious to the currents of history.
+
+Perhaps it is even more ironic to find that it is precisely this neglect
+of historical forces that allows modernist ideas to slip through the
+defenses of Muslim scholars and intellectuals.
+
+We often find commentators who claim that some historical period in the
+development of Europe, the Renaissance, the Reformation, the
+Enlightenment, has not yet occurred in the world of Islam, as if it were
+destined by historical necessity that the rest of the world must repeat
+the phases of European cultural transformation.
+
+An appreciation of the historical narrative of Islamic thought should
+help to make it clear why this will not occur, and perhaps even why it
+is not desirable.
+
+The study of MacIntyre is useful because it provides the deepest
+criticism from within the West of the cultural developments lumped
+together under the heading of modernism. MacIntyre's dissatisfactions
+with modern currents will resonate with Muslims who have not already
+unconsciously lost touch with their own traditions in their efforts to
+'catch up' with Western technology, Western management, and Western
+intellectual fashion.
+
+I pray that the translators of MacIntyre's work will be successful, that
+Muslims will struggle through the issues raised by MacIntyre, and that
+they will not merely read his work, but will be inspired by it to
+advance Islamic scholarship, God willing!
+
+[^1]: (Notre Dame: University of Notre Dame Press, 1988).
+
+[^2]: Alasdair MacIntyre, After virtue: A Study in Moral Theory, 2nd
+edition (Notre Dame: University of Notre Dame Press, 1984). The
+translation of this work into Farsi by Shomali and Shahriari is at
+press. A lengthy serialized review by the translators continues to
+appear in Ma'rifat. The translation of Whose Justice? Which Rationality?
+Into Farsi by Mustafa Malikiyan is also at press at the time of this
+writing (November 1999).
+
+[^3]: Lawrence Becker, ed. Encyclopedia of Ethics (New York: Garland,
+1992), 543.
+
+[^4]: See Peter McMylor, Alasdair MacIntyre: Critic of Modernity
+(London: Routledge, 1994), and After MacIntyre: Critical Perspectives on
+the Work of Alasdair MacIntyre, ed., John Horton and Susan Mendus (Notre
+Dame: University of Notre Dame Press,1994).
+
+[^5]: Communitarians emphasize the importance of reference to one's
+community in accounts of the self, moral agency and practical reasoning,
+and they advocate a politics designed to nourish the community and its
+values at the expense of individual autonomy and liberal rights. More
+will be said about MacIntyre's rejection of communitarianism later in
+this review.
+
+[^6]: The most important defense of political liberalism in the
+twentieth century is Harvard professor John Rawls', A Theory of Justice
+(Cambridge: Harvard University Press, 1971).
+
+[^7]: In his Three Rival versions of Moral Enquiry: Encyclopedia,
+Genealogy, and Tradition (Notre Dame: University of Notre Dame Press,
+1990).
+
+[^8]: See MacIntyre (1988), 169.
+
+[^9]: MacIntyre (1988), 363. 139 MacIntyre (1988), 366.
+
+[^10]: MacIntyre (1988), 366.
+
+[^11]: MacIntyre (1988), 366.
+
+[^12]: See John Haldane, "MacIntyre's Thomist Revival: What Next?" in
+After MacIntyre, 96-99, and MacIntyre's response in the same volume,
+294-297. Haldane is Director of the Center for Philosophy and Public
+Affairs at the University of St. Andrews.
+
+[^13]: MacIntyre (1988), 368.
+
+[^14]: Thomas McCarthy, "Philosophy and Critical Theory," in David
+Couzens Hoy and Thomas McCarthy, Critical Theory (Oxford: Blackwell,
+1996), p. 47. McCarthy is an expert in contemporary German philosophy
+and social thought at Northwestern University.
+
+[^15]: See MacIntyre (1988) 356f.
+
+[^16]: After MacIntyre, 297-298. Here MacIntyre is responding to the
+Hegel scholar, Robert Stern of the University of Sheffield.
+
+[^17]: Ronald Beiner, What's the Matter with Liberalism? (Berkeley:
+University of California Press, 1992), 35. Beiner is a political
+philosopher at the University of Toronto.
+
+[^18]: See Stephen Mulhall and Adam Swift, Liberals and Communitarians,
+2nd ed., (Oxford: Blackwell, 1996).
+
+[^19]: Alasdair MacIntyre, Marxism and Christianity (Notre Dame:
+University of Notre Dame Press, 1984), 124.
+
+[^20]: MacIntyre (1988), 396.
+
+[^21]: MacIntyre (1988), 398.
+
+[^22]: For a critique of unrestrained development by the Muslim American
+scholar of tasawwuf, William Chittick, see his "Toward a Theology of
+Development", Echo of Islam, October 1994, the Farsi translation of
+which, by Narjess Javandel, appeared in Ma'rifat, No. 14, 40-49.
+
+[^23]: MacIntyre (1988), 112. See Beiner (1992), 164.
+
+[^24]: After MacIntyre, 303
+
+[^25]: Interview with Alasdair MacIntyre in The American
+Philosopher,Giovanna Borradori (Chicago: University of Chicago Press,
+1994),p. 151.
+
+[^26]: There he writes: "What matters at this stage is the construction
+of local forms of community within which civility and the intellectual
+and moral life can be sustained through the new dark ages which are
+already upon us. And if the tradition of the virtues was able to survive
+the horrors of the last dark ages, we are not entirely without grounds
+for hope. This time however the barbarians are not waiting beyond the
+frontiers; they have already been governing us for quite some time."
+After virtue, 263.
+
+[^27]: See Beiner (1992), 30-31.
+
+[^28]: MacIntyre admits his neglect of Islam, despite its importance,
+"not only for its own sake but also because of its large contribution to
+the Aristotelian tradition," in the first chapter of Whose Justice?
+Which Rationality? 11.
+
+[^29]: See Alasdair MacIntyre, Marxism and Christianity (Notre Dame:
+University of Notre Dame Press, 1984).
+
+[^30]: See Hilary Putnam, "Beyond Historicism" in Realism and Reason:
+Philosophical Papers volume 3 (Cambridge: Cambridge University Press,
+1983), 287-288.
+
+[^31]: MacIntyre (1988), 173.
+
+

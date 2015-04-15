@@ -1,0 +1,49 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/ahl-al-bayt-celestial-beings-earth-allama-husayn-ansariyan
+author: Allama Husayn Ansariyan
+publisher: Ansariyan Publications - Qum
+translator: Ali Akbar Aghili Ashtiani
+title: Ahl al-Bayt, The Celestial Beings on the Earth
+slug: ahl-al-bayt-the-celestial-beings-on-the-earth
+uuid: e24fc3c7-176c-48f9-9810-94403c48a9b4
+description: |
+  A wonderful book that gives one a better understanding of the purified
+  household of the Holy Prophet (S).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/ahl-al-bayt-celestial-beings-earth-allama-husayn-ansariyan/translators-note
+  title: Translator’s Note
+  slug: 1-translator-s-note
+  uuid: 62e560e5-c524-4b51-a26d-49dd364092dc
+- source: :alislam
+  source_url: http://www.al-islam.org/ahl-al-bayt-celestial-beings-earth-allama-husayn-ansariyan/character-ahl-al-bayt
+  title: Character of Ahl Al-Bayt
+  slug: 2-character-of-ahl-al-bayt
+  uuid: 62f7ad5d-379c-4d8b-b587-ff7b4ab715db
+- source: :alislam
+  source_url: http://www.al-islam.org/ahl-al-bayt-celestial-beings-earth-allama-husayn-ansariyan/ahl-al-bayt-divine-books
+  title: Ahl Al-Bayt In Divine Books
+  slug: 3-ahl-al-bayt-in-divine-books
+  uuid: d04ec4e2-eda5-4e31-b351-cb0f96e16fb0
+- source: :alislam
+  source_url: http://www.al-islam.org/ahl-al-bayt-celestial-beings-earth-allama-husayn-ansariyan/ahl-al-bayt-viewpoint-mystics
+  title: Ahl Al-Bayt From The Viewpoint Of Mystics
+  slug: 4-ahl-al-bayt-from-the-viewpoint-of-mystics
+  uuid: 95d0b58a-11e3-43e0-b0fc-9f065059794e
+- source: :alislam
+  source_url: http://www.al-islam.org/ahl-al-bayt-celestial-beings-earth-allama-husayn-ansariyan/culture-ahl-al-bayt
+  title: The Culture Of Ahl Al-Bayt
+  slug: 5-the-culture-of-ahl-al-bayt
+  uuid: a1856317-f1b0-4a39-98d0-31599fb60b74
+- source: :alislam
+  source_url: http://www.al-islam.org/ahl-al-bayt-celestial-beings-earth-allama-husayn-ansariyan/followers-ahl-al-bayt
+  title: Followers Of Ahl Al-Bayt
+  slug: 6-followers-of-ahl-al-bayt
+  uuid: 0a9d83aa-2c1c-41e7-aa86-dbf9152506a7
+- source: :alislam
+  source_url: http://www.al-islam.org/ahl-al-bayt-celestial-beings-earth-allama-husayn-ansariyan/conclusion
+  title: Conclusion
+  slug: 7-conclusion
+  uuid: eeb892c1-3eba-4f7c-a16a-43a68a486ff6
+---

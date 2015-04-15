@@ -1,0 +1,89 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/al-siraj-the-lantern-on-the-path-to-allah-almighty-husain-ibn-ali-ibn-sadiq-al-bahrani
+author: Husain ibn 'Ali ibn Sadiq al Bahrani
+publisher: Ansariyan Publications - Qum
+translator: Yasin T. Al-Jibouri
+title: 'Al-Siraj: The Lantern on the Path To Allah Almighty'
+slug: al-siraj-the-lantern-on-the-path-to-allah-almighty
+uuid: d6135043-060d-4f49-8ca3-a05ddf9b03c3
+description: |
+  A guide for spiritual wayfarers on ethics and ways to strengthen one's
+  faith, with the goal to reach Allah (swt).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/al-siraj-the-lantern-on-the-path-to-allah-almighty-husain-ibn-ali-ibn-sadiq-al-bahrani/book-and
+  title: The Book and the Author
+  slug: 1-the-book-and-the-author
+  uuid: 6dd5d3db-c3ae-480b-ab69-f41a036ef24d
+- source: :alislam
+  source_url: http://www.al-islam.org/al-siraj-the-lantern-on-the-path-to-allah-almighty-husain-ibn-ali-ibn-sadiq-al-bahrani/book%E2%80%99s
+  title: 'Book’s Adherence to the Way of Ahl al-Bayt (‘a):'
+  slug: 2-book-s-adherence-to-the-way-of-ahl-al-bayt-a
+  uuid: 027a8028-e4d6-4ff8-a9fb-26a316a3bc64
+- source: :alislam
+  source_url: http://www.al-islam.org/al-siraj-the-lantern-on-the-path-to-allah-almighty-husain-ibn-ali-ibn-sadiq-al-bahrani/authors
+  title: Authors Introduction
+  slug: 3-authors-introduction
+  uuid: 0bc7c728-fdf7-421a-baa7-41bb9383fe3b
+- source: :alislam
+  source_url: http://www.al-islam.org/al-siraj-the-lantern-on-the-path-to-allah-almighty-husain-ibn-ali-ibn-sadiq-al-bahrani/chapter-1
+  title: 'Chapter 1: The Need to Cultivate Ethics, Benefits and the Necessity to Pay
+    Attention to It'
+  slug: 4-chapter-1-the-need-to-cultivate-ethics-benefits-and-the-necessity-to-pay-attention-to-it
+  uuid: 99eba059-6581-4124-8ce8-428675a24022
+- source: :alislam
+  source_url: http://www.al-islam.org/al-siraj-the-lantern-on-the-path-to-allah-almighty-husain-ibn-ali-ibn-sadiq-al-bahrani/chapter-2
+  title: 'Chapter 2: Preference of Delving into the Science of Ethics and Spending
+    Some Time of Ones Life Therein'
+  slug: 5-chapter-2-preference-of-delving-into-the-science-of-ethics-and-spending-some-time-of-ones-life-therein
+  uuid: b10df640-cc87-42fc-9c97-e2784e386614
+- source: :alislam
+  source_url: http://www.al-islam.org/al-siraj-the-lantern-on-the-path-to-allah-almighty-husain-ibn-ali-ibn-sadiq-al-bahrani/chapter-3
+  title: 'Chapter 3: Allah Created Us to Live Happily Forever; He prepared Us for
+    Such Happiness'
+  slug: 6-chapter-3-allah-created-us-to-live-happily-forever-he-prepared-us-for-such-happiness
+  uuid: 32633fc0-ceea-4b49-ad5b-d2453aaa0980
+- source: :alislam
+  source_url: http://www.al-islam.org/al-siraj-the-lantern-on-the-path-to-allah-almighty-husain-ibn-ali-ibn-sadiq-al-bahrani/chapter-4
+  title: 'Chapter 4: Some Venues Leading to Allah Almighty'
+  slug: 7-chapter-4-some-venues-leading-to-allah-almighty
+  uuid: 06e15e6f-b9c1-4ddb-8c21-76e866de7f4b
+- source: :alislam
+  source_url: http://www.al-islam.org/al-siraj-the-lantern-on-the-path-to-allah-almighty-husain-ibn-ali-ibn-sadiq-al-bahrani/chapter-5-man
+  title: 'Chapter 5: Man is Weak'
+  slug: 8-chapter-5-man-is-weak
+  uuid: a1aad7ca-ef2d-495b-8c28-5bc83c199c70
+- source: :alislam
+  source_url: http://www.al-islam.org/al-siraj-the-lantern-on-the-path-to-allah-almighty-husain-ibn-ali-ibn-sadiq-al-bahrani/chapter-6
+  title: 'Chapter 6: What Path Should God’s Servants Take to Reach Their Lord'
+  slug: 9-chapter-6-what-path-should-god-s-servants-take-to-reach-their-lord
+  uuid: 3a3fe507-35c2-4942-8725-97c9cb80d1eb
+- source: :alislam
+  source_url: http://www.al-islam.org/al-siraj-the-lantern-on-the-path-to-allah-almighty-husain-ibn-ali-ibn-sadiq-al-bahrani/chapter-7-how
+  title: 'Chapter 7: How do we Tread the Path to Allah?'
+  slug: 10-chapter-7-how-do-we-tread-the-path-to-allah
+  uuid: 68a8809b-824e-499f-a242-cbe319c8287c
+- source: :alislam
+  source_url: http://www.al-islam.org/al-siraj-the-lantern-on-the-path-to-allah-almighty-husain-ibn-ali-ibn-sadiq-al-bahrani/chapter-8
+  title: 'Chapter 8: A Believer’s Conviction is Incomplete Without Certain Merits'
+  slug: 11-chapter-8-a-believer-s-conviction-is-incomplete-without-certain-merits
+  uuid: eacbd16c-1d55-4bc1-9637-3222d53f5807
+- source: :alislam
+  source_url: http://www.al-islam.org/al-siraj-the-lantern-on-the-path-to-allah-almighty-husain-ibn-ali-ibn-sadiq-al-bahrani/chapter-9
+  title: 'Chapter 9: Resigning to Destiny'
+  slug: 12-chapter-9-resigning-to-destiny
+  uuid: acd60795-d293-41ca-a1f3-2cdd847c5ec2
+- source: :alislam
+  source_url: http://www.al-islam.org/al-siraj-the-lantern-on-the-path-to-allah-almighty-husain-ibn-ali-ibn-sadiq-al-bahrani/chapter-10
+  title: 'Chapter 10: Beyond Resignation to Destiny. Reliance on Allah, Submission
+    to Him, Total Surrender to His Will'
+  slug: 13-chapter-10-beyond-resignation-to-destiny-reliance-on-allah-submission-to-him-total-surrender-to-his-will
+  uuid: 380520f6-89dc-43fb-bdc4-d39f9b060222
+- source: :alislam
+  source_url: http://www.al-islam.org/al-siraj-the-lantern-on-the-path-to-allah-almighty-husain-ibn-ali-ibn-sadiq-al-bahrani/chapter-11
+  title: 'Chapter 11: Degrees of Believers. Believers are of Various Degrees Distinguishing
+    One from the Other With Regard to Their Limits'
+  slug: 14-chapter-11-degrees-of-believers-believers-are-of-various-degrees-distinguishing-one-from-the-other-with-regard-to-their-limits
+  uuid: f760fa4e-c735-4173-a962-c523c20cc2b3
+---

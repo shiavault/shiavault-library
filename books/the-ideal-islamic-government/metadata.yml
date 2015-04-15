@@ -1,0 +1,32 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/ideal-islamic-government-allamah-sayyid-saeed-akhtar-rizvi
+author: Allamah Sayyid Sa'eed Akhtar Rizvi
+title: The Ideal Islamic Government
+slug: the-ideal-islamic-government
+uuid: 9355f46b-616d-48de-94a6-fd768c3c94ed
+description: |
+  This text presents the ideal Islamic government in the eyes of Imam 'Ali
+  ibn Abi Talib (a.s.) through his letter to Malik Al Ashtar.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/ideal-islamic-government-allamah-sayyid-saeed-akhtar-rizvi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 82253d5d-3712-4872-90c4-290c449e1e35
+- source: :alislam
+  source_url: http://www.al-islam.org/ideal-islamic-government-allamah-sayyid-saeed-akhtar-rizvi/translators-notes
+  title: Translator's Notes
+  slug: 2-translator-s-notes
+  uuid: d6b68342-3b26-4bac-a173-1493898b45c8
+- source: :alislam
+  source_url: http://www.al-islam.org/ideal-islamic-government-allamah-sayyid-saeed-akhtar-rizvi/letter
+  title: The Letter
+  slug: 3-the-letter
+  uuid: 6863bcaa-2694-44e7-9877-70853ac77cd1
+- source: :alislam
+  source_url: http://www.al-islam.org/ideal-islamic-government-allamah-sayyid-saeed-akhtar-rizvi/conclusion
+  title: Conclusion
+  slug: 4-conclusion
+  uuid: 269fc374-91bf-462f-b2b1-b98e2440e6dc
+---

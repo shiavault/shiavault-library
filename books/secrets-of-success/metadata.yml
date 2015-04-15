@@ -1,0 +1,135 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani
+author: Ayatullah Mirza Ja'far Subhani
+publisher: KnowledgeCity Books
+translator: Al-Qalam Translators and Writers Bureau
+title: Secrets of Success
+slug: secrets-of-success
+uuid: 6b6c3bc0-8823-4464-9f95-2a10203b0d07
+description: |
+  A book for the youth on how one can be successful in reaching their
+  goals. Illustrated using examples from lives of great men from the East
+  & West.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/introduction-period-hopes-and-aspirations
+  title: 'Introduction: The Period of Hopes and Aspirations'
+  slug: 1-introduction-the-period-of-hopes-and-aspirations
+  uuid: 0878f0d9-3728-49c9-96a7-718f52244f5e
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/liking-and-enthusiasm
+  title: Liking and Enthusiasm
+  slug: 2-liking-and-enthusiasm
+  uuid: 6a5d89de-f6de-44ab-aabf-4f082120934e
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/unrelenting-effort
+  title: Unrelenting Effort
+  slug: 3-unrelenting-effort
+  uuid: 77d7818d-e009-4c22-b681-558a8a03eda2
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/faith-intention
+  title: Faith in Intention
+  slug: 4-faith-in-intention
+  uuid: e5241ebd-0578-4060-adf8-5c023b115a7e
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/patience-and-perseverance
+  title: Patience and Perseverance
+  slug: 5-patience-and-perseverance
+  uuid: f56dca48-548e-4dc7-82cb-8676644ee145
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/focus
+  title: Focus
+  slug: 6-focus
+  uuid: f6b78225-4cd5-4cdc-97e1-befab02819e4
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/discipline
+  title: Discipline
+  slug: 7-discipline
+  uuid: 02d84716-a3df-45e3-9e46-e6bfc47286a1
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/gradual-progress
+  title: Gradual Progress
+  slug: 8-gradual-progress
+  uuid: 41a91438-5b26-49f6-9bcd-0fb0112a1f7f
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/avoid-blind-following
+  title: Avoid Blind Following
+  slug: 9-avoid-blind-following
+  uuid: b4b549a0-0876-4b5c-bf47-4ec31f13b06a
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/counsel
+  title: Counsel
+  slug: 10-counsel
+  uuid: 0bc728e4-3279-48dc-9b54-db4b00b81b15
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/history-best-teacher
+  title: History is the Best Teacher
+  slug: 11-history-is-the-best-teacher
+  uuid: bdf74736-4939-42f8-86c3-d8d4a6652a55
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/firm-determination
+  title: Firm Determination
+  slug: 12-firm-determination
+  uuid: 8686b74d-3f7d-498b-bd85-7ee4ef062652
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/awareness-circumstances
+  title: Awareness of Circumstances
+  slug: 13-awareness-of-circumstances
+  uuid: 6f905b3e-857f-4b6d-8296-1d832a27ee9d
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/failure-ladder-success
+  title: Failure is a ladder to success
+  slug: 14-failure-is-a-ladder-to-success
+  uuid: 0d4146f3-5e9b-4fe9-b145-cd633e624915
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/courage-and-fearlessness
+  title: Courage and fearlessness
+  slug: 15-courage-and-fearlessness
+  uuid: 344a6ea3-4a94-4aef-aba1-a0e903a21757
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/self-sacrifice
+  title: Self Sacrifice
+  slug: 16-self-sacrifice
+  uuid: caf3b461-6ce1-4f55-8e48-d20613a416da
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/difficulties-and-calamities
+  title: Difficulties and Calamities
+  slug: 17-difficulties-and-calamities
+  uuid: 28726934-64f9-4d19-bc34-71423f9f3303
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/accepting-reality
+  title: Accepting the Reality
+  slug: 18-accepting-the-reality
+  uuid: d12f3a69-661d-45ef-9ba2-53285227eb7a
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/flexibility
+  title: Flexibility
+  slug: 19-flexibility
+  uuid: 522c5fe1-3ce1-4089-b756-ab27af198b6b
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/correct-way
+  title: The Correct Way
+  slug: 20-the-correct-way
+  uuid: d77903d2-517a-4841-aa8d-d3dde138782d
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/unexpected-success
+  title: Unexpected Success
+  slug: 21-unexpected-success
+  uuid: eab1a722-944e-498c-a68e-36a6ba67f39f
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/waiting-chance
+  title: Waiting For a Chance
+  slug: 22-waiting-for-a-chance
+  uuid: 5428f817-4e15-4f3f-b769-1da4420bd5ca
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/incorrect-understanding-destiny
+  title: Incorrect understanding of Destiny
+  slug: 23-incorrect-understanding-of-destiny
+  uuid: 2bf43d45-7f1e-478d-937f-4170b5b24a5b
+- source: :alislam
+  source_url: http://www.al-islam.org/secrets-success-ayatullah-mirza-jafar-subhani/inherited-wealth
+  title: Inherited Wealth
+  slug: 24-inherited-wealth
+  uuid: 79064dca-c23c-4cfb-a661-80718de52a3f
+---

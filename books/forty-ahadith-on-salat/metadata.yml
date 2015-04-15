@@ -1,0 +1,253 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/forty-ahadith-on-salat
+author: N/A
+publisher: Islamic Education Board of the World Federation of KSIMC
+title: Forty Ahadith on Salat
+slug: forty-ahadith-on-salat
+uuid: fa8782f0-7615-4c3b-a65c-e3c6ab7c525d
+description: |
+  Detailed commentary on 40 selected traditions narrated through the
+  Prophet [s] and his Ahl al-Bayt [a] on the topic of Salat/Prayer.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/preface
+  title: Preface
+  slug: 1-preface
+  uuid: d75d516d-95be-445a-9184-22b6bd623efc
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: e2ba11ea-00a5-4d5f-a287-e16670958a91
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/prayers-noble-qur%E2%80%99an%C2%A0
+  title: Prayers In The Noble Qur’an 
+  slug: 3-prayers-in-the-noble-qur-an
+  uuid: 0a815102-0129-4cce-834f-3668c416c96c
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/rank-prayers-islam
+  title: The Rank of Prayers in Islam
+  slug: 4-the-rank-of-prayers-in-islam
+  uuid: a83fcb89-a649-49e8-b31c-f7fcb9f10995
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/1-special-rank-prayers%C2%A0
+  title: 1. The Special Rank of Prayers 
+  slug: 5-1-the-special-rank-of-prayers
+  uuid: 93d0b8b3-d29e-4825-a51a-ef10afb1c8a0
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/2-pillar-religion%C2%A0%C2%A0
+  title: 2. The Pillar of Religion  
+  slug: 6-2-the-pillar-of-religion
+  uuid: f8e6d475-3199-4c72-9b0d-0847dad7e923
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/3-parable-prayers%C2%A0
+  title: 3. The Parable of Prayers 
+  slug: 7-3-the-parable-of-prayers
+  uuid: 03f226a1-7b02-48f5-99b1-8e718e33c103
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/4-means-salvation%C2%A0%C2%A0
+  title: 4. A Means of Salvation  
+  slug: 8-4-a-means-of-salvation
+  uuid: d834d079-489e-438b-907b-24f487bc2911
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/5-illumination-heart%C2%A0%C2%A0
+  title: 5. Illumination of the Heart  
+  slug: 9-5-illumination-of-the-heart
+  uuid: a2fd5e8d-5890-431d-abe9-cec824da974b
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/6-measure-acceptance-deeds%C2%A0
+  title: 6. A Measure of Acceptance of Deeds 
+  slug: 10-6-a-measure-of-acceptance-of-deeds
+  uuid: 411e3b8b-812a-4f3e-a5fe-a3747e6b9d28
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/7-conduct-prophets%C2%A0%C2%A0
+  title: 7. The Conduct of the Prophets  
+  slug: 11-7-the-conduct-of-the-prophets
+  uuid: f6f7fd2a-3af7-4cc5-8bca-40d255b0fb28
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/8-standard-islam%C2%A0%C2%A0
+  title: 8. The Standard of Islam  
+  slug: 12-8-the-standard-of-islam
+  uuid: 26586a5d-7dac-4a05-bc50-b0b462835ee0
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/9-benefits-prayers
+  title: 9. The Benefits of Prayers
+  slug: 13-9-the-benefits-of-prayers
+  uuid: a512e66d-a60b-403d-a0b3-8bb2a37800f6
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/10-prayers-and-children%C2%A0
+  title: 10. Prayers and Children 
+  slug: 14-10-prayers-and-children
+  uuid: 26b7ffee-ad2b-4575-9fda-92a994b1065d
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/importance-and-virtues-prayers%C2%A0
+  title: Importance and Virtues of Prayers 
+  slug: 15-importance-and-virtues-of-prayers
+  uuid: 02ea547f-cc75-4845-8092-2103dac213af
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/11-value-prayers%C2%A0%C2%A0
+  title: 11. Value of Prayers  
+  slug: 16-11-value-of-prayers
+  uuid: 8419c811-5c61-4445-8524-885e5a4d4103
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/12-face-religion%C2%A0%C2%A0
+  title: 12.  The Face of Religion  
+  slug: 17-12-the-face-of-religion
+  uuid: c7692b07-e917-429f-8ec6-984ee627d6e2
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/13-importance-prayers%C2%A0
+  title: 13. Importance of Prayers 
+  slug: 18-13-importance-of-prayers
+  uuid: bb86990d-14a8-4279-b69b-eea6eb4929b3
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/14-blessings-prayers%C2%A0%C2%A0
+  title: 14. The Blessings of Prayers  
+  slug: 19-14-the-blessings-of-prayers
+  uuid: 9844db4f-f9a6-4668-a45a-6c9454a8a21c
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/15-rank-prayers%C2%A0%C2%A0
+  title: 15. The Rank of Prayers  
+  slug: 20-15-the-rank-of-prayers
+  uuid: f597e10a-4a77-49be-84e9-09505d23f5b6
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/16-purification-soul%C2%A0%C2%A0
+  title: 16. Purification of the Soul  
+  slug: 21-16-purification-of-the-soul
+  uuid: f65e1448-fc55-4f7f-a4aa-d0de358d525e
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/17-covenant-allah%C2%A0
+  title: 17. The Covenant of Allah 
+  slug: 22-17-the-covenant-of-allah
+  uuid: 537d740d-6075-430d-8700-de54de8324de
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/18-remembrance-allah%C2%A0
+  title: 18. Remembrance of Allah 
+  slug: 23-18-remembrance-of-allah
+  uuid: 170a9a4f-c63f-4c01-a17b-57b42f1755c0
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/19-mercy-allah%C2%A0%C2%A0
+  title: 19. The Mercy of Allah  
+  slug: 24-19-the-mercy-of-allah
+  uuid: b2a1a34b-d7ca-43b7-b7ea-f492deaa5b52
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/20-refraining-sins%C2%A0%C2%A0
+  title: 20. Refraining from Sins  
+  slug: 25-20-refraining-from-sins
+  uuid: 475494d6-099c-415e-b906-29de094d33e7
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/importance-prayer-times%C2%A0
+  title: Importance of Prayer-Times 
+  slug: 26-importance-of-prayer-times
+  uuid: fe5ab8fa-59ef-440e-a90f-30649c0d3809
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/21-how-and-when%C2%A0%C2%A0
+  title: 21. How and When?  
+  slug: 27-21-how-and-when
+  uuid: 74778577-32e6-40bd-8a66-fc58e5bab0df
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/22-importance-times-prayers%C2%A0%C2%A0
+  title: 22. Importance of the Times of Prayers  
+  slug: 28-22-importance-of-the-times-of-prayers
+  uuid: ad125206-0852-4c50-8887-a4b73c540b38
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/23-noble-prophet-and-prayers%C2%A0%C2%A0
+  title: 23. The Noble Prophet and Prayers  
+  slug: 29-23-the-noble-prophet-and-prayers
+  uuid: 2b967800-35bf-4592-8ab5-dd7088225bc2
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/24-prayers-their-times%C2%A0
+  title: 24. Prayers at their Times 
+  slug: 30-24-prayers-at-their-times
+  uuid: 9629abca-94cb-4faa-b87c-713439c9b74d
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/25-beloved-entity%C2%A0%C2%A0
+  title: 25. A Beloved Entity  
+  slug: 31-25-a-beloved-entity
+  uuid: 7ad4a6b0-11d5-4f43-a585-9c285f2b2708
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/negligence-carelessness-towards-prayers%C2%A0
+  title: Negligence & Carelessness towards the Prayers 
+  slug: 32-negligence-carelessness-towards-the-prayers
+  uuid: a8982fba-cb58-481a-a3f0-6a964c03ad7b
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/26-regarding-prayers-insignificant%C2%A0%C2%A0
+  title: 26. Regarding the Prayers as Insignificant  
+  slug: 33-26-regarding-the-prayers-as-insignificant
+  uuid: 9c3ba2ab-ad21-4561-94fb-fb1dc3dcc64c
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/27-debasement-prayers%C2%A0%C2%A0
+  title: 27. Debasement of Prayers  
+  slug: 34-27-debasement-of-prayers
+  uuid: 71c38879-1629-4bcb-bc05-26a6922e2d75
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/28-destroying-prayers%C2%A0%C2%A0
+  title: 28. Destroying Prayers  
+  slug: 35-28-destroying-prayers
+  uuid: d2a3eef7-ae63-43be-9114-8369b8992289
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/29-incorrect-prayers%C2%A0
+  title: 29. The Incorrect Prayers 
+  slug: 36-29-the-incorrect-prayers
+  uuid: d0705f0b-c6c8-49ee-9314-31bf20b9cb25
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/30-carelessness-towards-prayers%C2%A0%C2%A0
+  title: 30. Carelessness Towards Prayers  
+  slug: 37-30-carelessness-towards-prayers
+  uuid: 999dc371-23d7-4e00-834e-51ea4857c219
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/31-consequence-abandoning-prayers%C2%A0%C2%A0
+  title: 31. The Consequence of Abandoning Prayers  
+  slug: 38-31-the-consequence-of-abandoning-prayers
+  uuid: d2c99303-7cee-4e6f-b288-a91f1536c7a4
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/32-death-disbelief%C2%A0
+  title: 32.  A Death of Disbelief 
+  slug: 39-32-a-death-of-disbelief
+  uuid: f52e2bb0-7427-4cd7-b74d-63f7e2d8f8dd
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/33-chastisement%C2%A0
+  title: 33. Chastisement 
+  slug: 40-33-chastisement
+  uuid: 3cc0dbbc-c7b0-4e0c-90c7-257a0fe32940
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/34-door-hell%C2%A0
+  title: 34. Door of Hell 
+  slug: 41-34-door-of-hell
+  uuid: cb1b81a9-218c-4e6e-9e69-ce020d3ed27d
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/etiquette-prayer-and-conditions-its-acceptance
+  title: Etiquette of Prayer And Conditions for its Acceptance
+  slug: 42-etiquette-of-prayer-and-conditions-for-its-acceptance
+  uuid: 5bdfabde-c321-4800-b8f9-4979bfe943fe
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/35-conditions-acceptance-prayers%C2%A0
+  title: 35. Conditions for Acceptance of Prayers 
+  slug: 43-35-conditions-for-acceptance-of-prayers
+  uuid: 91a60f3b-4f89-4c20-b3a5-8c4e9afe8ffb
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/36-prayers-accepted%C2%A0-what-measure%C2%A0%C2%A0
+  title: 36. Prayers Accepted?  In What Measure?  
+  slug: 44-36-prayers-accepted-in-what-measure
+  uuid: bec53869-ef3e-48d4-b6e9-355e0bfcdae3
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/37-prayers-and-wilayah-ahlul-bayt%C2%A0%C2%A0
+  title: 37.  Prayers and the Wilayah of the Ahlul Bayt  
+  slug: 45-37-prayers-and-the-wilayah-of-the-ahlul-bayt
+  uuid: f4224e81-8e4e-4020-94e9-abd695450e9b
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/38-obligatory-and-recommended-prayers%C2%A0%C2%A0
+  title: 38. Obligatory and Recommended Prayers  
+  slug: 46-38-obligatory-and-recommended-prayers
+  uuid: 7b181939-e0ac-4d62-8cfa-d2ccd3390760
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/39-prayers-adhan-iqamah%C2%A0%C2%A0
+  title: 39. Prayers with Adhan & Iqamah  
+  slug: 47-39-prayers-with-adhan-iqamah
+  uuid: 8829b072-4f88-4774-9e50-c8e3b9c42f3c
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-ahadith-on-salat/40-prayers-and-supplications%C2%A0%C2%A0
+  title: 40. Prayers and Supplications  
+  slug: 48-40-prayers-and-supplications
+  uuid: 133b7559-dd62-4206-8cfd-18e9f1750f58
+---

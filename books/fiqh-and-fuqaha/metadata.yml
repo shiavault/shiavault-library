@@ -1,0 +1,52 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/fiqh-and-fuqaha
+publisher: World Federation of Khoja Shia Ithna-Asheri Muslim Communities
+title: Fiqh and Fuqaha
+slug: fiqh-and-fuqaha
+uuid: ea4610ec-c59f-4f3f-ac7f-dd5499a6bc7f
+description: |
+  An introduction to fiqh (Islamic Jurisprudence) containing forty-four
+  life sketches of great scholars.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/fiqh-and-fuqaha/preface-diversity-topics-fiqh
+  title: 'Preface: Diversity in the Topics of Fiqh'
+  slug: 1-preface-diversity-in-the-topics-of-fiqh
+  uuid: a435f12f-c2db-4180-9ff2-e25a1060b5d3
+- source: :alislam
+  source_url: http://www.al-islam.org/fiqh-and-fuqaha/part-1-fiqh
+  title: 'Part 1: Fiqh'
+  slug: 2-part-1-fiqh
+  uuid: db3aa366-ba00-4cc1-80a1-c6586aeba9e1
+- source: :alislam
+  source_url: http://www.al-islam.org/fiqh-and-fuqaha/part-2-fuqaha
+  title: 'Part 2: The Fuqaha'
+  slug: 3-part-2-the-fuqaha
+  uuid: 9f430535-f83b-4937-9830-1459fe4f6f76
+- source: :alislam
+  source_url: http://www.al-islam.org/fiqh-and-fuqaha/part-3-chapters-and-titles-fiqh
+  title: 'Part  3: The Chapters and Titles in Fiqh'
+  slug: 4-part-3-the-chapters-and-titles-in-fiqh
+  uuid: dad8094a-f121-476d-a83e-f90172c1f370
+- source: :alislam
+  source_url: http://www.al-islam.org/fiqh-and-fuqaha/part-4-ibadaat
+  title: 'Part 4: Ibadaat'
+  slug: 5-part-4-ibadaat
+  uuid: 47096e47-5521-46af-81c2-3fe10c6108ea
+- source: :alislam
+  source_url: http://www.al-islam.org/fiqh-and-fuqaha/part-5-uqoodcontracts
+  title: 'Part 5: Uqood(Contracts)'
+  slug: 6-part-5-uqood-contracts
+  uuid: dac42ae4-5921-44af-89d4-3fa83769e63c
+- source: :alislam
+  source_url: http://www.al-islam.org/fiqh-and-fuqaha/part-6-iqaaat-unilateral-pronouncement
+  title: 'Part 6: Iqaaat (Unilateral Pronouncement)'
+  slug: 7-part-6-iqaaat-unilateral-pronouncement
+  uuid: 4f4ee87a-0354-43d8-9983-377171a60f92
+- source: :alislam
+  source_url: http://www.al-islam.org/fiqh-and-fuqaha/part-7-ahkam
+  title: 'Part 7: Ahkam'
+  slug: 8-part-7-ahkam
+  uuid: 274ed9ab-372a-44db-9a83-bc5086a05ad3
+---

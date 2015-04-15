@@ -1,0 +1,49 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/economic-system-islam-compared-capitalism-and-socialism-abdul-husain-muhammad
+author: Abdul Husain Muhammad
+publisher: World Organization for Islamic Services (WOFIS)
+title: Economic System in Islam Compared with Capitalism and Socialism
+slug: economic-system-in-islam-compared-with-capitalism-and-socialism
+uuid: dab6c700-816e-4acc-a436-650fa9adcbc3
+description: |
+  This booklet covers some popular Islamic Economic topics, in a short and
+  lucid style, in order to meet the need of young Muslims who want to know
+  the basic Islamic concepts of economy.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/economic-system-islam-compared-capitalism-and-socialism-abdul-husain-muhammad/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 04cb58bd-941c-41e3-94d6-dcb607c8588d
+- source: :alislam
+  source_url: http://www.al-islam.org/economic-system-islam-compared-capitalism-and-socialism-abdul-husain-muhammad/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: e89b95b5-dee5-4f58-ad64-b04bcf9ce114
+- source: :alislam
+  source_url: http://www.al-islam.org/economic-system-islam-compared-capitalism-and-socialism-abdul-husain-muhammad/triple-nature
+  title: The Triple Nature of Possession
+  slug: 3-the-triple-nature-of-possession
+  uuid: d684c5d4-547e-4816-b54b-27aba5b712d6
+- source: :alislam
+  source_url: http://www.al-islam.org/economic-system-islam-compared-capitalism-and-socialism-abdul-husain-muhammad/freedom-private
+  title: Freedom of Private Enterprise and its Limits
+  slug: 4-freedom-of-private-enterprise-and-its-limits
+  uuid: 3174cbd6-db98-4409-8d44-06800541b946
+- source: :alislam
+  source_url: http://www.al-islam.org/economic-system-islam-compared-capitalism-and-socialism-abdul-husain-muhammad/social-justice
+  title: Social Justice
+  slug: 5-social-justice
+  uuid: 95570d82-9c20-46d2-8a2e-a04384009b35
+- source: :alislam
+  source_url: http://www.al-islam.org/economic-system-islam-compared-capitalism-and-socialism-abdul-husain-muhammad/economic-problems
+  title: Economic Problems
+  slug: 6-economic-problems
+  uuid: b7e92031-dfe9-4e97-84cd-c81627e6e0a4
+- source: :alislam
+  source_url: http://www.al-islam.org/economic-system-islam-compared-capitalism-and-socialism-abdul-husain-muhammad/final-note
+  title: A Final Note
+  slug: 7-a-final-note
+  uuid: a1c88c06-ccd7-411c-a3a0-b77146ff2bd7
+---

@@ -1,0 +1,43 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/short-history-ilm-ul-usul-sayyid-muhammad-baqir-al-sadr
+author: Sayyid Muhammad Baqir al-Sadr
+publisher: Islamic Seminary Publications
+title: A Short History of Ilm ul Usul
+slug: a-short-history-of-ilm-ul-usul
+uuid: 834efe26-cfe2-42aa-9b49-d0ea4770f094
+description: |
+  A discussion of 'Ilm al-Usul (the science of the principles of Islamic
+  Jurisprudence), including its need, importance, and history.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/short-history-ilm-ul-usul-sayyid-muhammad-baqir-al-sadr/preface
+  title: Preface
+  slug: 1-preface
+  uuid: a904ff5a-de4b-4061-bf98-32c730a78737
+- source: :alislam
+  source_url: http://www.al-islam.org/short-history-ilm-ul-usul-sayyid-muhammad-baqir-al-sadr/importance-%E2%80%98ilm%E2%80%99ul-usul-process-deduction
+  title: The Importance of ‘Ilm’ul Usul in the process of Deduction
+  slug: 2-the-importance-of-ilm-ul-usul-in-the-process-of-deduction
+  uuid: 60c39216-f5b9-4bd0-b6e4-4534c88b37d6
+- source: :alislam
+  source_url: http://www.al-islam.org/short-history-ilm-ul-usul-sayyid-muhammad-baqir-al-sadr/main-sources-proving-validity-%E2%80%98ilm%E2%80%99ul-usul
+  title: The Main Sources of Proving Validity in ‘Ilm’ul Usul
+  slug: 3-the-main-sources-of-proving-validity-in-ilm-ul-usul
+  uuid: 47355953-6371-4d26-b2f7-c788aee21981
+- source: :alislam
+  source_url: http://www.al-islam.org/short-history-ilm-ul-usul-sayyid-muhammad-baqir-al-sadr/history-%E2%80%98ilm%E2%80%99ul-usul
+  title: The History of ‘Ilm’ul Usul
+  slug: 4-the-history-of-ilm-ul-usul
+  uuid: 4b981a20-822c-4cb6-9cce-0caaffd12aa7
+- source: :alislam
+  source_url: http://www.al-islam.org/short-history-ilm-ul-usul-sayyid-muhammad-baqir-al-sadr/sources-inspiration-thinking-%E2%80%98ilm%E2%80%99ul-usul
+  title: Sources of inspiration for thinking on ‘Ilm’ul Usul
+  slug: 5-sources-of-inspiration-for-thinking-on-ilm-ul-usul
+  uuid: e77ba61e-931d-4546-93d9-45bfb42d4d6c
+- source: :alislam
+  source_url: http://www.al-islam.org/short-history-ilm-ul-usul-sayyid-muhammad-baqir-al-sadr/laws-shari%E2%80%99ah-and-their-categories
+  title: Laws of the Shari’ah and their categories
+  slug: 6-laws-of-the-shari-ah-and-their-categories
+  uuid: 8dd4b14f-9fba-4410-b008-f7b6bf6ae08f
+---

@@ -1,0 +1,63 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/alcohol-allamah-sayyid-saeed-akhtar-rizvi
+author: Allamah Sayyid Sa'eed Akhtar Rizvi
+publisher: World Organization for Islamic Services (WOFIS)
+title: Alcohol
+slug: alcohol
+uuid: 8b9244fd-e202-4a0b-97ea-4f3c8e80a51f
+description: |
+  In This Extraordinary compelling and powerful read, we see without a
+  shadow of a doubt the horrific true nature and extreme ill consequences
+  of Alcohol on the human body. Pertaining to the health of an individual
+  physically, emotionally, mentally, and otherwise - this eye opening
+  booklet awakens the hearts and minds of man from whichever background he
+  may be or of whichever mindset he may have - to the truth of realities
+  based solely on proofs given in reference by Senate Documentation,
+  Medical officers, Doctors, Commissioners, Neurologists, and many other
+  professionals in this field from all around the globe. One may see not
+  only through the many tests conducted but even just by reading the many
+  logical proofs and arguments of reason provided in this inspiring read.
+  This booklet further goes on to explain Islam's view based on the Holy
+  Quran on the subject of alcohol as well as that of The Bible and
+  narrations from the holy Prophet Muhammad (saws) and Ahlu-Bayt (as).
+  This is simply a must read for any single one individual with a thirst
+  for truth, knowledge, or just simply a great benefit to his overall life
+  and health, either for himself or in order to help pass on to others.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/alcohol-allamah-sayyid-saeed-akhtar-rizvi/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 4840ad63-3902-4dfb-97f1-cacf952dba51
+- source: :alislam
+  source_url: http://www.al-islam.org/alcohol-allamah-sayyid-saeed-akhtar-rizvi/alcohol-and-alcoholism
+  title: Alcohol and Alcoholism
+  slug: 2-alcohol-and-alcoholism
+  uuid: 89beef0a-3c6f-4fb4-98d3-3178372e349d
+- source: :alislam
+  source_url: http://www.al-islam.org/alcohol-allamah-sayyid-saeed-akhtar-rizvi/effects-alcohol
+  title: The Effects of Alcohol
+  slug: 3-the-effects-of-alcohol
+  uuid: 3cac9ae0-9736-40a4-80d8-62d625a637dc
+- source: :alislam
+  source_url: http://www.al-islam.org/alcohol-allamah-sayyid-saeed-akhtar-rizvi/some-statistics
+  title: Some Statistics
+  slug: 4-some-statistics
+  uuid: ea7374fe-c0cc-4759-9602-51943299bae0
+- source: :alislam
+  source_url: http://www.al-islam.org/alcohol-allamah-sayyid-saeed-akhtar-rizvi/part-played-alcohol
+  title: The Part Played By Alcohol
+  slug: 5-the-part-played-by-alcohol
+  uuid: 81d8b496-5e8d-4493-9106-f882956fa0f7
+- source: :alislam
+  source_url: http://www.al-islam.org/alcohol-allamah-sayyid-saeed-akhtar-rizvi/what-alcohol
+  title: What is Alcohol?
+  slug: 6-what-is-alcohol
+  uuid: 6db1ac6e-1f87-44b4-8f5c-b9573f7404ab
+- source: :alislam
+  source_url: http://www.al-islam.org/alcohol-allamah-sayyid-saeed-akhtar-rizvi/islams-approach-problem-drink
+  title: Islam's Approach to the Problem of Drink
+  slug: 7-islam-s-approach-to-the-problem-of-drink
+  uuid: de839019-de7e-44ce-9aaa-e05fee856d8e
+---

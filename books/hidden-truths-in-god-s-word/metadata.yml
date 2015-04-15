@@ -1,0 +1,90 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/hidden-truths-gods-word-sayyid-mujtaba-musawi-lari
+author: Sayyid Mujtaba Musawi Lari
+translator: Abbas Jaffer
+title: Hidden Truths in God's Word
+slug: hidden-truths-in-god-s-word
+uuid: c9bef4b8-7dc9-498f-854b-f7221e568158
+description: |
+  In this book, the author has discussed in detail some of the terms and
+  verses of the Qur'an which he feels need to be analyzed deeply. He takes
+  an unorthodox approach to understanding these terms and explains the
+  reasons for his conclusions.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/hidden-truths-gods-word-sayyid-mujtaba-musawi-lari/about-author
+  title: About the Author
+  slug: 1-about-the-author
+  uuid: a7211f24-5be1-41f2-a0c8-1898d1976ad6
+- source: :alislam
+  source_url: http://www.al-islam.org/hidden-truths-gods-word-sayyid-mujtaba-musawi-lari/foreword
+  title: Foreword
+  slug: 2-foreword
+  uuid: 05211283-42b4-497b-b740-1f2e1cc4fa98
+- source: :alislam
+  source_url: http://www.al-islam.org/hidden-truths-gods-word-sayyid-mujtaba-musawi-lari/quranic-view-supplication
+  title: The Quranic View on Supplication
+  slug: 3-the-quranic-view-on-supplication
+  uuid: 8b861a47-06ce-4ef9-b6c0-c0c33a367125
+- source: :alislam
+  source_url: http://www.al-islam.org/hidden-truths-gods-word-sayyid-mujtaba-musawi-lari/look-meaning-%E2%80%9Cdaraba%E2%80%9D-quran
+  title: A Look at the meaning of “Daraba” in the Quran
+  slug: 4-a-look-at-the-meaning-of-daraba-in-the-quran
+  uuid: b4b97070-b29c-497f-bffd-3215aab5f3d4
+- source: :alislam
+  source_url: http://www.al-islam.org/hidden-truths-gods-word-sayyid-mujtaba-musawi-lari/what-meant-%E2%80%9Cwhite-hand-musa-a%C2%A0
+  title: What is meant by the “White Hand of Musa (A)? 
+  slug: 5-what-is-meant-by-the-white-hand-of-musa-a
+  uuid: 02a3c0b1-5483-48b2-98d1-fbf5ea6d1be7
+- source: :alislam
+  source_url: http://www.al-islam.org/hidden-truths-gods-word-sayyid-mujtaba-musawi-lari/manifestation-qur%E2%80%99anic-wisdom-laws-inheritance
+  title: The Manifestation of Qur’anic Wisdom in the Laws of Inheritance
+  slug: 6-the-manifestation-of-qur-anic-wisdom-in-the-laws-of-inheritance
+  uuid: 3f331075-0e1d-4f03-8797-c7c9966f27b6
+- source: :alislam
+  source_url: http://www.al-islam.org/hidden-truths-gods-word-sayyid-mujtaba-musawi-lari/correct-approach-reconciliation-and-its-positive
+  title: The Correct Approach to Reconciliation and its Positive Consequences
+  slug: 7-the-correct-approach-to-reconciliation-and-its-positive-consequences
+  uuid: b5e8e2b3-6c83-41e0-8cc0-bec8188280fe
+- source: :alislam
+  source_url: http://www.al-islam.org/hidden-truths-gods-word-sayyid-mujtaba-musawi-lari/analysis-two-qur%E2%80%99anic-terms
+  title: An Analysis of Two Qur’anic Terms
+  slug: 8-an-analysis-of-two-qur-anic-terms
+  uuid: bd8fd2f5-2410-4760-841a-cfd96c112497
+- source: :alislam
+  source_url: http://www.al-islam.org/hidden-truths-gods-word-sayyid-mujtaba-musawi-lari/bounty-hearts-mountains
+  title: A Bounty in the Hearts of Mountains
+  slug: 9-a-bounty-in-the-hearts-of-mountains
+  uuid: 71d7d047-b395-4574-bff3-f44adcd83c42
+- source: :alislam
+  source_url: http://www.al-islam.org/hidden-truths-gods-word-sayyid-mujtaba-musawi-lari/resurrection-sleep-death
+  title: Resurrection from the Sleep of Death
+  slug: 10-resurrection-from-the-sleep-of-death
+  uuid: 695e698c-878f-4eea-9980-b6615661e6eb
+- source: :alislam
+  source_url: http://www.al-islam.org/hidden-truths-gods-word-sayyid-mujtaba-musawi-lari/wise-counsel-luqman
+  title: The Wise Counsel of Luqman
+  slug: 11-the-wise-counsel-of-luqman
+  uuid: 53dbedc0-bb01-4aff-965e-b44812ebc67d
+- source: :alislam
+  source_url: http://www.al-islam.org/hidden-truths-gods-word-sayyid-mujtaba-musawi-lari/expansive-earth
+  title: The Expansive Earth
+  slug: 12-the-expansive-earth
+  uuid: 53488fc9-155d-443e-9f8d-af7d1944af44
+- source: :alislam
+  source_url: http://www.al-islam.org/hidden-truths-gods-word-sayyid-mujtaba-musawi-lari/guidance-nature
+  title: Guidance in Nature
+  slug: 13-guidance-in-nature
+  uuid: 656dfe34-2716-44fb-b3b9-ef4136575ad5
+- source: :alislam
+  source_url: http://www.al-islam.org/hidden-truths-gods-word-sayyid-mujtaba-musawi-lari/devastating-storm
+  title: A Devastating Storm
+  slug: 14-a-devastating-storm
+  uuid: 2558d0b6-841b-4282-bb3d-3830ea48041e
+- source: :alislam
+  source_url: http://www.al-islam.org/hidden-truths-gods-word-sayyid-mujtaba-musawi-lari/exposition-verse-light-ayat-al-nur
+  title: An Exposition of the Verse of Light (Ayat al-Nur)
+  slug: 15-an-exposition-of-the-verse-of-light-ayat-al-nur
+  uuid: 77c015c6-368e-4c86-a4be-f10f641828fd
+---

@@ -1,0 +1,74 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/hisham-ibn-hakam-muhammad-reza-atai
+author: Muhammad Reza Atai
+publisher: Islamic Research Foundation (Astan-i-Quds Razavi)
+title: Hisham ibn Hakam
+slug: hisham-ibn-hakam
+uuid: 7d098ad9-3876-4f61-810d-37823b11f7f6
+description: |
+  A biography of the great companion of the 6th Imam (a), Hisham ibn
+  Hakam. Includes discussions of wilaya, and other debates in which he was
+  engaged.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/hisham-ibn-hakam-muhammad-reza-atai/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: d104799e-38e8-4d19-b442-7679645f9451
+- source: :alislam
+  source_url: http://www.al-islam.org/hisham-ibn-hakam-muhammad-reza-atai/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 236d6eb6-9883-4903-bbb6-ba070fa722a2
+- source: :alislam
+  source_url: http://www.al-islam.org/hisham-ibn-hakam-muhammad-reza-atai/who-hisham
+  title: Who is Hisham?
+  slug: 3-who-is-hisham
+  uuid: d7b28ed6-fe65-4bc2-b96f-f46e855ff746
+- source: :alislam
+  source_url: http://www.al-islam.org/hisham-ibn-hakam-muhammad-reza-atai/characteristics-hisham
+  title: Characteristics of Hisham
+  slug: 4-characteristics-of-hisham
+  uuid: 7cc56e6a-9260-452c-bafb-56610ee106ab
+- source: :alislam
+  source_url: http://www.al-islam.org/hisham-ibn-hakam-muhammad-reza-atai/first-meeting-hisham-imam
+  title: The First Meeting of Hisham with Imam (a)
+  slug: 5-the-first-meeting-of-hisham-with-imam-a
+  uuid: 6b8b8fa2-9a17-43ca-879d-bf8b9b282bd3
+- source: :alislam
+  source_url: http://www.al-islam.org/hisham-ibn-hakam-muhammad-reza-atai/debates-hisham-defending-wilayah
+  title: 'Debates of Hisham: Defending of Wilayah'
+  slug: 6-debates-of-hisham-defending-of-wilayah
+  uuid: 07d28187-3f79-4d5c-bdde-708cc9ec0f58
+- source: :alislam
+  source_url: http://www.al-islam.org/hisham-ibn-hakam-muhammad-reza-atai/hisham-champion-inductive-reasoning
+  title: Hisham - The Champion with Inductive Reasoning
+  slug: 7-hisham-the-champion-with-inductive-reasoning
+  uuid: cf1e176e-9290-4e9e-a1b3-1c5c1a3f199d
+- source: :alislam
+  source_url: http://www.al-islam.org/hisham-ibn-hakam-muhammad-reza-atai/imam-centre-existing-world
+  title: Imam, the centre of the existing world
+  slug: 8-imam-the-centre-of-the-existing-world
+  uuid: 344f0c91-0d3d-485f-a90e-203334572324
+- source: :alislam
+  source_url: http://www.al-islam.org/hisham-ibn-hakam-muhammad-reza-atai/debate-hisham-chief-kharajites-khawarej
+  title: The Debate of Hisham with the chief of the Kharajites (Khawarej)
+  slug: 9-the-debate-of-hisham-with-the-chief-of-the-kharajites-khawarej
+  uuid: ac2e0d15-71e4-4531-95ba-d123beb229cb
+- source: :alislam
+  source_url: http://www.al-islam.org/hisham-ibn-hakam-muhammad-reza-atai/divine-help
+  title: The Divine Help
+  slug: 10-the-divine-help
+  uuid: 4fd351ad-9048-47f1-b0d2-e8d5612b41d6
+- source: :alislam
+  source_url: http://www.al-islam.org/hisham-ibn-hakam-muhammad-reza-atai/debate-became-cause-death-hisham
+  title: The debate that became the cause of the death of Hisham
+  slug: 11-the-debate-that-became-the-cause-of-the-death-of-hisham
+  uuid: 3a764216-7801-4bb6-bc72-20be8b676a33
+- source: :alislam
+  source_url: http://www.al-islam.org/hisham-ibn-hakam-muhammad-reza-atai/cause-death-hisham
+  title: The Cause of the Death of Hisham
+  slug: 12-the-cause-of-the-death-of-hisham
+  uuid: a27c969b-bae5-427f-a36e-f5c585ead640
+---

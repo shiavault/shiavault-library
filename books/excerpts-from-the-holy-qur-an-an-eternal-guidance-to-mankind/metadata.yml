@@ -1,0 +1,130 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind
+publisher: World Islamic Network (WIN)
+compiler: Hasnain Mohamedali
+title: Excerpts from the Holy Qur’an, an Eternal Guidance to Mankind
+slug: excerpts-from-the-holy-qur-an-an-eternal-guidance-to-mankind
+uuid: b29090b9-adc7-4e0f-bf50-6ec5fedd94c5
+description: |
+  A text highlighting the directives given by Allah (swt) in the Holy
+  Qur’an in context of various subjects that touch the day-to-day lives of
+  every Muslim in particular and for that matter every human being in
+  general.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: c88267b2-e3f1-4ebd-9d97-be2402f56633
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/preface
+  title: Preface
+  slug: 2-preface
+  uuid: 2b419ea3-fc95-4e21-aebd-93f6f7e7574d
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/allah-swt
+  title: Allah (swt)
+  slug: 3-allah-swt
+  uuid: 9b0026ba-ee52-435d-b7cd-ae7df397b48d
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/allahs-swt-creations
+  title: Allah's (swt) Creations
+  slug: 4-allah-s-swt-creations
+  uuid: 2f789524-925a-4ed2-84b0-c5406e297f47
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/holy-prophet-muhammad-s-his-ahlul-bayt
+  title: The Holy Prophet Muhammad (S) & his Ahlul Bayt (a)
+  slug: 5-the-holy-prophet-muhammad-s-his-ahlul-bayt-a
+  uuid: 2c0a6a13-52b9-443c-99a4-0bcd1181f729
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/holy-quran
+  title: The Holy Qur'an
+  slug: 6-the-holy-qur-an
+  uuid: 6ef32924-447c-41fc-8248-db9dcb539f49
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/parents
+  title: Parents
+  slug: 7-parents
+  uuid: 7857be39-3d36-4b7c-9042-89e714828961
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/man-his-nature
+  title: Man, His Nature
+  slug: 8-man-his-nature
+  uuid: f66110d6-ee7a-4278-b134-4f697283ccc7
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/world-materialism
+  title: World, Materialism
+  slug: 9-world-materialism
+  uuid: 5ccb820f-63f8-4f19-8093-e4b8bf24010f
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/hereafter-day-judgement-paradise-hell
+  title: Hereafter , Day of Judgement , Paradise, Hell Fire
+  slug: 10-hereafter-day-of-judgement-paradise-hell-fire
+  uuid: 241c78b9-d838-4ad0-8bd4-35c1781a5d92
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/death-martyrdom
+  title: Death , Martyrdom
+  slug: 11-death-martyrdom
+  uuid: c7c6b4eb-6354-415b-8588-7fecb67f2fa8
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/righteous-pious
+  title: The Righteous , The Pious
+  slug: 12-the-righteous-the-pious
+  uuid: a10ecea3-1f31-4ff8-a6f4-5fbd5977b813
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/non-believers-hypocrites
+  title: The Non-Believers, the  Hypocrites
+  slug: 13-the-non-believers-the-hypocrites
+  uuid: aa29d332-8dbc-4f78-b02a-699c71c19f98
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/commandments-advice
+  title: Commandments, Advice
+  slug: 14-commandments-advice
+  uuid: 32b7a0fe-48fe-4dbd-b7fb-37197e87e750
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/forbidden-unlawful
+  title: The Forbidden & Unlawful
+  slug: 15-the-forbidden-unlawful
+  uuid: 78fc6b66-3931-42cf-9850-24a6ad95f6f1
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/prayers-supplications
+  title: Prayers, Supplications
+  slug: 16-prayers-supplications
+  uuid: 9cdfab69-d17e-4c09-b977-b0112e9dc24e
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/charity
+  title: Charity
+  slug: 17-charity
+  uuid: 231b0b55-28db-4deb-b778-62caec8e852d
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/marriage-divorce-inheritance
+  title: Marriage, Divorce, Inheritance
+  slug: 18-marriage-divorce-inheritance
+  uuid: a3a6a6c0-617e-4bab-be4c-8c27311548db
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/trails-patience
+  title: Trails, Patience
+  slug: 19-trails-patience
+  uuid: 33a10d14-d1a6-4612-aaf7-415e5940fb66
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/repentance
+  title: Repentance
+  slug: 20-repentance
+  uuid: 020ca6e2-ab5f-427a-8b25-2af8f13d9b6e
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/sustenance
+  title: Sustenance
+  slug: 21-sustenance
+  uuid: b2ba2b6d-bbfd-4d10-8d4d-d7e0a3390e43
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/miscellaneous
+  title: Miscellaneous
+  slug: 22-miscellaneous
+  uuid: 69d1da3d-840f-4f7b-9aa5-059e16a969bf
+- source: :alislam
+  source_url: http://www.al-islam.org/excerpts-from-the-holy-quran-an-eternal-guidance-to-mankind/index
+  title: Index
+  slug: 23-index
+  uuid: 3a8b8dd1-0095-44d1-8cfb-7e289765bd37
+---

@@ -1,0 +1,303 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi
+author: Ayatullah al-`Uzma al-Hajj ash-Shaykh Nasir Makarim Shirazi
+publisher: Ahlul Bayt World Assembly
+title: Fifty Lessons on Principles of Belief for Youths
+slug: fifty-lessons-on-principles-of-belief-for-youths
+uuid: cff71494-9735-4ecc-849e-d92c63b8bcd0
+description: |
+  This text contains fifty chapters, each containing an important lesson
+  on the fundamental beliefs of our faith that are especially relevant for
+  the youth of today. Ayatullah Makarim Shirazi presents these lessons
+  using both philosophical reasoning as well as Qur'anic verses, and
+  concludes each lesson with a few relevant questions which are intended
+  to increase understanding of that particular lesson.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: b457d984-28e3-4ef0-84b8-d29f3eeb1623
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/prelude
+  title: Prelude
+  slug: 2-prelude
+  uuid: 9d6e27d4-724c-4ac3-b12d-2dd11d3ba2e5
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/part-1-god-and-his-attributes
+  title: 'Part 1: God and His Attributes'
+  slug: 3-part-1-god-and-his-attributes
+  uuid: b554de4b-9e9a-4a31-b6ff-6d4ab4e3a12b
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-1why-do-we-think-about-god
+  title: Lesson 1:Why do we think about God and study ways of knowing the Creator
+    of the universe?
+  slug: 4-lesson-1-why-do-we-think-about-god-and-study-ways-of-knowing-the-creator-of-the-universe
+  uuid: c2214e8a-cfb9-402d-b9b8-ad82b23f5d8a
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-2-signs-god-our-daily-life
+  title: 'Lesson 2: The Signs of God in our Daily Life'
+  slug: 5-lesson-2-the-signs-of-god-in-our-daily-life
+  uuid: 5e7ae901-a5b3-4532-a0bf-ee0750d78a12
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-3-two-clear-ways-knowing-god
+  title: 'Lesson 3: Two Clear Ways of Knowing God'
+  slug: 6-lesson-3-two-clear-ways-of-knowing-god
+  uuid: 0327bae5-ff8c-4e02-ac49-357b25461510
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-4-answer-important-question
+  title: 'Lesson 4: An Answer to an Important Question'
+  slug: 7-lesson-4-an-answer-to-an-important-question
+  uuid: e7e30791-a124-40b4-b3a1-e5de8a1fb13a
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-5-true-story
+  title: 'Lesson 5: A True Story'
+  slug: 8-lesson-5-a-true-story
+  uuid: 2c8bd753-4493-4280-b335-a2f9422b4779
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-6-second-way-coming-know-god
+  title: 'Lesson 6: The Second Way of coming to Know God'
+  slug: 9-lesson-6-the-second-way-of-coming-to-know-god
+  uuid: 091c1099-5d94-4e88-88d9-bf7f1304a462
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-7-examples-creation
+  title: 'Lesson 7: Examples From Creation'
+  slug: 10-lesson-7-examples-from-creation
+  uuid: 9a016654-de04-4f6d-abc4-2a99862187d7
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-8-world-wonder-small-bird
+  title: 'Lesson 8: A World of Wonder in a Small Bird'
+  slug: 11-lesson-8-a-world-of-wonder-in-a-small-bird
+  uuid: 1b7ea018-279e-4904-8ebb-3514a6fde9a4
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-9-love-insects-and-flowers
+  title: 'Lesson 9: Love for Insects and Flowers'
+  slug: 12-lesson-9-love-for-insects-and-flowers
+  uuid: 21e1f9b3-e80e-4db5-aa85-1c49993fe8cd
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-10-world-infinitely-small
+  title: 'Lesson 10: In the World of Infinitely Small Things'
+  slug: 13-lesson-10-in-the-world-of-infinitely-small-things
+  uuid: 6eeb2fca-68f9-40ed-97fc-227adf104394
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/part-2-god-s-justice
+  title: 'Part 2: God’s Justice'
+  slug: 14-part-2-god-s-justice
+  uuid: 8ed8b0d4-62b4-4027-89ae-483f5ac344e2
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-11-what-justice
+  title: 'Lesson 11: What is Justice?'
+  slug: 15-lesson-11-what-is-justice
+  uuid: d0d416f3-0e12-4f9b-abe8-2d40793726f8
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-12-proof-reason-creator-s-justice
+  title: 'Lesson 12: Proof or Reason for The Creator’s Justice'
+  slug: 16-lesson-12-proof-or-reason-for-the-creator-s-justice
+  uuid: 17b6ccab-0bb0-49b4-8b65-303db6dffa2e
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-13-philosophy-signs-and-evil
+  title: 'Lesson 13: The Philosophy of Signs and Evil'
+  slug: 17-lesson-13-the-philosophy-of-signs-and-evil
+  uuid: 241c5964-bfe4-48f9-af6a-a5e29638906a
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-14-philosophy-undesirable
+  title: 'Lesson 14: The Philosophy of Undesirable Events in Life'
+  slug: 18-lesson-14-the-philosophy-of-undesirable-events-in-life
+  uuid: 8f37c515-4fe6-4b14-8375-eaf1857f9d7d
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-15-once-again-philosophy
+  title: 'Lesson 15: Once Again the Philosophy of Signs and Catastrophes'
+  slug: 19-lesson-15-once-again-the-philosophy-of-signs-and-catastrophes
+  uuid: 424c3298-79fe-4099-afb8-60a14a5675ee
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-16-issue-predestination-and
+  title: 'Lesson 16: The Issue of Predestination and Free Will'
+  slug: 20-lesson-16-the-issue-of-predestination-and-free-will
+  uuid: 0a625b10-7674-4d11-98de-1acaf61f6590
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-17-clearest-reason-free-will
+  title: 'Lesson 17: The Clearest Reason for Free Will'
+  slug: 21-lesson-17-the-clearest-reason-for-free-will
+  uuid: 54b7b748-b230-4f6e-8131-96e0fee1e3c1
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-18-world-wonder-small-bird
+  title: 'Lesson 18: A World of Wonder in a Small Bird: What is the “Middle Way”?'
+  slug: 22-lesson-18-a-world-of-wonder-in-a-small-bird-what-is-the-middle-way
+  uuid: b555e0b3-ffd1-4a48-b35e-e042295a4813
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-19-guidance-and-error-are-god
+  title: 'Lesson 19: Guidance and Error are in God’s Hands'
+  slug: 23-lesson-19-guidance-and-error-are-in-god-s-hands
+  uuid: 2b6ec02a-5e89-4532-8ece-18676c7c4373
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-20-god-s-justice-and-issue
+  title: 'Lesson 20: God’s Justice and the issue of Eternity'
+  slug: 24-lesson-20-god-s-justice-and-the-issue-of-eternity
+  uuid: 1b753165-434c-4f60-8f08-e7b2af94162d
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/part-3-prophethood
+  title: 'Part 3: Prophethood'
+  slug: 25-part-3-prophethood
+  uuid: b65670a9-284c-4d53-aec5-383ca68fab9f
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-21-our-need-divine-leaders
+  title: 'Lesson 21: Our Need of Divine Leaders'
+  slug: 26-lesson-21-our-need-of-divine-leaders
+  uuid: 37c1ccb6-464b-42e1-8d50-3bb470ac5973
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-22-need-having-prophets-who
+  title: 'Lesson 22: The Need of having Prophets who Present The Law'
+  slug: 27-lesson-22-the-need-of-having-prophets-who-present-the-law
+  uuid: adea7621-1e0a-4dfe-a5c1-bbd792ce6953
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-23-why-are-prophets-free-sin
+  title: 'Lesson 23: Why are the Prophets Free of Sin and Error?'
+  slug: 28-lesson-23-why-are-the-prophets-free-of-sin-and-error
+  uuid: fa35123d-e15f-4cd3-b912-e0333d30c3ea
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-24-best-way-come-know
+  title: 'Lesson 24: The Best Way to come to Know the Prophets'
+  slug: 29-lesson-24-the-best-way-to-come-to-know-the-prophets
+  uuid: e94847b8-de10-4f46-a472-1851782f4e8f
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-25-greatest-miracle-prophet
+  title: 'Lesson 25: The Greatest Miracle of the Prophet of Islam'
+  slug: 30-lesson-25-the-greatest-miracle-of-the-prophet-of-islam
+  uuid: 9f0864b4-f22d-4412-a254-217bd9b50012
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-26-glance-miracle-quran
+  title: 'Lesson 26: A Glance at the Miracle of the Qur’an'
+  slug: 31-lesson-26-a-glance-at-the-miracle-of-the-qur-an
+  uuid: 4628afb8-1090-4e66-98e7-fffac7ea93ec
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-27-world-view-holy-quran
+  title: 'Lesson 27: The World View of the Holy Qur’an'
+  slug: 32-lesson-27-the-world-view-of-the-holy-qur-an
+  uuid: 09071584-3168-41bc-ad21-c609fc5224f1
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-28-holy-quran-and-modern
+  title: 'Lesson 28: The Holy Qur’an and Modern Scientific Discoveries'
+  slug: 33-lesson-28-the-holy-qur-an-and-modern-scientific-discoveries
+  uuid: db319018-0928-4a36-9850-9b2ed3453888
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-29-another-proof-rightfulness
+  title: 'Lesson 29: Another Proof of the Rightfulness of the Prophet of Islam'
+  slug: 34-lesson-29-another-proof-of-the-rightfulness-of-the-prophet-of-islam
+  uuid: f9249649-6679-48c5-8664-5f4601d6cd1c
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-30-prophet-islam-seal
+  title: 'Lesson 30: The Prophet of Islam is the “Seal of Prophecy”'
+  slug: 35-lesson-30-the-prophet-of-islam-is-the-seal-of-prophecy
+  uuid: 897b7d53-35fa-40c5-924a-e404ccfbe2f9
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/part-4-imamate-leadership
+  title: 'Part 4: Imamate (Leadership)'
+  slug: 36-part-4-imamate-leadership
+  uuid: c2d61053-9f5e-4b2b-805c-210f1aa44044
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-31-when-did-imamology-begin
+  title: 'Lesson 31: When did Imamology Begin?'
+  slug: 37-lesson-31-when-did-imamology-begin
+  uuid: b093a412-d481-4c2a-b70e-caa7ae626094
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-32-philosophy-existence-imams
+  title: 'Lesson 32: The Philosophy of the Existence of Imams (Guides)'
+  slug: 38-lesson-32-the-philosophy-of-the-existence-of-imams-guides
+  uuid: a81b8e30-3ae6-42bc-af18-c32cb55bcbf5
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-33-conditions-and-special
+  title: 'Lesson 33: The Conditions and Special Qualities of the Imam'
+  slug: 39-lesson-33-the-conditions-and-special-qualities-of-the-imam
+  uuid: 17a9b585-52f6-4295-a427-150a0a5c3558
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-34-who-has-select-imam
+  title: 'Lesson 34: Who has to Select the Imam?'
+  slug: 40-lesson-34-who-has-to-select-the-imam
+  uuid: ead3f0b2-f41c-4f0d-8be1-28e8308749ac
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-35-quran-and-imamate
+  title: 'Lesson 35: The Qur’an and Imamate'
+  slug: 41-lesson-35-the-qur-an-and-imamate
+  uuid: eac0e949-b9d0-4fd0-8b6b-3af44a538a0a
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-36-imamate-traditions-holy
+  title: 'Lesson 36: Imamate in the Traditions of the Holy Prophet'
+  slug: 42-lesson-36-imamate-in-the-traditions-of-the-holy-prophet
+  uuid: b7bc0d80-fded-48f8-9670-9444b90e2cdd
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-37-tradition-manzalah-and
+  title: 'Lesson 37: The Tradition of Manzalah and the Tradition of Yawm Ad-Dar'
+  slug: 43-lesson-37-the-tradition-of-manzalah-and-the-tradition-of-yawm-ad-dar
+  uuid: 50ee125d-0596-4306-b889-8c1180b088f8
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-38-tradition-thaqalayn-and
+  title: 'Lesson 38: The Tradition of Thaqalayn and Noah’s Ark'
+  slug: 44-lesson-38-the-tradition-of-thaqalayn-and-noah-s-ark
+  uuid: d4d5aa7d-39bf-473c-a140-63c7956c9cf0
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-39-twelve-imams
+  title: 'Lesson 39: The Twelve Imams'
+  slug: 45-lesson-39-the-twelve-imams
+  uuid: 1fac47c0-d8cf-41ac-b7f4-728f2e6b7a25
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-40-twelfth-imam-great-leader
+  title: 'Lesson 40: The Twelfth Imam, The Great Leader and Peace-Maker of the World'
+  slug: 46-lesson-40-the-twelfth-imam-the-great-leader-and-peace-maker-of-the-world
+  uuid: fef4cde5-2696-482f-b097-d439a0c709b2
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/part-5-resurrection
+  title: 'Part 5: Resurrection'
+  slug: 47-part-5-resurrection
+  uuid: 5e2a07b6-a426-4bfb-ac0d-723f755b4e6d
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-41-one-crucial-question-death
+  title: 'Lesson 41: One Crucial Question: Is Death considered as One’s End or Beginning?'
+  slug: 48-lesson-41-one-crucial-question-is-death-considered-as-one-s-end-or-beginning
+  uuid: ff6649ca-e8c6-454d-aa3d-9548a148a253
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-42-belief-resurrection-gives
+  title: 'Lesson 42: Belief in The Resurrection Gives Meaning to Life'
+  slug: 49-lesson-42-belief-in-the-resurrection-gives-meaning-to-life
+  uuid: 017c41e0-427b-46e8-8ff4-9e174b869318
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-43-example-trial-day-judgment
+  title: 'Lesson 43: An Example of the Trial of the Day of Judgment is within You'
+  slug: 50-lesson-43-an-example-of-the-trial-of-the-day-of-judgment-is-within-you
+  uuid: aa7e1669-f07a-4682-907f-50c65e32bd3e
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-44-belief-resurrection
+  title: 'Lesson 44: Belief in Resurrection is Manifested in our Primordial Nature'
+  slug: 51-lesson-44-belief-in-resurrection-is-manifested-in-our-primordial-nature
+  uuid: 2c71f373-0c5d-4bd7-a44d-fd03690d0137
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-45-resurrection-and-scales
+  title: 'Lesson 45: The Resurrection and the Scales of Justice'
+  slug: 52-lesson-45-the-resurrection-and-the-scales-of-justice
+  uuid: e9218dc5-fa94-4cfe-9a65-154077099782
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-46-we-have-seen-resurrection
+  title: 'Lesson 46: We Have Seen the Resurrection Many Times in this World'
+  slug: 53-lesson-46-we-have-seen-the-resurrection-many-times-in-this-world
+  uuid: e1a759db-173b-4f9e-a1ed-5de89ae71719
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-47-resurrection-ad-philosophy
+  title: 'Lesson 47: The Resurrection ad The Philosophy of Creation'
+  slug: 54-lesson-47-the-resurrection-ad-the-philosophy-of-creation
+  uuid: e61d7ff1-5dfa-4586-bed2-27528f93a099
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-48-survival-spirit-sign
+  title: 'Lesson 48: The Survival of the Spirit, a Sign of the Resurrection'
+  slug: 55-lesson-48-the-survival-of-the-spirit-a-sign-of-the-resurrection
+  uuid: 6f7b2355-2d6b-4eba-a842-c9d3bae789b9
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-49-physical-spiritual
+  title: 'Lesson 49: The Physical-Spiritual Resurrection'
+  slug: 56-lesson-49-the-physical-spiritual-resurrection
+  uuid: e52832bd-ee27-4b31-8203-3fff00e236f6
+- source: :alislam
+  source_url: http://www.al-islam.org/fifty-lessons-on-principles-of-belief-for-youth-makarim-shirazi/lesson-50-paradise-and-hell-are
+  title: 'Lesson 50: Paradise and Hell are the Embodiment of our Deeds'
+  slug: 57-lesson-50-paradise-and-hell-are-the-embodiment-of-our-deeds
+  uuid: 3bc08414-2a5e-4bab-8489-c64cbb7d610e
+---

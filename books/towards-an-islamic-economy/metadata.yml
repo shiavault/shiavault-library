@@ -1,0 +1,53 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/towards-islamic-economy-ayatullah-sayyid-muhammad-baqir-sadr
+author: Ayatullah Sayyid Muhammad Baqir As-Sadr
+publisher: Bunyad Be'thet
+translator: Mehdi Marzban
+title: Towards An Islamic Economy
+slug: towards-an-islamic-economy
+uuid: c1363f85-7e1e-48de-945e-991665b3540f
+description: |
+  A research work on the socioeconomic system of Islam.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/towards-islamic-economy-ayatullah-sayyid-muhammad-baqir-sadr/editors-note
+  title: Editor's Note
+  slug: 1-editor-s-note
+  uuid: ff31a5bf-ea37-41ff-9f69-be505a86601b
+- source: :alislam
+  source_url: http://www.al-islam.org/towards-islamic-economy-ayatullah-sayyid-muhammad-baqir-sadr/translators-preface
+  title: Translator's Preface
+  slug: 2-translator-s-preface
+  uuid: 3ec15225-03a6-4e36-ab6c-516bcd361878
+- source: :alislam
+  source_url: http://www.al-islam.org/towards-islamic-economy-ayatullah-sayyid-muhammad-baqir-sadr/authors-introducton
+  title: Author's Introducton
+  slug: 3-author-s-introducton
+  uuid: 33fbebc9-dc2c-45db-a166-17d5720c6cc2
+- source: :alislam
+  source_url: http://www.al-islam.org/towards-islamic-economy-ayatullah-sayyid-muhammad-baqir-sadr/seeking-islamic-alternative-capitalism
+  title: Seeking An Islamic Alternative To Capitalism- Communism
+  slug: 4-seeking-an-islamic-alternative-to-capitalism-communism
+  uuid: 92e2fe54-5998-4e47-832a-f30447cdb95d
+- source: :alislam
+  source_url: http://www.al-islam.org/towards-islamic-economy-ayatullah-sayyid-muhammad-baqir-sadr/pure-economics-and-socioeconomic-policy
+  title: Pure Economics and The Socioeconomic Policy -Making Process
+  slug: 5-pure-economics-and-the-socioeconomic-policy-making-process
+  uuid: e070713e-de2c-4dc8-a88a-5ba21aace80d
+- source: :alislam
+  source_url: http://www.al-islam.org/towards-islamic-economy-ayatullah-sayyid-muhammad-baqir-sadr/islamic-system-socioeconomic-regulation
+  title: The Islamic System of Socioeconomic Regulation
+  slug: 6-the-islamic-system-of-socioeconomic-regulation
+  uuid: cb6eaf92-32e6-491e-9f54-fb6e45c72cb5
+- source: :alislam
+  source_url: http://www.al-islam.org/towards-islamic-economy-ayatullah-sayyid-muhammad-baqir-sadr/moral-basis-economics-islam
+  title: The Moral Basis Of Economics In Islam
+  slug: 7-the-moral-basis-of-economics-in-islam
+  uuid: 8a4d4672-b4b9-43aa-9c87-112fc94b4065
+- source: :alislam
+  source_url: http://www.al-islam.org/towards-islamic-economy-ayatullah-sayyid-muhammad-baqir-sadr/concluding-remarks
+  title: Concluding Remarks
+  slug: 8-concluding-remarks
+  uuid: bb2ecd50-bc59-4c12-987d-f1292cba7ab5
+---

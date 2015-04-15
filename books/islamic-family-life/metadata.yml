@@ -1,0 +1,46 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islamic-family-life-sayyid-akhtar-rizvi
+author: Sayyid Saeed Akhtar Rizvi
+publisher: W.O.F.I.S. World Organization for Islamic Services
+title: Islamic Family Life
+slug: islamic-family-life
+uuid: 042e249d-8792-4692-a359-b3e641fe9e83
+description: |
+  In this book, the author talks in detail about the importance of a
+  family and expounds on the merits and demerits of the joint as well as
+  the nuclear family. He also discusses the rights and duties of a person
+  vis-a-vis his or her family, and finally concludes with a couple of
+  sections on dealing with relatives and neighbours.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-family-life-sayyid-akhtar-rizvi/publishers-foreword
+  title: Publisher's Foreword
+  slug: 1-publisher-s-foreword
+  uuid: a641237e-16a2-4d2f-8398-6ada9055c96b
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-family-life-sayyid-akhtar-rizvi/family
+  title: The Family
+  slug: 2-the-family
+  uuid: 1faa308c-2393-4db9-91d8-69f0994ff0c9
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-family-life-sayyid-akhtar-rizvi/parents-and-children
+  title: Parents And Children
+  slug: 3-parents-and-children
+  uuid: 00df309b-3e26-48fa-9498-26af4134331f
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-family-life-sayyid-akhtar-rizvi/marital-affairs
+  title: Marital Affairs
+  slug: 4-marital-affairs
+  uuid: 6f3aef79-7394-4723-933c-60aaf46fb4af
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-family-life-sayyid-akhtar-rizvi/relatives
+  title: Relatives
+  slug: 5-relatives
+  uuid: 0ec2455d-4335-4259-ad40-bd7373883573
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-family-life-sayyid-akhtar-rizvi/rights-neighbours
+  title: Rights of Neighbours
+  slug: 6-rights-of-neighbours
+  uuid: 0eaae2bb-9d39-48db-8189-88d2fa5095c2
+---

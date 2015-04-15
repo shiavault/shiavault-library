@@ -1,0 +1,420 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi
+author: Mohammad Mehdi Taj Langaroodi
+compiler: Mirza Hussain Ibne Riyaz
+translator: Raazia Sajid Ali
+title: Morals for Children and Young
+slug: morals-for-children-and-young
+uuid: d7cbde0b-27da-4c8d-b869-1d8723befa69
+description: |
+  This book provides good ideas to parents on upbringing of their
+  children, with family values and morals.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/word-translator
+  title: A Word from the Translator
+  slug: 1-a-word-from-the-translator
+  uuid: 7df94c5b-f53b-408a-8322-1723ddf7cd78
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-n-1-little-ahmads-present
+  title: 'Story n. 1: Little Ahmad’s Present'
+  slug: 2-story-n-1-little-ahmad-s-present
+  uuid: c1ee308c-3860-4e45-80a3-567c8d8f4910
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-n2-attachment-name-hazrat-fatima-sa
+  title: 'Story n.2: Attachment with the name of Hazrat Fatima (sa)'
+  slug: 3-story-n-2-attachment-with-the-name-of-hazrat-fatima-sa
+  uuid: b1f20b25-e3d6-4981-805a-48b8bbcfec82
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-n-3-good-children-and-permission
+  title: 'Story n. 3: Good children and permission from father and mother'
+  slug: 4-story-n-3-good-children-and-permission-from-father-and-mother
+  uuid: d23d0019-608f-481e-a54b-f22ec4c05e2e
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-4-preparation-children-prayer
+  title: 'Story no. 4: Preparation of children for Prayer'
+  slug: 5-story-no-4-preparation-of-children-for-prayer
+  uuid: c83a9dc0-ecd9-444d-a97f-de4771a4321e
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-5-children-and-respect-fathers-and
+  title: 'Story no. 5: Children and respect for fathers and mothers'
+  slug: 6-story-no-5-children-and-respect-for-fathers-and-mothers
+  uuid: 1889acda-8397-41b8-9295-8c4a24000cf1
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no6-first-salaam-then-conversation
+  title: 'Story no.6: First Salaam, then conversation'
+  slug: 7-story-no-6-first-salaam-then-conversation
+  uuid: 86764035-67f5-410c-8a68-4af7db578034
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-7-door-bell
+  title: 'Story no. 7: The Door Bell'
+  slug: 8-story-no-7-the-door-bell
+  uuid: 3b22d8aa-45f3-4a60-98c7-44a269cfa1d4
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-8-friendship-liar
+  title: 'Story no. 8: Friendship of a liar'
+  slug: 9-story-no-8-friendship-of-a-liar
+  uuid: 9dc49308-a6cb-472a-b25c-967db13eb75d
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-9-raza-and-jafar-their-way-school
+  title: 'Story no. 9: Raza and Jafar on their way to school'
+  slug: 10-story-no-9-raza-and-jafar-on-their-way-to-school
+  uuid: 6a08b1ac-882e-4c59-9efe-85a12cb21768
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-10-little-alis-story
+  title: 'Story no. 10: Little Ali’s story'
+  slug: 11-story-no-10-little-ali-s-story
+  uuid: 032bed3b-591b-4fab-964d-13a5597d5cf9
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-11-siddiqa-gathering-guests
+  title: 'Story no. 11: Siddiqa in the gathering of guests'
+  slug: 12-story-no-11-siddiqa-in-the-gathering-of-guests
+  uuid: 0dd03a26-fb7d-4681-961b-950fec237052
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-12-hameed-and-hameeda
+  title: 'Story no. 12: Hameed and Hameeda'
+  slug: 13-story-no-12-hameed-and-hameeda
+  uuid: 02aadd24-2202-485c-aac4-fe97ac056bba
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-13-story-akbar-and-mahmood
+  title: 'Story no. 13: Story of Akbar and Mahmood'
+  slug: 14-story-no-13-story-of-akbar-and-mahmood
+  uuid: 7d248850-ee88-4858-9ff8-341c6e9d3eef
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-14-childrens-beds
+  title: 'Story no. 14: The children’s beds'
+  slug: 15-story-no-14-the-children-s-beds
+  uuid: 89307ec6-b923-4139-9ded-e88484cd209d
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-15-peeping-house-neighbours
+  title: 'Story no. 15: Peeping in the house of neighbours'
+  slug: 16-story-no-15-peeping-in-the-house-of-neighbours
+  uuid: 39e43c18-6b50-4e98-8099-44ac300d0c68
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-16-boy-cycle
+  title: 'Story no. 16: The boy on the cycle'
+  slug: 17-story-no-16-the-boy-on-the-cycle
+  uuid: 2d80047b-edd4-463e-8f1e-290168d70286
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-17-children-and-birds
+  title: 'Story no. 17: The children and the birds'
+  slug: 18-story-no-17-the-children-and-the-birds
+  uuid: 42239048-f51a-4080-b672-d34a7ad5a17d
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-18-jameela-and-her-apology-her
+  title: 'Story no. 18: Jameela and her apology from her mother'
+  slug: 19-story-no-18-jameela-and-her-apology-from-her-mother
+  uuid: 65908c95-1418-46a1-8813-5261c04d3674
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-19-hungry-and-thirsty-cat
+  title: 'Story no. 19: The hungry and thirsty cat'
+  slug: 20-story-no-19-the-hungry-and-thirsty-cat
+  uuid: b4b8d985-3c2a-4824-80da-43ec0e1fcf0c
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-20-girls-house-and-helping-their
+  title: 'Story no. 20: Girls of the house and helping their mother'
+  slug: 21-story-no-20-girls-of-the-house-and-helping-their-mother
+  uuid: 5c9d8cf7-4729-46e1-a706-a40932d04551
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-21-taking-trouble-neighbours
+  title: 'Story no. 21: Taking trouble for neighbours'
+  slug: 22-story-no-21-taking-trouble-for-neighbours
+  uuid: b976e554-fc79-4b0f-9107-7aac7838d90e
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-22-respect-old-people
+  title: 'Story no. 22: Respect of old people'
+  slug: 23-story-no-22-respect-of-old-people
+  uuid: 373e6d74-f7ca-4b64-9582-c489264b0bf6
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-23-scolding-better-love
+  title: 'Story no. 23: Scolding better than love?'
+  slug: 24-story-no-23-scolding-better-than-love
+  uuid: db47d45c-d8b9-4ded-a51a-fe3fa2a472f4
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-24-visiting-sick-grandmother
+  title: 'Story no. 24: Visiting the sick grandmother'
+  slug: 25-story-no-24-visiting-the-sick-grandmother
+  uuid: 6547ceec-d880-49f2-9435-6fa6f2d439a6
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-25-salaam-good-morning
+  title: 'Story no. 25: Salaam, good morning'
+  slug: 26-story-no-25-salaam-good-morning
+  uuid: 5ec1e997-7102-4099-b55d-3c111792516a
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-26-kabeer-and-qadeer-their-way
+  title: 'Story no. 26: Kabeer and Qadeer on their way to school'
+  slug: 27-story-no-26-kabeer-and-qadeer-on-their-way-to-school
+  uuid: 9f7e3292-5ca7-4e8e-b31d-a3efed250db8
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-27-ill-boy-corner-street
+  title: 'Story no. 27: The ill boy on the corner of the street'
+  slug: 28-story-no-27-the-ill-boy-on-the-corner-of-the-street
+  uuid: e88015ff-ee6b-43c0-970f-717349aa6fed
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-28-help-should-be-done-way
+  title: 'Story no. 28: Help should be done in this way.'
+  slug: 29-story-no-28-help-should-be-done-in-this-way
+  uuid: 9649b5d9-b017-4d37-8eac-0ce7a98e9424
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-29-jamaal-and-hurt-cat
+  title: 'Story no. 29: Jamaal and the hurt cat.'
+  slug: 30-story-no-29-jamaal-and-the-hurt-cat
+  uuid: d68fb73f-8dab-4109-baf7-c1932a7d33b4
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-30-unpleasant-happenings
+  title: 'Story no. 30: Before the unpleasant happenings.'
+  slug: 31-story-no-30-before-the-unpleasant-happenings
+  uuid: 2caa9917-9af2-4c2c-94bc-9d4f9d8a5735
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-31-safety-trust
+  title: 'Story no. 31: Safety of trust'
+  slug: 32-story-no-31-safety-of-trust
+  uuid: 39272438-4410-4417-9810-45573fc7acd8
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-32
+  title: Story no. 32
+  slug: 33-story-no-32
+  uuid: 3e7abe24-59d0-4af7-b394-05948f7f659d
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-33-karbalai-kazims-children
+  title: 'Story no. 33: Karbalai Kazim’s children'
+  slug: 34-story-no-33-karbalai-kazim-s-children
+  uuid: e0e554c9-e669-45d5-9acf-74abefe64b16
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-34-jawad-and-familiarity-book
+  title: 'Story no. 34: Jawad and familiarity with the book.'
+  slug: 35-story-no-34-jawad-and-familiarity-with-the-book
+  uuid: b234ec09-1512-4c59-a1ca-7e5ee17b638f
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-35-treachery-aqa-asadullahs-son
+  title: 'Story no. 35: Treachery of Aqa Asadullah’s son'
+  slug: 36-story-no-35-treachery-of-aqa-asadullah-s-son
+  uuid: de34c536-65f2-4e65-b634-0e7fa1ee117a
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-36-shamsi-and-rudeness-others
+  title: 'Story no. 36: Shamsi and rudeness to others'
+  slug: 37-story-no-36-shamsi-and-rudeness-to-others
+  uuid: 120e3855-1440-4a45-9f06-e889dd2bbf9b
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-37-behrouz-boy-who-played-pigeons
+  title: 'Story no. 37: Behrouz - The boy who played with pigeons.'
+  slug: 38-story-no-37-behrouz-the-boy-who-played-with-pigeons
+  uuid: 1fe0a989-47f6-4f58-87ed-861a45461616
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-38-muin-boy-who-pestered-people
+  title: 'Story no. 38: Mu’in - the boy who pestered people'
+  slug: 39-story-no-38-mu-in-the-boy-who-pestered-people
+  uuid: 89145791-2431-46d8-8bf5-24b81d3fd2b1
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-39-narjis-and-her-complaints
+  title: 'Story no. 39: Narjis and her complaints against the other children of the
+    house'
+  slug: 40-story-no-39-narjis-and-her-complaints-against-the-other-children-of-the-house
+  uuid: 71e8ac0e-b8bb-4990-b6e3-d19d1e222db6
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-40-jawad-playing-naser
+  title: 'Story no. 40: Jawad playing with Naser'
+  slug: 41-story-no-40-jawad-playing-with-naser
+  uuid: 6d189d50-6c75-4fb2-bf72-c2bd36140450
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-41majid-and-action-against
+  title: Story no. 41:Majid and an action against etiquettes.
+  slug: 42-story-no-41-majid-and-an-action-against-etiquettes
+  uuid: 4c97b05e-34ae-44af-a1a1-5f50ce5ba1a2
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-42unhappiness-miss-zahra
+  title: Story no. 42:Unhappiness of Miss Zahra
+  slug: 43-story-no-42-unhappiness-of-miss-zahra
+  uuid: e1555396-828b-4725-9ac4-4ab29b8a2ff2
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-43-habib-son-mashhadi-abbas
+  title: 'Story no. 43: Habib, the son of Mashhadi Abbas.'
+  slug: 44-story-no-43-habib-the-son-of-mashhadi-abbas
+  uuid: 9a7b6b09-ce1b-423f-9bad-4e0cc98005f8
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-44the-chicks-house
+  title: Story no. 44:The chicks of the house.
+  slug: 45-story-no-44-the-chicks-of-the-house
+  uuid: 965a7ea2-3321-4b33-9ab6-d322880db65f
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-45-neighbours-boy-tricycle
+  title: 'Story no. 45: The neighbours boy on a tricycle'
+  slug: 46-story-no-45-the-neighbours-boy-on-a-tricycle
+  uuid: 7ac29784-4393-4867-b4fd-ce6d65dd7d6a
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-46sound-radio
+  title: Story no. 46:Sound of the Radio
+  slug: 47-story-no-46-sound-of-the-radio
+  uuid: 92344db5-316e-4e01-8111-5e869e3d278d
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-47-recess-time-school
+  title: 'Story no. 47: The recess-time of the school.'
+  slug: 48-story-no-47-the-recess-time-of-the-school
+  uuid: c7355878-f826-4fbd-add8-d03c1a09d169
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-48saeeda-and-request-chadar
+  title: Story no. 48:Saeeda and request for chadar
+  slug: 49-story-no-48-saeeda-and-request-for-chadar
+  uuid: b131b636-1812-456f-b200-4feecf6c7ede
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-49-trees-street
+  title: 'Story no. 49: Trees of the street'
+  slug: 50-story-no-49-trees-of-the-street
+  uuid: 84dc5d79-0228-4f5f-a39f-3cf7d65d0e0a
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-50-thirsty-animal-corner-street
+  title: 'Story no. 50: The thirsty animal on the corner of the street.'
+  slug: 51-story-no-50-the-thirsty-animal-on-the-corner-of-the-street
+  uuid: d2ed48c8-cfab-4615-a463-0e28da965ae3
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-51a-friendly-gathering-park
+  title: Story no. 51:A friendly gathering in the park.
+  slug: 52-story-no-51-a-friendly-gathering-in-the-park
+  uuid: 489148f2-fece-4d0c-8623-e596a0ef0e41
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-52the-fatherless-girl
+  title: Story no. 52:The fatherless girl.
+  slug: 53-story-no-52-the-fatherless-girl
+  uuid: 500bb678-6436-479d-bdb8-8db45bce145f
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-53-why-friendship-nusrat-and
+  title: 'Story no. 53: Why the friendship of Nusrat and Heshmat did not have durability.'
+  slug: 54-story-no-53-why-the-friendship-of-nusrat-and-heshmat-did-not-have-durability
+  uuid: 111aff70-27f6-4222-a7ed-819b601f2ea3
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-54-unhappiness-rasheed-ridiculing
+  title: 'Story no. 54: Unhappiness of Rasheed from the ridiculing of children.'
+  slug: 55-story-no-54-unhappiness-of-rasheed-from-the-ridiculing-of-children
+  uuid: a3de2411-3721-47e5-a73b-c539202e08fc
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-55-umid-and-his-apology-his-friend
+  title: 'Story no. 55: Umid and his apology from his friend.'
+  slug: 56-story-no-55-umid-and-his-apology-from-his-friend
+  uuid: 753c35bd-5766-4781-a535-c6889dd7627f
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-56-iqbals-recommendation-about
+  title: 'Story no. 56: Iqbal’s recommendation about brushing teeth to Fatih'
+  slug: 57-story-no-56-iqbal-s-recommendation-about-brushing-teeth-to-fatih
+  uuid: e1b18adc-5433-48c7-99e0-835b80f17a10
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-57in-front-television
+  title: Story no. 57:In front of the television.
+  slug: 58-story-no-57-in-front-of-the-television
+  uuid: b4ed8fdd-2099-41e5-bd9a-d58c8a13ffa9
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-58-mothers-day
+  title: 'Story no. 58: On Mothers’ Day'
+  slug: 59-story-no-58-on-mothers-day
+  uuid: d4dae0e7-89e9-4ad4-aabb-c68b16bd724d
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-59-teachers-day
+  title: 'Story no. 59: On teachers’ day.'
+  slug: 60-story-no-59-on-teachers-day
+  uuid: 61cb1750-4ea3-430e-b619-a130194bc88a
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-60-hoori-wedding-ceremony
+  title: 'Story no. 60: Hoori in the wedding ceremony.'
+  slug: 61-story-no-60-hoori-in-the-wedding-ceremony
+  uuid: ccd1d021-95f6-4229-8936-5c47487483f8
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-61raufa-and-hygiene-hands-and-mouth
+  title: Story no. 61:Rau’fa and hygiene of hands and mouth.
+  slug: 62-story-no-61-rau-fa-and-hygiene-of-hands-and-mouth
+  uuid: b5710320-5722-4cad-9624-517247c8919c
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-62-respecting-aunt-instead-mother
+  title: 'Story no. 62: Respecting aunt instead of mother.'
+  slug: 63-story-no-62-respecting-aunt-instead-of-mother
+  uuid: 5c198951-77f9-4f52-81e2-483ea7a38056
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-63attachment-aqa-abul-fazl
+  title: Story no. 63:Attachment of Aqa Abul Fazl
+  slug: 64-story-no-63-attachment-of-aqa-abul-fazl
+  uuid: b33e79ae-551c-46e4-8781-330e52d752e8
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-64-why-we-attend-classes
+  title: 'Story no. 64: Why we attend classes.'
+  slug: 65-story-no-64-why-we-attend-classes
+  uuid: 56270d98-4304-4b9e-b14f-c094358994d8
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-65-why-nadeema-did-not-go-wedding
+  title: 'Story no. 65: Why Nadeema did not go to the Wedding ceremony.'
+  slug: 66-story-no-65-why-nadeema-did-not-go-to-the-wedding-ceremony
+  uuid: 4af4752b-fd8f-4efd-a977-aa043d8a7125
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-66-contentment-stationary
+  title: 'Story no. 66: Contentment in stationary.'
+  slug: 67-story-no-66-contentment-in-stationary
+  uuid: e9ea75bd-963e-4547-b5a6-3c264ac0faa3
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-67-we-saw-european-children
+  title: 'Story no. 67: We saw European children.'
+  slug: 68-story-no-67-we-saw-european-children
+  uuid: c52b55c0-7bef-426c-b251-0b3e3c94b949
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-68-worker-house
+  title: 'Story no. 68: Worker of the house.'
+  slug: 69-story-no-68-worker-of-the-house
+  uuid: d4841eed-a832-4e34-a7a8-8518927e530e
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-69-hami-table
+  title: 'Story no. 69: Hami at the table.'
+  slug: 70-story-no-69-hami-at-the-table
+  uuid: 4281d20d-e481-404f-a2e9-7ef193c21d23
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-70-wajeeh-table
+  title: 'Story no. 70: Wajeeh at the table'
+  slug: 71-story-no-70-wajeeh-at-the-table
+  uuid: 907f4e71-38a2-457b-8d52-409581626330
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-71generous-help-children
+  title: Story no. 71:Generous help by the children.
+  slug: 72-story-no-71-generous-help-by-the-children
+  uuid: 4b880786-941e-4a64-aa53-ac6b6cf31a1d
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-72-simin-and-amins-quarrel
+  title: 'Story no. 72: Simin and Amin’s quarrel.'
+  slug: 73-story-no-72-simin-and-amin-s-quarrel
+  uuid: f68ce490-cc17-467b-999d-40cbd8ac2fde
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-73-teaching-bad-things
+  title: 'Story no. 73: Teaching bad things.'
+  slug: 74-story-no-73-teaching-bad-things
+  uuid: bd8bd51d-b344-45e0-b58a-2cbb6b0855d3
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-74-scaring-children
+  title: 'Story no. 74: Scaring of children.'
+  slug: 75-story-no-74-scaring-of-children
+  uuid: f61dac3f-9c33-44a7-8d2b-da957cbd10a4
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-75-disagreement-children
+  title: 'Story no. 75: Disagreement of the children.'
+  slug: 76-story-no-75-disagreement-of-the-children
+  uuid: a9f41a37-b713-483d-9961-22b1ff6ed4d3
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-76-childrens-complain-against-their
+  title: 'Story no. 76: The children’s complain against their parents.'
+  slug: 77-story-no-76-the-children-s-complain-against-their-parents
+  uuid: d650c07c-9d07-4101-af85-5894b93d8966
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-77-writing-walls
+  title: 'Story no. 77: Writing on the walls.'
+  slug: 78-story-no-77-writing-on-the-walls
+  uuid: da14a0d5-829d-4803-9002-f908d98aba30
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-78-advice-about-cleanliness
+  title: 'Story no. 78: Advice about cleanliness.'
+  slug: 79-story-no-78-advice-about-cleanliness
+  uuid: a92a0635-c90c-4881-b6ea-c88ee033029e
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-79-atabak-and-running-away-school
+  title: 'Story no. 79: Atabak and running away from school.'
+  slug: 80-story-no-79-atabak-and-running-away-from-school
+  uuid: a940a727-8df0-4b91-a47c-65f9b103aed4
+- source: :alislam
+  source_url: http://www.al-islam.org/morals-children-and-young-mohammad-mehdi-taj-langaroodi/story-no-80-loss-over-eating
+  title: 'Story no. 80: Loss of over-eating.'
+  slug: 81-story-no-80-loss-of-over-eating
+  uuid: f8e981ee-8acd-4eef-a29f-8d9b306f72bf
+---

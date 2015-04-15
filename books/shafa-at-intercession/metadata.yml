@@ -1,0 +1,53 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/shafaat-intercession-sayed-abbas-abedi
+author: Sayed Abbas Abedi
+publisher: World Islamic Network (WIN)
+title: Shafa’at, Intercession
+slug: shafa-at-intercession
+uuid: e3cf9157-8a59-41da-ba18-6b2695880e9c
+description: |
+  This book explains the concept of Intercession in the light of the Holy
+  Quran and Narrations.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/shafaat-intercession-sayed-abbas-abedi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: b2443159-162a-47a5-bbcb-b4db5a5c7601
+- source: :alislam
+  source_url: http://www.al-islam.org/shafaat-intercession-sayed-abbas-abedi/meaning-and-concept-intercession
+  title: Meaning and Concept of Intercession
+  slug: 2-meaning-and-concept-of-intercession
+  uuid: 6f60a03d-0fb3-4b28-9b9c-dd7ba185399c
+- source: :alislam
+  source_url: http://www.al-islam.org/shafaat-intercession-sayed-abbas-abedi/intercession-light-holy-quran
+  title: Intercession In The Light Of Holy Qur’an
+  slug: 3-intercession-in-the-light-of-holy-qur-an
+  uuid: 0a0f00d7-47bd-4336-bf97-960a25e4e19e
+- source: :alislam
+  source_url: http://www.al-islam.org/shafaat-intercession-sayed-abbas-abedi/two-aspects-intercession-quran
+  title: Two Aspects Of Intercession In Qur’an
+  slug: 4-two-aspects-of-intercession-in-qur-an
+  uuid: 13ee48a8-b56c-45a5-a687-29ac607f5c0d
+- source: :alislam
+  source_url: http://www.al-islam.org/shafaat-intercession-sayed-abbas-abedi/intercession-light-traditions
+  title: Intercession In The Light Of Traditions
+  slug: 5-intercession-in-the-light-of-traditions
+  uuid: 21d14a9e-0b46-468a-90f5-e8122ea3aa4a
+- source: :alislam
+  source_url: http://www.al-islam.org/shafaat-intercession-sayed-abbas-abedi/two-types-intercession
+  title: Two Types Of Intercession
+  slug: 6-two-types-of-intercession
+  uuid: ec3e2bb3-5fec-4eb0-8c06-c51135476500
+- source: :alislam
+  source_url: http://www.al-islam.org/shafaat-intercession-sayed-abbas-abedi/interceding-personalities
+  title: Interceding Personalities
+  slug: 7-interceding-personalities
+  uuid: 91c94256-b82b-4cf0-af8b-0cdc73604ffd
+- source: :alislam
+  source_url: http://www.al-islam.org/shafaat-intercession-sayed-abbas-abedi/intercession-whom
+  title: Intercession For Whom
+  slug: 8-intercession-for-whom
+  uuid: 575db818-06a0-4269-adb0-24f58e0a53a8
+---

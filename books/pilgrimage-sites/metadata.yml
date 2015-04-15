@@ -1,0 +1,48 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/pilgrimage-sites
+title: Pilgrimage Sites
+slug: pilgrimage-sites
+uuid: 0bde63a3-9692-4dd3-a10d-cd1fe5ef7e7e
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/pilgrimage-sites/pilgrimage-sites
+  title: Pilgrimage Sites
+  slug: 1-pilgrimage-sites
+  uuid: 04c01f87-1d8c-4796-975f-16f40a401617
+- source: :alislam
+  source_url: http://www.al-islam.org/pilgrimage-sites/saudi-arabia
+  title: Saudi Arabia
+  slug: 2-saudi-arabia
+  uuid: 38f7d34d-d11d-4555-a804-551f3d585b34
+- source: :alislam
+  source_url: http://www.al-islam.org/pilgrimage-sites/useful-maps-pilgrims-makkah-madinah
+  title: Useful Maps for Pilgrims to Makkah & Madinah
+  slug: 3-useful-maps-for-pilgrims-to-makkah-madinah
+  uuid: 6a5443a0-d492-42f5-bb1d-31bd5442ba94
+- source: :alislam
+  source_url: http://www.al-islam.org/pilgrimage-sites/iraq
+  title: Iraq
+  slug: 4-iraq
+  uuid: 23922e49-0788-4f29-a84a-683c7fb11265
+- source: :alislam
+  source_url: http://www.al-islam.org/pilgrimage-sites/iran
+  title: Iran
+  slug: 5-iran
+  uuid: 0fa0a144-38d9-4693-9412-0a2cb43df1ad
+- source: :alislam
+  source_url: http://www.al-islam.org/pilgrimage-sites/jerusalem
+  title: Jerusalem
+  slug: 6-jerusalem
+  uuid: 8a2cb925-b48f-4c88-9408-1cb267fbd6ec
+- source: :alislam
+  source_url: http://www.al-islam.org/pilgrimage-sites/egypt
+  title: Egypt
+  slug: 7-egypt
+  uuid: ceb8daca-8b24-4f90-846b-e21e08c3558c
+- source: :alislam
+  source_url: http://www.al-islam.org/pilgrimage-sites/syria
+  title: Syria
+  slug: 8-syria
+  uuid: cf520232-3723-4e63-84f8-aa6f8d8281e9
+---

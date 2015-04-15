@@ -1,0 +1,98 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/habib-bin-mudhahir-kamal-al-sayyid
+author: Kamal al-Syyed
+publisher: Ansariyan Publications - Qum
+translator: Jasim al-Alyawy
+title: Habib b. Mudhahir
+slug: habib-b-mudhahir
+uuid: 56fe201c-869d-4c85-8cf8-322a3de52701
+description: |
+  Biography of the devoted friend of Imam Husayn (a).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/habib-bin-mudhahir-kamal-al-sayyid/habib-bin-mudhahir
+  title: Habib bin Mudhahir
+  slug: 1-habib-bin-mudhahir
+  uuid: c423534e-2b5f-4e0f-862f-4c956234e30f
+- source: :alislam
+  source_url: http://www.al-islam.org/habib-bin-mudhahir-kamal-al-sayyid/i-am-habib
+  title: I am Habib
+  slug: 2-i-am-habib
+  uuid: 4f67732f-ddfa-4e1a-abee-2bd253529e7a
+- source: :alislam
+  source_url: http://www.al-islam.org/habib-bin-mudhahir-kamal-al-sayyid/karbala
+  title: In Karbala
+  slug: 3-in-karbala
+  uuid: c2af2dc6-3e99-4472-b239-62a2593a7b05
+- source: :alislam
+  source_url: http://www.al-islam.org/habib-bin-mudhahir-kamal-al-sayyid/siege
+  title: The Siege
+  slug: 4-the-siege
+  uuid: 44716c36-453c-463f-97b3-6c21a65065b4
+- source: :alislam
+  source_url: http://www.al-islam.org/habib-bin-mudhahir-kamal-al-sayyid/tasua
+  title: Tasu'a
+  slug: 5-tasu-a
+  uuid: aa3e49e3-6d1c-402f-98aa-39f6077fedb4
+- source: :alislam
+  source_url: http://www.al-islam.org/habib-bin-mudhahir-kamal-al-sayyid/prayers
+  title: For Prayers
+  slug: 6-for-prayers
+  uuid: e790d725-203a-471e-919f-f46dc88b38d8
+- source: :alislam
+  source_url: http://www.al-islam.org/habib-bin-mudhahir-kamal-al-sayyid/imam-husayn-gets-ready-fight
+  title: Imam Husayn [a] gets ready to fight.
+  slug: 7-imam-husayn-a-gets-ready-to-fight
+  uuid: ace5d551-f376-4499-871c-1391a1b69e36
+- source: :alislam
+  source_url: http://www.al-islam.org/habib-bin-mudhahir-kamal-al-sayyid/prisoner-war
+  title: The Prisoner of War
+  slug: 8-the-prisoner-of-war
+  uuid: d4f89a8d-8c29-43bb-a481-dd90cae49da5
+- source: :alislam
+  source_url: http://www.al-islam.org/habib-bin-mudhahir-kamal-al-sayyid/zaynabs-tent
+  title: Zaynab's Tent
+  slug: 9-zaynab-s-tent
+  uuid: d56855b9-77ff-4722-986a-e1a8c2405b49
+- source: :alislam
+  source_url: http://www.al-islam.org/habib-bin-mudhahir-kamal-al-sayyid/dream
+  title: Dream
+  slug: 10-dream
+  uuid: 5c4bd769-36b8-4dee-b838-4ec8ff9fdbb0
+- source: :alislam
+  source_url: http://www.al-islam.org/habib-bin-mudhahir-kamal-al-sayyid/ashoora
+  title: Ashoora
+  slug: 11-ashoora
+  uuid: fdb1908a-04c6-4c8c-80fc-b98fb04c2bf9
+- source: :alislam
+  source_url: http://www.al-islam.org/habib-bin-mudhahir-kamal-al-sayyid/battle
+  title: The Battle
+  slug: 12-the-battle
+  uuid: cce4a09b-2a3b-4c33-a554-0097f6141472
+- source: :alislam
+  source_url: http://www.al-islam.org/habib-bin-mudhahir-kamal-al-sayyid/muslim-dies-martyr
+  title: Muslim dies a Martyr
+  slug: 13-muslim-dies-a-martyr
+  uuid: ec349d15-455a-4717-9e0d-55cfdb9f3df4
+- source: :alislam
+  source_url: http://www.al-islam.org/habib-bin-mudhahir-kamal-al-sayyid/happiness
+  title: Happiness
+  slug: 14-happiness
+  uuid: 5b3b5712-f8f4-426f-aade-e2b9f0100929
+- source: :alislam
+  source_url: http://www.al-islam.org/habib-bin-mudhahir-kamal-al-sayyid/final-prayers
+  title: Final Prayers
+  slug: 15-final-prayers
+  uuid: 9a63addc-7a61-4625-8407-51b0eac6ba89
+- source: :alislam
+  source_url: http://www.al-islam.org/habib-bin-mudhahir-kamal-al-sayyid/end
+  title: The End
+  slug: 16-the-end
+  uuid: ee5cb18f-67e3-456e-9b72-cc90426ff264
+- source: :alislam
+  source_url: http://www.al-islam.org/habib-bin-mudhahir-kamal-al-sayyid/believers-hearts
+  title: In the Believers' Hearts
+  slug: 17-in-the-believers-hearts
+  uuid: 887844f7-708d-4558-b19a-d192128c2a48
+---

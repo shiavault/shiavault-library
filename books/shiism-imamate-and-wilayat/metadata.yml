@@ -1,0 +1,64 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/shiism-imamate-and-wilayat-sayyid-muhammad-rizvi
+author: Sayyid Muhammad Rizvi
+publisher: Al-Ma'arif Books
+title: 'Shiism: Imamate and Wilayat'
+slug: shiism-imamate-and-wilayat
+uuid: 757e377c-329f-46f8-9128-29e4a8213ddb
+description: |
+  Origin of Shi'ism, self-censorship in Muslim history, Ghadir Khumm and
+  the Orientalists, appointment of Imam 'Ali (a) explicit or implicit?,
+  concept of Ahlul Bayt, Wilayat, and the knowledge of the Ahlul Bayt (a).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/shiism-imamate-and-wilayat-sayyid-muhammad-rizvi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 140fecdf-4bf8-4a09-9ee8-33c55ffcd730
+- source: :alislam
+  source_url: http://www.al-islam.org/shiism-imamate-and-wilayat-sayyid-muhammad-rizvi/origin-sh%C3%ADism-political-or-religious
+  title: 'Origin of Shí''ism: Political or Religious?'
+  slug: 2-origin-of-shi-ism-political-or-religious
+  uuid: 9db7481f-96c2-4d86-b6bf-1762b80571a7
+- source: :alislam
+  source_url: http://www.al-islam.org/shiism-imamate-and-wilayat-sayyid-muhammad-rizvi/self-censorship-muslim-history-case-study-dawat-dhu
+  title: Self-Censorship in Muslim History A case study of Da'wat dhu 'l-'Ashira
+  slug: 3-self-censorship-in-muslim-history-a-case-study-of-da-wat-dhu-l-ashira
+  uuid: 77bfcfda-2ee8-4a01-9bd6-e5a9d5917792
+- source: :alislam
+  source_url: http://www.al-islam.org/shiism-imamate-and-wilayat-sayyid-muhammad-rizvi/ghadir-khumm-and-orientalists
+  title: Ghadir Khumm and the Orientalists
+  slug: 4-ghadir-khumm-and-the-orientalists
+  uuid: eb45eae2-18d7-4ac6-8c32-327452f0641f
+- source: :alislam
+  source_url: http://www.al-islam.org/shiism-imamate-and-wilayat-sayyid-muhammad-rizvi/appointment-ali-explicit-or-implicit
+  title: 'Appointment of ''Ali: Explicit or Implicit?'
+  slug: 5-appointment-of-ali-explicit-or-implicit
+  uuid: 732b04bb-5ed7-4e84-b2aa-d70821f68d7f
+- source: :alislam
+  source_url: http://www.al-islam.org/shiism-imamate-and-wilayat-sayyid-muhammad-rizvi/concept-ahlul-bayt-tribal-or-islamic
+  title: 'The Concept of Ahlul Bayt: Tribal or Islamic?'
+  slug: 6-the-concept-of-ahlul-bayt-tribal-or-islamic
+  uuid: aa7bb6d2-7fc8-4a2c-a68c-aa2ad7a178ea
+- source: :alislam
+  source_url: http://www.al-islam.org/shiism-imamate-and-wilayat-sayyid-muhammad-rizvi/wilayat-and-its-scope
+  title: Wilayat and Its Scope
+  slug: 7-wilayat-and-its-scope
+  uuid: 9d044618-1f74-4002-98ce-331faf0bd992
+- source: :alislam
+  source_url: http://www.al-islam.org/shiism-imamate-and-wilayat-sayyid-muhammad-rizvi/knowledge-ahlul-bayt
+  title: Knowledge of the Ahlul Bayt
+  slug: 8-knowledge-of-the-ahlul-bayt
+  uuid: 86fd697d-092b-44f0-b767-198bd05a911b
+- source: :alislam
+  source_url: http://www.al-islam.org/shiism-imamate-and-wilayat-sayyid-muhammad-rizvi/conclusion
+  title: Conclusion
+  slug: 9-conclusion
+  uuid: 367b5300-46d2-40c0-8bef-82c2325cee8d
+- source: :alislam
+  source_url: http://www.al-islam.org/shiism-imamate-and-wilayat-sayyid-muhammad-rizvi/bibliography
+  title: Bibliography
+  slug: 10-bibliography
+  uuid: cf2bb9fd-1019-4fee-824d-be2971486837
+---

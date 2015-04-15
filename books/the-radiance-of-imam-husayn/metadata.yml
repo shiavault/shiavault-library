@@ -1,0 +1,28 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/radiance-imam-husayn-muhammad-husayn-tehrani
+author: Sayyid Muhammad Husayn Husayni Tehrani
+title: The Radiance of Imam Husayn
+slug: the-radiance-of-imam-husayn
+uuid: ea816453-e30c-470c-895d-a84f7c9f5e3b
+description: |
+  The following is a translation of the text Lamaat Al Husayn, the
+  Radiance of Husayn, quotes and sayings of the Eminent Lord of the
+  Martyrs, Husayn ibn ‘Ali, peace be upon them.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/radiance-imam-husayn-muhammad-husayn-tehrani/preface
+  title: Preface
+  slug: 1-preface
+  uuid: f7ad29f0-a25f-459a-a0f8-be77897cd0f3
+- source: :alislam
+  source_url: http://www.al-islam.org/radiance-imam-husayn-muhammad-husayn-tehrani/brilliance-husayn
+  title: The Brilliance of Husayn
+  slug: 2-the-brilliance-of-husayn
+  uuid: 00fbb6b7-9bd4-46da-94ff-9594f22dd067
+- source: :alislam
+  source_url: http://www.al-islam.org/radiance-imam-husayn-muhammad-husayn-tehrani/translator%E2%80%99s-note
+  title: Translator’s note
+  slug: 3-translator-s-note
+  uuid: 54d372be-9ba8-4ddb-b888-641fb798543b
+---

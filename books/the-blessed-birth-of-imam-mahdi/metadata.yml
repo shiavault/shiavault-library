@@ -1,0 +1,41 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/blessed-birth-imam-mahdi-mohammad-reza-ansari
+author: Mohammad Reza Ansari
+publisher: Ansariyan Publications - Qum
+translator: Sayed Ali Farid Muhammadi
+title: The Blessed Birth of Imam Mahdi
+slug: the-blessed-birth-of-imam-mahdi
+uuid: 134f944f-df3d-4bb4-b432-4f8720ddc0dd
+description: |
+  A very perceptive view on the blessings of Allah SWT and the
+  circumstances to the marriage of Imam Mahdi's parents Imam Hassan
+  a.s.and Narjis Khatoon, the daughter of a Roman emperor, Imam's birth,
+  and his early days.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/blessed-birth-imam-mahdi-mohammad-reza-ansari/prologue
+  title: Prologue
+  slug: 1-prologue
+  uuid: bc306045-1198-4434-9257-a8851e1dcfd2
+- source: :alislam
+  source_url: http://www.al-islam.org/blessed-birth-imam-mahdi-mohammad-reza-ansari/house-imamate
+  title: In the House of Imamate
+  slug: 2-in-the-house-of-imamate
+  uuid: 5915139e-9735-48d3-b22d-8581b5ce5ee7
+- source: :alislam
+  source_url: http://www.al-islam.org/blessed-birth-imam-mahdi-mohammad-reza-ansari/threshold-birth
+  title: On the Threshold of the birth
+  slug: 3-on-the-threshold-of-the-birth
+  uuid: feff81e1-df55-4e29-8a49-4c2e689af6ca
+- source: :alislam
+  source_url: http://www.al-islam.org/blessed-birth-imam-mahdi-mohammad-reza-ansari/birth-savior-world
+  title: The Birth of the Savior of the World
+  slug: 4-the-birth-of-the-savior-of-the-world
+  uuid: a24fa0f7-8812-4eca-bb75-0be51dc22758
+- source: :alislam
+  source_url: http://www.al-islam.org/blessed-birth-imam-mahdi-mohammad-reza-ansari/days-newborn
+  title: The Days of the Newborn
+  slug: 5-the-days-of-the-newborn
+  uuid: a2d3b63d-bf9b-46d2-b66e-3fa308d26f3a
+---

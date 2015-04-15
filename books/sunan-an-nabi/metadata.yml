@@ -1,0 +1,159 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai
+author: Allamah Sayyid Muhammad Husayn at-Tabataba'i
+translator: Tahir Ridha Jaffer
+title: Sunan An-Nabi
+slug: sunan-an-nabi
+uuid: d0e7329c-9f52-4213-af09-e11a0f34d2b6
+description: |
+  This book presents a collection of narrations on the conduct, customs,
+  and actions of the Holy Prophet Muhammad (S), those that he always
+  performed and those that describe his way of life.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/publishers-preface
+  title: Publisher’s Preface
+  slug: 1-publisher-s-preface
+  uuid: d6893ad0-e809-4c50-a60e-8774fac4a7ee
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/translators-preface
+  title: Translator’s Preface
+  slug: 2-translator-s-preface
+  uuid: 8585b128-57f1-4d24-b8f8-ced0f374c427
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/authors-preface
+  title: Author’s Preface
+  slug: 3-author-s-preface
+  uuid: ab100071-4896-4b30-866e-80cf56d2ec5f
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/introduction
+  title: Introduction
+  slug: 4-introduction
+  uuid: 62365a32-41d9-4ca3-a39a-fc27238378ce
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/biography-author
+  title: Biography of the Author
+  slug: 5-biography-of-the-author
+  uuid: f0aa7c4c-3f8f-47a6-9c45-dfd13e1a36c5
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/chapter-1-character-and-moral-traits-holy-prophet
+  title: 'Chapter 1: The Character and Moral Traits of the Holy Prophet'
+  slug: 6-chapter-1-the-character-and-moral-traits-of-the-holy-prophet
+  uuid: 72c2455d-8aa4-4f70-903f-d282e08cf6d2
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/chapter-2-his-s-relationship-people
+  title: 'Chapter 2: On His (S) relationship with the people'
+  slug: 7-chapter-2-on-his-s-relationship-with-the-people
+  uuid: 8d140a93-af17-4273-9e2a-e97033329cae
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/chapter-3-cleanliness-and-rules-beautification
+  title: 'Chapter 3: On Cleanliness and the Rules of Beautification'
+  slug: 8-chapter-3-on-cleanliness-and-the-rules-of-beautification
+  uuid: dcdc07dc-77cc-4bb6-965b-959ec2037ff2
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/chapter-4-travelling-and-its-adab
+  title: 'Chapter 4: On Travelling and its Adab'
+  slug: 9-chapter-4-on-travelling-and-its-adab
+  uuid: 3fbfd34a-5ea1-4f32-9cc5-b2f33273f7f6
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/chapter-5-adab-clothing-and-anything-pertaining-it
+  title: 'Chapter 5: On The Adab of clothing and anything pertaining to it'
+  slug: 10-chapter-5-on-the-adab-of-clothing-and-anything-pertaining-to-it
+  uuid: 002f504a-63b1-4b65-b228-7318ac364f3b
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/chapter-6-his-sunnah-dwellings
+  title: 'Chapter 6: His Sunnah in the dwellings'
+  slug: 11-chapter-6-his-sunnah-in-the-dwellings
+  uuid: a2039e45-5497-4ba0-8efc-54c2df1351a5
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/chapter-7-adab-sleeping-and-bedside
+  title: 'Chapter 7: On the Adab of sleeping and the bedside'
+  slug: 12-chapter-7-on-the-adab-of-sleeping-and-the-bedside
+  uuid: fbc8d079-a186-4a16-86f7-9b798c016c6d
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/chapter-8-adab-marriage-and-children
+  title: 'Chapter 8: On the Adab of marriage and children'
+  slug: 13-chapter-8-on-the-adab-of-marriage-and-children
+  uuid: 0327e6fd-8bc5-42b9-97ea-37eb4a3e2f94
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/chapter-9-foods-drinks-and-table-manners
+  title: 'Chapter 9: On Foods, Drinks and Table Manners'
+  slug: 14-chapter-9-on-foods-drinks-and-table-manners
+  uuid: cbd67ea2-0c17-4eaa-911d-b621a36fa0ee
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/chapter-10-adab-lavatory
+  title: 'Chapter 10: On the Adab of the Lavatory'
+  slug: 15-chapter-10-on-the-adab-of-the-lavatory
+  uuid: b7ded4d6-d29a-488d-867b-a610787c7117
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/chapter-11-dead-and-anything-related-death
+  title: 'Chapter 11: On the Dead and anything related (to Death)'
+  slug: 16-chapter-11-on-the-dead-and-anything-related-to-death
+  uuid: f9b67efe-d9b2-4a2d-a04c-1bbce9b3515e
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/chapter-12-adab-medication
+  title: 'Chapter 12: On the Adab of Medication'
+  slug: 17-chapter-12-on-the-adab-of-medication
+  uuid: 7c8a1c40-f510-4647-8694-700b8725ba50
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/chapter-13-siwak-brushing-teeth
+  title: 'Chapter 13: Siwak (brushing teeth)'
+  slug: 18-chapter-13-siwak-brushing-teeth
+  uuid: f4276c19-bb7d-40a2-89f8-ba22ae677b52
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/chapter-14-adab-wudu
+  title: 'Chapter 14: The Adab of Wud''u'
+  slug: 19-chapter-14-the-adab-of-wud-u
+  uuid: 1edc2849-ea35-48e9-923c-5d7ae73a421e
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/chapter-15-adab-ghusl
+  title: 'Chapter 15: The Adab of Ghusl'
+  slug: 20-chapter-15-the-adab-of-ghusl
+  uuid: bd766dfa-9c98-43f6-80b4-dde5b988ef61
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/chapter-16-adab-salat-ritual-prayer
+  title: 'Chapter 16: The Adab of Salat (Ritual Prayer)'
+  slug: 21-chapter-16-the-adab-of-salat-ritual-prayer
+  uuid: 97674005-7d8d-4213-a802-9c2d515867e8
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/chapter-17-adab-sawm-fasting
+  title: 'Chapter 17: The Adab of Sawm (Fasting)'
+  slug: 22-chapter-17-the-adab-of-sawm-fasting
+  uuid: bf5d6a73-7a61-4f94-81c5-f5c023d41cb1
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/chapter-18-adab-itikaf
+  title: 'Chapter 18: The Adab of I’tikaf'
+  slug: 23-chapter-18-the-adab-of-i-tikaf
+  uuid: 29b56819-ce4e-40d3-b0af-c5347316c9cb
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/chapter-19-adab-giving-charity
+  title: 'Chapter 19: The Adab of giving Charity'
+  slug: 24-chapter-19-the-adab-of-giving-charity
+  uuid: f22b405a-8427-4850-948f-5fce7d1cd093
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/chapter-20-adab-recitation-glorious-quran
+  title: 'Chapter 20: The Adab of recitation of the Glorious Qur’an'
+  slug: 25-chapter-20-the-adab-of-recitation-of-the-glorious-qur-an
+  uuid: b6cc5387-76bb-4b4c-bc53-8636874bdf7c
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/chapter-21-supplication-dua-and-its-adab
+  title: 'Chapter 21: Supplication (Du’a) and its Adab'
+  slug: 26-chapter-21-supplication-du-a-and-its-adab
+  uuid: 4a3c13ea-1ea3-4b65-adcb-429ea76c7309
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/chapter-22-hajj
+  title: 'Chapter 22: The Hajj'
+  slug: 27-chapter-22-the-hajj
+  uuid: 489e278a-8516-49f4-8feb-bca902570644
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/addendum-uncommon-narrations
+  title: Addendum on the Uncommon Narrations
+  slug: 28-addendum-on-the-uncommon-narrations
+  uuid: ff72c5bc-dbf5-497b-9a23-becc50417d9d
+- source: :alislam
+  source_url: http://www.al-islam.org/sunan-an-nabi-sayyid-muhammad-husayn-tabatabai/addendum-chapter-1-his-character-and-moral-traits
+  title: 'Addendum to Chapter 1: On his Character and Moral Traits'
+  slug: 29-addendum-to-chapter-1-on-his-character-and-moral-traits
+  uuid: ee33e6d1-1ad3-4cc1-b656-081a6e3820a8
+---

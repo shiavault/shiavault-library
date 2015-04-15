@@ -1,0 +1,438 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings
+compiler: "'Allamah ash-Sharif ar-Radi"
+title: Nahjul Balagha Part 2, Letters and Sayings
+slug: nahjul-balagha-part-2-letters-and-sayings
+uuid: 37d205e3-5dfb-4ba8-ab11-1509e105901c
+description: |
+  The English translation (accompanied with original Arabic text) of a
+  collection of letters and sayings of the Commander of the Faithful, Imam
+  Ali ibn Abi Talib (peace be upon him) that provide divine wisdom and
+  eternal guidance for his followers. The Sermons of Imam 'Ali can be
+  found here:http://www.al-islam.org/nahjul-balagha-part-1-sermons
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letters-imam-ali-amir-al-muminin
+  title: Letters of Imam ‘Ali Amir Al-Mu’minin, Peace Be On Him
+  slug: 1-letters-of-imam-ali-amir-al-mu-minin-peace-be-on-him
+  uuid: cee46000-560b-4dde-94c7-cf43c83343bb
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-1-addressed-people-kufa-proceeding-battle-jamal
+  title: 'Letter 1: Addressed to the people of Kufa before proceeding for the Battle
+    of Jamal'
+  slug: 2-letter-1-addressed-to-the-people-of-kufa-before-proceeding-for-the-battle-of-jamal
+  uuid: aa80569e-7eff-4b96-85ed-af9593da1f21
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-2-written-people-kufah-after-victory-basrah
+  title: 'Letter 2: Written to the people of Kufah after the victory of Basrah'
+  slug: 3-letter-2-written-to-the-people-of-kufah-after-the-victory-of-basrah
+  uuid: 1ec44a77-37e7-4275-98af-608d1f515457
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-3-qadhi-judge-kufa-shurayh-b-haarith-when-he
+  title: 'Letter 3: To the Qadhi (judge) of Kufa, Shurayh b. Haarith when he purchased
+    a costly house'
+  slug: 4-letter-3-to-the-qadhi-judge-of-kufa-shurayh-b-haarith-when-he-purchased-a-costly-house
+  uuid: 062c73ba-1009-4e4a-b2b3-ff00358dffaa
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-4-one-officers-his-army
+  title: 'Letter 4: To one of the officers of his army'
+  slug: 5-letter-4-to-one-of-the-officers-of-his-army
+  uuid: b5f7b2a1-df44-42f1-9a36-2cd299e31e23
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-5-al-ashath-ibn-qays-al-kindi-governor-azarbaijan
+  title: 'Letter 5: To al-Ash''ath ibn Qays (al-Kindi), the Governor of Azarbaijan'
+  slug: 6-letter-5-to-al-ash-ath-ibn-qays-al-kindi-the-governor-of-azarbaijan
+  uuid: cbb893a0-d85c-4abd-add5-d7b22266451d
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-6-muawiyah-ibn-abi-sufyan
+  title: 'Letter 6: To Mu`awiyah (ibn Abi Sufyan)'
+  slug: 7-letter-6-to-mu-awiyah-ibn-abi-sufyan
+  uuid: 69197fae-5e00-41a0-bff9-8e4a38d4c10d
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-7-muawiyah
+  title: 'Letter 7: To Mu''awiyah'
+  slug: 8-letter-7-to-mu-awiyah
+  uuid: 4c7c6cbc-6325-4157-8514-9e59f4b566f1
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-8-jarir-ibn-abdillah-al-bajali
+  title: 'Letter 8: To Jarir ibn `Abdillah al-Bajali'
+  slug: 9-letter-8-to-jarir-ibn-abdillah-al-bajali
+  uuid: 3d482ead-72ef-4c81-af01-fa7adeea8916
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-9-muawiyah
+  title: 'Letter 9: To Mu`awiyah'
+  slug: 10-letter-9-to-mu-awiyah
+  uuid: 78128465-b250-4030-a6d3-b67a19816fe1
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-10-muawiyah
+  title: 'Letter 10: To Mu''awiyah'
+  slug: 11-letter-10-to-mu-awiyah
+  uuid: c83190a7-2e5c-4308-813b-9c388bd407ef
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-11-given-contingent-sent-confront-enemy
+  title: 'Letter 11: Given to the contingent sent to confront the enemy.'
+  slug: 12-letter-11-given-to-the-contingent-sent-to-confront-the-enemy
+  uuid: 0ede049c-e949-4350-8859-aa1b91c7bdbc
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-12-maqil-ibn-qays-ar-riyahi
+  title: 'Letter 12: to Ma''qil ibn Qays ar-Riyahi'
+  slug: 13-letter-12-to-ma-qil-ibn-qays-ar-riyahi
+  uuid: 8e60104b-0d04-4ab5-8011-ea79e689f461
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-13-two-officers-his-army
+  title: 'Letter 13: To two of the officers in his army'
+  slug: 14-letter-13-to-two-of-the-officers-in-his-army
+  uuid: c253aa0f-bdde-44f9-aa22-d99cd1e135bc
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-14-his-soldiers-battle-siffin
+  title: 'Letter 14: To his soldiers before the Battle of Siffin'
+  slug: 15-letter-14-to-his-soldiers-before-the-battle-of-siffin
+  uuid: 2b9b5661-fe42-4c38-a66b-ceed341247b3
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-15-his-invocation-allah-whenever-he-faced-enemy
+  title: 'Letter 15: His invocation to Allah whenever he faced an enemy.'
+  slug: 16-letter-15-his-invocation-to-allah-whenever-he-faced-an-enemy
+  uuid: 3778eebe-cad2-4376-afbd-54ed100edafc
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-16-his-advice-his-followers-during-battle
+  title: 'Letter 16: His advice to his followers during a battle'
+  slug: 17-letter-16-his-advice-to-his-followers-during-a-battle
+  uuid: 050065af-bac2-45e0-8a76-4bf385c24fe0
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-17-reply-letter-muawiyah
+  title: 'Letter 17: In reply to a letter from Mu''awiyah'
+  slug: 18-letter-17-in-reply-to-a-letter-from-mu-awiyah
+  uuid: fed19e67-02e9-43b1-a7b9-526ffe72fef3
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-18-abdullah-ibn-al-abbas-his-governor-basrah
+  title: 'Letter 18: To `Abdullah ibn al- `Abbas, his Governor of Basrah'
+  slug: 19-letter-18-to-abdullah-ibn-al-abbas-his-governor-of-basrah
+  uuid: 890c9cf1-cc4d-4c9c-9c53-a17b99eba63e
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-19-one-his-officers
+  title: 'Letter 19: To one of his officers'
+  slug: 20-letter-19-to-one-of-his-officers
+  uuid: 85646f59-3f38-40f3-a0ce-a2b4a392b6d1
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-20-ziyad-ibn-abih
+  title: 'Letter 20: To Ziyad ibn Abih'
+  slug: 21-letter-20-to-ziyad-ibn-abih
+  uuid: a179c312-1765-4afb-a3bd-dc6b01388dc7
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-21-also-ziyad
+  title: 'Letter 21: Also to Ziyad'
+  slug: 22-letter-21-also-to-ziyad
+  uuid: 5ec3b1fd-254e-42cc-ba6c-de08ae1c5c46
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-22-abdullah-ibn-al-abbas
+  title: 'Letter 22: To `Abdullah ibn al-`Abbas.'
+  slug: 23-letter-22-to-abdullah-ibn-al-abbas
+  uuid: 1366caf7-dd57-4773-87dc-06b016a1a3dc
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-23-instructions-his-family-little-his-martyrdom
+  title: 'Letter 23: Instructions to his family a little before his martyrdom.'
+  slug: 24-letter-23-instructions-to-his-family-a-little-before-his-martyrdom
+  uuid: c8d6d3fc-18e9-4fe7-a15f-ed1f76ff508a
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-24-his-will
+  title: 'Letter 24: His Will'
+  slug: 25-letter-24-his-will
+  uuid: 808ce61f-6468-4257-932d-34ac3bd4bd55
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-25-instructions-assessors-and-collectors-zakat
+  title: 'Letter 25: Instructions to assessors and collectors of Zakat'
+  slug: 26-letter-25-instructions-to-assessors-and-collectors-of-zakat
+  uuid: abee2d3c-fe10-4c76-874e-9c5038303089
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-26-instruction-given-one-his-officers-whom-he-sent
+  title: 'Letter 26: Instruction Given to one of his officers whom he sent for the
+    collection of zakat and charities'
+  slug: 27-letter-26-instruction-given-to-one-of-his-officers-whom-he-sent-for-the-collection-of-zakat-and-charities
+  uuid: 165dd73d-bb05-40c9-a94f-7ff0468de8e8
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-27-instruction-given-muhammad-ibn-abi-bakr-may
+  title: 'Letter 27: Instruction Given to Muhammad ibn Abi Bakr (may Allah be pleased
+    with him), when Amir al-mu''minin appointed him as the Governor of Egypt'
+  slug: 28-letter-27-instruction-given-to-muhammad-ibn-abi-bakr-may-allah-be-pleased-with-him-when-amir-al-mu-minin-appointed-him-as-the-governor-of-egypt
+  uuid: 9be76f11-ac55-4e45-a105-e433dcc49b1a
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-28-reply-muawiyah-and-it-one-ot-his-most-elegant
+  title: 'Letter 28: In reply to Mu''awiyah, and it is one ot his most elegant writings'
+  slug: 29-letter-28-in-reply-to-mu-awiyah-and-it-is-one-ot-his-most-elegant-writings
+  uuid: 641c3a9c-3894-48ee-8bb7-7f55838bbdcd
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-29-people-basrah
+  title: 'Letter 29: To the People of Basrah'
+  slug: 30-letter-29-to-the-people-of-basrah
+  uuid: d066c61f-8c9a-4a22-8388-f929ec9896a0
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-30-muawiyah
+  title: 'Letter 30: To Mu''awiyah'
+  slug: 31-letter-30-to-mu-awiyah
+  uuid: 1d7eb4ab-f973-4fab-a4a1-bbad975941fc
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-31-advice-one-his-sons-after-returning-battle
+  title: 'Letter 31: Advice to one of his sons after returning from the Battle of
+    Siffin'
+  slug: 32-letter-31-advice-to-one-of-his-sons-after-returning-from-the-battle-of-siffin
+  uuid: 419d9391-0e9e-4018-87f0-7836b0cd397e
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-32-muawiyah
+  title: 'Letter 32: To Mu''awiyah'
+  slug: 33-letter-32-to-mu-awiyah
+  uuid: 2e370f7b-057d-45c1-ad76-40752368af3e
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-33-qutham-ibn-al-abbas-his-governor-mecca
+  title: 'Letter 33: To Qutham ibn al- ''Abbas, his Governor of Mecca'
+  slug: 34-letter-33-to-qutham-ibn-al-abbas-his-governor-of-mecca
+  uuid: 9576afa8-ef32-40f0-b71f-b93c1d1aa9d2
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-34-muhammad-ibn-abi-bakr
+  title: 'Letter 34: To Muhammad ibn Abi Bakr'
+  slug: 35-letter-34-to-muhammad-ibn-abi-bakr
+  uuid: fe0de46b-3600-4a7e-9809-e120e12ed979
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-35-abdullah-ibn-al-abbas-after-muhammad-ibn-abi
+  title: 'Letter 35: To ''Abdullah ibn al-''Abbas after Muhammad ibn Abi Bakr had
+    been killed.'
+  slug: 36-letter-35-to-abdullah-ibn-al-abbas-after-muhammad-ibn-abi-bakr-had-been-killed
+  uuid: 2b4681f7-0f04-42ed-971f-ad3c645bf689
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-36-his-brother-aqil-ibn-abi-talib
+  title: 'Letter 36: To his brother ''Aqil ibn Abi Talib'
+  slug: 37-letter-36-to-his-brother-aqil-ibn-abi-talib
+  uuid: b1557ff1-cefe-4d89-a22f-c7bb4817eada
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-37-muawiyah
+  title: 'Letter 37: To Muawiyah'
+  slug: 38-letter-37-to-muawiyah
+  uuid: 0b7d284e-668a-44b7-93c5-1b919a61b0b8
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-38-people-egypt-when-he-appointed-malik-al-ashtar
+  title: 'Letter 38: To the people of Egypt when he appointed (Malik) al-Ashtar as
+    their Governor'
+  slug: 39-letter-38-to-the-people-of-egypt-when-he-appointed-malik-al-ashtar-as-their-governor
+  uuid: e6c3b0f6-c3c3-4eca-8776-3bb090122347
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-39-amr-ibn-al
+  title: 'Letter 39: To ''Amr ibn al-''As'
+  slug: 40-letter-39-to-amr-ibn-al-as
+  uuid: 0deab212-6804-408d-942b-0831d699b386
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-40-one-his-officers
+  title: 'Letter 40: To one of his officers'
+  slug: 41-letter-40-to-one-of-his-officers
+  uuid: 2cf1ec28-20c2-4a2f-85d8-18df30b14d0b
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-41-one-his-officers
+  title: 'Letter 41: To one of his officers'
+  slug: 42-letter-41-to-one-of-his-officers
+  uuid: 8fea6213-a187-46f2-b0c1-23c10c0bdf2c
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-42-umar-ihn-abi-salamah-al-makhzumi
+  title: 'Letter 42: To `Umar ihn Abi Salamah al-Makhzumi'
+  slug: 43-letter-42-to-umar-ihn-abi-salamah-al-makhzumi
+  uuid: 30433f0a-50f2-4b95-a6d0-cfa4b1845408
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-43-masqalah-ibn-hubayrah-ash-shaybani-governor
+  title: 'Letter 43: To Masqalah ibn Hubayrah ash-Shaybani, the Governor of Ardashir
+    Khurrah (Iran)'
+  slug: 44-letter-43-to-masqalah-ibn-hubayrah-ash-shaybani-the-governor-of-ardashir-khurrah-iran
+  uuid: aa8efa26-0a70-463d-826d-a4e9b2c7727e
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-44-ziyad-ibn-abih
+  title: 'Letter 44: To Ziyad ibn Abih'
+  slug: 45-letter-44-to-ziyad-ibn-abih
+  uuid: 50e68704-3a7b-405f-87cb-dde3eb8a6acb
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-45-uthman-ibn-hunayf-al-ansari
+  title: 'Letter 45: To `Uthman ibn Hunayf al-Ansari'
+  slug: 46-letter-45-to-uthman-ibn-hunayf-al-ansari
+  uuid: afdc14aa-8d22-4b63-ab2d-d35d1ed84681
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-46-one-his-officers
+  title: 'Letter 46: To one of his Officers'
+  slug: 47-letter-46-to-one-of-his-officers
+  uuid: 5a67c324-9408-4ad7-84f3-d18cbb3b9a94
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-47-will-imam-hasan-and-imam-husayn-after-he-was
+  title: 'Letter 47: Will To Imam Hasan (a) and Imam Husayn (a) after he was wounded
+    by Abd al-Rahman b. Muljam whilst offered the morning prayers in the mosque of
+    Kufa.'
+  slug: 48-letter-47-will-to-imam-hasan-a-and-imam-husayn-a-after-he-was-wounded-by-abd-al-rahman-b-muljam-whilst-offered-the-morning-prayers-in-the-mosque-of-kufa
+  uuid: dd8aa319-77c4-415a-b1a4-939247a6c4d5
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-48-muawiyah
+  title: 'Letter 48: To Mu''awiyah'
+  slug: 49-letter-48-to-mu-awiyah
+  uuid: afd7c436-8c0e-451e-a482-b4120488831a
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-49-muawiyah
+  title: 'Letter 49: To Mu`awiyah'
+  slug: 50-letter-49-to-mu-awiyah
+  uuid: c9cbe429-1661-482d-948d-0c6fdcdc3ef9
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-50-officers-his-army
+  title: 'Letter 50: To the officers of his army'
+  slug: 51-letter-50-to-the-officers-of-his-army
+  uuid: 6be72d5b-1f10-4de1-8901-c44d8117f7fb
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-51-his-collectors-land-tax
+  title: 'Letter 51: To his collectors of (land) tax'
+  slug: 52-letter-51-to-his-collectors-of-land-tax
+  uuid: c7be550b-f7a8-4f56-86b6-eba493d05d04
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-52-governors-various-places-concerning-prayers
+  title: 'Letter 52: To the Governors of various places concerning prayers'
+  slug: 53-letter-52-to-the-governors-of-various-places-concerning-prayers
+  uuid: 12e37737-6f59-461d-a1b2-09afa397de2b
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-53-order-malik-al-ashtar
+  title: 'Letter 53: An order to Malik al-Ashtar'
+  slug: 54-letter-53-an-order-to-malik-al-ashtar
+  uuid: b528b39b-aa0b-441b-b23e-d72b7e0bf353
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-54-talhah-and-az-zubayr
+  title: 'Letter 54: To Talhah and az-Zubayr'
+  slug: 55-letter-54-to-talhah-and-az-zubayr
+  uuid: 53762651-c1fb-43ff-a2f6-62d3fb31ec1e
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-55-muawiyah
+  title: 'Letter 55: To Mu`awiyah'
+  slug: 56-letter-55-to-mu-awiyah
+  uuid: 06001844-9dca-4649-b3cc-1ede7ed1eacd
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-56-instructions-shuray-bin-hani
+  title: 'Letter 56: Instructions to Shuray bin Hani'
+  slug: 57-letter-56-instructions-to-shuray-bin-hani
+  uuid: 12943a7b-0979-4437-82d0-2e9f3491087e
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-57-people-kufah-time-his-march-medina-basrah
+  title: 'Letter 57: To the people of Kufah at the time of his march from Medina to
+    Basrah'
+  slug: 58-letter-57-to-the-people-of-kufah-at-the-time-of-his-march-from-medina-to-basrah
+  uuid: 2b00974c-8020-47f0-b21c-6d10bfa4fb72
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-58-written-people-various-localities-deseribing
+  title: 'Letter 58: Written to the people of various localities deseribing what took
+    place between him and the people of Siffin'
+  slug: 59-letter-58-written-to-the-people-of-various-localities-deseribing-what-took-place-between-him-and-the-people-of-siffin
+  uuid: 7639716a-1e7c-4ca1-a3fe-14101412a681
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-59-al-aswad-ibn-qutbah-governor-hulwan
+  title: 'Letter 59: To al-Aswad ibn Qutbah, the Governor of Hulwan'
+  slug: 60-letter-59-to-al-aswad-ibn-qutbah-the-governor-of-hulwan
+  uuid: 3b35a551-cae8-4f01-9856-df487e248bcc
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-60-officers-through-whose-jurisdiction-army-passed
+  title: 'Letter 60: To the officers through whose jurisdiction the army passed'
+  slug: 61-letter-60-to-the-officers-through-whose-jurisdiction-the-army-passed
+  uuid: ae8b822c-d3ed-4a6e-9fee-2730cfa2aa50
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-61-kumayl-ibn-ziyad-nakhai
+  title: 'Letter 61: To Kumayl ibn Ziyad an-Nakha`i'
+  slug: 62-letter-61-to-kumayl-ibn-ziyad-an-nakha-i
+  uuid: 0bc6aa18-43d0-492a-99e3-1d4ec6426fde
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-62-people-egypt-sent-through-malik-al-ashtar-when
+  title: 'Letter 62: To the people of Egypt sent through Malik al-Ashtar when he was
+    made the Governor of that place'
+  slug: 63-letter-62-to-the-people-of-egypt-sent-through-malik-al-ashtar-when-he-was-made-the-governor-of-that-place
+  uuid: b1ab109d-8084-4d67-8cae-a29844256ba5
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-63-abu-musa-al-ashari-when-amir-al-muminin-learned
+  title: 'Letter 63: To Abu Musa al-Ash`ari, when Amir al-mu''minin learned that he
+    was dissuading the people from joining in the battle of Jamal'
+  slug: 64-letter-63-to-abu-musa-al-ash-ari-when-amir-al-mu-minin-learned-that-he-was-dissuading-the-people-from-joining-in-the-battle-of-jamal
+  uuid: 2336b69d-8e71-4d1a-b94d-7cc14051664b
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-64-reply-muawiyah
+  title: 'Letter 64: In reply to Mu`awiyah'
+  slug: 65-letter-64-in-reply-to-mu-awiyah
+  uuid: 150b891e-2775-4253-a6e5-bf82a0f7b5b2
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-65-muawiyah
+  title: 'Letter 65: To Mu`awiyah'
+  slug: 66-letter-65-to-mu-awiyah
+  uuid: 0de6f506-b857-495a-bd84-748d86689ad0
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-66-abdullah-ibn-al-abbas
+  title: 'Letter 66: To `Abdullah ibn al-`Abbas'
+  slug: 67-letter-66-to-abdullah-ibn-al-abbas
+  uuid: ef1a2d9c-de42-4233-a347-511c0d5a55d8
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-67-qutham-ibn-al-abbas-his-governor-mecca
+  title: 'Letter 67: To Qutham ibn al-`Abbas, his Governor of Mecca'
+  slug: 68-letter-67-to-qutham-ibn-al-abbas-his-governor-of-mecca
+  uuid: 70400460-51ad-4eec-aa8f-9b4db47be3e0
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-68-salman-al-farisi-amir-al-muminins-caliphate
+  title: 'Letter 68: To Salman al-Farisi before Amir al-mu''minin''s caliphate'
+  slug: 69-letter-68-to-salman-al-farisi-before-amir-al-mu-minin-s-caliphate
+  uuid: 2ae1f760-48d1-4e74-842c-23b9f41b0a57
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-69-al-harith-ibn-abdillah-al-awar-al-hamdani
+  title: 'Letter 69: To al-Harith (ibn `Abdillah, al-A`war) al-Hamdani'
+  slug: 70-letter-69-to-al-harith-ibn-abdillah-al-a-war-al-hamdani
+  uuid: bdfb9f48-c5d4-45a4-a93c-0ebbbb781698
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-70-sahl-ibn-hunayf-al-ansari
+  title: 'Letter 70: To Sahl ibn Hunayf al-Ansari'
+  slug: 71-letter-70-to-sahl-ibn-hunayf-al-ansari
+  uuid: 5ea27fbe-91c1-4a15-be62-2d926a8a135e
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-71-al-mundhir-ibn-jarud-al-abdi
+  title: 'Letter 71: To al-Mundhir ibn Jarud al-`Abdi'
+  slug: 72-letter-71-to-al-mundhir-ibn-jarud-al-abdi
+  uuid: d4bf4ef1-8ee2-4f6f-8815-4f5b80f13e62
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-72-abdullah-ibn-al-abbas
+  title: 'Letter 72: To `Abdullah ibn al-`Abbas'
+  slug: 73-letter-72-to-abdullah-ibn-al-abbas
+  uuid: 28bc39b9-ebe2-41a8-aa71-98af727fab6b
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-73-muawiyah
+  title: 'Letter 73: To Mu''awiyah'
+  slug: 74-letter-73-to-mu-awiyah
+  uuid: 42af1298-10f5-4b85-8d53-7eb6c4a8fca6
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-74-treaty-which-imam-ali-has-worded-bani-rabia
+  title: 'Letter 74: A treaty which Imam Ali (a) has worded for the Bani Rabi''a tribe
+    and the Yemenites to agree upon'
+  slug: 75-letter-74-a-treaty-which-imam-ali-a-has-worded-for-the-bani-rabi-a-tribe-and-the-yemenites-to-agree-upon
+  uuid: cc9e444b-2e0e-4ffc-9744-47cd61681ed7
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-75-muawiyah-soon-after-amir-al-muminin-was-sworn
+  title: 'Letter 75: To Mu`awiyah, soon after Amir al-mu''minin was sworn in'
+  slug: 76-letter-75-to-mu-awiyah-soon-after-amir-al-mu-minin-was-sworn-in
+  uuid: 7be79cc9-7e14-42c2-8db7-bdb92764b0fa
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-76-instructions-abdullah-b-abbas-when-he-sent-him
+  title: 'Letter 76: Instructions to Abdullah b. Abbas when he sent him as his representative
+    to Basra'
+  slug: 77-letter-76-instructions-to-abdullah-b-abbas-when-he-sent-him-as-his-representative-to-basra
+  uuid: 8bec3625-74aa-4bba-8e6c-a9361e93aa35
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-77-instructions-abdullah-b-abbas
+  title: 'Letter 77: Instructions to Abdullah b. Abbas'
+  slug: 78-letter-77-instructions-to-abdullah-b-abbas
+  uuid: 91f9b306-d997-4006-b410-bb2d85716ecb
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-78-abu-musa-al-ashari
+  title: 'Letter 78: To Abu Musa al-Ash`ari'
+  slug: 79-letter-78-to-abu-musa-al-ash-ari
+  uuid: 052a75dd-4127-4b19-8f0b-58d5c1715978
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/letter-79-army-officers-when-amir-al-muminin-became-caliph
+  title: 'Letter 79: To the army officers when Amir al-mu''minin became Caliph'
+  slug: 80-letter-79-to-the-army-officers-when-amir-al-mu-minin-became-caliph
+  uuid: 7a679bbe-b1ad-48fb-a708-a42759ca06b1
+- source: :alislam
+  source_url: http://www.al-islam.org/nahjul-balagha-part-2-letters-and-sayings/selections-sayings-and-preaching-amir-al-muminin-ali
+  title: Selections from The Sayings And Preaching Of Amir Al-Mu’minin ‘Ali Ibn Abi
+    Talib (Peace Be Upon Him) Including His Replies To Questions And Maxims Expressed
+    For Various Purposes
+  slug: 81-selections-from-the-sayings-and-preaching-of-amir-al-mu-minin-ali-ibn-abi-talib-peace-be-upon-him-including-his-replies-to-questions-and-maxims-expressed-for-various-purposes
+  uuid: 46f5d5c6-3eee-4da6-9dba-20e2241a6fd5
+---

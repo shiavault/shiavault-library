@@ -1,0 +1,32 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/social-rules-islam-shaykh-mansour-leghaei
+author: Shaykh Mansour Leghaei
+title: Social Rules in Islam
+slug: social-rules-in-islam
+uuid: 6b88c9a2-f65a-4664-9cc6-4d1f1ceced69
+description: |
+  Collection of Friday Sermons delivered by Sheikh Mansour Leghaei on
+  social interactions of an individual from the Islamic point of view.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/social-rules-islam-shaykh-mansour-leghaei/whom-should-i-socialize
+  title: With Whom Should I Socialize?
+  slug: 1-with-whom-should-i-socialize
+  uuid: b4d5556e-8c89-4c21-83d3-cc267aae004a
+- source: :alislam
+  source_url: http://www.al-islam.org/social-rules-islam-shaykh-mansour-leghaei/pathology-solitary-unsociability
+  title: Pathology of Solitary (Unsociability)
+  slug: 2-pathology-of-solitary-unsociability
+  uuid: 366fe8e8-b165-4a14-b980-c342b583e06f
+- source: :alislam
+  source_url: http://www.al-islam.org/social-rules-islam-shaykh-mansour-leghaei/desensitization
+  title: Desensitization
+  slug: 3-desensitization
+  uuid: c067b2d0-146e-4a7d-b201-464012d42772
+- source: :alislam
+  source_url: http://www.al-islam.org/social-rules-islam-shaykh-mansour-leghaei/family-socialisation
+  title: Family Socialisation
+  slug: 4-family-socialisation
+  uuid: 1bc6012f-6d2c-4e5d-b4cf-8563290646e7
+---

@@ -1,0 +1,44 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/muta-temporary-marriage-in-islamic-law-sachiko-murata
+author: Sachiko Murata
+publisher: Ansariyan Publications - Qum
+title: Muta', Temporary Marriage in Islamic Law
+slug: muta-temporary-marriage-in-islamic-law
+uuid: 19e9e04a-c33c-4539-90ac-a18c699afee6
+description: |
+  A description of the legal situation of mut'a / mutah in Shi'ism and the
+  origin of this divergence between Sunni and Shi'i law on temporary
+  marriage
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/muta-temporary-marriage-in-islamic-law-sachiko-murata/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 375cd3e9-9c68-4693-b559-9d015ce713ff
+- source: :alislam
+  source_url: http://www.al-islam.org/muta-temporary-marriage-in-islamic-law-sachiko-murata/acknowledgement
+  title: Acknowledgement
+  slug: 2-acknowledgement
+  uuid: 1c80a40e-ab33-40be-a7ee-c5b30528eb7f
+- source: :alislam
+  source_url: http://www.al-islam.org/muta-temporary-marriage-in-islamic-law-sachiko-murata/permanent-marriage
+  title: Permanent Marriage
+  slug: 3-permanent-marriage
+  uuid: e29d97cd-6807-4ac0-b3f7-ba5ac63a8326
+- source: :alislam
+  source_url: http://www.al-islam.org/muta-temporary-marriage-in-islamic-law-sachiko-murata/four-pillars-muta
+  title: The Four Pillars Of Mut'a
+  slug: 4-the-four-pillars-of-mut-a
+  uuid: 6d407006-190f-49b0-ba55-6b9a5a97539d
+- source: :alislam
+  source_url: http://www.al-islam.org/muta-temporary-marriage-in-islamic-law-sachiko-murata/statutes-muta
+  title: The Statutes of Mut'a
+  slug: 5-the-statutes-of-mut-a
+  uuid: 832ac067-f8fb-4b09-aa1a-63a252b6a134
+- source: :alislam
+  source_url: http://www.al-islam.org/muta-temporary-marriage-in-islamic-law-sachiko-murata/legitimacy-muta
+  title: The Legitimacy of Mut'a
+  slug: 6-the-legitimacy-of-mut-a
+  uuid: 2dd55abb-0849-4c04-9c58-ee96d1521855
+---

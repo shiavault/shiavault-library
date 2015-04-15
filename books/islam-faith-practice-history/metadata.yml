@@ -1,0 +1,283 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi
+author: Sayyid Muhammad Rizvi
+publisher: Ansariyan Publications - Qum
+title: 'Islam: Faith, Practice & History'
+slug: islam-faith-practice-history
+uuid: 333b572b-5b0f-4019-bd1b-239834cd1c0e
+description: |
+  An introductory treatise on Islamic beliefs, laws and ethics as well as
+  the early history of the faith in fifty lessons.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 70a48970-fc22-46f1-9a2d-adadb8526e8b
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/part-1-beliefs
+  title: 'Part 1: Beliefs'
+  slug: 2-part-1-beliefs
+  uuid: 2a813ca6-6011-4eb3-b298-5a6c5e20396b
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-1-why-religion
+  title: 'Lesson 1: Why Religion?'
+  slug: 3-lesson-1-why-religion
+  uuid: 110cfc95-b510-4f00-8a4f-5eeb4d89f038
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-2-ways-knowing-god
+  title: 'Lesson 2: Ways Of Knowing God'
+  slug: 4-lesson-2-ways-of-knowing-god
+  uuid: 4a967535-f905-4f9c-a803-43d347835c97
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-3-design-universe
+  title: 'Lesson 3: Design In The Universe'
+  slug: 5-lesson-3-design-in-the-universe
+  uuid: 99c37119-2290-408e-a7b5-a42212286697
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-4-more-about-god
+  title: 'Lesson 4: More About God'
+  slug: 6-lesson-4-more-about-god
+  uuid: 6d57e7eb-902b-4428-940b-28f7edbd5984
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-5-one-only-god
+  title: 'Lesson 5: The One & Only God'
+  slug: 7-lesson-5-the-one-only-god
+  uuid: 0eb6ed51-0d0f-4218-84aa-6233df039c97
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-6-tawh%C4%ABd-sif%C4%81t
+  title: 'Lesson 6: Tawhīd & Sifāt'
+  slug: 8-lesson-6-tawhid-sifat
+  uuid: 370bf745-27de-472b-a240-94291b3c56ce
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-7-justice-god
+  title: 'Lesson 7: The Justice Of God'
+  slug: 9-lesson-7-the-justice-of-god
+  uuid: 9d67513e-6228-4ec6-add6-e549db765499
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-8-prophets-human-guidance
+  title: 'Lesson 8: Prophets & Human Guidance'
+  slug: 10-lesson-8-prophets-human-guidance
+  uuid: c62e2744-bc8f-4842-afd4-468800e14f9a
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-9-purity-prophets
+  title: 'Lesson 9: The  Purity Of  The  Prophets'
+  slug: 11-lesson-9-the-purity-of-the-prophets
+  uuid: 579a382c-aecb-428e-a8d5-3130de35eb9f
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-10-prophets-scriptures
+  title: 'Lesson 10: Prophets & Scriptures'
+  slug: 12-lesson-10-prophets-scriptures
+  uuid: 7a9f87a5-64e7-4c63-ac2a-1c2fedc2943d
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-11-prophet-muhammad-peace-be-upon-him
+  title: 'Lesson 11: Prophet Muhammad (peace be upon him)'
+  slug: 13-lesson-11-prophet-muhammad-peace-be-upon-him
+  uuid: 734612bf-58d7-4500-8789-57d462683e29
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-12-al-qur%E2%80%99%C4%81n-miracle-islam
+  title: 'Lesson 12: Al-Qur’ān :The Miracle of Islam'
+  slug: 14-lesson-12-al-qur-an-the-miracle-of-islam
+  uuid: 77af321d-7593-4c62-844f-a03eeea4e613
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-13-last-message-last-prophet
+  title: 'Lesson 13: The Last Message & The Last Prophet'
+  slug: 15-lesson-13-the-last-message-the-last-prophet
+  uuid: 16d07082-0d70-4512-bb92-f965919fc4e5
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-14-im%C4%81mat-succession-prophet
+  title: 'Lesson 14: The Imāmat: Succession to the Prophet'
+  slug: 16-lesson-14-the-imamat-succession-to-the-prophet
+  uuid: acf04851-5dd3-412f-b60c-dba94bc17236
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-15-amir-al-mu%E2%80%99min%C4%ABn-%E2%80%98ali-chosen-successor
+  title: 'Lesson 15: Amir Al-Mu’minīn ‘Ali: The Chosen Successor of the Prophet'
+  slug: 17-lesson-15-amir-al-mu-minin-ali-the-chosen-successor-of-the-prophet
+  uuid: cb19aa96-3631-4b93-a3ad-e1bea3d70d38
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-16-khil%C4%81fat-consultation-review-saqifah
+  title: 'Lesson 16: Khilāfat & Consultation (a review of Saqifah)'
+  slug: 18-lesson-16-khilafat-consultation-a-review-of-saqifah
+  uuid: 27ead0e5-32d5-49ea-8c97-511c8b19c2f5
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-17-twelve-caliphs-or-imams
+  title: 'Lesson 17: Twelve Caliphs Or Imams'
+  slug: 19-lesson-17-twelve-caliphs-or-imams
+  uuid: 14a38d76-561c-4734-92b9-d20f208f81e9
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-18-twelfth-imam-muhammad-al-mahdi
+  title: 'Lesson 18: The Twelfth Imam: Muhammad al-Mahdi (a.s.)'
+  slug: 20-lesson-18-the-twelfth-imam-muhammad-al-mahdi-a-s
+  uuid: c8310f84-5e1b-48ff-ae48-abbe4d5c8866
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-19-return-resurrection-al-ma%E2%80%98%C4%81d-al-qiy%C4%81mah
+  title: 'Lesson 19: The Return & Resurrection  (Al-Ma‘ād & Al-Qiyāmah)'
+  slug: 21-lesson-19-the-return-resurrection-al-ma-ad-al-qiyamah
+  uuid: c1e242ef-02f1-4380-8ea5-10f0b6361d5d
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-20-after-death
+  title: 'Lesson 20: After Death'
+  slug: 22-lesson-20-after-death
+  uuid: 228e5f4c-dc33-46cf-94ae-ca3800585830
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/part-2-laws-and-ethics
+  title: 'Part 2: Laws and Ethics'
+  slug: 23-part-2-laws-and-ethics
+  uuid: cc590cd5-811f-418f-adc2-8d37b51ba11f
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-21-shari%E2%80%98
+  title: 'Lesson 21: The Shari‘a'
+  slug: 24-lesson-21-the-shari-a
+  uuid: 5e6dc16e-f1cc-453b-9d23-3a312df5f38b
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-22-sources-shar%C4%AB%E2%80%98
+  title: 'Lesson 22: Sources Of The Sharī‘a'
+  slug: 25-lesson-22-sources-of-the-shari-a
+  uuid: b7a1cdff-5f86-4856-a7a2-84f35caa249e
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-23-ijtih%C4%81d-taqlid-ihtiy%C4%81t
+  title: 'Lesson 23: Ijtihād, Taqlid & Ihtiyāt'
+  slug: 26-lesson-23-ijtihad-taqlid-ihtiyat
+  uuid: 271ef137-073d-4869-9680-f2c8c160b2f9
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-24-more-about-shar%C4%AB%E2%80%98
+  title: 'Lesson 24: More About The Sharī‘a'
+  slug: 27-lesson-24-more-about-the-shari-a
+  uuid: 4b8c9247-b7d7-473d-a51f-e6ee1def70c0
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-25-islam%E2%80%99s-spiritual-program-1
+  title: 'Lesson 25: Islam’s Spiritual Program (1)'
+  slug: 28-lesson-25-islam-s-spiritual-program-1
+  uuid: 921429b4-9067-47c2-a6d8-83eed5e60de6
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-26-islam%E2%80%99s-spiritual-program-2
+  title: 'Lesson 26: Islam’s Spiritual Program (2)'
+  slug: 29-lesson-26-islam-s-spiritual-program-2
+  uuid: 0d302ddf-4107-4d2f-80c7-8bb2cbaf3b02
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-27-islamic-community-1
+  title: 'Lesson 27: The Islamic Community (1)'
+  slug: 30-lesson-27-the-islamic-community-1
+  uuid: b89507fd-97bd-4691-8b6a-e06d0a2ea0c7
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-28-islamic-community-2
+  title: 'Lesson 28: The Islamic Community (2)'
+  slug: 31-lesson-28-the-islamic-community-2
+  uuid: 99a04696-b37f-4961-aa46-691eb3d4a3e3
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-29-islamic-community-3
+  title: 'Lesson 29: The Islamic Community (3)'
+  slug: 32-lesson-29-the-islamic-community-3
+  uuid: fa232932-ea95-4eb2-881c-8cfd36385764
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-30-islamic-economic-system-1
+  title: 'Lesson 30: Islamic Economic  System (1)'
+  slug: 33-lesson-30-islamic-economic-system-1
+  uuid: da7065f8-f621-4b0e-9867-c801f2b283e8
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-31-islamic-economic-system-2
+  title: 'Lesson 31: Islamic Economic  System (2)'
+  slug: 34-lesson-31-islamic-economic-system-2
+  uuid: fc7c7689-ca84-44a5-b697-752fbbdd2f05
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-32-islamic-economic-system-3
+  title: 'Lesson 32: Islamic Economic System (3)'
+  slug: 35-lesson-32-islamic-economic-system-3
+  uuid: 93d86857-638d-4241-823b-921fb81c4255
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-33-family-life-islam-1
+  title: 'Lesson 33: Family Life In Islam (1)'
+  slug: 36-lesson-33-family-life-in-islam-1
+  uuid: d1a7ba65-efc3-4fa0-9700-c72477158cea
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-34-family-life-islam-2
+  title: 'Lesson 34: Family Life In Islam (2)'
+  slug: 37-lesson-34-family-life-in-islam-2
+  uuid: 7f6d24c6-5982-4501-a16d-8cfbc8df0e5d
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-35-family-life-islam-3
+  title: 'Lesson 35: Family Life In Islam (3)'
+  slug: 38-lesson-35-family-life-in-islam-3
+  uuid: 5a4a9872-fbfe-44a3-9f93-cd3ee3726a61
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/part-3-history
+  title: 'Part 3: History'
+  slug: 39-part-3-history
+  uuid: 0ebde854-ef44-46d7-9a5d-9bf0b531a3fd
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-36-prophet-islam-muhammad-al-mustafa
+  title: 'Lesson 36: The Prophet of Islam (Muhammad al-Mustafa)'
+  slug: 40-lesson-36-the-prophet-of-islam-muhammad-al-mustafa
+  uuid: c5a9b437-fea8-4b35-b418-61110884f679
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-37-best-all-women-f%C4%81timatu-%E2%80%99z-zahr%C4%81%E2%80%99
+  title: 'Lesson 37: The Best Of All Women (Fātimatu ’z-Zahrā’)'
+  slug: 41-lesson-37-the-best-of-all-women-fatimatu-z-zahra
+  uuid: 8561f439-c6d7-4b4f-b122-85c4f82600b9
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-38-first-im%C4%81m-%E2%80%98al%C4%AB-bin-abi-t%C4%81lib
+  title: 'Lesson 38: The First Imām (‘Alī bin Abi Tālib)'
+  slug: 42-lesson-38-the-first-imam-ali-bin-abi-talib
+  uuid: 82a6c13b-6918-4b18-9a70-a2614fb3e64c
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-39-second-im%C4%81m-hasan-bin-%E2%80%98ali
+  title: 'Lesson 39: The Second Imām (Hasan bin ‘Ali)'
+  slug: 43-lesson-39-the-second-imam-hasan-bin-ali
+  uuid: ef4ccf1c-f82a-48aa-8a7a-33fdabb843b4
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-40-third-im%C4%81m-husayn-bin-%E2%80%98al%C4%AB
+  title: 'Lesson 40: The Third Imām (Husayn bin ‘Alī)'
+  slug: 44-lesson-40-the-third-imam-husayn-bin-ali
+  uuid: 1af5a6c0-456f-4f4d-a497-12dde28c86e3
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-41-fourth-im%C4%81m-%E2%80%98al%C4%AB-ibn-al-husayn
+  title: 'Lesson 41: The Fourth Imām (‘Alī ibn al-Husayn)'
+  slug: 45-lesson-41-the-fourth-imam-ali-ibn-al-husayn
+  uuid: d0756059-9707-4777-8653-ad598d41b201
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-42-fifth-im%C4%81m-muhammad-ibn-%E2%80%98al%C4%AB
+  title: 'Lesson 42: The Fifth Imām (Muhammad ibn ‘Alī)'
+  slug: 46-lesson-42-the-fifth-imam-muhammad-ibn-ali
+  uuid: 51a7a1f6-0737-4dc9-b5e3-51c480eca570
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-43-sixth-im%C4%81m-ja%E2%80%98far-bin-muhammad
+  title: 'Lesson 43: The Sixth Imām (Ja‘far bin Muhammad)'
+  slug: 47-lesson-43-the-sixth-imam-ja-far-bin-muhammad
+  uuid: 6113c301-52af-4b03-b99b-f0981667d746
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-44-seventh-im%C4%81m-musa-ibn-ja%E2%80%98far
+  title: 'Lesson 44: The Seventh Imām (Musa ibn Ja‘far)'
+  slug: 48-lesson-44-the-seventh-imam-musa-ibn-ja-far
+  uuid: d6f34784-24cc-426d-8f7b-ac0e91f9c82f
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-45-eighth-im%C4%81m-%E2%80%98al%C4%AB-ibn-musa
+  title: 'Lesson 45: The Eighth Imām (‘Alī ibn Musa)'
+  slug: 49-lesson-45-the-eighth-imam-ali-ibn-musa
+  uuid: ddf33ada-6bd5-487c-8afb-10f0b01635e9
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-46-ninth-im%C4%81m-muhammad-bin-%E2%80%98al%C4%AB
+  title: 'Lesson 46: The Ninth Imām (Muhammad bin ‘Alī)'
+  slug: 50-lesson-46-the-ninth-imam-muhammad-bin-ali
+  uuid: 1bd62de1-6951-4658-94ee-c97fa9bdff9f
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-47-tenth-im%C4%81m-%E2%80%98al%C4%AB-ibn-muhammad
+  title: 'Lesson 47: The Tenth Imām (‘Alī ibn Muhammad)'
+  slug: 51-lesson-47-the-tenth-imam-ali-ibn-muhammad
+  uuid: 42c8446a-d553-4c06-925f-880837483704
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-48-eleventh-im%C4%81m-hasan-bin-%E2%80%98al%C4%AB
+  title: 'Lesson 48: The Eleventh Imām (Hasan bin ‘Alī)'
+  slug: 52-lesson-48-the-eleventh-imam-hasan-bin-ali
+  uuid: 18216c0f-edb5-4473-b2f3-e10a188e68b3
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-49-twelfth-im%C4%81m-muhammad-al-mahdi
+  title: 'Lesson 49: The Twelfth Imām (Muhammad al-Mahdi)'
+  slug: 53-lesson-49-the-twelfth-imam-muhammad-al-mahdi
+  uuid: 0a71b8d8-420b-4b59-82b2-4f0b29f608a7
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-faith-practice-history-sayyid-muhammad-rizvi/lesson-50-guidance-occultation-message-shi%E2%80%98ism
+  title: 'Lesson 50: Guidance in Occultation & the Message of Shi‘ism'
+  slug: 54-lesson-50-guidance-in-occultation-the-message-of-shi-ism
+  uuid: f96cfdee-4ac2-4f5c-8917-13fba2e46bcd
+---

@@ -1,0 +1,92 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/contemporary-topics-islamic-thought-muhammad-legenhausen
+author: Muhammad Legenhausen
+publisher: ALHODA PUBLISHERS
+title: Contemporary Topics of Islamic Thought
+slug: contemporary-topics-of-islamic-thought
+uuid: 4f7efd72-ed9a-4f6c-908c-79d015a3d3c8
+description: |
+  The essays presented by the author here were written in Iran over a
+  period of about ten years (1989-1999). The title of the collection is
+  not meant to suggest that these are the most important topics of
+  contemporary Islamic thought, merely that they are some topics of
+  current discussion among Muslims. These are semi-popular essays written
+  with several purposes in mind.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/contemporary-topics-islamic-thought-muhammad-legenhausen/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 5fe9be83-aa1b-4b36-b360-b2a2c7a9e517
+- source: :alislam
+  source_url: http://www.al-islam.org/contemporary-topics-islamic-thought-muhammad-legenhausen/who-can-enter-dialogue-civilizations
+  title: Who Can Enter Into The Dialogue Of Civilizations?
+  slug: 2-who-can-enter-into-the-dialogue-of-civilizations
+  uuid: 1ea2b33f-f4d3-489a-af0f-e2d757abcc16
+- source: :alislam
+  source_url: http://www.al-islam.org/contemporary-topics-islamic-thought-muhammad-legenhausen/contemporary-problems-christian-theology
+  title: Contemporary Problems Of Christian Theology In Islamic Thought
+  slug: 3-contemporary-problems-of-christian-theology-in-islamic-thought
+  uuid: f64472bc-49f2-4dfc-99ec-2087e5376230
+- source: :alislam
+  source_url: http://www.al-islam.org/contemporary-topics-islamic-thought-muhammad-legenhausen/relationship-between-philosophy-and
+  title: The Relationship Between Philosophy And Theology In The Postmodern Age
+  slug: 4-the-relationship-between-philosophy-and-theology-in-the-postmodern-age
+  uuid: a04a7790-d78b-4422-a46e-2de805ee5345
+- source: :alislam
+  source_url: http://www.al-islam.org/contemporary-topics-islamic-thought-muhammad-legenhausen/human-thought-divine-wisdom-and-islamic
+  title: Human Thought, Divine Wisdom, And Islamic Philosophy
+  slug: 5-human-thought-divine-wisdom-and-islamic-philosophy
+  uuid: b356739d-a59f-4fc9-8606-d4d694278520
+- source: :alislam
+  source_url: http://www.al-islam.org/contemporary-topics-islamic-thought-muhammad-legenhausen/empiricism-and-philosophy-islam
+  title: Empiricism And The Philosophy Of Islam
+  slug: 6-empiricism-and-the-philosophy-of-islam
+  uuid: 0bca8264-cb2b-4f83-a436-d2fae7dfddc8
+- source: :alislam
+  source_url: http://www.al-islam.org/contemporary-topics-islamic-thought-muhammad-legenhausen/allamah-tabatabai-and-contemporary
+  title: "'Allamah Tabataba’i And Contemporary Philosophical Theology"
+  slug: 7-allamah-tabataba-i-and-contemporary-philosophical-theology
+  uuid: d9bcd771-70b5-4088-aedf-ae4d9555ca83
+- source: :alislam
+  source_url: http://www.al-islam.org/contemporary-topics-islamic-thought-muhammad-legenhausen/islamic-law-and-muslim-life
+  title: Islamic Law And Muslim Life
+  slug: 8-islamic-law-and-muslim-life
+  uuid: 7f6ccde6-79b9-4e98-b963-223081fe0ca7
+- source: :alislam
+  source_url: http://www.al-islam.org/contemporary-topics-islamic-thought-muhammad-legenhausen/islam-and-ethics
+  title: On Islam And Ethics
+  slug: 9-on-islam-and-ethics
+  uuid: 62258b99-4678-4acc-9b6d-1f1fbc05208f
+- source: :alislam
+  source_url: http://www.al-islam.org/contemporary-topics-islamic-thought-muhammad-legenhausen/warnings-corporate-moral-failure-islam
+  title: Warnings Of Corporate Moral Failure In Islam
+  slug: 10-warnings-of-corporate-moral-failure-in-islam
+  uuid: 1d61b413-0630-4609-a276-89113582b3bf
+- source: :alislam
+  source_url: http://www.al-islam.org/contemporary-topics-islamic-thought-muhammad-legenhausen/islamic-righting-human-rights
+  title: The Islamic Righting Of Human Rights
+  slug: 11-the-islamic-righting-of-human-rights
+  uuid: d326272f-2572-4d2b-9072-767e7378f954
+- source: :alislam
+  source_url: http://www.al-islam.org/contemporary-topics-islamic-thought-muhammad-legenhausen/considering-whose-justice-which-rationality
+  title: Considering Whose Justice? Which Rationality?
+  slug: 12-considering-whose-justice-which-rationality
+  uuid: 9d1787ff-2c2b-4394-91fa-cb104c47e436
+- source: :alislam
+  source_url: http://www.al-islam.org/contemporary-topics-islamic-thought-muhammad-legenhausen/islam-vs-feminism
+  title: Islam Vs Feminism
+  slug: 13-islam-vs-feminism
+  uuid: 36e15b60-b803-48bf-843a-653689edc91f
+- source: :alislam
+  source_url: http://www.al-islam.org/contemporary-topics-islamic-thought-muhammad-legenhausen/appreciation-tao-islam
+  title: Appreciation Of The Tao Of Islam
+  slug: 14-appreciation-of-the-tao-of-islam
+  uuid: f169fd62-564e-4863-8558-d9ab858b4e85
+- source: :alislam
+  source_url: http://www.al-islam.org/contemporary-topics-islamic-thought-muhammad-legenhausen/nurture-heart
+  title: The Nurture Of The Heart
+  slug: 15-the-nurture-of-the-heart
+  uuid: 5e27069d-673f-4ac5-a88c-a35aa8504631
+---

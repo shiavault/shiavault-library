@@ -1,0 +1,64 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/invitation-to-islam-a-survival-guide-thomas-mcelwain
+author: Thomas McElwain
+title: 'Invitation to Islam: A Survival Guide'
+slug: invitation-to-islam-a-survival-guide
+uuid: 461ea0ec-3d11-4ddf-98a8-24c85ee08816
+description: |
+  This work is geared towards a Muslim audience. The author's intention is
+  to make Muslim contacts with those of other faiths more productive.
+  Includes spirituality, theological differences between Christianity and
+  Islam, practices compared, secularism, and da'wa (call to faith).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/invitation-to-islam-a-survival-guide-thomas-mcelwain/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: eccadf4f-dbce-4550-be94-0cfa3e0873c5
+- source: :alislam
+  source_url: http://www.al-islam.org/invitation-to-islam-a-survival-guide-thomas-mcelwain/christmas-gift-muslim-christian
+  title: A Christmas Gift from Muslim to Christian
+  slug: 2-a-christmas-gift-from-muslim-to-christian
+  uuid: 46da8b7d-42f6-4af2-9a04-dbb1cc7f6e41
+- source: :alislam
+  source_url: http://www.al-islam.org/invitation-to-islam-a-survival-guide-thomas-mcelwain/identifying-types-spirituality-and-types
+  title: Identifying Types of Spirituality and Types of Approach
+  slug: 3-identifying-types-of-spirituality-and-types-of-approach
+  uuid: e0816870-e337-4e87-a48d-d8b899cbb677
+- source: :alislam
+  source_url: http://www.al-islam.org/invitation-to-islam-a-survival-guide-thomas-mcelwain/setting-goals-spiritual-change-and-achieving
+  title: Setting Goals for Spiritual Change and Achieving Them
+  slug: 4-setting-goals-for-spiritual-change-and-achieving-them
+  uuid: 5d74c0b1-c8cc-4ac8-bf34-05630c29ec30
+- source: :alislam
+  source_url: http://www.al-islam.org/invitation-to-islam-a-survival-guide-thomas-mcelwain/theological-differences-between-christianity
+  title: Theological Differences Between Christianity and Islam
+  slug: 5-theological-differences-between-christianity-and-islam
+  uuid: 7c8e9aa1-6f42-479f-a482-4d3ab4b32200
+- source: :alislam
+  source_url: http://www.al-islam.org/invitation-to-islam-a-survival-guide-thomas-mcelwain/christian-and-islamic-practice-compared
+  title: Christian and Islamic Practice Compared
+  slug: 6-christian-and-islamic-practice-compared
+  uuid: dead4d0a-de07-4847-995c-c0c75a6398c6
+- source: :alislam
+  source_url: http://www.al-islam.org/invitation-to-islam-a-survival-guide-thomas-mcelwain/western-barriers-islam-and-how-meet-them
+  title: Western Barriers to Islam and How to Meet Them
+  slug: 7-western-barriers-to-islam-and-how-to-meet-them
+  uuid: 6efcbe1b-7c8c-4c17-b4b1-90c2d999e4f7
+- source: :alislam
+  source_url: http://www.al-islam.org/invitation-to-islam-a-survival-guide-thomas-mcelwain/mission-or-invitation-making-it-work
+  title: 'Mission or Invitation: Making it Work'
+  slug: 8-mission-or-invitation-making-it-work
+  uuid: d6aeb7b1-0c51-4b03-bb1c-18403e92bcd6
+- source: :alislam
+  source_url: http://www.al-islam.org/invitation-to-islam-a-survival-guide-thomas-mcelwain/da%E2%80%99wa-according-holy-qur%E2%80%99
+  title: Da’wa according to the Holy Qur’an
+  slug: 9-da-wa-according-to-the-holy-qur-an
+  uuid: 2b099fc3-4ab4-4176-8220-1f8b37a8d301
+- source: :alislam
+  source_url: http://www.al-islam.org/invitation-to-islam-a-survival-guide-thomas-mcelwain/evidencing-islam-bible
+  title: Evidencing Islam with the Bible
+  slug: 10-evidencing-islam-with-the-bible
+  uuid: b8dc33f6-6bed-44dd-9445-b4322ce583bd
+---

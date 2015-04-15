@@ -1,0 +1,34 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/principles-marriage-family-ethics-ayatullah-ibrahim-amini
+author: Ayatullah Ibrahim Amini
+publisher: Islamic Propagation Organization
+title: Principles Of Marriage & Family Ethics
+slug: principles-of-marriage-family-ethics
+uuid: 00733033-4f0f-486e-bcb6-46213e216a18
+description: |
+  Purpose of marriage, duties of the wife, duties of the men, settling
+  disagreements, and divorce, as well as a diverse range of day to day
+  issues.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/principles-marriage-family-ethics-ayatullah-ibrahim-amini/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: eca991c5-eed8-4767-a43b-13535bc9bf01
+- source: :alislam
+  source_url: http://www.al-islam.org/principles-marriage-family-ethics-ayatullah-ibrahim-amini/preface
+  title: Preface
+  slug: 2-preface
+  uuid: 9434e17f-4353-43ec-8021-a7cde4217115
+- source: :alislam
+  source_url: http://www.al-islam.org/principles-marriage-family-ethics-ayatullah-ibrahim-amini/part-1-duties-women
+  title: 'Part 1: The Duties of Women'
+  slug: 3-part-1-the-duties-of-women
+  uuid: 8f596edb-0149-476d-b8d6-885e06105c55
+- source: :alislam
+  source_url: http://www.al-islam.org/principles-marriage-family-ethics-ayatullah-ibrahim-amini/part-2-duties-men
+  title: 'Part 2: The Duties of Men'
+  slug: 4-part-2-the-duties-of-men
+  uuid: a51bdcb0-1efa-4a9b-bfb2-94c21b988b03
+---

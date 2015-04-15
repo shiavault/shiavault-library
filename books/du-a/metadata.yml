@@ -1,0 +1,58 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/dua-supplication-sayyid-zafar-hasan-amrohi
+author: Sayyid Zafar Hasan Amrohi
+title: Du'a
+slug: du-a
+uuid: d953e966-814d-44d8-acf3-9e7eb6fe3bc6
+description: |
+  An elaborate text describing the reality of du\`a (supplication), as
+  well as its constituents, categories and effects, and elaborating on the
+  language which is used therein.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/dua-supplication-sayyid-zafar-hasan-amrohi/publishers-word
+  title: Publisher's Word
+  slug: 1-publisher-s-word
+  uuid: 39dc7343-0b4f-43ed-9ed3-998122ea19f5
+- source: :alislam
+  source_url: http://www.al-islam.org/dua-supplication-sayyid-zafar-hasan-amrohi/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 9e451ee1-2986-4be7-b409-33c7fca6dc0a
+- source: :alislam
+  source_url: http://www.al-islam.org/dua-supplication-sayyid-zafar-hasan-amrohi/supplication-dua
+  title: Supplication (Du'a)
+  slug: 3-supplication-du-a
+  uuid: 611814f5-c12d-4dd9-8e30-b2152d1aa44c
+- source: :alislam
+  source_url: http://www.al-islam.org/dua-supplication-sayyid-zafar-hasan-amrohi/definition-based-qualitative-characteristics
+  title: The Definition Based on Qualitative Characteristics
+  slug: 4-the-definition-based-on-qualitative-characteristics
+  uuid: 6f295a2c-6236-4ac5-910e-4621158c6e5c
+- source: :alislam
+  source_url: http://www.al-islam.org/dua-supplication-sayyid-zafar-hasan-amrohi/constituents-supplication
+  title: The Constituents of Supplication
+  slug: 5-the-constituents-of-supplication
+  uuid: 6e5aacd4-a4a4-4f29-8238-b507f35344e6
+- source: :alislam
+  source_url: http://www.al-islam.org/dua-supplication-sayyid-zafar-hasan-amrohi/categories-supplicants
+  title: The Categories of Supplicants
+  slug: 6-the-categories-of-supplicants
+  uuid: 0e1383a2-cb64-41f8-9086-676dc21d99d1
+- source: :alislam
+  source_url: http://www.al-islam.org/dua-supplication-sayyid-zafar-hasan-amrohi/closeness-nigh-relationship
+  title: 'Closeness: The Nigh Relationship'
+  slug: 7-closeness-the-nigh-relationship
+  uuid: c463d3a9-87df-4012-947f-fa6450bb10ca
+- source: :alislam
+  source_url: http://www.al-islam.org/dua-supplication-sayyid-zafar-hasan-amrohi/truth-behind-supplication-and-its-effects
+  title: The Truth Behind Supplication And Its Effects
+  slug: 8-the-truth-behind-supplication-and-its-effects
+  uuid: 27194d3e-a9d9-457e-9318-5a7b09022e86
+- source: :alislam
+  source_url: http://www.al-islam.org/dua-supplication-sayyid-zafar-hasan-amrohi/language-supplication
+  title: The Language of Supplication
+  slug: 9-the-language-of-supplication
+  uuid: 0ee62c20-8ea4-4c42-8a02-e9ec834b95fc
+---

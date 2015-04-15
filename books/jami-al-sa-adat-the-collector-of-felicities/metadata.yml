@@ -1,0 +1,64 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/jami-al-saadat-the-collector-of-felicities-muhammad-mahdi-ibn-abi-dharr-al-naraqi
+author: Muhammad Mahdi ibn abi Dharr al-Naraqi
+publisher: Islamic Propagation Organization
+translator: Shahyar Sa'dat
+title: Jami' al-Sa'adat (The Collector of Felicities)
+slug: jami-al-sa-adat-the-collector-of-felicities
+uuid: de7d07c5-78b0-4032-97d1-4ff83dba4000
+description: |
+  Meaning and Origin of Akhlaq, Moral Virtues and Vices, Diseases of the
+  Soul and their Treatment, and Vices of Power and Passion.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/jami-al-saadat-the-collector-of-felicities-muhammad-mahdi-ibn-abi-dharr-al-naraqi/presentation
+  title: Presentation
+  slug: 1-presentation
+  uuid: ec6a2d46-38b8-4525-ae25-fd8f45a93303
+- source: :alislam
+  source_url: http://www.al-islam.org/jami-al-saadat-the-collector-of-felicities-muhammad-mahdi-ibn-abi-dharr-al-naraqi/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: bb75f617-2e63-478b-a764-4c0ffb771fb0
+- source: :alislam
+  source_url: http://www.al-islam.org/jami-al-saadat-the-collector-of-felicities-muhammad-mahdi-ibn-abi-dharr-al-naraqi/meaning-and-origin
+  title: The Meaning and Origin of Akhlaq
+  slug: 3-the-meaning-and-origin-of-akhlaq
+  uuid: 6ca683f9-c5e3-446d-b247-efdcb2648f5d
+- source: :alislam
+  source_url: http://www.al-islam.org/jami-al-saadat-the-collector-of-felicities-muhammad-mahdi-ibn-abi-dharr-al-naraqi/moral-virtues-vices
+  title: Moral Virtues and Vices
+  slug: 4-moral-virtues-and-vices
+  uuid: ec82d747-7b35-438b-a864-39c677a12e26
+- source: :alislam
+  source_url: http://www.al-islam.org/jami-al-saadat-the-collector-of-felicities-muhammad-mahdi-ibn-abi-dharr-al-naraqi/diseases-soul-and
+  title: Diseases of the Soul and their Treatment
+  slug: 5-diseases-of-the-soul-and-their-treatment
+  uuid: 3d14e7f4-e156-442b-a341-36719876cbfc
+- source: :alislam
+  source_url: http://www.al-islam.org/jami-al-saadat-the-collector-of-felicities-muhammad-mahdi-ibn-abi-dharr-al-naraqi/diseases-power
+  title: Diseases of the Power of Intellect and Their Treatment
+  slug: 6-diseases-of-the-power-of-intellect-and-their-treatment
+  uuid: c0b5c8e2-c349-4081-b8ac-83719708ac0d
+- source: :alislam
+  source_url: http://www.al-islam.org/jami-al-saadat-the-collector-of-felicities-muhammad-mahdi-ibn-abi-dharr-al-naraqi/diseases-power-0
+  title: Diseases of the Power of Anger and Their Treatment
+  slug: 7-diseases-of-the-power-of-anger-and-their-treatment
+  uuid: a256dd18-0f3e-4f60-8838-1f58620e7deb
+- source: :alislam
+  source_url: http://www.al-islam.org/jami-al-saadat-the-collector-of-felicities-muhammad-mahdi-ibn-abi-dharr-al-naraqi/other-vices-power
+  title: Other Vices of the Power of Anger
+  slug: 8-other-vices-of-the-power-of-anger
+  uuid: f9fdcf7b-a319-4fce-8e25-66561baf23d8
+- source: :alislam
+  source_url: http://www.al-islam.org/jami-al-saadat-the-collector-of-felicities-muhammad-mahdi-ibn-abi-dharr-al-naraqi/vices-power
+  title: Vices of the Power of Passion
+  slug: 9-vices-of-the-power-of-passion
+  uuid: e3fcfdb2-b04f-4691-b2b7-5262e4761194
+- source: :alislam
+  source_url: http://www.al-islam.org/jami-al-saadat-the-collector-of-felicities-muhammad-mahdi-ibn-abi-dharr-al-naraqi/joint-diseases
+  title: Joint Diseases of the Powers of Intellect, Anger, and Passion
+  slug: 10-joint-diseases-of-the-powers-of-intellect-anger-and-passion
+  uuid: 1c02326c-6195-46f2-aa59-3f1e1dc43cc3
+---

@@ -1,0 +1,32 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/fawaid-e-quran-sayyid-mustafa-musawi
+author: Sayyid Mustafa Musawi
+translator: Tahir Ridha Jaffer
+title: Fawaid-e-Quran
+slug: fawaid-e-quran
+uuid: 1670a9bb-823a-4885-b78b-80076887dd2d
+description: |
+  The hidden benefits of reciting the Chapters of the Holy Quran.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/fawaid-e-quran-sayyid-mustafa-musawi/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: b8368430-36b7-477e-9b3e-d9c3a793eabe
+- source: :alislam
+  source_url: http://www.al-islam.org/fawaid-e-quran-sayyid-mustafa-musawi/benefits-recitation-chapters-holy-quran
+  title: Benefits of the recitation of the chapters of the Holy Qur’an
+  slug: 2-benefits-of-the-recitation-of-the-chapters-of-the-holy-qur-an
+  uuid: 45886bdf-4df2-4631-aa39-9a9271002a4d
+- source: :alislam
+  source_url: http://www.al-islam.org/fawaid-e-quran-sayyid-mustafa-musawi/benefits-reciting-various-verses-holy-quran
+  title: Benefits of reciting various verses of the Holy Qur’an
+  slug: 3-benefits-of-reciting-various-verses-of-the-holy-qur-an
+  uuid: 1ac381e5-f94e-459d-ae5d-0d02a4181848
+- source: :alislam
+  source_url: http://www.al-islam.org/fawaid-e-quran-sayyid-mustafa-musawi/conclusion
+  title: In Conclusion…
+  slug: 4-in-conclusion
+  uuid: c8657650-5eb6-403d-a139-0203c27b1854
+---

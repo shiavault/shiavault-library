@@ -1,0 +1,42 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/fasting-itekaf-advent-moon-fitrah
+compiler: Muhammad Raza Dawoodani
+title: Fasting, I’tekaf, Advent of Moon, Fitrah
+slug: fasting-i-tekaf-advent-of-moon-fitrah
+uuid: be31ab7b-c3c5-44f7-bf0f-6cdfded712b2
+description: |
+  This booklet consists of those issues which believers come across during
+  the month of Ramadhan and Eid according to verdicts of four Maraja'e.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/fasting-itekaf-advent-moon-fitrah/words-allama-talib-johri
+  title: Words Of Allama Talib Johri
+  slug: 1-words-of-allama-talib-johri
+  uuid: a1249e22-7759-497b-bf50-2a4c4814f5d1
+- source: :alislam
+  source_url: http://www.al-islam.org/fasting-itekaf-advent-moon-fitrah/foreword
+  title: Foreword
+  slug: 2-foreword
+  uuid: 1f231815-58e0-493e-ab3d-ea8d0f77e8f1
+- source: :alislam
+  source_url: http://www.al-islam.org/fasting-itekaf-advent-moon-fitrah/expression-thanks
+  title: Expression Of Thanks
+  slug: 3-expression-of-thanks
+  uuid: 2f54972d-6c86-4165-8fd8-c574570ba969
+- source: :alislam
+  source_url: http://www.al-islam.org/fasting-itekaf-advent-moon-fitrah/fasting
+  title: Fasting
+  slug: 4-fasting
+  uuid: 024108b5-8824-4443-83d4-26c18c8e230a
+- source: :alislam
+  source_url: http://www.al-islam.org/fasting-itekaf-advent-moon-fitrah/some-general-rules
+  title: Some General Rules
+  slug: 5-some-general-rules
+  uuid: cc32fb9a-8508-481e-b075-405e3be6ab08
+- source: :alislam
+  source_url: http://www.al-islam.org/fasting-itekaf-advent-moon-fitrah/words-hujjat-ul-islam-molana-ali-raza-swalehi
+  title: Words By Hujjat-ul-Islam Molana Ali Raza Swalehi
+  slug: 6-words-by-hujjat-ul-islam-molana-ali-raza-swalehi
+  uuid: f7cbf704-da98-4a0e-8b2c-4d65f17fe9bb
+---

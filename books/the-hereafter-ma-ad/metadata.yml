@@ -1,0 +1,35 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/the-hereafter-maad-ayatullah-dastaghaib-shirazi
+author: Ayatullah Sayyid Abdul Husayn Dastghaib Shirazi
+publisher: Ansariyan Publications - Qum
+translator: Sayyid Athar Husain S.H. Rizvi
+title: The Hereafter (Ma'ad)
+slug: the-hereafter-ma-ad
+uuid: 4762846f-11ac-4906-890b-1d02c3c8c09d
+description: |
+  A detailed account of humanity’s experience of death, and the stages
+  beyond it, including the status in one’s grave, Barzakh, the Day of
+  Judgment (Qiyamah), and the final recourse in Heaven or Hell.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hereafter-maad-ayatullah-dastaghaib-shirazi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 8761840e-318e-40d3-8411-4695cfaa64bb
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hereafter-maad-ayatullah-dastaghaib-shirazi/death
+  title: Death
+  slug: 2-death
+  uuid: 4afca2a0-2b78-450d-a927-18b54b1e4a8e
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hereafter-maad-ayatullah-dastaghaib-shirazi/barzakh-purgatory-stage-between-world-and-hereafter
+  title: Barzakh (Purgatory) - The Stage Between this World and the Hereafter
+  slug: 3-barzakh-purgatory-the-stage-between-this-world-and-the-hereafter
+  uuid: ae38ac83-6e61-4f48-9e8e-6c349316a279
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hereafter-maad-ayatullah-dastaghaib-shirazi/day-judgement-qiyamat
+  title: Day of Judgement (Qiyamat)
+  slug: 4-day-of-judgement-qiyamat
+  uuid: f870df9e-7d85-44db-b990-35fb4708c067
+---

@@ -1,0 +1,710 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1
+author: Ayatullah Muhammad Taqi Musawi al-Ishfahani
+publisher: Ja’fari Propagation Centre- Mumbai
+translator: Sayyid Athar Husayn  S.H. Rizvi
+title: Mikyalul Makarim Fee Fawaaid ad-Duaa Lil Qai’m vol. 1
+slug: mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qai-m-vol-1
+uuid: 0af4a067-3c5e-470a-9a1e-b746af91aa7a
+description: |
+  This text titled "Mikyalul Makarim" authored by Ayatullah Sayyid
+  Muhammad Taqi Musawi Isfahani is a two-part book about the perfection of
+  morals among the benefits of praying for our 12th Living Imam (aj). The
+  first part addresses the recognition of the Imam and the rational proofs
+  discussed. Among other topics, the second part of the book discusses the
+  times and conditions emphasized for supplicating.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: 6144fb44-88a6-47bb-b57d-ba8ef65fb561
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/about-author
+  title: About the Author
+  slug: 2-about-the-author
+  uuid: 8e267e11-dea6-4d90-b273-7e7e1a220b60
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/authors-preface
+  title: Author’s Preface
+  slug: 3-author-s-preface
+  uuid: 88663e01-f688-4c2a-8806-0dc8c915c401
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/part-1-it-incumbent-recognize-imam-time
+  title: 'Part 1: It Is Incumbent To Recognize The Imam of The Time (as)'
+  slug: 4-part-1-it-is-incumbent-to-recognize-the-imam-of-the-time-as
+  uuid: 1a65d904-b8f8-4f31-8b10-4a3dc0f671a2
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/1-rational-proof
+  title: 1) Rational Proof
+  slug: 5-1-rational-proof
+  uuid: 648cf4d5-a2a4-4fe2-a5cc-3592e9c718d4
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/2-textual-proof
+  title: 2) Textual Proof
+  slug: 6-2-textual-proof
+  uuid: 6d5b5d19-cd83-4b9f-a372-1d749c1f3570
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/part-2-proofs-imamate-his-eminence-hujjat-bin-al
+  title: 'Part 2: Proofs of the Imamate of His Eminence, Hujjat bin al-Hasan al-Askari
+    (aj)'
+  slug: 7-part-2-proofs-of-the-imamate-of-his-eminence-hujjat-bin-al-hasan-al-askari-aj
+  uuid: 3d18f58c-b969-4d9d-8b6f-1a32f3fe1f36
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/section-one-some-mutawatir-traditions
+  title: 'Section One: Some Mutawatir Traditions that Particularly'
+  slug: 8-section-one-some-mutawatir-traditions-that-particularly
+  uuid: 7d6dba00-6001-4a02-86a9-471dfd89d587
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/section-two-regarding-some-miracles-and-faith
+  title: 'Section Two : Regarding some miracles and faith healings of the Master of
+    Age that are Mutawatir'
+  slug: 9-section-two-regarding-some-miracles-and-faith-healings-of-the-master-of-age-that-are-mutawatir
+  uuid: 28192885-b420-49b1-9f99-81ee578a097c
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/part-3-regarding-some-rights-and-favors-his
+  title: 'Part 3: Regarding some rights and favors of His Eminence upon us'
+  slug: 10-part-3-regarding-some-rights-and-favors-of-his-eminence-upon-us
+  uuid: 45a91a32-fcb2-4478-ac10-4122a82ddf1c
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/first-right-existence-and-being
+  title: 'The First Right: Existence And Being'
+  slug: 11-the-first-right-existence-and-being
+  uuid: febd935d-eb04-4915-80c0-f47876d08f61
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/second-right-survival-world
+  title: 'Second: Right Of Survival In The World'
+  slug: 12-second-right-of-survival-in-the-world
+  uuid: 61ff01a5-4f5a-4ba5-8548-2ddd7bb2c6c9
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/third-right-based-relationship-holy-prophet-saws
+  title: 'Third: Right Based On Relationship To The Holy Prophet (S.A.W.S.)'
+  slug: 13-third-right-based-on-relationship-to-the-holy-prophet-s-a-w-s
+  uuid: fd5cb279-5b90-41d6-b064-0d035e62f9f6
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/fourth-right-bestower-favor-whom-he-bestows-and
+  title: 'Fourth: The Right Of The Bestower Of Favor On Whom He Bestows And The Right
+    Of Being The Medium Of Favor'
+  slug: 14-fourth-the-right-of-the-bestower-of-favor-on-whom-he-bestows-and-the-right-of-being-the-medium-of-favor
+  uuid: 22ae728f-8f3b-4c8f-ab6e-5b5491c1d505
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/fifth-right-father-upon-his-son
+  title: 'Fifth: The Right Of The Father Upon His Son'
+  slug: 15-fifth-the-right-of-the-father-upon-his-son
+  uuid: df0f3fde-5aef-48ec-aae1-ad08ab031631
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/sixth-right-master-over-his-servants-and
+  title: 'Sixth: The Right Of The Master Over His Servants And Protégés'
+  slug: 16-sixth-the-right-of-the-master-over-his-servants-and-proteges
+  uuid: 783a83ec-40a8-4c3e-a1ec-d1c8f9f71979
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/part-4-regarding-qualities-and-special-merits
+  title: 'Part 4: Regarding the Qualities and special merits of Imam al-Zamana (as)
+    due to which it becomes incumbent to pray for him'
+  slug: 17-part-4-regarding-the-qualities-and-special-merits-of-imam-al-zamana-as-due-to-which-it-becomes-incumbent-to-pray-for-him
+  uuid: 766e56df-241c-414e-8885-d0479ea16b4c
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-alif
+  title: The Letter Alif (as)
+  slug: 18-the-letter-alif-as
+  uuid: 9e5ecfcd-e597-42db-82b1-49fc51fe900d
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-ba-b
+  title: The Letter Ba (B)
+  slug: 19-the-letter-ba-b
+  uuid: 8ffac63a-05b3-46a8-8463-23894a3a936f
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-ta-t
+  title: The Letter Ta (T)
+  slug: 20-the-letter-ta-t
+  uuid: 8c962353-7e12-4fca-b1ea-01f9b1dc91d2
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-tha-th
+  title: The Letter Tha (Th)
+  slug: 21-the-letter-tha-th
+  uuid: d4b4a2de-309d-446a-962c-6525833040ac
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-jeem-j
+  title: The Letter Jeem (J)
+  slug: 22-the-letter-jeem-j
+  uuid: b8c5f9af-c1e9-42af-9db9-0e16e41151b5
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-ha-h
+  title: The Letter H’a (H’)
+  slug: 23-the-letter-h-a-h
+  uuid: 3c8d12ef-dc74-4712-b692-abe7ca4daea7
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-kha-kh
+  title: The Letter Kha (Kh)
+  slug: 24-the-letter-kha-kh
+  uuid: 1736aaf2-1035-45e9-83a1-894c72d240c5
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-daal-d
+  title: The Letter Daal (D)
+  slug: 25-the-letter-daal-d
+  uuid: 483cf91d-279e-4cbe-bfae-5735d8efed31
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-dhaal-dh
+  title: The Letter Dhaal (Dh)
+  slug: 26-the-letter-dhaal-dh
+  uuid: 7a8e0d94-9a9e-4365-b144-4696601390da
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-ra-r
+  title: The Letter Ra (R)
+  slug: 27-the-letter-ra-r
+  uuid: 12542011-780c-45fc-87c8-339200f89b6f
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-za-z
+  title: The Letter Za (Z)
+  slug: 28-the-letter-za-z
+  uuid: 9643bdb0-e322-4df2-84ea-26a37606a2a7
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-seen-s
+  title: The Letter Seen (S)
+  slug: 29-the-letter-seen-s
+  uuid: ce52adbf-9473-4927-b9fe-98a000bf35f9
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-sheen-sh
+  title: The Letter Sheen (Sh)
+  slug: 30-the-letter-sheen-sh
+  uuid: 9344c566-07c2-4383-bc3e-6e1f81ea655b
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-saad-s
+  title: The Letter S’aad (S’)
+  slug: 31-the-letter-s-aad-s
+  uuid: b5b4158c-c8e1-440c-ac18-0be5b42b18d0
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-zaad-z
+  title: The Letter Z”aad (Z”)
+  slug: 32-the-letter-z-aad-z
+  uuid: 4c6f8be8-5040-4540-b6fc-e6f9f64c20f7
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-ta-t-0
+  title: The Letter T’a (T’)
+  slug: 33-the-letter-t-a-t
+  uuid: da1de997-3fa3-425d-91b8-12588a62f1dc
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-za-z-0
+  title: The Letter Z’a (Z’)
+  slug: 34-the-letter-z-a-z
+  uuid: cd5b7404-d0fd-4dc9-bc3a-5084e79b40ac
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-ain
+  title: The Letter A’in (A’)
+  slug: 35-the-letter-a-in-a
+  uuid: 7b4bebb7-b916-47a2-afc9-e319dfce69de
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-ghain-gh
+  title: The Letter Ghain (Gh)
+  slug: 36-the-letter-ghain-gh
+  uuid: 5d75f2be-ed05-4108-8792-51c6803be616
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-fa-f
+  title: The Letter Fa (F)
+  slug: 37-the-letter-fa-f
+  uuid: 850176cf-506e-40e9-843c-65f882e67fe6
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-qaaf-q
+  title: The Letter Qaaf (Q)
+  slug: 38-the-letter-qaaf-q
+  uuid: 7e38a3f2-be21-4867-99ee-46cee185ea04
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-kaaf-k
+  title: The Letter Kaaf (K)
+  slug: 39-the-letter-kaaf-k
+  uuid: 4ab5ce71-186b-43ec-ba9b-d71f8e9a0e5b
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-kaaf-k-0
+  title: The Letter Kaaf (K)
+  slug: 40-the-letter-kaaf-k
+  uuid: 5cf00f48-def2-40dd-a1c7-e89b02530087
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-laam-l
+  title: The Letter Laam (L)
+  slug: 41-the-letter-laam-l
+  uuid: 4de7c940-cf51-4aaf-ae13-74e1cae6384f
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-meem-m
+  title: The Letter Meem (M)
+  slug: 42-the-letter-meem-m
+  uuid: 5aa4ca2a-f9fe-4933-8049-cb428796ad2a
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-noon-n
+  title: The Letter Noon (N)
+  slug: 43-the-letter-noon-n
+  uuid: 6ca00ba1-8cf7-402b-8c90-f65ce37d5a16
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-waw-w
+  title: The Letter Waw (W)
+  slug: 44-the-letter-waw-w
+  uuid: 6a42f987-7e85-48a0-8f67-fe434fcbae36
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-ha-h-0
+  title: The Letter Ha (H)
+  slug: 45-the-letter-ha-h
+  uuid: 372b5bee-6a81-4ddf-89b9-792cce49d787
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/letter-yaa-y
+  title: The Letter Yaa (Y)
+  slug: 46-the-letter-yaa-y
+  uuid: 185e2449-6fd7-4c4a-8634-7b7823e703ac
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/part-5-good-consequences-praying-deliverance
+  title: 'Part 5: Good Consequences of Praying for Deliverance'
+  slug: 47-part-5-good-consequences-of-praying-for-deliverance
+  uuid: f7b15d2a-1fcc-44a9-b9a9-9981748dda6c
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/1-tawqee-his-eminence
+  title: 1. Tawqee Of His Eminence
+  slug: 48-1-tawqee-of-his-eminence
+  uuid: 5990959d-8452-4619-a203-9df6b50b3129
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/2-increase-bounties
+  title: 2. Increase In Bounties
+  slug: 49-2-increase-in-bounties
+  uuid: d47e00aa-4754-420b-8fd9-d3a376789070
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/3-expression-inner-love
+  title: 3. Expression Of Inner Love
+  slug: 50-3-expression-of-inner-love
+  uuid: 6b9e5cae-c7b7-4b38-ab8a-d1bc44902e8d
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/4-sign-anticipation-awaiting
+  title: 4. A Sign Of Anticipation (Awaiting)
+  slug: 51-4-a-sign-of-anticipation-awaiting
+  uuid: cb5d1e27-05b7-4df6-b946-3b4118ae01b3
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/5-revival-command-purified-imams
+  title: 5. Revival Of The Command Of The Purified Imams (as)
+  slug: 52-5-revival-of-the-command-of-the-purified-imams-as
+  uuid: 38ccb265-6a2e-4e87-9451-64338912f52f
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/6-distress-and-fear-satan
+  title: 6. Distress And Fear Of The Satan
+  slug: 53-6-distress-and-fear-of-the-satan
+  uuid: b39c7a5b-fe51-45ac-8341-1c1da8b039e4
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/7-deliverance-mischiefs-last-age-and-remaining
+  title: 7. Deliverance From The Mischiefs Of The Last Age And Remaining Safe From
+    Satanic Traps
+  slug: 54-7-deliverance-from-the-mischiefs-of-the-last-age-and-remaining-safe-from-satanic-traps
+  uuid: 7bcee247-8449-4f7f-8093-4cbe8e6c6076
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/8-part-fulfillment-rights-his-eminence-upon-us
+  title: 8. Part-Fulfillment Of The Rights Of His Eminence Upon Us
+  slug: 55-8-part-fulfillment-of-the-rights-of-his-eminence-upon-us
+  uuid: 7d76718f-b47d-42c2-9d18-a843d50709ea
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/9-honoring-almighty-allah-religion-allah-and
+  title: 9. Honoring The Almighty Allah, The Religion Of Allah And The Messenger Of
+    Allah (S)
+  slug: 56-9-honoring-the-almighty-allah-the-religion-of-allah-and-the-messenger-of-allah-s
+  uuid: d9881490-c0b2-4b1d-afb1-ba864e7ab4f5
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/10-prayer-his-eminence-master-time-those-who
+  title: 10. Prayer Of His Eminence, The Master Of The Time For Those Who Supplicate
+    For His Early Reappearance
+  slug: 57-10-prayer-of-his-eminence-the-master-of-the-time-for-those-who-supplicate-for-his-early-reappearance
+  uuid: 792f2d40-f2ea-4e45-810c-2e8430cc6915
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/11-becoming-eligible-intercession-his-eminence
+  title: 11. Becoming Eligible For The Intercession Of His Eminence On Judgment Day
+  slug: 58-11-becoming-eligible-for-the-intercession-of-his-eminence-on-judgment-day
+  uuid: 477374eb-8647-4431-b76e-294d293a715b
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/12-eligibility-intercession-holy-prophet-s-and
+  title: 12. Eligibility For Intercession Of The Holy Prophet (S) And Attaining The
+    Great Intercession
+  slug: 59-12-eligibility-for-intercession-of-the-holy-prophet-s-and-attaining-the-great-intercession
+  uuid: 5c2154c2-8c3f-43bd-86fc-b4eb943cd27a
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/13-means-allah-mighty-and-high
+  title: 13. A Means To Allah, The Mighty And The High
+  slug: 60-13-a-means-to-allah-the-mighty-and-the-high
+  uuid: 36c3def1-e093-4ede-9510-96fc457e9d72
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/14-acceptance-prayers
+  title: 14. Acceptance Of Prayers
+  slug: 61-14-acceptance-of-prayers
+  uuid: ac6d8065-fb69-4b4e-9a28-8cf806071690
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/15-recompensing-favor-prophethood-holy-prophet-s
+  title: 15. Recompensing Favor Of Prophethood Of The Holy Prophet (S)
+  slug: 62-15-recompensing-favor-of-prophethood-of-the-holy-prophet-s
+  uuid: cc723efb-40a0-42de-a956-d97343740c1b
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/16-17-warding-calamities-and-increase-sustenance
+  title: 16 & 17. Warding Off Calamities And Increase In Sustenance
+  slug: 63-16-17-warding-off-calamities-and-increase-in-sustenance
+  uuid: c3d09d81-74b5-44e1-b4ab-33d617c4e9c0
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/18-forgiveness-sins
+  title: 18. Forgiveness Of Sins
+  slug: 64-18-forgiveness-of-sins
+  uuid: 61635347-aa1b-4f95-9456-c6d07754e92f
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/19-becoming-eligible-meet-his-eminence-person-or
+  title: 19. Becoming Eligible To Meet His Eminence In Person Or In Sleep
+  slug: 65-19-becoming-eligible-to-meet-his-eminence-in-person-or-in-sleep
+  uuid: 8faf4a75-e756-43a1-b758-fac467755aab
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/20-return-rajat-world-during-time-reappearance
+  title: 20. Return (Raja’t) To The World During The Time Of Reappearance
+  slug: 66-20-return-raja-t-to-the-world-during-the-time-of-reappearance
+  uuid: 97528624-6df8-4a1e-af7e-5bec94978456
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/21-brotherhood-holy-prophet-s
+  title: 21. Brotherhood Of The Holy Prophet (S)
+  slug: 67-21-brotherhood-of-the-holy-prophet-s
+  uuid: affcfbd1-2390-4414-b9d6-3d3b4611d426
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/22-hastening-matter-reappearance-master-time
+  title: 22. Hastening Of The Matter Of The Reappearance Of The Master Of The Time
+    (as)
+  slug: 68-22-hastening-of-the-matter-of-the-reappearance-of-the-master-of-the-time-as
+  uuid: e10df3ee-15eb-49f0-9cbf-76d8fb79f813
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/23-following-prophet-and-holy-imam
+  title: 23. Following The Prophet And The Holy Imam (as)
+  slug: 69-23-following-the-prophet-and-the-holy-imam-as
+  uuid: 3f6b5aa6-7cd0-439a-8ac1-fe611f280cf7
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/24-fulfillment-divine-covenant
+  title: 24. Fulfillment Of Divine Covenant
+  slug: 70-24-fulfillment-of-divine-covenant
+  uuid: eff6d62f-5d92-46c9-ab49-cbcc1b66e3ea
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/25-those-who-pray-would-gain-rewards-doing
+  title: 25. Those Who Pray Would Gain The Rewards Of Doing Goodness To The Parents
+  slug: 71-25-those-who-pray-would-gain-the-rewards-of-doing-goodness-to-the-parents
+  uuid: 2ca51404-cbd0-4cbc-8279-b76b2ffc0489
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/26-safe-keeping-trust-and-returning-it-honestly
+  title: 26. Safe Keeping Trust And Returning It Honestly
+  slug: 72-26-safe-keeping-trust-and-returning-it-honestly
+  uuid: 6c42270d-72cd-4ea7-ae3a-afcfc46def7c
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/27-spread-effulgence-his-eminence-supplicants
+  title: 27. Spread Of The Effulgence Of His Eminence In The Supplicant’s Heart
+  slug: 73-27-spread-of-the-effulgence-of-his-eminence-in-the-supplicant-s-heart
+  uuid: f1fe6879-7e36-4d8e-9631-7c9629d0884f
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/28-increase-lifespan
+  title: 28. Increase In Lifespan
+  slug: 74-28-increase-in-lifespan
+  uuid: c0876ccb-caa4-4afd-9ae5-66ceba7d3972
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/29-cooperation-good-deeds
+  title: 29. Cooperation In Good Deeds
+  slug: 75-29-cooperation-in-good-deeds
+  uuid: 991c0d7b-a9b4-4c5a-b0c4-79dbd17e1cb8
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/30-help-allah-mighty-and-high
+  title: 30. Help Of Allah, The Mighty And The High
+  slug: 76-30-help-of-allah-the-mighty-and-the-high
+  uuid: 07d96467-bc70-4477-a73d-a34bd1a6f784
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/31-guidance-effulgence-holy-quran
+  title: 31. Guidance By The Effulgence Of The Holy Qur’an
+  slug: 77-31-guidance-by-the-effulgence-of-the-holy-qur-an
+  uuid: f709daa9-8f12-436a-af03-7039d289aad1
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/32-recognized-people-heights-araaf
+  title: 32. Recognized By The People Of The Heights (Araaf)
+  slug: 78-32-recognized-by-the-people-of-the-heights-araaf
+  uuid: d65ce0a3-1471-4e33-a513-139c7b6ce8cc
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/33-reward-seeking-knowledge
+  title: 33. Reward Of Seeking Knowledge
+  slug: 79-33-reward-of-seeking-knowledge
+  uuid: e797d0a0-95ac-4be0-865a-a10a2d039a89
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/34-security-punishment-hereafter
+  title: 34. Security From Punishment Of The Hereafter
+  slug: 80-34-security-from-punishment-of-the-hereafter
+  uuid: 8af1f66b-d358-44ee-9d79-451a17b61c71
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/35-glad-tidings-and-moderateness-time-death
+  title: 35. Glad Tidings And Moderateness At Time Of Death
+  slug: 81-35-glad-tidings-and-moderateness-at-time-of-death
+  uuid: ba73c7f7-9d9b-44bb-bad7-1474393d97f6
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/36-response-call-allah-and-his-messenger-s
+  title: 36. Response To The Call Of Allah And His Messenger (S)
+  slug: 82-36-response-to-the-call-of-allah-and-his-messenger-s
+  uuid: 3a48c55a-3e47-4605-b6cd-37f70e1b5f87
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/37-same-level-amirul-momineen
+  title: 37. In The Same Level As That Of Amirul Momineen (as)
+  slug: 83-37-in-the-same-level-as-that-of-amirul-momineen-as
+  uuid: 807fb9d2-f2a0-481e-88a9-8e7082d8895e
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/38-best-people-view-almighty-allah
+  title: 38. Best People In The View Of Almighty Allah
+  slug: 84-38-best-people-in-the-view-of-almighty-allah
+  uuid: a09675d7-b720-4fad-929c-f3edd67fe82d
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/39-most-respected-persons-view-holy-prophet-s
+  title: 39. Most Respected Persons In View Of The Holy Prophet (S)
+  slug: 85-39-most-respected-persons-in-view-of-the-holy-prophet-s
+  uuid: c58a871a-d38d-4f97-a2b2-9e30c98aed63
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/40-he-will-enter-paradise-recommendation
+  title: 40. He Will Enter Paradise At The Recommendation Of The Messenger Of Allah
+    (S)
+  slug: 86-40-he-will-enter-paradise-at-the-recommendation-of-the-messenger-of-allah-s
+  uuid: 359e4d7e-cc88-4f6a-a25f-d9aefb0cabdc
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/41-prayer-holy-prophet-s-would-be-there-his
+  title: 41. The Prayer Of The Holy Prophet (S) Would Be There In His Favor
+  slug: 87-41-the-prayer-of-the-holy-prophet-s-would-be-there-in-his-favor
+  uuid: c4800960-fbc7-44ba-8a20-3198cb3e8bf5
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/42-forgiveness-sins-and-replacement-sins-good
+  title: 42. Forgiveness Of Sins And Replacement Of Sins With Good Deeds
+  slug: 88-42-forgiveness-of-sins-and-replacement-of-sins-with-good-deeds
+  uuid: 471f0366-f069-4470-b124-62b9826d784e
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/43-almighty-allah-helps-worship
+  title: 43. Almighty Allah Helps In Worship
+  slug: 89-43-almighty-allah-helps-in-worship
+  uuid: 61bef8ff-fb62-4551-81a4-3c942c5f9744
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/44-removal-divine-chastisement-people
+  title: 44. Removal Of Divine Chastisement From The People
+  slug: 90-44-removal-of-divine-chastisement-from-the-people
+  uuid: 12342fc3-742f-4f48-ac49-ef1d394d196d
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/45-rewards-helping-and-supporting-oppressed
+  title: 45. Rewards Of Helping And Supporting The Oppressed
+  slug: 91-45-rewards-of-helping-and-supporting-the-oppressed
+  uuid: 2e2671a7-2795-4f63-b852-f7f70269d4ca
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/46-reward-honoring-and-respecting-one-who-higher
+  title: 46. Reward Of Honoring And Respecting One Who Is Higher In Status
+  slug: 92-46-reward-of-honoring-and-respecting-one-who-is-higher-in-status
+  uuid: fa240b4c-261d-406e-bb76-94560803cae4
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/47-reward-avenging-blood-imam-husain
+  title: 47. Reward Of Avenging The Blood Of Imam Husain (as)
+  slug: 93-47-reward-of-avenging-the-blood-of-imam-husain-as
+  uuid: b60bb138-ebec-4357-8ff2-343e54511141
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/48-noble-benefits
+  title: 48. The Noble Benefits
+  slug: 94-48-the-noble-benefits
+  uuid: db821a9c-f804-479d-818b-863f32ba8f88
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/49-brightness-his-light-judgment-day
+  title: 49. Brightness of his light on Judgment Day
+  slug: 95-49-brightness-of-his-light-on-judgment-day
+  uuid: 6f92ef23-22ba-4f56-b921-a24bd8a8338d
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/50-his-intercession-seventy-thousand-sinners
+  title: 50. His intercession for seventy thousand sinners
+  slug: 96-50-his-intercession-for-seventy-thousand-sinners
+  uuid: ea09019f-7a0b-4381-9d23-8a580b0eb7de
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/51-prayer-amirul-momineen
+  title: 51. Prayer of Amirul Momineen (as)
+  slug: 97-51-prayer-of-amirul-momineen-as
+  uuid: c7e8c78a-ac34-4484-a59e-9dd0b2963af8
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/52-enter-paradise-without-accounting
+  title: 52. Enter Paradise without accounting
+  slug: 98-52-enter-paradise-without-accounting
+  uuid: 4412b0b1-2ad9-4b1d-8833-904c24412e0f
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/53-safe-thirst-judgment-day
+  title: 53. Safe from the thirst of Judgment Day
+  slug: 99-53-safe-from-the-thirst-of-judgment-day
+  uuid: cc79b567-f682-44d4-aea1-82198470df16
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/54-forever-paradise
+  title: 54. Forever in Paradise
+  slug: 100-54-forever-in-paradise
+  uuid: 48ea548e-797d-4215-9de4-f605d34f13a4
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/55-scratching-face-satan
+  title: 55. Scratching the face of Satan
+  slug: 101-55-scratching-the-face-of-satan
+  uuid: 3f4a521e-e140-4226-8e97-9519e4b81121
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/56-special-gift-judgment-day
+  title: 56. A special gift on the Judgment Day
+  slug: 102-56-a-special-gift-on-the-judgment-day
+  uuid: 17f4924a-31d9-4d24-a5b8-1253c25248ab
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/57-servants-paradise
+  title: 57. Servants of Paradise
+  slug: 103-57-servants-of-paradise
+  uuid: 08615573-a1e2-4858-bbd3-4c4e415c6cd3
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/58-vast-shade-almighty-allah
+  title: 58. Vast shade of the Almighty Allah
+  slug: 104-58-vast-shade-of-the-almighty-allah
+  uuid: 3769293a-09b1-40b6-92f9-9e2da57f77ee
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/59-reward-believers-well-wisher
+  title: 59. Reward of a believer’s Well-wisher
+  slug: 105-59-reward-of-a-believer-s-well-wisher
+  uuid: ec07a00f-64b2-4b50-b6c9-d2711b8d798c
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/60-presence-angels
+  title: 60. In the presence of the Angels
+  slug: 106-60-in-the-presence-of-the-angels
+  uuid: e4104ccc-51c4-44a8-a60f-3b5810473fac
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/61-allah-prides
+  title: 61. Allah prides
+  slug: 107-61-allah-prides
+  uuid: 1fe7a173-d69a-44d6-a20c-b2bf1e0eae6d
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/62-angels-seek-forgiveness
+  title: 62. Angels seek forgiveness
+  slug: 108-62-angels-seek-forgiveness
+  uuid: e22caebb-da9e-4314-a38f-cd2827a26959
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/63-best-people-after-imams
+  title: 63. The best people after the Imams (as)
+  slug: 109-63-the-best-people-after-the-imams-as
+  uuid: b42a7f7e-5a37-456b-9096-079e08a53ffc
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/64-obedience-ulil-amr-those-authority
+  title: 64. Obedience of the Ulil Amr (those in authority)
+  slug: 110-64-obedience-of-the-ulil-amr-those-in-authority
+  uuid: e4b7f4f1-b585-4d4d-a367-6a99f5244bf5
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/65-pleasure-almighty-allah
+  title: 65. Pleasure of the Almighty Allah
+  slug: 111-65-pleasure-of-the-almighty-allah
+  uuid: edf867bb-19e7-4680-940f-6ef51364edb8
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/66-source-happiness-holy-prophet-s
+  title: 66. Source of happiness of the Holy Prophet (S)
+  slug: 112-66-source-of-happiness-of-the-holy-prophet-s
+  uuid: 4badd569-90b9-45bc-91b8-ec91a5f7f26d
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/67-favorite-deed
+  title: 67. The Favorite Deed
+  slug: 113-67-the-favorite-deed
+  uuid: 080f8593-4d72-4695-abd3-3e409ce91a5d
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/68-rulership-paradise
+  title: 68. Rulership of Paradise
+  slug: 114-68-rulership-of-paradise
+  uuid: 12c2d8a1-be09-4ab2-ac06-3bcf273df31f
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/69-his-accounting-will-be-easy
+  title: 69. His accounting will be easy
+  slug: 115-69-his-accounting-will-be-easy
+  uuid: a5608cf2-7185-415b-904f-544467e9600a
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/70-kind-companion-barzakh-and-qiyamat
+  title: 70. A Kind Companion in Barzakh and Qiyamat
+  slug: 116-70-a-kind-companion-in-barzakh-and-qiyamat
+  uuid: 8566548a-8928-4f7e-96e4-6385fff3af56
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/71-best-deeds
+  title: 71. The best deeds
+  slug: 117-71-the-best-deeds
+  uuid: c57a307a-61d0-44a3-a5eb-c41847aa87f4
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/72-cause-removal-sorrow
+  title: 72. Cause of removal of sorrow
+  slug: 118-72-cause-of-removal-of-sorrow
+  uuid: 5e0fc28f-d32d-4626-9dd7-757be87d89f6
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/73-praying-during-period-occultation-better
+  title: 73. Praying during the period of occultation is better than doing it in the
+    time of reappearance
+  slug: 119-73-praying-during-the-period-of-occultation-is-better-than-doing-it-in-the-time-of-reappearance
+  uuid: 8597de98-322a-4799-9945-221c34e393d7
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/74-angels-pray-him
+  title: 74. Angels pray for him
+  slug: 120-74-angels-pray-for-him
+  uuid: 5b188421-58a0-466a-b3b5-1b9c66fb72f8
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/75-dua-his-eminence-sajjad-supplicants
+  title: 75. Dua of His Eminence Sajjad (as) for the Supplicants
+  slug: 121-75-dua-of-his-eminence-sajjad-as-for-the-supplicants
+  uuid: 4964a93e-f02e-4321-8851-595dfbfd14f4
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/76-attachment-two-weighty-things-thaqlayn
+  title: 76. Attachment to the Two Weighty Things (Thaqlayn)
+  slug: 122-76-attachment-to-the-two-weighty-things-thaqlayn
+  uuid: 614e7333-c14e-4671-8eed-1869d0f06eaf
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/77-clinging-divine-rope
+  title: 77. Clinging to the Divine Rope
+  slug: 123-77-clinging-to-the-divine-rope
+  uuid: c3e3315f-edf2-4a9e-aebd-fcd51dc872ce
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/78-perfection-faith
+  title: 78. Perfection of Faith
+  slug: 124-78-perfection-of-faith
+  uuid: f5007951-210b-4471-af6e-32e4eebde707
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/79-reward-worshippers
+  title: 79. Reward of worshippers
+  slug: 125-79-reward-of-worshippers
+  uuid: 662c121f-2561-49d3-b6c4-e1fe1c35085f
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/80-respecting-divine-signs
+  title: 80. Respecting the Divine Signs
+  slug: 126-80-respecting-the-divine-signs
+  uuid: 24b88416-daad-4ed9-b9e0-73a716d1a39c
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/81-reward-one-who-martyred-company-messenger
+  title: 81. Reward of one who is martyred in the company of the Messenger of Allah
+    (S)
+  slug: 127-81-reward-of-one-who-is-martyred-in-the-company-of-the-messenger-of-allah-s
+  uuid: 6bc7108b-05ef-40df-aca1-a95862419218
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/82-reward-being-martyred-under-flag-his-eminence
+  title: 82. Reward of being martyred under the flag of His Eminence, Qaim (aj)
+  slug: 128-82-reward-of-being-martyred-under-the-flag-of-his-eminence-qaim-aj
+  uuid: 50db8d18-04c6-4a3f-af14-8b7322546a58
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/83-reward-doing-favor-our-master-master-time-aj
+  title: 83. Reward of doing a favor to our master, the Master of the Time (aj)
+  slug: 129-83-reward-of-doing-a-favor-to-our-master-the-master-of-the-time-aj
+  uuid: bbe23f38-6520-4c64-8534-0db02c207770
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/84-reward-honoring-and-fulfillment-rights
+  title: 84. Reward of honoring and fulfillment of rights
+  slug: 130-84-reward-of-honoring-and-fulfillment-of-rights
+  uuid: ece8cb1b-a20a-47f1-aede-b24b886142a1
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/85-reward-honoring-great-personality
+  title: 85. Reward of honoring a great personality
+  slug: 131-85-reward-of-honoring-a-great-personality
+  uuid: 37e6868a-c385-45da-92ca-4454f4bf9272
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/86-inclusion-party-imams
+  title: 86. Inclusion in the party of the Imams (as)
+  slug: 132-86-inclusion-in-the-party-of-the-imams-as
+  uuid: ee0df818-49b0-40ee-9822-bc2135c27e46
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/87-elevation-ranks-paradise
+  title: 87. Elevation of ranks in Paradise
+  slug: 133-87-elevation-of-ranks-in-paradise
+  uuid: 0a737be2-1fde-47e8-968a-701ed4eba413
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/88-security-bad-accounting
+  title: 88. Security from a bad accounting
+  slug: 134-88-security-from-a-bad-accounting
+  uuid: 13479709-2f61-4553-8cd3-c99d7e67de6b
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/89-getting-highest-stations-martyrs
+  title: 89. Getting the highest stations of martyrs
+  slug: 135-89-getting-the-highest-stations-of-martyrs
+  uuid: 10c0248c-345e-475a-b814-9cb5697a0795
+- source: :alislam
+  source_url: http://www.al-islam.org/mikyalul-makarim-fee-fawaaid-ad-duaa-lil-qaim-vol-1/90-getting-intercession-lady-fatima
+  title: 90. Getting the intercession of Lady Fatima (as)
+  slug: 136-90-getting-the-intercession-of-lady-fatima-as
+  uuid: 0eede7cd-1eaa-4d31-874e-965913d4ca5a
+---

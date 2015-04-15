@@ -1,0 +1,29 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/perfect-man-ayatullah-murtadha-mutahhari
+author: Ayatullah Murtadha Mutahhari
+publisher: Foreign Department Of Boyad Be'that
+translator: Aladdin Pazargadi
+title: Perfect Man
+slug: perfect-man
+uuid: 780dcf6a-2c38-4380-85b0-9b82ef1de2e8
+description: |
+  What makes a man perfect? This text discusses the spiritual reality of
+  man, and the relationship of man with nature.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/perfect-man-ayatullah-murtadha-mutahhari/part-1-perfect-man
+  title: 'Part 1: The Perfect Man'
+  slug: 1-part-1-the-perfect-man
+  uuid: fb7c3d14-5ee3-4b3a-9d3f-162cbee7088b
+- source: :alislam
+  source_url: http://www.al-islam.org/perfect-man-ayatullah-murtadha-mutahhari/part-2-nature-man
+  title: 'Part 2: The Nature of Man'
+  slug: 2-part-2-the-nature-of-man
+  uuid: 6326a228-0c18-496b-9260-cb2c5d56ab65
+- source: :alislam
+  source_url: http://www.al-islam.org/perfect-man-ayatullah-murtadha-mutahhari/part-3-relation-man-nature
+  title: 'Part 3: Relation of the Man with Nature'
+  slug: 3-part-3-relation-of-the-man-with-nature
+  uuid: ada5ec59-74fb-41d6-b3d2-d0c6f8dcf245
+---

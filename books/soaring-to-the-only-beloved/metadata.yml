@@ -1,0 +1,73 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/soaring-to-the-only-beloved
+author: Abu Muhammad Zaynu'l 'Abidin
+title: Soaring to the Only Beloved
+slug: soaring-to-the-only-beloved
+uuid: 4c9c69cb-d6c5-4750-a700-e33d2f3f0376
+description: |
+  This concise treatise is aimed at making us realize the necessity,
+  possibility, and methodology of attaining this vital spirit of prayer
+  (Salat).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/soaring-to-the-only-beloved/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: 91d284ad-d41e-48cf-a799-159303cf5bce
+- source: :alislam
+  source_url: http://www.al-islam.org/soaring-to-the-only-beloved/preface
+  title: Preface
+  slug: 2-preface
+  uuid: 79b23554-f8b6-4467-8bee-5689a5c53a95
+- source: :alislam
+  source_url: http://www.al-islam.org/soaring-to-the-only-beloved/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: 726932f6-3750-4fbf-a120-a9fa6ad70fcd
+- source: :alislam
+  source_url: http://www.al-islam.org/soaring-to-the-only-beloved/part-1-necessity-attention-prayer
+  title: 'Part 1: The Necessity of Attention in Prayer'
+  slug: 4-part-1-the-necessity-of-attention-in-prayer
+  uuid: e8916a56-a415-4b1c-9d8c-e05186951f03
+- source: :alislam
+  source_url: http://www.al-islam.org/soaring-to-the-only-beloved/part-2-possibility-attention-prayer
+  title: 'Part 2: The Possibility of Attention in Prayer'
+  slug: 5-part-2-the-possibility-of-attention-in-prayer
+  uuid: 18f820bc-3ccc-4d94-9bb4-f9d1b7db501f
+- source: :alislam
+  source_url: http://www.al-islam.org/soaring-to-the-only-beloved/part-3-levels-attention-prayer
+  title: 'Part 3: Levels of Attention in Prayer'
+  slug: 6-part-3-levels-of-attention-in-prayer
+  uuid: b7aad51b-1ff0-45c6-9c82-de7bc6cfd043
+- source: :alislam
+  source_url: http://www.al-islam.org/soaring-to-the-only-beloved/part-4-hurdles-way-attention-prayer-and-their-removal
+  title: 'Part 4: Hurdles on the Way To Attention in Prayer And their Removal'
+  slug: 7-part-4-hurdles-on-the-way-to-attention-in-prayer-and-their-removal
+  uuid: 50c24503-634a-4afe-ba94-10df311b87e7
+- source: :alislam
+  source_url: http://www.al-islam.org/soaring-to-the-only-beloved/part-5-suggested-methods-achieving-attention-prayer
+  title: 'Part 5: Suggested Methods of Achieving Attention In Prayer'
+  slug: 8-part-5-suggested-methods-of-achieving-attention-in-prayer
+  uuid: 897f5b2b-8c65-4e2f-94c6-9114d58ea1e2
+- source: :alislam
+  source_url: http://www.al-islam.org/soaring-to-the-only-beloved/part-6-effect-maintaining-attention-prayer
+  title: 'Part 6: The Effect of Maintaining Attention in Prayer'
+  slug: 9-part-6-the-effect-of-maintaining-attention-in-prayer
+  uuid: 77aa127e-fe82-41ce-a404-bef019037ab6
+- source: :alislam
+  source_url: http://www.al-islam.org/soaring-to-the-only-beloved/part-7-meaning-prayer
+  title: 'Part 7: The Meaning of Prayer'
+  slug: 10-part-7-the-meaning-of-prayer
+  uuid: 8edc537b-22e9-4599-bc3f-4b640bad1a1f
+- source: :alislam
+  source_url: http://www.al-islam.org/soaring-to-the-only-beloved/part-8-heavenly-stars-memoirs-anecdotes-god-wary
+  title: 'Part 8: Heavenly Stars Memoirs & Anecdotes of the God-Wary'
+  slug: 11-part-8-heavenly-stars-memoirs-anecdotes-of-the-god-wary
+  uuid: 2a072335-2c5c-4a86-8535-e5423faf9680
+- source: :alislam
+  source_url: http://www.al-islam.org/soaring-to-the-only-beloved/bibliography
+  title: Bibliography
+  slug: 12-bibliography
+  uuid: c232657f-6e5a-4949-8984-a10aaf2593ea
+---

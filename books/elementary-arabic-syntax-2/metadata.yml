@@ -1,0 +1,138 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni
+author: Rashid Al-Shartuni
+translator: Hamid Hussein Waqar
+title: Elementary Arabic Syntax 2
+slug: elementary-arabic-syntax-2
+uuid: 56cdf1c2-ebff-4c46-a648-b1a58d7f5c22
+description: |
+  A study of syntax of the Arabic language volume 1. Translated by Hamid
+  Hussein Waqar.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/syntax
+  title: Syntax
+  slug: 1-syntax
+  uuid: c4c2c24e-1fb1-4c32-85e3-e5592856c464
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/nominative-and-subjective-cases-aorist-tense-verb
+  title: The Nominative and Subjective Cases of the Aorist Tense Verb
+  slug: 2-the-nominative-and-subjective-cases-of-the-aorist-tense-verb
+  uuid: db5bf2bc-8f80-4c53-a193-973a64b4482c
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/jussive-cases-aorist-tense
+  title: The Jussive Cases of the Aorist Tense
+  slug: 3-the-jussive-cases-of-the-aorist-tense
+  uuid: 8c945ebc-9f07-4284-ac87-32d84c4ef991
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/nominative-cases-noun-actor
+  title: 'Nominative Cases of a Noun: The Actor'
+  slug: 4-nominative-cases-of-a-noun-the-actor
+  uuid: 80957acc-a7d4-48cb-8fc6-e06adb71784b
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/nominative-cases-noun-subject-predication
+  title: 'Nominative Cases of a Noun: Subject of a Predication'
+  slug: 5-nominative-cases-of-a-noun-subject-of-a-predication
+  uuid: 58c9332f-a1b8-4f21-9baf-32491d1ab070
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/nominative-cases-noun-inchoative-and-predicate
+  title: 'Nominative Cases of a Noun: Inchoative and Predicate'
+  slug: 6-nominative-cases-of-a-noun-inchoative-and-predicate
+  uuid: 90b251d3-b908-42cd-b585-d339c05fe3d3
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/incomplete-and-appropinquation-verbs
+  title: Incomplete and Appropinquation Verbs
+  slug: 7-incomplete-and-appropinquation-verbs
+  uuid: f9450cac-8357-487e-9fab-1af5b870196f
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/particles-which-resemble-verb
+  title: Particles Which Resemble a Verb
+  slug: 8-particles-which-resemble-a-verb
+  uuid: 605f8cbd-0c19-425e-9fbb-fcf133a22aec
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/objective-compliment
+  title: Objective Compliment
+  slug: 9-objective-compliment
+  uuid: 25a74f5d-1782-4f86-ad0b-896e2b56b81d
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/verbs-wonder
+  title: Verbs of Wonder
+  slug: 10-verbs-of-wonder
+  uuid: abe38e78-2166-4e45-b2fd-f31e2ae6ecd4
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/ishtighal
+  title: Ishtighal
+  slug: 11-ishtighal
+  uuid: 9505b9e8-e186-4b80-8092-1623e8d0fe80
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/cognate-accusative
+  title: Cognate Accusative
+  slug: 12-cognate-accusative
+  uuid: 75d5638e-d576-476a-ae77-e0dce3b8d853
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/adverbial-qualification
+  title: Adverbial Qualification
+  slug: 13-adverbial-qualification
+  uuid: 6cdee019-d521-4374-9935-2acd078393ee
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/adverbal-qualification-time-and-place
+  title: Adverbal Qualification of Time and Place
+  slug: 14-adverbal-qualification-of-time-and-place
+  uuid: 4f0ebe47-77e7-4a8b-ad41-bb494334af8c
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/m%C4%81%E2%80%98-accusative
+  title: The MĀ‘ Accusative
+  slug: 15-the-ma-accusative
+  uuid: ce1850f6-bef4-4242-9b63-c39793f145dd
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/exceptive
+  title: Exceptive
+  slug: 16-exceptive
+  uuid: 1fd00e7a-1993-43f4-b5c1-40cc79ae3da9
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/h%EF%80%A4%C4%81l-accusative
+  title: HĀl Accusative
+  slug: 17-h-al-accusative
+  uuid: b56f8128-af34-48e1-a469-7252a4f2815f
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/specificative
+  title: Specificative
+  slug: 18-specificative
+  uuid: 4827d7bd-d18a-4037-90d4-a186eec0bf01
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/vocative
+  title: Vocative
+  slug: 19-vocative
+  uuid: fb960368-719c-444c-9453-ea79113cd6b8
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/jar-prepositions
+  title: Jar Prepositions
+  slug: 20-jar-prepositions
+  uuid: e1b04034-d0a8-4557-b7f5-5ca06342e04e
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/compliments-prefixed-nouns
+  title: Compliments to Prefixed Nouns
+  slug: 21-compliments-to-prefixed-nouns
+  uuid: e4aaabf4-8bdf-401e-9393-1bd537e4fab7
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/adjectives
+  title: Adjectives
+  slug: 22-adjectives
+  uuid: 3ccce3c6-cd4b-4144-9f90-a8e502fe67b4
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/conjunctions
+  title: Conjunctions
+  slug: 23-conjunctions
+  uuid: 77568a31-a8fc-496d-8969-e80f0356158f
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/emphasis
+  title: Emphasis
+  slug: 24-emphasis
+  uuid: e3670028-f563-4a8a-993f-cb91c3bc428c
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-2-rashid-al-shartuni/substitutes
+  title: Substitutes
+  slug: 25-substitutes
+  uuid: c4beab8e-fa42-4776-bce7-a2eff7aae71b
+---

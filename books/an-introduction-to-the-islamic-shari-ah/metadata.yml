@@ -1,0 +1,50 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/introduction-islamic-shariah-sayyid-muhammad-rizvi
+author: Sayyid Muhammad Rizvi
+publisher: Ansariyan Publications - Qum
+title: An Introduction to The Islamic Shari’ah
+slug: an-introduction-to-the-islamic-shari-ah
+uuid: 038cd8a5-557c-4607-852a-48b83ead7d2d
+description: |
+  In this text, Sayyid Muhammad Rizvi has outlined the fundamentals of
+  Shari'ah and how to live by the teachings and laws of Islam. He
+  discusses Taqlid, understanding of the laws and the reasoning behind
+  them, and even the concept of Ijtihad.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-islamic-shariah-sayyid-muhammad-rizvi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 27171af3-0ab8-4865-b05d-3c6ee7755aa0
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-islamic-shariah-sayyid-muhammad-rizvi/shariah
+  title: The Shari'ah
+  slug: 2-the-shari-ah
+  uuid: 2934d39d-be89-44a1-889b-406001798ef9
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-islamic-shariah-sayyid-muhammad-rizvi/how-live-shariah
+  title: How to Live by the Shari'ah?
+  slug: 3-how-to-live-by-the-shari-ah
+  uuid: d3382488-870b-4c09-b9cd-354a77fde89c
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-islamic-shariah-sayyid-muhammad-rizvi/taqlid-following-expert
+  title: Taqlid, Following The Expert
+  slug: 4-taqlid-following-the-expert
+  uuid: 858be6ff-e8b4-443e-84e7-0313828774a0
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-islamic-shariah-sayyid-muhammad-rizvi/tendency-rationalizing-shari%E2%80%99ah-laws
+  title: The Tendency of Rationalizing The Shari’ah Laws
+  slug: 5-the-tendency-of-rationalizing-the-shari-ah-laws
+  uuid: 20cec941-e00c-4152-a7f6-75928c20c5d7
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-islamic-shariah-sayyid-muhammad-rizvi/system-ijtihad
+  title: The System of Ijtihad
+  slug: 6-the-system-of-ijtihad
+  uuid: 6cb1453d-65cc-4100-937a-751b8230fb48
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-islamic-shariah-sayyid-muhammad-rizvi/look-future-ijtihad
+  title: A Look into the Future of Ijtihad
+  slug: 7-a-look-into-the-future-of-ijtihad
+  uuid: 849f2353-5ab6-4b05-9c88-a60a571a3571
+---

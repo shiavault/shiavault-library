@@ -1,0 +1,39 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/sexual-problems-youths-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi
+author: Ayatullah al-`Uzma al-Hajj ash-Shaykh Nasir Makarim Shirazi
+title: Sexual problems of Youths
+slug: sexual-problems-of-youths
+uuid: 1fc9b6a9-2b70-4292-ab98-040f054b2ae6
+description: |
+  In this book, the author has explained the reasons for the sexual
+  problems being faced by the Muslim youth. He talks about the impediments
+  to marriage and the sexual perversions that result in the youth being
+  unmarried. Lastly, he presents advice on how to deal with this problem.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/sexual-problems-youths-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: 9a4fb6bc-b292-4511-8c76-a707811c39fa
+- source: :alislam
+  source_url: http://www.al-islam.org/sexual-problems-youths-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi/preface
+  title: Preface
+  slug: 2-preface
+  uuid: ac81392b-8450-408a-935d-dbde18dcebb5
+- source: :alislam
+  source_url: http://www.al-islam.org/sexual-problems-youths-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi/problem-called-marriage
+  title: A problem called marriage
+  slug: 3-a-problem-called-marriage
+  uuid: 2ded6ffd-1bd2-4a9c-a068-1fcb6d98a082
+- source: :alislam
+  source_url: http://www.al-islam.org/sexual-problems-youths-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi/sexual-perversions
+  title: Sexual perversions
+  slug: 4-sexual-perversions
+  uuid: 4ad381dd-c39a-493e-b585-a4aa43f46df4
+- source: :alislam
+  source_url: http://www.al-islam.org/sexual-problems-youths-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi/feedback-readers
+  title: Feedback from Readers
+  slug: 5-feedback-from-readers
+  uuid: 44a034c1-9139-4a3e-8387-9beda8e653d6
+---

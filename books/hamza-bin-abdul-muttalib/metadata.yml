@@ -1,0 +1,18 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/hamza-bin-abdul-muttalib-kamal-al-sayyid
+author: Kamal al-Sayyid
+publisher: Ansariyan Publications - Qum
+translator: Jasim al-Alyawy
+title: Hamza bin Abdul Muttalib
+slug: hamza-bin-abdul-muttalib
+uuid: 0f729000-d5ed-43f0-aba8-bd2500ee2213
+description: |
+  Biography of the uncle of the Prophet (s)
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/hamza-bin-abdul-muttalib-kamal-al-sayyid/hamza-bin-abdul-muttalib
+  title: Hamza bin Abdul Muttalib
+  slug: 1-hamza-bin-abdul-muttalib
+  uuid: 9d87498d-2ee7-4ff9-97ee-7a7ae44844ec
+---

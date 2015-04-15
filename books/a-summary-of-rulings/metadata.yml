@@ -1,0 +1,140 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi
+author: Ayatullah al-`Uzma al-Hajj ash-Shaykh Nasir Makarim Shirazi
+publisher: Madani E-Publications
+title: A Summary of Rulings
+slug: a-summary-of-rulings
+uuid: 23ad63c0-1204-4860-a418-3e0d11da555d
+description: |
+  The English translation of the Risalatul Fiqh (text of Islamic Laws) of
+  Grand Ayatullah Nasir Makarem Shirazi, with a helpful addition of a
+  glossary of Arabic terms appended at the end for the benefit of
+  non-Arabic speakers.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/preface-our-religious-ideology
+  title: 'Preface: Our Religious Ideology'
+  slug: 1-preface-our-religious-ideology
+  uuid: 5d8045c9-cdeb-42ec-80d7-202ac8956933
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/rules-taqleed-and-tahaarah
+  title: The Rules of Taqleed and Tahaarah
+  slug: 2-the-rules-of-taqleed-and-tahaarah
+  uuid: 8c2dc480-c7dc-460d-a620-e55d1cf64f4b
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/rules-prayer
+  title: The Rules of Prayer
+  slug: 3-the-rules-of-prayer
+  uuid: e7273201-4d35-4fea-837a-bd4efb2f868d
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/rules-fasting
+  title: The Rules of Fasting
+  slug: 4-the-rules-of-fasting
+  uuid: f598a953-983f-4ac2-942b-8ccb1bf26cb6
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/rules-khums
+  title: The Rules of Khums
+  slug: 5-the-rules-of-khums
+  uuid: 8913a63f-bc89-4628-b3e9-eedd8daf0d9a
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/rules-zakah
+  title: The Rules of Zakah
+  slug: 6-the-rules-of-zakah
+  uuid: 92698c37-0167-475d-beb3-bff4aa41889e
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/rules-pilgrimage-hajj
+  title: The Rules of The Pilgrimage (Hajj)
+  slug: 7-the-rules-of-the-pilgrimage-hajj
+  uuid: 84bc6273-d71c-415c-96d5-5556fb0a0aca
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/rules-selling-and-buying
+  title: The Rules of Selling and Buying
+  slug: 8-the-rules-of-selling-and-buying
+  uuid: ab3f6614-8489-4035-a1d2-4d01e1d6a94e
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/rules-leasing-renting-hiring-ijaarah
+  title: The Rules of Leasing- Renting- Hiring (Ijaarah)
+  slug: 9-the-rules-of-leasing-renting-hiring-ijaarah
+  uuid: 9d1cbce7-7e74-4d8e-adf8-b16975518731
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/rules-loans-qardh
+  title: The Rules of Loans (Qardh)
+  slug: 10-the-rules-of-loans-qardh
+  uuid: 80da4be8-3b2f-4184-adaf-c5706c048fa9
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/rules-securities-rahn
+  title: The Rules of Securities (Rahn)
+  slug: 11-the-rules-of-securities-rahn
+  uuid: 078d9d07-b432-4ac5-915a-9f1500f871bb
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/rules-matrimony-and-marriage
+  title: The Rules in Matrimony and Marriage
+  slug: 12-the-rules-in-matrimony-and-marriage
+  uuid: 567be55d-c906-4b2e-b8d6-51bc76e3e96b
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/rules-breastfeeding
+  title: The Rules of Breastfeeding
+  slug: 13-the-rules-of-breastfeeding
+  uuid: b1a6293f-3ba8-4c0c-abb3-44309af9fcaf
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/rules-divorce
+  title: The Rules of Divorce
+  slug: 14-the-rules-of-divorce
+  uuid: de292a0a-d3b4-41c2-9284-4a52fa200999
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/rulings-lost-property-luqtah
+  title: The Rulings of Lost Property (Luqtah)
+  slug: 15-the-rulings-of-lost-property-luqtah
+  uuid: d0eeb1ac-40ca-47ff-aa81-d1eecfe7c4b4
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/rules-slaughtering-and-hunting
+  title: The Rules of Slaughtering and Hunting
+  slug: 16-the-rules-of-slaughtering-and-hunting
+  uuid: cc90732e-d4e5-47b7-9284-0d8b705046b0
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/rules-food-and-drink
+  title: The Rules of Food and Drink
+  slug: 17-the-rules-of-food-and-drink
+  uuid: b611b463-d427-41c8-96f0-ba275e6e0dba
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/rules-vows-and-covenants
+  title: The Rules of Vows and Covenants
+  slug: 18-the-rules-of-vows-and-covenants
+  uuid: 7daa7259-9673-498d-9533-73ad12d43d6e
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/rules-oath
+  title: The Rules of the Oath
+  slug: 19-the-rules-of-the-oath
+  uuid: 0c6d4754-3cf1-48ed-a958-f452d8f3f021
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/rules-will
+  title: The Rules of the Will
+  slug: 20-the-rules-of-the-will
+  uuid: 06e167e2-e1b9-4dc0-992b-9a6bafdaa8fa
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/rules-inheritance
+  title: The Rules of Inheritance
+  slug: 21-the-rules-of-inheritance
+  uuid: 208fcee1-2a0b-41c9-a1e6-9f870d6095e7
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/rules-defense-and-enjoining-good-and-forbidding-evil
+  title: The Rules of Defense And Enjoining Good And Forbidding Evil
+  slug: 22-the-rules-of-defense-and-enjoining-good-and-forbidding-evil
+  uuid: fdcb5669-a10c-48e1-89d0-528d9db3f2c0
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/modern-issues
+  title: Modern Issues
+  slug: 23-modern-issues
+  uuid: 21ae4153-9ea0-450a-aef4-ce268ab555fc
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/glance-life-his-eminence-ayatullah-al-uzma-makarim-shirazi
+  title: A Glance at the Life of his Eminence Ayatullah al-‘Uzma Makarim Shirazi
+  slug: 24-a-glance-at-the-life-of-his-eminence-ayatullah-al-uzma-makarim-shirazi
+  uuid: 5128eafd-30ee-4976-8138-af146f3ce3e2
+- source: :alislam
+  source_url: http://www.al-islam.org/a-summary-of-rulings-makarim-shirazi/glossary-terms
+  title: A Glossary of Terms
+  slug: 25-a-glossary-of-terms
+  uuid: 334832b8-5c82-4205-a7cc-db9d4174be26
+---

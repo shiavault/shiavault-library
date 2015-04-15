@@ -1,0 +1,50 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/our-belief-nasir-makarim-shirazi
+author: Ayatullah al-`Uzma al-Hajj ash-Shaykh Nasir Makarim Shirazi
+translator: Mansoor Aminy Baghbadorani
+title: Our Belief
+slug: our-belief
+uuid: b76548af-0abc-4a2c-a093-d5b6f8780b1c
+description: |
+  This text presents a summary of the Islamic principles and commandments
+  emphasizing some specialties on the Shi'a sect. Theism and monotheism,
+  the mission of prophets, the divine books, resurrection, and Imamate are
+  discussed.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/our-belief-nasir-makarim-shirazi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 07eec8ce-f332-4dad-8625-a83b9b3918d6
+- source: :alislam
+  source_url: http://www.al-islam.org/our-belief-nasir-makarim-shirazi/chapter-1-theism-and-monotheism
+  title: 'Chapter 1:  Theism and Monotheism'
+  slug: 2-chapter-1-theism-and-monotheism
+  uuid: 0c3bfac2-0f2b-4599-ad85-7a22a543c94d
+- source: :alislam
+  source_url: http://www.al-islam.org/our-belief-nasir-makarim-shirazi/chapter-2-divine-mission-prophets
+  title: 'Chapter 2: Divine Mission of the Prophets'
+  slug: 3-chapter-2-divine-mission-of-the-prophets
+  uuid: a3096c5f-ecca-4e26-ab01-0dae0830867b
+- source: :alislam
+  source_url: http://www.al-islam.org/our-belief-nasir-makarim-shirazi/chapter-3-holy-quran-and-holy-books
+  title: 'Chapter 3: Holy Qur’an and the Holy Books'
+  slug: 4-chapter-3-holy-qur-an-and-the-holy-books
+  uuid: 8466e7e1-913b-4e8f-855f-d76a4a725d01
+- source: :alislam
+  source_url: http://www.al-islam.org/our-belief-nasir-makarim-shirazi/chapter-4-resurrection-and-life-after-death
+  title: 'Chapter 4: Resurrection and the Life After Death'
+  slug: 5-chapter-4-resurrection-and-the-life-after-death
+  uuid: 63701a2c-87b3-42e2-99f6-49643d9c78ba
+- source: :alislam
+  source_url: http://www.al-islam.org/our-belief-nasir-makarim-shirazi/chapter-5-imamate
+  title: 'Chapter 5: Imamate'
+  slug: 6-chapter-5-imamate
+  uuid: 2cc33c3a-6973-4967-851d-60fa656e14ae
+- source: :alislam
+  source_url: http://www.al-islam.org/our-belief-nasir-makarim-shirazi/chapter-6-other-subjects
+  title: 'Chapter 6: Other Subjects'
+  slug: 7-chapter-6-other-subjects
+  uuid: 8e07fe9f-645f-47b6-a6ce-82d3a6d74bfa
+---

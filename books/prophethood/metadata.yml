@@ -1,0 +1,40 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/prophethood-sayyid-saeed-akhtar-rizvi
+author: Sayyid Saeed Akhtar Rizvi
+publisher: Bilal Muslim Mission of Tanzania
+title: Prophethood
+slug: prophethood
+uuid: e95c6c2a-be40-4bc3-8443-7ef6a86218df
+description: |
+  This short booklet discusses the essential nature of Nubuwwah
+  (Prophethood), why infallibility (ismah) is needed for such a position,
+  and follows this by sections on prophecies about the Holy Prophet and
+  the miracles of his prophethood.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/prophethood-sayyid-saeed-akhtar-rizvi/nubuwwah
+  title: Nubuwwah
+  slug: 1-nubuwwah
+  uuid: 272a7537-174a-4ba4-878e-29e51510cf02
+- source: :alislam
+  source_url: http://www.al-islam.org/prophethood-sayyid-saeed-akhtar-rizvi/ismat
+  title: Ismat
+  slug: 2-ismat
+  uuid: ba7e41c6-9f87-4850-8f8e-244202e834e7
+- source: :alislam
+  source_url: http://www.al-islam.org/prophethood-sayyid-saeed-akhtar-rizvi/prophecies-about-holy-prophet
+  title: Prophecies About The Holy Prophet
+  slug: 3-prophecies-about-the-holy-prophet
+  uuid: a9356499-3e37-45aa-bfa6-9251b169abf6
+- source: :alislam
+  source_url: http://www.al-islam.org/prophethood-sayyid-saeed-akhtar-rizvi/miracles
+  title: Miracles
+  slug: 4-miracles
+  uuid: 9334d4ef-24fe-4906-b248-a11516476157
+- source: :alislam
+  source_url: http://www.al-islam.org/prophethood-sayyid-saeed-akhtar-rizvi/conclusion
+  title: Conclusion
+  slug: 5-conclusion
+  uuid: ec95a999-1685-4625-a710-02166d082f06
+---

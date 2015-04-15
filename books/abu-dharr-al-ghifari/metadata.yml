@@ -1,0 +1,18 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/abu-dharr-al-ghifari-kamal-al-sayyid
+author: Kamal al-Sayyid
+publisher: Ansariyan Publications - Qum
+translator: Jasim al-Alyawy
+title: Abu Dharr al-Ghifari
+slug: abu-dharr-al-ghifari
+uuid: a0bf244f-2618-4a60-aab9-58c2835111fe
+description: |
+  Biography of the devoted companion of the Prophet (s).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-dharr-al-ghifari-kamal-al-sayyid/abu-dharr-al-ghifari
+  title: Abu Dharr al-Ghifari
+  slug: 1-abu-dharr-al-ghifari
+  uuid: d821327e-08e0-4340-a7aa-ccc51d58bb32
+---

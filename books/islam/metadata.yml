@@ -1,0 +1,47 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islam-sayyid-akhtar-rizvi
+author: Sayyid Saeed Akhtar Rizvi
+publisher: W.O.F.I.S. World Organization for Islamic Services
+title: Islam
+slug: islam
+uuid: 46b8c582-f72f-4b29-8c51-bb1b449d5b0b
+description: |
+  A transcript of a series of lectures on the fundamental roots of Islam.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-sayyid-akhtar-rizvi/foreword-sixth-edition
+  title: Foreword to the Sixth Edition
+  slug: 1-foreword-to-the-sixth-edition
+  uuid: 7de597b9-d57f-45e7-9295-81a3055667ae
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-sayyid-akhtar-rizvi/salient-features
+  title: Salient Features
+  slug: 2-salient-features
+  uuid: 6f1fe526-2f4d-419f-ba60-502955467373
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-sayyid-akhtar-rizvi/tawhid-unity-god
+  title: '"Tawhid", Unity Of God'
+  slug: 3-tawhid-unity-of-god
+  uuid: 3479eb76-fcc9-4a4d-a1b0-e6863dc3b0bc
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-sayyid-akhtar-rizvi/adl-justice-god
+  title: "'Adl , Justice Of God"
+  slug: 4-adl-justice-of-god
+  uuid: b8ba6807-8e2b-49fe-ac9e-e4681245c1fb
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-sayyid-akhtar-rizvi/imamah-imamate
+  title: Imamah, Imamate
+  slug: 5-imamah-imamate
+  uuid: 988abf64-98e6-4c4f-8eee-79b65f41a660
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-sayyid-akhtar-rizvi/qiyamah-day-judgment
+  title: Qiyamah, Day Of Judgment
+  slug: 6-qiyamah-day-of-judgment
+  uuid: 47942512-1f4e-497b-b02b-93765b286589
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-sayyid-akhtar-rizvi/branches-religion
+  title: Branches of Religion
+  slug: 7-branches-of-religion
+  uuid: 21f94c10-353b-46ee-b4ec-0215c969412e
+---

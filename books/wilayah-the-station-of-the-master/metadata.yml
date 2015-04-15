@@ -1,0 +1,51 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/wilayah-station-master-ayatullah-murtadha-mutahhari
+author: Ayatullah Murtadha Mutahhari
+publisher: World Organization for Islamic Services (WOFIS)
+translator: Yahya Cooper
+title: Wilayah, the Station of the Master
+slug: wilayah-the-station-of-the-master
+uuid: 3ee98ada-f0cd-4200-8925-8e45226e51b6
+description: |
+  This text is a detailed study of the different meanings of the word
+  Wilayah. The present translation is a very short example of the writing
+  of the late Murtadha Mutahhari, but it gives a taste of the broad scope
+  of his view of Islam and its dealings with every aspect of human life.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/wilayah-station-master-ayatullah-murtadha-mutahhari/publishers-foreword
+  title: Publisher's Foreword
+  slug: 1-publisher-s-foreword
+  uuid: 9ba2f33e-4a5f-44a3-ba98-64754ab93331
+- source: :alislam
+  source_url: http://www.al-islam.org/wilayah-station-master-ayatullah-murtadha-mutahhari/translators-foreword
+  title: Translator's Foreword
+  slug: 2-translator-s-foreword
+  uuid: 7622b327-98e8-4a87-accf-247f765152f6
+- source: :alislam
+  source_url: http://www.al-islam.org/wilayah-station-master-ayatullah-murtadha-mutahhari/word-wali
+  title: The Word "Wali"
+  slug: 3-the-word-wali
+  uuid: 955a1d59-7412-4299-8b11-a89866c20f43
+- source: :alislam
+  source_url: http://www.al-islam.org/wilayah-station-master-ayatullah-murtadha-mutahhari/wila-positive-sense-special-meaning
+  title: Wila' In A Positive Sense, With A Special Meaning
+  slug: 4-wila-in-a-positive-sense-with-a-special-meaning
+  uuid: c5e5995f-138d-4527-9f35-9f99c473a35b
+- source: :alislam
+  source_url: http://www.al-islam.org/wilayah-station-master-ayatullah-murtadha-mutahhari/what-does-nearness-allah-mean
+  title: What Does Nearness To Allah Mean?
+  slug: 5-what-does-nearness-to-allah-mean
+  uuid: 98d56f82-5112-4e4c-a5e9-5b4bf7c193b8
+- source: :alislam
+  source_url: http://www.al-islam.org/wilayah-station-master-ayatullah-murtadha-mutahhari/outward-life-and-life-meaning
+  title: The Outward Life And The Life Of Meaning
+  slug: 6-the-outward-life-and-the-life-of-meaning
+  uuid: b2672f8e-4173-48ab-8e0f-837253a434ea
+- source: :alislam
+  source_url: http://www.al-islam.org/wilayah-station-master-ayatullah-murtadha-mutahhari/human-servility-divine-sovereignty
+  title: From Human Servility To Divine Sovereignty
+  slug: 7-from-human-servility-to-divine-sovereignty
+  uuid: 719a571a-2470-431c-ae08-93315b284738
+---

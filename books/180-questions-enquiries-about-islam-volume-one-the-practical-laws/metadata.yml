@@ -1,0 +1,84 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/180-questions-about-islam-vol-1-practical-laws-makarim-shirazi
+author: Ayatullah al-`Uzma al-Hajj ash-Shaykh Nasir Makarim Shirazi
+publisher: The Islamic Education Board of the World Federation of Khoja Shia Ithna-Asheri
+  Muslim Communities
+compiler: Sayyid Husain Husaini
+translator: Shaykh Shahnawaz Mahdavi
+title: '180 Questions Enquiries About Islam Volume One: The Practical Laws'
+slug: 180-questions-enquiries-about-islam-volume-one-the-practical-laws
+uuid: 19d62f7e-c9b0-4e4f-9a77-4d88818cef43
+description: |
+  The first of three volumes containing detailed answers to inquiries
+  about the philosophical and historical aspects of certain rules in Islam
+  and prominent events that occurred during the life of the Prophet. These
+  inquiries were answered by Ayatullah al-'Uzma Hajj Shaykh Nasir Makarim
+  Shirazi, and translated into English by Shahnawaz Mahdavi.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/180-questions-about-islam-vol-1-practical-laws-makarim-shirazi/transliteration-table
+  title: Transliteration Table
+  slug: 1-transliteration-table
+  uuid: 45e34e90-799a-44fd-8589-965dea98eb88
+- source: :alislam
+  source_url: http://www.al-islam.org/180-questions-about-islam-vol-1-practical-laws-makarim-shirazi/few-words-about-book-ayatullah-al
+  title: A Few Words About This Book by Ayatullah Al-Uzma Makarim Shirazi
+  slug: 2-a-few-words-about-this-book-by-ayatullah-al-uzma-makarim-shirazi
+  uuid: 095ec235-55ce-4a85-8a7c-6338f76a8c0b
+- source: :alislam
+  source_url: http://www.al-islam.org/180-questions-about-islam-vol-1-practical-laws-makarim-shirazi/biography-author
+  title: Biography of the Author
+  slug: 3-biography-of-the-author
+  uuid: eb79d512-3981-4f9b-9f21-c9fa4ff9b8dc
+- source: :alislam
+  source_url: http://www.al-islam.org/180-questions-about-islam-vol-1-practical-laws-makarim-shirazi/introduction
+  title: Introduction
+  slug: 4-introduction
+  uuid: 04a22f7d-1992-45a5-8a9a-0b059a680210
+- source: :alislam
+  source_url: http://www.al-islam.org/180-questions-about-islam-vol-1-practical-laws-makarim-shirazi/prayers
+  title: The Prayers
+  slug: 5-the-prayers
+  uuid: 0d796ae1-36ea-4d45-ace1-16ba630dcf38
+- source: :alislam
+  source_url: http://www.al-islam.org/180-questions-about-islam-vol-1-practical-laws-makarim-shirazi/fasting
+  title: Fasting
+  slug: 6-fasting
+  uuid: d3201e8c-edaa-44fa-9086-614b5177f0da
+- source: :alislam
+  source_url: http://www.al-islam.org/180-questions-about-islam-vol-1-practical-laws-makarim-shirazi/khums
+  title: Khums
+  slug: 7-khums
+  uuid: 9c45dbe1-3325-4d7c-aa0b-1cee6f80f0b1
+- source: :alislam
+  source_url: http://www.al-islam.org/180-questions-about-islam-vol-1-practical-laws-makarim-shirazi/zakat
+  title: Zakat
+  slug: 8-zakat
+  uuid: 33d7618f-aeba-4147-8a4d-159cd3d45918
+- source: :alislam
+  source_url: http://www.al-islam.org/180-questions-about-islam-vol-1-practical-laws-makarim-shirazi/hajj
+  title: Hajj
+  slug: 9-hajj
+  uuid: 2abd34dd-7063-4149-9442-624319e1c384
+- source: :alislam
+  source_url: http://www.al-islam.org/180-questions-about-islam-vol-1-practical-laws-makarim-shirazi/jihad
+  title: Jihad
+  slug: 10-jihad
+  uuid: 8446d4ff-8656-4457-8210-bf49a94ec114
+- source: :alislam
+  source_url: http://www.al-islam.org/180-questions-about-islam-vol-1-practical-laws-makarim-shirazi/rights-women-islam
+  title: The Rights of Women In Islam
+  slug: 11-the-rights-of-women-in-islam
+  uuid: 03e89ca7-974c-4be9-bd06-32427c90e0fa
+- source: :alislam
+  source_url: http://www.al-islam.org/180-questions-about-islam-vol-1-practical-laws-makarim-shirazi/philosophy-behind-some-prohibited
+  title: Philosophy Behind Some of the Prohibited Acts of Islam
+  slug: 12-philosophy-behind-some-of-the-prohibited-acts-of-islam
+  uuid: 8450bf08-e623-4847-b952-bd8f123b59e0
+- source: :alislam
+  source_url: http://www.al-islam.org/180-questions-about-islam-vol-1-practical-laws-makarim-shirazi/noble-quran
+  title: The Noble Qur`an
+  slug: 13-the-noble-qur-an
+  uuid: 21583bb2-213d-4aeb-82b4-27fcca35a6c3
+---

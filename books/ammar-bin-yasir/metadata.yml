@@ -1,0 +1,18 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/ammar-bin-yasir-kamal-al-sayyid
+author: Kamal al-Sayyid
+publisher: Ansariyan Publications - Qum
+translator: Jasim al-Alyawy
+title: Ammar bin Yasir
+slug: ammar-bin-yasir
+uuid: a561e3f4-b868-479f-b09a-dd4a5e99b6ae
+description: |
+  Biography of the devoted companion of the Prophet (s).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/ammar-bin-yasir-kamal-al-sayyid/ammar-bin-yasir
+  title: Ammar bin Yasir
+  slug: 1-ammar-bin-yasir
+  uuid: 581abfc9-f34d-49f4-b454-856cac3bbff3
+---

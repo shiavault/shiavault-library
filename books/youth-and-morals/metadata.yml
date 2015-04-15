@@ -1,0 +1,104 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/youth-and-morals-sayyid-mujtaba-musavi-lari
+author: Sayyid Mujtaba Musavi Lari
+title: Youth and Morals
+slug: youth-and-morals
+uuid: ddb13cd6-377a-47ef-a458-d7521f156b96
+description: |
+  In this book, the author introduces some of the main issues affecting
+  man’s social life and how Islam deals with them. He explains how a
+  society wherein the individual and social ties are built on Islamic
+  values enjoys tranquility, comfort, and trust in all its aspects.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-morals-sayyid-mujtaba-musavi-lari/about-author
+  title: About the Author
+  slug: 1-about-the-author
+  uuid: ebc14edb-e6b8-4079-82b5-7c6abbe7a5a8
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-morals-sayyid-mujtaba-musavi-lari/foreword
+  title: Foreword
+  slug: 2-foreword
+  uuid: c87f5c41-f0f9-45af-beb9-f5f01fe5b7b0
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-morals-sayyid-mujtaba-musavi-lari/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: c61e9a5a-6e20-4259-b7a9-21498cf4b043
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-morals-sayyid-mujtaba-musavi-lari/ill-nature
+  title: Ill-Nature
+  slug: 4-ill-nature
+  uuid: 78c654b2-b894-472d-b8ca-fff005e35f3d
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-morals-sayyid-mujtaba-musavi-lari/optimism
+  title: Optimism
+  slug: 5-optimism
+  uuid: c389b4c8-0dd7-49be-92b2-156353ab4c41
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-morals-sayyid-mujtaba-musavi-lari/pessimism
+  title: Pessimism
+  slug: 6-pessimism
+  uuid: 16c1fcb5-0de6-447d-bc89-316a35213320
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-morals-sayyid-mujtaba-musavi-lari/lying
+  title: Lying
+  slug: 7-lying
+  uuid: a7140878-ae8c-4849-9439-87ac0409ebe1
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-morals-sayyid-mujtaba-musavi-lari/slander
+  title: Slander
+  slug: 8-slander
+  uuid: 0d8d0252-2424-4284-bbac-68162fe2e29c
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-morals-sayyid-mujtaba-musavi-lari/fault-finding
+  title: Fault-Finding
+  slug: 9-fault-finding
+  uuid: 7e8715c4-8b8a-4f5b-9065-5304db68cf15
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-morals-sayyid-mujtaba-musavi-lari/envy
+  title: Envy
+  slug: 10-envy
+  uuid: 03669bce-15eb-4b57-8cb1-8cd0d2d7eb33
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-morals-sayyid-mujtaba-musavi-lari/oppression
+  title: Oppression
+  slug: 11-oppression
+  uuid: 9a22bac0-996e-4203-a4ff-cc4b2f26b9c3
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-morals-sayyid-mujtaba-musavi-lari/enmity-and-hatred
+  title: Enmity and Hatred
+  slug: 12-enmity-and-hatred
+  uuid: 1ffd7f4b-18fb-46e2-bdd9-3b70c353b86b
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-morals-sayyid-mujtaba-musavi-lari/anger
+  title: Anger
+  slug: 13-anger
+  uuid: 50ab4010-66ef-4350-8b6f-221f813649f8
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-morals-sayyid-mujtaba-musavi-lari/breach-promise
+  title: Breach of Promise
+  slug: 14-breach-of-promise
+  uuid: 94c35834-377f-4bdc-9e34-fc61826e330e
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-morals-sayyid-mujtaba-musavi-lari/treachery
+  title: Treachery
+  slug: 15-treachery
+  uuid: 22900c37-98cd-4b6f-911d-a2c5a090f357
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-morals-sayyid-mujtaba-musavi-lari/miserliness
+  title: Miserliness
+  slug: 16-miserliness
+  uuid: d9520c2c-71f0-4779-9aff-bbe8366b20b4
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-morals-sayyid-mujtaba-musavi-lari/greed
+  title: Greed
+  slug: 17-greed
+  uuid: da0dddcb-8b23-4ead-b24c-668a7d313532
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-morals-sayyid-mujtaba-musavi-lari/disputing
+  title: Disputing
+  slug: 18-disputing
+  uuid: 64255bb9-3cdd-4b46-a6c3-55d8ab53a3e9
+---

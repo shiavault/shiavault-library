@@ -1,0 +1,47 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/tradition-of-mufaddal-pearls-of-wisdom-from-imam-jafar-as-sadiq
+author: N/A
+publisher: Bashir Alidina
+title: Tradition of Mufaddal
+slug: tradition-of-mufaddal
+uuid: 2fbc1eb3-e0e1-4945-a527-5a20ccf39d0e
+description: |
+  This text is the English translation of the Tradition of Mufaddal, as
+  narrated by his companion Mufaddal ibn \`Umar. Recorded by by 'Allamah
+  Majlisi (d. 1110 AH) in Bihar al-'Anwar, volume 3, page 57, chapter
+  (bab) 4, tradition (riwayah) no. 29. It describes the amazing ingenuity
+  the Almighty manifested in the universe, human beings, the animal
+  kingdom, nature and natural disasters.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/tradition-of-mufaddal-pearls-of-wisdom-from-imam-jafar-as-sadiq/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 814b7386-1fe1-4d1f-8579-7fe89f204650
+- source: :alislam
+  source_url: http://www.al-islam.org/tradition-of-mufaddal-pearls-of-wisdom-from-imam-jafar-as-sadiq/background
+  title: Background
+  slug: 2-background
+  uuid: a4480535-1728-4168-b039-a5362c73d403
+- source: :alislam
+  source_url: http://www.al-islam.org/tradition-of-mufaddal-pearls-of-wisdom-from-imam-jafar-as-sadiq/first-session-human-being
+  title: 'First Session: The Human Being'
+  slug: 3-first-session-the-human-being
+  uuid: 48276bba-eea4-444c-8433-8f246129f391
+- source: :alislam
+  source_url: http://www.al-islam.org/tradition-of-mufaddal-pearls-of-wisdom-from-imam-jafar-as-sadiq/second-session-animal-kingdom
+  title: Second Session - The Animal Kingdom
+  slug: 4-second-session-the-animal-kingdom
+  uuid: 3a127a10-7876-4b96-9863-4236310982b3
+- source: :alislam
+  source_url: http://www.al-islam.org/tradition-of-mufaddal-pearls-of-wisdom-from-imam-jafar-as-sadiq/third-session-environment
+  title: Third Session - The Environment
+  slug: 5-third-session-the-environment
+  uuid: 714abe63-9454-476f-ba93-688ef2571e57
+- source: :alislam
+  source_url: http://www.al-islam.org/tradition-of-mufaddal-pearls-of-wisdom-from-imam-jafar-as-sadiq/fourth-session-natural-disasters
+  title: Fourth Session - The Natural Disasters
+  slug: 6-fourth-session-the-natural-disasters
+  uuid: 4a74e4d1-599a-4dc8-aef2-1c27727668ff
+---

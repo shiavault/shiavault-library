@@ -1,0 +1,29 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/forty-hadith-noble-quran-majid-adili
+author: Majid 'Adili
+publisher: Islamic Education Board of the World Federation of KSIMC
+translator: Arifa HuddaShaykh Saleem Bhimji
+title: 'Forty Hadith: The Noble Qur''an'
+slug: forty-hadith-the-noble-qur-an
+uuid: f7bbc637-4a06-44c9-afe7-9a89a3c3e61c
+description: |
+  This text is a collection of forty ahadith about the Holy Quran from the
+  Fourteen Infallibles (as).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-noble-quran-majid-adili/supplication-which-should-be-read-reciting-noble-qur%E2%80%99
+  title: Supplication which should be read before reciting the Noble Qur’an
+  slug: 1-supplication-which-should-be-read-before-reciting-the-noble-qur-an
+  uuid: 73666613-81d8-412a-8580-976929a1bb16
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-noble-quran-majid-adili/ahadith-traditions
+  title: The Ahadith, The Traditions
+  slug: 2-the-ahadith-the-traditions
+  uuid: cb5afee1-e679-44a1-8710-d7834f837e8c
+- source: :alislam
+  source_url: http://www.al-islam.org/forty-hadith-noble-quran-majid-adili/supplication-which-should-be-read-after-reciting-noble-qur%E2%80%99
+  title: Supplication Which Should be Read After Reciting the Noble Qur’an
+  slug: 3-supplication-which-should-be-read-after-reciting-the-noble-qur-an
+  uuid: 1731f147-dd3b-4a20-a35e-b83a0d0b8d2f
+---

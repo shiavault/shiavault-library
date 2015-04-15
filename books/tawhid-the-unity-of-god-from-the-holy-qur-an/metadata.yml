@@ -1,0 +1,137 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran
+publisher: W.O.F.I.S. World Organization for Islamic Services
+title: Tawhid, The Unity of God from the Holy Qur'an
+slug: tawhid-the-unity-of-god-from-the-holy-qur-an
+uuid: ab49696d-b469-4d8f-b8ae-2fa437d4574d
+description: |
+  This booklet is a collection of verses from the Holy Quran on Tawhid,
+  The Unity of God.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/introduction-holy-quran
+  title: An Introduction to the Holy Qur'an
+  slug: 1-an-introduction-to-the-holy-qur-an
+  uuid: 993e6545-2708-4975-a170-0bd5c1e5095f
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/preface
+  title: Preface
+  slug: 2-preface
+  uuid: 21cc1314-e07c-43cd-a90a-b5f2a79b42bf
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/surah-al-ikhlas-n-112
+  title: Surah al-Ikhlas, n. 112
+  slug: 3-surah-al-ikhlas-n-112
+  uuid: d42adf51-1286-4225-b1c2-e2f0a97b7b48
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/surah-al-aala-n-87
+  title: Surah Al-A’ala, n. 87
+  slug: 4-surah-al-a-ala-n-87
+  uuid: eef1e692-06e6-4ebc-bf9a-1896ab032213
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/surah-al-anaam-n6
+  title: Surah al-An’aam, n.6
+  slug: 5-surah-al-an-aam-n-6
+  uuid: 9a21f1ae-b7a7-4677-b82b-570532c572ac
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/surah-taghabun-n64
+  title: Surah At-Taghabun, n.64
+  slug: 6-surah-at-taghabun-n-64
+  uuid: a14e2b9d-d3f5-4171-9e16-fb90b1f58d15
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/surah-al-qasas-n28
+  title: Surah Al-Qasas, n.28
+  slug: 7-surah-al-qasas-n-28
+  uuid: 12ba2214-b500-443c-b5c1-9ee4618c6aba
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/surah-al-saffat-n-37
+  title: Surah Al-Saffat, n. 37
+  slug: 8-surah-al-saffat-n-37
+  uuid: 809e8d1a-46b4-4953-8910-c125d78d8e1c
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/surah-al-baqarah-n2
+  title: Surah Al-Baqarah, n.2
+  slug: 9-surah-al-baqarah-n-2
+  uuid: 6b963a4b-3568-4e9f-a566-4ba3d37b9e31
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/surah-al-furqan-n27
+  title: Surah Al-Furqan, n.27
+  slug: 10-surah-al-furqan-n-27
+  uuid: ca3e1945-d422-489e-a12e-0f8b97cbd748
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/surah-al-imran-n3
+  title: Surah Al-Imran, n.3
+  slug: 11-surah-al-imran-n-3
+  uuid: fe89bfb3-1750-49d6-8fd4-64746cda3094
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/surah-al-maidah-n5
+  title: Surah Al-Maidah, n.5
+  slug: 12-surah-al-maidah-n-5
+  uuid: 1242ec4a-b5c0-460f-92e3-38106b798b35
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/surah-yunus-n10
+  title: Surah Yunus, n.10
+  slug: 13-surah-yunus-n-10
+  uuid: 91d03a11-e167-4ed8-af08-a80aeeda554b
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/surah-al-muminun-n23
+  title: Surah Al-Muminun, n.23
+  slug: 14-surah-al-muminun-n-23
+  uuid: e229c497-1ac4-4257-9c03-1f46bd7d82ef
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/surah-naml-n27
+  title: Surah An-Naml, n.27
+  slug: 15-surah-an-naml-n-27
+  uuid: 68ac294b-39c5-45d0-8d47-fd484266418c
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/surah-nahl-n16
+  title: Surah An-Nahl, n.16
+  slug: 16-surah-an-nahl-n-16
+  uuid: 4c077992-75a6-4502-b664-1ec17b78d048
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/surah-bani-israel-n17
+  title: Surah Bani-Israel, n.17
+  slug: 17-surah-bani-israel-n-17
+  uuid: 6fee2a20-b71c-4a56-99cb-c7f9a4d6db2d
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/surah-al-anbiya-n21
+  title: Surah Al-Anbiya, n.21
+  slug: 18-surah-al-anbiya-n-21
+  uuid: 2386bcf1-a804-46fe-a41a-c30b1ac4ef58
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/surah-al-ankabut-n29
+  title: Surah Al-Ankabut, n.29
+  slug: 19-surah-al-ankabut-n-29
+  uuid: f04a81a8-038d-4e4f-8a88-030522af2e15
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/surah-yunus-n10-0
+  title: Surah Yunus, n.10
+  slug: 20-surah-yunus-n-10
+  uuid: fc44c832-1e3f-48cc-ad54-42869b61fd29
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/surah-az-zumur-n39
+  title: Surah Az-Zumur, n.39
+  slug: 21-surah-az-zumur-n-39
+  uuid: 3c687c86-9e15-49c9-a61f-b87b16a775c7
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/sural-al-baqarah-n2
+  title: Sural Al-Baqarah, n.2
+  slug: 22-sural-al-baqarah-n-2
+  uuid: 100bbe46-641f-4331-86eb-63692db69386
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/surah-al-anam-n6
+  title: Surah Al-Anam, n.6
+  slug: 23-surah-al-anam-n-6
+  uuid: 4b917979-81e0-43c0-bf5b-202a0c8c7121
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/surah-ar-rad-n13
+  title: Surah Ar-Ra’d, n.13
+  slug: 24-surah-ar-ra-d-n-13
+  uuid: e5d52e4f-f23c-490b-8680-de0ff7020197
+- source: :alislam
+  source_url: http://www.al-islam.org/tawhid-unity-god-holy-quran/sural-al-hajj-n22
+  title: Sural Al-Hajj, n.22
+  slug: 25-sural-al-hajj-n-22
+  uuid: 8b1b38db-8ed5-4a1f-ade5-8729fade8d0c
+---

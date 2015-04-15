@@ -1,0 +1,114 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/what-do-you-know-about-islamic-economics-ayatullah-sayyid-muhammad-baqir-sadr
+author: Ayatullah Sayyid Muhammad Baqir As-Sadr
+translator: Yasin T. Al-Jibouri
+title: What do You Know about Islamic Economics?
+slug: what-do-you-know-about-islamic-economics
+uuid: 5167530f-73ee-46b9-9ec5-cfc2dced1667
+description: |
+  A short text about the nature of the Islamic economic system, its
+  distinction from Capitalism and Marxism, and the primary obstacles
+  encountered in its application to society today.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/what-do-you-know-about-islamic-economics-ayatullah-sayyid-muhammad-baqir-sadr/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 631bf7e9-2105-4ffc-9133-89ac12a0520a
+- source: :alislam
+  source_url: http://www.al-islam.org/what-do-you-know-about-islamic-economics-ayatullah-sayyid-muhammad-baqir-sadr/explaining-question
+  title: Explaining the Question
+  slug: 2-explaining-the-question
+  uuid: 95f4ec2e-9b43-4322-9a9c-e24293e9d5b2
+- source: :alislam
+  source_url: http://www.al-islam.org/what-do-you-know-about-islamic-economics-ayatullah-sayyid-muhammad-baqir-sadr/our-need-raising
+  title: Our Need for Raising the Question
+  slug: 3-our-need-for-raising-the-question
+  uuid: e00149ab-b030-48df-a56d-5b3a9949e600
+- source: :alislam
+  source_url: http://www.al-islam.org/what-do-you-know-about-islamic-economics-ayatullah-sayyid-muhammad-baqir-sadr/misunderstanding
+  title: Misunderstanding the Question
+  slug: 4-misunderstanding-the-question
+  uuid: 099ea40e-ef03-4113-9128-99a6165b323e
+- source: :alislam
+  source_url: http://www.al-islam.org/what-do-you-know-about-islamic-economics-ayatullah-sayyid-muhammad-baqir-sadr/how-distinguish
+  title: How to Distinguish Between the Doctrine and Science
+  slug: 5-how-to-distinguish-between-the-doctrine-and-science
+  uuid: 1a4318cd-2f98-4c30-b44b-c2278973ea1b
+- source: :alislam
+  source_url: http://www.al-islam.org/what-do-you-know-about-islamic-economics-ayatullah-sayyid-muhammad-baqir-sadr/example-difference
+  title: Example for the Difference between Doctrine and Science
+  slug: 6-example-for-the-difference-between-doctrine-and-science
+  uuid: a28cc227-d1f0-413d-8321-ae615913b892
+- source: :alislam
+  source_url: http://www.al-islam.org/what-do-you-know-about-islamic-economics-ayatullah-sayyid-muhammad-baqir-sadr/emphasizing-islamic
+  title: Emphasizing that Islamic Economics Comprise a Doctrine
+  slug: 7-emphasizing-that-islamic-economics-comprise-a-doctrine
+  uuid: 93ddc744-06cf-4db3-9865-aacb7ddb472d
+- source: :alislam
+  source_url: http://www.al-islam.org/what-do-you-know-about-islamic-economics-ayatullah-sayyid-muhammad-baqir-sadr/there-economic-system
+  title: Is There an Economic System in Islam?
+  slug: 8-is-there-an-economic-system-in-islam
+  uuid: 7909cb3b-1af3-47b8-ad2d-075d2428446e
+- source: :alislam
+  source_url: http://www.al-islam.org/what-do-you-know-about-islamic-economics-ayatullah-sayyid-muhammad-baqir-sadr/what-sort-islamic
+  title: What Sort of Islamic Economic System is it?
+  slug: 9-what-sort-of-islamic-economic-system-is-it
+  uuid: b4eadc3f-f65e-4c30-a0e8-2520ad1898f1
+- source: :alislam
+  source_url: http://www.al-islam.org/what-do-you-know-about-islamic-economics-ayatullah-sayyid-muhammad-baqir-sadr/economic-doctrine-and
+  title: Economic Doctrine and the Science of Economics
+  slug: 10-economic-doctrine-and-the-science-of-economics
+  uuid: 1a916ab9-b04f-42d1-9087-5bd0fe487418
+- source: :alislam
+  source_url: http://www.al-islam.org/what-do-you-know-about-islamic-economics-ayatullah-sayyid-muhammad-baqir-sadr/science-economics-and
+  title: 'Science of Economics and Doctrine: History and Ethics'
+  slug: 11-science-of-economics-and-doctrine-history-and-ethics
+  uuid: 77f7439e-428c-4013-9276-1c4d547f850b
+- source: :alislam
+  source_url: http://www.al-islam.org/what-do-you-know-about-islamic-economics-ayatullah-sayyid-muhammad-baqir-sadr/doctrine-may-be
+  title: Doctrine may be a Framework for Science
+  slug: 12-doctrine-may-be-a-framework-for-science
+  uuid: faa29fa6-ce62-4db5-8582-1677b5b52dc7
+- source: :alislam
+  source_url: http://www.al-islam.org/what-do-you-know-about-islamic-economics-ayatullah-sayyid-muhammad-baqir-sadr/derived-conclusions
+  title: Derived Conclusions
+  slug: 13-derived-conclusions
+  uuid: f2692e97-4e39-4310-8bac-d50bc94963c4
+- source: :alislam
+  source_url: http://www.al-islam.org/what-do-you-know-about-islamic-economics-ayatullah-sayyid-muhammad-baqir-sadr/doctrine-does-not
+  title: Doctrine does not Apply Scientific Methods
+  slug: 14-doctrine-does-not-apply-scientific-methods
+  uuid: 1fd9dedc-7653-437a-8bc1-8637d122e790
+- source: :alislam
+  source_url: http://www.al-islam.org/what-do-you-know-about-islamic-economics-ayatullah-sayyid-muhammad-baqir-sadr/islamic-economic
+  title: The Islamic Economic System We Advocate
+  slug: 15-the-islamic-economic-system-we-advocate
+  uuid: 8737cf58-8bbc-4717-b1fb-4e403318627d
+- source: :alislam
+  source_url: http://www.al-islam.org/what-do-you-know-about-islamic-economics-ayatullah-sayyid-muhammad-baqir-sadr/what-are-greatest
+  title: What are the Greatest Obstacles?
+  slug: 16-what-are-the-greatest-obstacles
+  uuid: 6511df89-7faa-40da-9244-27cb99d30d37
+- source: :alislam
+  source_url: http://www.al-islam.org/what-do-you-know-about-islamic-economics-ayatullah-sayyid-muhammad-baqir-sadr/inclusion-and
+  title: Inclusion and Absorption of Shari’a
+  slug: 17-inclusion-and-absorption-of-shari-a
+  uuid: df5c50f4-f050-43ef-898b-875d2f7f6439
+- source: :alislam
+  source_url: http://www.al-islam.org/what-do-you-know-about-islamic-economics-ayatullah-sayyid-muhammad-baqir-sadr/doctrines-need-molding
+  title: Doctrines Need Molding
+  slug: 18-doctrines-need-molding
+  uuid: 6fa564c9-81b0-41cc-8ae8-c6a628205f56
+- source: :alislam
+  source_url: http://www.al-islam.org/what-do-you-know-about-islamic-economics-ayatullah-sayyid-muhammad-baqir-sadr/ethics-islamic
+  title: Ethics of Islamic Economics
+  slug: 19-ethics-of-islamic-economics
+  uuid: 2b82e57a-9e45-4afb-8858-dec8908e2e2e
+- source: :alislam
+  source_url: http://www.al-islam.org/what-do-you-know-about-islamic-economics-ayatullah-sayyid-muhammad-baqir-sadr/conclusion-what-do
+  title: 'Conclusion: What do Islamic Economics Lack?'
+  slug: 20-conclusion-what-do-islamic-economics-lack
+  uuid: 627cf49a-0ef2-4cda-8406-31a92dd59cfe
+---

@@ -1,0 +1,99 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/story-of-the-holy-kaaba-and-its-people-shabbar
+author: S.M.R. Shabbar
+publisher: Muhammadi Trust of Great Britain
+title: Story of the Holy Ka’aba
+slug: story-of-the-holy-ka-aba
+uuid: 39d8a1f7-95ad-4d85-8e5c-a6dab537e4fe
+description: |
+  A detailed history of the Ka'ba, and each of the 14 Ma'sumin
+  (Infallibles).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/story-of-the-holy-kaaba-and-its-people-shabbar/short-history-muhammadi-trust
+  title: A Short History of the Muhammadi Trust
+  slug: 1-a-short-history-of-the-muhammadi-trust
+  uuid: 7391d1a5-7733-4783-8bf8-4047b5308892
+- source: :alislam
+  source_url: http://www.al-islam.org/story-of-the-holy-kaaba-and-its-people-shabbar/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: e70d0dd5-68a1-463f-a6a8-677dfde85a70
+- source: :alislam
+  source_url: http://www.al-islam.org/story-of-the-holy-kaaba-and-its-people-shabbar/kaaba-house-allah
+  title: The Ka’aba, The House Of Allah
+  slug: 3-the-ka-aba-the-house-of-allah
+  uuid: a8c96fba-021e-44d2-a252-fbecdf17076b
+- source: :alislam
+  source_url: http://www.al-islam.org/story-of-the-holy-kaaba-and-its-people-shabbar/muhammad-messenger-allah
+  title: Muhammad (S) The Messenger of Allah
+  slug: 4-muhammad-s-the-messenger-of-allah
+  uuid: aa18ffe4-9e36-40d7-bdcf-7ab625d1aa7c
+- source: :alislam
+  source_url: http://www.al-islam.org/story-of-the-holy-kaaba-and-its-people-shabbar/story-hazrat-fatima-daughter-holy-prophet
+  title: The Story of Hazrat Fatima (sa), daughter of the Holy Prophet
+  slug: 5-the-story-of-hazrat-fatima-sa-daughter-of-the-holy-prophet
+  uuid: 77f65e5c-8c78-42ad-abc0-b76326ee09e9
+- source: :alislam
+  source_url: http://www.al-islam.org/story-of-the-holy-kaaba-and-its-people-shabbar/first-imam-ali-ibn-abu-talib
+  title: The First Imam, ‘Ali (as) Ibn Abu Talib
+  slug: 6-the-first-imam-ali-as-ibn-abu-talib
+  uuid: 1490388d-85ed-4dc8-add7-2a01af59655c
+- source: :alislam
+  source_url: http://www.al-islam.org/story-of-the-holy-kaaba-and-its-people-shabbar/second-imam-al-hasan
+  title: The Second Imam, al-Hasan (as)
+  slug: 7-the-second-imam-al-hasan-as
+  uuid: f0a8f058-0aae-436f-9553-2828103dce63
+- source: :alislam
+  source_url: http://www.al-islam.org/story-of-the-holy-kaaba-and-its-people-shabbar/third-imam-husayn-ibn-ali
+  title: The Third Imam, Husayn Ibn ‘Ali (as)
+  slug: 8-the-third-imam-husayn-ibn-ali-as
+  uuid: a2a0632f-044c-48c1-ba5d-df9b382aafa1
+- source: :alislam
+  source_url: http://www.al-islam.org/story-of-the-holy-kaaba-and-its-people-shabbar/fourth-imam-ali-ibn-al-husayn-zainul-abedeen
+  title: The Fourth Imam, ‘Ali Ibn Al Husayn, Zainul Abedeen (as)
+  slug: 9-the-fourth-imam-ali-ibn-al-husayn-zainul-abedeen-as
+  uuid: 3f89235c-9641-4108-8054-2f575cd1faca
+- source: :alislam
+  source_url: http://www.al-islam.org/story-of-the-holy-kaaba-and-its-people-shabbar/fifth-imam-muhammad-ibn-ali-al-baqir
+  title: The Fifth Imam, Muhammad Ibn ‘Ali al-Baqir (as)
+  slug: 10-the-fifth-imam-muhammad-ibn-ali-al-baqir-as
+  uuid: 29bc88b9-3136-4f79-b78d-0e8701e84605
+- source: :alislam
+  source_url: http://www.al-islam.org/story-of-the-holy-kaaba-and-its-people-shabbar/sixth-imam-jafar-ibn-muhammad-sadiq
+  title: The Sixth Imam, Ja’far Ibn Muhammad As-Sadiq (as)
+  slug: 11-the-sixth-imam-ja-far-ibn-muhammad-as-sadiq-as
+  uuid: 546792af-e71f-4bfd-8ea5-55cae43210c3
+- source: :alislam
+  source_url: http://www.al-islam.org/story-of-the-holy-kaaba-and-its-people-shabbar/seventh-imam-musa-ibn-jafar-al-kazim
+  title: The Seventh Imam Musa Ibn Ja’far Al-Kazim (as)
+  slug: 12-the-seventh-imam-musa-ibn-ja-far-al-kazim-as
+  uuid: c13b931c-b062-41ec-a3e9-99540ea2676f
+- source: :alislam
+  source_url: http://www.al-islam.org/story-of-the-holy-kaaba-and-its-people-shabbar/eighth-imam-ali-ibn-musa-al-ridha
+  title: The eighth Imam, ‘Ali Ibn Musa, Al-Ridha’ (as)
+  slug: 13-the-eighth-imam-ali-ibn-musa-al-ridha-as
+  uuid: a90c146a-0554-4823-9411-76493644678a
+- source: :alislam
+  source_url: http://www.al-islam.org/story-of-the-holy-kaaba-and-its-people-shabbar/ninth-imam-muhammad-ibn-ali-al-taqi-al-jawad
+  title: The Ninth Imam, Muhammad ibn ‘Ali al Taqi al Jawad (as)
+  slug: 14-the-ninth-imam-muhammad-ibn-ali-al-taqi-al-jawad-as
+  uuid: d7da2924-27b4-4dda-b8a2-0a9e36855d38
+- source: :alislam
+  source_url: http://www.al-islam.org/story-of-the-holy-kaaba-and-its-people-shabbar/tenth-imam-ali-ibn-muhammad-al-naqi-al-hadi
+  title: The Tenth Imam, ‘Ali Ibn Muhammad (Al-Naqi, Al-Hadi) (as)
+  slug: 15-the-tenth-imam-ali-ibn-muhammad-al-naqi-al-hadi-as
+  uuid: e21cafab-c961-4144-a75d-67730b7e46ba
+- source: :alislam
+  source_url: http://www.al-islam.org/story-of-the-holy-kaaba-and-its-people-shabbar/eleventh-imam-hasan-ibn-ali-al-askari
+  title: The Eleventh Imam, Hasan ibn ‘Ali (al-Askari) (as)
+  slug: 16-the-eleventh-imam-hasan-ibn-ali-al-askari-as
+  uuid: 7e7a7193-d8bf-42e4-a53e-5d112993140d
+- source: :alislam
+  source_url: http://www.al-islam.org/story-of-the-holy-kaaba-and-its-people-shabbar/twelfth-imam-muhammad-ibn-al-hasan-al-mahdi
+  title: The Twelfth Imam, Muhammad ibn al-Hasan (Al-Mahdi-Sahibuz Zaman) (as) (The
+    hidden Imam who is expected to return)
+  slug: 17-the-twelfth-imam-muhammad-ibn-al-hasan-al-mahdi-sahibuz-zaman-as-the-hidden-imam-who-is-expected-to-return
+  uuid: c7437041-731a-4fe1-9d34-59e2ad379e69
+---

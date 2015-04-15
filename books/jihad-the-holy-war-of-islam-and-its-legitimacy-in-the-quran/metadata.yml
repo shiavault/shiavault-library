@@ -1,0 +1,40 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/jihad-holy-war-islam-and-its-legitimacy-quran-ayatullah-murtadha-mutahhari
+author: Ayatullah Murtadha Mutahhari
+publisher: The  Islamic Propagation Organization
+translator: Mohammad Salman Tawhidi
+title: Jihad The Holy War of Islam and Its Legitimacy in the Quran
+slug: jihad-the-holy-war-of-islam-and-its-legitimacy-in-the-quran
+uuid: 23da8224-3c0e-4f43-8193-3b5c6f2301be
+description: |
+  Includes verses in the Qur'an that address Jihad (struggle in the way of
+  God), legitimacy of Jihad, Islam and Peace, Defense vs. aggression, and
+  human rights.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/jihad-holy-war-islam-and-its-legitimacy-quran-ayatullah-murtadha-mutahhari/publishers-note
+  title: Publisher's Note
+  slug: 1-publisher-s-note
+  uuid: 1823e365-7662-4b43-8d22-35bb15630177
+- source: :alislam
+  source_url: http://www.al-islam.org/jihad-holy-war-islam-and-its-legitimacy-quran-ayatullah-murtadha-mutahhari/lecture-one-questions
+  title: 'Lecture one: Questions about Jihad'
+  slug: 2-lecture-one-questions-about-jihad
+  uuid: 3995b8f6-c718-4849-84ae-b9f07cf08d4a
+- source: :alislam
+  source_url: http://www.al-islam.org/jihad-holy-war-islam-and-its-legitimacy-quran-ayatullah-murtadha-mutahhari/lecture-two-defence-or
+  title: 'Lecture Two: Defence or Aggression'
+  slug: 3-lecture-two-defence-or-aggression
+  uuid: d89f356c-5420-4721-9408-617fc601b2d2
+- source: :alislam
+  source_url: http://www.al-islam.org/jihad-holy-war-islam-and-its-legitimacy-quran-ayatullah-murtadha-mutahhari/lecture-three-defence
+  title: 'Lecture Three: Defence, The Quiddity of Jihad'
+  slug: 4-lecture-three-defence-the-quiddity-of-jihad
+  uuid: 93612663-c6c6-4fb0-8bb1-07f004a3f40d
+- source: :alislam
+  source_url: http://www.al-islam.org/jihad-holy-war-islam-and-its-legitimacy-quran-ayatullah-murtadha-mutahhari/lecture-four-question
+  title: 'Lecture Four: The Question of Abrogation'
+  slug: 5-lecture-four-the-question-of-abrogation
+  uuid: cedc19d2-489e-4988-8ee9-678bee1dadfe
+---

@@ -1,0 +1,153 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri
+author: Mohamad Jawad Chirri
+publisher: The Islamic Center of America
+title: Inquiries about Islam
+slug: inquiries-about-islam
+uuid: 9711480d-6839-4b3c-b385-70b8ff254449
+description: |
+  An exchange of letters that took place between the Muslim scholar, Imam
+  Mohamad Jawad Chirri, and Dr. Wilson H. Guertin, that led Dr. Guertin to
+  accept Islam. Writes Dr. Guertin: "If you are a Muslim, read this book
+  out of the obligation to acquire knowledge. If you are a Jew or
+  Christian, read it for the same devout motive. Comparative study of
+  religions may be unsettling if your belief in God is based upon
+  non-rational grounds but can only have the ultimately desired result of
+  strengthening your belief. The pervasive belief in God as represented in
+  our motives must be the goal which our religious educators work toward,
+  with gains in sectarian support becoming quite secondary... If you are
+  unable to say that you believe in God, you can still find value in the
+  study of religion. In the following pages of dialogue, you will be
+  pursuing some of the most important concerns of mankind that can be
+  traced back to the beginning of recorded history. The thoughts and
+  historical events are important in their own right, and perhaps you
+  will, as I have, find the way to a belief in God through them."
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: 042acd6b-dab6-403b-91b7-5cb4fc22b4aa
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/about-author
+  title: About the Author
+  slug: 2-about-the-author
+  uuid: 36311690-49db-46b7-aab1-a0042dc79e4b
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/foreword
+  title: Foreword
+  slug: 3-foreword
+  uuid: a7941916-6906-4c80-86a8-f2a0924c52b2
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/preface
+  title: Preface
+  slug: 4-preface
+  uuid: 040159d3-67c1-41d3-bebe-ae4901f39641
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/freedom-discussion-islam
+  title: Freedom of Discussion in Islam
+  slug: 5-freedom-of-discussion-in-islam
+  uuid: 3d4637b6-f640-45fe-9bab-0cc98d37dcad
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/definition-islam
+  title: Definition of Islam
+  slug: 6-definition-of-islam
+  uuid: bbba5fff-5633-4a02-836c-29667df6f40a
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/why-islam-popular
+  title: Why Is Islam Popular?
+  slug: 7-why-is-islam-popular
+  uuid: 3b215f8b-d010-4aa6-8db0-675aa0902a47
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/how-islam-views-universal-creation
+  title: How Islam Views the Universal Creation
+  slug: 8-how-islam-views-the-universal-creation
+  uuid: e0305a0d-8b6d-4ca4-93bc-4253dff167c9
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/creator-universe
+  title: The Creator of the Universe
+  slug: 9-the-creator-of-the-universe
+  uuid: cc1f4e99-c55c-44e1-8bc9-c86e9b5f8d06
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/one-creator
+  title: One Creator
+  slug: 10-one-creator
+  uuid: c5463957-8504-4f64-8be6-849304ebd915
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/where-islam-and-christianity-agree-and-differ-jesus
+  title: Where Islam and Christianity Agree and Differ on Jesus
+  slug: 11-where-islam-and-christianity-agree-and-differ-on-jesus
+  uuid: 4ddd8748-4471-4752-9237-937e4098a66b
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/divine-justice
+  title: Divine Justice
+  slug: 12-divine-justice
+  uuid: bb818e2b-51c4-4738-82b4-4f28462cdc86
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/freedom-versus-predestination
+  title: Freedom versus Predestination
+  slug: 13-freedom-versus-predestination
+  uuid: d584f08a-f4d2-4a1f-bb88-2601c6aec7d3
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/light-history-prophethood
+  title: A Light on the History of the Prophethood
+  slug: 14-a-light-on-the-history-of-the-prophethood
+  uuid: e877221c-58eb-4e87-b003-db672102e0c4
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/why-do-we-need-prophets
+  title: Why Do We Need Prophets?
+  slug: 15-why-do-we-need-prophets
+  uuid: 42811f63-d111-475b-89ea-dc2be2166ba4
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/prophet-muhammad
+  title: The Prophet Muhammad
+  slug: 16-the-prophet-muhammad
+  uuid: 794980d1-d048-49de-8611-3de0aa58b900
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/more-evidence-his-prophethood-predictions-dealing-future
+  title: 'More Evidence on His Prophethood: Predictions Dealing with the Future of
+    the Qur''an'
+  slug: 17-more-evidence-on-his-prophethood-predictions-dealing-with-the-future-of-the-qur-an
+  uuid: ac198087-0794-4727-93b9-87d920b2f2b8
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/more-evidence-forecasting-future-islam
+  title: 'More Evidence: Forecasting the Future of Islam'
+  slug: 18-more-evidence-forecasting-the-future-of-islam
+  uuid: 0af400bc-c1d5-4a31-9380-15df7d5b9e77
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/information-about-future-prophet-and-prophethood
+  title: Information About the Future of the Prophet and the Prophethood
+  slug: 19-information-about-the-future-of-the-prophet-and-the-prophethood
+  uuid: 12d8de1a-a88b-4f2d-b5f7-fa68ddb1820b
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/prediction-christian-triumph
+  title: Prediction of a Christian Triumph
+  slug: 20-prediction-of-a-christian-triumph
+  uuid: 358a5653-4432-4027-baca-7494509e8678
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/more-evidence-revealing-unknown-facts
+  title: 'More Evidence: Revealing Unknown Facts'
+  slug: 21-more-evidence-revealing-unknown-facts
+  uuid: 20d9790f-fd16-4379-8f0f-d1da4f362f20
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/bible-testifies-muhammad
+  title: The Bible Testifies for Muhammad
+  slug: 22-the-bible-testifies-for-muhammad
+  uuid: 76f55b96-4160-4a46-8547-96801bf71cb9
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/hereafter
+  title: The Hereafter
+  slug: 23-the-hereafter
+  uuid: d2e2234e-2dd7-45e5-b309-11b4df31f0f7
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/commandments-or-prohibitions-islam
+  title: The Commandments or Prohibitions in Islam
+  slug: 24-the-commandments-or-prohibitions-in-islam
+  uuid: 9e93a2ff-4911-45c1-81e0-e279343b73fd
+- source: :alislam
+  source_url: http://www.al-islam.org/inquiries-about-islam-mohamad-jawad-chirri/difference-among-muslims
+  title: Difference Among Muslims
+  slug: 25-difference-among-muslims
+  uuid: 412d6ad2-4aac-4d11-9622-dd0c9f68b6c4
+---

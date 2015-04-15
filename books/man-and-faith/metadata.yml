@@ -1,0 +1,45 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/man-and-faith-ayatullah-murtadha-mutahhari
+author: Ayatullah Murtadha Mutahhari
+publisher: Ansariyan Publications - Qum
+title: Man and Faith
+slug: man-and-faith
+uuid: ed6eb9b2-1ef8-4bfd-9b78-b26a640874a7
+description: |
+  This text authored by Martyr Ayatullah Murtadha Mutahhari aims to shed
+  light on the relationships between man and animal, knowledge and faith,
+  and explain the distinctions of religious faith, kinds of ideologies,
+  and where Islam stands in that respect.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/man-and-faith-ayatullah-murtadha-mutahhari/chapter-1-man-and-animals
+  title: 'Chapter 1: Man and Animals'
+  slug: 1-chapter-1-man-and-animals
+  uuid: a45dee85-a4a8-48ea-8b3e-6c565182b527
+- source: :alislam
+  source_url: http://www.al-islam.org/man-and-faith-ayatullah-murtadha-mutahhari/chapter-2-knowledge-and-faith
+  title: 'Chapter 2: Knowledge and Faith'
+  slug: 2-chapter-2-knowledge-and-faith
+  uuid: 15c42067-da5a-48db-9afa-a9e0b18e5f6a
+- source: :alislam
+  source_url: http://www.al-islam.org/man-and-faith-ayatullah-murtadha-mutahhari/chapter-3-religious-faith
+  title: 'Chapter 3: Religious Faith'
+  slug: 3-chapter-3-religious-faith
+  uuid: c8dd0a3d-bb19-4566-99f2-f23a44470679
+- source: :alislam
+  source_url: http://www.al-islam.org/man-and-faith-ayatullah-murtadha-mutahhari/chapter-4-school-thought-or-ideology
+  title: 'Chapter 4: School of Thought or Ideology'
+  slug: 4-chapter-4-school-of-thought-or-ideology
+  uuid: c82ab05f-5c4b-402d-8582-31506d800118
+- source: :alislam
+  source_url: http://www.al-islam.org/man-and-faith-ayatullah-murtadha-mutahhari/chapter-5-islam-comprehensive-school
+  title: 'Chapter 5: Islam - A Comprehensive School'
+  slug: 5-chapter-5-islam-a-comprehensive-school
+  uuid: 89d1e6b4-1729-4760-91ec-0cef0595b556
+- source: :alislam
+  source_url: http://www.al-islam.org/man-and-faith-ayatullah-murtadha-mutahhari/chapter-6-sources-thoughts-islam
+  title: 'Chapter 6: Sources of Thoughts in Islam'
+  slug: 6-chapter-6-sources-of-thoughts-in-islam
+  uuid: e7cbff91-2a9a-4652-80c2-2b293773624c
+---

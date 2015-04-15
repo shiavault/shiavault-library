@@ -1,0 +1,366 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi
+author: Ayatullah al-`Uzma al-Hajj ash-Shaykh Nasir Makarim Shirazi
+translator: Bahador Shirazian
+title: The Rites of Hajj, Practical Treatise and Rules
+slug: the-rites-of-hajj-practical-treatise-and-rules
+uuid: e2a88833-d52b-43ea-82cc-25f5044ad112
+description: |
+  This book discusses the important of Hajj, one of the obligatory pillars
+  in Islam. The secrets, conditions of necessity, different types of Hajj
+  as well as conditions of Hajj al-Tamattu' are thoroughly discussed along
+  with its rules and regulations.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/importance-hajj-islam
+  title: Importance of Hajj in Islam
+  slug: 1-importance-of-hajj-in-islam
+  uuid: a021e457-cb5e-4090-bda2-37fa3040e10c
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/secrets-hajj
+  title: Secrets of the Hajj
+  slug: 2-secrets-of-the-hajj
+  uuid: 63740bd3-6404-4f98-bede-55f0550c3b7f
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/conditions-necessity-hajj
+  title: Conditions of Necessity of Hajj
+  slug: 3-conditions-of-necessity-of-hajj
+  uuid: c5be8daf-2d5e-4b46-9edc-ace2ee4822c9
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/mustahab-hajj
+  title: Mustahab Hajj
+  slug: 4-mustahab-hajj
+  uuid: 3e32fee8-40c6-44d3-a9e8-b3c61abab6aa
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/hajj-proxy
+  title: Hajj by Proxy
+  slug: 5-hajj-by-proxy
+  uuid: 6598edf5-04aa-495a-9f69-89e916b18f58
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/hajj-nazr-offering-make-spiritual-vow
+  title: Hajj of Nazr (an offering; to make a spiritual vow)
+  slug: 6-hajj-of-nazr-an-offering-to-make-a-spiritual-vow
+  uuid: 6d64580b-3072-4675-8464-20aec7fafaa9
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/kinds-hajj
+  title: Kinds of Hajj
+  slug: 7-kinds-of-hajj
+  uuid: 3bd25cf3-6c17-4243-b597-47f9b7e2269f
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/framework-hajj-al-tamattu
+  title: Framework of Hajj al-Tamattu’
+  slug: 8-framework-of-hajj-al-tamattu
+  uuid: 2bc19eac-78ee-4ee3-bb9d-65de483b3cfb
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/conditions-hajj-al-tamattu
+  title: Conditions of Hajj al-Tamattu’
+  slug: 9-conditions-of-hajj-al-tamattu
+  uuid: d14abb76-efce-4e29-bf48-a6c97937146e
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/miqats-stated-places-ihram-preparing
+  title: Miqats (stated places) of Ihram (preparing to perform Hajj)
+  slug: 10-miqats-stated-places-of-ihram-preparing-to-perform-hajj
+  uuid: 7402b003-e68e-4d03-b8eb-b1ee2e6c2d87
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/rulings-miqats
+  title: Rulings of Miqats
+  slug: 11-rulings-of-miqats
+  uuid: 334ff9f2-b336-4aae-87a1-94b51f26cdb5
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/process-ihram
+  title: Process of Ihram
+  slug: 12-process-of-ihram
+  uuid: 7552d07c-a411-4d57-8f63-78406301625f
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/acts-are-haraam-state-ihram
+  title: Acts that are Haraam in the state of Ihram
+  slug: 13-acts-that-are-haraam-in-the-state-of-ihram
+  uuid: de73713d-4e5f-4ad4-add5-3cf93eb14ebb
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/1-wearing-sewed-clothing
+  title: 1. Wearing Sewed Clothing
+  slug: 14-1-wearing-sewed-clothing
+  uuid: cb5952fe-7009-4242-aeb6-a970af444f31
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/2wearing-thing-which-covers-all-top
+  title: 2.Wearing a thing which covers all top of the foot (shoes and socks)
+  slug: 15-2-wearing-a-thing-which-covers-all-top-of-the-foot-shoes-and-socks
+  uuid: 1ec229ac-3801-47fb-a04b-8463b86f7f1c
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/3-covering-head-men
+  title: 3. Covering the Head for Men
+  slug: 16-3-covering-the-head-for-men
+  uuid: a9024075-cfde-4727-95ab-a6ab2f0a68fb
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/4-covering-face-women
+  title: 4. Covering the face for Women
+  slug: 17-4-covering-the-face-for-women
+  uuid: 084bfc6d-87ee-432a-9fcc-4f61649f756c
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/5-wearing-ornaments
+  title: 5. Wearing Ornaments
+  slug: 18-5-wearing-ornaments
+  uuid: b35b1e16-ff77-44ad-8a3e-b9f2439a689e
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/6-applying-mascara-or-kohl
+  title: 6. Applying Mascara or Kohl
+  slug: 19-6-applying-mascara-or-kohl
+  uuid: b01268e3-78ac-4ecc-bb64-940f24ecd68f
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/7-looking-mirror
+  title: 7. Looking at the Mirror
+  slug: 20-7-looking-at-the-mirror
+  uuid: 62ee5a03-c8c6-4dbc-9c93-046896ce2dd2
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/8-using-fragrance
+  title: 8. Using Fragrance
+  slug: 21-8-using-fragrance
+  uuid: a65db951-bae2-4b35-84ef-3eb185e7dff8
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/9-applying-oils-body
+  title: 9. Applying Oils on the Body
+  slug: 22-9-applying-oils-on-the-body
+  uuid: 28dfcf9b-2593-40fd-8ddc-4e394eedaeda
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/10-cutting-nails
+  title: 10. Cutting the Nails
+  slug: 23-10-cutting-the-nails
+  uuid: 5e30a967-96ea-4f0c-9a8b-1fd89fe662ce
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/11-going-under-shade-during-travel
+  title: 11. Going under the shade during travel
+  slug: 24-11-going-under-the-shade-during-travel
+  uuid: 7c08dc38-f97e-401c-818d-cf588a39640a
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/12-removing-hair-body
+  title: 12. Removing hair from the body
+  slug: 25-12-removing-hair-from-the-body
+  uuid: fbfb9ca3-a624-41a2-aee0-9f19018bb27a
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/13-performing-marriage
+  title: 13. Performing Marriage
+  slug: 26-13-performing-marriage
+  uuid: 843c054e-8d7c-403b-a7ed-5c1593a14baa
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/14-15-16-looking-touching-kissing
+  title: 14, 15 & 16. Looking, Touching & Kissing
+  slug: 27-14-15-16-looking-touching-kissing
+  uuid: 0721653a-3c5d-4eb3-bfb0-1d49cc78d94b
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/17-sexual-intercourse
+  title: 17. Sexual Intercourse
+  slug: 28-17-sexual-intercourse
+  uuid: 7c941b5e-e9f5-469a-989c-b2e1625614c9
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/18-masturbation
+  title: 18. Masturbation
+  slug: 29-18-masturbation
+  uuid: e68064fe-a3be-4aa2-9f1c-9031ef1c73c4
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/19-killing-insects
+  title: 19. Killing Insects
+  slug: 30-19-killing-insects
+  uuid: 48bbc9d9-66a1-42da-a00f-1a1f8a45b447
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/20-extracting-blood-body
+  title: 20. Extracting blood from the body
+  slug: 31-20-extracting-blood-from-the-body
+  uuid: 0e48bd26-7220-42fb-83aa-f3909b5a4994
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/21-tooth-extraction
+  title: 21. Tooth extraction
+  slug: 32-21-tooth-extraction
+  uuid: e5aea21d-bcfc-421a-9875-6f7cc5877b02
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/22-telling-lies-insulting-and-priding
+  title: 22. Telling Lies, Insulting and Priding
+  slug: 33-22-telling-lies-insulting-and-priding
+  uuid: 809457cd-7c9f-409e-b329-5f1200519324
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/23-disputing-and-fighting
+  title: 23. Disputing and Fighting
+  slug: 34-23-disputing-and-fighting
+  uuid: 7ad2589c-ce71-41fe-bff2-bf87be56edbb
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/24-huting-desert-animals
+  title: 24. Huting desert animals
+  slug: 35-24-huting-desert-animals
+  uuid: 855070c5-de3d-4628-b568-93b3f2b36cf3
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/25-carrying-weapons
+  title: 25. Carrying weapons
+  slug: 36-25-carrying-weapons
+  uuid: 88e06328-048c-40a2-b389-f21b9be852f3
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/26-atonements-ihram
+  title: 26. Atonements of Ihram
+  slug: 37-26-atonements-of-ihram
+  uuid: 18b63f3c-237e-4203-80aa-a4e946621290
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/tawaf
+  title: Tawaf
+  slug: 38-tawaf
+  uuid: 797c98b7-b854-4236-a7a7-0616fa6efd4b
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/obligatory-acts-tawaf
+  title: Obligatory acts of Tawaf
+  slug: 39-obligatory-acts-of-tawaf
+  uuid: 6cfc5af2-73be-4cd9-821a-f31243eb0e6f
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/rulings-tawaf
+  title: Rulings of Tawaf
+  slug: 40-rulings-of-tawaf
+  uuid: 12a628b8-a40e-4b5d-99f2-159becc84db8
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/reducing-or-increasing-tawaf
+  title: Reducing or Increasing Tawaf
+  slug: 41-reducing-or-increasing-tawaf
+  uuid: 4dc6f61d-f609-4867-8aa7-e423ad7460ff
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/doubt-amount-tawaf
+  title: Doubt in Amount of Tawaf
+  slug: 42-doubt-in-amount-of-tawaf
+  uuid: accb884d-8b56-49c6-9ea9-5ed35a2cd4e6
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/prayer-tawaf
+  title: Prayer of Tawaf
+  slug: 43-prayer-of-tawaf
+  uuid: cfc0f84a-0450-405a-af59-48bbfa785939
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/mustahab-tawafs
+  title: Mustahab Tawafs
+  slug: 44-mustahab-tawafs
+  uuid: 0ce694e8-5ac1-42e4-b835-1e3db23fa033
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/say-safa-and-marwah
+  title: Sa’y of Safa and Marwah
+  slug: 45-sa-y-of-safa-and-marwah
+  uuid: 0a21b81b-9a0d-422c-b933-343a56f3c2d2
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/obligatory-acts-say
+  title: Obligatory Acts of Sa’y
+  slug: 46-obligatory-acts-of-sa-y
+  uuid: 893b16c4-c3d2-45ef-8307-db290935f7cc
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/mustahab-acts-say
+  title: Mustahab Acts of Sa’y
+  slug: 47-mustahab-acts-of-sa-y
+  uuid: d5199c5b-774f-4599-b91c-4ab345a94034
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/taqsir
+  title: Taqsir
+  slug: 48-taqsir
+  uuid: 178c20fa-2079-4cf2-8287-43721b0fa4e9
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/hajj-al-tamattu
+  title: Hajj al-Tamattu
+  slug: 49-hajj-al-tamattu
+  uuid: a819493d-f845-4593-a836-8a8858684a85
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/wearing-ihram-mecca
+  title: Wearing Ihram from Mecca
+  slug: 50-wearing-ihram-from-mecca
+  uuid: 4c084018-242f-464b-9025-73bafed9c459
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/wuquf-arafat
+  title: Wuquf in Arafat
+  slug: 51-wuquf-in-arafat
+  uuid: 7b996af6-6a86-446d-bc89-7f0473fbec3b
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/wuquf-mashar-al-haraam
+  title: Wuquf in Mash’ar al-Haraam
+  slug: 52-wuquf-in-mash-ar-al-haraam
+  uuid: a91d7f7f-3728-4dc0-a9ce-4342d2f59725
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/rulings-wuquf-arafat-and-mashar
+  title: Rulings of Wuquf in Arafat and Mash’ar
+  slug: 53-rulings-of-wuquf-in-arafat-and-mash-ar
+  uuid: 5e6fa8cb-95df-40dc-b4bf-9bbec7fee832
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/ramy-al-jamarah-al-aqaba
+  title: Ramy al-Jamarah al-Aqaba
+  slug: 54-ramy-al-jamarah-al-aqaba
+  uuid: 7c6424c8-7dff-480a-a4cc-9a87b319b0ed
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/sacrifice
+  title: Sacrifice
+  slug: 55-sacrifice
+  uuid: ad58e120-4edc-4a10-be49-143a47806285
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/taqsir-0
+  title: Taqsir
+  slug: 56-taqsir
+  uuid: 1f61cb61-8ce1-414e-843d-f1c8afad60e3
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/quintet-obligatory-acts-mecca
+  title: Quintet Obligatory Acts of Mecca
+  slug: 57-quintet-obligatory-acts-of-mecca
+  uuid: 0bee146b-abde-4277-8a9c-a977ea328340
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/staying-night-mena-baytuta-mena
+  title: Staying the Night in Mena (Baytuta in Mena)
+  slug: 58-staying-the-night-in-mena-baytuta-in-mena
+  uuid: 68efe2f3-f0fe-4307-973d-a47a9ad28514
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/ramy-al-jamarat-eleventh-and-twelfth
+  title: Ramy al-Jamarat in the Eleventh and Twelfth Days
+  slug: 59-ramy-al-jamarat-in-the-eleventh-and-twelfth-days
+  uuid: 46fa50d4-130d-4d05-957b-a5d3f43e64b2
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/masdood-and-mahsoor-people-who-have
+  title: Masdood and Mahsoor (People who have been prevented from performing ritual
+    of Hajj or Umrah because of an Obstacle)
+  slug: 60-masdood-and-mahsoor-people-who-have-been-prevented-from-performing-ritual-of-hajj-or-umrah-because-of-an-obstacle
+  uuid: 97d0ee5f-8c5f-4b53-a47f-b96169a1a883
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/miscellaneous-issues-hajj
+  title: Miscellaneous Issues of Hajj
+  slug: 61-miscellaneous-issues-of-hajj
+  uuid: dba4e3bd-f4e7-4cc3-a331-dda22c80dbc4
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/umrah-al-mufradah
+  title: Umrah al-Mufradah
+  slug: 62-umrah-al-mufradah
+  uuid: 914c2dc3-a365-4d13-8aba-c096f35c39f0
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/important-issues-may-happen-hajj-and
+  title: Important Issues That May Happen in Hajj and Umrah
+  slug: 63-important-issues-that-may-happen-in-hajj-and-umrah
+  uuid: 1c718e4e-6272-49d1-8b58-2cae21119cd9
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/rites-and-mustahab-acts-hajj-and-umrah
+  title: The Rites and Mustahab Acts of Hajj and Umrah
+  slug: 64-the-rites-and-mustahab-acts-of-hajj-and-umrah
+  uuid: 7ba4abe7-3baa-4cd5-8c9f-9560ae190eb1
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/mustahab-acts-ihram
+  title: Mustahab acts of Ihram
+  slug: 65-mustahab-acts-of-ihram
+  uuid: d31812eb-ff6c-4749-87af-f189f199ddfb
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/mustahab-acts-entering-haram
+  title: Mustahab Acts of Entering the Haram
+  slug: 66-mustahab-acts-of-entering-the-haram
+  uuid: 6c12eeb8-a0d4-45dc-a6c4-34d946086e26
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/mustahab-acts-entering-great-mecca
+  title: Mustahab Acts of Entering the Great Mecca
+  slug: 67-mustahab-acts-of-entering-the-great-mecca
+  uuid: 3c7a3136-b462-499e-adde-4be454425928
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/rites-masjid-al-haraam-and-great-mecca
+  title: Rites of Masjid al-Haraam and Great Mecca
+  slug: 68-rites-of-masjid-al-haraam-and-great-mecca
+  uuid: 19f1238c-f394-4ba2-8a07-3ced73f610f7
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/mustahab-acts-sacrifice-are-follows
+  title: Mustahab acts of sacrifice are as follows
+  slug: 69-mustahab-acts-of-sacrifice-are-as-follows
+  uuid: 3007a724-066e-4a55-a60a-db63ea991f6f
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-hajj-practical-treatise-and-rules-nasir-makarim-shirazi/questions-and-answers
+  title: Questions and Answers
+  slug: 70-questions-and-answers
+  uuid: dc296d47-44ba-40b8-99bb-0f5321de5527
+---

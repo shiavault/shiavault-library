@@ -1,0 +1,40 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/perspectives-concept-love-islam-mahnaz-heydarpoor
+author: Mahnaz Heydarpoor
+publisher: Ansariyan Publications - Qum
+title: Perspectives on the Concept of Love in Islam
+slug: perspectives-on-the-concept-of-love-in-islam
+uuid: 03fb16eb-1c3f-4f78-9435-67e8e97f0b8a
+description: |
+  This work is an introduction to the subject of love. It covers on the
+  significance and the doctrinal foundations of love in Islam, both Divine
+  love (for Himself, for all beings and for mankind) and human love (for
+  God and for fellow humans).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/perspectives-concept-love-islam-mahnaz-heydarpoor/introduction-author
+  title: Introduction by the Author
+  slug: 1-introduction-by-the-author
+  uuid: cf738aa2-1a49-49bc-a16c-c9ff2ed8fcf6
+- source: :alislam
+  source_url: http://www.al-islam.org/perspectives-concept-love-islam-mahnaz-heydarpoor/divine-love
+  title: Divine Love
+  slug: 2-divine-love
+  uuid: 06d7d0b2-5fe0-454d-ae79-130adc84307c
+- source: :alislam
+  source_url: http://www.al-islam.org/perspectives-concept-love-islam-mahnaz-heydarpoor/human-love
+  title: Human Love
+  slug: 3-human-love
+  uuid: ab1da0ea-81c3-43cb-ae65-8daaf37042ca
+- source: :alislam
+  source_url: http://www.al-islam.org/perspectives-concept-love-islam-mahnaz-heydarpoor/conclusion
+  title: Conclusion
+  slug: 4-conclusion
+  uuid: 2e75c550-fbe0-4c92-a4c9-bb705162d68d
+- source: :alislam
+  source_url: http://www.al-islam.org/perspectives-concept-love-islam-mahnaz-heydarpoor/selected-bibliography
+  title: Selected Bibliography
+  slug: 5-selected-bibliography
+  uuid: 66ed1c62-ea15-4617-97c1-f45b168c6f6d
+---

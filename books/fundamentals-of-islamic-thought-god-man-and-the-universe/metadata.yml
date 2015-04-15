@@ -1,0 +1,40 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/fundamentals-islamic-thought-god-man-and-universe-ayatullah-murtadha-mutahhari
+author: Ayatullah Murtadha Mutahhari
+translator: R. Campbell
+title: 'Fundamentals of Islamic Thought: God, Man and the Universe'
+slug: fundamentals-of-islamic-thought-god-man-and-the-universe
+uuid: 5b9380bc-6019-49aa-9b09-e6bbe8c5be53
+description: |
+  In this text Ayatullah Mutahhari discusses Islamic thought on topics
+  such as "Man & Faith", “The Worldview of Tawhid”, “Philosophy” &
+  "Spiritualism" to clarify matters and resolve problems and
+  contradictions as no other system of thought can.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/fundamentals-islamic-thought-god-man-and-universe-ayatullah-murtadha-mutahhari/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 1a7a9a9b-44ca-4e0e-ae2e-786f9d7bc812
+- source: :alislam
+  source_url: http://www.al-islam.org/fundamentals-islamic-thought-god-man-and-universe-ayatullah-murtadha-mutahhari/man-and-faith
+  title: Man and Faith
+  slug: 2-man-and-faith
+  uuid: 0e756d43-5ba5-4703-8903-b2a77e17bd9d
+- source: :alislam
+  source_url: http://www.al-islam.org/fundamentals-islamic-thought-god-man-and-universe-ayatullah-murtadha-mutahhari/world-view-tawhid
+  title: The World View of Tawhid
+  slug: 3-the-world-view-of-tawhid
+  uuid: 2f944cce-32d6-4f45-8269-3e5851ace949
+- source: :alislam
+  source_url: http://www.al-islam.org/fundamentals-islamic-thought-god-man-and-universe-ayatullah-murtadha-mutahhari/philosophy
+  title: Philosophy
+  slug: 4-philosophy
+  uuid: 9992176b-4e39-415c-8988-1dc66a915fb1
+- source: :alislam
+  source_url: http://www.al-islam.org/fundamentals-islamic-thought-god-man-and-universe-ayatullah-murtadha-mutahhari/spirit-matter-and
+  title: Spirit, Matter, and Life
+  slug: 5-spirit-matter-and-life
+  uuid: 08db9dd2-7a40-465e-94f4-1c19c36e8564
+---

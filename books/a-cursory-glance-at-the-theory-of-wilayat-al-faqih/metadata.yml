@@ -1,0 +1,74 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/cursory-glance-theory-wilayat-al-faqih-misbah-yazdi
+author: Ayatullah Muhammad Taqi Misbah Yazdi
+publisher: Ahlul Bayt World Assembly
+translator: Mansoor L. Limba
+title: A Cursory Glance at the Theory of Wilayat al-Faqih
+slug: a-cursory-glance-at-the-theory-of-wilayat-al-faqih
+uuid: 7c415e09-a841-4dd3-95f2-f0a3a85bc1fb
+description: |
+  This work contains a number of speeches, articles, books, and
+  question-and-answer sessions of the erudite professor, Haḍrat Ayatullah
+  Muhammad Taqi Misbah Yazdi (may his sublime presence endure), which have
+  been compiled, edited and published by the author on the subject of
+  Wilayat al-Faqih. We believe that in the current status of our society,
+  wilayat al-faqih constitutes the central pillar of Islam, and its safety
+  contributes to the splendor of Islam and Islamic laws and values in the
+  society. As such, we have decided to elucidate this theory, support it
+  academically and logically, and enlighten the general public,
+  particularly the young generation of our country who probably know very
+  little about this theory and its ramifications, and thus discharge a
+  small part of our religious duty. Likewise, we have tried to deal with
+  all the aspects of this theory to address the subjects which we find
+  significant and controversial. However, things like the brevity of
+  content and the readers’ patience and the time that they have been taken
+  into account as far as possible.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/cursory-glance-theory-wilayat-al-faqih-misbah-yazdi/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 518f50e7-11c9-43e8-abed-785170a32beb
+- source: :alislam
+  source_url: http://www.al-islam.org/cursory-glance-theory-wilayat-al-faqih-misbah-yazdi/preface
+  title: Preface
+  slug: 2-preface
+  uuid: e6b1fc22-8610-4299-9636-aa9cb890c46f
+- source: :alislam
+  source_url: http://www.al-islam.org/cursory-glance-theory-wilayat-al-faqih-misbah-yazdi/chapter-1-wilayat-al-faqih-exigency-presuppositions
+  title: 'Chapter 1: Wilayat al-Faqih, Exigency and Presuppositions'
+  slug: 3-chapter-1-wilayat-al-faqih-exigency-and-presuppositions
+  uuid: 4e123614-b9bd-4f4d-a2bc-4aedf84eca03
+- source: :alislam
+  source_url: http://www.al-islam.org/cursory-glance-theory-wilayat-al-faqih-misbah-yazdi/chapter-2-relationship-between-religion-and
+  title: 'Chapter 2: The Relationship between Religion and Politics'
+  slug: 4-chapter-2-the-relationship-between-religion-and-politics
+  uuid: 6dc0fe0c-d9cd-477e-8d01-332ea938aa3e
+- source: :alislam
+  source_url: http://www.al-islam.org/cursory-glance-theory-wilayat-al-faqih-misbah-yazdi/chapter-3-role-people-islamic-government
+  title: 'Chapter 3: The Role of the People in the Islamic Government'
+  slug: 5-chapter-3-the-role-of-the-people-in-the-islamic-government
+  uuid: 50afdc52-671d-4c9e-a9ef-4128fc11e179
+- source: :alislam
+  source_url: http://www.al-islam.org/cursory-glance-theory-wilayat-al-faqih-misbah-yazdi/chapter-4-arguments-wilayat-al-faqih
+  title: 'Chapter 4: Arguments for Wilayat al-Faqih'
+  slug: 6-chapter-4-arguments-for-wilayat-al-faqih
+  uuid: a2d5376f-f350-4f4a-8a3e-8146bbf68612
+- source: :alislam
+  source_url: http://www.al-islam.org/cursory-glance-theory-wilayat-al-faqih-misbah-yazdi/chapter-5-concept-absolute-guardianship-jurist
+  title: 'Chapter 5: The Concept of Absolute Guardianship of the Jurist [Wilayat al-Faqih
+    al-Mutlaqah]'
+  slug: 7-chapter-5-the-concept-of-absolute-guardianship-of-the-jurist-wilayat-al-faqih-al-mutlaqah
+  uuid: 4b88f302-ea99-46e8-bfa0-ab9d2a5f8a6d
+- source: :alislam
+  source_url: http://www.al-islam.org/cursory-glance-theory-wilayat-al-faqih-misbah-yazdi/chapter-6-assembly-experts-and-wilayat-al-faqih
+  title: 'Chapter 6: The Assembly of Experts and Wilayat al-Faqih'
+  slug: 8-chapter-6-the-assembly-of-experts-and-wilayat-al-faqih
+  uuid: cdd5c4b2-b06c-45e8-8d78-5c3b70870630
+- source: :alislam
+  source_url: http://www.al-islam.org/cursory-glance-theory-wilayat-al-faqih-misbah-yazdi/index
+  title: Index
+  slug: 9-index
+  uuid: 1ba1f24a-88d2-4a11-b230-6573ab21a394
+---

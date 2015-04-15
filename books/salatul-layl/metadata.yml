@@ -1,0 +1,55 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/salatul-layl-h-t-kassamali
+author: H. & T. Kassamali
+publisher: Tayyiba Publishers & Distributors
+title: Salatul Layl
+slug: salatul-layl
+uuid: 93184143-5270-4cfa-9dc7-1653b9c5c95d
+description: |
+  Qur'anic verses and ahadith on the merits of reciting Salatul Layl.
+  Includes method of recitation along with Arabic and English along with a
+  rich collection of basic and additional supplications given to us by the
+  Ahlul Bayt (a) that can be recited along with the prayer itself.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/salatul-layl-h-t-kassamali/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 3c6fb697-d9fd-4040-8947-2d14c807d265
+- source: :alislam
+  source_url: http://www.al-islam.org/salatul-layl-h-t-kassamali/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 3749bf50-8179-433c-87c9-2504e138426a
+- source: :alislam
+  source_url: http://www.al-islam.org/salatul-layl-h-t-kassamali/holy-qur%E2%80%99-salatul-layl
+  title: Holy Qur’an on Salatul Layl
+  slug: 3-holy-qur-an-on-salatul-layl
+  uuid: 135946b6-fb18-4fa5-aa7e-136602cada3e
+- source: :alislam
+  source_url: http://www.al-islam.org/salatul-layl-h-t-kassamali/hadith-salatul-layl
+  title: Hadith on Salatul Layl
+  slug: 4-hadith-on-salatul-layl
+  uuid: 16215547-347a-4ba5-94a9-5d865d267651
+- source: :alislam
+  source_url: http://www.al-islam.org/salatul-layl-h-t-kassamali/salatul-layl
+  title: Salatul Layl
+  slug: 5-salatul-layl
+  uuid: 7414efe1-22cc-43ae-919f-c29a277432a3
+- source: :alislam
+  source_url: http://www.al-islam.org/salatul-layl-h-t-kassamali/basic-du%E2%80%99
+  title: Basic Du’as
+  slug: 6-basic-du-as
+  uuid: b70f5ded-3bd3-494f-8215-98aff1003d9d
+- source: :alislam
+  source_url: http://www.al-islam.org/salatul-layl-h-t-kassamali/additional-du%E2%80%99
+  title: Additional  Du’as
+  slug: 7-additional-du-as
+  uuid: e812bbd1-b7ce-4e5f-a397-38f2c2b6c355
+- source: :alislam
+  source_url: http://www.al-islam.org/salatul-layl-h-t-kassamali/bibliography
+  title: Bibliography
+  slug: 8-bibliography
+  uuid: 4eec0112-8b81-4235-942f-06cd748c078d
+---

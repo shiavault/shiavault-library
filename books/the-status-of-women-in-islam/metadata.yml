@@ -1,0 +1,34 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/status-women-islam
+author: Ayatullah Muhammad Taqi Misbah YazdiMuhammad Jawad BahonarLois Lamya al-Faruqi
+publisher: Islamic Propagation Organization
+title: The Status of Women in Islam
+slug: the-status-of-women-in-islam
+uuid: 72f9dba7-cbdd-4184-957d-57fae22fe214
+description: |
+  This book What is a series of three articles which, based on Quranic
+  statements, claim that the question of the system of rights for women in
+  the home as well as in society should once again be assessed.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/status-women-islam/publishers-note
+  title: Publisher's Note
+  slug: 1-publisher-s-note
+  uuid: cfbe656c-a85c-497b-9fe5-f123c1656e44
+- source: :alislam
+  source_url: http://www.al-islam.org/status-women-islam/women-or-half-body-society
+  title: Women or Half of the Body of Society
+  slug: 2-women-or-half-of-the-body-of-society
+  uuid: f6c05b96-6da0-4ebe-9754-933931871364
+- source: :alislam
+  source_url: http://www.al-islam.org/status-women-islam/islam-and-womens-rights
+  title: Islam and Women's Rights
+  slug: 3-islam-and-women-s-rights
+  uuid: 526bb0e2-700e-4b6c-a2d0-e57aba6b79a9
+- source: :alislam
+  source_url: http://www.al-islam.org/status-women-islam/women-quranic-society
+  title: Women in A Qur'anic Society
+  slug: 4-women-in-a-qur-anic-society
+  uuid: 14129434-ffb1-4001-98e4-1e58b89c0fb3
+---

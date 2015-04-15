@@ -1,0 +1,21 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/fraternity-and-cooperation-in-islam-wofis
+publisher: W.O.F.I.S. World Organization for Islamic Services
+title: Fraternity and Cooperation in Islam
+slug: fraternity-and-cooperation-in-islam
+uuid: a33e886d-b191-4c52-a0ff-c9dece16fa22
+description: |
+  The importance of brotherhood in Islam.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/fraternity-and-cooperation-in-islam-wofis/fraternity-islam
+  title: Fraternity in Islam
+  slug: 1-fraternity-in-islam
+  uuid: dfe90706-63d8-41a6-8d5d-7a1affdcc872
+- source: :alislam
+  source_url: http://www.al-islam.org/fraternity-and-cooperation-in-islam-wofis/cooperation-muwasaat-islam
+  title: Cooperation (Muwasaat) In Islam
+  slug: 2-cooperation-muwasaat-in-islam
+  uuid: 1b80c39f-253f-4f0a-a45d-c55835d061a3
+---

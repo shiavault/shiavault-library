@@ -1,0 +1,179 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib
+author: Alhaj Mahmud & Zehra Habib
+title: Your Personal Guide to Hajj Umrah Ziyarat
+slug: your-personal-guide-to-hajj-umrah-ziyarat
+uuid: 20e064d9-5813-4d3d-b829-98f7d456a7b6
+description: |
+  Useful guide for those making pilgrimage. Includes suggestions for
+  books, hotels, flights, transportation, visa, as well as a health guide,
+  maps, laws and practices, supplications and salutations, information
+  about cities, and even a shopping guide.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: fae50ad4-10b6-4f85-bf2f-a0c4dccb7526
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/recommended-books
+  title: Recommended Books
+  slug: 2-recommended-books
+  uuid: 996916b6-5d44-4034-af49-ea225d1f26e1
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/hotels
+  title: Hotels
+  slug: 3-hotels
+  uuid: 3ecea475-953b-4825-a5b4-9f870bb37ad0
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/embassies-visas
+  title: Embassies for Visas
+  slug: 4-embassies-for-visas
+  uuid: ac672375-2fd3-4ff1-b739-bb33275a7cc0
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/flights-umra-hajj
+  title: Flights for Umra & Hajj
+  slug: 5-flights-for-umra-hajj
+  uuid: 906a8e62-be38-4f8a-9c99-13d984997000
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/health-guide
+  title: Health Guide
+  slug: 6-health-guide
+  uuid: 17c0a58f-3d40-4af1-9c1d-491cf018bfed
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/other-useful-information
+  title: Other Useful Information
+  slug: 7-other-useful-information
+  uuid: 19dbabb7-cb57-492c-a7be-98db3f13523e
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/meeqat
+  title: Meeqat
+  slug: 8-meeqat
+  uuid: c2b48e57-3caf-4056-8ef5-f1ffc6d0f6df
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/items-take-your-umra-trip
+  title: Items to take with on Your Umra Trip
+  slug: 9-items-to-take-with-on-your-umra-trip
+  uuid: a67c1b9f-f6ac-479f-924d-e9c5db974683
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/masjid-al-nabawee
+  title: Masjid al-Nabawee
+  slug: 10-masjid-al-nabawee
+  uuid: cbb39543-5d7f-4049-824a-7296cd64d5d5
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/pillars-masjid-al-nabawee
+  title: Pillars in Masjid al-Nabawee
+  slug: 11-pillars-in-masjid-al-nabawee
+  uuid: 35bad120-e619-4a76-b5b2-ff3fe3391aa3
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/jannatul-baquee
+  title: Jannatul Baquee
+  slug: 12-jannatul-baquee
+  uuid: 730c6519-b886-4634-ae87-18514081a101
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/outside-ziyarat
+  title: Outside Ziyarat
+  slug: 13-outside-ziyarat
+  uuid: 243333be-ff85-4dc7-947f-f49b962285a4
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/umra-al-mufradah
+  title: Umra al-Mufradah
+  slug: 14-umra-al-mufradah
+  uuid: 4317f358-9bd1-474b-86e0-23e6abebb5e0
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/makkah
+  title: Makkah
+  slug: 15-makkah
+  uuid: d1c0e40e-f538-4692-9c56-516bef0daead
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/ziyarats-around-makkah
+  title: Ziyarats in & Around Makkah
+  slug: 16-ziyarats-in-around-makkah
+  uuid: 3b7d606f-0cf7-4016-9237-d14f3742a108
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/hajj-al-tul-islam
+  title: Hajj al-Tul Islam
+  slug: 17-hajj-al-tul-islam
+  uuid: 18a2d40e-de52-405a-8724-4d8d8d422ed8
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/requirement-when-applying-hajj-visa
+  title: Requirement When Applying For Hajj Visa
+  slug: 18-requirement-when-applying-for-hajj-visa
+  uuid: c23aadf5-abba-4685-a8fa-1917e1f97773
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/items-take-hajje-tul-islam
+  title: Items to Take for Hajje-Tul Islam
+  slug: 19-items-to-take-for-hajje-tul-islam
+  uuid: d00859a8-5c2d-4752-aca2-189ede466773
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/hajje-tul-islam
+  title: Hajje-tul-Islam
+  slug: 20-hajje-tul-islam
+  uuid: 8ff1c6db-0795-4ce6-aa92-a3aa29aa36ad
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/umrah-al-tamattu%E2%80%99
+  title: Umrah al-Tamattu’
+  slug: 21-umrah-al-tamattu
+  uuid: 74939d68-5973-4391-9a3c-742bac6b06b9
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/hajj-al-tamattu%E2%80%99
+  title: Hajj al-Tamattu’
+  slug: 22-hajj-al-tamattu
+  uuid: a86fc0b3-1689-44e8-8407-78e6428de09f
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/ziyarat-medina
+  title: The Ziyarat of Medina
+  slug: 23-the-ziyarat-of-medina
+  uuid: 1793b4b4-af6c-4bb1-a2af-1401d709d837
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/du%E2%80%99-entering-masjid-ul-haraam
+  title: Du’a for Entering Masjid-ul-Haraam
+  slug: 24-du-a-for-entering-masjid-ul-haraam
+  uuid: cdc09e7e-b91c-49ed-8003-5c050471eea3
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/a%E2%80%99amal-al-arafah-%E2%80%93-imam-husayn
+  title: A’amal al-Arafah – By Imam Husayn A.S.
+  slug: 25-a-amal-al-arafah-by-imam-husayn-a-s
+  uuid: b0d5f91e-1f15-413a-85e1-6f892427a0bb
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/namaz-al-shab
+  title: Namaz al-Shab
+  slug: 26-namaz-al-shab
+  uuid: b85d3586-ae55-42f2-b481-aab5cb494fdc
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/ziyarat-shaam
+  title: Ziyarat of Shaam
+  slug: 27-ziyarat-of-shaam
+  uuid: ace90348-36cc-4cb6-babd-07d35f134668
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/ziyarat-iran
+  title: Ziyarat of Iran
+  slug: 28-ziyarat-of-iran
+  uuid: b067e89d-b95c-4cae-ac1c-61b57b532e60
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/amman-jordan
+  title: Amman - Jordan
+  slug: 29-amman-jordan
+  uuid: 46bcc493-bfff-44f2-8d89-0033758e7d31
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/ammanbaitul-muqaddas
+  title: Amman/Baitul-Muqaddas
+  slug: 30-amman-baitul-muqaddas
+  uuid: 70798af1-9aa5-4874-b577-ff09a99f4aa0
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/bait-ul-muqaddas
+  title: Bait-ul-Muqaddas
+  slug: 31-bait-ul-muqaddas
+  uuid: 3f6fec6d-c0f0-420d-9ddc-4b6468d0ed72
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/ziyarat-iraq
+  title: Ziyarat of Iraq
+  slug: 32-ziyarat-of-iraq
+  uuid: 01ed4642-e33a-4f99-8124-c9d00df889e7
+- source: :alislam
+  source_url: http://www.al-islam.org/your-personal-guide-hajj-umrah-ziyarat-alhaj-mahmud-zehra-habib/shopping-guide-middle-east
+  title: Shopping Guide in the Middle East
+  slug: 33-shopping-guide-in-the-middle-east
+  uuid: 23bac90c-7bf1-4b14-8596-a6c30c0dd1f5
+---

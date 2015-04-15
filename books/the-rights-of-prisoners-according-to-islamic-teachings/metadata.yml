@@ -1,0 +1,50 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/rights-prisoners-islamic-teachings-sayyid-muhammad-sadiq-al-shirazi
+author: Sayyid Muhammad Sadiq Al Shirazi
+publisher: CreateSpace Independent Publishing Platform
+title: The Rights of Prisoners According To Islamic Teachings
+slug: the-rights-of-prisoners-according-to-islamic-teachings
+uuid: 05c183b6-49e1-4bda-ba3a-89c89de11a17
+description: |
+  This book is on the issues of imprisonment and related matters, the
+  author discusses in some details the disadvantages of imprisonments and
+  its harmful effects, and therefore the need to reduce the number of
+  prisoners to a minimum, and eventually to eliminate prisons altogether.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/rights-prisoners-islamic-teachings-sayyid-muhammad-sadiq-al-shirazi/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 16148206-042a-49a3-8de9-d0ddcd23d4aa
+- source: :alislam
+  source_url: http://www.al-islam.org/rights-prisoners-islamic-teachings-sayyid-muhammad-sadiq-al-shirazi/chapter-1-freedom-fundamental
+  title: 'Chapter 1: Freedom, a Fundamental Principle'
+  slug: 2-chapter-1-freedom-a-fundamental-principle
+  uuid: d5ca634c-c6ce-4b20-8b59-99f5e125ef27
+- source: :alislam
+  source_url: http://www.al-islam.org/rights-prisoners-islamic-teachings-sayyid-muhammad-sadiq-al-shirazi/chapter-2-torture-and-prisons
+  title: 'Chapter 2: Torture and Prisons Must Be Purged'
+  slug: 3-chapter-2-torture-and-prisons-must-be-purged
+  uuid: 3e5ff957-a9bc-478d-8633-fe00fd5e8ae4
+- source: :alislam
+  source_url: http://www.al-islam.org/rights-prisoners-islamic-teachings-sayyid-muhammad-sadiq-al-shirazi/chapter-3-islamic-penal-law
+  title: 'Chapter 3: Islamic Penal Law - Criteria For Implementation'
+  slug: 4-chapter-3-islamic-penal-law-criteria-for-implementation
+  uuid: bdeea135-2ae5-4ebb-9326-a282204be44c
+- source: :alislam
+  source_url: http://www.al-islam.org/rights-prisoners-islamic-teachings-sayyid-muhammad-sadiq-al-shirazi/chapter-4-rights-prisoner
+  title: 'Chapter 4: Rights of a Prisoner'
+  slug: 5-chapter-4-rights-of-a-prisoner
+  uuid: 4ed2294c-af9c-4722-9cac-97a95e7e027d
+- source: :alislam
+  source_url: http://www.al-islam.org/rights-prisoners-islamic-teachings-sayyid-muhammad-sadiq-al-shirazi/chapter-5-rulings
+  title: 'Chapter 5: Rulings'
+  slug: 6-chapter-5-rulings
+  uuid: 681ddb74-e2a8-4f16-9391-30fbb3045e99
+- source: :alislam
+  source_url: http://www.al-islam.org/rights-prisoners-islamic-teachings-sayyid-muhammad-sadiq-al-shirazi/author
+  title: The Author
+  slug: 7-the-author
+  uuid: 8ce74a81-3d6d-41dd-9a91-358febaeee16
+---

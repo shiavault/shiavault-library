@@ -1,0 +1,35 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/qunut-talib-hussain-zaidi
+author: Talib Hussain Zaidi
+publisher: P.E.T. Pubblications
+title: Qunut
+slug: qunut
+uuid: f352ee16-34b1-499b-b05c-5d2b79dee59f
+description: |
+  A full-length text containing dozens of supplications from the Holy
+  Qur'an that can be recited during the Qunut in Salat, instructions on
+  how to perform some special prayers, and information about more than a
+  hundred names of Allah and their significance in supplication.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/qunut-talib-hussain-zaidi/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: f6180b23-6e46-47f4-a3be-b56974f71ed8
+- source: :alislam
+  source_url: http://www.al-islam.org/qunut-talib-hussain-zaidi/part-1-supplications-holy-qur%E2%80%99
+  title: 'Part 1: Supplications from the Holy Qur’an'
+  slug: 2-part-1-supplications-from-the-holy-qur-an
+  uuid: 1ae2a233-5f9a-4092-837f-a0a8cfca39eb
+- source: :alislam
+  source_url: http://www.al-islam.org/qunut-talib-hussain-zaidi/part-2-special-prayers
+  title: 'Part 2: Special Prayers'
+  slug: 3-part-2-special-prayers
+  uuid: f3e5a1e5-6040-4dce-a38d-3fd07dc68f5b
+- source: :alislam
+  source_url: http://www.al-islam.org/qunut-talib-hussain-zaidi/part-3-dhikr-beautiful-names-allah
+  title: 'Part 3: Dhikr, the Beautiful Names of Allah'
+  slug: 4-part-3-dhikr-the-beautiful-names-of-allah
+  uuid: 7aca0b7a-d86c-4238-a4f4-bef6411854f2
+---

@@ -1,0 +1,319 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi
+author: Allamah Sayyid Sa'eed Akhtar Rizvi
+publisher: Bilal Muslim Mission of Tanzania
+title: Elements of Islamic Studies
+slug: elements-of-islamic-studies
+uuid: 84ee4d22-31e3-4ad1-9efa-8ca967cbe48f
+description: |
+  A greatly beneficial text book for students of all ages who wish to
+  learn or review the basic fundamentals of Islamic studies. This booklet
+  is based mostly on the lessons of Maulana Sayyid Sa’eed Akhtar Rizvi,
+  though at the time of editing he has added some lessons from the 'Book
+  of Salat' (Majlis-ul-Muslimeen, Karachi), and 'Diniyat' (Rah al-Najat
+  Office, Karachi), with necessary adaptations. This edition has been
+  completely revised (according to the Fatwa of Agha Syed Abu’l Qasim
+  al-Khu’i, Dama Dhilluhul-Aali, Najaf, Iraq). Also, many subjects have
+  been added because of the popular demand. For example, details of
+  Ghusls, prayers of Ayaat, Jumu’ah, ‘Eidain, Mayyit and Jama’at. Simply a
+  must read for those that are unable to attend Hawza (Islamic University)
+  yet wish to learn at least the basics of religion by means of authentic
+  texts as compiled in this booklet
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/extract-preface-first-edition
+  title: Extract from the Preface to the First Edition
+  slug: 1-extract-from-the-preface-to-the-first-edition
+  uuid: 58902ec4-c81b-4e07-8ed2-4457f70f81ee
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/preface-second-edition
+  title: Preface to the Second Edition
+  slug: 2-preface-to-the-second-edition
+  uuid: d13c380d-d243-4d36-beaf-e0d79a094b77
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-1-kalima-meaning-kalima
+  title: 'Lesson 1: Kalima, Meaning of Kalima'
+  slug: 3-lesson-1-kalima-meaning-of-kalima
+  uuid: 6645a136-1dfe-4814-89f3-801c0baca11e
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-2-14-masumeen
+  title: 'Lesson 2: The 14 Ma’sumeen'
+  slug: 4-lesson-2-the-14-ma-sumeen
+  uuid: 503807ca-6283-4d34-ae31-6e42a8915de4
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-3-14-masumeen
+  title: 'Lesson 3: The 14 Masumeen'
+  slug: 5-lesson-3-the-14-masumeen
+  uuid: 96531589-a0f0-4a8c-bbb4-b58483a2efea
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-4-salawat
+  title: 'Lesson 4: Salawat'
+  slug: 6-lesson-4-salawat
+  uuid: 39f0ab0d-4929-4e64-9773-66e16e9b4f13
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-5-names-ulul-azm-prophets
+  title: 'Lesson 5: Names of Ulu’l-Azm Prophets'
+  slug: 7-lesson-5-names-of-ulu-l-azm-prophets
+  uuid: e22dfd9a-7aed-41ba-97c4-87cc5700babd
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-6-names-revealed-books
+  title: 'Lesson 6: Names of Revealed Books'
+  slug: 8-lesson-6-names-of-revealed-books
+  uuid: a5de2ada-e3fc-44af-b46c-665e4c01307d
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-7-names-islamic-months
+  title: 'Lesson 7: Names of Islamic Months'
+  slug: 9-lesson-7-names-of-islamic-months
+  uuid: 9e954465-f88b-453b-b06c-ae6864bc7ea1
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-8-teachings-islam
+  title: 'Lesson 8: The Teachings of Islam'
+  slug: 10-lesson-8-the-teachings-of-islam
+  uuid: 8f87aee7-c518-491e-bf54-5af02a67af27
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-9-roots-religion-i
+  title: 'Lesson 9: The roots of Religion (I)'
+  slug: 11-lesson-9-the-roots-of-religion-i
+  uuid: 5d6d1891-30a6-4fc7-8038-fa2b6612b4ef
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-10-al-sifat-al-thubutiyah
+  title: 'Lesson 10: Al-Sifat al-Thubutiyah'
+  slug: 12-lesson-10-al-sifat-al-thubutiyah
+  uuid: 2449426d-87be-437e-a945-3ea130f8dbde
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-11-al-sifat-al-salbiyah
+  title: 'Lesson 11: Al-Sifat al-Salbiyah'
+  slug: 13-lesson-11-al-sifat-al-salbiyah
+  uuid: 91ba7e4b-fb3c-466b-b463-860329c56950
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-12-roots-religion-ii
+  title: 'Lesson 12: The Roots of Religion (II)'
+  slug: 14-lesson-12-the-roots-of-religion-ii
+  uuid: b7ab2903-1a86-4e58-aaca-cd0662d96df1
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-13-roots-religion-iii
+  title: 'Lesson 13: The Roots of Religion (III)'
+  slug: 15-lesson-13-the-roots-of-religion-iii
+  uuid: bbbe3a26-2da3-4d3d-a528-7033fed511fa
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-14-branches-religion-i
+  title: 'Lesson 14: The Branches of Religion (I)'
+  slug: 16-lesson-14-the-branches-of-religion-i
+  uuid: 7107d3a9-d054-435c-9c6d-c86c37aec797
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-15-branches-religion-ii
+  title: 'Lesson 15: The Branches of Religion (II)'
+  slug: 17-lesson-15-the-branches-of-religion-ii
+  uuid: 5d83e14c-823d-472a-bdbd-b40b77a32057
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-16-branches-religion-iii
+  title: 'Lesson 16: The Branches of Religion (III)'
+  slug: 18-lesson-16-the-branches-of-religion-iii
+  uuid: a3dd28c3-3627-450d-85fe-7d2a04e889d4
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-17-useful-explanations-part-i-ii
+  title: 'Lesson 17: Useful Explanations Part I & II'
+  slug: 19-lesson-17-useful-explanations-part-i-ii
+  uuid: db270f22-196a-463d-ad3f-3117e2ee39f9
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-18-useful-explanations-part-iii
+  title: 'Lesson 18: Useful Explanations Part III'
+  slug: 20-lesson-18-useful-explanations-part-iii
+  uuid: 06bf4dcc-3beb-45ce-a105-3672008bb277
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-19-najasah
+  title: 'Lesson 19: Najasah'
+  slug: 21-lesson-19-najasah
+  uuid: da55b44e-5c07-48ed-91ad-ac4ba02e811b
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-20-mutahhirat-i
+  title: 'Lesson 20: Mutahhirat (I)'
+  slug: 22-lesson-20-mutahhirat-i
+  uuid: f93a6e74-1c8b-404d-9d41-8736c70fd647
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-21-mutahhirat-ii
+  title: 'Lesson 21: Mutahhirat (II)'
+  slug: 23-lesson-21-mutahhirat-ii
+  uuid: 3533f9c2-9d83-42cc-9386-c98b9cf3a85d
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-22-rules-toilet
+  title: 'Lesson 22: Rules of the Toilet'
+  slug: 24-lesson-22-rules-of-the-toilet
+  uuid: 8670c2df-0338-41bd-875b-512969fa68d7
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-23-wudhu-ablution
+  title: 'Lesson 23: Wudhu (Ablution)'
+  slug: 25-lesson-23-wudhu-ablution
+  uuid: 35bc48dd-73bd-44fe-a58b-20a2ac4259be
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-24-conditions-wudhu
+  title: 'Lesson 24: Conditions of Wudhu'
+  slug: 26-lesson-24-conditions-of-wudhu
+  uuid: ed94fbb7-1722-4599-9d13-607bdfcf65e0
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-25-prayers
+  title: 'Lesson 25: Prayers'
+  slug: 27-lesson-25-prayers
+  uuid: 12d43fb4-0173-4eb1-80fc-c0f7b2b1400e
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-26-times-prayers
+  title: 'Lesson 26: Times of Prayers'
+  slug: 28-lesson-26-times-of-prayers
+  uuid: 3c692a60-29f3-4cea-b5eb-d8674bb7c67d
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-27-qibla
+  title: 'Lesson 27: Qibla'
+  slug: 29-lesson-27-qibla
+  uuid: 8a6326b7-1796-4423-b4a5-c71597348e5c
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-28-clothes-prayer
+  title: 'Lesson 28: Clothes of Prayer'
+  slug: 30-lesson-28-clothes-of-prayer
+  uuid: 79a1b3a1-d332-42fb-830f-b577e0e0ccfc
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-29-place-prayer
+  title: 'Lesson 29: Place of Prayer'
+  slug: 31-lesson-29-place-of-prayer
+  uuid: 3ed79fb4-df9f-4d83-a5bc-b827f6d411f3
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-30-adhan-and-iqamah
+  title: 'Lesson 30: Adhan and Iqamah'
+  slug: 32-lesson-30-adhan-and-iqamah
+  uuid: 57ece3d1-2abf-4c6b-b008-02952fdffb20
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-31-wajibat-obligatory-acts-prayer
+  title: 'Lesson 31: Wajibat (obligatory acts) of prayer'
+  slug: 33-lesson-31-wajibat-obligatory-acts-of-prayer
+  uuid: 117d512e-2eb3-46fb-af03-c86ca9d2f6a5
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-32-niyyah-takbir-and-qiyam
+  title: 'Lesson 32: Niyyah, Takbir and Qiyam'
+  slug: 34-lesson-32-niyyah-takbir-and-qiyam
+  uuid: 82fa508b-6f11-4e44-a694-62aa106e0e14
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-33-sajdah-i
+  title: 'Lesson 33: Sajdah (I)'
+  slug: 35-lesson-33-sajdah-i
+  uuid: 6a534f53-63d8-41d0-bfaa-8d00fd08a37d
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-34-sajdah-ii
+  title: 'Lesson 34: Sajdah (II)'
+  slug: 36-lesson-34-sajdah-ii
+  uuid: 2921831a-9dd9-4099-987a-70f51d6affcb
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-35-wajib-obligatory-sajdahs-quran
+  title: 'Lesson 35: Wajib (obligatory) Sajdahs of the Qur’an'
+  slug: 37-lesson-35-wajib-obligatory-sajdahs-of-the-qur-an
+  uuid: 9f8104ce-cacb-4908-9e20-791442bf491a
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-36-qirat
+  title: 'Lesson 36: Qir''at'
+  slug: 38-lesson-36-qir-at
+  uuid: 2098f8a2-6f27-4722-a842-c71f3ecb94b7
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-37-translation-3-surahs-and-qunut
+  title: 'Lesson 37: Translation of 3 Surahs and Qunut'
+  slug: 39-lesson-37-translation-of-3-surahs-and-qunut
+  uuid: 57ae4ffc-2e31-404b-b177-e30ee449c203
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-38-other-wajib-obligatory-acts
+  title: 'Lesson 38: Other wajib (obligatory) acts'
+  slug: 40-lesson-38-other-wajib-obligatory-acts
+  uuid: 9a43f671-848a-4e5c-8691-91ff390bf3f0
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-39-actions-invalidate-prayer
+  title: 'Lesson 39: Actions that Invalidate Prayer'
+  slug: 41-lesson-39-actions-that-invalidate-prayer
+  uuid: c62d668c-b1e7-4e59-bae2-7a89eee76ab4
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-40-shakk-doubts-prayer
+  title: 'Lesson 40: Shakk (Doubts in Prayer)'
+  slug: 42-lesson-40-shakk-doubts-in-prayer
+  uuid: 2431ebf2-61d3-4e09-8336-f326f7fb94e4
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-41-valid-sahih-doubts
+  title: 'Lesson 41: Valid (Sahih) Doubts'
+  slug: 43-lesson-41-valid-sahih-doubts
+  uuid: ebdad149-2d99-4f98-90ae-fc42dad3eca1
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-42-mubtil-doubts-invalidate-prayer
+  title: 'Lesson 42: Mubtil Doubts that Invalidate the Prayer'
+  slug: 44-lesson-42-mubtil-doubts-that-invalidate-the-prayer
+  uuid: 40a57edc-1850-484e-a8a2-26e223262821
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-43-prayer-ihtiyat-and-sajdah-al-sahw
+  title: 'Lesson 43: Prayer of Ihtiyat and Sajdah al-Sahw'
+  slug: 45-lesson-43-prayer-of-ihtiyat-and-sajdah-al-sahw
+  uuid: cf4be07f-34a8-44bb-ac6e-6c88b4139e4d
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-44-ghusl
+  title: 'Lesson 44: Ghusl'
+  slug: 46-lesson-44-ghusl
+  uuid: 7f660f68-7ccc-432e-a4d0-1cc56450f7e4
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-45-ghusl-janabat
+  title: 'Lesson 45: Ghusl of Janabat'
+  slug: 47-lesson-45-ghusl-of-janabat
+  uuid: dbb6c942-dc5c-4333-8cc9-82d7f5680643
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-46-ghusl-haidh-and-nifas
+  title: 'Lesson 46: Ghusl of haidh and nifas'
+  slug: 48-lesson-46-ghusl-of-haidh-and-nifas
+  uuid: 8c734b45-d040-4f6a-951a-604dbd1df451
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-47-istihadha
+  title: 'Lesson 47: Istihadha'
+  slug: 49-lesson-47-istihadha
+  uuid: 8fdb1396-33f9-473c-802c-0ad7cb203825
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-48-tayammum
+  title: 'Lesson 48: Tayammum'
+  slug: 50-lesson-48-tayammum
+  uuid: 35a7a22f-644e-4949-8449-8864ef45b285
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-49-salat-al-ayaat-prayer-signs
+  title: 'Lesson 49: Salat al-ayaat (Prayer of signs)'
+  slug: 51-lesson-49-salat-al-ayaat-prayer-of-signs
+  uuid: 36dd0313-9bc1-4bcc-a33d-5e7d849ffa9a
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-50-friday-prayer
+  title: 'Lesson 50: Friday Prayer'
+  slug: 52-lesson-50-friday-prayer
+  uuid: 0d071016-df27-4165-bc10-8aa39d59e96d
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-51-salat-al-eidayn
+  title: 'Lesson 51: Salat al-‘Eidayn'
+  slug: 53-lesson-51-salat-al-eidayn
+  uuid: 2447e615-f543-40ec-a2a6-1cbe86d08ce3
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-52-salat-al-jamaah-congregational-prayer
+  title: 'Lesson 52: Salat al-Jama’ah (congregational prayer)'
+  slug: 54-lesson-52-salat-al-jama-ah-congregational-prayer
+  uuid: c67db0ac-32eb-4560-a7a8-169d040c8f40
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-53-prayer-deceased-salat-al-mayyit
+  title: 'Lesson 53: The Prayer for the Deceased (Salat al-Mayyit)'
+  slug: 55-lesson-53-the-prayer-for-the-deceased-salat-al-mayyit
+  uuid: 48b77e13-61f3-4250-9fca-9075b27b5f3e
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-54-sawm-fasting
+  title: 'Lesson 54: Sawm (fasting)'
+  slug: 56-lesson-54-sawm-fasting
+  uuid: 2d41f606-690b-4222-b10f-e6fbb1192510
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-55-muftirat-kaffarah
+  title: 'Lesson 55: Muftirat & Kaffarah'
+  slug: 57-lesson-55-muftirat-kaffarah
+  uuid: 0eace06f-c115-4985-b70b-f3637accc955
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/lesson-56-nadhr
+  title: 'Lesson 56: Nadhr'
+  slug: 58-lesson-56-nadhr
+  uuid: 6d5d693e-eaa3-4aad-a58f-7098e3435f00
+- source: :alislam
+  source_url: http://www.al-islam.org/elements-islamic-studies-allamah-saeed-akhtar-rizvi/questions
+  title: Questions
+  slug: 59-questions
+  uuid: 7178bfb7-a574-46c5-a14f-7ad9ae0f5a7c
+---

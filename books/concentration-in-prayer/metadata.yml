@@ -1,0 +1,49 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/concentration-in-prayer-jameel-kermalli
+author: Jameel Kermalli
+title: Concentration in Prayer
+slug: concentration-in-prayer
+uuid: 22d92236-0160-4725-a3b4-0ce657dee4b1
+description: |
+  The main goal of this book is to educate the Muslims of the importance
+  of The Five Daily Prayers and to explain how to create, develop and
+  maintain concentration in Prayer.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/concentration-in-prayer-jameel-kermalli/introduction-and-acknowledgments
+  title: Introduction and Acknowledgments
+  slug: 1-introduction-and-acknowledgments
+  uuid: 8c92ae04-02e5-445b-9a86-0f3a2bf123cd
+- source: :alislam
+  source_url: http://www.al-islam.org/concentration-in-prayer-jameel-kermalli/foreword
+  title: Foreword
+  slug: 2-foreword
+  uuid: 83d91e47-ceaf-4f01-90e2-a8562bba71ec
+- source: :alislam
+  source_url: http://www.al-islam.org/concentration-in-prayer-jameel-kermalli/author%E2%80%99s-biography
+  title: Author’s Biography
+  slug: 3-author-s-biography
+  uuid: 2e61666c-0245-4757-aec8-8c6cdf75175f
+- source: :alislam
+  source_url: http://www.al-islam.org/concentration-in-prayer-jameel-kermalli/introduction-prayer
+  title: Introduction to Prayer
+  slug: 4-introduction-to-prayer
+  uuid: 0e017883-955b-4941-a90c-ffd5ce9ffc69
+- source: :alislam
+  source_url: http://www.al-islam.org/concentration-in-prayer-jameel-kermalli/strategies-concentrating-prayer
+  title: Strategies for Concentrating In Prayer
+  slug: 5-strategies-for-concentrating-in-prayer
+  uuid: 17dc806e-f1e6-46bc-b442-3fd1360b5350
+- source: :alislam
+  source_url: http://www.al-islam.org/concentration-in-prayer-jameel-kermalli/conclusion
+  title: Conclusion
+  slug: 6-conclusion
+  uuid: cf1c266a-d07b-4363-beff-af294bc70bcc
+- source: :alislam
+  source_url: http://www.al-islam.org/concentration-in-prayer-jameel-kermalli/learning-focus-and-concentrate-your-daily-prayer-complete-30
+  title: Learning to Focus and Concentrate on your Daily Prayer A Complete 30-Day
+    Workbook
+  slug: 7-learning-to-focus-and-concentrate-on-your-daily-prayer-a-complete-30-day-workbook
+  uuid: 4ad24b35-f23b-4121-8e35-c2c4d007b603
+---

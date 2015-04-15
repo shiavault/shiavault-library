@@ -1,0 +1,129 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni
+author: Rashid Al-Shartuni
+translator: Hamid Hussein Waqar
+title: Elementary Arabic Syntax 1
+slug: elementary-arabic-syntax-1
+uuid: 5809f52c-e804-495d-9622-26816edce9fd
+description: |
+  A study of syntax of the Arabic language volume 1. Translated by Hamid
+  Hussein Waqar.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/completer-sentence
+  title: A Completer Sentence
+  slug: 1-a-completer-sentence
+  uuid: ff0a3b6a-4898-4adb-986a-5bfabe0371b4
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/syntax
+  title: Syntax
+  slug: 2-syntax
+  uuid: 56ab86df-6323-49b1-a2c0-bd234f497189
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/subjunctive-cases-verb
+  title: Subjunctive Cases of a Verb
+  slug: 3-subjunctive-cases-of-a-verb
+  uuid: 06b06059-452e-428f-8d79-11a617243a26
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/jussive-cases-verb
+  title: Jussive Cases of a Verb
+  slug: 4-jussive-cases-of-a-verb
+  uuid: a494ced7-c93e-4f14-a34d-60b09b23b26e
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/nominative-cases-verb
+  title: Nominative Cases of a Verb
+  slug: 5-nominative-cases-of-a-verb
+  uuid: afbd1c70-0e5a-4807-8f73-29934010e8e4
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/nominative-cases-noun
+  title: Nominative Cases of a Noun
+  slug: 6-nominative-cases-of-a-noun
+  uuid: 52fdd156-551a-440e-9afe-a0954c0f96a3
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/actor
+  title: Actor
+  slug: 7-actor
+  uuid: 07752fa4-614f-45a9-a35f-c8476ff4e5d5
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/subject-predicate
+  title: Subject of the Predicate
+  slug: 8-subject-of-the-predicate
+  uuid: 14fda784-806d-4b11-8d4f-55051c983536
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/incohatives-and-predicates
+  title: Incohatives and Predicates
+  slug: 9-incohatives-and-predicates
+  uuid: 61294b7a-3b63-40d8-af78-85965e4b69a3
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/incohative-verb-kana-or-one-its-sisters-and-predicate
+  title: Incohative of a Verb Kana or One of its sisters and the Predicate of the
+    Preposition Inna or One of its Sisters
+  slug: 10-incohative-of-a-verb-kana-or-one-of-its-sisters-and-the-predicate-of-the-preposition-inna-or-one-of-its-sisters
+  uuid: 24c6b842-6356-4108-9844-288cd1ce07fb
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/accusative-cases-noun
+  title: Accusative Cases of a Noun
+  slug: 11-accusative-cases-of-a-noun
+  uuid: c22927f2-ab80-4f7f-aa22-3525a648e51d
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/objective-compliments-and-cognates
+  title: Objective Compliments and Cognates
+  slug: 12-objective-compliments-and-cognates
+  uuid: c48b4051-6c7f-4b9d-9f5e-6bdc0a88fa98
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/adverbal-qualifications-and-adverbal-qualifications
+  title: Adverbal Qualifications and Adverbal Qualifications of Time and Place
+  slug: 13-adverbal-qualifications-and-adverbal-qualifications-of-time-and-place
+  uuid: 1a6dc5fd-c88d-4023-aa4a-3f2b043cda91
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/ma%E2%80%99-accusative-and-exceptive-after-ila
+  title: Ma’ Accusative and the Exceptive After Ila
+  slug: 14-ma-accusative-and-the-exceptive-after-ila
+  uuid: 8ce6be8a-2044-4c82-9c7c-4c234795ef76
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/h%C4%81l-accusative
+  title: The Hāl Accusative
+  slug: 15-the-hal-accusative
+  uuid: 25b7f57f-1356-4cb8-a3d5-7ec5d4f7c4df
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/specificative
+  title: Specificative
+  slug: 16-specificative
+  uuid: 5ccfa782-3b16-494c-b984-5a3c0b1eed76
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/vocative
+  title: Vocative
+  slug: 17-vocative
+  uuid: ec9d8898-8fa4-4a44-8b02-5ea46bafa10e
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/predicate-verb-kana-inchoative-preposition-inna
+  title: A Predicate of the Verb Kana of an Inchoative of the Preposition Inna
+  slug: 18-a-predicate-of-the-verb-kana-of-an-inchoative-of-the-preposition-inna
+  uuid: bb9939fb-f706-45fb-8c39-a8116acf157b
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/genitive-cases-noun
+  title: Genitive Cases of a Noun
+  slug: 19-genitive-cases-of-a-noun
+  uuid: 38648a99-cadd-49ca-8107-80c8c8692c5c
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/hiding-vowel-signs-declinable-noun
+  title: Hiding the Vowel Signs of a Declinable Noun
+  slug: 20-hiding-the-vowel-signs-of-a-declinable-noun
+  uuid: 555f4f0f-44da-4090-8998-4769e2f4451e
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/adjectives-and-conjunctives
+  title: Adjectives and Conjunctives
+  slug: 21-adjectives-and-conjunctives
+  uuid: 9d048108-af32-4f1c-96f7-b38c027fb3fb
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/corroboratives-and-substitutes
+  title: Corroboratives and Substitutes
+  slug: 22-corroboratives-and-substitutes
+  uuid: 914b7772-6e41-43d9-b81b-d60235debb41
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-syntax-1-rashid-al-shartuni/vowel-signs-words-and-sentences
+  title: The Vowel Signs of Words and Sentences
+  slug: 23-the-vowel-signs-of-words-and-sentences
+  uuid: 66b18735-6b0f-401c-9977-cd4c4f270291
+---

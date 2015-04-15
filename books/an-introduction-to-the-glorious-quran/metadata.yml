@@ -1,0 +1,95 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/introduction-glorious-quran-bahram-samii
+author: Bahram Samii
+translator: John Cooper
+title: An Introduction to the Glorious Quran
+slug: an-introduction-to-the-glorious-quran
+uuid: e31818de-1f6a-43de-beba-d0b8be83dda1
+description: |
+  A simple exposition of the way in which the Qur' an presents itself in
+  its own terms and how this can be disclosed through a careful reading of
+  the text. It answers several common questions about the Qur'an.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-glorious-quran-bahram-samii/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: 413149ab-6f78-44ee-8a42-1f5d3cdf8855
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-glorious-quran-bahram-samii/abbreviations-and-quranic-names-used-book
+  title: Abbreviations and Qur’anic Names Used in this Book
+  slug: 2-abbreviations-and-qur-anic-names-used-in-this-book
+  uuid: f3aaf26d-af79-4e49-b58e-8583827d96ec
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-glorious-quran-bahram-samii/about-author
+  title: About the Author
+  slug: 3-about-the-author
+  uuid: 94c6cbdd-8e26-4de1-a552-63f1797cd64d
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-glorious-quran-bahram-samii/acknowledgements
+  title: Acknowledgements
+  slug: 4-acknowledgements
+  uuid: 6062ecd7-70b0-4b69-9937-172f8c1bed99
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-glorious-quran-bahram-samii/preface
+  title: Preface
+  slug: 5-preface
+  uuid: b7bac165-6f14-430a-8f9d-08fbf64c9656
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-glorious-quran-bahram-samii/foreword
+  title: Foreword
+  slug: 6-foreword
+  uuid: 4f7cd8d0-1f60-459b-8617-725771643d4d
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-glorious-quran-bahram-samii/physical-aspects-noble-quran
+  title: Physical Aspects of the Noble Qur'an
+  slug: 7-physical-aspects-of-the-noble-qur-an
+  uuid: 9a254b31-efc0-42ff-bc35-ccb2c499fa7c
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-glorious-quran-bahram-samii/glorious-quran-self%E2%80%91illuminating-important-questions
+  title: 'The Glorious Qur’an, Self‑Illuminating: Important Questions Answered By
+    the Munificent Qura’an'
+  slug: 8-the-glorious-qur-an-self-illuminating-important-questions-answered-by-the-munificent-qura-an
+  uuid: 9558258b-f321-4e94-986d-f6b3e04c0652
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-glorious-quran-bahram-samii/what-are-signs-pure-divine-scripture
+  title: What are the Signs of a Pure Divine Scripture?
+  slug: 9-what-are-the-signs-of-a-pure-divine-scripture
+  uuid: 64b3f64e-b9e5-4cf0-a740-c5549402febe
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-glorious-quran-bahram-samii/glorious-quran-miracle
+  title: The Glorious Qur’an as a Miracle
+  slug: 10-the-glorious-qur-an-as-a-miracle
+  uuid: 873a20f2-4b53-4ffe-ae3f-d0966aab25a6
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-glorious-quran-bahram-samii/there-any-parallel-miraculous-quran
+  title: Is there any Parallel to The Miraculous Qur’an?
+  slug: 11-is-there-any-parallel-to-the-miraculous-qur-an
+  uuid: 1d6eb8e8-8393-48f7-ae42-31b8003f694f
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-glorious-quran-bahram-samii/few-words-about-islam
+  title: A Few Words about Islam
+  slug: 12-a-few-words-about-islam
+  uuid: e9a8162b-371b-4fdb-9ff6-6b34b3145a2e
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-glorious-quran-bahram-samii/conclusions
+  title: Conclusions
+  slug: 13-conclusions
+  uuid: 2f9b06c5-bc37-4628-a33b-c389cd296e17
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-glorious-quran-bahram-samii/selected-phrases-about-quran
+  title: Selected Phrases about the Qur’an in the Glorious Qur’an
+  slug: 14-selected-phrases-about-the-qur-an-in-the-glorious-qur-an
+  uuid: 2b509a6e-f764-4373-b59f-3c503bf77349
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-glorious-quran-bahram-samii/surahs-glorious-quran
+  title: Surahs of the Glorious Qur’an
+  slug: 15-surahs-of-the-glorious-qur-an
+  uuid: 50d73892-9e63-480e-8d69-af2c20367f57
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-glorious-quran-bahram-samii/glossary
+  title: Glossary
+  slug: 16-glossary
+  uuid: b12ba0ad-af73-4bff-ac65-0d51e2be25e7
+---

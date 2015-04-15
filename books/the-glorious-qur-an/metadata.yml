@@ -1,0 +1,578 @@
+---
+source: :mareef
+source_url: http://www.maaref-foundation.com/english/library/quran/descrip/index.htm
+title: The Glorious Qur`an
+slug: the-glorious-qur-an
+uuid: b7dbb91a-aebc-4d24-913f-fa8013f312a4
+chapters:
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s001.htm
+  title: '1: the Opening (fatihah)'
+  slug: 1-1-the-opening-fatihah
+  uuid: 8bc4c70b-aa55-47e3-86d1-82cb0c22a6c4
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s058.htm
+  title: '58: the Pleading Woman (mujadilah)'
+  slug: 2-58-the-pleading-woman-mujadilah
+  uuid: 1edc05d2-8530-4612-a14f-48b819d54590
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s002.htm
+  title: '2: the Cow (baqarah)'
+  slug: 3-2-the-cow-baqarah
+  uuid: 08b51f46-1470-44db-8fe9-54e7e192103f
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s059.htm
+  title: '59: Banishment (hashr)'
+  slug: 4-59-banishment-hashr
+  uuid: 01d4c624-43c4-4abf-b13e-b02229d6cde9
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s003.htm
+  title: '3: the House of `imr''an (aale Imran)'
+  slug: 5-3-the-house-of-imr-an-aale-imran
+  uuid: 3a0effba-f55f-4c9e-a353-4c7796877739
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s060.htm
+  title: '60: Examining Her (mumtahanah)'
+  slug: 6-60-examining-her-mumtahanah
+  uuid: b2b71aec-808c-454a-aaa9-c5355561be68
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s004.htm
+  title: '4: Women (nisa)'
+  slug: 7-4-women-nisa
+  uuid: 41e63dfc-d276-4c98-b9b0-671d5fc55513
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s061.htm
+  title: '61: Battle Array (saff)'
+  slug: 8-61-battle-array-saff
+  uuid: f75c6333-ebf8-4100-b6cf-eba1aee43e14
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s005.htm
+  title: '5: the Table (maidah)'
+  slug: 9-5-the-table-maidah
+  uuid: d69ef290-a3f1-49a4-8b1d-76e43e45ab66
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s062.htm
+  title: '62: Friday (jum`ah)'
+  slug: 10-62-friday-jum-ah
+  uuid: af91018a-0b48-45fe-bc09-a97711ecedca
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s006.htm
+  title: '6: Livestock (an''am)'
+  slug: 11-6-livestock-an-am
+  uuid: 3292bec6-28ab-4395-a5c8-7482c44102c7
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s063.htm
+  title: '63: Hypocrites (munafiqoon)'
+  slug: 12-63-hypocrites-munafiqoon
+  uuid: 43de4362-cbad-4b59-9df8-d76b5d144f31
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s007.htm
+  title: '7: the Heights (a''araf)'
+  slug: 13-7-the-heights-a-araf
+  uuid: 6b00582f-bd16-47f9-b612-3e8f408ccf84
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s064.htm
+  title: '64: Haggling (taghabun)'
+  slug: 14-64-haggling-taghabun
+  uuid: 23dfb9b6-bc4a-44cf-bb3e-7dbc32d2a532
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s008.htm
+  title: '8: Booty (anfal)'
+  slug: 15-8-booty-anfal
+  uuid: b1094c61-16db-4824-bd46-3c19601dfddc
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s065.htm
+  title: '65: Divorce (talaq)'
+  slug: 16-65-divorce-talaq
+  uuid: 77242cf4-d968-4cc1-858d-849846ae93b6
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s009.htm
+  title: '9: Repentance (baraat)'
+  slug: 17-9-repentance-baraat
+  uuid: 5cf2724f-aa8c-41a0-a58e-7cfe1d0d493f
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s066.htm
+  title: '66: Prohibition (tahrim)'
+  slug: 18-66-prohibition-tahrim
+  uuid: 9b8327c2-d6e5-4dbf-a48b-b91b354b9ebc
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s010.htm
+  title: '10: Jonah (yunus)'
+  slug: 19-10-jonah-yunus
+  uuid: d99bc8fd-0848-4eaf-8f35-bc090efafe67
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s067.htm
+  title: '67: Control (mulk)'
+  slug: 20-67-control-mulk
+  uuid: 8e271e16-6cec-44c8-b1fb-434ab61efad9
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s011.htm
+  title: '11: Hud (hud)'
+  slug: 21-11-hud-hud
+  uuid: a7d2576c-e387-4b27-b2ff-5ca4e3c1163d
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s068.htm
+  title: '68: the Pen (qalam)'
+  slug: 22-68-the-pen-qalam
+  uuid: d7ff6080-e4da-4853-8fb8-df8309182a62
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s012.htm
+  title: '12: Joseph (yusuf)'
+  slug: 23-12-joseph-yusuf
+  uuid: 63081226-6e53-4efe-82e1-495abd30fb4f
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s069.htm
+  title: '69: Reality (haqqah)'
+  slug: 24-69-reality-haqqah
+  uuid: c11eb6da-32e5-4eb2-af37-ce6b17868651
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s013.htm
+  title: '13: Thunder (ra''d)'
+  slug: 25-13-thunder-ra-d
+  uuid: 1645bd86-5ec6-42af-9ddf-27024943071b
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s070.htm
+  title: '70: Stairases Upward (ma''arij)'
+  slug: 26-70-stairases-upward-ma-arij
+  uuid: a35754cb-8cd1-44df-9356-870b14616b84
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s014.htm
+  title: '14: Abraham (ibrahim)'
+  slug: 27-14-abraham-ibrahim
+  uuid: 7ea31138-e898-45c9-9957-8c4f9ace9790
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s071.htm
+  title: '71: Noah (nuh)'
+  slug: 28-71-noah-nuh
+  uuid: c5cdfe36-78b1-4995-a885-ffd9f292beed
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s015.htm
+  title: '15: Stoneland (hijr)'
+  slug: 29-15-stoneland-hijr
+  uuid: f0b6f6e1-ea45-447d-bc7b-33cafb62c1f7
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s072.htm
+  title: '72: Sprites (jinn)'
+  slug: 30-72-sprites-jinn
+  uuid: 285d0775-9a00-415a-b778-0a5d6c6799c4
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s016.htm
+  title: '16: Bees (nahl)'
+  slug: 31-16-bees-nahl
+  uuid: 16f4dbb5-4dcd-484f-a16f-926f81ed7f58
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s073.htm
+  title: '73: Bundled Up (muzzammil)'
+  slug: 32-73-bundled-up-muzzammil
+  uuid: bbce16fd-6ece-4004-81e2-447dbc48510d
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s017.htm
+  title: '17: the Night Journey (bani-israel)'
+  slug: 33-17-the-night-journey-bani-israel
+  uuid: 77c326df-3176-438b-94bc-fae2f830675f
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s074.htm
+  title: '74: the Man Wearing a Cloak (muddath-thir)'
+  slug: 34-74-the-man-wearing-a-cloak-muddath-thir
+  uuid: ca405584-be0c-4dc0-b46d-4e0e21c57948
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s018.htm
+  title: '18: the Cave (kahf)'
+  slug: 35-18-the-cave-kahf
+  uuid: 0d465ef3-579f-49e7-a71d-b6545c212c7e
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s075.htm
+  title: '75: Resurrection (qiyamah)'
+  slug: 36-75-resurrection-qiyamah
+  uuid: 1679aefe-0bc0-4f91-8183-a4d6c58a0154
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s019.htm
+  title: '19: Mary (marium)'
+  slug: 37-19-mary-marium
+  uuid: 51d20514-bc69-4d04-a90f-1d0569a9da95
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s076.htm
+  title: '76: [every] Man (dahr)'
+  slug: 38-76-every-man-dahr
+  uuid: 70f1866e-ca4d-4963-a282-415f4e5ef80a
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s020.htm
+  title: '20: Ta-ha (ta Ha)'
+  slug: 39-20-ta-ha-ta-ha
+  uuid: 14e17b60-5b1e-4ad5-8e31-a6980d46eb76
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s077.htm
+  title: '77: [winds] Sent Forth (mursalat)'
+  slug: 40-77-winds-sent-forth-mursalat
+  uuid: 4cba867a-92f0-44b7-ac25-c5ae8a336240
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s021.htm
+  title: '21: Prophets (anbiya)'
+  slug: 41-21-prophets-anbiya
+  uuid: 3c2680d5-8c8c-49db-b777-e5d12949fc5c
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s078.htm
+  title: '78: the Announcement (naba)'
+  slug: 42-78-the-announcement-naba
+  uuid: 5bebdae6-bdfa-4686-9bed-423d7877cd05
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s022.htm
+  title: '22: Pilgrimage (anbiya)'
+  slug: 43-22-pilgrimage-anbiya
+  uuid: 13ed013d-5c5c-472b-be73-b8183dfdc33e
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s079.htm
+  title: '79: [soul-]snatchers (nazia''at)'
+  slug: 44-79-soul-snatchers-nazia-at
+  uuid: aeeb21fa-f350-48d0-8473-3803c389fcbf
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s023.htm
+  title: '23: Believer''s (moaminoon)'
+  slug: 45-23-believer-s-moaminoon
+  uuid: e1135258-9148-40d6-96b8-9511ea740337
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s080.htm
+  title: '80: He Frowned! (abasa)'
+  slug: 46-80-he-frowned-abasa
+  uuid: 64f56252-6a16-488c-a517-7ff1856f9887
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s024.htm
+  title: '24: the Light (noor)'
+  slug: 47-24-the-light-noor
+  uuid: 376ea34a-ecbb-47b0-a7d5-6d7e1c2f9fb8
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s081.htm
+  title: '81: Extinguished! (takwir)'
+  slug: 48-81-extinguished-takwir
+  uuid: 5e92cce9-1b10-4f6a-a5d2-49c79b98a206
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s025.htm
+  title: '25: the Criterion (furqan)'
+  slug: 49-25-the-criterion-furqan
+  uuid: 7d45f30e-378d-4fdf-b3b3-ff36732f5d03
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s082.htm
+  title: '82: Bursting Apart (infitar)'
+  slug: 50-82-bursting-apart-infitar
+  uuid: 07970d27-5ccd-450f-a44b-e33dce47588d
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s026.htm
+  title: '26: Poets (shuara)'
+  slug: 51-26-poets-shuara
+  uuid: ab6eaa71-fb14-4c67-a832-96e1f499a80e
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s083.htm
+  title: '83: the Cheats (mutaffefin)'
+  slug: 52-83-the-cheats-mutaffefin
+  uuid: 8ff2dd30-99e0-481c-a52e-07ccbe338bfa
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s027.htm
+  title: '27: the Ants (naml)'
+  slug: 53-27-the-ants-naml
+  uuid: 75bc0990-15d5-4cba-9a41-f61c0fea0a45
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s084.htm
+  title: '84: Splitting Open (inshiqaq)'
+  slug: 54-84-splitting-open-inshiqaq
+  uuid: 3d869de5-af03-4b0a-a6c4-761cff06f493
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s028.htm
+  title: '28: Stories (qasas)'
+  slug: 55-28-stories-qasas
+  uuid: eeed8b89-d75c-4eaa-b8c2-1ec9a784b18b
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s085.htm
+  title: '85: Constellations (burooj)'
+  slug: 56-85-constellations-burooj
+  uuid: 45d09cf6-0df6-48c0-aa30-82477828dfc7
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s029.htm
+  title: '29: the Spider (ankaboot)'
+  slug: 57-29-the-spider-ankaboot
+  uuid: 6e460a8a-d69d-4f86-a94b-f7c73834d446
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s086.htm
+  title: '86: the Nightcomer (tariq)'
+  slug: 58-86-the-nightcomer-tariq
+  uuid: 09e4e849-f11f-4edb-b947-0ed0f55ef031
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s030.htm
+  title: '30: the [east] Romans (room)'
+  slug: 59-30-the-east-romans-room
+  uuid: 7de22d12-fd33-44c8-82db-f889b8cded89
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s087.htm
+  title: '87: Glory To Your Lord in the Highest!(a`ala)'
+  slug: 60-87-glory-to-your-lord-in-the-highest-a-ala
+  uuid: b0e34a91-c245-4847-8a5f-f8aeda6d1bf9
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s031.htm
+  title: '31: Luqman (luqman)'
+  slug: 61-31-luqman-luqman
+  uuid: fbaef33f-3953-4029-a9fb-0f07a1b6b82a
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s088.htm
+  title: '88: the Pall (a`ala)'
+  slug: 62-88-the-pall-a-ala
+  uuid: 94296d98-78a7-4b6f-be0e-da245e192727
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s032.htm
+  title: '32: Worship Or Adoration (sajdah)'
+  slug: 63-32-worship-or-adoration-sajdah
+  uuid: 2344676e-d672-443f-8f7f-073e5d968fda
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s089.htm
+  title: '89: Daybreak (fajr)'
+  slug: 64-89-daybreak-fajr
+  uuid: 2dbbf84e-c5e3-4bf8-9028-2d5d52c753e4
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s033.htm
+  title: '33: the Coalition (ahzab)'
+  slug: 65-33-the-coalition-ahzab
+  uuid: e593d68b-5a2e-4363-9a32-7666784dd02d
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s090.htm
+  title: '90: [this] Countryside (balad)'
+  slug: 66-90-this-countryside-balad
+  uuid: 4532f6ca-2f07-4c3e-b3c3-03505a282cea
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s034.htm
+  title: '34: Sheba (saba)'
+  slug: 67-34-sheba-saba
+  uuid: 20784db1-736d-43d6-9bd1-1507617e0a63
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s091.htm
+  title: '91: the Sun (shams)'
+  slug: 68-91-the-sun-shams
+  uuid: fa13b789-dc12-405b-a31b-dfbf8ce5574b
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s035.htm
+  title: '35: Originator (fatir)'
+  slug: 69-35-originator-fatir
+  uuid: 4cb775b0-b8b6-4502-aea5-e6c188be0c97
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s092.htm
+  title: '92: Night (lail)'
+  slug: 70-92-night-lail
+  uuid: 17df1252-d21d-46d1-acb2-cda3d1dcfefe
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s036.htm
+  title: '36: Ya-sin (ya Seen)'
+  slug: 71-36-ya-sin-ya-seen
+  uuid: b11cc759-3f54-4768-8316-08515fe387d2
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s093.htm
+  title: '93: Morning Bright! (duha)'
+  slug: 72-93-morning-bright-duha
+  uuid: 95caa0cf-51f3-4eef-b762-25c2016791b3
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s037.htm
+  title: '37: (drawn Up In) Ranks (saffat)'
+  slug: 73-37-drawn-up-in-ranks-saffat
+  uuid: ad464c21-3f4c-4062-9bee-72be3d487899
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s094.htm
+  title: '94: Consolation (inshirah)'
+  slug: 74-94-consolation-inshirah
+  uuid: 381673df-0fbe-4519-95a6-60e349a0665a
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s038.htm
+  title: '38: (the Letter) Sad (sad)'
+  slug: 75-38-the-letter-sad-sad
+  uuid: 35499ce4-ee13-4d8f-ae87-71bd2467403f
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s095.htm
+  title: '95: the Figtree (tin)'
+  slug: 76-95-the-figtree-tin
+  uuid: b4e31c4d-457c-4a7d-80e2-d100392490eb
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s039.htm
+  title: '39: Throngs (zumar)'
+  slug: 77-39-throngs-zumar
+  uuid: 4c578a9f-7b81-41e6-873a-d61d4e98ec8e
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s096.htm
+  title: '96: the Clot (alaq)'
+  slug: 78-96-the-clot-alaq
+  uuid: fe711d5b-54eb-4122-a8c3-db8c16cb4fe2
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s040.htm
+  title: '40: the Believer (moamin)'
+  slug: 79-40-the-believer-moamin
+  uuid: 0c74080b-baef-4942-ab17-74ff15f85047
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s097.htm
+  title: '97: Power (qadr)'
+  slug: 80-97-power-qadr
+  uuid: 6ed5aac9-babe-4fc2-bfd1-2109bfd0023c
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s041.htm
+  title: '41: [signs] Spelled Out (ha Mim)'
+  slug: 81-41-signs-spelled-out-ha-mim
+  uuid: 75df397f-be96-4c6f-ad9e-4bad9137ef98
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s098.htm
+  title: '98: Evidence (bayyinah)'
+  slug: 82-98-evidence-bayyinah
+  uuid: 5b6cc8a9-431b-4269-a950-1b6b8805dcbc
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s042.htm
+  title: '42: Consultation (shoora)'
+  slug: 83-42-consultation-shoora
+  uuid: f7ecd447-d6f3-4450-b1d7-7c48b8abb84e
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s099.htm
+  title: '99: the Earthquake (zilzal)'
+  slug: 84-99-the-earthquake-zilzal
+  uuid: 5eeda5b1-17c9-4547-8a18-c0b28a6c3a6e
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s043.htm
+  title: '43: Laxury (zukhruf)'
+  slug: 85-43-laxury-zukhruf
+  uuid: 6aa47c6e-d4c1-44fd-9edc-86c98b1b682d
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s100.htm
+  title: '100: the Chargers (adiyat)'
+  slug: 86-100-the-chargers-adiyat
+  uuid: 7427183d-d8e2-4d74-b5f2-6aba9bd1eba3
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s044.htm
+  title: '44: Smoke (dukhan)'
+  slug: 87-44-smoke-dukhan
+  uuid: d3ea1d9d-327c-4160-a0b4-a122830d38fd
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s101.htm
+  title: '101: the Stunning[blow] (qariah)'
+  slug: 88-101-the-stunning-blow-qariah
+  uuid: 072b2f94-ed64-4331-a65d-9932b6e411d2
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s045.htm
+  title: '45: Crouching (jathiyah)'
+  slug: 89-45-crouching-jathiyah
+  uuid: 137355a2-331e-4406-a1db-506fb45d73eb
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s102.htm
+  title: '102: Competition (takathur)'
+  slug: 90-102-competition-takathur
+  uuid: be699c3e-0585-4f7e-a909-2f498a89285a
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s046.htm
+  title: '46: the Dunes (ahqaf)'
+  slug: 91-46-the-dunes-ahqaf
+  uuid: 1f92984d-3ebf-4a2e-8c5e-5a8013fe1e5d
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s103.htm
+  title: '103: Eventide'
+  slug: 92-103-eventide
+  uuid: 63517c20-0693-4c53-98f7-092e362ea87a
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s047.htm
+  title: '47: Muhammad (muhammad)'
+  slug: 93-47-muhammad-muhammad
+  uuid: b28499c4-7933-4cca-b261-991b2bb13f1d
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s104.htm
+  title: '104: the Gossipmonger (humazah)'
+  slug: 94-104-the-gossipmonger-humazah
+  uuid: 152d18cc-4713-4a6b-8486-5e332631233f
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s048.htm
+  title: '48: Victory (fath)'
+  slug: 95-48-victory-fath
+  uuid: 19cbdef1-831e-40e5-bb4a-f9471ab69abc
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s105.htm
+  title: '105: the Elephant (fil)'
+  slug: 96-105-the-elephant-fil
+  uuid: c910abc4-0f11-4af8-8e1c-6952e3f2cd8d
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s049.htm
+  title: '49: the [inner] Apartments (hujurat)'
+  slug: 97-49-the-inner-apartments-hujurat
+  uuid: 76ec3c8b-16dd-4287-9854-d398590c8619
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s106.htm
+  title: '106: Quraysh'
+  slug: 98-106-quraysh
+  uuid: 297d7b2d-6585-4d66-aa7d-0b9ac45365fa
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s050.htm
+  title: '50: (the Letter) Qaf (qaf)'
+  slug: 99-50-the-letter-qaf-qaf
+  uuid: bc18f1e0-e177-4ed7-be9c-8f815de05ed6
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s107.htm
+  title: '107: Almsgiving (maun)'
+  slug: 100-107-almsgiving-maun
+  uuid: e720c6d9-b325-4d1f-b8cb-a2c1ef2b2385
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s051.htm
+  title: '51: Winnowing [winds] (zariat)'
+  slug: 101-51-winnowing-winds-zariat
+  uuid: 4d4c45ef-cf88-422c-9e36-db68d0572d30
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s108.htm
+  title: '108: Plenty (kawthar)'
+  slug: 102-108-plenty-kawthar
+  uuid: cc42a79d-84c6-4d21-b399-a8cf1aff9970
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s052.htm
+  title: '52: the Mount (toor)'
+  slug: 103-52-the-mount-toor
+  uuid: ddbfcf90-6a35-43ac-a432-a4ebe21918f8
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s109.htm
+  title: '109: Disbelievers (kafirun)'
+  slug: 104-109-disbelievers-kafirun
+  uuid: cd5100f1-73cf-4569-9972-c01c8ac8dd16
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s053.htm
+  title: '53: the Star (najm)'
+  slug: 105-53-the-star-najm
+  uuid: dc9699ff-dc44-4956-bd8c-6c96a0b09edf
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s110.htm
+  title: '110: [divine] Support (nasr)'
+  slug: 106-110-divine-support-nasr
+  uuid: 667ad3f6-80b4-40c6-baf6-925ef1c020f0
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s054.htm
+  title: '54: the Moon (qamar)'
+  slug: 107-54-the-moon-qamar
+  uuid: ef4f54fe-90f7-423b-ab11-d0a4f896e690
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s111.htm
+  title: '111: the Flame (lahab)'
+  slug: 108-111-the-flame-lahab
+  uuid: 36ddffca-35b1-4fe5-98e1-acf7e0478f83
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s055.htm
+  title: '55: the Mercy-giving (rahman)'
+  slug: 109-55-the-mercy-giving-rahman
+  uuid: bc2224f7-8f45-4f0d-8fee-7945be21cc6d
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s112.htm
+  title: '112: Sincerity (ikhlas)'
+  slug: 110-112-sincerity-ikhlas
+  uuid: 9ba0706a-6b2e-42f9-b0d7-a8c09830c31e
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s056.htm
+  title: '56: the Inevitable (waqiah)'
+  slug: 111-56-the-inevitable-waqiah
+  uuid: bce353f9-c108-4da6-9d92-6b372d3cffb9
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s113.htm
+  title: '113: Dawn (falaq)'
+  slug: 112-113-dawn-falaq
+  uuid: 104ab926-9692-4d80-b030-ff2a9a77022d
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s057.htm
+  title: '57: Iron (hadid)'
+  slug: 113-57-iron-hadid
+  uuid: 82771954-cc47-4e5a-8d74-85ad6fc96546
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/descrip/s114.htm
+  title: '114: Mankind (nas)'
+  slug: 114-114-mankind-nas
+  uuid: 0dbb6d9a-0143-4218-929d-248dbfb2eeea
+---

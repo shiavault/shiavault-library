@@ -1,0 +1,138 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni
+author: Rashid Al-Shartuni
+translator: Hamid Hussein Waqar
+title: Elementary Arabic Morphology 1
+slug: elementary-arabic-morphology-1
+uuid: cbaaa5ff-fc5c-41ac-bca5-8d4a4593b36b
+description: |
+  A study of Arabic Morphology volume 1. Translated by Hamid Hussein
+  Waqar.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/alphabet
+  title: The Alphabet
+  slug: 1-the-alphabet
+  uuid: dff3d62d-4739-42e1-954a-a6da022d4b46
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/vowels-nunation-and-absence-vowels
+  title: Vowels, Nunation and the Absence of Vowels
+  slug: 2-vowels-nunation-and-the-absence-of-vowels
+  uuid: 382db5ec-691b-47b6-ba58-214134192a17
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/vocalazation-glottal-stop-and-weak-letters
+  title: Vocalazation, The Glottal Stop and Weak Letters
+  slug: 3-vocalazation-the-glottal-stop-and-weak-letters
+  uuid: 4832887a-e2ff-4852-bf58-44188cc48d54
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/make-words-and-subject-morphology
+  title: The Make Up of Words and The Subject of Morphology
+  slug: 4-the-make-up-of-words-and-the-subject-of-morphology
+  uuid: 5b9aa289-a23a-485c-ad06-32787d7ac01d
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/division-words-nouns-and-prepositions
+  title: The Division of Words Into Nouns and Prepositions
+  slug: 5-the-division-of-words-into-nouns-and-prepositions
+  uuid: 398ad891-ed0b-4397-8454-a8c9eebef1ab
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/regular-verbs-and-verbs-increase-letters
+  title: Regular Verbs and Verbs With Increase Letters
+  slug: 6-regular-verbs-and-verbs-with-increase-letters
+  uuid: 03a5ffc4-2c3b-486e-9b97-34e92db5f666
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/division-verbs-perfect-sound-and-unsound
+  title: The Division of Verbs into Perfect, Sound and Unsound
+  slug: 7-the-division-of-verbs-into-perfect-sound-and-unsound
+  uuid: 4511a4cd-6bac-4308-a052-0e94c3d8d1c2
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/division-verbs-imperative-preterite-and-aorist
+  title: The Division of Verbs Into The Imperative, Preterite and Aorist Tenses
+  slug: 8-the-division-of-verbs-into-the-imperative-preterite-and-aorist-tenses
+  uuid: ff220b0c-401f-4796-8861-dea3906786f2
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/conjugation-verb-its-pronouns
+  title: The Conjugation of The Verb With Its Pronouns
+  slug: 9-the-conjugation-of-the-verb-with-its-pronouns
+  uuid: b01e8aef-1d4f-42c3-9ded-c353209f390b
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/aoris-and-imperative-tenses
+  title: The Aoris and Imperative Tenses
+  slug: 10-the-aoris-and-imperative-tenses
+  uuid: 20fb1a83-bc4f-4f6c-b729-6db6133f94bd
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/division-verb-declinable-and-indeclinable-1
+  title: The Division of The Verb Into Declinable and Indeclinable 1
+  slug: 11-the-division-of-the-verb-into-declinable-and-indeclinable-1
+  uuid: d6de6310-21f9-41d6-8c9f-f8db002f1389
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/division-verb-declinable-and-indeclinable-2
+  title: The Division of The Verb Into Declinable and Indeclinable 2
+  slug: 12-the-division-of-the-verb-into-declinable-and-indeclinable-2
+  uuid: 038fc3c9-93b0-4673-9fd8-70617a2605ae
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/division-verb-being-transitive-or-intransitive
+  title: The Division of The Verb Into Being Transitive or Intransitive
+  slug: 13-the-division-of-the-verb-into-being-transitive-or-intransitive
+  uuid: 3c9534a8-1f69-49b9-9ac0-b073cfa3ed64
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/division-verb-passive-and-active
+  title: The Division of The Verb Into Passive and Active
+  slug: 14-the-division-of-the-verb-into-passive-and-active
+  uuid: 25077d2c-94f4-4cb7-975f-b595fc489011
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/division-nouns-single-dual-and-plural
+  title: The Division of Nouns Into Single, Dual and Plural
+  slug: 15-the-division-of-nouns-into-single-dual-and-plural
+  uuid: 33f53621-66cf-48c5-a6b4-b08cb250c616
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/division-nouns-masculine-and-feminine
+  title: The Division of Nouns Into Masculine and Feminine
+  slug: 16-the-division-of-nouns-into-masculine-and-feminine
+  uuid: a5c287fa-940f-4ab8-bf93-a4876e10c20c
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/division-nouns-apalistic-derived
+  title: The Division of Nouns Into Apalistic Derived
+  slug: 17-the-division-of-nouns-into-apalistic-derived
+  uuid: cc196f93-a251-4f32-8b3b-21202ecdb8b7
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/active-and-passive-participles
+  title: Active and Passive Participles
+  slug: 18-active-and-passive-participles
+  uuid: 38ac7b98-7769-4bc2-83d1-4da160371797
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/comparatives-superlatives-and-epithets
+  title: Comparatives, Superlatives, and Epithets
+  slug: 19-comparatives-superlatives-and-epithets
+  uuid: b5133bfc-94d2-400b-956c-4f07571d9ba0
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/division-nouns-definite-and-indefinite
+  title: The Division of Nouns Into Definite and Indefinite
+  slug: 20-the-division-of-nouns-into-definite-and-indefinite
+  uuid: b52b0762-50c8-4199-a9ce-b69feda38a65
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/pronouns
+  title: Pronouns
+  slug: 21-pronouns
+  uuid: 0c63f3ac-6386-406c-b68f-71ea01ce0d9a
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/proper-nouns-and-demonstrative-pronouns
+  title: Proper Nouns and Demonstrative Pronouns
+  slug: 22-proper-nouns-and-demonstrative-pronouns
+  uuid: faa0034f-3ae8-4a04-b355-9164a22ba680
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/conjunctions-definite-nouns-alif-lam-and-prefixed
+  title: Conjunctions, Definite Nouns With The Alif-Lam and Prefixed Nouns
+  slug: 23-conjunctions-definite-nouns-with-the-alif-lam-and-prefixed-nouns
+  uuid: 6d6b93b1-752a-4356-abb6-aa7975329fa2
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/division-nouns-declinable-and-indeclinable
+  title: The Division of Nouns Into Declinable And Indeclinable
+  slug: 24-the-division-of-nouns-into-declinable-and-indeclinable
+  uuid: e4ccd9d8-5944-4b01-b133-d38a37f456c8
+- source: :alislam
+  source_url: http://www.al-islam.org/elementary-arabic-morphology-1-rashid-al-shartuni/indeclinable-nouns
+  title: Indeclinable Nouns
+  slug: 25-indeclinable-nouns
+  uuid: 827546f3-dc58-46e3-b5e2-97a2fc97762c
+---

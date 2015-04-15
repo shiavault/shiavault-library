@@ -1,0 +1,58 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/encounter-hospital-amina-bint-al-huda
+author: Amina Bint al-Huda
+publisher: Islamic Thought Foundation
+translator: M. N. Sultan
+title: Encounter at the Hospital
+slug: encounter-at-the-hospital
+uuid: bc8d631c-447f-4ad1-86ea-a69cb487bb60
+description: |2+
+
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/encounter-hospital-amina-bint-al-huda/part-1-meeting
+  title: 'Part 1: The Meeting'
+  slug: 1-part-1-the-meeting
+  uuid: 91a2c49e-74ef-44f8-8687-c7c247120286
+- source: :alislam
+  source_url: http://www.al-islam.org/encounter-hospital-amina-bint-al-huda/part-2-sick-friend
+  title: 'Part 2: A Sick Friend'
+  slug: 2-part-2-a-sick-friend
+  uuid: 04709d96-8e40-48d5-bd88-ab67354541e3
+- source: :alislam
+  source_url: http://www.al-islam.org/encounter-hospital-amina-bint-al-huda/part-3-further-questions
+  title: 'Part 3: Further Questions'
+  slug: 3-part-3-further-questions
+  uuid: 2a5e9505-e6a9-4801-9915-a3b46c04bb94
+- source: :alislam
+  source_url: http://www.al-islam.org/encounter-hospital-amina-bint-al-huda/part-4-proposal
+  title: 'Part 4: A Proposal'
+  slug: 4-part-4-a-proposal
+  uuid: 98035c79-57ec-41f6-a5fb-5038a4507b6f
+- source: :alislam
+  source_url: http://www.al-islam.org/encounter-hospital-amina-bint-al-huda/part-5-obstacle
+  title: 'Part 5: An Obstacle'
+  slug: 5-part-5-an-obstacle
+  uuid: fd4119f1-d07a-4e4c-a6f2-877dadb3f5c6
+- source: :alislam
+  source_url: http://www.al-islam.org/encounter-hospital-amina-bint-al-huda/part-6-another-meeting
+  title: 'Part 6:  Another Meeting'
+  slug: 6-part-6-another-meeting
+  uuid: 171f3b82-a31b-46ae-be01-4588721766db
+- source: :alislam
+  source_url: http://www.al-islam.org/encounter-hospital-amina-bint-al-huda/part-7-conflict
+  title: 'Part 7: Conflict'
+  slug: 7-part-7-conflict
+  uuid: 059a9a10-7c93-4fc4-8c72-f2e959e75716
+- source: :alislam
+  source_url: http://www.al-islam.org/encounter-hospital-amina-bint-al-huda/part-8-conspiracy
+  title: 'Part 8: A Conspiracy'
+  slug: 8-part-8-a-conspiracy
+  uuid: 2678d64e-d6f2-4030-beff-b0abdd957a5b
+- source: :alislam
+  source_url: http://www.al-islam.org/encounter-hospital-amina-bint-al-huda/part-9-truth-revealed
+  title: 'Part 9: The Truth Revealed'
+  slug: 9-part-9-the-truth-revealed
+  uuid: 4b6542d4-f0e1-4f57-b1bf-d3157ac91c3a
+---

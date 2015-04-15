@@ -1,0 +1,23 @@
+---
+source: :mareef
+source_url: http://www.maaref-foundation.com/english/library/hadith/the_epistle/index.htm
+title: The Epistle Imam Ali's Famous Epistle To Malik Ashtar
+slug: the-epistle-imam-ali-s-famous-epistle-to-malik-ashtar
+uuid: 3b490ac7-c864-45c5-8808-abfb90ddbfdf
+chapters:
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/hadith/the_epistle/00.htm
+  title: Title
+  slug: 1-title
+  uuid: 495d818c-450a-40b7-9a12-c784df16c633
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/hadith/the_epistle/01.htm
+  title: The Epistle
+  slug: 2-the-epistle
+  uuid: 7d7967df-c2d8-44ec-ada1-0c695bd03d59
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/hadith/the_epistle/02.htm
+  title: "عهد الإمام علي (عليه السلام) إلى مالك الأشتر"
+  slug: 3-
+  uuid: fa3798ce-232b-417b-a8e1-ca1bb54a82d0
+---

@@ -1,0 +1,38 @@
+---
+source: :mareef
+source_url: http://www.maaref-foundation.com/english/library/quran/light/index_s.htm
+title: The Light of the Holy Qur'an
+slug: the-light-of-the-holy-qur-an
+uuid: 2d40c89c-76d6-4218-8b03-6e635bef70c1
+chapters:
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/light/light_01/002/index_s.htm
+  title: Sura Al-baqarah (the Cow)
+  slug: 1-sura-al-baqarah-the-cow
+  uuid: 8323ddcd-4eb8-4662-ae2a-3cd9b8d32fc6
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/light/light_03/004/index_s.htm
+  title: Sura An-nisa, (the Women)
+  slug: 2-sura-an-nisa-the-women
+  uuid: d8e4f3bd-c8e9-429b-8500-c4862481304f
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/light/light_04/005/index_s.htm
+  title: Sura Al-ma'idah
+  slug: 3-sura-al-ma-idah
+  uuid: 8bd8ce15-e118-4d68-886c-60c2df5ec863
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/light/light_05/007/index_s.htm
+  title: Sura Al-'a'raf
+  slug: 4-sura-al-a-raf
+  uuid: d134b0be-a4fc-41dd-bfb9-5ffdbb2706b4
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/light/light_11/025/index_s.htm
+  title: Sura Al-furqan
+  slug: 5-sura-al-furqan
+  uuid: 4fa14979-8d1b-4221-b139-d80ddbad7c17
+- source: :mareef
+  source_url: http://www.maaref-foundation.com/english/library/quran/light/light_14/029/index_s.htm
+  title: Sura Al-'ankabūt,
+  slug: 6-sura-al-ankabut
+  uuid: 94bbeb21-e379-4a83-a0ca-bf15934ef9c5
+---

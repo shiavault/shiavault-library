@@ -1,0 +1,115 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/introduction-science-tafsir-quran-ayatullah-jafar-subhani
+author: Ayatullah Jafar Subhani
+publisher: The Islamic Education Board of the World Federation of KSIMC
+title: Introduction to the Science of Tafsir of the Quran
+slug: introduction-to-the-science-of-tafsir-of-the-quran
+uuid: 80ab9199-6525-4f79-8cae-1a9e19507efe
+description: |
+  A discussion of the rules governing the interpretation of the Holy
+  Quran.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-science-tafsir-quran-ayatullah-jafar-subhani/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: e6acf040-f34b-4229-84c6-3cbf6fbcf759
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-science-tafsir-quran-ayatullah-jafar-subhani/biography-author
+  title: Biography of the Author
+  slug: 2-biography-of-the-author
+  uuid: 00d8538c-482a-430e-8547-38271e526552
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-science-tafsir-quran-ayatullah-jafar-subhani/part-1-correct-approach-exegesis-qur%E2%80%99
+  title: 'Part 1: A Correct Approach to the Exegesis of the Qur’an'
+  slug: 3-part-1-a-correct-approach-to-the-exegesis-of-the-qur-an
+  uuid: bdaa966d-e813-42b3-9add-aa16b8d64755
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-science-tafsir-quran-ayatullah-jafar-subhani/part-2-awareness-rules-arabic-grammar
+  title: 'Part 2: An Awareness of the Rules of Arabic Grammar'
+  slug: 4-part-2-an-awareness-of-the-rules-of-arabic-grammar
+  uuid: bfb70ed9-6bd1-4678-a8f8-976c524a4bfa
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-science-tafsir-quran-ayatullah-jafar-subhani/part-3-awareness-meaning-words-quran
+  title: 'Part 3: An Awareness of the Meaning of the Words in the Qur`an'
+  slug: 5-part-3-an-awareness-of-the-meaning-of-the-words-in-the-qur-an
+  uuid: 0702d573-5523-4e86-af57-a541c214270c
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-science-tafsir-quran-ayatullah-jafar-subhani/part-4-exegesis-quran-through-quran
+  title: 'Part 4: Exegesis of the Qur`an through the Qur`an'
+  slug: 6-part-4-exegesis-of-the-qur-an-through-the-qur-an
+  uuid: 2e17cfe5-f226-4e06-91ef-e3285300aa2c
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-science-tafsir-quran-ayatullah-jafar-subhani/part-5-examining-occasion-revelation
+  title: 'Part 5: Examining the Occasion of Revelation of the Verses'
+  slug: 7-part-5-examining-the-occasion-of-revelation-of-the-verses
+  uuid: 5688927e-2c4c-4ea6-a06f-7a8b65429c68
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-science-tafsir-quran-ayatullah-jafar-subhani/part-6-examining-authentic-ahadith
+  title: 'Part 6: Examining the Authentic Ahadith'
+  slug: 8-part-6-examining-the-authentic-ahadith
+  uuid: 272db647-1339-49e0-b386-0f7a92bf6bf2
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-science-tafsir-quran-ayatullah-jafar-subhani/part-7-consideration-harmony-between-all
+  title: 'Part 7: A Consideration of the Harmony between all the Verses of the Qur’an'
+  slug: 9-part-7-a-consideration-of-the-harmony-between-all-the-verses-of-the-qur-an
+  uuid: 52c847fd-f37d-4274-b2c2-62d56d6c4cfc
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-science-tafsir-quran-ayatullah-jafar-subhani/part-8-examining-context-verses-quran
+  title: 'Part 8: Examining the Context of the Verses of the Qur`an'
+  slug: 10-part-8-examining-the-context-of-the-verses-of-the-qur-an
+  uuid: 69a35d0a-28d3-4402-9e89-bd347449da21
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-science-tafsir-quran-ayatullah-jafar-subhani/part-9-awareness-various-viewpoints-and
+  title: 'Part 9: Awareness of the Various Viewpoints and Opinions'
+  slug: 11-part-9-awareness-of-the-various-viewpoints-and-opinions
+  uuid: a190747a-95b6-4485-8caa-4da8298259b1
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-science-tafsir-quran-ayatullah-jafar-subhani/part-10-distancing-oneself-any-form
+  title: 'Part 10: Distancing Oneself from any Form of Prejudgment'
+  slug: 12-part-10-distancing-oneself-from-any-form-of-prejudgment
+  uuid: 0fc8a128-9325-417f-a0e1-b57994477046
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-science-tafsir-quran-ayatullah-jafar-subhani/part-11-awareness-philosophical-and
+  title: 'Part 11: Awareness of the Philosophical and Scientific Theories'
+  slug: 13-part-11-awareness-of-the-philosophical-and-scientific-theories
+  uuid: 470e5d09-8fcb-40df-bcd9-85bd19cd5d32
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-science-tafsir-quran-ayatullah-jafar-subhani/part-12-understanding-early-history-islam
+  title: 'Part 12: Understanding of the Early History of Islam'
+  slug: 14-part-12-understanding-of-the-early-history-of-islam
+  uuid: 5bf48c0e-eaed-4954-93e0-c6518457daee
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-science-tafsir-quran-ayatullah-jafar-subhani/part-13-familiarity-stories-and-history
+  title: 'Part 13:  Familiarity with the Stories and the History of the Lives of Previous
+    Prophets'
+  slug: 15-part-13-familiarity-with-the-stories-and-the-history-of-the-lives-of-previous-prophets
+  uuid: 7e1fb288-c004-4871-a321-f5290c378d98
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-science-tafsir-quran-ayatullah-jafar-subhani/part-14-knowledge-historical-environment
+  title: 'Part 14: Knowledge of the Historical Environment in which the Qur`an was
+    Revealed'
+  slug: 16-part-14-knowledge-of-the-historical-environment-in-which-the-qur-an-was-revealed
+  uuid: 5f8041ca-86a2-4fb3-a3ae-674969ae9785
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-science-tafsir-quran-ayatullah-jafar-subhani/part-15-knowing-verses-quran-which-are-
+  title: 'Part 15: Knowing the Verses of the Qur`an which are “Makki” and “Madani”'
+  slug: 17-part-15-knowing-the-verses-of-the-qur-an-which-are-makki-and-madani
+  uuid: e003f636-8447-443b-8993-31911bd3ecc8
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-science-tafsir-quran-ayatullah-jafar-subhani/part-16-question-phrase-%E2%80%9Cclear-arabic%E2%80%9D
+  title: 'Part 16: Question On the Phrase “Clear Arabic”'
+  slug: 18-part-16-question-on-the-phrase-clear-arabic
+  uuid: 33d495ba-d797-4b87-9715-daeb80db78a0
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-science-tafsir-quran-ayatullah-jafar-subhani/closure
+  title: Closure
+  slug: 19-closure
+  uuid: fa384564-7e0a-48aa-b4f1-f0b724fad7a8
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-science-tafsir-quran-ayatullah-jafar-subhani/published-works-ieb-world-federation
+  title: Published Works from the IEB of the World Federation
+  slug: 20-published-works-from-the-ieb-of-the-world-federation
+  uuid: 00a732bc-62b1-4d29-b229-a50cbee6de63
+---

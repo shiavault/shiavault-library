@@ -1,0 +1,64 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/what-everyone-should-know-about-islam-ayatullah-ibrahim-amini
+author: Ayatullah Ibrahim Amini
+title: What Everyone Should Know about Islam
+slug: what-everyone-should-know-about-islam
+uuid: 1a1107ff-26c1-494e-9d0e-3a0af55b6bd1
+description: |
+  This book focuses on the principles of religion which are relevant to
+  the thought and soul of human beings, reason and intellect follow it,
+  and deeds and movement of human beings spring forth from its
+  fountainhead accordingly.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/what-everyone-should-know-about-islam-ayatullah-ibrahim-amini/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: 74e39bc6-b6d5-462f-8ac1-4a18769ff464
+- source: :alislam
+  source_url: http://www.al-islam.org/what-everyone-should-know-about-islam-ayatullah-ibrahim-amini/preface
+  title: Preface
+  slug: 2-preface
+  uuid: 705cca3d-4d08-4eae-bdb1-55e7a34f4332
+- source: :alislam
+  source_url: http://www.al-islam.org/what-everyone-should-know-about-islam-ayatullah-ibrahim-amini/chapter-1-theology
+  title: 'Chapter 1: Theology'
+  slug: 3-chapter-1-theology
+  uuid: 03288b0a-ac82-49cb-9df1-3d17ffea2fa0
+- source: :alislam
+  source_url: http://www.al-islam.org/what-everyone-should-know-about-islam-ayatullah-ibrahim-amini/chapter-2-prophethood
+  title: 'Chapter 2: Prophethood'
+  slug: 4-chapter-2-prophethood
+  uuid: 0bdaabd2-9f71-44fe-88f1-d97f89cf0e84
+- source: :alislam
+  source_url: http://www.al-islam.org/what-everyone-should-know-about-islam-ayatullah-ibrahim-amini/chapter-3-imamate-leadership-divine
+  title: 'Chapter 3: Imamate (Leadership with Divine Authority)'
+  slug: 5-chapter-3-imamate-leadership-with-divine-authority
+  uuid: da03c4d3-9a14-4521-a482-2ee21ac1d8fe
+- source: :alislam
+  source_url: http://www.al-islam.org/what-everyone-should-know-about-islam-ayatullah-ibrahim-amini/chapter-4-resurrection-or-hereafter
+  title: 'Chapter 4: Resurrection or Hereafter'
+  slug: 6-chapter-4-resurrection-or-hereafter
+  uuid: b6927e13-ee54-4973-8635-1d28e56c9cdd
+- source: :alislam
+  source_url: http://www.al-islam.org/what-everyone-should-know-about-islam-ayatullah-ibrahim-amini/chapter-5-moral-ethics
+  title: 'Chapter 5: Moral Ethics'
+  slug: 7-chapter-5-moral-ethics
+  uuid: c82f03be-5785-40fc-ac0c-7fec13bd1ca0
+- source: :alislam
+  source_url: http://www.al-islam.org/what-everyone-should-know-about-islam-ayatullah-ibrahim-amini/chapter-6-branches-religion
+  title: 'Chapter 6: Branches of Religion'
+  slug: 8-chapter-6-branches-of-religion
+  uuid: d164b422-43a6-4791-a3a8-0503d6e417ed
+- source: :alislam
+  source_url: http://www.al-islam.org/what-everyone-should-know-about-islam-ayatullah-ibrahim-amini/bibliography
+  title: Bibliography
+  slug: 9-bibliography
+  uuid: 027541e9-a626-4bf4-8a67-021f264077b7
+- source: :alislam
+  source_url: http://www.al-islam.org/what-everyone-should-know-about-islam-ayatullah-ibrahim-amini/glossary
+  title: Glossary
+  slug: 10-glossary
+  uuid: f640bca9-fa5e-44b4-9553-ed527be23d81
+---

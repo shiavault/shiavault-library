@@ -1,0 +1,95 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/philosophy-islam-sayyid-muhammad-husayni-beheshti-muhammad-jawad-bahonar
+author: Sayyid Muhammad Husayni BeheshtiMuhammad Jawad Bahonar
+publisher: Islamic Seminary Publications; Karachi - The Islamic Republic of Pakistan
+title: Philosophy Of Islam
+slug: philosophy-of-islam
+uuid: 476a8aeb-6aa9-4537-8f50-9e90fda246d2
+description: |
+  Fundamental Islamic topics such as principles of religion, man, Iman
+  (faith), definitive knowledge, monothesim of the Qur'an, name and
+  attributes of God, guides of humanity, evolution, history, self-making,
+  family, economy and social system.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/philosophy-islam-sayyid-muhammad-husayni-beheshti-muhammad-jawad-bahonar/man-our-age
+  title: Man of Our Age
+  slug: 1-man-of-our-age
+  uuid: 0a0dbefc-8a37-4590-a319-11e02e9c4272
+- source: :alislam
+  source_url: http://www.al-islam.org/philosophy-islam-sayyid-muhammad-husayni-beheshti-muhammad-jawad-bahonar/iman
+  title: Iman
+  slug: 2-iman
+  uuid: 3e1774e5-bd12-425b-b1c3-c24e3b2b0a9c
+- source: :alislam
+  source_url: http://www.al-islam.org/philosophy-islam-sayyid-muhammad-husayni-beheshti-muhammad-jawad-bahonar/deep-and-definite-knowledge
+  title: Deep and Definite Knowledge
+  slug: 3-deep-and-definite-knowledge
+  uuid: 02fbcb26-7966-46c6-a28e-0e4292d4925e
+- source: :alislam
+  source_url: http://www.al-islam.org/philosophy-islam-sayyid-muhammad-husayni-beheshti-muhammad-jawad-bahonar/sources-creation
+  title: The Sources of Creation
+  slug: 4-the-sources-of-creation
+  uuid: 2ba689ee-f596-4d8f-8f62-cdadfe6137f8
+- source: :alislam
+  source_url: http://www.al-islam.org/philosophy-islam-sayyid-muhammad-husayni-beheshti-muhammad-jawad-bahonar/monotheism-qur%E2%80%99
+  title: Monotheism of the Qur’an
+  slug: 5-monotheism-of-the-qur-an
+  uuid: f278a960-63fc-4936-a34f-e9457500ec15
+- source: :alislam
+  source_url: http://www.al-islam.org/philosophy-islam-sayyid-muhammad-husayni-beheshti-muhammad-jawad-bahonar/names-and-attributes-allah
+  title: Names and Attributes of Allah
+  slug: 6-names-and-attributes-of-allah
+  uuid: bfaafdef-536f-4def-9d06-1a4702571201
+- source: :alislam
+  source_url: http://www.al-islam.org/philosophy-islam-sayyid-muhammad-husayni-beheshti-muhammad-jawad-bahonar/role-divine-cosmology-human
+  title: Role of Divine Cosmology in Human Life
+  slug: 7-role-of-divine-cosmology-in-human-life
+  uuid: 5bedf815-2a05-4097-a678-f4f5a37a83ad
+- source: :alislam
+  source_url: http://www.al-islam.org/philosophy-islam-sayyid-muhammad-husayni-beheshti-muhammad-jawad-bahonar/guides-humanity
+  title: Guides of Humanity
+  slug: 8-guides-of-humanity
+  uuid: 6f131c34-329e-443a-a021-5bda6ff54a90
+- source: :alislam
+  source_url: http://www.al-islam.org/philosophy-islam-sayyid-muhammad-husayni-beheshti-muhammad-jawad-bahonar/islam-advocates-justice
+  title: Islam Advocates Justice
+  slug: 9-islam-advocates-justice
+  uuid: f47c6e26-8e47-47e0-a30c-cb90e6276c79
+- source: :alislam
+  source_url: http://www.al-islam.org/philosophy-islam-sayyid-muhammad-husayni-beheshti-muhammad-jawad-bahonar/man-and-evolution
+  title: Man and Evolution
+  slug: 10-man-and-evolution
+  uuid: 2978d078-5fd9-46c2-800f-2a44b2d8fe87
+- source: :alislam
+  source_url: http://www.al-islam.org/philosophy-islam-sayyid-muhammad-husayni-beheshti-muhammad-jawad-bahonar/man
+  title: Man
+  slug: 11-man
+  uuid: 3b4bd7a5-745e-4234-bd03-b1b5f1e2d21d
+- source: :alislam
+  source_url: http://www.al-islam.org/philosophy-islam-sayyid-muhammad-husayni-beheshti-muhammad-jawad-bahonar/islamic-conception-history
+  title: Islamic Conception of History
+  slug: 12-islamic-conception-of-history
+  uuid: 44a86213-6324-4fa0-9f4a-401470886bcf
+- source: :alislam
+  source_url: http://www.al-islam.org/philosophy-islam-sayyid-muhammad-husayni-beheshti-muhammad-jawad-bahonar/self-making
+  title: Self Making
+  slug: 13-self-making
+  uuid: da1a3330-8d9c-4ef1-af08-8955c35f6518
+- source: :alislam
+  source_url: http://www.al-islam.org/philosophy-islam-sayyid-muhammad-husayni-beheshti-muhammad-jawad-bahonar/family
+  title: Family
+  slug: 14-family
+  uuid: c6ee6e19-d378-4f7d-8293-6cfa6dda98bd
+- source: :alislam
+  source_url: http://www.al-islam.org/philosophy-islam-sayyid-muhammad-husayni-beheshti-muhammad-jawad-bahonar/guidelines-islamic-economy
+  title: Guidelines of Islamic Economy
+  slug: 15-guidelines-of-islamic-economy
+  uuid: 59f26413-5b64-453f-afa3-0c5030793b91
+- source: :alislam
+  source_url: http://www.al-islam.org/philosophy-islam-sayyid-muhammad-husayni-beheshti-muhammad-jawad-bahonar/just-social-system
+  title: Just Social System
+  slug: 16-just-social-system
+  uuid: d65e70df-de4d-45ab-bf9e-d811155a9cda
+---

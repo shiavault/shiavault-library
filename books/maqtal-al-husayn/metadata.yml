@@ -1,0 +1,389 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram
+author: Abd al Razzaq al-Muqarram
+publisher: Al-Kharsan Foundation for Publications
+translator: Yasin T. Al-Jibouri
+title: Maqtal al-Husayn
+slug: maqtal-al-husayn
+uuid: 3c022f3c-988a-4bdc-b7d7-0ed253f4b5d7
+description: |
+  A detailed and authentic account of the tragedy of Karbala and the
+  sacrifice of Imam Husayn (a).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/author-s-biography
+  title: Author’s Biography
+  slug: 1-author-s-biography
+  uuid: d04662d5-4004-469b-a4e5-360847b93feb
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/al-husayn-s-uprising
+  title: Al-Husayn’s Uprising
+  slug: 2-al-husayn-s-uprising
+  uuid: 1e1fbad6-f0b0-4dd1-9d86-889376b3a1c3
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/prophets-are-al-husayn-s-side
+  title: The Prophets are on Al-Husayn’s Side
+  slug: 3-the-prophets-are-on-al-husayn-s-side
+  uuid: 529d8cc2-72e8-4c11-a37f-d0e8af6c9d18
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/intention-kill
+  title: The Intention to Kill
+  slug: 4-the-intention-to-kill
+  uuid: d25a7723-0a59-4d61-97bd-63b39b3b695c
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/verse-perdition
+  title: The Verse of Perdition
+  slug: 5-the-verse-of-perdition
+  uuid: 923fe155-a314-499e-a847-a400ad653211
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/al-husayn-s-prior-knowledge-his-martrydom
+  title: Al-Husayn’s Prior Knowledge of His Martrydom
+  slug: 6-al-husayn-s-prior-knowledge-of-his-martrydom
+  uuid: 15cf7af3-e75e-4109-bb09-09f691c7de1c
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/al-husayn-conqueror
+  title: 'Al-Husayn: A Conqueror'
+  slug: 7-al-husayn-a-conqueror
+  uuid: 8ae65447-2bfb-488f-b627-9949b109e9b0
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/al-husayn-among-his-companions
+  title: Al-Husayn Among His Companions
+  slug: 8-al-husayn-among-his-companions
+  uuid: f64b6d62-ba03-4eb2-9fd3-3e9045ee1f7c
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/al-husayn-taff-day
+  title: Al-Husayn on the Taff Day
+  slug: 9-al-husayn-on-the-taff-day
+  uuid: c740e14d-5059-4275-93b2-f7449909b7e8
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/desertion-permitted
+  title: Desertion Permitted
+  slug: 10-desertion-permitted
+  uuid: 786de132-e0b7-442c-bcc0-d05ef1f8c9c8
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/sharia-survided-through-al-husayn
+  title: The Shari’a Survided through Al-Husayn
+  slug: 11-the-shari-a-survided-through-al-husayn
+  uuid: 3a7bd8ec-bd9e-496b-8469-79785d61e0f3
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/mourning-al-husayn
+  title: Mourning Al-Husayn
+  slug: 12-mourning-al-husayn
+  uuid: 1bb0dbc2-37bc-4a79-aa36-c0b71f40f93e
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/feign-weeping
+  title: Feign Weeping
+  slug: 13-feign-weeping
+  uuid: caa8566e-9723-4348-b399-70fc31d96614
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/prostrating-turba
+  title: Prostrating on the Turba
+  slug: 14-prostrating-on-the-turba
+  uuid: 8c1fcc43-54e9-40da-88d5-b64d680278cf
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/legislating-ziyarat
+  title: Legislating the Ziyarat
+  slug: 15-legislating-the-ziyarat
+  uuid: 0eb26dc0-e71a-4d3a-bfcb-f70d6f033c79
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/preferring-them-over-all-others
+  title: Preferring Them over all Others
+  slug: 16-preferring-them-over-all-others
+  uuid: a6bff659-b4e6-4072-afc5-b536e691ab6f
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/composing-poetry-their-memory
+  title: Composing Poetry in Their Memory
+  slug: 17-composing-poetry-in-their-memory
+  uuid: 078724aa-9ad6-45b5-a4b8-90a91c89482c
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/question-marching-family
+  title: The Question of Marching With the Family
+  slug: 18-the-question-of-marching-with-the-family
+  uuid: 6699f6b3-15dc-4338-813f-e411fd611986
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/alawides-revolutions
+  title: "‘Alawides Revolutions"
+  slug: 19-alawides-revolutions
+  uuid: bfa57bc9-6715-480b-bd28-279d9691d597
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/epic-karbala
+  title: The Epic of  Karbala’
+  slug: 20-the-epic-of-karbala
+  uuid: 69a18e84-e5af-45ae-a337-85cb530e7b91
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/yazid-son-muawiyah
+  title: Yazid, Son of Mu’awiyah
+  slug: 21-yazid-son-of-mu-awiyah
+  uuid: b5e41cf7-82ea-4014-8114-4816940ff43b
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/men-expressing-fear-al-husayn
+  title: Men Expressing Fear for Al-Husayn
+  slug: 22-men-expressing-fear-for-al-husayn
+  uuid: 5f73185f-9cb0-4aef-9747-2d600350a9d7
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/will
+  title: The Will
+  slug: 23-the-will
+  uuid: f0227c4d-ece4-4552-9ea4-704396cefff5
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/departure-medina
+  title: Departure from Medina
+  slug: 24-departure-from-medina
+  uuid: 324b8ecd-80c6-4531-b957-6b43734c476e
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/mecca
+  title: In Mecca
+  slug: 25-in-mecca
+  uuid: a355df54-810b-4ebf-952d-603e9d23da4c
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/kufians-letters
+  title: The Kufians Letters
+  slug: 26-the-kufians-letters
+  uuid: 610e3103-e039-41b6-95ce-adb14c919bc1
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/al-husayn-responds
+  title: Al-Husayn Responds
+  slug: 27-al-husayn-responds
+  uuid: 8c86dc5e-b4fc-4ab5-97fa-f6316faa80e2
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/muslim-starts-his-trip
+  title: Muslim Starts his Trip
+  slug: 28-muslim-starts-his-trip
+  uuid: 3a53ea19-ca1b-447e-a48f-866a72fcd803
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/entering-kufa
+  title: Entering Kufa
+  slug: 29-entering-kufa
+  uuid: 710ab715-32a5-45c1-94bb-d7833ae87b17
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/oath-allegiance
+  title: The Oath of Allegiance
+  slug: 30-the-oath-of-allegiance
+  uuid: f69a44f6-df7c-4e00-8f16-86806ddb1099
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/muslim-s-stand
+  title: Muslim’s Stand
+  slug: 31-muslim-s-stand
+  uuid: 507614a9-dc53-42ca-993e-2735fd62b7ca
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/hani-s-stand
+  title: Hani’s Stand
+  slug: 32-hani-s-stand
+  uuid: b0a955f9-8ac7-4366-be41-85ef6930d3b0
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/muslim-s-uprising
+  title: Muslim’s Uprising
+  slug: 33-muslim-s-uprising
+  uuid: 4ae7180f-d543-4924-99a2-b2fdbc84dc18
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/al-mukhtar-jailed
+  title: al-Mukhtar is Jailed
+  slug: 34-al-mukhtar-is-jailed
+  uuid: df21a5d6-6dcf-4855-8d9a-4be129617d0f
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/muslim-house-tawa
+  title: Muslim at the House of Taw’a
+  slug: 35-muslim-at-the-house-of-taw-a
+  uuid: 49eb4046-1016-4f96-989a-f56c751a8289
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/muslim-meets-ibn-ziyad
+  title: Muslim Meets Ibn Ziyad
+  slug: 36-muslim-meets-ibn-ziyad
+  uuid: 3ca997bd-f5ba-4cc5-8ed6-f9af745c1602
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/journey-iraq
+  title: The Journey to Iraq
+  slug: 37-the-journey-to-iraq
+  uuid: c186b2ba-0ca2-471b-923a-fd1fcc4e38c1
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/karbala
+  title: Karbala’
+  slug: 38-karbala
+  uuid: 8a041fe4-84d2-4e07-ac99-d1abe7e8341d
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/ibn-ziyad-meets-al-husayn
+  title: Ibn Ziyad Meets Al-Husayn
+  slug: 39-ibn-ziyad-meets-al-husayn
+  uuid: ec9f1d96-d574-4465-8a57-3cdcdd4dc560
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/ibn-ziyad-delivers-speech
+  title: Ibn Ziyad Delivers a Speech
+  slug: 40-ibn-ziyad-delivers-a-speech
+  uuid: 0681eaa3-6ec3-42a9-85aa-f2fccdfc3ddc
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/al-husayn-meets-kufians
+  title: Al-Husayn Meets the Kufians
+  slug: 41-al-husayn-meets-the-kufians
+  uuid: f91efda4-9b7d-4aa4-8cec-4c28cd1071c3
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/seventh-day
+  title: The Seventh Day
+  slug: 42-the-seventh-day
+  uuid: 41000165-c446-4801-9235-bbf6a1d04999
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/conceit-ibn-sad
+  title: Conceit of Ibn Sa’d
+  slug: 43-conceit-of-ibn-sa-d
+  uuid: 7428d908-ce80-42a3-9f5e-079f7d77d79e
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/calumny-ibn-sad
+  title: Calumny of Ibn Sa’d
+  slug: 44-calumny-of-ibn-sa-d
+  uuid: e3d3c14f-9c34-4aad-8469-a92b1458056d
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/al-shimr-s-oppressiveness
+  title: Al-Shimr’s Oppressiveness
+  slug: 45-al-shimr-s-oppressiveness
+  uuid: 8ec5a03e-bb1b-4bbf-89e8-4de344484cab
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/security
+  title: Security
+  slug: 46-security
+  uuid: b81e86e7-a2c8-4c3b-b675-0a5c4a406276
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/banu-asad
+  title: Banu Asad
+  slug: 47-banu-asad
+  uuid: 1d824985-607c-481f-8750-3e58e35fa7dc
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/day-nine
+  title: Day Nine
+  slug: 48-day-nine
+  uuid: 507c8e0e-fb33-4157-ae43-0707fd4aa9a0
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/those-whose-conscience-free
+  title: Those Whose Conscience is Free
+  slug: 49-those-whose-conscience-is-free
+  uuid: 719ace72-0f51-4fc9-afbb-a15d89642232
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/night-preceeding-ashura
+  title: The Night Preceeding ‘Ashura
+  slug: 50-the-night-preceeding-ashura
+  uuid: 4971812f-d5dd-4992-8b31-a8eb4d08b517
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/ashura
+  title: "‘Ashura"
+  slug: 51-ashura
+  uuid: 626087c6-1d5c-4aa9-97df-a4c472e50e13
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/al-husayn-ashura
+  title: Al-Husayn on ‘Ashura
+  slug: 52-al-husayn-on-ashura
+  uuid: 405e1d84-e139-462c-b2b1-c739a188ddd5
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/first-campaign
+  title: The First Campaign
+  slug: 53-the-first-campaign
+  uuid: a693fd3a-74fe-45c8-9cdb-32407dacdb6b
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/martrydom-ahl-al-bayt
+  title: Martrydom of Ahl al-Bayt
+  slug: 54-martrydom-of-ahl-al-bayt
+  uuid: e7368a23-7036-45b8-a008-9ee567b288df
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/campaign-family-abu-talib
+  title: Campaign of the Family of Abu Talib
+  slug: 55-campaign-of-the-family-of-abu-talib
+  uuid: 47e332ad-f72a-4631-bfba-420699877320
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/master-martyrs-battle-field
+  title: The Master of Martyrs on the Battle Field
+  slug: 56-the-master-of-martyrs-on-the-battle-field
+  uuid: 04286710-98a5-45f6-bcdc-64ed2e6669e6
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/post-martrydom-events
+  title: Post Martrydom Events
+  slug: 57-post-martrydom-events
+  uuid: d0ac41a4-374b-4c5d-978d-abb1e26d66aa
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/eleventh-night-company-al-husayn
+  title: The Eleventh Night in the Company of al-Husayn (‘a)
+  slug: 58-the-eleventh-night-in-the-company-of-al-husayn-a
+  uuid: 53b07a61-a223-433b-a5f2-87449022add6
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/looting
+  title: The Looting
+  slug: 59-the-looting
+  uuid: 4a08e455-06b2-4960-8e9b-b232cd69f624
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/steed
+  title: The Steed
+  slug: 60-the-steed
+  uuid: 3a46fa4e-6e66-43ab-9b9e-9fc4cf528507
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/severed-heads
+  title: The Severed Heads
+  slug: 61-the-severed-heads
+  uuid: 4f328694-ad3d-4bc9-9e2e-ff238c5e60d1
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/departing-karbala
+  title: Departing from Karbala’
+  slug: 62-departing-from-karbala
+  uuid: b7a3d4d9-c76f-41c5-a348-affd99356d1a
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/kufa
+  title: Kufa
+  slug: 63-kufa
+  uuid: 39c58f58-73ff-42dc-a0e0-1051e2811653
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/burial
+  title: The Burial
+  slug: 64-the-burial
+  uuid: ce23cfd6-b12a-4f24-8bde-8f90aa453c6d
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/governors-mansion
+  title: At The Governor's Mansion
+  slug: 65-at-the-governor-s-mansion
+  uuid: c38ed8a4-8d93-47c9-a8e7-e6870daeedc0
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/captives-taken-syria
+  title: The Captives Taken To Syria
+  slug: 66-the-captives-taken-to-syria
+  uuid: 2a686483-f526-4b25-9793-b8a97a25913a
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/syria
+  title: In Syria
+  slug: 67-in-syria
+  uuid: d0d1a0db-7d88-4152-9d8d-6a766a569a35
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/back-medina
+  title: Back to Medina
+  slug: 68-back-to-medina
+  uuid: a721cad0-3005-4e6f-a48a-597848b2685c
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/severed-head-rejoins-body
+  title: The Severed Head Rejoins the Body
+  slug: 69-the-severed-head-rejoins-the-body
+  uuid: 0e731048-6c81-4c1e-886e-922835edaa35
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/arbain
+  title: The Arba’in
+  slug: 70-the-arba-in
+  uuid: 65ccf80e-faa7-4aea-abf4-9720ab64ea33
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/summary-marks-mumin
+  title: A Summary of the Marks of a Mu’min
+  slug: 71-a-summary-of-the-marks-of-a-mu-min
+  uuid: 9c9912ae-eaca-4cee-b36b-d0db2e1a97ae
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/medina
+  title: In Medina
+  slug: 72-in-medina
+  uuid: 6862013f-9189-41ba-95fe-12461aed721f
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/conclusion
+  title: Conclusion
+  slug: 73-conclusion
+  uuid: 61dcf24d-ae97-484c-9e00-43593110699b
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/eulogies
+  title: Eulogies
+  slug: 74-eulogies
+  uuid: 7384e74d-c5b7-4643-bbde-570a60c2f18f
+- source: :alislam
+  source_url: http://www.al-islam.org/maqtal-al-husayn-abd-al-razzaq-al-muqarram/glossary
+  title: Glossary
+  slug: 75-glossary
+  uuid: e12ed5f0-970b-46d7-b558-c976f182bc81
+---

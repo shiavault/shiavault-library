@@ -1,0 +1,113 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/the-characteristics-of-a-muslim-al-balagh
+author: N/A
+publisher: Al Balagh Foundation
+title: The Characteristics of a Muslim
+slug: the-characteristics-of-a-muslim
+uuid: a53973aa-dbb7-47f3-85ef-7cb24eabbcd2
+description: |
+  Simple accounts of good morals and behavior, God's love, parents, and
+  how to be a good Muslim.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/the-characteristics-of-a-muslim-al-balagh/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: aa179708-cf4c-4bcc-b37d-e0433e53ec57
+- source: :alislam
+  source_url: http://www.al-islam.org/the-characteristics-of-a-muslim-al-balagh/best-morals
+  title: The Best of Morals
+  slug: 2-the-best-of-morals
+  uuid: 6c21289a-4004-49f8-a5cd-4428ae7eadef
+- source: :alislam
+  source_url: http://www.al-islam.org/the-characteristics-of-a-muslim-al-balagh/practising-good-manners
+  title: Practising Good Manners
+  slug: 3-practising-good-manners
+  uuid: 52d4867c-fe7d-4e51-aabb-a2a80902e5a3
+- source: :alislam
+  source_url: http://www.al-islam.org/the-characteristics-of-a-muslim-al-balagh/truthful-belief
+  title: The Truthful Belief
+  slug: 4-the-truthful-belief
+  uuid: 9b044aee-e1ae-4675-8ccf-4b73a4538a21
+- source: :alislam
+  source_url: http://www.al-islam.org/the-characteristics-of-a-muslim-al-balagh/who-believer
+  title: Who is a Believer
+  slug: 5-who-is-a-believer
+  uuid: 1539a0bc-fecc-40a3-bed9-9553ecbaf1b9
+- source: :alislam
+  source_url: http://www.al-islam.org/the-characteristics-of-a-muslim-al-balagh/believers-attributes
+  title: A Believers Attributes
+  slug: 6-a-believers-attributes
+  uuid: c584e1b3-6f97-4b99-a001-fc2140b04551
+- source: :alislam
+  source_url: http://www.al-islam.org/the-characteristics-of-a-muslim-al-balagh/characteristics-believer
+  title: The Characteristics of a Believer
+  slug: 7-the-characteristics-of-a-believer
+  uuid: 6417603f-8dfa-4cd2-b50a-4b3b64a49d35
+- source: :alislam
+  source_url: http://www.al-islam.org/the-characteristics-of-a-muslim-al-balagh/whom-allah-loves-most
+  title: Whom Allah Loves Most
+  slug: 8-whom-allah-loves-most
+  uuid: ecb618e6-8e0b-464a-9667-fa346821be6d
+- source: :alislam
+  source_url: http://www.al-islam.org/the-characteristics-of-a-muslim-al-balagh/bestowing-love-and-peace
+  title: Bestowing Love and Peace
+  slug: 9-bestowing-love-and-peace
+  uuid: b4127034-31b9-4cab-9f2f-5b60425e1bf2
+- source: :alislam
+  source_url: http://www.al-islam.org/the-characteristics-of-a-muslim-al-balagh/benevolence-towards-parents
+  title: Benevolence Towards Parents
+  slug: 10-benevolence-towards-parents
+  uuid: 337c3317-f61c-4a91-a017-1478a7eb27fb
+- source: :alislam
+  source_url: http://www.al-islam.org/the-characteristics-of-a-muslim-al-balagh/hospitality-towards-guests
+  title: Hospitality Towards Guests
+  slug: 11-hospitality-towards-guests
+  uuid: 9c08e341-3a76-42ef-a08c-b7d3e87b3fe3
+- source: :alislam
+  source_url: http://www.al-islam.org/the-characteristics-of-a-muslim-al-balagh/controlling-tongue
+  title: Controlling The Tongue
+  slug: 12-controlling-the-tongue
+  uuid: 001dd867-e001-4ebb-bcc6-7781415dc8d2
+- source: :alislam
+  source_url: http://www.al-islam.org/the-characteristics-of-a-muslim-al-balagh/faithful-promise
+  title: Faithful To A Promise
+  slug: 13-faithful-to-a-promise
+  uuid: 4c52b6ef-b056-476d-b35d-1af2f791033f
+- source: :alislam
+  source_url: http://www.al-islam.org/the-characteristics-of-a-muslim-al-balagh/considerate-young-and-old
+  title: Considerate with Young and Old
+  slug: 14-considerate-with-young-and-old
+  uuid: cee7b155-7b8e-4652-849f-eed829e4b62c
+- source: :alislam
+  source_url: http://www.al-islam.org/the-characteristics-of-a-muslim-al-balagh/giving-thanks-allah
+  title: Giving Thanks To Allah
+  slug: 15-giving-thanks-to-allah
+  uuid: 195d04f6-823e-42e4-a984-4ef8af5b1cb8
+- source: :alislam
+  source_url: http://www.al-islam.org/the-characteristics-of-a-muslim-al-balagh/best-things-about-being-muslim
+  title: The Best Things about Being Muslim
+  slug: 16-the-best-things-about-being-muslim
+  uuid: 445481fe-47d8-466d-8487-dd863fbc85a7
+- source: :alislam
+  source_url: http://www.al-islam.org/the-characteristics-of-a-muslim-al-balagh/greatest-sins
+  title: The Greatest Sins
+  slug: 17-the-greatest-sins
+  uuid: bcd48802-81a7-43d1-a3ec-13f0523a5e1d
+- source: :alislam
+  source_url: http://www.al-islam.org/the-characteristics-of-a-muslim-al-balagh/controlling-anger
+  title: Controlling Anger
+  slug: 18-controlling-anger
+  uuid: f5dd12f7-16c6-4476-8b65-731ad3519165
+- source: :alislam
+  source_url: http://www.al-islam.org/the-characteristics-of-a-muslim-al-balagh/cheating-and-deceit
+  title: Cheating And Deceit
+  slug: 19-cheating-and-deceit
+  uuid: 0e48434d-a2c8-434d-9689-cea1285c7a01
+- source: :alislam
+  source_url: http://www.al-islam.org/the-characteristics-of-a-muslim-al-balagh/repentance
+  title: Repentance
+  slug: 20-repentance
+  uuid: 2d390045-2128-40e5-8e79-6503656e2253
+---

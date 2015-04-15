@@ -1,0 +1,19 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/jafar-al-tayyar-kamal-al-sayyid
+author: Kamal al-Sayyid
+publisher: Ansariyan Publications - Qum
+translator: Jasim al-Alyawy
+title: Jafar al-Tayyar
+slug: jafar-al-tayyar
+uuid: e99042cd-5659-47fa-91c4-53104c594574
+description: |
+  Biography of the cousin of the Prophet (s) and the brother of Imam 'Ali
+  (a).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/jafar-al-tayyar-kamal-al-sayyid/jafar-al-tayyar
+  title: Jafar al-Tayyar
+  slug: 1-jafar-al-tayyar
+  uuid: f50db9da-4247-4520-9266-38103456d71f
+---

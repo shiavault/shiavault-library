@@ -1,0 +1,99 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/fourteen-luminaries-islam-ahmad-ahmadi-birjandi
+author: Ahmad Ahmadi Birjandi
+publisher: Islamic Research Foundation Astan Quds Razavi
+translator: Ahmad Rezwani
+title: The Fourteen Luminaries of Islam
+slug: the-fourteen-luminaries-of-islam
+uuid: defa19bf-bdca-4adf-bb5e-b2f625135060
+description: |
+  Biography of Prophet Muhammad (S), Hadhrat Fatimah Zahra (as), and the
+  Twelve Holy Imams (as)
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/fourteen-luminaries-islam-ahmad-ahmadi-birjandi/publishers-note
+  title: Publisher's Note
+  slug: 1-publisher-s-note
+  uuid: 7fe4fa06-2202-437e-ba6f-e8ff03f82cfb
+- source: :alislam
+  source_url: http://www.al-islam.org/fourteen-luminaries-islam-ahmad-ahmadi-birjandi/first-infallible-hadhrat-muhammad-b-abd-allah-holy
+  title: The First Infallible Hadhrat Muhammad b. ‘Abd Allah, the Holy Prophet of
+    Islam
+  slug: 2-the-first-infallible-hadhrat-muhammad-b-abd-allah-the-holy-prophet-of-islam
+  uuid: bd042e6f-be22-49f9-8950-0892d08deefd
+- source: :alislam
+  source_url: http://www.al-islam.org/fourteen-luminaries-islam-ahmad-ahmadi-birjandi/second-infallible-hadhrat-ali-b-abi-talib-first-imam
+  title: The Second Infallible, Hadhrat ‘Ali b. Abi Talib, The First Imam
+  slug: 3-the-second-infallible-hadhrat-ali-b-abi-talib-the-first-imam
+  uuid: 4e97f436-623a-4633-9f0a-cdb6a68e4b0b
+- source: :alislam
+  source_url: http://www.al-islam.org/fourteen-luminaries-islam-ahmad-ahmadi-birjandi/third-infallible-hadhrat-fatimah-al-zahra
+  title: The Third Infallible, Hadhrat Fatimah al-Zahra
+  slug: 4-the-third-infallible-hadhrat-fatimah-al-zahra
+  uuid: c6ad9f97-0985-4ce5-908a-131732fb8d69
+- source: :alislam
+  source_url: http://www.al-islam.org/fourteen-luminaries-islam-ahmad-ahmadi-birjandi/fourth-infallible-hadhrat-imam-al-hasan-al-mujtaba
+  title: The Fourth Infallible, Hadhrat Imam al-Hasan al-Mujtaba, The Second Imam
+  slug: 5-the-fourth-infallible-hadhrat-imam-al-hasan-al-mujtaba-the-second-imam
+  uuid: 068256e4-b846-418c-9093-ab0c14ce0203
+- source: :alislam
+  source_url: http://www.al-islam.org/fourteen-luminaries-islam-ahmad-ahmadi-birjandi/fifth-infallible-hadhrat-imam-al-husayn-sayyid-al
+  title: The Fifth Infallible, Hadhrat Imam al-Husayn, Sayyid al-Shuhada, The Third
+    Imam
+  slug: 6-the-fifth-infallible-hadhrat-imam-al-husayn-sayyid-al-shuhada-the-third-imam
+  uuid: d5abea62-1d03-41b0-bcc7-896dbe78e7a7
+- source: :alislam
+  source_url: http://www.al-islam.org/fourteen-luminaries-islam-ahmad-ahmadi-birjandi/sixth-infallible-hadhrat-imam-zayn-al-abidin-fourth
+  title: The Sixth Infallible, Hadhrat Imam Zayn al-‘Abidin, The Fourth Imam
+  slug: 7-the-sixth-infallible-hadhrat-imam-zayn-al-abidin-the-fourth-imam
+  uuid: e17e1090-a1f8-4d0b-a26a-baa449eac924
+- source: :alislam
+  source_url: http://www.al-islam.org/fourteen-luminaries-islam-ahmad-ahmadi-birjandi/seventh-infallible-hadhrat-imam-muhammad-al-baqir
+  title: The Seventh Infallible, Hadhrat Imam Muhammad al-Baqir, The Fifth Imam
+  slug: 8-the-seventh-infallible-hadhrat-imam-muhammad-al-baqir-the-fifth-imam
+  uuid: fef1e675-1b28-4905-8c7e-620615b6d2d0
+- source: :alislam
+  source_url: http://www.al-islam.org/fourteen-luminaries-islam-ahmad-ahmadi-birjandi/eighth-infallible-hadhrat-imam-jafar-al-sadiq-sixth
+  title: The Eighth Infallible, Hadhrat Imam Ja‘far al-Sadiq, The Sixth Imam
+  slug: 9-the-eighth-infallible-hadhrat-imam-ja-far-al-sadiq-the-sixth-imam
+  uuid: 76858e28-b67c-42f3-ad18-0546357b823d
+- source: :alislam
+  source_url: http://www.al-islam.org/fourteen-luminaries-islam-ahmad-ahmadi-birjandi/ninth-infallible-hadhrat-imam-musa-b-jafar-seventh
+  title: The Ninth Infallible, Hadhrat Imam Musa b. Ja‘far, The Seventh Imam
+  slug: 10-the-ninth-infallible-hadhrat-imam-musa-b-ja-far-the-seventh-imam
+  uuid: 08d2d427-60fc-4dc3-9831-c326530d58b0
+- source: :alislam
+  source_url: http://www.al-islam.org/fourteen-luminaries-islam-ahmad-ahmadi-birjandi/tenth-infallible-hadhrat-imam-ali-b-musa-al-ridha
+  title: The Tenth Infallible, Hadhrat Imam ‘Ali b. Musa al-Ridha, The Eighth Imam
+  slug: 11-the-tenth-infallible-hadhrat-imam-ali-b-musa-al-ridha-the-eighth-imam
+  uuid: 6915f0fe-3af6-42e9-82a9-7c5ff4138add
+- source: :alislam
+  source_url: http://www.al-islam.org/fourteen-luminaries-islam-ahmad-ahmadi-birjandi/eleventh-infallible-hadhrat-imam-muhammad-al-taqi
+  title: The Eleventh Infallible, Hadhrat Imam Muhammad al-Taqi, Jawad al-A’imma,
+    The Ninth Imam
+  slug: 12-the-eleventh-infallible-hadhrat-imam-muhammad-al-taqi-jawad-al-a-imma-the-ninth-imam
+  uuid: f1777108-e8c1-4c3e-9c1a-236864824f34
+- source: :alislam
+  source_url: http://www.al-islam.org/fourteen-luminaries-islam-ahmad-ahmadi-birjandi/twelfth-infallible-hadhrat-imam-ali-al-naqi-al-hadi
+  title: The Twelfth Infallible, Hadhrat Imam ‘Ali al-Naqi, al-Hadi, The Tenth Imam
+  slug: 13-the-twelfth-infallible-hadhrat-imam-ali-al-naqi-al-hadi-the-tenth-imam
+  uuid: 97e695cb-9aed-4cc6-83ec-edf574091126
+- source: :alislam
+  source_url: http://www.al-islam.org/fourteen-luminaries-islam-ahmad-ahmadi-birjandi/thirteenth-infallible-hadhrat-imam-al-hasan-al
+  title: The Thirteenth Infallible, Hadhrat Imam al-Hasan al-‘Askari, The Eleventh
+    Imam
+  slug: 14-the-thirteenth-infallible-hadhrat-imam-al-hasan-al-askari-the-eleventh-imam
+  uuid: e8d939c5-91ea-4927-994a-81535965f669
+- source: :alislam
+  source_url: http://www.al-islam.org/fourteen-luminaries-islam-ahmad-ahmadi-birjandi/fourteenth-infallible-hadhrat-hujjat-b-al-hasan-al
+  title: The Fourteenth Infallible, Hadhrat Hujjat b. al-Hasan al-‘Askari, The Twelfth
+    Imam
+  slug: 15-the-fourteenth-infallible-hadhrat-hujjat-b-al-hasan-al-askari-the-twelfth-imam
+  uuid: fb41e87f-9605-4042-ade6-fba18b5f4846
+- source: :alislam
+  source_url: http://www.al-islam.org/fourteen-luminaries-islam-ahmad-ahmadi-birjandi/bibliography
+  title: Bibliography
+  slug: 16-bibliography
+  uuid: cb951690-49ed-4cae-991a-3e0013dc3cbd
+---

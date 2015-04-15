@@ -1,0 +1,132 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda
+author: Amina Bint al-Huda
+translator: M. N. Sultan
+title: Short Stories
+slug: short-stories
+uuid: cef9e582-888d-4a86-80f9-ff39ee50789e
+description: |2+
+
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 62e1c9ff-6366-4830-bcd4-5ec767c821d2
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/introduction-author
+  title: Introduction By The Author
+  slug: 2-introduction-by-the-author
+  uuid: bb40dfd0-54a9-4a04-bb9c-9d86614fccb7
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/homeless-aunt
+  title: The Homeless Aunt
+  slug: 3-the-homeless-aunt
+  uuid: 0424855a-c069-4549-8f1b-f146c72d9bcf
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/muslim-students-diary
+  title: A Muslim Student's Diary
+  slug: 4-a-muslim-student-s-diary
+  uuid: 73a5939f-9aff-43f7-84c8-1d194053708d
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/choosing-wife
+  title: Choosing A Wife
+  slug: 5-choosing-a-wife
+  uuid: ab0a2afb-7dc8-4d04-bcae-eb64eb36814b
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/visit-bride
+  title: A Visit To A Bride
+  slug: 6-a-visit-to-a-bride
+  uuid: f4e03ea7-f8d7-41d8-84da-b00270be9664
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/determination
+  title: Determination
+  slug: 7-determination
+  uuid: 79d5b607-0c73-4df4-ad88-f7de203edd5a
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/lost-diary
+  title: The Lost Diary
+  slug: 8-the-lost-diary
+  uuid: 81fb49b2-7842-428d-9be4-77c660774376
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/ingratitude
+  title: Ingratitude
+  slug: 9-ingratitude
+  uuid: 867cd99a-ce58-4de9-b017-8072a9e3d820
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/inner-debate
+  title: Inner Debate
+  slug: 10-inner-debate
+  uuid: 4468cda9-c182-4234-8251-113e1b7f9ede
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/social-measures
+  title: Social Measures
+  slug: 11-social-measures
+  uuid: 9b94ca16-e176-4c2e-aa0e-6c393f0c2509
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/red-alert
+  title: The Red Alert
+  slug: 12-the-red-alert
+  uuid: 1751f5f0-0b1e-435b-9812-47bf6ea9c279
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/struggling-conflict
+  title: Struggling With Conflict
+  slug: 13-struggling-with-conflict
+  uuid: 46b6950f-7211-49c2-b619-c039b6ea0e3a
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/firm-stand
+  title: Firm Stand
+  slug: 14-firm-stand
+  uuid: f96169af-b30b-485d-bd74-300378411c03
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/had-i-known
+  title: Had I But Known
+  slug: 15-had-i-but-known
+  uuid: 6176dcc0-e228-4250-9809-67355ac9002f
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/dangerous-game
+  title: The Dangerous Game
+  slug: 16-the-dangerous-game
+  uuid: 280a2a80-325d-43c7-95e9-92c816a58b1c
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/spiritual-surgery
+  title: Spiritual Surgery
+  slug: 17-spiritual-surgery
+  uuid: 1ffbe6fd-b8f1-4f97-a81f-49a9a0458ca1
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/gift
+  title: The Gift
+  slug: 18-the-gift
+  uuid: 7ddc1302-d3ad-41c2-8081-45a783b6e386
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/bad-bargain
+  title: A Bad Bargain
+  slug: 19-a-bad-bargain
+  uuid: c47c8492-508b-4b71-afcc-1b31740b22a9
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/last-days
+  title: The Last Days
+  slug: 20-the-last-days
+  uuid: c9f1cdd3-cad7-4028-99da-0ca9c74ee893
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/hard-times
+  title: Hard Times
+  slug: 21-hard-times
+  uuid: a19489c2-d74f-4d15-8eb8-4dd7cd64c926
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/idleness
+  title: Idleness
+  slug: 22-idleness
+  uuid: 867912df-ec0e-4229-83ee-8a42f5100e65
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/new-start
+  title: A New Start
+  slug: 23-a-new-start
+  uuid: 4157d144-ea07-4b39-9633-299988916c7a
+- source: :alislam
+  source_url: http://www.al-islam.org/short-stories-amina-bint-al-huda/last-hours
+  title: The Last Hours
+  slug: 24-the-last-hours
+  uuid: d9dd4cda-d6b6-4c3b-85a0-4935fbbe454b
+---

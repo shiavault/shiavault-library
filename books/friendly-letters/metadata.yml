@@ -1,0 +1,25 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/friendly-letters-amina-bint-al-huda
+author: Amina Bint al-Huda
+publisher: Islamic Thought Foundation
+translator: M. N. Sultan
+title: Friendly Letters
+slug: friendly-letters
+uuid: 1f36fc4e-6894-4dcd-b4b8-ae2f6ad385fc
+description: |
+  These letters deal with common ideological problems of young Muslims.
+  Sisters Wafa and Raja and sisters Zahra and Asma exchange letters on
+  their personal problems and seek each other’s advice.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/friendly-letters-amina-bint-al-huda/friendly-letters-part-one
+  title: Friendly Letters Part One
+  slug: 1-friendly-letters-part-one
+  uuid: 395c63ef-18f9-4f08-bc33-ce7d3a30d612
+- source: :alislam
+  source_url: http://www.al-islam.org/friendly-letters-amina-bint-al-huda/friendly-letters-part-two
+  title: Friendly Letters Part Two
+  slug: 2-friendly-letters-part-two
+  uuid: aba1054e-6588-4fa4-b4d3-ccdc80362dad
+---

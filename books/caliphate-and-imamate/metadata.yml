@@ -1,0 +1,95 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/caliphate-imamate-ahmad-namaee
+author: Ahmad Namaee
+publisher: Astaane Quds Razavi Printing and Publishing Institute
+title: Caliphate and Imamate
+slug: caliphate-and-imamate
+uuid: 1bb00032-1fb5-48c6-ab1f-30a339dfc800
+description: |
+  This full length text presents an historical account of the rulers of
+  the Islamic world from the time of the demise of the Prophet of Islam to
+  the reign of Yazeed bin Mu'awiyah. Special emphasis is paid to the
+  causes of discord among the Muslim community in this period.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/caliphate-imamate-ahmad-namaee/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 128574c8-4fe2-4840-a8ef-a0c77ef7a468
+- source: :alislam
+  source_url: http://www.al-islam.org/caliphate-imamate-ahmad-namaee/summary-prophet%E2%80%99s-life
+  title: A Summary of the Prophet’s Life
+  slug: 2-a-summary-of-the-prophet-s-life
+  uuid: 241e412f-9724-45af-8ea9-759655135f1a
+- source: :alislam
+  source_url: http://www.al-islam.org/caliphate-imamate-ahmad-namaee/succession-prophet-god
+  title: The Succession to the Prophet of God
+  slug: 3-the-succession-to-the-prophet-of-god
+  uuid: a0f53f7e-0166-46b1-8d8f-6cc04136dc66
+- source: :alislam
+  source_url: http://www.al-islam.org/caliphate-imamate-ahmad-namaee/concord-and-discord
+  title: Concord and Discord
+  slug: 4-concord-and-discord
+  uuid: 50f1a281-f677-40b0-bb5a-bc99f1dc70f2
+- source: :alislam
+  source_url: http://www.al-islam.org/caliphate-imamate-ahmad-namaee/abu-bakr%E2%80%99s-caliphate
+  title: Abu Bakr’s Caliphate
+  slug: 5-abu-bakr-s-caliphate
+  uuid: fe977a9d-ae37-4185-9b6a-b06bd7353b68
+- source: :alislam
+  source_url: http://www.al-islam.org/caliphate-imamate-ahmad-namaee/%E2%80%98umar%E2%80%99s-caliphate
+  title: "‘Umar’s Caliphate"
+  slug: 6-umar-s-caliphate
+  uuid: 3225f590-5f09-4bb5-8110-6d0e64f172ed
+- source: :alislam
+  source_url: http://www.al-islam.org/caliphate-imamate-ahmad-namaee/%E2%80%98uthman%E2%80%99s-caliphte
+  title: "‘Uthman’s Caliphte"
+  slug: 7-uthman-s-caliphte
+  uuid: 2c99868d-76de-4e1d-b5b0-96d946a8da97
+- source: :alislam
+  source_url: http://www.al-islam.org/caliphate-imamate-ahmad-namaee/%E2%80%98ali%E2%80%99s-caliphate
+  title: "‘Ali’s Caliphate"
+  slug: 8-ali-s-caliphate
+  uuid: 36178019-182d-4280-8fc8-b5f89e1798ad
+- source: :alislam
+  source_url: http://www.al-islam.org/caliphate-imamate-ahmad-namaee/rebellion-against-central-caliphate-al-jamal
+  title: Rebellion against the Central Caliphate (al-Jamal)
+  slug: 9-rebellion-against-the-central-caliphate-al-jamal
+  uuid: c1ef03e1-992b-4a9d-942c-cf407cdae105
+- source: :alislam
+  source_url: http://www.al-islam.org/caliphate-imamate-ahmad-namaee/aftermath-rebellion
+  title: The Aftermath of the Rebellion
+  slug: 10-the-aftermath-of-the-rebellion
+  uuid: 2eef36f2-6641-4ffd-98e0-6dcc63187d5e
+- source: :alislam
+  source_url: http://www.al-islam.org/caliphate-imamate-ahmad-namaee/mu%E2%80%99awiya%E2%80%99s-reign-collapse-caliphate
+  title: Mu’awiya’s Reign (The Collapse of Caliphate)
+  slug: 11-mu-awiya-s-reign-the-collapse-of-caliphate
+  uuid: 45c4218b-9297-443b-9c0a-22b529c351b4
+- source: :alislam
+  source_url: http://www.al-islam.org/caliphate-imamate-ahmad-namaee/yazids-reign-and-martyrom-al-husayn-b-ali
+  title: Yazid's Reign and the Martyrom of al-Husayn b. 'Ali
+  slug: 12-yazid-s-reign-and-the-martyrom-of-al-husayn-b-ali
+  uuid: 4c623188-72a8-41ae-a724-a7c355548969
+- source: :alislam
+  source_url: http://www.al-islam.org/caliphate-imamate-ahmad-namaee/merits-companions
+  title: The Merits of the Companions
+  slug: 13-the-merits-of-the-companions
+  uuid: 74540bca-384b-48e3-8e8a-21b69d454954
+- source: :alislam
+  source_url: http://www.al-islam.org/caliphate-imamate-ahmad-namaee/extremists-and-misinterpretation-holy-qur%E2%80%99
+  title: The Extremists and Misinterpretation of the Holy Qur’an
+  slug: 14-the-extremists-and-misinterpretation-of-the-holy-qur-an
+  uuid: 0b4ebd63-3924-4925-ad9e-4dbbada3e3dd
+- source: :alislam
+  source_url: http://www.al-islam.org/caliphate-imamate-ahmad-namaee/conclusion
+  title: Conclusion
+  slug: 15-conclusion
+  uuid: 8b32b976-34ab-4552-94a9-e565fe31b293
+- source: :alislam
+  source_url: http://www.al-islam.org/caliphate-imamate-ahmad-namaee/bibliography
+  title: Bibliography
+  slug: 16-bibliography
+  uuid: 1c51eed0-1f37-4e03-bf7e-847ca96ff8b0
+---

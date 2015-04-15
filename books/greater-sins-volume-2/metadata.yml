@@ -1,0 +1,132 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi
+author: Ayatullah Sayyid 'Abd al-Husayn Dastghayb Shirazi
+publisher: Islamic Study Circle
+translator: Sayyid Athar Husain S.H.Rizvi
+title: Greater Sins Volume 2
+slug: greater-sins-volume-2
+uuid: 31d18c76-9213-4758-a2a2-e462e31e3249
+description: |
+  Ayatullah Dastghaib has exhaustively explained the phenomenon of sin,
+  the classification of sins, and the necessity of avoiding them. He has
+  also described fifty different types of Greater Sins. See also part I
+  and III of this book. About sins and particularly the greater sins
+  (Gunah-e-Kabira). Covers sins such as association with God (Shirk),
+  fornication, drinking alcohol, and gambling. Volume I:
+  http://www.al-islam.org/greater-sins-volume-1-ayatullah-sayyid-abd-al-hu...
+  Volume III:
+  http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-hu...
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: 2f253fa7-46a2-4129-8f05-4078e9a05cd3
+- source: :alislam
+  source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/translator%E2%80%99s-preface
+  title: Translator’s Preface
+  slug: 2-translator-s-preface
+  uuid: 8ca6d35b-23c0-47b4-9acb-296ab593c20a
+- source: :alislam
+  source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/preface
+  title: Preface
+  slug: 3-preface
+  uuid: 4b657ead-69e8-45b5-b32d-4babfcdb1b69
+- source: :alislam
+  source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/short-biography-ayatullah
+  title: A Short Biography of Ayatullah Dastaghaib Shirazi
+  slug: 4-a-short-biography-of-ayatullah-dastaghaib-shirazi
+  uuid: bcc722c2-aabd-45a5-befc-70607a49b88f
+- source: :alislam
+  source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/sixteenth-greater-sin-singing
+  title: 'The Sixteenth Greater Sin: Singing'
+  slug: 5-the-sixteenth-greater-sin-singing
+  uuid: 06bdbd69-2a04-4a6f-8c03-e1b9cc169376
+- source: :alislam
+  source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/seventeenth-greater-sin-lying
+  title: 'The Seventeenth Greater Sin: Lying'
+  slug: 6-the-seventeenth-greater-sin-lying
+  uuid: 0a5a4d16-424f-42a0-a1dc-889d65014304
+- source: :alislam
+  source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/eighteenth-greater-sin-false
+  title: 'Eighteenth Greater Sin: False Oath'
+  slug: 7-eighteenth-greater-sin-false-oath
+  uuid: dedafc64-1921-48cb-b4dc-71a4e15e9d32
+- source: :alislam
+  source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/nineteenth-greater-sin-false
+  title: 'The Nineteenth Greater Sin: False Testimony'
+  slug: 8-the-nineteenth-greater-sin-false-testimony
+  uuid: ded9417c-16e1-442d-8336-eb15e14baca0
+- source: :alislam
+  source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/twentieth-greater-sin
+  title: 'The Twentieth Greater Sin: Concealing Evidence'
+  slug: 9-the-twentieth-greater-sin-concealing-evidence
+  uuid: 760a7096-dd18-4493-b3b9-e3e8acb29caf
+- source: :alislam
+  source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/twenty-first-greater-sin-non
+  title: 'The Twenty-First Greater Sin: Non fulfilment of a Promise'
+  slug: 10-the-twenty-first-greater-sin-non-fulfilment-of-a-promise
+  uuid: a9d956a1-b62b-4da4-ae97-a3045da334d7
+- source: :alislam
+  source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/twenty-second-greater-sin
+  title: 'The Twenty-Second Greater Sin: Khayanat'
+  slug: 11-the-twenty-second-greater-sin-khayanat
+  uuid: 47b0cb32-d598-4a9b-a5bc-415c4959772a
+- source: :alislam
+  source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/twenty-third-greater-sin
+  title: 'The Twenty-Third Greater Sin: Stealing'
+  slug: 12-the-twenty-third-greater-sin-stealing
+  uuid: 251a49ef-6047-4273-a2b4-b979d2dce258
+- source: :alislam
+  source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/twenty-fourth-greater-sin
+  title: 'The Twenty-Fourth Greater Sin: Short-Wheghing and Cheating (in Business)'
+  slug: 13-the-twenty-fourth-greater-sin-short-wheghing-and-cheating-in-business
+  uuid: a70995b1-a9e4-4ff6-807b-3bb65e386d10
+- source: :alislam
+  source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/twenty-fifth-greater-sin
+  title: 'The Twenty-Fifth Greater Sin: Consumption of Harām'
+  slug: 14-the-twenty-fifth-greater-sin-consumption-of-haram
+  uuid: 2cb95d51-c781-424d-b532-0270924d57ab
+- source: :alislam
+  source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/twenty-sixth-greater-sin
+  title: 'The Twenty-Sixth Greater Sin: Usurping the Rights of Others or Non-Fullfillment
+    of Rights'
+  slug: 15-the-twenty-sixth-greater-sin-usurping-the-rights-of-others-or-non-fullfillment-of-rights
+  uuid: df140f22-435d-4e43-9705-ce6f0b7eb53b
+- source: :alislam
+  source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/twenty-seventh-greater-sin
+  title: 'The Twenty-Seventh Greater Sin: Avoiding Jihad'
+  slug: 16-the-twenty-seventh-greater-sin-avoiding-jihad
+  uuid: 2b244d0f-4eb5-48ec-9a68-5727976d1a3e
+- source: :alislam
+  source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/twenty-eighth-greater-sin
+  title: 'The Twenty-Eighth Greater Sin: Becoming A’Arāb after Hijrat'
+  slug: 17-the-twenty-eighth-greater-sin-becoming-a-arab-after-hijrat
+  uuid: c6e393fd-3e44-47ca-a459-aa4ad944c050
+- source: :alislam
+  source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/twenty-ninth-greater-sin
+  title: 'The Twenty-Ninth Greater Sin: Helping the Oppressors'
+  slug: 18-the-twenty-ninth-greater-sin-helping-the-oppressors
+  uuid: a1983638-f13b-40f0-af8b-12f4143d9230
+- source: :alislam
+  source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/thirtieth-greater-sin-not
+  title: 'The Thirtieth Greater Sin: Not Helping the Oppressed'
+  slug: 19-the-thirtieth-greater-sin-not-helping-the-oppressed
+  uuid: feb91f7a-3c2f-4632-aae0-121e0bcfb974
+- source: :alislam
+  source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/thirty-first-greater-sin
+  title: 'The Thirty-First Greater Sin: Sorcery'
+  slug: 20-the-thirty-first-greater-sin-sorcery
+  uuid: a0964695-2772-4c3b-a5f8-21b42b7b4056
+- source: :alislam
+  source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/thirty-second-greater-sin
+  title: 'The Thirty-Second Greater Sin: Isrāf'
+  slug: 21-the-thirty-second-greater-sin-israf
+  uuid: 2e51c027-1b1f-400e-bb52-faf83479ac55
+- source: :alislam
+  source_url: http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/glossary-islamic-terms
+  title: Glossary of Islamic Terms
+  slug: 22-glossary-of-islamic-terms
+  uuid: 567910c4-cf29-4aa8-8deb-9fe5da959ed3
+---

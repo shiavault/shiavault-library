@@ -1,0 +1,87 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islamic-ethics-ayatullah-dastaghaib-shirazi
+author: Ayatullah Sayyid 'Abd al-Husayn Dastghayb Shirazi
+translator: Hamid Hussein Waqar
+title: Islamic Ethics
+slug: islamic-ethics
+uuid: 66efc62b-58f5-402b-94d0-99a801a1a496
+description: |
+  This is the English translation of the book: 'Akhlaq Islami' by Shaheed
+  Ayatullah Sayyid 'Abd al-Hussayn Dastghayb, translated by Hamid Waqar.
+  This book presents a discussion on the importance of Ethics in Islam
+  covering areas like the intellect, religious laws and purifying one's
+  self, and covering such topics as anger, lust, envy, arrogance, etc.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-ethics-ayatullah-dastaghaib-shirazi/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 39dec49d-5634-4ce2-af57-b524e84d60d3
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-ethics-ayatullah-dastaghaib-shirazi/lecture-1-do-not-rebuild-broken-dam
+  title: 'Lecture 1: Do Not Rebuild A Broken Dam'
+  slug: 2-lecture-1-do-not-rebuild-a-broken-dam
+  uuid: a57e2b5e-623a-494e-b383-9b5794e36072
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-ethics-ayatullah-dastaghaib-shirazi/lecture-2-human-intellect
+  title: 'Lecture 2: Human Intellect'
+  slug: 3-lecture-2-human-intellect
+  uuid: 2c775d05-5014-4a57-a273-bf6476ecae30
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-ethics-ayatullah-dastaghaib-shirazi/lecture-3-prophets-and-religious-laws-were-sent-mankind
+  title: 'Lecture 3: Prophets and Religious Laws Were Sent For Mankind'
+  slug: 4-lecture-3-prophets-and-religious-laws-were-sent-for-mankind
+  uuid: 71d3cdd1-a690-4489-8dee-310e1614e33a
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-ethics-ayatullah-dastaghaib-shirazi/lecture-4-divine-wisdom-found-one-s-head-toe
+  title: 'Lecture 4: Divine Wisdom is Found From One’s Head To Toe'
+  slug: 5-lecture-4-divine-wisdom-is-found-from-one-s-head-to-toe
+  uuid: 34ecebbe-28bc-4e7b-9fa9-a8a5e456c2fa
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-ethics-ayatullah-dastaghaib-shirazi/lecture-5-means-understanding-man-s-beginning-and-end
+  title: 'Lecture 5: The Means Of Understanding Man’s Beginning And End'
+  slug: 6-lecture-5-the-means-of-understanding-man-s-beginning-and-end
+  uuid: efcf3207-9821-4b9e-8499-4586d8488691
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-ethics-ayatullah-dastaghaib-shirazi/lecture-6-purifying-one-s-self-knowledge-and-action
+  title: 'Lecture 6: Purifying One’s Self; Knowledge and Action'
+  slug: 7-lecture-6-purifying-one-s-self-knowledge-and-action
+  uuid: e60f276f-0cad-4ae1-8b11-845a9c18c661
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-ethics-ayatullah-dastaghaib-shirazi/lecture-7-anger-both-merciful-and-satanic
+  title: 'Lecture 7: Anger is Both Merciful and Satanic'
+  slug: 8-lecture-7-anger-is-both-merciful-and-satanic
+  uuid: a3cfd109-0edc-4e84-addc-e83476008eab
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-ethics-ayatullah-dastaghaib-shirazi/lecture-8-lust-results-continuation-human-life
+  title: 'Lecture 8: Lust Results In The Continuation Of Human Life'
+  slug: 9-lecture-8-lust-results-in-the-continuation-of-human-life
+  uuid: fe8e1e66-1d1c-49a5-af99-b4028391c377
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-ethics-ayatullah-dastaghaib-shirazi/lecture-9-lust-and-anger-must-be-accordance-one-s
+  title: 'Lecture 9: Lust And Anger Must Be In Accordance To One’s Intellect And Divine
+    Decree'
+  slug: 10-lecture-9-lust-and-anger-must-be-in-accordance-to-one-s-intellect-and-divine-decree
+  uuid: 1631f01e-7878-4cc9-bd29-a9b5521f5ad9
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-ethics-ayatullah-dastaghaib-shirazi/lecture-10-showing-anger-tongue-hand-or-heart
+  title: 'Lecture 10: Showing Anger with The Tongue, Hand or Heart'
+  slug: 11-lecture-10-showing-anger-with-the-tongue-hand-or-heart
+  uuid: c1409f5a-61e1-4fa6-8a15-aa09fd5ddaf0
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-ethics-ayatullah-dastaghaib-shirazi/lecture-11-envy-destroys-one-s-health
+  title: 'Lecture 11: Envy Destroys One’s Health'
+  slug: 12-lecture-11-envy-destroys-one-s-health
+  uuid: 2366b1fd-4ea3-4290-9e4e-37b7a93cba8c
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-ethics-ayatullah-dastaghaib-shirazi/lecture-12-knowledge-property-and-social-status-brings
+  title: 'Lecture 12: Knowledge, Like Property and Social Status, Brings About Arrogance'
+  slug: 13-lecture-12-knowledge-like-property-and-social-status-brings-about-arrogance
+  uuid: 79d947bf-8c0c-469b-a588-eb75c32cc3a8
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-ethics-ayatullah-dastaghaib-shirazi/lecture-13-cure-arrogance-according-imam-ali
+  title: 'Lecture 13: The Cure of Arrogance, According To Imām ‛Alī (A)'
+  slug: 14-lecture-13-the-cure-of-arrogance-according-to-imam-ali-a
+  uuid: 9a6b1bdc-fc6b-4482-8dc0-057f14d745ee
+---

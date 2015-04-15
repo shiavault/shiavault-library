@@ -1,0 +1,45 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/revolution-imam-al-husayn-shaykh-muhammad-mahdi-shams-ad-din-al-amili
+author: Shaykh Muhammad Mahdi Shams ad-Din Al-Amili
+publisher: Muhammadi Trust of Great Britain and Northern Ireland
+translator: I.K.A. Howard
+title: The Revolution of Imam al-Husayn (a)
+slug: the-revolution-of-imam-al-husayn-a
+uuid: a96d4014-8d9b-4240-8ab1-65dd5749c109
+description: |
+  The impact of Karbala on the consciousness of Muslim society. Ziyara
+  (pilgrimage), lamentation poetry, remembering Imam Husayn (a), and
+  weeping.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/revolution-imam-al-husayn-shaykh-muhammad-mahdi-shams-ad-din-al-amili/publisher%E2%80%99s-foreword
+  title: Publisher’s Foreword
+  slug: 1-publisher-s-foreword
+  uuid: 52d932ba-4574-4d45-abea-632f0d15a5c7
+- source: :alislam
+  source_url: http://www.al-islam.org/revolution-imam-al-husayn-shaykh-muhammad-mahdi-shams-ad-din-al-amili/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 9b6a50ee-7328-4f82-83dc-f4f1b028235b
+- source: :alislam
+  source_url: http://www.al-islam.org/revolution-imam-al-husayn-shaykh-muhammad-mahdi-shams-ad-din-al-amili/ziyara
+  title: The Ziyara
+  slug: 3-the-ziyara
+  uuid: d584753d-e096-46a4-9791-2069d35017ad
+- source: :alislam
+  source_url: http://www.al-islam.org/revolution-imam-al-husayn-shaykh-muhammad-mahdi-shams-ad-din-al-amili/lamentation-poetry
+  title: Lamentation Poetry
+  slug: 4-lamentation-poetry
+  uuid: d5e1b7ad-3f4c-41e9-8e66-e7fbb5a720ea
+- source: :alislam
+  source_url: http://www.al-islam.org/revolution-imam-al-husayn-shaykh-muhammad-mahdi-shams-ad-din-al-amili/rites-remembrance-al-husayn
+  title: Rites of Remembrance for al-Husayn
+  slug: 5-rites-of-remembrance-for-al-husayn
+  uuid: ef67d7ee-b084-4e12-bfb0-81a53410a23b
+- source: :alislam
+  source_url: http://www.al-islam.org/revolution-imam-al-husayn-shaykh-muhammad-mahdi-shams-ad-din-al-amili/weeping
+  title: Weeping
+  slug: 6-weeping
+  uuid: 95031bd9-0651-4dc5-9228-2b825160b842
+---

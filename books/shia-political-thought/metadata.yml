@@ -1,0 +1,51 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/shia-political-thought-ahmed-vaezi
+author: Ahmed Vaezi
+publisher: Islamic Centre of England
+title: Shia Political Thought
+slug: shia-political-thought
+uuid: b55c1247-312b-4d99-add5-4a99dbcbe4eb
+description: |
+  A comprehensive outline of Shi’a political thought in general, and the
+  modern incarnation of this political thought, which is embodied in the
+  constitution of the Islamic Republic of Iran. The focus of the book is
+  on explaining the political system of Wilayat al-Faqih and it's
+  comparision with other political systems like liberal democracy.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/shia-political-thought-ahmed-vaezi/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: b9ba7a76-592e-4a8b-8801-9e3b015fc1bb
+- source: :alislam
+  source_url: http://www.al-islam.org/shia-political-thought-ahmed-vaezi/islam-and-politics
+  title: Islam and Politics
+  slug: 2-islam-and-politics
+  uuid: 2778ec5e-36a6-4092-af82-9d034afb3950
+- source: :alislam
+  source_url: http://www.al-islam.org/shia-political-thought-ahmed-vaezi/what-wilayat-al-faqih
+  title: What is Wilayat al-Faqih?
+  slug: 3-what-is-wilayat-al-faqih
+  uuid: 4bfb0fed-f510-4009-8f3a-fa46aff5658c
+- source: :alislam
+  source_url: http://www.al-islam.org/shia-political-thought-ahmed-vaezi/why-wilayat-al-faqih
+  title: Why Wilayat al-Faqih?
+  slug: 4-why-wilayat-al-faqih
+  uuid: cbc253d6-a999-424a-b86b-39fea07d2a87
+- source: :alislam
+  source_url: http://www.al-islam.org/shia-political-thought-ahmed-vaezi/islam-and-democracy
+  title: Islam and Democracy
+  slug: 5-islam-and-democracy
+  uuid: 2d018347-edf5-49fb-b401-d17e558a0bfa
+- source: :alislam
+  source_url: http://www.al-islam.org/shia-political-thought-ahmed-vaezi/final-word
+  title: Final Word
+  slug: 6-final-word
+  uuid: 3a77c157-1a5e-4fa5-8830-30997111002d
+- source: :alislam
+  source_url: http://www.al-islam.org/shia-political-thought-ahmed-vaezi/bibliography
+  title: Bibliography
+  slug: 7-bibliography
+  uuid: d63fb0b5-1ae3-4271-90ee-af768815878e
+---

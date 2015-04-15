@@ -1,0 +1,42 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/history-shrines
+title: History of Shrines
+slug: history-of-shrines
+uuid: 44c82451-39b3-48d4-8a9a-c2af52802b42
+description: |2+
+
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/history-shrines/history-shrine-imam-ali-ibn-abi-talib-peace-be-upon-him
+  title: History of the shrine of Imam Ali ibn Abi Talib, peace be upon him
+  slug: 1-history-of-the-shrine-of-imam-ali-ibn-abi-talib-peace-be-upon-him
+  uuid: da0ab3da-a0b9-417f-b0fe-fd5f8444780e
+- source: :alislam
+  source_url: http://www.al-islam.org/history-shrines/history-cemetery-jannat-al-baqi
+  title: History of the Cemetery Of Jannat Al-Baqi
+  slug: 2-history-of-the-cemetery-of-jannat-al-baqi
+  uuid: 6ec0fa9b-8819-40e9-83fe-d73ef43c291b
+- source: :alislam
+  source_url: http://www.al-islam.org/history-shrines/history-shrine-imam-husayn-ibn-ali-ibn-abi-talib
+  title: History of the Shrine of Imam Husayn Ibn Ali Ibn Abi Talib
+  slug: 3-history-of-the-shrine-of-imam-husayn-ibn-ali-ibn-abi-talib
+  uuid: 3ceeaf8c-bbcd-4f2d-8d22-6bb4ffa481e2
+- source: :alislam
+  source_url: http://www.al-islam.org/history-shrines/history-shrine-imam-musa-al-kadhim-imam-muhammad-al-jawad
+  title: History of the Shrine of Imam Musa Al-Kadhim & Imam Muhammad Al-Jawad
+  slug: 4-history-of-the-shrine-of-imam-musa-al-kadhim-imam-muhammad-al-jawad
+  uuid: 4f3e7620-9f00-4bd1-b74f-bbc6ed9f8e1a
+- source: :alislam
+  source_url: http://www.al-islam.org/history-shrines/history-shrine-imam-ali-b-musa-al-ridha-peace-be-upon-him-history-mashad
+  title: History of the shrine of Imam Ali b. Musa Al-Ridha, peace be upon him the
+    history of Mashad
+  slug: 5-history-of-the-shrine-of-imam-ali-b-musa-al-ridha-peace-be-upon-him-the-history-of-mashad
+  uuid: 3ac4c7fa-a568-4444-8b39-c51f924815a7
+- source: :alislam
+  source_url: http://www.al-islam.org/history-shrines/history-shrine-imam-ali-al-naqi-imam-hasan-al-askari-peace-be-upon-them
+  title: History of the Shrine of Imam Ali Al-Naqi & Imam Hasan Al-Askari, Peace Be
+    Upon Them
+  slug: 6-history-of-the-shrine-of-imam-ali-al-naqi-imam-hasan-al-askari-peace-be-upon-them
+  uuid: 8d3cb68c-c6ee-4288-a156-de6e8a9599ae
+---

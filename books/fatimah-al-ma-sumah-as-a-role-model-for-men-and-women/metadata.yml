@@ -1,0 +1,54 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/fatimah-a-role-model-for-men-and-women
+author: al-Marji' Sayyid Muhammad Husayn Fadlullah
+publisher: Al-Bakir Cultural & Social Centre
+title: 'Fatimah al-Ma`sumah (as): a role model for men and women'
+slug: fatimah-al-ma-sumah-as-a-role-model-for-men-and-women
+uuid: 5eca3ae4-45b3-4a9c-a5a3-e2c3e1ef2735
+description: |
+  The daughter of the Prophet (s), a role model for men and women. The aim
+  of this book is to create admiration for her uncompromising protest and
+  stance, and sympathy for the injustice she suffered.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/fatimah-a-role-model-for-men-and-women/foreword-translator
+  title: Foreword by the Translator
+  slug: 1-foreword-by-the-translator
+  uuid: 60b1e300-b0ac-447d-9f70-d2f63409398c
+- source: :alislam
+  source_url: http://www.al-islam.org/fatimah-a-role-model-for-men-and-women/introduction-why-fatimah
+  title: 'Introduction: Why Fatimah (as)?'
+  slug: 2-introduction-why-fatimah-as
+  uuid: 8c8d3385-c0c1-4fac-848e-5b8d1214c0e6
+- source: :alislam
+  source_url: http://www.al-islam.org/fatimah-a-role-model-for-men-and-women/chapter-1-her-life-brief-account
+  title: 'Chapter 1: Her Life, a brief account'
+  slug: 3-chapter-1-her-life-a-brief-account
+  uuid: 9e9d0cd2-fb49-499c-a62d-7893ec117719
+- source: :alislam
+  source_url: http://www.al-islam.org/fatimah-a-role-model-for-men-and-women/chapter-2her-status
+  title: Chapter 2:Her Status
+  slug: 4-chapter-2-her-status
+  uuid: 786dfc43-595a-44e2-81be-0b521e2bf6f1
+- source: :alislam
+  source_url: http://www.al-islam.org/fatimah-a-role-model-for-men-and-women/chapter-3-role-model
+  title: 'Chapter 3: The Role Model'
+  slug: 5-chapter-3-the-role-model
+  uuid: 593ea6bc-7a4a-4c4a-9b5f-085cdf5d0645
+- source: :alislam
+  source_url: http://www.al-islam.org/fatimah-a-role-model-for-men-and-women/chapter-4-questions-and-answers
+  title: 'Chapter 4: Questions and Answers'
+  slug: 6-chapter-4-questions-and-answers
+  uuid: 2b53084b-720a-4498-8296-6c6efa30e91f
+- source: :alislam
+  source_url: http://www.al-islam.org/fatimah-a-role-model-for-men-and-women/call-his-eminence
+  title: A Call from His Eminence
+  slug: 7-a-call-from-his-eminence
+  uuid: 33b08a7d-9159-4551-8148-af479778cd94
+- source: :alislam
+  source_url: http://www.al-islam.org/fatimah-a-role-model-for-men-and-women/bibliography
+  title: Bibliography
+  slug: 8-bibliography
+  uuid: de0fda49-d2c9-4b76-9ea9-19a77021cbef
+---

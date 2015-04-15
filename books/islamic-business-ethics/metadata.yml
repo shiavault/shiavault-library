@@ -1,0 +1,84 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islamic-business-ethics-sayyid-muhammad-rizvi
+author: Sayyid Muhammad Rizvi
+publisher: Al-Ma'arif Books
+title: Islamic Business Ethics
+slug: islamic-business-ethics
+uuid: ab7a1c50-44cc-41ff-85e3-b0ef5d509872
+description: |
+  This treatise aims to help Muslim business people and professionals
+  understand the Islamic perspective on life, this world, pursuit of
+  material goods, and their responsibility towards society in general.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-business-ethics-sayyid-muhammad-rizvi/frequently-used-terms
+  title: Frequently Used Terms
+  slug: 1-frequently-used-terms
+  uuid: 12a47e49-39b0-452f-a9e1-676c32ffb13e
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-business-ethics-sayyid-muhammad-rizvi/preface
+  title: Preface
+  slug: 2-preface
+  uuid: fc073d94-6547-40d6-8a31-316632bed873
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-business-ethics-sayyid-muhammad-rizvi/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: ffdeb69c-5e45-4aa8-8504-2fe694dac282
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-business-ethics-sayyid-muhammad-rizvi/1-world-and-hereafter
+  title: 1. This World and the Hereafter
+  slug: 4-1-this-world-and-the-hereafter
+  uuid: c5d9d3c6-e15c-4e66-b659-d837efe495ff
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-business-ethics-sayyid-muhammad-rizvi/2-you-and-god
+  title: 2. You and God
+  slug: 5-2-you-and-god
+  uuid: 9c61eb85-860b-439c-8f5e-802e67dd89c1
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-business-ethics-sayyid-muhammad-rizvi/3-your-time-and-money
+  title: 3. Your Time and Money
+  slug: 6-3-your-time-and-money
+  uuid: 942c1fd1-3477-4eca-a1b8-7ef5ca6f3b32
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-business-ethics-sayyid-muhammad-rizvi/4-your-customers
+  title: 4. Your Customers
+  slug: 7-4-your-customers
+  uuid: 6070b17d-29b3-45af-a902-24ada151d4d8
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-business-ethics-sayyid-muhammad-rizvi/5-your-employees
+  title: 5. Your Employees
+  slug: 8-5-your-employees
+  uuid: b10bf2af-f7fe-4377-9490-0d696b929e75
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-business-ethics-sayyid-muhammad-rizvi/6-your-partner
+  title: 6. Your Partner
+  slug: 9-6-your-partner
+  uuid: bd6e78c9-9cea-4970-a7bd-6187f085bbd5
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-business-ethics-sayyid-muhammad-rizvi/71-your-business-five-types-laws
+  title: '7.1 Your Business A: Five Types of Laws'
+  slug: 10-7-1-your-business-a-five-types-of-laws
+  uuid: c0b172c5-d09b-4df8-946c-d27b978546cc
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-business-ethics-sayyid-muhammad-rizvi/72-your-business-b-1-haram-business-and-trade
+  title: 7.2 Your Business B 1) Haram Business and Trade
+  slug: 11-7-2-your-business-b-1-haram-business-and-trade
+  uuid: 3b9dd57f-61e8-4a59-a7fe-8ef1aa8c6400
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-business-ethics-sayyid-muhammad-rizvi/73-your-business-b-2-haram-business-and-trade
+  title: 7.3 Your Business B 2) Haram Business and Trade
+  slug: 12-7-3-your-business-b-2-haram-business-and-trade
+  uuid: 0676f59d-eedb-4cb3-b030-2b120260d901
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-business-ethics-sayyid-muhammad-rizvi/8-non-muslim-work-environment
+  title: 8. The Non-Muslim Work Environment
+  slug: 13-8-the-non-muslim-work-environment
+  uuid: 72b41989-2324-4b51-8cc9-640841da0c9b
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-business-ethics-sayyid-muhammad-rizvi/works-cited
+  title: Works Cited
+  slug: 14-works-cited
+  uuid: afe05321-2ed5-45bf-b5c7-7cdbb2df50aa
+---

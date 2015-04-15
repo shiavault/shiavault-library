@@ -1,0 +1,54 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/selected-narrations-about-twelfth-imam-vol-1-lutfullah-safi-al-gulpaygani
+author: Ayatullah Lutfullah as-Safi al-Gulpaygani
+publisher: Naba Organization
+translator: Dr. Shabeeb Rizvi
+title: Selected Narrations about the Twelfth Imam volume 1
+slug: selected-narrations-about-the-twelfth-imam-volume-1
+uuid: 7f27e61a-1b07-43f4-81ee-6b39b22cfbaf
+description: |
+  This text, which is available in two volumes and is authored by
+  Ayatullah Lutfullah as-Safi al-Gulpaygani, presents a handful of
+  precious narrations about the 12th Awaited Imam. These narrations
+  forecasting the coming of 12 Caliphs and their description and this text
+  presents the implications and interpretations of these authentic
+  traditions.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/selected-narrations-about-twelfth-imam-vol-1-lutfullah-safi-al-gulpaygani/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 0ed4aee2-dfdd-4c73-b5eb-f88d1979d876
+- source: :alislam
+  source_url: http://www.al-islam.org/selected-narrations-about-twelfth-imam-vol-1-lutfullah-safi-al-gulpaygani/traditions-about-twelve
+  title: The Traditions about the Twelve Caliphs
+  slug: 2-the-traditions-about-the-twelve-caliphs
+  uuid: 71cdcd8c-ac6d-4ae2-82a1-cc2eed605dc3
+- source: :alislam
+  source_url: http://www.al-islam.org/selected-narrations-about-twelfth-imam-vol-1-lutfullah-safi-al-gulpaygani/chapter-1-traditions
+  title: 'Chapter 1: Traditions that Denote the Number of the Twelve Caliphs'
+  slug: 3-chapter-1-traditions-that-denote-the-number-of-the-twelve-caliphs
+  uuid: ca9fc52b-d723-4ca4-9288-6c268e2cbc67
+- source: :alislam
+  source_url: http://www.al-islam.org/selected-narrations-about-twelfth-imam-vol-1-lutfullah-safi-al-gulpaygani/chapter-2-documented
+  title: 'Chapter 2: Documented Traditions Concerning the Twelve Imams Elaborating
+    Those Brought in the First Chapter'
+  slug: 4-chapter-2-documented-traditions-concerning-the-twelve-imams-elaborating-those-brought-in-the-first-chapter
+  uuid: a3e6f586-84e0-44eb-89c3-bb385830eeec
+- source: :alislam
+  source_url: http://www.al-islam.org/selected-narrations-about-twelfth-imam-vol-1-lutfullah-safi-al-gulpaygani/appendix-chapter-two-who
+  title: 'Appendix To Chapter Two: Who Are The Twelve Caliphs?'
+  slug: 5-appendix-to-chapter-two-who-are-the-twelve-caliphs
+  uuid: 73e286d8-0954-4f11-bff9-af52fffdd543
+- source: :alislam
+  source_url: http://www.al-islam.org/selected-narrations-about-twelfth-imam-vol-1-lutfullah-safi-al-gulpaygani/conclusion
+  title: Conclusion
+  slug: 6-conclusion
+  uuid: 1015a83f-604f-41eb-a360-9fd3c5a6e3e1
+- source: :alislam
+  source_url: http://www.al-islam.org/selected-narrations-about-twelfth-imam-vol-1-lutfullah-safi-al-gulpaygani/bibliography
+  title: Bibliography
+  slug: 7-bibliography
+  uuid: 9b165d7f-af6f-4bb5-9507-71582f579a67
+---

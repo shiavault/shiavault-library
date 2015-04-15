@@ -1,0 +1,38 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/allah-the-concept-of-god-in-islam-a-selection-yasin-al-jibouri
+author: Yasin T. Al-Jibouri
+publisher: Ansariyan Publications - Qum
+title: Allah
+slug: allah
+uuid: 9d7cb097-f5c9-4924-a9b0-05ed13c1f6e1
+description: |
+  Knowing God, His 99 attributes, the Unity of God, and supplicating to
+  Him
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/allah-the-concept-of-god-in-islam-a-selection-yasin-al-jibouri/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 77881fac-8f08-4cc5-8823-e1f86c038fd1
+- source: :alislam
+  source_url: http://www.al-islam.org/allah-the-concept-of-god-in-islam-a-selection-yasin-al-jibouri/section-1-knowing-allah
+  title: 'Section 1: Knowing Allah'
+  slug: 2-section-1-knowing-allah
+  uuid: de3044c4-c51b-4664-ae00-edd2e9547d3a
+- source: :alislam
+  source_url: http://www.al-islam.org/allah-the-concept-of-god-in-islam-a-selection-yasin-al-jibouri/ninety-nine-attributes-allah
+  title: The Ninety Nine Attributes of Allah
+  slug: 3-the-ninety-nine-attributes-of-allah
+  uuid: fdb75adc-619c-4de2-9340-a1922ccabd34
+- source: :alislam
+  source_url: http://www.al-islam.org/allah-the-concept-of-god-in-islam-a-selection-yasin-al-jibouri/unity-allah-tawhid
+  title: Unity of Allah (Tawhid)
+  slug: 4-unity-of-allah-tawhid
+  uuid: 70fa3ea1-4136-478f-a617-0542dfc34a01
+- source: :alislam
+  source_url: http://www.al-islam.org/allah-the-concept-of-god-in-islam-a-selection-yasin-al-jibouri/how-supplicate-allah
+  title: How to Supplicate to Allah
+  slug: 5-how-to-supplicate-to-allah
+  uuid: db3f6f32-bfcc-40e5-b2f5-6e5dc990f526
+---

@@ -1,0 +1,18 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/holy-city-samarra-abbas-jaffer
+author: Abbas Jaffer
+title: The Holy City of Samarra
+slug: the-holy-city-of-samarra
+uuid: 27eefc2d-d484-4ad2-a7f0-20b11c9d5e8c
+description: |
+  A short text describing the historical significance of the Holy City of
+  Samarrah, including photographs of the Holy Shrines of Imams al-Hadi (A)
+  and al-Askari (before and after it's destruction in February 2006).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/holy-city-samarra-abbas-jaffer/holy-city-samarra
+  title: The Holy City of Samarra
+  slug: 1-the-holy-city-of-samarra
+  uuid: 51413b0a-8c20-4edd-9ecd-225761cef115
+---

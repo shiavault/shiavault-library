@@ -1,0 +1,28 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/history-masjid-jamkaran
+publisher: The Holy Mosque of Jamkaran Publications
+translator: Sayyid Hussein Alamdar
+title: History of Masjid Jamkaran
+slug: history-of-masjid-jamkaran
+uuid: 27853306-74ff-45a2-929f-b49fa178b715
+description: |
+  History of the mosque and its picture, recommended prayers to be recited
+  at Jamkaran, and a prayer for the safety of the 12th Imam.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/history-masjid-jamkaran/history-masjid-jamkaran
+  title: History of Masjid Jamkaran
+  slug: 1-history-of-masjid-jamkaran
+  uuid: 74182ef9-3902-40c0-8807-c9a77a9d117c
+- source: :alislam
+  source_url: http://www.al-islam.org/history-masjid-jamkaran/how-pray-masjid-jamkaran
+  title: How to Pray at Masjid Jamkaran
+  slug: 2-how-to-pray-at-masjid-jamkaran
+  uuid: f1436ef7-8ecd-4524-bbac-caa2be8fec8d
+- source: :alislam
+  source_url: http://www.al-islam.org/history-masjid-jamkaran/prayer-safety-imam-al-mahdi
+  title: A Prayer for the Safety of Imam al-Mahdi [a]
+  slug: 3-a-prayer-for-the-safety-of-imam-al-mahdi-a
+  uuid: b8d8194c-d43a-40de-b93c-51a77fdf4181
+---

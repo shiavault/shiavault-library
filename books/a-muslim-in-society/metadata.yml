@@ -1,0 +1,73 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/a-muslim-in-society-al-balagh
+author: N/A
+publisher: Al Balagh Foundation
+title: A Muslim in Society
+slug: a-muslim-in-society
+uuid: 813c234b-2913-4818-bb47-8a2874e2a9e3
+description: |
+  A concise introductory text about the appropriate behaviour of Muslims
+  and their conduct with others in society.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/a-muslim-in-society-al-balagh/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 1a73b653-311e-4cf4-a6d2-8cd8acafd6f7
+- source: :alislam
+  source_url: http://www.al-islam.org/a-muslim-in-society-al-balagh/responsibility
+  title: Responsibility
+  slug: 2-responsibility
+  uuid: 4b00486e-1433-4e55-bbf7-1d087b5ef47a
+- source: :alislam
+  source_url: http://www.al-islam.org/a-muslim-in-society-al-balagh/how-act-upon-holy-quran
+  title: How to Act Upon the Holy Qur'an
+  slug: 3-how-to-act-upon-the-holy-qur-an
+  uuid: eda67b8c-2415-4041-a7bc-75f283f4af65
+- source: :alislam
+  source_url: http://www.al-islam.org/a-muslim-in-society-al-balagh/calling-islam
+  title: Calling To Islam
+  slug: 4-calling-to-islam
+  uuid: fa84022c-8366-4c3d-aa83-f1703db1131d
+- source: :alislam
+  source_url: http://www.al-islam.org/a-muslim-in-society-al-balagh/opposing-oppressors-and-unjust
+  title: Opposing the Oppressors and the Unjust
+  slug: 5-opposing-the-oppressors-and-the-unjust
+  uuid: fb1579da-0dba-4e17-96bc-49ad0834a316
+- source: :alislam
+  source_url: http://www.al-islam.org/a-muslim-in-society-al-balagh/advice
+  title: Advice
+  slug: 6-advice
+  uuid: 234074c7-d2d5-4705-961b-95f67746a23b
+- source: :alislam
+  source_url: http://www.al-islam.org/a-muslim-in-society-al-balagh/good-and-bad-deeds
+  title: Good And Bad Deeds
+  slug: 7-good-and-bad-deeds
+  uuid: 934d981c-6b99-45bd-bd4d-56c8d57d83a1
+- source: :alislam
+  source_url: http://www.al-islam.org/a-muslim-in-society-al-balagh/forbidding-what-wrong
+  title: Forbidding What Is Wrong
+  slug: 8-forbidding-what-is-wrong
+  uuid: 7de19f32-2a56-41bf-a280-6b8902239421
+- source: :alislam
+  source_url: http://www.al-islam.org/a-muslim-in-society-al-balagh/jihad-holy-struggle-obligatory-duty
+  title: Jihad (Holy Struggle) is an Obligatory Duty
+  slug: 9-jihad-holy-struggle-is-an-obligatory-duty
+  uuid: 100bbbfc-2a6c-49d9-a16a-1dab2b656979
+- source: :alislam
+  source_url: http://www.al-islam.org/a-muslim-in-society-al-balagh/reciprocal-responsibility-among-muslims
+  title: Reciprocal Responsibility Among Muslims
+  slug: 10-reciprocal-responsibility-among-muslims
+  uuid: 6a0ee995-aafd-4d1d-8843-ae348ebf7715
+- source: :alislam
+  source_url: http://www.al-islam.org/a-muslim-in-society-al-balagh/spending-wealth
+  title: Spending Wealth
+  slug: 11-spending-wealth
+  uuid: bf6d0727-ae6c-40c6-a239-1e626a3dc9cf
+- source: :alislam
+  source_url: http://www.al-islam.org/a-muslim-in-society-al-balagh/responsibility-towards-society
+  title: Responsibility Towards Society
+  slug: 12-responsibility-towards-society
+  uuid: 108dc9ee-f1fb-4c89-9488-6162eeb5911f
+---

@@ -1,0 +1,53 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/repentance-cradle-mercy-allama-husayn-ansariyan
+author: Allama Husayn Ansariyan
+publisher: Ansariyan Publications - Qum
+translator: Abdullah al-Shahin
+title: 'Repentance: The Cradle of Mercy'
+slug: repentance-the-cradle-of-mercy
+uuid: d4c9af52-b79c-47ce-b716-788a37282da3
+description: |
+  This book before you is a memorandum of more than twenty meetings filled
+  with moral teachings from those Tuesday nights, nights that bring good
+  and beautiful memories. I hope you will be lucky to make full use of the
+  discussions of this book that address us with new forms in the circle of
+  repentance and go deep into our consciences to move the feelings of
+  goodness in our souls.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/repentance-cradle-mercy-allama-husayn-ansariyan/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: cdbea458-b44f-45fd-9098-e08c19b4018e
+- source: :alislam
+  source_url: http://www.al-islam.org/repentance-cradle-mercy-allama-husayn-ansariyan/divine-gifts-and-mans-responsibility
+  title: The Divine Gifts and Man’s Responsibility
+  slug: 2-the-divine-gifts-and-man-s-responsibility
+  uuid: d6db9cb7-9674-45b0-ad15-48080ba80ff2
+- source: :alislam
+  source_url: http://www.al-islam.org/repentance-cradle-mercy-allama-husayn-ansariyan/guilt-and-ways-curing-it
+  title: Guilt and the ways of curing it
+  slug: 3-guilt-and-the-ways-of-curing-it
+  uuid: c22a8f34-6b8d-4fcd-8bee-15df344d1632
+- source: :alislam
+  source_url: http://www.al-islam.org/repentance-cradle-mercy-allama-husayn-ansariyan/turning-allah
+  title: Turning to Allah
+  slug: 4-turning-to-allah
+  uuid: a896f5b9-e741-4e8b-8386-d36e12d349cc
+- source: :alislam
+  source_url: http://www.al-islam.org/repentance-cradle-mercy-allama-husayn-ansariyan/stories-repentant-people
+  title: Stories of Repentant People
+  slug: 5-stories-of-repentant-people
+  uuid: 29fbd92a-7d49-445b-a53a-8afc8fb6df27
+- source: :alislam
+  source_url: http://www.al-islam.org/repentance-cradle-mercy-allama-husayn-ansariyan/abundant-profits-piety-and-godliness
+  title: The Abundant Profits of Piety and Godliness
+  slug: 6-the-abundant-profits-of-piety-and-godliness
+  uuid: e654458b-8272-4637-84dc-e4177ff8a83e
+- source: :alislam
+  source_url: http://www.al-islam.org/repentance-cradle-mercy-allama-husayn-ansariyan/summary
+  title: Summary
+  slug: 7-summary
+  uuid: 72c0efe6-d218-4ae4-a53b-a76dc5d8851a
+---

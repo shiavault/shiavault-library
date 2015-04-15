@@ -1,0 +1,28 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/arbaeen-imam-husayn-shaykh-saleem-bhimji
+author: Shaykh Saleem Bhimji
+publisher: www.al-mubin.org
+title: Arbaeen of Imam Husayn
+slug: arbaeen-of-imam-husayn
+uuid: c61b685a-f742-41b5-bf93-9f8729dd384b
+description: |
+  What follows in this piece is a brief look at the “Arba‘een” [the
+  commemoration of 40 days after the tragic events of Karbala] of Imam
+  al-Husayn, peace be upon him. The article concludes with the Arabic text
+  of Ziyarat Arba‘een with full English translation and a brief exposition
+  on certain passages of this powerful and moving visitation. Insha-Allah,
+  a more comprehensive understanding of this ziyarat will be presented in
+  the future.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/arbaeen-imam-husayn-shaykh-saleem-bhimji/arbaeen-imam-husayn
+  title: Arbaeen of Imam Husayn
+  slug: 1-arbaeen-of-imam-husayn
+  uuid: 3139bea4-1cbb-4901-86db-0e9bbe35dfb9
+- source: :alislam
+  source_url: http://www.al-islam.org/arbaeen-imam-husayn-shaykh-saleem-bhimji/ziyarat-arbaeen
+  title: Ziyarat Arbaeen
+  slug: 2-ziyarat-arbaeen
+  uuid: 539b3ed6-07ac-42a9-afd5-4a526edb20d6
+---

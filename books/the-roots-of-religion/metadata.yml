@@ -1,0 +1,167 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq
+title: The Roots of Religion
+slug: the-roots-of-religion
+uuid: 0a626190-15f0-48e2-82f0-e4707f6474e9
+description: |
+  A book at explains the Usul al-Deen (Roots of Religion). It helps
+  resolve questions and doubts in relation to God, Prophethood, Imamate,
+  Death and Jugement Day.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 8723518b-ae1f-4f32-8e2a-61f614c51760
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-1-why-religion
+  title: 'Lesson 1: Why Religion?'
+  slug: 2-lesson-1-why-religion
+  uuid: 79451f33-d7ac-4ebc-89fb-cbdd4aeb0343
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-2-experiment-beyond-physical-senses
+  title: 'Lesson 2: Experiment beyond the physical senses'
+  slug: 3-lesson-2-experiment-beyond-the-physical-senses
+  uuid: a8164acd-fa77-4ab4-8709-4ed603b8688e
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-3-design-universe
+  title: 'Lesson 3: Design in the Universe'
+  slug: 4-lesson-3-design-in-the-universe
+  uuid: b91922f9-ca7b-4bb7-b088-8c2b09ff6ca4
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-4-designer-universe
+  title: 'Lesson 4: The Designer of the Universe'
+  slug: 5-lesson-4-the-designer-of-the-universe
+  uuid: 6c6608a5-8a72-4427-8b88-cd45977563fe
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-5-unveiling-secrets-nature
+  title: 'Lesson 5: Unveiling the Secrets of Nature'
+  slug: 6-lesson-5-unveiling-the-secrets-of-nature
+  uuid: 4249a5b8-26a8-4635-9ad7-80db699d493c
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-6-lavoisier%E2%80%99s-law-and-creation
+  title: 'Lesson 6: Lavoisier’s Law and Creation'
+  slug: 7-lesson-6-lavoisier-s-law-and-creation
+  uuid: d06f4dd1-4168-45e0-9cbb-84d97eea09c6
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-7-creatures-eternal-need-allah
+  title: 'Lesson 7: The Creatures Eternal need for Allah'
+  slug: 8-lesson-7-the-creatures-eternal-need-for-allah
+  uuid: 1f4a8158-6076-421b-8f48-95a78e982258
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-8-allah-self-sufficient
+  title: 'Lesson 8:  Allah the Self-sufficient'
+  slug: 9-lesson-8-allah-the-self-sufficient
+  uuid: f144c285-db39-44eb-ae39-99fc3301e8f5
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-9-allahs-omniscience-more-knowledge-more-benefit
+  title: 'Lesson 9: Allah''s Omniscience More knowledge - more benefit?'
+  slug: 10-lesson-9-allah-s-omniscience-more-knowledge-more-benefit
+  uuid: 19f0bb26-51d3-4d28-976d-2307cffb8e78
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-10-unique-power-and-strength
+  title: 'Lesson 10: The Unique in Power and Strength'
+  slug: 11-lesson-10-the-unique-in-power-and-strength
+  uuid: b898151e-5e38-4e63-af5e-b23da35e7e5c
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-11-allah-unique
+  title: 'Lesson 11: Allah the Unique'
+  slug: 12-lesson-11-allah-the-unique
+  uuid: b761c44f-07d6-479e-8abe-86bb9dd8f4c1
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-12-dualism-and-monotheism
+  title: 'Lesson 12: Dualism and Monotheism'
+  slug: 13-lesson-12-dualism-and-monotheism
+  uuid: 1c1400a1-5957-4d8b-9881-1e7f4bb16275
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-13-just-god
+  title: 'Lesson 13: The Just God'
+  slug: 14-lesson-13-the-just-god
+  uuid: 6d30c24b-10b3-48df-a98f-f1f27de81492
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-14-vicissitudes-life-man
+  title: 'Lesson 14: The Vicissitudes in the Life of Man'
+  slug: 15-lesson-14-the-vicissitudes-in-the-life-of-man
+  uuid: 6cd95971-3d63-42c0-9181-ee2c2b02f490
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-15-prophets-and-human-guidance
+  title: 'Lesson 15: Prophets and Human Guidance'
+  slug: 16-lesson-15-prophets-and-human-guidance
+  uuid: c33c21fc-735b-436a-85d3-95fbc5c52654
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-16-purity-prophets
+  title: 'Lesson 16: The purity of the Prophets'
+  slug: 17-lesson-16-the-purity-of-the-prophets
+  uuid: 8471a424-08ec-49ed-90dc-1555dceb88c2
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-17-hazrat-musa-he-whom-allah-spoke
+  title: 'Lesson 17: Hazrat Musa (A.S.) He to whom Allah spoke'
+  slug: 18-lesson-17-hazrat-musa-a-s-he-to-whom-allah-spoke
+  uuid: d4d444da-5b45-46e3-88d9-60b55b57c5f9
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-18-hazrat-isa-jesus
+  title: 'Lesson 18: Hazrat ''Isa Jesus ( a.s.)'
+  slug: 19-lesson-18-hazrat-isa-jesus-a-s
+  uuid: 344767d5-5f05-4620-8132-8857a4120f37
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-19-muhammad-radiance-shone-forth-darkness
+  title: 'Lesson 19: Muhammad, the Radiance that shone forth in the Darkness'
+  slug: 20-lesson-19-muhammad-the-radiance-that-shone-forth-in-the-darkness
+  uuid: 87594d19-63ce-4511-b7be-d70281caf0f6
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-20-muhammad-foretold-prophet
+  title: 'Lesson 20: Muhammad the Foretold Prophet'
+  slug: 21-lesson-20-muhammad-the-foretold-prophet
+  uuid: 48a68afd-1d20-4c4f-9ff5-7a1a29294f76
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-21-al-qur%E2%80%99-miracle-islam
+  title: 'Lesson 21: Al-Qur’an, the Miracle of Islam'
+  slug: 22-lesson-21-al-qur-an-the-miracle-of-islam
+  uuid: 69f424d1-4ac5-4ad7-9ba2-85e2dad92ff3
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-22-message-islam
+  title: 'Lesson 22: The Message of Islam'
+  slug: 23-lesson-22-the-message-of-islam
+  uuid: 6a863421-daa2-49d3-98d9-3ba12fd66149
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-23-last-message-last-prophet
+  title: 'Lesson 23: The Last Message, The Last Prophet'
+  slug: 24-lesson-23-the-last-message-the-last-prophet
+  uuid: 4cd4d3f7-ac52-4bbd-98b4-4d0d3dbefee2
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-24-imamat-succession-prophet-s
+  title: 'Lesson 24: The Imamat, Succession to the Prophet (S)'
+  slug: 25-lesson-24-the-imamat-succession-to-the-prophet-s
+  uuid: 970ab64d-fdfa-4e2f-bcbd-760660d716ee
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-25-spiritual-guidance-imam
+  title: 'Lesson 25: The Spiritual Guidance of the Imam'
+  slug: 26-lesson-25-the-spiritual-guidance-of-the-imam
+  uuid: ea06aa2e-5be5-4af1-9263-abe4a21785b7
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-26-amir-al-muminin-ali-chosen-successor-prophet
+  title: 'Lesson 26: Amir al-Muminin Ali , the Chosen Successor of the Prophet'
+  slug: 27-lesson-26-amir-al-muminin-ali-the-chosen-successor-of-the-prophet
+  uuid: 98f43be0-2f4a-41ca-9bc5-3db24fc02ba8
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-27-brief-history-saqifah
+  title: 'Lesson 27: A Brief History of the Saqifah'
+  slug: 28-lesson-27-a-brief-history-of-the-saqifah
+  uuid: bd4c455c-929b-48d1-8b89-6195a30e30e7
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-28-twelfth-imam-muhammad-al-mahdi-aj
+  title: 'Lesson 28: The Twelfth Imam,  Muhammad al-Mahdi (a.j.)'
+  slug: 29-lesson-28-the-twelfth-imam-muhammad-al-mahdi-a-j
+  uuid: 21a35118-c4ad-47ab-9f7f-0685cb53cf37
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson29-return
+  title: 'Lesson29: The Return'
+  slug: 30-lesson29-the-return
+  uuid: a782dac1-6b02-45c3-a6b5-ba275cd84ae3
+- source: :alislam
+  source_url: http://www.al-islam.org/roots-religion-dar-rah-e-haq/lesson-30-after-death
+  title: 'Lesson 30: After Death'
+  slug: 31-lesson-30-after-death
+  uuid: 359c472a-1f63-4dc2-bb67-210eaf79c570
+---

@@ -1,0 +1,62 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/lady-fatima-masuma-of-qum-masuma-jaffer
+author: Masuma Jaffer
+publisher: Jami‘at al-Zahra - Islamic Seminary for Women - Qum
+title: Lady Fatima Masuma (a) of Qum
+slug: lady-fatima-masuma-a-of-qum
+uuid: 01d40257-7c66-492f-959f-3582403d8d8b
+description: |
+  Lady Fatima Masuma (a) was the daughter of the 7th Imam, Imam Musa
+  al-Kadhim (a), and the sister of the 8th Imam, Imam Ali al-Rida (a). She
+  was a noble lady who dedicated her life to Islam and Allah. She is
+  buried in the city of Qum in Iran. This book includes her biography,
+  education, and narration of traditions. It also includes the history and
+  description of her shrine and a brief look at the city of Qum.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-fatima-masuma-of-qum-masuma-jaffer/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: f20e4fbc-9f65-4594-86b8-4b755a8a0a16
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-fatima-masuma-of-qum-masuma-jaffer/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 6c7e8081-e87e-4d58-a144-61185d27066f
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-fatima-masuma-of-qum-masuma-jaffer/biography-lady-fatima-masuma
+  title: The Biography of Lady Fatima Masuma (A)
+  slug: 3-the-biography-of-lady-fatima-masuma-a
+  uuid: f5f1cfe8-43cd-4eca-841e-5b12dffde4b8
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-fatima-masuma-of-qum-masuma-jaffer/journey-qum
+  title: Journey to Qum
+  slug: 4-journey-to-qum
+  uuid: e6b1ccc0-fc30-4357-91d8-04a080b183cd
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-fatima-masuma-of-qum-masuma-jaffer/shrine-lady-fatima-masuma
+  title: The Shrine of Lady Fatima Masuma (A)
+  slug: 5-the-shrine-of-lady-fatima-masuma-a
+  uuid: b1e5df72-36e5-4752-b409-adf506ce3ad0
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-fatima-masuma-of-qum-masuma-jaffer/holy-city-qum
+  title: The Holy City of Qum
+  slug: 6-the-holy-city-of-qum
+  uuid: f858acd8-75c9-414c-a28d-fe32615ab968
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-fatima-masuma-of-qum-masuma-jaffer/pilgrimage-lady-fatima-masuma
+  title: The Pilgrimage of Lady Fatima Masuma (A)
+  slug: 7-the-pilgrimage-of-lady-fatima-masuma-a
+  uuid: 1f45a05e-697c-4946-adbf-8a656ef328f3
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-fatima-masuma-of-qum-masuma-jaffer/ziy%C4%81rat-salutation-lady-fatima-masuma
+  title: Ziyārat (salutation) of Lady Fatima Masuma (A)
+  slug: 8-ziyarat-salutation-of-lady-fatima-masuma-a
+  uuid: a6869960-ea40-4ab6-b3b4-3f155ae98f6f
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-fatima-masuma-of-qum-masuma-jaffer/bibliography
+  title: Bibliography
+  slug: 9-bibliography
+  uuid: b28ea295-67bd-420d-88b1-4ca0082a9412
+---

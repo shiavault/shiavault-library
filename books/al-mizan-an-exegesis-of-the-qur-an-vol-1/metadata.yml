@@ -1,0 +1,126 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai
+author: Allamah Sayyid Muhammad Husayn at-Tabataba'i
+publisher: W.O.F.I.S. World Organization for Islamic Services
+translator: Allamah Sayyid Sa'eed Akhtar Rizvi
+title: Al-Mizan An Exegesis of the Qur'an, vol 1
+slug: al-mizan-an-exegesis-of-the-qur-an-vol-1
+uuid: 1a621d23-ba42-466e-92f9-85643a58cac2
+description: |
+  The first volume of the renown commentary on the Qur'an written by one
+  of the greatest commentators on the Qur'an in modern times. This volume
+  contains the exegesis of Suratul Fatiha (1) and Suratul Baqarah (2) to
+  verse 93. Translated by Allamah Sayyid Sa'eed Akhtar Rizvi.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 1c8445dc-ef73-4b1a-a14a-cbb90bd0941e
+- source: :alislam
+  source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai/preface
+  title: Preface
+  slug: 2-preface
+  uuid: 8a322e67-09a0-4521-9415-8d1ddb9e018e
+- source: :alislam
+  source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai/suratul-fatiha-chapter
+  title: Suratul Fatiha, The Chapter Of The Opening 1:1-5
+  slug: 3-suratul-fatiha-the-chapter-of-the-opening-1-1-5
+  uuid: 662c5966-cc01-44b4-b3c1-d02d2b20db93
+- source: :alislam
+  source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai/suratul-fatiha-verses-6-7
+  title: 'Suratul Fatiha: Verses 6-7'
+  slug: 4-suratul-fatiha-verses-6-7
+  uuid: 1522b73a-fe3a-4768-8d9d-b58d1648fe03
+- source: :alislam
+  source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai/suratul-baqarah-chapter-cow
+  title: Suratul Baqarah, The Chapter of The Cow 2:1-5
+  slug: 5-suratul-baqarah-the-chapter-of-the-cow-2-1-5
+  uuid: a731e874-f6f9-489d-98cc-9e76e41c1561
+- source: :alislam
+  source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai/suratul-baqarah-verses-6-7
+  title: 'Suratul Baqarah: Verses 6-7'
+  slug: 6-suratul-baqarah-verses-6-7
+  uuid: 5b2ef8de-62f4-4547-886a-34b117c1e6de
+- source: :alislam
+  source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai/suratul-baqarah-verses-8-20
+  title: 'Suratul Baqarah: Verses 8-20'
+  slug: 7-suratul-baqarah-verses-8-20
+  uuid: d76db4bb-edf2-4316-b3e2-a6321df41efe
+- source: :alislam
+  source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai/suratul-baqarah-verses-21-25
+  title: 'Suratul Baqarah: Verses 21-25'
+  slug: 8-suratul-baqarah-verses-21-25
+  uuid: fc65d3ab-c6f7-4f9c-a115-1d0f3dbd4ff1
+- source: :alislam
+  source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai/suratul-baqarah-verses-26-27
+  title: 'Suratul Baqarah: Verses 26-27'
+  slug: 9-suratul-baqarah-verses-26-27
+  uuid: b8c07732-df8d-42c4-9b8e-224d1972b3e1
+- source: :alislam
+  source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai/suratul-baqarah-verses-28-29
+  title: 'Suratul Baqarah: Verses 28-29'
+  slug: 10-suratul-baqarah-verses-28-29
+  uuid: ca475363-152c-424c-9aaa-6a930285d931
+- source: :alislam
+  source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai/suratul-baqarah-verses-30-33
+  title: 'Suratul Baqarah: Verses 30-33'
+  slug: 11-suratul-baqarah-verses-30-33
+  uuid: 61f4f147-16a4-4164-ab7a-e24c6f694773
+- source: :alislam
+  source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai/suratul-baqarah-verse-34
+  title: 'Suratul Baqarah: Verse 34'
+  slug: 12-suratul-baqarah-verse-34
+  uuid: d0382718-ab43-4a73-b736-db5fe69cb984
+- source: :alislam
+  source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai/suratul-baqarah-verses-35-39
+  title: 'Suratul Baqarah: Verses 35-39'
+  slug: 13-suratul-baqarah-verses-35-39
+  uuid: bd432418-ee65-42c1-a840-f197492420df
+- source: :alislam
+  source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai/suratul-baqarah-verses-40-44
+  title: 'Suratul Baqarah: Verses 40-44'
+  slug: 14-suratul-baqarah-verses-40-44
+  uuid: 7bc4ce19-36a7-47d7-ba7c-396e1c09dc99
+- source: :alislam
+  source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai/suratul-baqarah-verses-45-46
+  title: 'Suratul Baqarah: Verses 45-46'
+  slug: 15-suratul-baqarah-verses-45-46
+  uuid: 5ad8c666-33a0-49c9-b87f-274d7eb97af3
+- source: :alislam
+  source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai/suratul-baqarah-verses-47-48
+  title: 'Suratul Baqarah: Verses 47-48'
+  slug: 16-suratul-baqarah-verses-47-48
+  uuid: 31062a4f-140d-4298-b641-1cf526baffd8
+- source: :alislam
+  source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai/suratul-baqarah-verses-49-61
+  title: 'Suratul Baqarah: Verses 49-61'
+  slug: 17-suratul-baqarah-verses-49-61
+  uuid: b491c46b-abaa-46fd-a873-2f98a5423df3
+- source: :alislam
+  source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai/suratul-baqarah-verses-62
+  title: 'Suratul Baqarah: Verses 62'
+  slug: 18-suratul-baqarah-verses-62
+  uuid: 851f51b9-6c5b-4350-87fd-b9e207029e60
+- source: :alislam
+  source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai/suratul-baqarah-verses-63-74
+  title: 'Suratul Baqarah: Verses 63-74'
+  slug: 19-suratul-baqarah-verses-63-74
+  uuid: 5aaa2174-4a6a-4fea-8e81-3360374112f6
+- source: :alislam
+  source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai/suratul-baqarah-verses-75-82
+  title: 'Suratul Baqarah: Verses 75-82'
+  slug: 20-suratul-baqarah-verses-75-82
+  uuid: 9ef290fa-6ec5-4bf1-ab13-9099444bd373
+- source: :alislam
+  source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai/suratul-baqarah-verses-83-88
+  title: 'Suratul Baqarah: Verses 83-88'
+  slug: 21-suratul-baqarah-verses-83-88
+  uuid: 959fbbeb-b09d-4ca5-9c1e-28a9e2ec3344
+- source: :alislam
+  source_url: http://www.al-islam.org/al-mizan-exegesis-quran-vol-1-allamah-sayyid-muhammad-husayn-tabatabai/suratul-baqarah-verses-89-93
+  title: 'Suratul Baqarah: Verses 89-93'
+  slug: 22-suratul-baqarah-verses-89-93
+  uuid: 778ff9a6-6381-48bd-8ca0-71af771dc539
+---

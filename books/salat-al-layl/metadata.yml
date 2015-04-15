@@ -1,0 +1,39 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/salat-al-layl-allamah-muhammad-baqir-al-majlisi
+author: Allamah Muhammad Baqir Al-Majlisi
+publisher: Al-Fath Al-Mubin Publications
+translator: Shaykh Saleem Bhimji
+title: Salat al-Layl
+slug: salat-al-layl
+uuid: eba9eec4-ff96-4e4d-b01e-8e7237ceb17a
+description: |
+  A short article that explains methods of reciting Salat al-Layl (the
+  night prayer). Includes Arabic along with English translations.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/salat-al-layl-allamah-muhammad-baqir-al-majlisi/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 82cda71b-a70d-4f45-b8f4-d8fa755fb102
+- source: :alislam
+  source_url: http://www.al-islam.org/salat-al-layl-allamah-muhammad-baqir-al-majlisi/method-reciting-salat-al-layl
+  title: Method of Reciting Salat al-Layl
+  slug: 2-method-of-reciting-salat-al-layl
+  uuid: 91ae7ef9-d21d-4f82-be10-c0380de26d4b
+- source: :alislam
+  source_url: http://www.al-islam.org/salat-al-layl-allamah-muhammad-baqir-al-majlisi/qunut-salat-al-witr
+  title: Qunut of Salat al-Witr
+  slug: 3-qunut-of-salat-al-witr
+  uuid: c15539ab-2d9b-4ff3-a4ff-92e41eb21f99
+- source: :alislam
+  source_url: http://www.al-islam.org/salat-al-layl-allamah-muhammad-baqir-al-majlisi/concise-method-reciting-salat-al-layl
+  title: The Concise Method of Reciting Salat al-Layl
+  slug: 4-the-concise-method-of-reciting-salat-al-layl
+  uuid: 5f66f4bc-4cbe-4622-80ea-dfda8486e70e
+- source: :alislam
+  source_url: http://www.al-islam.org/salat-al-layl-allamah-muhammad-baqir-al-majlisi/qunut-salat-al-witr-concise-method
+  title: Qunut of Salat al-Witr (in Concise Method)
+  slug: 5-qunut-of-salat-al-witr-in-concise-method
+  uuid: a9a5f70a-925b-454e-bfa1-b30ecd05b3ee
+---

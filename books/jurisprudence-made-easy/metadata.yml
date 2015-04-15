@@ -1,0 +1,190 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani
+author: Ayatullah Ali Al-Husayni Al-Sistani
+publisher: Imam Ali Foundation
+translator: Najim al-Khafaji
+title: Jurisprudence Made Easy
+slug: jurisprudence-made-easy
+uuid: 9005f378-4012-4f22-82a4-1ca9f0ae4c6f
+description: |
+  Islamic Jurisprudence in the form of a dialogue with them aim to
+  disentangle the complexity of the jurisdical text, making it readily
+  accessible to those who need to be acquainted with and act upon it.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/license
+  title: License
+  slug: 1-license
+  uuid: 25041022-3c15-4de3-9283-1975599afff3
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/translator%E2%80%99s-foreword
+  title: Translator’s Foreword
+  slug: 2-translator-s-foreword
+  uuid: d08e8004-26ee-4554-89f0-bef4d8c27253
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/preface-english-edition
+  title: Preface to the English edition
+  slug: 3-preface-to-the-english-edition
+  uuid: 5604c005-7749-49f5-b6e0-9d4d4598dfa9
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/introduction-arabic-edition
+  title: Introduction to the Arabic edition
+  slug: 4-introduction-to-the-arabic-edition
+  uuid: e2ed5f67-1e3e-4db7-9e34-9e111dfc28c0
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/glossary
+  title: Glossary
+  slug: 5-glossary
+  uuid: b2e1b5dc-9e5e-4073-88ce-034936726e3d
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/preamble
+  title: Preamble
+  slug: 6-preamble
+  uuid: 6a9dbfed-aabe-474f-bce3-07be88562960
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-taqleed
+  title: Dialogue on Taqleed
+  slug: 7-dialogue-on-taqleed
+  uuid: 9146e002-1e38-43e2-a687-a0fa800a5542
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-najis-things
+  title: Dialogue on Najis things
+  slug: 8-dialogue-on-najis-things
+  uuid: 13b56481-d3a3-4325-a1af-a5ee0e124199
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-ritual-purity-taharah
+  title: Dialogue on ritual purity (Taharah)
+  slug: 9-dialogue-on-ritual-purity-taharah
+  uuid: e4c58808-fd22-4f3c-b2c9-97ebace60d5c
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-janabah
+  title: Dialogue on Janabah
+  slug: 10-dialogue-on-janabah
+  uuid: 2b56edeb-1b79-4e51-8f37-ff68d6e3bca3
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-haydh
+  title: Dialogue on Haydh
+  slug: 11-dialogue-on-haydh
+  uuid: aad6852b-4b6c-4893-88b5-a5e9cc88b395
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-nifas
+  title: Dialogue on Nifas
+  slug: 12-dialogue-on-nifas
+  uuid: b29a177f-cb21-4d8e-9ead-e6060bfb0454
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-istihadha
+  title: Dialogue on Istihadha
+  slug: 13-dialogue-on-istihadha
+  uuid: c4ad2fe6-5ae0-4667-88c6-6f76e0f885a4
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-death-related-matters
+  title: Dialogue on death related matters
+  slug: 14-dialogue-on-death-related-matters
+  uuid: 8d82b60c-1e1f-4b4e-88e2-48a74cf7e344
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-wudhu
+  title: Dialogue on Wudhu
+  slug: 15-dialogue-on-wudhu
+  uuid: 20e0d313-907e-49b3-8220-ffd1b41c800d
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-ghusl
+  title: Dialogue on Ghusl
+  slug: 16-dialogue-on-ghusl
+  uuid: e8676bc4-acfe-4803-87e7-f2f0b2d8114c
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-tayamum
+  title: Dialogue on Tayamum
+  slug: 17-dialogue-on-tayamum
+  uuid: 25f5a98f-fe69-4856-b2e2-1b0d5ff87d2c
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-jabirah
+  title: Dialogue on Jabirah
+  slug: 18-dialogue-on-jabirah
+  uuid: f5e19782-935e-4cdc-bd13-d6154154715d
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-prayer-1
+  title: Dialogue on prayer (1)
+  slug: 19-dialogue-on-prayer-1
+  uuid: e196b6db-e108-4e3d-8b08-36e5194ddb64
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-prayer-2
+  title: Dialogue on prayer (2)
+  slug: 20-dialogue-on-prayer-2
+  uuid: b36af063-0ec3-4029-8ae2-3828cb303887
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-sawm-fasting
+  title: Dialogue on Sawm (fasting)
+  slug: 21-dialogue-on-sawm-fasting
+  uuid: 5ce33627-57af-4da7-9796-e3b93d0ef3d6
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-hajj
+  title: Dialogue on Hajj
+  slug: 22-dialogue-on-hajj
+  uuid: eb0a7155-84f9-40a2-b66b-9f9b48d5e25c
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-zakat
+  title: Dialogue on Zakat
+  slug: 23-dialogue-on-zakat
+  uuid: c69d4b9c-d324-4fa6-9b93-099018b5c8fe
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-khums
+  title: Dialogue on Khums
+  slug: 24-dialogue-on-khums
+  uuid: dfd9e91d-a20e-4d5b-bc81-d06b7ddda511
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-economic-activity
+  title: Dialogue on economic activity
+  slug: 25-dialogue-on-economic-activity
+  uuid: 98bf6f65-b3dc-4277-899a-323023549c13
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-slaughtering-and-hunting
+  title: Dialogue on slaughtering and hunting
+  slug: 26-dialogue-on-slaughtering-and-hunting
+  uuid: 6cbb388c-073f-4fbc-a911-8eb4752d43a8
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-marriage
+  title: Dialogue on Marriage
+  slug: 27-dialogue-on-marriage
+  uuid: 7f33da22-07e8-4ab5-9ee8-aa4c23640814
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-divorce
+  title: Dialogue on divorce
+  slug: 28-dialogue-on-divorce
+  uuid: 4ac4b96e-fa63-4467-a44a-d61d4b691c60
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-votive-offering-pledge-and-oath
+  title: Dialogue on votive offering, pledge, and oath
+  slug: 29-dialogue-on-votive-offering-pledge-and-oath
+  uuid: e9a06094-3a0f-407f-b5e9-19ea309848f3
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-writing-will
+  title: Dialogue on writing a will
+  slug: 30-dialogue-on-writing-a-will
+  uuid: a5f6fc54-afbb-4e15-ab4b-1f933c19b49c
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-inheritance
+  title: Dialogue on inheritance
+  slug: 31-dialogue-on-inheritance
+  uuid: 4d06eb3e-11ee-4c61-a709-d0c985d8160f
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-religious-endowments
+  title: Dialogue on religious endowments
+  slug: 32-dialogue-on-religious-endowments
+  uuid: 0a2346bc-b02c-4595-8376-a2366e2e1af4
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-enjoining-what-good-and-forbidding-what-evil
+  title: Dialogue on enjoining what is good and forbidding what is evil
+  slug: 33-dialogue-on-enjoining-what-is-good-and-forbidding-what-is-evil
+  uuid: 55c02db9-2a74-4a31-97b5-91723c4a99cd
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-miscellaneous-issues-1
+  title: Dialogue on miscellaneous issues-1
+  slug: 34-dialogue-on-miscellaneous-issues-1
+  uuid: 8988f1d2-d2fd-4db6-9014-df68a39fad0c
+- source: :alislam
+  source_url: http://www.al-islam.org/jurisprudence-made-easy-ayatullah-ali-sistani/dialogue-miscellaneous-issues-2
+  title: Dialogue on miscellaneous issues-2
+  slug: 35-dialogue-on-miscellaneous-issues-2
+  uuid: cf7cf743-6a82-4896-936c-5f34456f9232
+---

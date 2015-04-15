@@ -1,0 +1,105 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/four-californian-lectures-sayyid-akhtar-rizvi
+author: Allamah Sayyid Sa'eed Akhtar Rizvi
+publisher: Bilal Muslim Mission of Tanzania
+title: Four Californian Lectures
+slug: four-californian-lectures
+uuid: 58424b30-5a66-4f3f-b8ee-08a88c94047e
+description: |
+  The transcript of four lectures delivered by Allamah Sayyid Saeed Akhtar
+  Rizvi in California regarding Islam's true nature and it's perception in
+  the West. It also includes a lecture about the culture of Muslims in
+  India.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/four-californian-lectures-sayyid-akhtar-rizvi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 811ee95c-ca22-4978-b025-31a744b9a6b7
+- source: :alislam
+  source_url: http://www.al-islam.org/four-californian-lectures-sayyid-akhtar-rizvi/lecture-1-islam-religion-peace
+  title: 'Lecture 1: Islam, Religion of Peace'
+  slug: 2-lecture-1-islam-religion-of-peace
+  uuid: 7ee13490-ef03-4c18-ae34-82887063d722
+- source: :alislam
+  source_url: http://www.al-islam.org/four-californian-lectures-sayyid-akhtar-rizvi/peace-based-justice
+  title: Peace Based on Justice
+  slug: 3-peace-based-on-justice
+  uuid: 4f084e13-65cb-4b01-ae61-11d574265a26
+- source: :alislam
+  source_url: http://www.al-islam.org/four-californian-lectures-sayyid-akhtar-rizvi/man-member-society
+  title: Man as a Member of Society
+  slug: 4-man-as-a-member-of-society
+  uuid: 76ff2c1a-746b-40fd-bdf9-5fce1db65dda
+- source: :alislam
+  source_url: http://www.al-islam.org/four-californian-lectures-sayyid-akhtar-rizvi/desire-and-anger
+  title: Desire and Anger
+  slug: 5-desire-and-anger
+  uuid: 143a6a07-6dbf-4e4a-8e63-385f5fbd6f9e
+- source: :alislam
+  source_url: http://www.al-islam.org/four-californian-lectures-sayyid-akhtar-rizvi/lecture-2-islam-usa-its-prospects-problems
+  title: 'Lecture 2: Islam in U.S.A., its Prospects & Problems'
+  slug: 6-lecture-2-islam-in-u-s-a-its-prospects-problems
+  uuid: 5e905cbd-a044-4a70-91c7-9f3a1d90841d
+- source: :alislam
+  source_url: http://www.al-islam.org/four-californian-lectures-sayyid-akhtar-rizvi/arrival-muslims
+  title: Arrival of Muslims
+  slug: 7-arrival-of-muslims
+  uuid: 5cb37425-1ca2-4e49-937a-a52a4b31af75
+- source: :alislam
+  source_url: http://www.al-islam.org/four-californian-lectures-sayyid-akhtar-rizvi/problems
+  title: Problems
+  slug: 8-problems
+  uuid: d4ce5576-9f74-4029-91f0-8e82d0968fe2
+- source: :alislam
+  source_url: http://www.al-islam.org/four-californian-lectures-sayyid-akhtar-rizvi/encouraging-factor
+  title: An Encouraging Factor
+  slug: 9-an-encouraging-factor
+  uuid: 26784464-bed9-4202-92f5-de350b03a294
+- source: :alislam
+  source_url: http://www.al-islam.org/four-californian-lectures-sayyid-akhtar-rizvi/prospects
+  title: Prospects
+  slug: 10-prospects
+  uuid: d3e503cf-2438-4f26-bc48-bfc89f2265e6
+- source: :alislam
+  source_url: http://www.al-islam.org/four-californian-lectures-sayyid-akhtar-rizvi/concluding-observations
+  title: Concluding Observations
+  slug: 11-concluding-observations
+  uuid: d497ff91-c3fd-4334-b75d-6d69e13b26d7
+- source: :alislam
+  source_url: http://www.al-islam.org/four-californian-lectures-sayyid-akhtar-rizvi/lecture-3-culture-muslims-india
+  title: 'Lecture 3: The Culture of the Muslims in India'
+  slug: 12-lecture-3-the-culture-of-the-muslims-in-india
+  uuid: c9158346-344d-422b-a8e8-98c1ae04d64e
+- source: :alislam
+  source_url: http://www.al-islam.org/four-californian-lectures-sayyid-akhtar-rizvi/islam-india
+  title: Islam in India
+  slug: 13-islam-in-india
+  uuid: 9d475167-a762-433e-8d74-e62838e352f7
+- source: :alislam
+  source_url: http://www.al-islam.org/four-californian-lectures-sayyid-akhtar-rizvi/architecture
+  title: Architecture
+  slug: 14-architecture
+  uuid: 9c2e02e1-544c-4dbf-bf6c-6f21a17547a5
+- source: :alislam
+  source_url: http://www.al-islam.org/four-californian-lectures-sayyid-akhtar-rizvi/languages
+  title: Languages
+  slug: 15-languages
+  uuid: 21b0eb06-6425-4fed-815c-50e56d3ded9e
+- source: :alislam
+  source_url: http://www.al-islam.org/four-californian-lectures-sayyid-akhtar-rizvi/azadari
+  title: Azadari
+  slug: 16-azadari
+  uuid: c7a32135-be00-4167-b666-8ce79164535f
+- source: :alislam
+  source_url: http://www.al-islam.org/four-californian-lectures-sayyid-akhtar-rizvi/lucknow-culture
+  title: Lucknow Culture
+  slug: 17-lucknow-culture
+  uuid: 4d7073df-d2b4-4428-b275-e02c8e68972d
+- source: :alislam
+  source_url: http://www.al-islam.org/four-californian-lectures-sayyid-akhtar-rizvi/lecture-4-concept-martyrdom-islam
+  title: 'Lecture 4: Concept of Martyrdom in Islam'
+  slug: 18-lecture-4-concept-of-martyrdom-in-islam
+  uuid: 5d3b4532-32bc-4893-9d12-8b95a49a7186
+---

@@ -1,0 +1,56 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/heart-comforter-time-loss-children-and-loved-ones-sheikh-zayn-ad-din-al-amili
+author: Sheikh Zayn ad-Din Ali ibn Muhammad al-Jab'i al-Amili
+publisher: Ansariyan Publications - Qum
+translator: Yasin T. Al-Jibouri
+title: Heart Comforter
+slug: heart-comforter
+uuid: 7ce25014-07b3-4ee9-a7c7-a6d04f6ed193
+description: |
+  This text deals with how a believer can console his or her heart after
+  suffering calamities and adversities. It contains narrations from the
+  Ahlulbayt on various topics dealing with the rewards of suffering in the
+  hereafter and the importance of accepting and submitting to Divine Will.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/heart-comforter-time-loss-children-and-loved-ones-sheikh-zayn-ad-din-al-amili/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: d75e7f93-234b-4413-b6d4-8ea8302eb9fb
+- source: :alislam
+  source_url: http://www.al-islam.org/heart-comforter-time-loss-children-and-loved-ones-sheikh-zayn-ad-din-al-amili/preface
+  title: Preface
+  slug: 2-preface
+  uuid: 801062c4-08fd-48d5-9bdd-2c4332c8bc7b
+- source: :alislam
+  source_url: http://www.al-islam.org/heart-comforter-time-loss-children-and-loved-ones-sheikh-zayn-ad-din-al-amili/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: 9c763bf0-acc3-4dd1-b19b-027181bce019
+- source: :alislam
+  source_url: http://www.al-islam.org/heart-comforter-time-loss-children-and-loved-ones-sheikh-zayn-ad-din-al-amili/rewards-loss-children
+  title: Rewards for the Loss of Children
+  slug: 4-rewards-for-the-loss-of-children
+  uuid: 62be82f6-5787-45d4-a9e3-11faea639e1e
+- source: :alislam
+  source_url: http://www.al-islam.org/heart-comforter-time-loss-children-and-loved-ones-sheikh-zayn-ad-din-al-amili/patience-and-aftermath
+  title: Patience and Aftermath
+  slug: 5-patience-and-aftermath
+  uuid: 6cf4146b-bb8a-42c3-b0df-abc71b7086dc
+- source: :alislam
+  source_url: http://www.al-islam.org/heart-comforter-time-loss-children-and-loved-ones-sheikh-zayn-ad-din-al-amili/acceptance
+  title: Acceptance
+  slug: 6-acceptance
+  uuid: e82a531a-85e2-43fe-b120-e12d4899af98
+- source: :alislam
+  source_url: http://www.al-islam.org/heart-comforter-time-loss-children-and-loved-ones-sheikh-zayn-ad-din-al-amili/weeping
+  title: Weeping
+  slug: 7-weeping
+  uuid: 07b2d1db-cdd5-4f82-a5bb-01d60a3e32ce
+- source: :alislam
+  source_url: http://www.al-islam.org/heart-comforter-time-loss-children-and-loved-ones-sheikh-zayn-ad-din-al-amili/conclusion
+  title: Conclusion
+  slug: 8-conclusion
+  uuid: 0f8a8f19-307d-491b-959c-ec8ea939eaa0
+---

@@ -1,0 +1,55 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/treatise-rights-risalat-al-huquq-imam-zain-ul-abideen
+author: Imam Zain ul Abideen
+title: Treatise On Rights  (Risalat al-Huquq)
+slug: treatise-on-rights-risalat-al-huquq
+uuid: b6241a37-8503-4298-a1c0-285683421e87
+description: |
+  Imam Zayn al-'Abidin's \`Treatise on Rights' is the only work attributed
+  to him other than supplications or relatively short sayings and letters.
+  The \`Treatise on Rights' elaborates on a well-known saying of the
+  Prophet, which has been transmitted in a rather large number of
+  versions, because he repeated it in many different contexts.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/treatise-rights-risalat-al-huquq-imam-zain-ul-abideen/translator%E2%80%99s-introduction
+  title: Translator’s Introduction
+  slug: 1-translator-s-introduction
+  uuid: 76c55402-18e3-4d16-b2c0-77159598e80c
+- source: :alislam
+  source_url: http://www.al-islam.org/treatise-rights-risalat-al-huquq-imam-zain-ul-abideen/treatise-rights
+  title: The Treatise On Rights
+  slug: 2-the-treatise-on-rights
+  uuid: 2520f7ff-fb3a-4e26-8d4f-f45f36742ff4
+- source: :alislam
+  source_url: http://www.al-islam.org/treatise-rights-risalat-al-huquq-imam-zain-ul-abideen/rights-allah-against-oneself
+  title: The Rights of Allah against oneself
+  slug: 3-the-rights-of-allah-against-oneself
+  uuid: 7804e503-7c6e-48a6-add0-d915a51baca9
+- source: :alislam
+  source_url: http://www.al-islam.org/treatise-rights-risalat-al-huquq-imam-zain-ul-abideen/rights-acts
+  title: The Rights of Acts
+  slug: 4-the-rights-of-acts
+  uuid: c9603796-8f90-40fd-a91f-f5c40f573f2a
+- source: :alislam
+  source_url: http://www.al-islam.org/treatise-rights-risalat-al-huquq-imam-zain-ul-abideen/rights-leaders
+  title: Rights of Leaders
+  slug: 5-rights-of-leaders
+  uuid: dcdbb646-27c9-4631-8498-534938415fac
+- source: :alislam
+  source_url: http://www.al-islam.org/treatise-rights-risalat-al-huquq-imam-zain-ul-abideen/rights-subjects
+  title: Rights of Subjects
+  slug: 6-rights-of-subjects
+  uuid: fcdb1e89-3d96-4aba-9b62-45e0ade27ca4
+- source: :alislam
+  source_url: http://www.al-islam.org/treatise-rights-risalat-al-huquq-imam-zain-ul-abideen/rights-womb-relatives
+  title: Rights of Womb Relatives
+  slug: 7-rights-of-womb-relatives
+  uuid: 3ad50844-9e6c-4624-b203-fac0bb53b711
+- source: :alislam
+  source_url: http://www.al-islam.org/treatise-rights-risalat-al-huquq-imam-zain-ul-abideen/rights-others
+  title: Rights of Others
+  slug: 8-rights-of-others
+  uuid: 68ee7067-9df0-4c90-b160-a63289e451fa
+---

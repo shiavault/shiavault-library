@@ -1,0 +1,138 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid
+author: Kamal al-Syyed
+publisher: Ansariyan Publications - Qum
+title: Mukhtar al-Thaqafi
+slug: mukhtar-al-thaqafi
+uuid: 49096245-7133-4a71-b43d-0662e826fa62
+description: |
+  Biography of the companion who took revenge on the killers of Imam
+  Husayn (a).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/mukhtar-al-thaqafy
+  title: Mukhtar al-Thaqafy
+  slug: 1-mukhtar-al-thaqafy
+  uuid: f2720ec6-8b17-451c-80d2-d85c783e07eb
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/kufa
+  title: Kufa
+  slug: 2-kufa
+  uuid: 9e4f6739-4545-4df9-8f0c-747f98a1b018
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/mukhtar-al-thaqafy-0
+  title: Mukhtar al-Thaqafy
+  slug: 3-mukhtar-al-thaqafy
+  uuid: 4bc82a31-da6d-484e-8d16-1941070b1074
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/tauas-house
+  title: Taua's House
+  slug: 4-taua-s-house
+  uuid: fad3ae87-4c9c-4530-9a16-b862dc6f8709
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/battle-karbala
+  title: The Battle of Karbala
+  slug: 5-the-battle-of-karbala
+  uuid: 656c902f-8f44-406e-bb4c-b1e55bcb8f0c
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/al-husayns-head
+  title: Al-Husayn's Head
+  slug: 6-al-husayn-s-head
+  uuid: cd93708d-0d1e-482a-8c30-66130542ed95
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/maytham-al-tammar
+  title: Maytham al-Tammar
+  slug: 7-maytham-al-tammar
+  uuid: 5d1eeefc-9af6-486f-8120-9eff6a4cd7e6
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/safyyah
+  title: Safyyah
+  slug: 8-safyyah
+  uuid: d1281fa1-ff82-4bcb-ab8d-94be85a2c20d
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/abdullah-bin-al-zubair
+  title: Abdullah bin al-Zubair
+  slug: 9-abdullah-bin-al-zubair
+  uuid: 8b9b317d-465a-4483-ab47-af28ed41c18d
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/mukhtar-defends-allahs-house
+  title: Mukhtar defends Allah's House
+  slug: 10-mukhtar-defends-allah-s-house
+  uuid: c2b6f3de-b016-4f5d-99d9-acb14ba5287e
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/mukhtar-comes-back-kufa
+  title: Mukhtar comes back to Kufa
+  slug: 11-mukhtar-comes-back-to-kufa
+  uuid: a1a79665-5bbd-4cc6-9537-fb6938cd8d00
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/sulaiman-bin-sird
+  title: Sulaiman bin Sird
+  slug: 12-sulaiman-bin-sird
+  uuid: 1da6f33c-7fa3-4e92-a77e-23e5ed3f5060
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/mukhtar-sends-message
+  title: Mukhtar sends a Message
+  slug: 13-mukhtar-sends-a-message
+  uuid: 8a4b4539-4ac4-4ed2-8725-977a8a0b7286
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/mukhtar-announces-revolution
+  title: Mukhtar announces the Revolution
+  slug: 14-mukhtar-announces-the-revolution
+  uuid: 0aa815f6-d23a-4e8b-9aa9-9ca24918dbb1
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/revolution-breaks-out
+  title: The Revolution breaks out
+  slug: 15-the-revolution-breaks-out
+  uuid: 3aa10e59-adab-40e2-bc7d-3e147ce75d70
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/revenge
+  title: The Revenge
+  slug: 16-the-revenge
+  uuid: e50af51d-a1e4-4ca5-92b4-b3b29e45ba0b
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/kufa-mosque
+  title: In Kufa Mosque
+  slug: 17-in-kufa-mosque
+  uuid: 21e3b4b2-69a1-4819-b049-8a4203dbb4e9
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/victory
+  title: The Victory
+  slug: 18-the-victory
+  uuid: 66128d50-c8a4-4d90-b210-9429a668df49
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/rumours
+  title: The Rumours
+  slug: 19-the-rumours
+  uuid: c1fd6ece-bffc-4dec-8430-775005d6ca31
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/mukhtar-thanks-allah
+  title: Mukhtar thanks Allah
+  slug: 20-mukhtar-thanks-allah
+  uuid: 377ba539-b165-4cac-9a93-7472a74623df
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/battle-al-khazir
+  title: The Battle of al-Khazir
+  slug: 21-the-battle-of-al-khazir
+  uuid: 87a45703-6ea4-43a9-a15b-e698b81aec64
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/abid-al-malik-bin-marwan
+  title: Abid al-Malik bin Marwan
+  slug: 22-abid-al-malik-bin-marwan
+  uuid: def3815c-b964-4f83-b410-6681496b16c2
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/musab-bin-al-zubair
+  title: Mus'ab bin al-Zubair
+  slug: 23-mus-ab-bin-al-zubair
+  uuid: f40c2d6d-b21a-447b-b7e5-1a1c435121dd
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/end
+  title: The End
+  slug: 24-the-end
+  uuid: 8ece716e-c675-4240-ae4a-ca61e59813d3
+- source: :alislam
+  source_url: http://www.al-islam.org/mukhtar-al-thaqafy-kamal-al-sayyid/believing-woman
+  title: The Believing Woman
+  slug: 25-the-believing-woman
+  uuid: 64e34fab-e10f-453e-980d-9d6bae7166f5
+---

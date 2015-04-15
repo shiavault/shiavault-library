@@ -1,0 +1,74 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/eternity-of-man
+author: A Group of Researchers
+publisher: The Islamic Studies Press
+compiler: A Group of Researchers - Institute of Islamic Studies (London)
+title: Eternity of Man
+slug: eternity-of-man
+uuid: d03c4453-8818-4fda-90da-c743a69577b1
+description: |
+  A philosophical discourse about the nature of eternity, and regarding
+  man's true self (the soul) necessarily subsisting eternally.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/eternity-of-man/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 69393733-f836-4c93-b35d-27af16cd4337
+- source: :alislam
+  source_url: http://www.al-islam.org/eternity-of-man/part-1-eternity-man
+  title: 'Part 1: Eternity of Man'
+  slug: 2-part-1-eternity-of-man
+  uuid: 40791804-b562-462f-bc67-b66c53cd1155
+- source: :alislam
+  source_url: http://www.al-islam.org/eternity-of-man/different-views-regarding-meaning-resurrection
+  title: Different views regarding the meaning of Resurrection
+  slug: 3-different-views-regarding-the-meaning-of-resurrection
+  uuid: de02b524-b8e5-47aa-a564-95934f363dcd
+- source: :alislam
+  source_url: http://www.al-islam.org/eternity-of-man/eternity-man-possible
+  title: Is Eternity of Man Possible?
+  slug: 4-is-eternity-of-man-possible
+  uuid: d45acfc0-358b-4fad-bc28-0d54aa2a0582
+- source: :alislam
+  source_url: http://www.al-islam.org/eternity-of-man/proofs-necessity-eternity-man
+  title: Proofs for the Necessity of Eternity of Man
+  slug: 5-proofs-for-the-necessity-of-eternity-of-man
+  uuid: 81bfd471-8285-4406-b71f-b8c51257c73a
+- source: :alislam
+  source_url: http://www.al-islam.org/eternity-of-man/resurrection-or-corporeal-return
+  title: Resurrection or a Corporeal Return
+  slug: 6-resurrection-or-a-corporeal-return
+  uuid: 7f07567e-a0f4-4738-ac99-7a12b4d9a45d
+- source: :alislam
+  source_url: http://www.al-islam.org/eternity-of-man/part-2-death-or-another-birth
+  title: 'Part 2: Death or Another Birth'
+  slug: 7-part-2-death-or-another-birth
+  uuid: adb1cbbb-c1d6-4140-a386-40d1477472e1
+- source: :alislam
+  source_url: http://www.al-islam.org/eternity-of-man/reality-and-philosophy-%E2%80%9Cdeparting-world%E2%80%9D
+  title: The Reality and the Philosophy of “Departing from the World”
+  slug: 8-the-reality-and-the-philosophy-of-departing-from-the-world
+  uuid: 99b079f3-45db-4a5a-b186-ab6a9224c5fd
+- source: :alislam
+  source_url: http://www.al-islam.org/eternity-of-man/why-do-we-fear-death
+  title: Why Do We Fear Death?
+  slug: 9-why-do-we-fear-death
+  uuid: d228d176-de3a-48a3-8cf1-3bc864e921c6
+- source: :alislam
+  source_url: http://www.al-islam.org/eternity-of-man/type-connection-between-world-and-hereafter
+  title: The type of connection between the world and the Hereafter
+  slug: 10-the-type-of-connection-between-the-world-and-the-hereafter
+  uuid: 88cd8e74-4233-44a9-ba59-13215f4d6797
+- source: :alislam
+  source_url: http://www.al-islam.org/eternity-of-man/part-3-multilateral-influences-belief-resurrection
+  title: 'Part 3: The Multilateral Influences of the belief in Resurrection'
+  slug: 11-part-3-the-multilateral-influences-of-the-belief-in-resurrection
+  uuid: e585334f-18e9-400e-85ef-730629ac27ef
+- source: :alislam
+  source_url: http://www.al-islam.org/eternity-of-man/bibliography
+  title: Bibliography
+  slug: 12-bibliography
+  uuid: fb4d929e-0e69-4c2c-9b66-07ccb15612e2
+---

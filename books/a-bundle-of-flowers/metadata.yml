@@ -1,0 +1,420 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani
+publisher: Amir al-Mu'mineen Ali (a.s.) Library
+compiler: Ayatollah Sayyid Kamal Faqih Imani
+translator: Sayyid Abbas Sadr-'ameli
+title: A Bundle of Flowers
+slug: a-bundle-of-flowers
+uuid: f9ec9c60-78b4-4541-b902-c47e57c79ae8
+description: |
+  An excellent collection of traditions from the Ahlul Bayt, organized
+  according to topics such as the knowledge of God, Invocation and social
+  issues.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: aa164a6b-87d1-4f14-a54f-da1da1e990ac
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/preface
+  title: Preface
+  slug: 2-preface
+  uuid: 8fabde36-a02b-40a5-b613-488af3b7bbaf
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/opening-tradition
+  title: The Opening Tradition
+  slug: 3-the-opening-tradition
+  uuid: a2ae9c5c-d8a3-4f8f-8d04-b50d6717cb85
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/knowing-allah-his-greatness-and-his-grace
+  title: Knowing Allah, His Greatness and His Grace
+  slug: 4-knowing-allah-his-greatness-and-his-grace
+  uuid: 9dac7676-30dc-4700-8d7f-031c8adae9f0
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/prayer-and-its-effects
+  title: Prayer and Its Effects
+  slug: 5-prayer-and-its-effects
+  uuid: 16b0e774-9cd6-43aa-871e-916abe4debb6
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/midnight-prayers
+  title: Midnight Prayers
+  slug: 6-midnight-prayers
+  uuid: b2baab13-5196-4455-9230-d257f5ecea04
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/faith-allah-and-attaining-his-pleasure
+  title: Faith in Allah and Attaining his Pleasure
+  slug: 7-faith-in-allah-and-attaining-his-pleasure
+  uuid: 49398251-e79d-4a6f-aa50-b73a52b107fc
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/piety-and-its-necessity-muslim
+  title: Piety and Its Necessity in a Muslim
+  slug: 8-piety-and-its-necessity-in-a-muslim
+  uuid: 6d12e70b-ee53-4c80-bdf6-bfae25d61005
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/invocation
+  title: Invocation
+  slug: 9-invocation
+  uuid: 27f0e304-89e9-402c-9520-ef4d024a405e
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/ahlul-bayt
+  title: Ahlul Bayt
+  slug: 10-ahlul-bayt
+  uuid: 68524834-0a81-41dd-a141-88576c033618
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/love-ahlul-bayt
+  title: The Love of Ahlul Bayt
+  slug: 11-the-love-of-ahlul-bayt
+  uuid: c1640529-99eb-49a4-b159-f2e953b36b0f
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/acceptable-characteristics
+  title: The Acceptable Characteristics
+  slug: 12-the-acceptable-characteristics
+  uuid: d9f60482-f4dd-45ad-b1b6-d565531d07f0
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/real-followers-ahlul-bayt-and-their-qualities
+  title: The Real Followers of Ahlul Bayt and Their Qualities
+  slug: 13-the-real-followers-of-ahlul-bayt-and-their-qualities
+  uuid: 45e7b14e-6158-4410-8aa3-74729318d9e9
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/sin-and-its-effects
+  title: Sin and Its Effects
+  slug: 14-sin-and-its-effects
+  uuid: 5608e2c0-28e9-476d-a545-0317e490cc66
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/knowledge-and-its-value
+  title: Knowledge and Its Value
+  slug: 15-knowledge-and-its-value
+  uuid: 115f2c1c-c550-412b-8161-912549b63d2e
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/knowledge-and-virtue-learning-it
+  title: Knowledge and the Virtue of Learning It
+  slug: 16-knowledge-and-the-virtue-of-learning-it
+  uuid: 482e7e08-32c0-4e14-bb3d-870248ebe4c7
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/knowledge-and-virtue-learning-it-0
+  title: Knowledge and the Virtue of Learning It
+  slug: 17-knowledge-and-the-virtue-of-learning-it
+  uuid: be0c8619-09c0-419c-bcda-0d5d4bfd0d7a
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/knowledge-and-virtue-teaching-it
+  title: Knowledge and the Virtue of Teaching It
+  slug: 18-knowledge-and-the-virtue-of-teaching-it
+  uuid: 4fa7ac65-2531-440b-8784-786ece63f7e0
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/excellence-and-importance-scholars
+  title: The Excellence and Importance of Scholars
+  slug: 19-the-excellence-and-importance-of-scholars
+  uuid: 80f4701e-8a6e-4de4-aaf3-66addb21afa4
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/being-attentive-hereafter
+  title: Being Attentive to the Hereafter
+  slug: 20-being-attentive-to-the-hereafter
+  uuid: b64769a2-6b28-4864-a035-3396686ae578
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/repentance
+  title: Repentance
+  slug: 21-repentance
+  uuid: 73452d3e-23eb-4a86-b042-528085e9f552
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/protecting-honour-believers
+  title: Protecting the Honour of Believers
+  slug: 22-protecting-the-honour-of-believers
+  uuid: bc636380-ba4e-4b9b-8c01-693adae2cf07
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/righteous-deeds
+  title: Righteous Deeds
+  slug: 23-righteous-deeds
+  uuid: 0dedad44-0703-4315-b93a-1bf56b00c6eb
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/injustice-and-transgression
+  title: Injustice and Transgression
+  slug: 24-injustice-and-transgression
+  uuid: 344962df-b5f5-4d68-9417-070ef37e366a
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/rights-fellow-muslims
+  title: The Rights of Fellow Muslims
+  slug: 25-the-rights-of-fellow-muslims
+  uuid: 67f45eed-1af0-4f0a-ae5c-356474889fe0
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/greetings
+  title: Greetings
+  slug: 26-greetings
+  uuid: ca58fc47-c06c-40ec-8552-03dd493118ab
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/enjoining-right-and-forbidding-wrong
+  title: Enjoining Right and Forbidding Wrong
+  slug: 27-enjoining-right-and-forbidding-wrong
+  uuid: a6269feb-0d87-4418-a5bf-a685542310b6
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/tongue-and-its-evils
+  title: The Tongue and Its Evils
+  slug: 28-the-tongue-and-its-evils
+  uuid: 2f9d42fc-335a-4960-a61b-9ed6ba9ffb8b
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/backbiting-and-faultfinding
+  title: Backbiting and Faultfinding
+  slug: 29-backbiting-and-faultfinding
+  uuid: 04c844f9-af4e-486c-916e-d95f730fd176
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/telling-lies
+  title: Telling Lies
+  slug: 30-telling-lies
+  uuid: f83cb9e2-faf2-4d77-b323-46122be96ae8
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/companions-friendship
+  title: Companions & Friendship
+  slug: 31-companions-friendship
+  uuid: 06313350-0987-44f5-8abd-89f5d709e917
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/immoral-friends
+  title: Immoral Friends
+  slug: 32-immoral-friends
+  uuid: 95bfdfee-70e9-425e-b06d-2271e6d6a7d6
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/serving-people
+  title: Serving People
+  slug: 33-serving-people
+  uuid: a2989a23-4f92-47bf-916e-6a334ba4b57f
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/giving-loan
+  title: Giving Loan
+  slug: 34-giving-loan
+  uuid: 2f0b4902-5153-4e67-a93d-441f440a9a73
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/helping-needy
+  title: Helping the Needy
+  slug: 35-helping-the-needy
+  uuid: 0906ed3d-1ab3-43c5-bd8b-3996641fd518
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/donation-pleasing-believers
+  title: Donation & Pleasing The Believers
+  slug: 36-donation-pleasing-the-believers
+  uuid: 890292b1-b782-4452-8802-3e3c56c29d5a
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/charity-and-alms
+  title: Charity and Alms
+  slug: 37-charity-and-alms
+  uuid: b3a24c5d-4b94-4e2a-a1d4-80b32c5bebde
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/regard-kinship
+  title: Regard for Kinship
+  slug: 38-regard-for-kinship
+  uuid: d073fd29-d436-4a43-b509-5451ce9efac8
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/kindness-parents
+  title: Kindness to Parents
+  slug: 39-kindness-to-parents
+  uuid: 669be799-8e5a-4130-9f31-fd9c6fdae2f5
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/rights-children
+  title: The Rights of Children
+  slug: 40-the-rights-of-children
+  uuid: acfded80-8115-4a12-89a8-c26a750b9677
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/suckling
+  title: Suckling
+  slug: 41-suckling
+  uuid: 761223ef-dd55-4c36-9a87-6f108fa02aa2
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/marriage-great-worship
+  title: Marriage, a Great Worship
+  slug: 42-marriage-a-great-worship
+  uuid: 62172621-d6c5-45cd-be7f-49e83d7cf28b
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/encouragement-marriage
+  title: Encouragement for Marriage
+  slug: 43-encouragement-for-marriage
+  uuid: d1965247-7946-4b49-b8a1-771e5315b084
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/marriage-key-divine-mercy-and-good-temper
+  title: Marriage Is the Key to Divine Mercy and a Good Temper
+  slug: 44-marriage-is-the-key-to-divine-mercy-and-a-good-temper
+  uuid: 86e2507c-6793-4e6b-a961-a9c149ea8a43
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/marriage-key-divine-mercy-and-good-temper-0
+  title: Marriage Is the Key to Divine Mercy and a Good Temper
+  slug: 45-marriage-is-the-key-to-divine-mercy-and-a-good-temper
+  uuid: dab79339-96b2-454f-9cc4-6486e12eb756
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/hasten-marry
+  title: Hasten to Marry
+  slug: 46-hasten-to-marry
+  uuid: 57d27723-3601-4c62-8a51-73ca5b4ad39f
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/intercession-and-help-lawful-marriage
+  title: Intercession and Help in Lawful Marriage
+  slug: 47-intercession-and-help-in-lawful-marriage
+  uuid: 595c80e6-ccef-41a9-ab4f-45c3c5ec57d8
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/wife-and-her-dower
+  title: Wife and Her Dower
+  slug: 48-wife-and-her-dower
+  uuid: 77f62729-ea1d-44f2-af7c-779b893a6cde
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/dower-less-better
+  title: 'Dower: The Less the Better'
+  slug: 49-dower-the-less-the-better
+  uuid: 159dc0a2-b12d-45fd-b76e-afef45de65c9
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/marriage-regard-faith-and-honesty
+  title: Marriage with Regard to Faith and Honesty
+  slug: 50-marriage-with-regard-to-faith-and-honesty
+  uuid: 55ef8d9e-b2e3-4670-9209-d5f9991d51ac
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/mans-intention-marriage
+  title: Man's Intention in Marriage
+  slug: 51-man-s-intention-in-marriage
+  uuid: b61f31c1-4a28-47bb-9b20-ac4413f645b9
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/earning-livelihood
+  title: Earning a Livelihood
+  slug: 52-earning-a-livelihood
+  uuid: 2fb8b186-69a4-49d5-94b8-df88d4395571
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/wives-and-good-treatment-their-husbands
+  title: Wives and Good Treatment to Their Husbands
+  slug: 53-wives-and-good-treatment-to-their-husbands
+  uuid: bcd2da37-7822-4150-a562-716184cd061d
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/honour-your-wives
+  title: Honour Your Wives
+  slug: 54-honour-your-wives
+  uuid: a68d3016-7afb-4f83-9ed7-9a683d0f2876
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/wife-and-pleasing-her-husband
+  title: Wife And Pleasing Her Husband
+  slug: 55-wife-and-pleasing-her-husband
+  uuid: 7c098040-45f0-4576-b80e-e37fa21f84a9
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/admirable-qualities-wives
+  title: Admirable Qualities of Wives
+  slug: 56-admirable-qualities-of-wives
+  uuid: ba61c197-7c14-4750-826a-be90dc3d0e7d
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/divorce-and-its-effects
+  title: Divorce and Its Effects
+  slug: 57-divorce-and-its-effects
+  uuid: 9f2c6f55-8ce3-4fe0-94b6-d2202555967d
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/lowering-gaze-and-guarding-modesty
+  title: Lowering the Gaze and Guarding the Modesty
+  slug: 58-lowering-the-gaze-and-guarding-the-modesty
+  uuid: c73b7f55-b479-4560-8ce3-ecb720121c12
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/women-and-ornamentation
+  title: Women and Ornamentation
+  slug: 59-women-and-ornamentation
+  uuid: 4c71df79-fa14-48a8-a396-be228c96c3dd
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/fornication-and-its-harmful-effects
+  title: Fornication and Its Harmful Effects
+  slug: 60-fornication-and-its-harmful-effects
+  uuid: 2e1855a1-af0d-4669-8b42-1c13b4fef216
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/hygiene-islam
+  title: Hygiene in Islam
+  slug: 61-hygiene-in-islam
+  uuid: 645bd6d4-26cb-4a90-bf9e-ad757d6dea45
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/business-and-social-relationships
+  title: Business and Social Relationships
+  slug: 62-business-and-social-relationships
+  uuid: ad512a55-9350-4d70-8131-c902de8e4b53
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/fraud-bargain
+  title: Fraud in Bargain
+  slug: 63-fraud-in-bargain
+  uuid: 93a94a8e-f8f8-46f2-a69f-28c5a7993f57
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/lusts
+  title: Lusts
+  slug: 64-lusts
+  uuid: 0fcb2f88-eb96-43b6-87e3-6bd1a3f838d6
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/worldly-possessions-and-greedily-compiling-wealth
+  title: Worldly Possessions and Greedily Compiling Wealth
+  slug: 65-worldly-possessions-and-greedily-compiling-wealth
+  uuid: f09d2f1c-aa2f-4ad7-a472-53eafa3e0356
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/fleeting-world-its-attractiveness-and-poison
+  title: This Fleeting World, Its Attractiveness and Poison
+  slug: 66-this-fleeting-world-its-attractiveness-and-poison
+  uuid: be7b91e8-5a74-4829-aa52-9e14bc635927
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/neglectful-slaves-deceitful-world
+  title: The Neglectful Slaves of this Deceitful World
+  slug: 67-the-neglectful-slaves-of-this-deceitful-world
+  uuid: c3c00ff2-be09-4625-9b5b-549ed2ddf47c
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/arrogance-and-pride
+  title: Arrogance and Pride
+  slug: 68-arrogance-and-pride
+  uuid: 611305cb-cd06-41f0-8f75-c1d140e5c938
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/moderation-economic-affairs
+  title: Moderation in Economic Affairs
+  slug: 69-moderation-in-economic-affairs
+  uuid: 75b123e1-b343-450f-afa7-d027b15c9a26
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/consultation
+  title: Consultation
+  slug: 70-consultation
+  uuid: 52ee01a7-d073-43d5-821e-d10359bfaca2
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/activity-and-idleness
+  title: Activity and Idleness
+  slug: 71-activity-and-idleness
+  uuid: aedef088-843a-49a3-89ba-c9bdcd04d03c
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/martyrs-and-martyrdom
+  title: Martyrs and Martyrdom
+  slug: 72-martyrs-and-martyrdom
+  uuid: 437d9cea-49e3-4056-860d-1426588afb4d
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/expected-mahdi-%E2%80%98-and-his-government-justice
+  title: The Expected Mahdi (‘a) and His Government of Justice
+  slug: 73-the-expected-mahdi-a-and-his-government-of-justice
+  uuid: 763062fb-edc8-4be7-9522-88900e1ca087
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/muslim-ummah-end-time
+  title: The Muslim Ummah at the End of the Time
+  slug: 74-the-muslim-ummah-at-the-end-of-the-time
+  uuid: df29e36c-99b8-4e8a-963f-3903b8aa9f03
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/lifetime-should-be-well-spent
+  title: Lifetime Should Be Well Spent
+  slug: 75-lifetime-should-be-well-spent
+  uuid: 116cf127-4d9a-475a-80f7-6d77b087dff3
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/religion-and-studying-its-affairs
+  title: Religion and Studying Its Affairs
+  slug: 76-religion-and-studying-its-affairs
+  uuid: e3c3d405-7b82-4620-a79b-cd61d049e134
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/good-temper-and-its-good-results
+  title: Good Temper and Its Good Results
+  slug: 77-good-temper-and-its-good-results
+  uuid: a996e7e8-1823-47b3-b474-7bb95a76b6c2
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/disadvantages-anger-and-ill-temper
+  title: The Disadvantages of Anger and an Ill Temper
+  slug: 78-the-disadvantages-of-anger-and-an-ill-temper
+  uuid: 2848bd2b-e4e1-4a27-9469-dc7bcfad879e
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/asking-divine-pardon
+  title: Asking for Divine Pardon
+  slug: 79-asking-for-divine-pardon
+  uuid: d83e382e-e651-4178-9d0a-6db094378f50
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/congregation-prayer
+  title: Congregation Prayer
+  slug: 80-congregation-prayer
+  uuid: 9536207d-8115-4e91-ab56-4830b758de20
+- source: :alislam
+  source_url: http://www.al-islam.org/a-bundle-of-flowers-sayyid-faqih-imani/references-material-and-tradition-sources
+  title: References Material and Tradition Sources
+  slug: 81-references-material-and-tradition-sources
+  uuid: 2ba62321-0221-4e56-a26b-ea0fe65ed032
+---
