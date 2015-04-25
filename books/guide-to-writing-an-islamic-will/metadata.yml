@@ -1,0 +1,40 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=786
+title: Guide To Writing an Islamic Will
+publisher: The Islamic Education Board of the World Federation of Khoja Shia Ithna-Asheri
+  Muslim Communities
+slug: guide-to-writing-an-islamic-will
+uuid: 52f38a18-d276-4c51-b2b8-e3b3b0d06396
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=786
+  title: Introductory note
+  slug: 1-introductory-note
+  uuid: e3737c2f-b78e-4c65-99ab-3a0c543aeb1f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=786
+  title: Making an Islamic Will
+  slug: 2-making-an-islamic-will
+  uuid: f9729d11-8bcb-40e0-981d-3b415d1e4b26
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=786
+  title: Glossary
+  slug: 3-glossary
+  uuid: 43b5f472-3201-4b13-b048-6187a9b8de40
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=786
+  title: Sample of an Islamic Will
+  slug: 4-sample-of-an-islamic-will
+  uuid: 6d2aafac-3896-4e12-8856-dc7a1f6a1dd7
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=786
+  title: Codicils I, II and III are part of this Will.
+  slug: 5-codicils-i-ii-and-iii-are-part-of-this-will
+  uuid: 6bf5482b-2025-4342-b51b-69284402efa2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=786
+  title: Notes
+  slug: 6-notes
+  uuid: 7ba5c7b1-6128-40c5-b366-8a88e0e6f246
+---

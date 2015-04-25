@@ -1,0 +1,45 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=822
+title: Orientalism
+author: Edward W. Said
+publisher: Routledge
+slug: orientalism
+uuid: 12e75c19-6f7a-4aa3-8ea3-82b7f9d21807
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=822
+  title: Acknowledgements
+  slug: 1-acknowledgements
+  uuid: b982c0d1-194f-4c1b-af90-b60d5e07f2ee
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=822
+  title: Introduction
+  slug: 2-introduction
+  uuid: f5baabd8-6871-4192-9172-ca652edbe2d3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=822
+  title: 'Chapter 1: The Scope of Orientalism'
+  slug: 3-chapter-1-the-scope-of-orientalism
+  uuid: b6c58ebd-b7bd-47bf-91c1-011df1417b8b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=822
+  title: 'Chapter 2: Orientalist Structures and Restructures'
+  slug: 4-chapter-2-orientalist-structures-and-restructures
+  uuid: 204e80d3-4b3b-4578-a6e5-a856505f91c0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=822
+  title: 'Chapter 3: Orientalism Now'
+  slug: 5-chapter-3-orientalism-now
+  uuid: 0339a2f2-ed5d-4cf5-95e0-ed93ce6ae57b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=822
+  title: Notes
+  slug: 6-notes
+  uuid: fc3b9d17-3205-4c23-9ad4-5dfbee96e0a9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=822
+  title: About the Author
+  slug: 7-about-the-author
+  uuid: 888e1264-433a-43d4-af07-0c48ff94f378
+---

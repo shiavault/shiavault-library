@@ -1,0 +1,40 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=780
+title: Religion and the State Today
+author: Andrei Marga
+publisher: www.icr.ro
+slug: religion-and-the-state-today
+uuid: 1b2bc612-0d64-4331-8192-4ee683b69bd7
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=780
+  title: "[Introduction]"
+  slug: 1-introduction
+  uuid: c5c4dc5b-f23a-4a86-b0b7-9e1ab9988660
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=780
+  title: "[The First Section]"
+  slug: 2-the-first-section
+  uuid: 5a528eb1-726b-4823-ad61-987c82cb1719
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=780
+  title: "[The Second Section]"
+  slug: 3-the-second-section
+  uuid: 756eb782-6e2d-4882-a99e-ab6006abf3b0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=780
+  title: "[The Third Section]"
+  slug: 4-the-third-section
+  uuid: d2f246ea-bbd3-4219-b034-a54463860c71
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=780
+  title: "[Conclusion]"
+  slug: 5-conclusion
+  uuid: b8cbfdc6-d20f-4ae4-9e14-5e6fabd40176
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=780
+  title: Notes
+  slug: 6-notes
+  uuid: 943f6772-761e-4120-a8e3-b14d3022b2ef
+---

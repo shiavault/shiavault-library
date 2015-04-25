@@ -1,0 +1,34 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=311
+title: The Art of Social Relations
+author: Al Balagh Foundation
+slug: the-art-of-social-relations
+uuid: a9c41e30-929a-4938-a1ea-30e63a78418b
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=311
+  title: Introduction
+  slug: 1-introduction
+  uuid: 5e02a5ce-66eb-4fb3-ada8-ebc3e9bf162b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=311
+  title: First- How Can One Be Effective Among People?
+  slug: 2-first-how-can-one-be-effective-among-people
+  uuid: dd08d24a-a77b-4744-a744-9fc18501e401
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=311
+  title: 1- the Manners of Greeting
+  slug: 3-1-the-manners-of-greeting
+  uuid: 66e92ad2-adac-458a-a41b-f7c0a4f7cfbc
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=311
+  title: Visiting of the Sick
+  slug: 4-visiting-of-the-sick
+  uuid: 2c44888a-5cb8-4dfe-baa7-e9d02f54f9d2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=311
+  title: Other Manners
+  slug: 5-other-manners
+  uuid: 4fb72ace-95ff-4626-97d6-5e32fb0bf9fb
+---

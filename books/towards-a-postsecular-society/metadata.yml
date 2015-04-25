@@ -1,0 +1,55 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=832
+title: Towards a Postsecular Society
+author: Mike King
+publisher: www.jnani.org
+slug: towards-a-postsecular-society
+uuid: 581fdbd8-666a-4ddb-b5ef-0a387d941c2e
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=832
+  title: "[Introduction]"
+  slug: 1-introduction
+  uuid: 23f740c7-d403-46ef-9519-43b9db8bc5bd
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=832
+  title: Physics
+  slug: 2-physics
+  uuid: c9c10a61-24e7-4144-a707-ae1c2b6e45cf
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=832
+  title: Consciousness Studies
+  slug: 3-consciousness-studies
+  uuid: 120f2446-773a-430d-8ac0-ab4ce6c70a7a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=832
+  title: Transpersonal psychology
+  slug: 4-transpersonal-psychology
+  uuid: 93f7eac2-b998-4bcb-b2a2-65117f7db6e3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=832
+  title: Postmodernism
+  slug: 5-postmodernism
+  uuid: c79db819-3572-4168-abd6-2f5d7e2ceedb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=832
+  title: Radical Orthodoxy
+  slug: 6-radical-orthodoxy
+  uuid: 92c83f70-cc4a-403e-8877-ea67473d8dbf
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=832
+  title: Art
+  slug: 7-art
+  uuid: 75866da7-8cb1-43c3-92bb-28cccca4eebd
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=832
+  title: Deep Ecology
+  slug: 8-deep-ecology
+  uuid: f5d5731d-d1e9-4202-9307-f2669c0a3fbc
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=832
+  title: "[Conclusion]"
+  slug: 9-conclusion
+  uuid: 8af7ceff-a4d0-4501-9095-02800a8f5d02
+---

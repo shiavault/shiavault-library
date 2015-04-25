@@ -1,0 +1,36 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=757
+title: Islamic Gnosis (irfan) and Wisdom (hikmat)
+author: Ayatullah Muhammad Taqi Misbah Yazdi
+translator: Dr Muhammad Legenhausen
+publisher: http://www.al-islam.org
+slug: islamic-gnosis-irfan-and-wisdom-hikmat
+uuid: aedd96d5-7e6a-4356-bbc8-5670e129a880
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=757
+  title: Preface
+  slug: 1-preface
+  uuid: 40beea26-d4f8-4de1-ab17-8f3f74d82849
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=757
+  title: The Concepts of 'Irfan, Sufism, Hikmat and Philosophy
+  slug: 2-the-concepts-of-irfan-sufism-hikmat-and-philosophy
+  uuid: 864b63a1-7fe8-45e8-97e2-051a615fa4dc
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=757
+  title: The Originality of Islamic Gnosis
+  slug: 3-the-originality-of-islamic-gnosis
+  uuid: c8042445-b7ca-42b0-8488-b5b92743f4da
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=757
+  title: Gnosis and Reason
+  slug: 4-gnosis-and-reason
+  uuid: c4a34161-ef9f-44f7-bf60-0112bcdc10a2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=757
+  title: Gnosis and Religious Law
+  slug: 5-gnosis-and-religious-law
+  uuid: 980d245e-8cee-4f91-a07f-2ed20c6ae4dd
+---

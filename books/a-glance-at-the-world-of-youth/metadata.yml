@@ -1,0 +1,39 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=242
+title: A Glance At the World of Youth
+author: Al-Balagh Foundation
+slug: a-glance-at-the-world-of-youth
+uuid: 15945f64-a5a6-4d78-b02e-dfbfcedd33e8
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=242
+  title: Introduction
+  slug: 1-introduction
+  uuid: 7e19bade-a702-4e0a-90f4-3fa1078e1584
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=242
+  title: A. Family and the Circumstances of the First Upbringing
+  slug: 2-a-family-and-the-circumstances-of-the-first-upbringing
+  uuid: 7a1d4e82-1c7b-4c11-bbd1-0b07e97b27b6
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=242
+  title: 'E. Political Power and Authority:'
+  slug: 3-e-political-power-and-authority
+  uuid: 65df11e7-5020-47c0-ac0a-1af95ef03889
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=242
+  title: 3. Supremacy of Imagination and Reverie
+  slug: 4-3-supremacy-of-imagination-and-reverie
+  uuid: 55e0644c-be88-4521-b595-e3f7c263ef03
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=242
+  title: 4. Youths and Wars
+  slug: 5-4-youths-and-wars
+  uuid: db29b8ea-dbed-4a61-8e37-5abb5d9a5562
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=242
+  title: 7. Youths and Politics
+  slug: 6-7-youths-and-politics
+  uuid: 22f50c3f-cea7-470e-bba9-62f6e0443dca
+---

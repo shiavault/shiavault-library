@@ -1,0 +1,24 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=305
+title: Fasting a Divine Banquet
+author: Al Balagh Foundation
+slug: fasting-a-divine-banquet
+uuid: b1dfd49e-a67e-45d6-af35-291c62350d03
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=305
+  title: Introduction
+  slug: 1-introduction
+  uuid: ef85b5db-42c9-4b17-b552-92b5420017bb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=305
+  title: Fasting - Education and Social Reform
+  slug: 2-fasting-education-and-social-reform
+  uuid: abc773dc-49eb-4a8a-8bfc-543bf24bf310
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=305
+  title: Rules of Fasting
+  slug: 3-rules-of-fasting
+  uuid: 46748610-7388-4ca7-837d-4fb903b21fed
+---

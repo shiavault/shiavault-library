@@ -1,0 +1,404 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=691
+title: Philosophical Instructions
+author: Ayatullah Muhammad Taqi Misbah Yazdi
+publisher: www.mesbahyazdi.org/english
+slug: philosophical-instructions
+uuid: b5deecc3-dff2-4535-add5-f517884406e4
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: Translator’s Introduction
+  slug: 1-translator-s-introduction
+  uuid: 0f8e51c1-a109-421f-a3cd-34138857f8ca
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Part I: Introductory Discussions'
+  slug: 2-part-i-introductory-discussions
+  uuid: 936560e9-a7cd-4e21-86f6-9ee8531a0f8c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson One: A Glance at the Course of Philosophical Thought: (From Its Origins
+    to the Islamic Epoch)'
+  slug: 3-lesson-one-a-glance-at-the-course-of-philosophical-thought-from-its-origins-to-the-islamic-epoch
+  uuid: 505324a4-33cd-4fe0-9918-c02ae532994f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Two: A Glance at the Course of Philosophical Thought (from the Middle
+    Ages to the Eighteenth Century)'
+  slug: 4-lesson-two-a-glance-at-the-course-of-philosophical-thought-from-the-middle-ages-to-the-eighteenth-century
+  uuid: a87f3bb8-584b-4cb4-98b0-68aa85e53162
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Three: A Glance at the Course of Philosophical Thought (in the last
+    two centuries)'
+  slug: 5-lesson-three-a-glance-at-the-course-of-philosophical-thought-in-the-last-two-centuries
+  uuid: 0fbccc90-9d76-4892-b980-0f2081936db4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Four: The Technical Meanings of “Science” and “Philosophy”'
+  slug: 6-lesson-four-the-technical-meanings-of-science-and-philosophy
+  uuid: e62ccc96-2788-4fd8-a1f3-c586f3b73502
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Five: Philosophy and The Sciences'
+  slug: 7-lesson-five-philosophy-and-the-sciences
+  uuid: 8494f207-1fd5-4b91-bc49-39eea08345e0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Six: What is Philosophy?'
+  slug: 8-lesson-six-what-is-philosophy
+  uuid: cb75d411-2380-41d2-83f2-d434f8d3206d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Seven: The Position of Philosophy'
+  slug: 9-lesson-seven-the-position-of-philosophy
+  uuid: 07da633d-9045-45f7-a298-ba256ec21072
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Eight: The Method of Philosophical Inquiry'
+  slug: 10-lesson-eight-the-method-of-philosophical-inquiry
+  uuid: e5958d5f-2674-49e3-a683-339a4d32dd55
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Nine: The Relation between Philosophy and the Sciences'
+  slug: 11-lesson-nine-the-relation-between-philosophy-and-the-sciences
+  uuid: b64ca71a-e184-4f7f-883f-0534773b684d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Ten: The Necessity of Philosophy'
+  slug: 12-lesson-ten-the-necessity-of-philosophy
+  uuid: f3f6b6bf-5327-4deb-bb66-d62c5264db35
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Part II: Epistemology'
+  slug: 13-part-ii-epistemology
+  uuid: 263c576b-bbb6-4ea6-b7cd-7b23c4a8666e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Eleven: Introduction to Epistemology'
+  slug: 14-lesson-eleven-introduction-to-epistemology
+  uuid: a88de7e1-027a-4697-98fe-c307cb12d290
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Twelve: The Self-Evidence of the Principles of Epistemology'
+  slug: 15-lesson-twelve-the-self-evidence-of-the-principles-of-epistemology
+  uuid: 1d3ea7f4-aa16-4d20-b9f7-f70cba35bd27
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Thirteen: The Divisions of Knowledge'
+  slug: 16-lesson-thirteen-the-divisions-of-knowledge
+  uuid: bd79a7ba-8124-486a-aa6f-d215d32c9a0f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Fourteen: Acquired Knowledge'
+  slug: 17-lesson-fourteen-acquired-knowledge
+  uuid: 50b09cee-dc88-4c10-9b96-8392c77c3dd8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Fifteen: Types of Universal Concepts'
+  slug: 18-lesson-fifteen-types-of-universal-concepts
+  uuid: 47b3634a-8d63-4ecb-a611-e8e9e0e95589
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Sixteen: Empiricism'
+  slug: 19-lesson-sixteen-empiricism
+  uuid: 4fd70673-7802-4826-8868-30e1f03a750b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Seventeen: The Role of the Intellect and Sensation in Ideas'
+  slug: 20-lesson-seventeen-the-role-of-the-intellect-and-sensation-in-ideas
+  uuid: 9747b57c-6e49-4cc2-b62b-d72ff52a97b1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Eighteen: The Role of the Intellect and Sensation in Affirmations'
+  slug: 21-lesson-eighteen-the-role-of-the-intellect-and-sensation-in-affirmations
+  uuid: 17550d7b-34bb-411a-93bf-0f9d024225a8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Nineteen: The Value of Knowledge'
+  slug: 22-lesson-nineteen-the-value-of-knowledge
+  uuid: 0bf59b3a-3feb-4c1a-a27a-f9981ba3c2a9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Twenty: The Evaluation of Ethical and Legal Propositions'
+  slug: 23-lesson-twenty-the-evaluation-of-ethical-and-legal-propositions
+  uuid: e1ddf850-f0e8-4784-9685-493df88cf616
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Part III: Ontology'
+  slug: 24-part-iii-ontology
+  uuid: 0825f777-8ed6-47cc-ac0e-4f168b792b87
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Twenty-One: Introduction to Ontology'
+  slug: 25-lesson-twenty-one-introduction-to-ontology
+  uuid: 8ea9cbcf-403c-4297-8d1d-47e8d92a0382
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Twenty-Two: The Concept of Existence'
+  slug: 26-lesson-twenty-two-the-concept-of-existence
+  uuid: 29e8fd89-5580-4343-8b37-d1565adccd1d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Twenty-Three: Entified Reality'
+  slug: 27-lesson-twenty-three-entified-reality
+  uuid: ff1b0b29-506e-434a-82c1-8a0546e74832
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Twenty-Four: Existence and Whatness'
+  slug: 28-lesson-twenty-four-existence-and-whatness
+  uuid: 5f64df67-fd87-4a91-a110-847bb60652a0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Twenty-Five: Precepts of Whatness'
+  slug: 29-lesson-twenty-five-precepts-of-whatness
+  uuid: d764fd09-03ff-4a6e-a642-45323935d4eb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Twenty-Six: Introduction to the Fundamentality of Existence'
+  slug: 30-lesson-twenty-six-introduction-to-the-fundamentality-of-existence
+  uuid: 04aa4545-639f-4cf9-9d1d-962d5cc0db84
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Twenty-Seven: The Fundamentality of Existence'
+  slug: 31-lesson-twenty-seven-the-fundamentality-of-existence
+  uuid: b4251ef9-e1b0-49f1-9c5e-360a081e31da
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Twenty-Eight: Unity and Multiplicity'
+  slug: 32-lesson-twenty-eight-unity-and-multiplicity
+  uuid: 9ca41ed8-c484-4e2a-bab6-1b544ec59fa9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Twenty-Nine: Unity and Multiplicity in Entified Existence'
+  slug: 33-lesson-twenty-nine-unity-and-multiplicity-in-entified-existence
+  uuid: a4d3f4d6-e1f9-4981-b6a4-3ba08cdadccc
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Thirty: The Levels of Existence'
+  slug: 34-lesson-thirty-the-levels-of-existence
+  uuid: 88b80a40-2598-42ca-8000-39959a014de9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Part IV: Causality'
+  slug: 35-part-iv-causality
+  uuid: fdc835f7-4876-49b3-a066-9d85e6e9eb7d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Thirty-One: Cause and Effect'
+  slug: 36-lesson-thirty-one-cause-and-effect
+  uuid: 7b10b11c-86cd-421c-9bae-35cf166e5b0a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Thirty-Two: The Principle of Causation'
+  slug: 37-lesson-thirty-two-the-principle-of-causation
+  uuid: a0da34ca-4186-42f3-8e01-a1962dd160bb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Thirty-Three: The Causal Relation'
+  slug: 38-lesson-thirty-three-the-causal-relation
+  uuid: c3d2f7e4-6d58-4ee3-9027-00a19c99b0bb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Thirty-Four: The Causal Relation among Material Things'
+  slug: 39-lesson-thirty-four-the-causal-relation-among-material-things
+  uuid: b92a66ea-3119-40db-860e-d241d28961d2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Thirty-Five: The Dependence of the Effect on the Cause'
+  slug: 40-lesson-thirty-five-the-dependence-of-the-effect-on-the-cause
+  uuid: 064f171b-23b2-4917-832d-a5aa6c3660fd
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Thirty-Six: The Relations of Cause and Effect'
+  slug: 41-lesson-thirty-six-the-relations-of-cause-and-effect
+  uuid: 7af40b1a-94d3-43fc-875f-e27934732534
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Thirty-Seven: The Principles of Cause and Effect'
+  slug: 42-lesson-thirty-seven-the-principles-of-cause-and-effect
+  uuid: aba6752f-e4f4-43e4-8476-d839c75e76f8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Thirty-Eight: The Efficient Cause'
+  slug: 43-lesson-thirty-eight-the-efficient-cause
+  uuid: 072b7c05-68dd-49c4-9234-575a8efd685a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Thirty-Nine: The Final Cause'
+  slug: 44-lesson-thirty-nine-the-final-cause
+  uuid: 8d748097-8cf7-4882-a45d-8a2113f9b1a0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Forty: The Purposefulness of the Cosmos'
+  slug: 45-lesson-forty-the-purposefulness-of-the-cosmos
+  uuid: 1414a7f2-a653-46a5-9743-6122d4707407
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Part V: The Material and the Immaterial'
+  slug: 46-part-v-the-material-and-the-immaterial
+  uuid: d7864ca6-d921-4b49-877e-1d28039a9363
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Forty-One: The Material and the Immaterial'
+  slug: 47-lesson-forty-one-the-material-and-the-immaterial
+  uuid: 9cb89873-9c8f-448a-9661-deefdcb0b316
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Forty-Two: What is Location?'
+  slug: 48-lesson-forty-two-what-is-location
+  uuid: e4dec7da-a66d-4ef1-9216-a82a62cd27ac
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Forty-Three: What is Time?'
+  slug: 49-lesson-forty-three-what-is-time
+  uuid: c9d7ffe9-816b-4e6b-8a06-b766c88d2a55
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Forty-Four: Kinds of Substances'
+  slug: 50-lesson-forty-four-kinds-of-substances
+  uuid: 79861982-c187-46e5-9a24-ad4f17651abc
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Forty-Five: Continuation of the Discussion of the Kinds of Substance'
+  slug: 51-lesson-forty-five-continuation-of-the-discussion-of-the-kinds-of-substance
+  uuid: e9f57a53-2324-48e7-99f4-4d7794b67a50
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Forty-Six: Matter and Form'
+  slug: 52-lesson-forty-six-matter-and-form
+  uuid: 1185871d-cdb4-4650-b235-75e1ab44a6f4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Forty-Seven: Accidents'
+  slug: 53-lesson-forty-seven-accidents
+  uuid: da77ef1e-c70e-4537-b1af-7a585812fba1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Forty-Eight: Quality'
+  slug: 54-lesson-forty-eight-quality
+  uuid: fd8200e7-4aad-4cf6-b676-fe183aeaab72
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Forty-Nine: The Reality of Knowledge'
+  slug: 55-lesson-forty-nine-the-reality-of-knowledge
+  uuid: f3eef9aa-7bab-489f-9b4e-1f022685ffd8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Fifty: The Union of the Knower and the Known'
+  slug: 56-lesson-fifty-the-union-of-the-knower-and-the-known
+  uuid: da378f0f-178c-4673-91c0-f2c357ad8020
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Part VI: The Immutable and the Changing'
+  slug: 57-part-vi-the-immutable-and-the-changing
+  uuid: ab1901be-1266-431e-8167-7d1f20198c05
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Fifty-One: The Immutable and the Changing'
+  slug: 58-lesson-fifty-one-the-immutable-and-the-changing
+  uuid: ee2c8af2-de1f-4b1d-a59f-96e8a25eca6b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Fifty-Two: The Potential and the Actual'
+  slug: 59-lesson-fifty-two-the-potential-and-the-actual
+  uuid: a23dbfcb-1c3f-481d-a02d-4405174998bc
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Fifty-Three: A Continuation of the Discussion of the Potential and
+    the Actual'
+  slug: 60-lesson-fifty-three-a-continuation-of-the-discussion-of-the-potential-and-the-actual
+  uuid: 1230e1fa-1b81-4f0e-a8ef-dbbf20608937
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Fifty-Four: Generation and Corruption'
+  slug: 61-lesson-fifty-four-generation-and-corruption
+  uuid: 86945347-6271-4abf-84d5-acffdb124f32
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Fifty-Five: Motion'
+  slug: 62-lesson-fifty-five-motion
+  uuid: 594437c7-ed07-484d-93bd-d2fa16e1ee36
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Fifty-Six: Properties of Motion'
+  slug: 63-lesson-fifty-six-properties-of-motion
+  uuid: 22d27234-83e1-4fd0-9826-df0a33067e63
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Fifty-Seven: Divisions of Motion'
+  slug: 64-lesson-fifty-seven-divisions-of-motion
+  uuid: 1f5fb19c-5e5c-42c8-98d1-8885b751fbf0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Fifty-Eight: Motion in Accidents'
+  slug: 65-lesson-fifty-eight-motion-in-accidents
+  uuid: 65031d3e-ecd8-43a9-a584-362b60649f29
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Fifty-Nine: Motion in Substance'
+  slug: 66-lesson-fifty-nine-motion-in-substance
+  uuid: 51b785e1-04d5-4905-a611-60a92d9289ca
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Sixty: Further Discussion of Substantial Motion'
+  slug: 67-lesson-sixty-further-discussion-of-substantial-motion
+  uuid: 04e4d19b-81d2-4a90-bfb8-50163a7a88e7
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Part VII: Theology'
+  slug: 68-part-vii-theology
+  uuid: 1b852215-8517-428b-ad1f-defef95844cb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Sixty-One: The Way to Know God'
+  slug: 69-lesson-sixty-one-the-way-to-know-god
+  uuid: c0cdaa7a-1ccc-4ba4-8314-1d807a37bd93
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Sixty-Two: Demonstrations of the Necessary Existent'
+  slug: 70-lesson-sixty-two-demonstrations-of-the-necessary-existent
+  uuid: 8a5682a0-b965-4c2f-8017-4e6ce43ee1e1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Sixty-Three: Tawhīd'
+  slug: 71-lesson-sixty-three-tawhid
+  uuid: eac515cc-fb24-4b7b-b989-c9d6ea95ff6d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Sixty-Four: The Unity of Divine Actions'
+  slug: 72-lesson-sixty-four-the-unity-of-divine-actions
+  uuid: 7e526163-972d-4320-aecd-707b1c6f7ac8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Sixty-Five: The Divine Attributes'
+  slug: 73-lesson-sixty-five-the-divine-attributes
+  uuid: 009ce2e3-ae3c-4afd-b9fe-a19a1adc0b7a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Sixty-Six: Attributes of Essence'
+  slug: 74-lesson-sixty-six-attributes-of-essence
+  uuid: 1771cab9-6000-4d0c-8ce7-4fc66f8e9dba
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Sixty-Seven: Attributes of Action'
+  slug: 75-lesson-sixty-seven-attributes-of-action
+  uuid: cbbe584b-fe42-487c-a825-097c85b7a1b0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Sixty-Eight: The Purpose of Creation'
+  slug: 76-lesson-sixty-eight-the-purpose-of-creation
+  uuid: 79ce235d-b0ab-45a4-a1d9-459a140b701b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Sixty-Nine: Divine Decree and Destiny'
+  slug: 77-lesson-sixty-nine-divine-decree-and-destiny
+  uuid: a9f1af53-5230-4e7c-ac34-a69446e81e14
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=691
+  title: 'Lesson Seventy: Good and Evil in the Cosmos'
+  slug: 78-lesson-seventy-good-and-evil-in-the-cosmos
+  uuid: cef7ba70-bc08-4f05-88ed-e7e2ae1d86a2
+---

@@ -1,0 +1,34 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=277
+title: Islam the Religion of Mankind
+author: Al Balagh Foundation
+slug: islam-the-religion-of-mankind
+uuid: d846234d-75e3-4752-9eff-02d06826318c
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=277
+  title: Introduction
+  slug: 1-introduction
+  uuid: ce3acd6a-6b83-4942-af5e-521c4d039c7c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=277
+  title: Evaluation of the Divine Messages
+  slug: 2-evaluation-of-the-divine-messages
+  uuid: 90186872-38db-49c6-8060-0b2b6157b290
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=277
+  title: The Originality of the Messages and Later Distortions
+  slug: 3-the-originality-of-the-messages-and-later-distortions
+  uuid: 1964427f-bf3d-47cb-9390-4f8622db8139
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=277
+  title: The Tidings of the Prophets Regarding Muhammad
+  slug: 4-the-tidings-of-the-prophets-regarding-muhammad
+  uuid: 11c3bebb-8738-47f3-876d-3cdd1ea02265
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=277
+  title: The Historic Struggle of the Prophets
+  slug: 5-the-historic-struggle-of-the-prophets
+  uuid: 2e704eca-78ae-4f91-aa06-7062f00a5c6c
+---

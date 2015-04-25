@@ -1,0 +1,35 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=725
+title: The Scientific Dimension of the Quran
+author: Dr. Mahdi Golshani
+publisher: http://www.al-islam.org
+slug: the-scientific-dimension-of-the-quran
+uuid: 57bcecf7-770e-436d-95eb-1cac957823b7
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=725
+  title: Introduction
+  slug: 1-introduction
+  uuid: 0dcdb5d7-84cf-4d67-868e-84484b37de79
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=725
+  title: 1. The Qur’an as a Source of Scientific Knowledge
+  slug: 2-1-the-qur-an-as-a-source-of-scientific-knowledge
+  uuid: 156f8a7e-8bfe-4db7-a7d9-b7f9ffffb11a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=725
+  title: 2. The Qur’an as a Book of Guidance
+  slug: 3-2-the-qur-an-as-a-book-of-guidance
+  uuid: 2e5a3093-d79d-4295-abab-21fd9da92ca2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=725
+  title: 3. Our View
+  slug: 4-3-our-view
+  uuid: 64a4404b-67bc-418f-88bc-8385d211e7d4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=725
+  title: 4. Qur’anic Message for Muslim Scientists
+  slug: 5-4-qur-anic-message-for-muslim-scientists
+  uuid: 4c038605-06db-4294-a3e9-5bbca674c854
+---

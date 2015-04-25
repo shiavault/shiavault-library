@@ -1,0 +1,25 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=280
+title: Main Challenges of the Islamic Civilization
+author: Rafed Network
+slug: main-challenges-of-the-islamic-civilization
+uuid: cdfc817b-326b-44a4-ab22-7a2dd6236070
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=280
+  title: Introduction
+  slug: 1-introduction
+  uuid: f6e7c509-9f7b-494d-8518-cf74ac59ead1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=280
+  title: Characteristics of the Religious Government :viewpoints of Imam Khomeini
+    and Ayatollah Khamenei
+  slug: 2-characteristics-of-the-religious-government-viewpoints-of-imam-khomeini-and-ayatollah-khamenei
+  uuid: 67691b66-9dbe-49ab-a39e-d81a51f67a77
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=280
+  title: B) Social Aspects of Hajj
+  slug: 3-b-social-aspects-of-hajj
+  uuid: 6835e69b-14bb-47ee-ab3d-4dbad86d4275
+---

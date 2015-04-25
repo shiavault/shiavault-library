@@ -1,0 +1,34 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=420
+title: Pride
+author: Mujahidali A.R. Sheriff
+slug: pride
+uuid: 763b9918-eeb0-44e1-af25-599a6b202720
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=420
+  title: Preface
+  slug: 1-preface
+  uuid: 1fc8ca9e-0eaa-4986-9825-6cbe328af7ad
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=420
+  title: 1. What Is Kibr
+  slug: 2-1-what-is-kibr
+  uuid: aa096cef-e2b7-4db7-a479-4d6fb8d1bf28
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=420
+  title: Disobedience To Allah (s.w.t.) Is Kibr
+  slug: 3-disobedience-to-allah-s-w-t-is-kibr
+  uuid: d0aecb49-c994-4984-abfe-bb32339ad60a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=420
+  title: The Incident of Bahlool
+  slug: 4-the-incident-of-bahlool
+  uuid: 5cab61f9-0fca-41bb-b9ad-dd0a669b3595
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=420
+  title: Tawadhu Towards the Holy Prophet (s.a.w.) and the Imams (a.s.)
+  slug: 5-tawadhu-towards-the-holy-prophet-s-a-w-and-the-imams-a-s
+  uuid: aeb357a5-3efe-47e4-93bb-d399ea92c1c2
+---

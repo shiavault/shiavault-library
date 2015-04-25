@@ -1,0 +1,45 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=836
+title: Aristotelian Perspectives For Post-modern Reason (i)
+author: Alfredo Marcos
+publisher: www.fyl.uva.es
+slug: aristotelian-perspectives-for-post-modern-reason-i
+uuid: 69302bc8-55d2-4f5e-ab14-10b6de696947
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=836
+  title: Introduction
+  slug: 1-introduction
+  uuid: 0b850da9-a9c1-40a2-bc56-0c1283b5b486
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=836
+  title: 'Modern Age and Actual Age: from the search for certainty to fallibilism'
+  slug: 2-modern-age-and-actual-age-from-the-search-for-certainty-to-fallibilism
+  uuid: cd6e6e58-21d4-4586-b0b4-6fe9cc02bb7b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=836
+  title: Phronesis in Aristotle
+  slug: 3-phronesis-in-aristotle
+  uuid: a1aa897a-4b22-4979-97b0-5879737ca91d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=836
+  title: 'Prudence and Scientific Rationality: ‘Do not block the way of inquiry.’'
+  slug: 4-prudence-and-scientific-rationality-do-not-block-the-way-of-inquiry
+  uuid: a945d93a-11ad-4204-b78d-15d23ff17227
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=836
+  title: 'Prudence and Environmental Responsibility: ‘May human life remain possible.’'
+  slug: 5-prudence-and-environmental-responsibility-may-human-life-remain-possible
+  uuid: f66954f0-6e16-4f6b-b838-4db29868c616
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=836
+  title: Conclusion
+  slug: 6-conclusion
+  uuid: e6734cce-89a4-46b6-9fa2-b269c74dcd9b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=836
+  title: Notes
+  slug: 7-notes
+  uuid: aac4f026-f5ff-403f-8147-d1c203a326a3
+---

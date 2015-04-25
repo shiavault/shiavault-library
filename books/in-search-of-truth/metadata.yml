@@ -1,43 +1,10 @@
 ---
-source: :alislam
-source_url: http://www.al-islam.org/search-truth-amina-bint-al-huda
-author: Amina Bint al-Huda
-publisher: Islamic Thought Foundation
-translator: M. N. Sultan
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=143
 title: In Search of Truth
+author: Bint al-Huda
+publisher: Islamic Thought Foundation
 slug: in-search-of-truth
-uuid: 1f759935-16bf-4af2-bd2d-4d5573734366
-description: |2+
-
-chapters:
-- source: :alislam
-  source_url: http://www.al-islam.org/search-truth-amina-bint-al-huda/introduction
-  title: Introduction
-  slug: 1-introduction
-  uuid: 911d0d97-81e5-483f-9a81-8fe43d1fdf73
-- source: :alislam
-  source_url: http://www.al-islam.org/search-truth-amina-bint-al-huda/chapter-one
-  title: Chapter One
-  slug: 2-chapter-one
-  uuid: ce444aaf-10c6-4afb-bfd6-fb0a3da31225
-- source: :alislam
-  source_url: http://www.al-islam.org/search-truth-amina-bint-al-huda/chapter-two
-  title: Chapter Two
-  slug: 3-chapter-two
-  uuid: da876f5e-ffb5-468e-b147-8a8d639a0e1d
-- source: :alislam
-  source_url: http://www.al-islam.org/search-truth-amina-bint-al-huda/chapter-three
-  title: Chapter Three
-  slug: 4-chapter-three
-  uuid: bc558173-d446-4bbf-a6f6-281eefcaa88a
-- source: :alislam
-  source_url: http://www.al-islam.org/search-truth-amina-bint-al-huda/chapter-four
-  title: Chapter Four
-  slug: 5-chapter-four
-  uuid: b8a2c4e2-04e7-44c5-97e5-ec6525e2756d
-- source: :alislam
-  source_url: http://www.al-islam.org/search-truth-amina-bint-al-huda/chapter-five
-  title: Chapter Five
-  slug: 6-chapter-five
-  uuid: cb2b6815-be92-47dd-a358-33326cd4ab7c
+uuid: 5f59c5f9-9452-4a3d-9fb2-284eac5236d6
+chapters: []
 ---

@@ -1,0 +1,35 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=792
+title: Populism and John Dewey Convergences and Contradictions
+author: Harry C. Boyte
+publisher: www.paunite.org
+slug: populism-and-john-dewey-convergences-and-contradictions
+uuid: d627ede7-2a43-4205-abdc-db236001acab
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=792
+  title: Introduction
+  slug: 1-introduction
+  uuid: 0a9b1b28-3565-4b12-8a51-d6d234efdc42
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=792
+  title: Populism and Civic Engagement
+  slug: 2-populism-and-civic-engagement
+  uuid: 66d9b7fd-2c7e-40a0-b898-be0251150669
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=792
+  title: John Dewey’s “Modernizing Populism”
+  slug: 3-john-dewey-s-modernizing-populism
+  uuid: 806248d5-4444-497d-b15b-a822c7c02e48
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=792
+  title: Populism Versus Technocracy in the 2008 election season
+  slug: 4-populism-versus-technocracy-in-the-2008-election-season
+  uuid: 9ddaac57-a027-40d6-93ab-40fbad2c71b1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=792
+  title: Notes
+  slug: 5-notes
+  uuid: ab969a61-8157-4286-ae5e-da7e1bc61709
+---

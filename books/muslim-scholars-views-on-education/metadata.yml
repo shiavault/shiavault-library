@@ -1,0 +1,39 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=201
+title: Muslim Scholars' Views On Education
+author: Dr. Hamid Reza Alavi
+slug: muslim-scholars-views-on-education
+uuid: f06ef6e3-e98a-42c8-b625-810f7ff225cc
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=201
+  title: Introduction
+  slug: 1-introduction
+  uuid: 4c393453-b9da-4143-bfe2-3c1fe5406b28
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=201
+  title: 1-7. Hafez
+  slug: 2-1-7-hafez
+  uuid: 15691988-6356-42c7-b9d7-e2d0d88936fd
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=201
+  title: 2-2. Principles and Methods of Education
+  slug: 3-2-2-principles-and-methods-of-education
+  uuid: 99b0ff5c-fb1f-4fc4-864e-95cae95f6ac8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=201
+  title: "(3) Educational Epistemology"
+  slug: 4-3-educational-epistemology
+  uuid: cd7ea41d-cfbe-4d8a-a9ea-83d01d97c02d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=201
+  title: "(4) Educational Axiology"
+  slug: 5-4-educational-axiology
+  uuid: 4ce8b931-351f-4597-89f4-ae7e0832979a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=201
+  title: 4-2. Factors of Education
+  slug: 6-4-2-factors-of-education
+  uuid: 011150e2-1f61-4bfd-ab46-148c738edaef
+---

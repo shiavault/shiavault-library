@@ -1,0 +1,39 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=205
+title: Religious,philosophica and Psychological Foundations of Happiness
+author: Dr. Hamid Reza Alawi
+slug: religious-philosophica-and-psychological-foundations-of-happiness
+uuid: daaaf03d-93f8-4e7f-8fcd-a39b449b52ea
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=205
+  title: Introduction
+  slug: 1-introduction
+  uuid: 8376ce26-9e05-49ec-a472-f246edb5e264
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=205
+  title: Section (1). Religious Foundations of Happiness
+  slug: 2-section-1-religious-foundations-of-happiness
+  uuid: 4a55b97e-cc5e-43f3-bd75-881cad5545b4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=205
+  title: Section (2). Philosophical Foundations of Happiness
+  slug: 3-section-2-philosophical-foundations-of-happiness
+  uuid: 5a11b309-37dd-4467-b0c8-b7dc3c953762
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=205
+  title: Muslim and Iranian Philosophers
+  slug: 4-muslim-and-iranian-philosophers
+  uuid: efc7a3ca-1d51-4b61-931a-0147d4fcd1f7
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=205
+  title: Section (3). Psychological Foundations of Happiness
+  slug: 5-section-3-psychological-foundations-of-happiness
+  uuid: 86a35152-ccdb-4e0b-a023-9cdfaebc505a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=205
+  title: 3-11. Mental Health
+  slug: 6-3-11-mental-health
+  uuid: f22aa585-7e35-4a4e-872a-4996a4d23689
+---

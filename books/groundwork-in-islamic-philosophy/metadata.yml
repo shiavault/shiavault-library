@@ -1,0 +1,24 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=285
+title: Groundwork in Islamic Philosophy
+author: Cultural Rafed Foundation
+slug: groundwork-in-islamic-philosophy
+uuid: 530639da-7c34-4db8-a175-34bc600c266a
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=285
+  title: Background Information
+  slug: 1-background-information
+  uuid: 01b3cb58-bfc9-4a2f-a2f3-247fd49147d2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=285
+  title: Teleological Arguments
+  slug: 2-teleological-arguments
+  uuid: 6404c1fa-e147-45ae-9cce-6fe824239e60
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=285
+  title: Arguments From Religious Experience
+  slug: 3-arguments-from-religious-experience
+  uuid: 5178914a-5556-49a8-940c-24e9ed02f0b9
+---

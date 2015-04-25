@@ -1,0 +1,39 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=403
+title: The Prophets of Islam
+author: Sayyid Muhammad Hussain Shamsi
+slug: the-prophets-of-islam
+uuid: 07e2f493-8917-47d6-bf29-d726c5948bb2
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=403
+  title: Dedications
+  slug: 1-dedications
+  uuid: d0bcfe48-4e00-4be8-ba12-a6091ac43578
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=403
+  title: Prophet Sheeth
+  slug: 2-prophet-sheeth
+  uuid: 6ffab079-c63e-4dc5-a20a-bc3cc2b8b3ab
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=403
+  title: Prophet Lut
+  slug: 3-prophet-lut
+  uuid: e5a28625-eb70-44de-bbc3-4881e3616e06
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=403
+  title: Prophet Ayub
+  slug: 4-prophet-ayub
+  uuid: 6c36a90f-ba3c-4e6b-873d-123664222afa
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=403
+  title: Prophet Musa
+  slug: 5-prophet-musa
+  uuid: 801f643b-afe8-4391-9f73-c834bcf9e455
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=403
+  title: Prophet Muhammad (pbuh)
+  slug: 6-prophet-muhammad-pbuh
+  uuid: 21e873cc-3955-40a2-99bd-b658df675c69
+---

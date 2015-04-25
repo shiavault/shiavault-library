@@ -1,0 +1,29 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=304
+title: Youth Aspiration Towards Responsibility
+author: Al Balagh Foundation
+slug: youth-aspiration-towards-responsibility
+uuid: c0949457-665b-4a88-b9cf-b0859baa2ac1
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=304
+  title: Preface
+  slug: 1-preface
+  uuid: 2f14114b-8427-4277-8391-055056d8b766
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=304
+  title: Our Responsibility
+  slug: 2-our-responsibility
+  uuid: 467992ac-afa9-4236-a908-898a61e4419f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=304
+  title: Our Present Responsibilites
+  slug: 3-our-present-responsibilites
+  uuid: 81024bb0-5d7d-4448-a560-b15309a9c017
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=304
+  title: On the Path of Responsibility
+  slug: 4-on-the-path-of-responsibility
+  uuid: 28ac2dfc-e74f-492f-85b6-f275a572078f
+---

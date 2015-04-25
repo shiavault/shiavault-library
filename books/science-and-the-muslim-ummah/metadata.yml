@@ -1,0 +1,40 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=726
+title: Science and the Muslim Ummah
+author: Dr. Mahdi Golshani
+publisher: http://www.al-islam.org
+slug: science-and-the-muslim-ummah
+uuid: e8783d86-bed3-4a35-a6c8-ebc302e9b70c
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=726
+  title: Introduction
+  slug: 1-introduction
+  uuid: c2bf7bf4-2230-4e06-b134-d31f77db5353
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=726
+  title: Sciences whose Knowledge is Wajib Kifa’i
+  slug: 2-sciences-whose-knowledge-is-wajib-kifa-i
+  uuid: bac94078-2ec4-4129-afbf-3dafeaf51567
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=726
+  title: Group of Sciences and their Scope
+  slug: 3-group-of-sciences-and-their-scope
+  uuid: 21bdc9ac-491d-4f63-aa43-142bbc35d00a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=726
+  title: Necessity of Learning Other Sciences
+  slug: 4-necessity-of-learning-other-sciences
+  uuid: 81bb2109-34da-4e6f-9ef4-1ab13ffbe2fd
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=726
+  title: Endeavors for Obtaining Closeness to God
+  slug: 5-endeavors-for-obtaining-closeness-to-god
+  uuid: efb6e567-fa41-4c46-97ee-cbbebcf54d23
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=726
+  title: Proposals
+  slug: 6-proposals
+  uuid: 8e4e22cc-c042-45bc-b189-f46b2c2aff4d
+---

@@ -1,0 +1,24 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=467
+title: Islam in General
+author: Some Islamic Writers
+slug: islam-in-general
+uuid: 5ae64e38-7ff5-4c53-bfcf-22c7cecc1f61
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=467
+  title: Martyrdom in the Way of Truth
+  slug: 1-martyrdom-in-the-way-of-truth
+  uuid: 8560cb5c-9198-40f6-bd69-8f960a1b674d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=467
+  title: Hadith and Ayat of the Day
+  slug: 2-hadith-and-ayat-of-the-day
+  uuid: 26ddca48-8f4d-4202-859c-b12f5f0dce34
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=467
+  title: A Tradition From Imam Zaynul Abedeen (as)
+  slug: 3-a-tradition-from-imam-zaynul-abedeen-as
+  uuid: de257702-7bd3-4148-91ba-6a72af1b50ea
+---

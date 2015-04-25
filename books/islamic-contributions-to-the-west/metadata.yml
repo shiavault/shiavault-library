@@ -1,0 +1,35 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=815
+title: Islamic Contributions To the West
+author: Rachida El Diwani
+publisher: www.lssu.edu
+slug: islamic-contributions-to-the-west
+uuid: 805cf92e-7e21-47f9-a426-4f3f79e66771
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=815
+  title: I. Introduction
+  slug: 1-i-introduction
+  uuid: 4abfbf9a-9d3d-4147-8915-3b90394a3130
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=815
+  title: II. Islamicization of the West.
+  slug: 2-ii-islamicization-of-the-west
+  uuid: 1ac95771-2ad8-4688-97c7-4c8c1cee98de
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=815
+  title: IV. The spread of Islamic culture into Europe.
+  slug: 3-iv-the-spread-of-islamic-culture-into-europe
+  uuid: 24dc8c62-481f-40ed-98bc-ade7b5533074
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=815
+  title: V. Conclusion
+  slug: 4-v-conclusion
+  uuid: 67d8f976-4858-45b0-8fcb-48116a5716b0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=815
+  title: References
+  slug: 5-references
+  uuid: 48b009e1-45ac-4f24-943e-1cd2e3ea3591
+---

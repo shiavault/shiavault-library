@@ -1,0 +1,24 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=446
+title: Ramadhan Special
+author: Cultural Rafed Foundation
+slug: ramadhan-special
+uuid: 298976c8-beab-49a7-b9fc-c71497688d90
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=446
+  title: The Excellence of the Holy Month of Ramadhan
+  slug: 1-the-excellence-of-the-holy-month-of-ramadhan
+  uuid: ffea14bb-78c9-4ae4-b8ae-9fd604cc8734
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=446
+  title: Sighting of the Moon
+  slug: 2-sighting-of-the-moon
+  uuid: 195f0e0e-7475-4831-9545-0b263eb3aa39
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=446
+  title: A'amaal For Laylatul Qadr
+  slug: 3-a-amaal-for-laylatul-qadr
+  uuid: 4a4ad08d-c95b-42cb-950c-d98807740a8d
+---

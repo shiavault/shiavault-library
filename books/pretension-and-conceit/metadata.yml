@@ -1,280 +1,82 @@
 ---
-source: :alislam
-source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri
-author: Sayyid Ahmad al-Fahri
-publisher: Ansariyan Publications - Qum
-translator: Yasin T. Al-Jibouri
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=207
 title: Pretension and Conceit
+author: Sayyid Ahmed al-Fahri
 slug: pretension-and-conceit
-uuid: d2d4f2b0-8baa-4f78-8f2b-eb98c10d9214
-description: |
-  In this book the author uses the Qur'an and Ahadith to discuss the vices
-  of pretension and conceit in detail. He examines their causes and
-  effects, and their different levels, and also explains how one can get
-  rid of them with the help of Islamic teachings.
+uuid: 0f65444b-d43f-466f-a6d2-d6d2d1047d7d
 chapters:
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/publishers-preface
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=207
   title: Publisher's Preface
   slug: 1-publisher-s-preface
-  uuid: b9fdc80c-46ba-413b-8f42-69070e736a18
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/introduction
+  uuid: 1c7c1aff-f365-4d79-bd82-34f8340908f4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=207
   title: Introduction
   slug: 2-introduction
-  uuid: e1ee4561-519e-4ade-8bdd-4a0849b4fce0
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/pretension
-  title: Pretension
-  slug: 3-pretension
-  uuid: d32b34a2-7423-4e89-af66-281fa27b5e00
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/pretension-according-qur%C4%81n
-  title: 'Pretension According To The Qur''ān:'
-  slug: 4-pretension-according-to-the-qur-an
-  uuid: f320179c-d6d5-4787-8498-740b11b15ae1
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/pretension-traditions
-  title: 'Pretension in traditions:'
-  slug: 5-pretension-in-traditions
-  uuid: d57125bf-0cba-429d-97a0-3ca0f6197223
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/meaning-pretension
-  title: Meaning of "Pretension"
-  slug: 6-meaning-of-pretension
-  uuid: 46b35707-5870-4ff7-b1ce-5378569b59dd
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/first-level
-  title: 'First Level:'
-  slug: 7-first-level
-  uuid: f239108d-bf16-48d4-91b4-2a22fd96fa53
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/second-level
-  title: 'Second Level:'
-  slug: 8-second-level
-  uuid: 5a8da154-0773-42d0-b206-05df832f8931
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/third-level
-  title: 'Third Level:'
-  slug: 9-third-level
-  uuid: 63e4bd28-9764-41f4-818d-7a9042fd2c48
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/ugliest-degree-pretension
-  title: The Ugliest Degree of Pretension
-  slug: 10-the-ugliest-degree-of-pretension
-  uuid: e48131bc-9785-43f1-ba70-49fa89d51fed
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/explaning-how-conviction-not-knowledge
-  title: Explaning how Conviction is not Knowledge
-  slug: 11-explaning-how-conviction-is-not-knowledge
-  uuid: 18cb223d-34a4-4ab6-9de8-b93a6f50726b
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/degrees-pretensions-objectives
-  title: Degrees Of Pretension's Objectives
-  slug: 12-degrees-of-pretension-s-objectives
-  uuid: 9da9ae6d-1197-4f6b-a038-bf93b8ac4c2a
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/first-degree
-  title: The First Degree
-  slug: 13-the-first-degree
-  uuid: 87b802b4-7b17-46a0-8e2e-a6f690476ebe
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/second-degree
-  title: The Second Degree
-  slug: 14-the-second-degree
-  uuid: a3d952d9-1f2b-43fb-a9dc-02e2cf0db9ed
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/third-degree
-  title: Third Degree
-  slug: 15-third-degree
-  uuid: 76ce3874-2290-4932-98f2-323b0103ad03
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/scientific-point-eradicate-pretension-theological-imam
-  title: Scientific Point to Eradicate Pretension from the Theological Imam Al-Khomeini,
-    May Allah Prolong his Shade
-  slug: 16-scientific-point-to-eradicate-pretension-from-the-theological-imam-al-khomeini-may-allah-prolong-his-shade
-  uuid: 2c155b53-7cd4-4527-a703-667ce2ed0c0b
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/call-sincerity-professor-theology-imam-al-khomeini-may
-  title: Call to Sincerity from the Professor of Theology, Imam-Al-Khomeini, May his
-    Shade be Prolonged
-  slug: 17-call-to-sincerity-from-the-professor-of-theology-imam-al-khomeini-may-his-shade-be-prolonged
-  uuid: 5d54f94c-f2c4-411f-83c7-90d1c4da1f45
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/second-level-pretension
-  title: The Second Level of Pretension
-  slug: 18-the-second-level-of-pretension
-  uuid: 8113ada6-05c4-4aa4-99f2-ca7660e1b731
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/wise-admonishment-professor-theology-imam-al-khomeini
-  title: Wise Admonishment from the Professor of Theology, Imam-Al-Khomeini, May his
-    Shade Last
-  slug: 19-wise-admonishment-from-the-professor-of-theology-imam-al-khomeini-may-his-shade-last
-  uuid: 477d9864-cb3c-4e08-b123-a6833a68d459
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/third-level-pretension
-  title: Third Level of Pretension
-  slug: 20-third-level-of-pretension
-  uuid: a3f79c42-4d35-40ee-b7e3-6edfe709066f
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/levels-pretension-aspect-what-hidden-and-what-manifest
-  title: Levels of Pretension from the Aspect of what is Hidden and what is Manifest,
-    a Precise Research in the Issue of
-  slug: 21-levels-of-pretension-from-the-aspect-of-what-is-hidden-and-what-is-manifest-a-precise-research-in-the-issue-of
-  uuid: bb8c4c1a-494d-4580-8dbe-a6ad01a45c7f
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/unique-qur%E2%80%99anic-jewel
-  title: Unique Qur’anic Jewel
-  slug: 22-unique-qur-anic-jewel
-  uuid: cb518f99-f7da-425d-829d-a21229f55b13
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/wise-admonishment-professor-theology-imam-al-khomeini-0
-  title: Wise Admonishment from the Professor of Theology, Imam-Al-Khomeini, May his
-    Shade Endure
-  slug: 23-wise-admonishment-from-the-professor-of-theology-imam-al-khomeini-may-his-shade-endure
-  uuid: 95f1b17c-c62f-45d3-825c-bd6db5565f4b
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/explaining-how-scientifically-and-practically-cure
-  title: Explaining how to scientifically and Practically cure the Heart of the Disease
-    of Pretension
-  slug: 24-explaining-how-to-scientifically-and-practically-cure-the-heart-of-the-disease-of-pretension
-  uuid: c86321f1-5c72-4cde-b1ca-a6be0f14e28a
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/when-showing-acts-worship-permissible-advice-imam
-  title: 'When Showing off Acts of Worship is Permissible: Advice by Imam Khomeini,
-    May I be his Sacrifice, for those who want Admonishment'
-  slug: 25-when-showing-off-acts-of-worship-is-permissible-advice-by-imam-khomeini-may-i-be-his-sacrifice-for-those-who-want-admonishment
-  uuid: 4f3558c4-a235-49f0-ba6a-1be1b5ce3788
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/practical-treatment-pretension
-  title: Practical Treatment for Pretension
-  slug: 26-practical-treatment-for-pretension
-  uuid: 9863ba32-8db8-44de-9b13-ef70913f425d
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/ares-where-showing-acts-worship-permissible
-  title: Ares where Showing Acts of Worship is Permissible
-  slug: 27-ares-where-showing-acts-of-worship-is-permissible
-  uuid: 7d61c1cb-4295-407c-8989-81aebed331a2
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/advice-imam-al-khomeini-may-i-be-his-sacrifice-those
-  title: Advice by Imam-Al-Khomeini, May I be his Sacrifice, for those who Wish to
-    be Admonished
-  slug: 28-advice-by-imam-al-khomeini-may-i-be-his-sacrifice-for-those-who-wish-to-be-admonished
-  uuid: f77b02e6-46b3-41a1-8757-4b0e0063b77f
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/seal-musk-sublime-tradition-explanation-im%C4%81m-al
-  title: A Seal of Musk,  Sublime Tradition & an Explanation by Imām Al-Khomeini,
-    May his Shade Prolong
-  slug: 29-a-seal-of-musk-sublime-tradition-an-explanation-by-imam-al-khomeini-may-his-shade-prolong
-  uuid: aab47d9e-d185-4bc5-89f0-22de7174da44
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/dissertation-about-conceit
-  title: A Dissertation about Conceit
-  slug: 30-a-dissertation-about-conceit
-  uuid: e2c2ba87-87ed-4f61-943b-bf8eee87dc68
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/conceit
-  title: Conceit
-  slug: 31-conceit
-  uuid: d2a64525-2754-4c08-a0e8-ac05b3de8a3f
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/meaning-conceit
-  title: Meaning of Conceit
-  slug: 32-meaning-of-conceit
-  uuid: fb4b17fa-4d14-4a22-8d9b-17b8a01cee39
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/explanation-im%C4%81m-al-khomeini
-  title: Explanation by Imām Al-Khomeini
-  slug: 33-explanation-by-imam-al-khomeini
-  uuid: fe408fb7-a7a5-401c-b5c9-7c52f44bd844
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/degrees-and-levels-conceit
-  title: Degrees and Levels of Conceit
-  slug: 34-degrees-and-levels-of-conceit
-  uuid: eae280c0-aa0e-4827-984f-c66bde3261dd
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/levels-conceit
-  title: Levels of Conceit
-  slug: 35-levels-of-conceit
-  uuid: 804f8a2f-7f78-429f-8937-ebff14fea837
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/first-level-0
-  title: 'First Level:'
-  slug: 36-first-level
-  uuid: 9447e9d3-7de5-4b61-beb8-cfa23487756d
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/second-level-0
-  title: 'Second Level:'
-  slug: 37-second-level
-  uuid: cb60d866-bcd7-4e58-918f-b6671e463357
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/third-level-0
-  title: 'Third Level:'
-  slug: 38-third-level
-  uuid: ec0279d8-78a6-440e-9cbf-2db5b3185efd
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/fourth-level
-  title: 'Fourth Level:'
-  slug: 39-fourth-level
-  uuid: e81df18d-bb2f-4a45-bf6e-06e2bfaed6f5
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/comment
-  title: 'Comment:'
-  slug: 40-comment
-  uuid: 5c77a2c3-fd55-4768-a7a1-e7b27946bdc9
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/consequences-conceit
+  uuid: 193c2b01-7bea-4872-9d99-c06ea0d145a6
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=207
+  title: Meaning of "pretension"
+  slug: 3-meaning-of-pretension
+  uuid: fd2accae-9843-4930-bc79-22705b95ff67
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=207
+  title: Explaning How Conviction Is Not Knowledge
+  slug: 4-explaning-how-conviction-is-not-knowledge
+  uuid: 84238940-2b69-481f-8773-549be0ede19b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=207
+  title: Call To Sincerity From the Professor of Theology, Imam Al-khomeini, May His
+    Shade Be Prolonged
+  slug: 5-call-to-sincerity-from-the-professor-of-theology-imam-al-khomeini-may-his-shade-be-prolonged
+  uuid: b942a770-557c-458c-ad89-8da119b4f043
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=207
+  title: Levels of Pretension From the Aspects of What Is Hidden and What Is Manifest,
+    a Precise Research in the Issue of Pretension
+  slug: 6-levels-of-pretension-from-the-aspects-of-what-is-hidden-and-what-is-manifest-a-precise-research-in-the-issue-of-preten
+  uuid: 087c5beb-975f-4390-92a0-c6e81fa2476f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=207
+  title: Wise Admonishmment From the Professor of Theology, Imam Khomeini,may His
+    Shade, Endure
+  slug: 7-wise-admonishmment-from-the-professor-of-theology-imam-khomeini-may-his-shade-endure
+  uuid: 5d8b1c87-9624-44eb-a2c9-22e8879e1e4b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=207
+  title: Areas Where Showing Acts of Worship Is Permissible
+  slug: 8-areas-where-showing-acts-of-worship-is-permissible
+  uuid: dce1f96f-e06d-4408-96d9-4275522544a7
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=207
+  title: A Seal of Musk
+  slug: 9-a-seal-of-musk
+  uuid: 94e4f669-c67d-4728-be54-f00d11317952
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=207
+  title: Explanation By Imam Al-khomeini
+  slug: 10-explanation-by-imam-al-khomeini
+  uuid: acc6bfe3-efa3-4bbd-936e-0fb6b5df427b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=207
   title: Consequences of Conceit
-  slug: 41-consequences-of-conceit
-  uuid: 8d639994-a4e7-4f9a-88e5-8b4fcd763dc6
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/pride
-  title: 'Pride:'
-  slug: 42-pride
-  uuid: fb3ad6f2-5d8e-4422-b80f-83755d7db684
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/forgetting-about-and-underestimating-sins
-  title: Forgetting about and Underestimating Sins
-  slug: 43-forgetting-about-and-underestimating-sins
-  uuid: 997ae1f8-e1f3-4ba9-a1ea-5a649e5f6ace
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/deprivation-benefits-admonition-and-guidance
-  title: Deprivation from benefits of Admonition and Guidance
-  slug: 44-deprivation-from-benefits-of-admonition-and-guidance
-  uuid: b3ebe445-a0a9-4dcf-9e6b-cb83f191adee
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/unawareness-servants%E2%80%99-detriments
-  title: Unawareness of the Servants’ Detriments
-  slug: 45-unawareness-of-the-servants-detriments
-  uuid: 74755ae6-0494-417f-af1b-058785c05ff6
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/not-believing-allah%E2%80%99s-mercy-and-favor
-  title: Not Believing in Allah’s Mercy and Favor
-  slug: 46-not-believing-in-allah-s-mercy-and-favor
-  uuid: aa2b6226-9c10-419a-bdf5-c4e2ae66075d
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/statement-point-imam-khomeini
-  title: Statement in Point by Imam Khomeini
-  slug: 47-statement-in-point-by-imam-khomeini
-  uuid: 1470d91c-d9aa-46e6-a6dd-3b33cb477f17
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/wise-admonishment-imam-khomeini
-  title: Wise Admonishment by Imam Khomeini
-  slug: 48-wise-admonishment-by-imam-khomeini
-  uuid: 867501a2-13a8-4adf-bc62-dbfb9f448718
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/treating-conceit-sickness
+  slug: 11-consequences-of-conceit
+  uuid: 2006409f-1e1a-4bbb-b23f-6f6a2c1e3584
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=207
+  title: Statement in Point By Imam Komeini
+  slug: 12-statement-in-point-by-imam-komeini
+  uuid: 6e76de6f-bfca-4081-9b46-944d9eaf4ca0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=207
   title: Treating the Conceit Sickness
-  slug: 49-treating-the-conceit-sickness
-  uuid: 2d5e3492-d06d-4224-a2a0-7f6646c1d1f6
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/great-benefit-provided-khomeini-treating-conceit
-  title: 'Great Benefit Provided by Khomeini in Treating Conceit:'
-  slug: 50-great-benefit-provided-by-khomeini-in-treating-conceit
-  uuid: b6ad1082-e2f2-41a1-8fd0-161f52f96189
-- source: :alislam
-  source_url: http://www.al-islam.org/pretension-and-conceit-sayyid-ahmad-al-fahri/inclusive-statement-imam-al-sadiq
-  title: Inclusive Statement by Imam-Al-Sadiq
-  slug: 51-inclusive-statement-by-imam-al-sadiq
-  uuid: 1f62f727-b795-4a60-acb4-99ec7330b4e5
+  slug: 13-treating-the-conceit-sickness
+  uuid: 9125edde-3191-4ab9-b231-027e9ef7f698
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=207
+  title: Great Benefit Provided By Khomeini in Treating Conseit
+  slug: 14-great-benefit-provided-by-khomeini-in-treating-conseit
+  uuid: ae280caa-a18d-40d0-93cd-e9f60c98a4a3
 ---

@@ -1,0 +1,45 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=751
+title: 'Modern Technology, Preventive Ethics, and the Human Condition:'
+author: Mashhad Al-Allaf
+publisher: www.internationaljournal.org
+slug: modern-technology-preventive-ethics-and-the-human-condition
+uuid: b62f95d5-07f0-4143-9b85-e0d5808c06db
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=751
+  title: "[Abstract]"
+  slug: 1-abstract
+  uuid: f832ef1a-2afc-49ac-8332-2bd34b5c264e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=751
+  title: INTRODUCTION AND THE METAPHOR OF TITHONES
+  slug: 2-introduction-and-the-metaphor-of-tithones
+  uuid: 2b5a19c9-afc5-4b58-b4b7-06c9bec0bdac
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=751
+  title: NEW MACHINES AND CHANGE OF CONCEPTS
+  slug: 3-new-machines-and-change-of-concepts
+  uuid: ceefba66-ea00-4fac-ae63-2e8e90c05c95
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=751
+  title: FOUR GROUPS OF PHILOSOPHERS LOOKING AT TECHNOLOGY
+  slug: 4-four-groups-of-philosophers-looking-at-technology
+  uuid: d5544a7e-46c6-4a93-b5ef-ceb8eb4b90bb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=751
+  title: ETHICS OF RESPONSIBILITY
+  slug: 5-ethics-of-responsibility
+  uuid: 6961a8f0-583d-41d0-884e-5f76bf7f7ca9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=751
+  title: PREVENTIVE ETHICS, AN ISLAMIC APPROACH
+  slug: 6-preventive-ethics-an-islamic-approach
+  uuid: 708e6c51-fb06-450e-b614-aa38b330e262
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=751
+  title: REFERENCES
+  slug: 7-references
+  uuid: d9227a08-7881-4dd0-b5f4-09552c7db9f0
+---

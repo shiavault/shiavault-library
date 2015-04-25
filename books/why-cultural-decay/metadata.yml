@@ -1,0 +1,29 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=406
+title: Why Cultural Decay?
+author: Al Balagh Foundation
+slug: why-cultural-decay
+uuid: 24eb60d6-ec0c-4e3b-945b-9b3617d54d55
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=406
+  title: Introduction
+  slug: 1-introduction
+  uuid: 46a6a5c3-94ed-48b4-84e3-45c938f26e6a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=406
+  title: Islam's Attitude Towards Civilization and Different Cultures
+  slug: 2-islam-s-attitude-towards-civilization-and-different-cultures
+  uuid: d84bf1de-ed28-468f-9fa4-74172c015740
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=406
+  title: Phenomena and Obstacles
+  slug: 3-phenomena-and-obstacles
+  uuid: 70f77c30-7be5-41af-b583-cd5b766477e4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=406
+  title: 5. Regression and Lack of Self-confidence
+  slug: 4-5-regression-and-lack-of-self-confidence
+  uuid: 7cf6b129-a965-4e4b-8a04-0ab869480380
+---

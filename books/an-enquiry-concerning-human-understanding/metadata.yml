@@ -1,0 +1,79 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=533
+title: An Enquiry Concerning Human Understanding
+author: David Hume
+slug: an-enquiry-concerning-human-understanding
+uuid: 81550498-9e67-4e29-bcf9-6ecdfc861cf1
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=533
+  title: 'Section I : of the Different Species of Philosophy'
+  slug: 1-section-i-of-the-different-species-of-philosophy
+  uuid: 23c24c04-b69b-48a9-9903-0bde4bee91bf
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=533
+  title: 'Section Ii : of the Origin of Ideas'
+  slug: 2-section-ii-of-the-origin-of-ideas
+  uuid: e3739b31-eae9-46f0-9bda-e5e91b0ad74d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=533
+  title: 'Section Iii : of the Association of Ideas'
+  slug: 3-section-iii-of-the-association-of-ideas
+  uuid: 49b5c83f-eb7d-4f7c-aa28-13bb03e247c6
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=533
+  title: 'Section Iv : Sceptical Doubts Concerning the Operations of the Understanding'
+  slug: 4-section-iv-sceptical-doubts-concerning-the-operations-of-the-understanding
+  uuid: 4d2e631b-e7f5-43e8-9ced-7bb4318b51eb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=533
+  title: 'Section V : Sceptical Solution of These Doubts'
+  slug: 5-section-v-sceptical-solution-of-these-doubts
+  uuid: e79870bc-967a-43c2-8d0d-8f5d26f38435
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=533
+  title: Supplement 1
+  slug: 6-supplement-1
+  uuid: 4f3819bd-83b7-44bf-ae15-99cb15453368
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=533
+  title: 'Section Vii : of the Idea of Necessary Connexion'
+  slug: 7-section-vii-of-the-idea-of-necessary-connexion
+  uuid: 3b76a0f9-8e62-4aff-bc8d-c3044f1b8d2d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=533
+  title: Supplement 2
+  slug: 8-supplement-2
+  uuid: 225b9040-ae2a-4747-9f3a-86336621e430
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=533
+  title: 'Section Viii : of Llberity and Necessity'
+  slug: 9-section-viii-of-llberity-and-necessity
+  uuid: 8af7f68f-e21b-49f0-bd22-4fbb93b8c2a4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=533
+  title: 'Section Ix : of the Reason of Animals'
+  slug: 10-section-ix-of-the-reason-of-animals
+  uuid: 7c637904-e2eb-4fed-9e77-cf9daca07f6a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=533
+  title: 'Section X : of Miracles'
+  slug: 11-section-x-of-miracles
+  uuid: 2fd162b0-08c1-4f22-a865-3d69df739ffc
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=533
+  title: 'Section Xi : of a Particular Providence and of a Future State'
+  slug: 12-section-xi-of-a-particular-providence-and-of-a-future-state
+  uuid: a1571cb3-f09d-48b9-87d9-c2c131fd327c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=533
+  title: Supplement 3
+  slug: 13-supplement-3
+  uuid: 81773401-a468-4134-992b-2e119e4a695d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=533
+  title: Section Xii of the Acadimical Or Sceptical Philosophy
+  slug: 14-section-xii-of-the-acadimical-or-sceptical-philosophy
+  uuid: bff0b061-1833-4449-9b30-c9a8f2055b6f
+---

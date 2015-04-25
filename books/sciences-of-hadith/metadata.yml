@@ -1,0 +1,54 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=591
+title: Sciences of Hadith
+author: heikh Mansour Leghaei
+slug: sciences-of-hadith
+uuid: 914715d6-fcea-410f-a9c7-873900018d1e
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=591
+  title: 'Chapter 1: Introduction'
+  slug: 1-chapter-1-introduction
+  uuid: eccb6a6c-26a5-4930-ae17-9db75e8cbb9b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=591
+  title: 'Chapter 3 : Meeting 2 the Tragedy of Hadith Prohibition; Roots and Reasons'
+  slug: 2-chapter-3-meeting-2-the-tragedy-of-hadith-prohibition-roots-and-reasons
+  uuid: 61aca0a4-0e69-4486-ad87-7b79d20d50ad
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=591
+  title: 'Chapter 5 : Meeting 4 the History of Hadith Amongest the Shi''a'
+  slug: 3-chapter-5-meeting-4-the-history-of-hadith-amongest-the-shi-a
+  uuid: d157fdc7-3506-46ed-bb28-3a8db3deb452
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=591
+  title: 'Chapter 6 : Meeting 5 Causes For Weak Ahadith in the Books of Shi''a'
+  slug: 4-chapter-6-meeting-5-causes-for-weak-ahadith-in-the-books-of-shi-a
+  uuid: 07dc4c2e-ee1a-47e0-82ee-d5d46afb6222
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=591
+  title: 'Chapter 8 : Meeting 7 the Science of Knowing the Refferences (e''lm Ma''refatel-masader('
+  slug: 5-chapter-8-meeting-7-the-science-of-knowing-the-refferences-e-lm-ma-refatel-masader
+  uuid: 1ed01f6c-7c35-4c9e-850b-30e569206293
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=591
+  title: 'Chapterr 9 : Meeting 8 the Science of Al-mostalaahat (science of Derayatul-hadith('
+  slug: 6-chapterr-9-meeting-8-the-science-of-al-mostalaahat-science-of-derayatul-hadith
+  uuid: 3732b331-4302-47a9-ab41-a00a45b7b4d4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=591
+  title: 'Chapter 11: Meeting 10 the Science of Al-rejaal I'
+  slug: 7-chapter-11-meeting-10-the-science-of-al-rejaal-i
+  uuid: 6f76c1ea-246f-494d-8fce-7135c0d050c8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=591
+  title: 'Chapter 11: Meeting 10 the Science of Al-rejaal I'
+  slug: 8-chapter-11-meeting-10-the-science-of-al-rejaal-i
+  uuid: 39e87bb0-fdeb-4609-9191-c3d3a66563dc
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=591
+  title: 'Chapter 15 : Meeting 14: Alphabitical Ahadith'
+  slug: 9-chapter-15-meeting-14-alphabitical-ahadith
+  uuid: b933089d-db03-4fce-9ef7-517027aa607c
+---

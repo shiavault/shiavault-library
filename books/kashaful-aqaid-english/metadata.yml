@@ -1,0 +1,40 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=793
+title: Kashaful Aqaid (کشاف العقاید) [english]
+author: Syed Baqir Nisar Zaidi
+publisher: www.hubeali.co.uk
+slug: kashaful-aqaid-english
+uuid: bf9975cc-10d3-468e-8757-1bb693b68cef
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=793
+  title: Makhiz (Sources)
+  slug: 1-makhiz-sources
+  uuid: 2712f481-452e-48bc-9694-03b6b38cc439
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=793
+  title: Babul Abwab
+  slug: 2-babul-abwab
+  uuid: 3eba64d7-8525-4fd9-95ce-55ba474445ba
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=793
+  title: Necessity of Religion
+  slug: 3-necessity-of-religion
+  uuid: 2e394aa7-110d-4d11-bba1-53c54d5a8e76
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=793
+  title: Wasila (Intercessor)
+  slug: 4-wasila-intercessor
+  uuid: 23014aa7-ba9b-4fcd-b74a-8a98aa4331be
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=793
+  title: Introduction of Wilayat- Adl wa Nabuwat (Justice and Prophet hood)
+  slug: 5-introduction-of-wilayat-adl-wa-nabuwat-justice-and-prophet-hood
+  uuid: 3175b33d-8230-4a44-8579-f143bbf979c4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=793
+  title: Glory of Wilayat-Day of Judgement
+  slug: 6-glory-of-wilayat-day-of-judgement
+  uuid: b253449e-f4e8-4dbc-920a-ddc14eb0d119
+---

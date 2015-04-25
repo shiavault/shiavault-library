@@ -1,0 +1,60 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=213
+title: Scholastic Theology (kalam)
+author: Ayatullah Murtadha Mutahhari
+publisher: www.alulbayt.com
+slug: scholastic-theology-kalam
+uuid: a58d98f7-8aad-442c-b73c-6a03b9cc52c8
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=213
+  title: Introduction
+  slug: 1-introduction
+  uuid: 3f2ac31a-2850-4fa9-b706-ef7889f876b7
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=213
+  title: Foreword
+  slug: 2-foreword
+  uuid: 55a0db2f-206f-4ce3-b7d3-38638cab4e34
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=213
+  title: 'Lesson One: Scholastic Theology'
+  slug: 3-lesson-one-scholastic-theology
+  uuid: f28d8b52-5895-4f6b-b288-6b9eab7168a9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=213
+  title: 'Lesson Two: Scholastic theology, a definition'
+  slug: 4-lesson-two-scholastic-theology-a-definition
+  uuid: 7d374c8d-724f-42e0-ba55-eea6574c01e6
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=213
+  title: 'Lesson Three: The Mu’tazilites (1)'
+  slug: 5-lesson-three-the-mu-tazilites-1
+  uuid: 48e51cd6-96c2-4f8d-bc5b-2d4d6ff7779c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=213
+  title: 'Lesson Four: The Mu’tazilites (2)'
+  slug: 6-lesson-four-the-mu-tazilites-2
+  uuid: 5ee314d0-6051-4bc8-9f61-cde3553788fd
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=213
+  title: 'Lesson Five: The Mu’tazilites (3)'
+  slug: 7-lesson-five-the-mu-tazilites-3
+  uuid: b0147a54-9881-4be9-82ae-84fee678349e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=213
+  title: 'Lesson Six: The Ash’arites'
+  slug: 8-lesson-six-the-ash-arites
+  uuid: 1132b58d-79ea-4787-bad7-65b76a62d3d9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=213
+  title: 'Lesson Seven: The Shia (1)'
+  slug: 9-lesson-seven-the-shia-1
+  uuid: 2c75a246-c171-416d-bf32-d5004cb48070
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=213
+  title: 'Lesson Eight: The Shia (2)'
+  slug: 10-lesson-eight-the-shia-2
+  uuid: 288a8ee9-b359-4438-83d3-b0cae46189d5
+---

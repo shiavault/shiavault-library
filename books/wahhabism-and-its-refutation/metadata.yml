@@ -1,0 +1,20 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=807
+title: Wahhabism and Its Refutation
+author: Ayyub Sabri Pasha
+publisher: www.alseraj.net
+slug: wahhabism-and-its-refutation
+uuid: 837fcec4-52c3-4521-a4c8-5f1a6c9f1d09
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=807
+  title: "[Introduction]"
+  slug: 1-introduction
+  uuid: 48a3b65e-ee28-450f-8431-d1c7a25e59a0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=807
+  title: "[The Main Part]"
+  slug: 2-the-main-part
+  uuid: 03662dec-a1a0-4d36-83ae-9e928614b496
+---

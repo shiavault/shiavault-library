@@ -1,0 +1,30 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=771
+title: Knowledge and Immortality in Spinoza and Mulla Sadra
+author: Catherine Wilson
+publisher: www.muslimphilosophy.com
+slug: knowledge-and-immortality-in-spinoza-and-mulla-sadra
+uuid: 251f21f9-1410-43c9-859c-c0a7b71eee4c
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=771
+  title: I.
+  slug: 1-i
+  uuid: f969f5da-e2ab-442b-a49e-ca58afb3d0a0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=771
+  title: II.
+  slug: 2-ii
+  uuid: d3309dc2-7deb-4362-9fb1-cfa6a6d30d7d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=771
+  title: III.
+  slug: 3-iii
+  uuid: c6c15c1d-b94b-4328-88b8-8603ca70b439
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=771
+  title: Endnotes
+  slug: 4-endnotes
+  uuid: 3c472581-bd69-47ff-9660-19227e9b4aca
+---

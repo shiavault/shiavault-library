@@ -1,0 +1,31 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=770
+title: 'Salaman and Absal: an Allegory'
+author: JÁMI
+translator: EDWARD FITZGERALD
+publisher: www.sacred-texts.com
+slug: salaman-and-absal-an-allegory
+uuid: 0daca895-9b2a-4ad3-87da-9461bc56398b
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=770
+  title: My dear Cowell,
+  slug: 1-my-dear-cowell
+  uuid: 855309eb-5d6d-4c54-8edb-a424b4666e2b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=770
+  title: LIFE OF JÁMI
+  slug: 2-life-of-jami
+  uuid: bc0797ac-8c0f-424e-8cd2-2825cc488862
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=770
+  title: SALÁMÁN AND ABSÁL
+  slug: 3-salaman-and-absal
+  uuid: 1b7eb381-0616-41a2-b708-db01f2231a47
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=770
+  title: APPENDIX.
+  slug: 4-appendix
+  uuid: 196e7cc4-3025-4ad1-98a1-819f117f7423
+---

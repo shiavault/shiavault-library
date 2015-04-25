@@ -1,0 +1,25 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=809
+title: 'Tooba: the Need of Every Momin Home'
+author: Al syyed Abu Mohammad Naqvi
+publisher: www.shiamawaddatbooks.com
+slug: tooba-the-need-of-every-momin-home
+uuid: 271f53c5-93b0-4315-9b32-e822697c6f97
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=809
+  title: "[Introduction]"
+  slug: 1-introduction
+  uuid: eadd0ed5-195d-4871-876b-f429de86400e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=809
+  title: "[The Main Text of Book]"
+  slug: 2-the-main-text-of-book
+  uuid: bac2226b-6ab8-4480-ad95-a5fef755224f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=809
+  title: "[Bibliography]"
+  slug: 3-bibliography
+  uuid: 849c90b8-964a-4b56-9c19-8274ff903c42
+---

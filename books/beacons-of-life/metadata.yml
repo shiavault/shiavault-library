@@ -1,0 +1,106 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=2
+title: Beacons of Life
+author: Abu Ali al-Tabarsi
+slug: beacons-of-life
+uuid: 37fb6344-0470-4494-a72b-ae2cee5baa65
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=2
+  title: Foreword
+  slug: 1-foreword
+  uuid: 26e6f807-ab5c-44f4-8ae8-ab26703082b4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=2
+  title: Foreword Prologue
+  slug: 2-foreword-prologue
+  uuid: 4471032b-156b-4eea-afd5-fee9cae28cb2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=2
+  title: Chapter 1 :the Holy Prophet of Islam
+  slug: 3-chapter-1-the-holy-prophet-of-islam
+  uuid: 2137c85f-23ba-4cd9-90a8-eafab5eed2d4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=2
+  title: Chapter 2 :concerning His Resplendant Signs and Miracles
+  slug: 4-chapter-2-concerning-his-resplendant-signs-and-miracles
+  uuid: 8c91e10e-0a13-496e-97f5-d83d0fac3be0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=2
+  title: Supplement 1
+  slug: 5-supplement-1
+  uuid: 6d5149b6-5444-49f8-90bb-fefbd1b1c5df
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=2
+  title: Supplement 2
+  slug: 6-supplement-2
+  uuid: 98c28333-3e07-48c5-8de7-a0ea7aeee885
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=2
+  title: Chapter 3 :the Beginning of the Call
+  slug: 7-chapter-3-the-beginning-of-the-call
+  uuid: df4fd051-722f-4fe6-b725-c266e8744bae
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=2
+  title: The Quraysh Admit the Miraculous Qualities of the Qur'an
+  slug: 8-the-quraysh-admit-the-miraculous-qualities-of-the-qur-an
+  uuid: 5b17f512-c95c-45de-bcb4-bdc8fb388053
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=2
+  title: The Prophet's Night Journey To Jerusalem and His Hiding in a Ravine Belonging
+    To Abu Talib
+  slug: 9-the-prophet-s-night-journey-to-jerusalem-and-his-hiding-in-a-ravine-belonging-to-abu-talib
+  uuid: 11a7e0bb-9aee-4724-ac2b-fcd9d03656c4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=2
+  title: The Associators Plot Against the Prophet; the Prophet Migrates To Medina;
+    and the Jubilation of the Ansar At His Arrival
+  slug: 10-the-associators-plot-against-the-prophet-the-prophet-migrates-to-medina-and-the-jubilation-of-the-ansar-at-his-arriva
+  uuid: d232784c-d883-4ce5-8cdd-f72c24613d6c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=2
+  title: Chapter 4 :a General Account of the Prophet's Battles
+  slug: 11-chapter-4-a-general-account-of-the-prophet-s-battles
+  uuid: 86daa79a-00bf-4eab-aba0-c2dee9368ceb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=2
+  title: The Raid of Dhu Amarr
+  slug: 12-the-raid-of-dhu-amarr
+  uuid: fe91427e-b8c6-42c6-811b-9fa3bcfbdca9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=2
+  title: The Battle of Hamra'u'l-asad
+  slug: 13-the-battle-of-hamra-u-l-asad
+  uuid: d0d9a0a2-e592-4c50-a132-f5fc3ef33d97
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=2
+  title: The Battle of Banu 'l-mustaliq
+  slug: 14-the-battle-of-banu-l-mustaliq
+  uuid: 882677a1-b65a-40e9-915f-5acb60bb1936
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=2
+  title: The Conquest of Mecca
+  slug: 15-the-conquest-of-mecca
+  uuid: 1687fef5-73d2-4886-81ef-eaf1c01a83f0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=2
+  title: The Engagement of Hunayn
+  slug: 16-the-engagement-of-hunayn
+  uuid: c6db11b5-a5cb-4282-888b-de565f34dc76
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=2
+  title: The Battle of Tabuk
+  slug: 17-the-battle-of-tabuk
+  uuid: b4120faa-24e8-4dae-8e57-acbde57caea9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=2
+  title: Chapter 5 :his Wives, Children and Relatives
+  slug: 18-chapter-5-his-wives-children-and-relatives
+  uuid: 2ec59f93-8993-478f-ae10-a3786957471e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=2
+  title: Chapter 6 :the Daughter of the Holy Prophet of Islam
+  slug: 19-chapter-6-the-daughter-of-the-holy-prophet-of-islam
+  uuid: 990b8790-5d5b-4e4e-adb1-da54d9df1dce
+---

@@ -1,0 +1,41 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=830
+title: An Annotated Bibliography of the Works of Sadr Al-din Al-shirazi (mulla Sadra)
+  With a Brief Account of His Life
+author: I. Kalin
+publisher: www.muslimphilosophy.com
+slug: an-annotated-bibliography-of-the-works-of-sadr-al-din-al-shirazi-mulla-sadra-with-a-brief-account-of-his-life
+uuid: 32e42c25-d465-4a26-bb29-e4419330d2ae
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=830
+  title: "[Introduction]"
+  slug: 1-introduction
+  uuid: 1a86eaa7-3a05-4438-8a00-7575cb52a0d4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=830
+  title: Sadra’s Life
+  slug: 2-sadra-s-life
+  uuid: 31fa4159-a8d7-4b1a-a6ad-05e2545831ff
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=830
+  title: Sadra’s Works
+  slug: 3-sadra-s-works
+  uuid: 499dafe7-bbdf-44bb-be57-cd702750112a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=830
+  title: 'A: Works in the Field of Transmitted Sciences'
+  slug: 4-a-works-in-the-field-of-transmitted-sciences
+  uuid: f86a620e-fa53-40c9-b356-d8a1108ac100
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=830
+  title: 'B: Works in the Field of Intellectual Sciences'
+  slug: 5-b-works-in-the-field-of-intellectual-sciences
+  uuid: d55c3714-f022-45e9-a13a-5b40bb3aa790
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=830
+  title: Notes
+  slug: 6-notes
+  uuid: 4db737ce-5fbe-44a8-8c0e-cef0636aa3aa
+---

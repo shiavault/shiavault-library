@@ -1,0 +1,24 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=475
+title: Youth and the Future
+author: Al Balagh Foundation
+slug: youth-and-the-future
+uuid: 9c6050f1-3713-44de-8844-d1501955db71
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=475
+  title: The World Looks Forward To the Future
+  slug: 1-the-world-looks-forward-to-the-future
+  uuid: bdebbbda-6c0d-4477-907d-273722785467
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=475
+  title: Future - a Will
+  slug: 2-future-a-will
+  uuid: 033fd01f-386f-4ada-83ad-4e9999761e83
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=475
+  title: Difficulties On the Way
+  slug: 3-difficulties-on-the-way
+  uuid: 4ae7c9d1-f6bf-437b-b0d2-05ba82a82afd
+---

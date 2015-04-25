@@ -1,0 +1,27 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=800
+title: 'Arabic Syntax: علم النحو العربی (edited)'
+author: Yusuf Mullan
+publisher: www.learnarabic.ca
+slug: arabic-syntax-edited
+uuid: be7441bd-8c7e-434b-81b4-9e9fe565a01f
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=800
+  title: |-
+    The Science of
+    نحو
+  slug: 1-the-science-of
+  uuid: a5bc3221-3165-48ee-adb1-bdb607f048f2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=800
+  title: Process of Reflection - إعراب أسماء و أفعال
+  slug: 2-process-of-reflection
+  uuid: 3b4a7563-4f76-429e-aa9f-34854264d47e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=800
+  title: Appendix A - Expressiveness of the Arabic Language
+  slug: 3-appendix-a-expressiveness-of-the-arabic-language
+  uuid: 8296214d-45bf-4ffb-907a-45bf702be463
+---

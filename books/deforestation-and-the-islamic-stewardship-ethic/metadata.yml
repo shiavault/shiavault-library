@@ -1,0 +1,40 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=750
+title: Deforestation and the Islamic Stewardship Ethic
+author: Misbah Alghamdi
+publisher: www.scholarworks.rit.edu
+slug: deforestation-and-the-islamic-stewardship-ethic
+uuid: a0d91fae-a623-4ca3-9c69-e96f5a1d9712
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=750
+  title: Abstract
+  slug: 1-abstract
+  uuid: 02c471cf-448f-408f-af49-1b3054cde89a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=750
+  title: 1. Introduction
+  slug: 2-1-introduction
+  uuid: 9c078ff6-f2b2-47e8-8e25-4153e125cf50
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=750
+  title: 2. Causes of Forest Loss
+  slug: 3-2-causes-of-forest-loss
+  uuid: 48389a49-b36b-40ce-88e6-94902a634460
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=750
+  title: 3. Analysis
+  slug: 4-3-analysis
+  uuid: 02166aae-fa67-4275-837e-ce025a99b8b2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=750
+  title: 4. Conclusion
+  slug: 5-4-conclusion
+  uuid: 6e91a35f-e91a-4574-a135-45dc6242d006
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=750
+  title: References
+  slug: 6-references
+  uuid: a35b358a-a5bf-45bf-895c-40b774c2df7e
+---

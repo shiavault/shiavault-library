@@ -1,0 +1,24 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=302
+title: Parents and Children
+author: Al Balagh Foundation
+slug: parents-and-children
+uuid: dbded3a9-233a-4eb7-91a8-7ed1d9fec727
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=302
+  title: Child's Wishes
+  slug: 1-child-s-wishes
+  uuid: ea8d18a1-aeac-4647-b826-328512fb2601
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=302
+  title: Essential Differences
+  slug: 2-essential-differences
+  uuid: 6b0b74f1-967d-47c3-bc72-800ae9f9f543
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=302
+  title: Points of Differences Between the Two Generations
+  slug: 3-points-of-differences-between-the-two-generations
+  uuid: 88d00582-8f26-48cc-b357-850bfd81b97f
+---

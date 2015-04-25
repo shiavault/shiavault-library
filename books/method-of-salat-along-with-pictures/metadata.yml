@@ -1,0 +1,111 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=668
+title: 'Method of Salat: Along With Pictures'
+author: Sayyid Muhammad Qadi Mar'ashi
+translator: Saleem Bhimji
+publisher: Ansariyan Publications – Qum
+slug: method-of-salat-along-with-pictures
+uuid: 559a4841-40a1-4b02-a905-12fe5eb1c2bd
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=668
+  title: A Word from the Publisher
+  slug: 1-a-word-from-the-publisher
+  uuid: 6dd7c5b8-184f-4b6f-bd20-69f2ac9aaef8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=668
+  title: Usu l-e-Din (Fundamental Principles of the Religion)
+  slug: 2-usu-l-e-din-fundamental-principles-of-the-religion
+  uuid: ec23ecdd-6b1a-42ef-8941-e031e7119777
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=668
+  title: Furu'-e-Din (Branches of the Religion)
+  slug: 3-furu-e-din-branches-of-the-religion
+  uuid: bdb088f0-24ac-4160-b5fd-80b198b78f4e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=668
+  title: The Importance of Salat
+  slug: 4-the-importance-of-salat
+  uuid: 9534f966-59d1-41f3-9af2-be928f8149b3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=668
+  title: Five hadith from The Prophet (s) about Salat
+  slug: 5-five-hadith-from-the-prophet-s-about-salat
+  uuid: 9dc8c8ca-0b56-4a2d-be61-593fd5d68513
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=668
+  title: Concentration during Salat
+  slug: 6-concentration-during-salat
+  uuid: 3de340a4-c883-47d3-a713-0c1b86f61420
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=668
+  title: Wudhu
+  slug: 7-wudhu
+  uuid: 29312d4c-de72-4028-b7d1-1cb351688e4c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=668
+  title: Conditions for Wdhu
+  slug: 8-conditions-for-wdhu
+  uuid: 92930e63-6135-49ff-b76c-3294fb4659fe
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=668
+  title: Things that Make the Wudhu Void
+  slug: 9-things-that-make-the-wudhu-void
+  uuid: 23d4f9c1-4ef4-4cdf-a350-f151e37fdef4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=668
+  title: Tayammum
+  slug: 10-tayammum
+  uuid: 9ebdaa70-5bf2-4ba5-bf43-439a70381008
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=668
+  title: Adhan & Iqamah
+  slug: 11-adhan-iqamah
+  uuid: fe2b9f1a-3f9c-458a-844d-879ea7274658
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=668
+  title: The Method of Reading Our Salat
+  slug: 12-the-method-of-reading-our-salat
+  uuid: 5145b1ac-c36a-4965-a374-ed6a0c3755f8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=668
+  title: Surah al-Fatiha
+  slug: 13-surah-al-fatiha
+  uuid: d6d3309b-7f83-48de-89a1-7a980e411ef5
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=668
+  title: Surah al-Tawhid
+  slug: 14-surah-al-tawhid
+  uuid: 018ae48e-4fff-44fa-a3c6-f149cb6b4707
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=668
+  title: Tashhud
+  slug: 15-tashhud
+  uuid: 64b7084f-78d1-440a-a07f-c56e1c2b27e6
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=668
+  title: Salam
+  slug: 16-salam
+  uuid: c187af87-4270-40b7-9134-15a787d1e68d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=668
+  title: Tasbihat al-Arba'h
+  slug: 17-tasbihat-al-arba-h
+  uuid: f2bcb393-4b4c-47aa-a575-adc15fde22c2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=668
+  title: Things that make the Salat void
+  slug: 18-things-that-make-the-salat-void
+  uuid: f575872c-f058-42f3-bd92-364bfd52bc71
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=668
+  title: The Wajibat of the Salat
+  slug: 19-the-wajibat-of-the-salat
+  uuid: a299a1d9-06df-45d4-9d0a-ee71bee679ed
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=668
+  title: The Place of Salat
+  slug: 20-the-place-of-salat
+  uuid: c04330af-1f4e-4c39-8cc4-02893ea8accd
+---

@@ -1,0 +1,44 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=218
+title: Imam Reza's Pilgrimage
+author: Ali Peiravi, Ph.D
+slug: imam-reza-s-pilgrimage
+uuid: e8568a68-23a9-4f79-8529-80df75833df3
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=218
+  title: Foreword
+  slug: 1-foreword
+  uuid: b5611544-c817-4b84-b8de-fdff88c9fc49
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=218
+  title: Love Prayers
+  slug: 2-love-prayers
+  uuid: 1fc17d80-a60b-460d-9b74-0c36dbbfe8e5
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=218
+  title: On the Nobility of the Pilgrimage To the Shrine of Imam Reza
+  slug: 3-on-the-nobility-of-the-pilgrimage-to-the-shrine-of-imam-reza
+  uuid: d31858c7-045c-479b-bdaf-2cb8ca1dcb8c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=218
+  title: At the Shrine
+  slug: 4-at-the-shrine
+  uuid: fc376f85-2119-4dc7-b0f6-fbe00b781c2d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=218
+  title: Supplement
+  slug: 5-supplement
+  uuid: e8d726fb-ddb5-45ef-85b8-2f2d7a45fbe4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=218
+  title: 'Ziyarat-i-jame''a Kabeer: the Major Comprehensive Pilgrimage'
+  slug: 6-ziyarat-i-jame-a-kabeer-the-major-comprehensive-pilgrimage
+  uuid: 91805276-7ff7-4c24-bdc0-dbffa5594b0a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=218
+  title: Supplication of Highly Considerable Contents
+  slug: 7-supplication-of-highly-considerable-contents
+  uuid: ae9a9610-9b7d-426d-a226-d38802ec1608
+---

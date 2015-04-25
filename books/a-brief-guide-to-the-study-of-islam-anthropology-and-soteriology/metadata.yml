@@ -1,0 +1,45 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=825
+title: 'A Brief Guide To the Study of Islam: Anthropology and Soteriology'
+author: Robert Hunt
+publisher: www.emk-kircheundgesellschaft.ch
+slug: a-brief-guide-to-the-study-of-islam-anthropology-and-soteriology
+uuid: 6efd5c6c-b0fb-4b56-8408-e96d2fe97dde
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=825
+  title: I. Forward
+  slug: 1-i-forward
+  uuid: 43cb6869-bbcb-4d39-ae74-eebe50a68a7f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=825
+  title: II. Introduction
+  slug: 2-ii-introduction
+  uuid: bb34ac34-d307-49d7-870d-a6de39e346df
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=825
+  title: III. The Creatures of Allah
+  slug: 3-iii-the-creatures-of-allah
+  uuid: 6577a625-be45-46c7-a45c-8c58d8d28c95
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=825
+  title: IV. Human Nature
+  slug: 4-iv-human-nature
+  uuid: 094ac97b-28da-40e9-952a-b89c9ac05c85
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=825
+  title: V. The End of Creation
+  slug: 5-v-the-end-of-creation
+  uuid: 2806bab4-6626-4139-ab3e-8e96ce620401
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=825
+  title: VI. Bibliography
+  slug: 6-vi-bibliography
+  uuid: 74791038-7bb3-465c-a18e-7891a9ed505a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=825
+  title: Notes
+  slug: 7-notes
+  uuid: fca67da8-85a4-4ab3-ad77-5548b0d85d5b
+---

@@ -1,0 +1,54 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=473
+title: Al Kafi (volume One)
+author: Sheikh Abu Jafar Muhammad Ibn Yaqub Ibn Ishaq Al-Kulayni Arazi
+slug: al-kafi-volume-one
+uuid: f6d2baae-099a-40ad-a19a-f25ca1ccb53c
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=473
+  title: Foreword
+  slug: 1-foreword
+  uuid: bdb9ceba-6740-48bc-b0ce-49e4ae5e9039
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=473
+  title: Al-kulayni and Al-kafi
+  slug: 2-al-kulayni-and-al-kafi
+  uuid: 712b0610-2df7-4bd5-939f-46a4c1076f4f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=473
+  title: A Word in His Aprreciation
+  slug: 3-a-word-in-his-aprreciation
+  uuid: 42a8fe87-ea58-4b45-9639-3798f27d1867
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=473
+  title: Commentaries of Al-kafi
+  slug: 4-commentaries-of-al-kafi
+  uuid: e3d0d1ee-b647-4b16-94ca-7bf955945d89
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=473
+  title: Introduction
+  slug: 5-introduction
+  uuid: d7fe3f94-8ee7-4b13-ba64-5589febb41d8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=473
+  title: Supplement
+  slug: 6-supplement
+  uuid: 5709da3c-3d33-4495-8762-31e18cd47b12
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=473
+  title: Reason and Ignorance
+  slug: 7-reason-and-ignorance
+  uuid: 1a78a39f-0752-4e8e-a0f7-b0c7e5764bd7
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=473
+  title: Supplement 1
+  slug: 8-supplement-1
+  uuid: 7538dcde-61d6-4c3f-9662-7ee54b47b7a7
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=473
+  title: Supplement 2
+  slug: 9-supplement-2
+  uuid: e40a4c3e-3f2d-4a94-9f8e-c749cdee6998
+---

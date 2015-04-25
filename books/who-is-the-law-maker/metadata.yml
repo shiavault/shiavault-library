@@ -1,0 +1,24 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=315
+title: Who Is the Law-maker
+author: Al Balagh Foundation
+slug: who-is-the-law-maker
+uuid: 6b073082-cee8-4352-87d8-472b7d93f9dc
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=315
+  title: Presentation
+  slug: 1-presentation
+  uuid: 5ada0c1a-5541-4547-9bcb-292203cc7277
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=315
+  title: 'Islam: the Universal Legislation For Mankind'
+  slug: 2-islam-the-universal-legislation-for-mankind
+  uuid: 04d3fc7c-949c-45fb-b5d0-c87ebd5a267f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=315
+  title: I. Criterion of Truth and Justice
+  slug: 3-i-criterion-of-truth-and-justice
+  uuid: ca29c6f4-19b8-4f9c-bbd8-2a92a8fe1d03
+---

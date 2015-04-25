@@ -1,0 +1,34 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=785
+title: The Birth of Science
+publisher: www.clas-pages.uncc.edu
+slug: the-birth-of-science
+uuid: b0a1e411-3da7-4de5-9422-f43d3adbb0c8
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=785
+  title: "[Introduction]"
+  slug: 1-introduction
+  uuid: 96a83eb9-799e-4092-928f-4c6534e3e9b8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=785
+  title: "[History of Science]"
+  slug: 2-history-of-science
+  uuid: 4721e231-1a4e-4276-ab36-8c03ec0d8c6f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=785
+  title: Matter is continuous.
+  slug: 3-matter-is-continuous
+  uuid: 0f706bb2-dbaa-440d-9b53-58948b140421
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=785
+  title: Islam & Science
+  slug: 4-islam-science
+  uuid: 4e83facb-cdfb-408a-b181-3fe7d6add04c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=785
+  title: 'RELATED QUOTES:'
+  slug: 5-related-quotes
+  uuid: 3ad5d050-972c-49d4-8944-730c749d8f1a
+---

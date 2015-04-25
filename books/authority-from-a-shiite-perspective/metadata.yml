@@ -1,0 +1,25 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=764
+title: Authority From a Shiite Perspective
+author: Dr Muhammad Legenhausen
+publisher: http://www.al-islam.org
+slug: authority-from-a-shiite-perspective
+uuid: d856f8af-fc43-4a8c-8d17-ca00ac7191a7
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=764
+  title: "[Introduction]"
+  slug: 1-introduction
+  uuid: ea5e628c-8b4e-49da-b3c1-f8f55ad24197
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=764
+  title: Authority and Wilayah
+  slug: 2-authority-and-wilayah
+  uuid: 4e8eb377-06f5-49b9-b01a-2d9c6d65bf97
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=764
+  title: Tradition and Sunnah
+  slug: 3-tradition-and-sunnah
+  uuid: 34419bf3-6d02-490d-a8be-dd4af8857e45
+---

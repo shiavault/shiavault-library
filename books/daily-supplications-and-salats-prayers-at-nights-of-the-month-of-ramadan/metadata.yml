@@ -1,0 +1,20 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=716
+title: Daily Supplications and Salats [prayers At Nights] of the Month of Ramadan
+translator: Yasin T. al-Jibouri
+publisher: www.dua.org
+slug: daily-supplications-and-salats-prayers-at-nights-of-the-month-of-ramadan
+uuid: 9094d7d7-4389-4d9b-a048-7e8f50146a7c
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=716
+  title: 'SECTION ONE: DAILY SUPPLICATIONS FOR THE MONTH OF RAMADAN'
+  slug: 1-section-one-daily-supplications-for-the-month-of-ramadan
+  uuid: b9537ee6-dc57-4f04-b1ee-f4447da6526d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=716
+  title: 'SECTION TWO: EACH RAMADAN NIGHT SALATS [PRAYERS]'
+  slug: 2-section-two-each-ramadan-night-salats-prayers
+  uuid: ba0e3ae3-6e3d-4374-b9ac-e50e50f8d335
+---

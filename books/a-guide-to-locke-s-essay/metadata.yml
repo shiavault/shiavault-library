@@ -1,0 +1,64 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=522
+title: A Guide To Locke's Essay
+author: Garth Kemerling
+slug: a-guide-to-locke-s-essay
+uuid: 2cfb9398-5c3d-4b21-9c25-274b4f336dfd
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=522
+  title: Introduction
+  slug: 1-introduction
+  uuid: dfc4fa65-2588-4489-93b4-921b20d2a466
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=522
+  title: Simple Ideas
+  slug: 2-simple-ideas
+  uuid: fffec5b6-1274-4bd2-96fd-eeb9f91dbcd3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=522
+  title: Primary and Secondary Qualities
+  slug: 3-primary-and-secondary-qualities
+  uuid: 93d7f4d2-f26c-4e3b-9256-3c6d65b17235
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=522
+  title: Complex Ideas
+  slug: 4-complex-ideas
+  uuid: 4d63476d-6e11-4cb6-b9a3-f30fc4881e7a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=522
+  title: Representational Reliability
+  slug: 5-representational-reliability
+  uuid: 3e308d40-1587-4859-aa67-33f628c6ba80
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=522
+  title: Simple Ideas and Modes
+  slug: 6-simple-ideas-and-modes
+  uuid: a1e6cda8-2bcd-407c-81a2-ee74703f070a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=522
+  title: Degrees and Types of Knowledge
+  slug: 7-degrees-and-types-of-knowledge
+  uuid: 5c0efb93-202a-49a4-a488-5440ffed78ec
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=522
+  title: Probable Knowledge
+  slug: 8-probable-knowledge
+  uuid: 0b3802df-9822-4dc7-a08f-1ae6e4ca004a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=522
+  title: Grounds For Moral Reasoning
+  slug: 9-grounds-for-moral-reasoning
+  uuid: 4f48ebfd-081c-48ce-9925-b70b6a53e6e8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=522
+  title: Hedonistic Motivations
+  slug: 10-hedonistic-motivations
+  uuid: f7ebc682-cb3d-4a83-b680-52503b018e73
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=522
+  title: Personal Identity
+  slug: 11-personal-identity
+  uuid: 2f41a377-281f-4cb8-8a32-d13bf58bfdd3
+---

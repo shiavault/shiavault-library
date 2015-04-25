@@ -1,0 +1,39 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=190
+title: 40 Ahadith On Ghadir
+author: Mahmud Sharifi
+slug: 40-ahadith-on-ghadir
+uuid: dd324692-b55b-4498-84f8-8f930efb392d
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=190
+  title: Introduction
+  slug: 1-introduction
+  uuid: 1126dc4f-09f4-4de2-b0a4-be4f53165792
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=190
+  title: 'Section 1 : the Status of ''eidul Ghadir'
+  slug: 2-section-1-the-status-of-eidul-ghadir
+  uuid: d96967ea-6d0f-454d-bafa-156e0640a033
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=190
+  title: 'Section 2 : the Worthy and Deserving Day of Ghadir'
+  slug: 3-section-2-the-worthy-and-deserving-day-of-ghadir
+  uuid: cbd57484-cc8f-485c-aa17-6823a9876281
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=190
+  title: 'Hadith No. 19: a Day of Greeting and Disavowal'
+  slug: 4-hadith-no-19-a-day-of-greeting-and-disavowal
+  uuid: b0d36669-a073-4704-ad69-975dd8b448da
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=190
+  title: 'Section 3 : Wilayat in Ghadir'
+  slug: 5-section-3-wilayat-in-ghadir
+  uuid: e501c9ee-15e4-4b0b-ad38-788f6fcae28f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=190
+  title: 'Hadith No. 33: the Perpetual Wilayat'
+  slug: 6-hadith-no-33-the-perpetual-wilayat
+  uuid: 08f67abd-ed84-45ba-b492-5bf0732ab1c0
+---

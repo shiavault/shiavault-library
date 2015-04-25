@@ -1,0 +1,34 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=301
+title: The Principal Signposts of the Islamic Message
+author: Al Balagh Foundation
+slug: the-principal-signposts-of-the-islamic-message
+uuid: 0e6cd06b-481b-489e-bf47-16ec571f5f42
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=301
+  title: Introduction
+  slug: 1-introduction
+  uuid: e3b1000f-8e77-47ad-a7df-fa79a440c6e3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=301
+  title: The Basic Principles On Which Islam Is Founded
+  slug: 2-the-basic-principles-on-which-islam-is-founded
+  uuid: fdc10f4a-4abd-41a4-972a-a7241dce2373
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=301
+  title: The Contents of the Islamic Message
+  slug: 3-the-contents-of-the-islamic-message
+  uuid: 31a6b25d-c92a-4d88-ab28-1792be357747
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=301
+  title: The General Characterestics of the Islamic Message
+  slug: 4-the-general-characterestics-of-the-islamic-message
+  uuid: 2a66583e-f398-4bf5-8e92-0385e0078289
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=301
+  title: The Objectives of Islam
+  slug: 5-the-objectives-of-islam
+  uuid: 4258c4dc-12fa-4c7f-b1c8-eb65b5ff1d15
+---

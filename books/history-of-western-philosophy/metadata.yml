@@ -1,0 +1,84 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=527
+title: History of Western Philosophy
+author: Tebyan
+slug: history-of-western-philosophy
+uuid: 59c9539b-4817-45f3-80d3-a5c2e832f9fc
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=527
+  title: Preface
+  slug: 1-preface
+  uuid: dd67bd42-4bc5-474b-b86f-24ae871f1699
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=527
+  title: 2 Greek Philosophy
+  slug: 2-2-greek-philosophy
+  uuid: 66bac4aa-deb5-4076-851f-b26d0550653f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=527
+  title: 2.3.1.6 Doctrine of Immortality
+  slug: 3-2-3-1-6-doctrine-of-immortality
+  uuid: 2fa6ecda-d609-4244-b31e-6e366d603ef7
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=527
+  title: 2.3.2 Aristotle [384-322 Bce]
+  slug: 4-2-3-2-aristotle-384-322-bce
+  uuid: 7605dd74-46b0-42d0-ab0d-84bd457f0dfa
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=527
+  title: 'Function: Method of Obtaining Logic: the Science of Sciences'
+  slug: 5-function-method-of-obtaining-logic-the-science-of-sciences
+  uuid: 2f41eefd-d22f-4ed9-aa23-760de44bfd60
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=527
+  title: 2.4 Ethical Period [about 350-200 Bce]
+  slug: 6-2-4-ethical-period-about-350-200-bce
+  uuid: dc5b9116-03e3-4901-b4ef-9822d6710b76
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=527
+  title: 2.4.3.2 Metaphysics
+  slug: 7-2-4-3-2-metaphysics
+  uuid: efaff567-b9cf-45e8-abba-7fe3739cc908
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=527
+  title: 2.5.1 Jewish Greek Philosophy
+  slug: 8-2-5-1-jewish-greek-philosophy
+  uuid: 155d7982-56d4-4973-82dd-d8ab238dbcd1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=527
+  title: '3.3 the Patristic Period: Establishment of the Christian Church and Dogma'
+  slug: 9-3-3-the-patristic-period-establishment-of-the-christian-church-and-dogma
+  uuid: a0d00a28-7a77-44bf-a02a-5380bd288597
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=527
+  title: 4 the Modern Period
+  slug: 10-4-the-modern-period
+  uuid: 2bee87cd-858d-4bc7-8915-2e6730d8be83
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=527
+  title: '4.3 Modern Philosophy : Continental Rationalism'
+  slug: 11-4-3-modern-philosophy-continental-rationalism
+  uuid: dedbf3c2-bfdd-4567-9c00-25e7846f88bd
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=527
+  title: '4.10.2 a Return To Idealism: Arthur Schopenhauer [1788-1860]'
+  slug: 12-4-10-2-a-return-to-idealism-arthur-schopenhauer-1788-1860
+  uuid: 7b2a1c9b-7e44-4d0e-a09a-33a18b2b532c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=527
+  title: 4.11.2.2 Comte's Scheme of Sciences
+  slug: 13-4-11-2-2-comte-s-scheme-of-sciences
+  uuid: b96eaddd-ef8c-48d5-bbe7-1727989294db
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=527
+  title: 4.12.2 John Stuart Mill [1806 1873]
+  slug: 14-4-12-2-john-stuart-mill-1806-1873
+  uuid: 461e121a-3f9c-4d88-b39e-01208128c92c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=527
+  title: 6.3.3 Further Considerations
+  slug: 15-6-3-3-further-considerations
+  uuid: f233a222-8e4f-4564-965e-6a197395cc00
+---

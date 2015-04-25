@@ -1,0 +1,35 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=808
+title: A Critique of the Use of Suicide Bombings in Islamic Jihad
+author: Maryam Dikko. BL
+publisher: www.abu.edu.ng
+slug: a-critique-of-the-use-of-suicide-bombings-in-islamic-jihad
+uuid: f0647cd5-dccf-4b32-9dcc-cc498ace704e
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=808
+  title: 1.0. Introduction
+  slug: 1-1-0-introduction
+  uuid: dfb3c022-c7c1-4942-bdaf-992f89c73865
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=808
+  title: 1.1. What is jihad?
+  slug: 2-1-1-what-is-jihad
+  uuid: b281f209-f8fe-4fa5-a4bd-26c0828ff505
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=808
+  title: 1.2. The Modern Conception
+  slug: 3-1-2-the-modern-conception
+  uuid: 57e2217e-890d-40d5-88c8-3f7dfe08bd16
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=808
+  title: 2.2. The Islamic Position on Suicide Bombing
+  slug: 4-2-2-the-islamic-position-on-suicide-bombing
+  uuid: b02feb4e-04be-4777-9497-eff58f026c81
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=808
+  title: 3.0. Conclusion
+  slug: 5-3-0-conclusion
+  uuid: 41d5769b-d4d3-4388-b8c8-3616082e7504
+---

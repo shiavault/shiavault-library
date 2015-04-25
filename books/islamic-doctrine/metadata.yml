@@ -1,0 +1,39 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=468
+title: Islamic Doctrine
+author: Abdul Husain Muhammad
+slug: islamic-doctrine
+uuid: 4229caec-861e-47f1-a794-9fcfd2d5cd78
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=468
+  title: Introduction
+  slug: 1-introduction
+  uuid: 96b46fbe-2032-4c82-89e8-38aca614697c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=468
+  title: Value of Human Knowledge
+  slug: 2-value-of-human-knowledge
+  uuid: 0033a7db-efe1-47ca-a213-a9215132cfe0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=468
+  title: Revelation Statement
+  slug: 3-revelation-statement
+  uuid: caa9ea84-cd3e-443f-98b4-afde0f200b6e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=468
+  title: A Rational Discussion of the Revelation Statement
+  slug: 4-a-rational-discussion-of-the-revelation-statement
+  uuid: ecd869d4-dfde-43b8-a5bc-a1892aef5644
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=468
+  title: The Characteristics of God
+  slug: 5-the-characteristics-of-god
+  uuid: 3eedc42d-066b-456f-9150-5eab3cf697b5
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=468
+  title: The Benefecial Nature of the Islamic Doctrine
+  slug: 6-the-benefecial-nature-of-the-islamic-doctrine
+  uuid: 6bd698d9-271a-48b0-96cd-6bc89d3a7d6e
+---

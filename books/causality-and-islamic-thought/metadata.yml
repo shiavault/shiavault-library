@@ -1,0 +1,20 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=662
+title: Causality and Islamic Thought
+author: Andrey Smirnov
+publisher: www.muslimphilosophy.com
+slug: causality-and-islamic-thought
+uuid: f1c1d234-2141-4784-a3e3-5e23cc2816e7
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=662
+  title: Causality and Islamic Thought
+  slug: 1-causality-and-islamic-thought
+  uuid: 5d007ed6-5169-49d8-b91d-02d19d3f4b95
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=662
+  title: Bibliography
+  slug: 2-bibliography
+  uuid: a2f2f140-1d3b-4a40-b835-a35c60c599af
+---

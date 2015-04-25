@@ -1,0 +1,35 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=574
+title: The Relationship Between Philosophy and Theology in the Postmodern Age
+author: Dr Muhammad Legenhausen
+publisher: www.alhassanain.org/english
+slug: the-relationship-between-philosophy-and-theology-in-the-postmodern-age
+uuid: bbb101b2-52de-4f15-bc91-b894c7b6b211
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=574
+  title: Preface
+  slug: 1-preface
+  uuid: a17b246b-f1f8-4512-85ea-f451b9775adf
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=574
+  title: Supplement 1
+  slug: 2-supplement-1
+  uuid: 2bbc02b2-221a-4c1e-9ab3-8ca6a1fd26f6
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=574
+  title: Supplement 2
+  slug: 3-supplement-2
+  uuid: 6cbf640d-2a44-487e-b1b2-e5a26c30060a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=574
+  title: Supplement 3
+  slug: 4-supplement-3
+  uuid: 0c41e3f1-1cf4-4857-b03c-51324d3278c1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=574
+  title: Supplement 4
+  slug: 5-supplement-4
+  uuid: 22ca8026-7c46-418b-8feb-a2f44e370c3b
+---

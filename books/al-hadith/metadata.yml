@@ -1,0 +1,39 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=185
+title: Al-hadith
+author: Muhammad Al-Jalali
+slug: al-hadith
+uuid: 1aea8797-4d34-4f2e-a26b-a1ff7ce77f5b
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=185
+  title: The Hadith
+  slug: 1-the-hadith
+  uuid: ac64d7df-6d09-46b8-be91-e18c84691e00
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=185
+  title: Collection of the Hadith By Thee Sunni
+  slug: 2-collection-of-the-hadith-by-thee-sunni
+  uuid: 7c1431f1-d628-4f73-8e17-1a961cdcc6ac
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=185
+  title: Collection of the Hadith By the Shi'a
+  slug: 3-collection-of-the-hadith-by-the-shi-a
+  uuid: 98b21913-72a1-4fd3-addc-e3cb1fc51242
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=185
+  title: All About Ahlul Bayt
+  slug: 4-all-about-ahlul-bayt
+  uuid: 6482b99c-4d8e-4bb8-a7d4-38247ed23112
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=185
+  title: Highlights of Collection of Hadith, Shi'a
+  slug: 5-highlights-of-collection-of-hadith-shi-a
+  uuid: ac799d44-ebe5-44c5-9c72-2f1d1b885038
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=185
+  title: The Golden Chain of Narration
+  slug: 6-the-golden-chain-of-narration
+  uuid: 5cf03f44-8480-4b38-88b8-08a626adf4a8
+---

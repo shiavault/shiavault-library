@@ -1,0 +1,34 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=360
+title: Kashaful Salat
+author: Syed Baqir Nisar Zaidi
+slug: kashaful-salat
+uuid: 320cd95f-f5e0-4648-b503-4c85388283b1
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=360
+  title: Introduction
+  slug: 1-introduction
+  uuid: 99b32361-f897-4516-86d7-f6576e0c61b7
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=360
+  title: Beliefs of Shia
+  slug: 2-beliefs-of-shia
+  uuid: 2b560be2-20f0-4d01-a262-629246265833
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=360
+  title: Tawheed (oneness)
+  slug: 3-tawheed-oneness
+  uuid: f557a3c0-a588-4232-bb5c-fa4d2543ddd6
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=360
+  title: Questioning and Answering in the Grave
+  slug: 4-questioning-and-answering-in-the-grave
+  uuid: 42ba67f3-5562-4ce4-b899-0529e72dbc10
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=360
+  title: Method of Reciting Iqama
+  slug: 5-method-of-reciting-iqama
+  uuid: 10a9f00c-4c65-47e5-8b70-e1d7383e51d9
+---

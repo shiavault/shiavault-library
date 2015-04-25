@@ -1,0 +1,35 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=814
+title: Theology and Non-western Philosophy
+author: Martin Ganeri
+publisher: www.publications.heythrop.ac.uk
+slug: theology-and-non-western-philosophy
+uuid: c6a07983-cfc1-4f47-8abd-aa18f82053f1
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=814
+  title: Introduction
+  slug: 1-introduction
+  uuid: 6d5622d8-a4de-44d7-9fff-50ee4f8a93c2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=814
+  title: '1. Scholastic Theology and Non-Western Philosophy: the work of Thomas Aquinas'
+  slug: 2-1-scholastic-theology-and-non-western-philosophy-the-work-of-thomas-aquinas
+  uuid: dcf1154d-9c6b-4cd2-895e-7be568f6d6ff
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=814
+  title: 2. Contemporary Comparative Theology
+  slug: 3-2-contemporary-comparative-theology
+  uuid: a2043e04-fa49-4027-938a-783f5b0de9ab
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=814
+  title: 'Conclusion: Theological Engagement with Non-Western Philosophy'
+  slug: 4-conclusion-theological-engagement-with-non-western-philosophy
+  uuid: 571cf817-dd0c-4f81-ad5f-be798aac863e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=814
+  title: Notes
+  slug: 5-notes
+  uuid: 30c4710a-7297-43ef-adb4-f193fa7d9a1d
+---

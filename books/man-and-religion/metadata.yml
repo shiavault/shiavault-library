@@ -1,0 +1,29 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=316
+title: Man and Religion
+author: Al Balagh Foundation
+slug: man-and-religion
+uuid: 6c4d79ca-0fb0-4f5e-a0fd-80f210701cb3
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=316
+  title: Introduction
+  slug: 1-introduction
+  uuid: 4b31aa12-2c20-4b2b-ad63-c9452e4e835d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=316
+  title: Mind's Need For Religion
+  slug: 2-mind-s-need-for-religion
+  uuid: 60fd113c-dfb7-444f-a067-f69c90c50126
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=316
+  title: Society's Need For Religion
+  slug: 3-society-s-need-for-religion
+  uuid: ed6459ac-abf4-40ce-bd8d-021818931af7
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=316
+  title: The Testimony of Figures
+  slug: 4-the-testimony-of-figures
+  uuid: eb80d518-1a01-4506-9c86-9de89d40dd02
+---

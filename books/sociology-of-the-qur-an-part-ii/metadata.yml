@@ -1,0 +1,34 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=134
+title: Sociology of the Qur'an Part Ii
+author: Murtadha Mutahhari
+slug: sociology-of-the-qur-an-part-ii
+uuid: 74ccb593-3e28-45c5-beac-60e4d7cd06a9
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=134
+  title: What Is History?
+  slug: 1-what-is-history
+  uuid: 35f27f22-ece1-4f09-bda5-c81793c05c9d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=134
+  title: Scientific History
+  slug: 2-scientific-history
+  uuid: 7a8e491d-17b1-430e-8da9-affda419d080
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=134
+  title: Scientific History Supplement / 1
+  slug: 3-scientific-history-supplement-1
+  uuid: f5d0271d-0432-4675-ac96-1c644d828d84
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=134
+  title: Conclusions
+  slug: 4-conclusions
+  uuid: 5dbbe194-7a56-42d1-87ba-18c654630b08
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=134
+  title: Criticism of Historical Materialism
+  slug: 5-criticism-of-historical-materialism
+  uuid: b8463234-c2cc-4076-9d61-80864215ea7c
+---

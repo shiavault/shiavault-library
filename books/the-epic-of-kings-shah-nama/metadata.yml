@@ -1,0 +1,101 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=820
+title: The Epic of Kings [shah-nama]
+author: Ferdowsi
+translator: Helen Zimmern
+publisher: www.classics.mit.edu
+slug: the-epic-of-kings-shah-nama
+uuid: 1c24a526-920d-4fe2-811f-ab567a3f22c8
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=820
+  title: The Shahs of Old
+  slug: 1-the-shahs-of-old
+  uuid: e3a217b7-7153-4b3b-bf29-b68a59047782
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=820
+  title: Feridoun
+  slug: 2-feridoun
+  uuid: d1852b8d-2d43-48a5-8691-47ad32e461be
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=820
+  title: Zal
+  slug: 3-zal
+  uuid: eba34cf6-32ee-4561-b1f5-955ee746ff8a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=820
+  title: Zal and Rudabeh
+  slug: 4-zal-and-rudabeh
+  uuid: a236dad9-dd91-470b-a9d0-b790649005aa
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=820
+  title: Rustem
+  slug: 5-rustem
+  uuid: 7fb4cefe-5b48-4a3e-b638-3e8cdd85d9e8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=820
+  title: The March into Mazinderan
+  slug: 6-the-march-into-mazinderan
+  uuid: 3aef6d34-434a-4b5c-9d78-c57a0d3eb584
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=820
+  title: Kai Kaous Committeth More Follies
+  slug: 7-kai-kaous-committeth-more-follies
+  uuid: 169e4c91-102f-40d0-be6e-5993dab0d5d9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=820
+  title: Rustem and Sohrab
+  slug: 8-rustem-and-sohrab
+  uuid: e4dc5750-5528-4afa-8484-cfdfebb528c3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=820
+  title: Saiawush
+  slug: 9-saiawush
+  uuid: a2f990cf-c545-4b86-aa05-111f64ce600d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=820
+  title: The Return of Kai Khosrau
+  slug: 10-the-return-of-kai-khosrau
+  uuid: 3bb05292-69e9-4e92-9567-19cb169c024a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=820
+  title: Firoud
+  slug: 11-firoud
+  uuid: 55b2b69a-1c6f-4a92-9913-d91c69dffb61
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=820
+  title: The Vengeance of Kai Khosrau
+  slug: 12-the-vengeance-of-kai-khosrau
+  uuid: 5dfdd130-15f4-4901-b7fc-12d421480810
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=820
+  title: Byzun and Manijeh
+  slug: 13-byzun-and-manijeh
+  uuid: 75e7ddc8-8b1a-49fa-a509-c59e5304feda
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=820
+  title: The Defeat of Afrasiyab
+  slug: 14-the-defeat-of-afrasiyab
+  uuid: 3109092c-3791-4308-a940-3297e3577faa
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=820
+  title: The Passing of Kai Khosrau
+  slug: 15-the-passing-of-kai-khosrau
+  uuid: 81047190-c321-4b0b-ad13-7fd348aca392
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=820
+  title: Isfendiyar
+  slug: 16-isfendiyar
+  uuid: d3be9d54-7825-4325-9b0f-ccf54dc01daa
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=820
+  title: Rustem and Isfendiyar
+  slug: 17-rustem-and-isfendiyar
+  uuid: 450e6580-1bd3-41ce-be8c-a7a4b586e482
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=820
+  title: The Death of Rustem
+  slug: 18-the-death-of-rustem
+  uuid: 078bbe76-58ee-4d1a-9b43-ecb32e92351f
+---

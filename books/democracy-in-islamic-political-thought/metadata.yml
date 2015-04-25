@@ -1,0 +1,70 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=847
+title: Democracy in Islamic Political Thought
+author: Dr. Azzam S. Tamimi
+publisher: www.e-prism.org
+slug: democracy-in-islamic-political-thought
+uuid: 669cf937-0ea8-49be-8c55-5b63e7bc9268
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=847
+  title: Abstract
+  slug: 1-abstract
+  uuid: 4b2ea6c0-141c-4d6d-832d-b75e2fd0e131
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=847
+  title: "[Introduction]"
+  slug: 2-introduction
+  uuid: c72ec3d3-12a1-432e-bc48-c485379721b8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=847
+  title: "[Khairuddin At-Tunisi (1810-99)]"
+  slug: 3-khairuddin-at-tunisi-1810-99
+  uuid: a64fe363-62d4-4a49-b5e1-2ba20c450c64
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=847
+  title: "[Jamal ad-Din Al-Afghani (1838-97)]"
+  slug: 4-jamal-ad-din-al-afghani-1838-97
+  uuid: 166fa4a6-b13c-43b5-ae5e-ffb232e45ac1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=847
+  title: "[Muhammad Abduh (1849-1905)]"
+  slug: 5-muhammad-abduh-1849-1905
+  uuid: dea422c4-7749-40d5-8fa0-33c1c10741d4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=847
+  title: "[Abdurrahman Al-Kawakibi (1849-1903)]"
+  slug: 6-abdurrahman-al-kawakibi-1849-1903
+  uuid: e581282d-0feb-4456-97b2-c9fa2fc1b790
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=847
+  title: "[Muhammad Rashid Rida (1865-1935)]"
+  slug: 7-muhammad-rashid-rida-1865-1935
+  uuid: 2ccd2d59-b2f3-4c31-8820-480a23de6de9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=847
+  title: "[Hassan Al-Banna]"
+  slug: 8-hassan-al-banna
+  uuid: 9d8ea9c8-36c4-4487-a0b4-baa8cd573799
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=847
+  title: "[Sayyid Qutb (1906-66) and Mawdudi (1903-79)]"
+  slug: 9-sayyid-qutb-1906-66-and-mawdudi-1903-79
+  uuid: e60043e3-c57f-4b46-8322-1adc96627829
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=847
+  title: "[Sa'id Hawwa]"
+  slug: 10-sa-id-hawwa
+  uuid: d125638a-c803-4185-b474-2bb43035472a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=847
+  title: "[Bennabi]"
+  slug: 11-bennabi
+  uuid: 6867686f-f44c-4f1a-a745-07d08430fe45
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=847
+  title: Notes
+  slug: 12-notes
+  uuid: 97a01b02-a4d6-4e89-9443-e88e0bc60ed6
+---

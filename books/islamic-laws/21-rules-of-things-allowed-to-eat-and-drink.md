@@ -1,7 +1,7 @@
 Rules of Things Allowed to Eat and Drink
 ========================================
 
-**Issue 2633:** \* All birds, like eagle, vultures and wild falcons
+***Issue*** 2633: \* All birds, like eagle, vultures and wild falcons
 having a claw and talon, are haraam to eat. And all such birds whose
 gliding is more than flapping the wings, and have talons, are also
 haraam to eat. Those whose flapping of the wings while flying, is more
@@ -18,12 +18,12 @@ classified as winged birds, like the bats, are haraam; similarly, the
 bees, the mosquitoes, and other flying insects are, as an obligatory
 precaution, haraam.
 
-**Issue 2634:** If a part which possesses life is removed from the body
-of a living animal, for example, if the fatty tail or some flesh is
+***Issue*** 2634: If a part which possesses life is removed from the
+body of a living animal, for example, if the fatty tail or some flesh is
 removed from the body of a living sheep, it is najis and haraam to eat.
 
-**Issue 2635:** \* Certain parts of the halal animals are haraam to eat.
-They are fourteen:
+***Issue*** 2635: \* Certain parts of the halal animals are haraam to
+eat. They are fourteen:
 
 (i) Blood
 
@@ -57,30 +57,32 @@ the birds, their blood and excrement is definitely haraam, and apart
 from these two, the parts enumerated in the above list are haraam, as a
 measure of precaution.
 
-**Issue 2636:** \* It is haraam to drink the urine of all haraam
+***Issue*** 2636: \* It is haraam to drink the urine of all haraam
 animals, and also of those whose meat is halal to eat, including, as an
 obligatory precaution, that of a camel. However, the urine of a camel, a
 cow or a sheep can be consumed, if recommended for any medical
 treatment.
 
-**Issue 2637:** \* It is haraam to eat earth and also sand, as an
+***Issue*** 2637: \* It is haraam to eat earth and also sand, as an
 obligatory precaution. However, there is no harm in taking Daghistsan or
 Armenian clay as a medicine if there be no alternative. It is also
 permissible to take a small quantity of the clay of the Shrine of Imam
-Husayn (usually called Turbatul Husayn) for the purpose of cure for
-illness. But it is better to dissolve a small quantity of Turbatul
-Husayn in water and then drink it.
+Husayn (usually called
 
-**Issue 2638:** It is not haraam to swallow the mucus (liquid running
+Turbatul Husayn) for the purpose of cure for illness. But it is better
+to dissolve a small quantity of Turbatul Husayn in water and then drink
+it.
+
+***Issue*** 2638: It is not haraam to swallow the mucus (liquid running
 from the nose) and phlegm which may have come in one's mouth. Also,
 there is no objection in swallowing the food which comes out from
 between the teeth at the time of tooth picking.
 
-**Issue 2639:** It is haraam to eat an absolutely harmful thing, or
+***Issue*** 2639: It is haraam to eat an absolutely harmful thing, or
 anything which may cause death.
 
-**Issue 2640:** \* It is Makrooh to eat the meat of a horse, a mule or a
-donkey. If a person has sexual intercourse with them those animals
+***Issue*** 2640: \* It is Makrooh to eat the meat of a horse, a mule or
+a donkey. If a person has sexual intercourse with them those animals
 become haraam, and as a precaution, their offspring become haraam also,
 and their urine and dung become Najis. Such animals should be taken out
 of the city and should be sold at some other place. And as for the
@@ -93,20 +95,20 @@ same will be the case with their offsprings. Such an animal should be
 instantly killed and burnt, and one, who has had sexual intercourse with
 the animal should pay its price to its owner.
 
-**Issue 2641:** \* If the kid of a goat or a lamb sucks the milk of a
+***Issue*** 2641: \* If the kid of a goat or a lamb sucks the milk of a
 female pig to such an extent that its flesh and bones grow from it and
 gain strength, itself and its offspring become haraam, and if the
 quantity of milk sucked by it is less, it will be necessary that it is
 confined (Istibra) as prescribed in Shariah and thereafter, it becomes
-halal. And its Istibra is that it should suck Clean (tahir/pak) milk for
-seven days, or if it does not need milk, it should graze grass for seven
-days. As an obligatory precaution, this law applies to the calves, and
-all the young ones of halal animals. Also, it is haraam to eat the meat
-of an animal which eats najasat and it becomes halal when its Istibra is
-fulfilled. The manner of observing Istibra has been explained in rule
-226.
+halal. And its Istibra is that it should suck Clean (*tahir/pak* ) milk
+for seven days, or if it does not need milk, it should graze grass for
+seven days. As an obligatory precaution, this law applies to the calves,
+and all the young ones of halal animals. Also, it is haraam to eat the
+meat of an animal which eats najasat and it becomes halal when its
+Istibra is fulfilled. The manner of observing Istibra has been explained
+in rule 226.
 
-**Issue 2642:** \* Drinking alcoholic beverage is haraam, and in some
+***Issue*** 2642: \* Drinking alcoholic beverage is haraam, and in some
 traditions (Ahadith), it has been declared as among the greatest sins.
 
 Imam Ja'far Sadiq (A.S.) says: “Alcohol is the root of all evils and
@@ -121,20 +123,20 @@ of Judgement his face will be dark, and his tongue will come out of his
 mouth, the saliva will fall on his chest and he will desperately
 complain of thirst”.
 
-**Issue 2643:** \* To eat at a table at which people are drinking
+***Issue*** 2643: \* To eat at a table at which people are drinking
 alcohol is haraam and similarly, to sit at that table where people are
 drinking alcohol is haraam, as a precaution, if one would be reckoned
 among them.
 
-**Issue 2644:** It is obligatory upon every Muslim to save the life of a
-Muslim, who may be dying of hunger or thirst, by providing him enough to
-eat or drink.
+***Issue*** 2644: It is obligatory upon every Muslim to save the life of
+a Muslim, who may be dying of hunger or thirst, by providing him enough
+to eat or drink.
 
 Eating Manners
 --------------
 
-**Issue 2645:** \* There are certain Mustahab rules to be observed while
-taking a meal; they are as follows:
+***Issue*** 2645: \* There are certain*Mustahab* rules to be observed
+while taking a meal; they are as follows:
 
 (i) Washing both the hands before taking a meal.
 
@@ -151,8 +153,8 @@ his hands first, and thereafter other persons should follow him till it
 is the turn of the host.
 
 (iv) One should say Bismillah before starting to eat, and if there are
-several dishes, it is Mustahab to say Bismillah before partaking of each
-of the dishes.
+several dishes, it is*Mustahab* to say Bismillah before partaking of
+each of the dishes.
 
 (v) One should eat with one's right hand.
 
@@ -195,7 +197,7 @@ place one's right foot on one's left foot.
 Acts which are unworthy to do while taking a meal
 -------------------------------------------------
 
-Issue 2646: \*
+***Issue*** 2646: \*
 
 (i) To eat without being hungry.
 
@@ -225,8 +227,8 @@ remains on it.
 Manners of Drinking Water
 -------------------------
 
-**Issue 2647:** There are certain acts which are Mustahab while drinking
-water; they are as follows:
+***Issue*** 2647: There are certain acts which are*Mustahab* while
+drinking water; they are as follows:
 
 (i) Water should be drunk slowly as if it were sucked.
 
@@ -242,7 +244,7 @@ after drinking.
 (vi) After drinking water, one should remember Imam Husayn (A.S.) and
 his Ahlul Bayt (A.S.), and curse the enemies who slew him.
 
-**Issue 2648:** It is unworthy to drink too much water; to drink water
+***Issue*** 2648: It is unworthy to drink too much water; to drink water
 after eating fatty food; and to drink water while standing during the
 night. It is also unworthy to drink water with one's left hand; to drink
 water from the side of a container which is cracked or chipped off, or

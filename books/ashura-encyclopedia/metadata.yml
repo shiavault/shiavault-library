@@ -1,0 +1,260 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=765
+title: Ashura’ Encyclopedia
+author: Jawad Muhaddathi
+publisher: http://www.al-islam.org
+slug: ashura-encyclopedia
+uuid: 879699ab-9d67-49ef-8023-0e0e1ace83fe
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: A - Aabis Ibn Abi Shabib Al-Shakiry
+  slug: 1-a-aabis-ibn-abi-shabib-al-shakiry
+  uuid: 97b5512b-a6ed-47e2-9450-6a9ce52152da
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: A - Abdullah Ibn Abbas
+  slug: 2-a-abdullah-ibn-abbas
+  uuid: 5dfc978b-3387-441b-b800-6f68e4728d50
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: A - Anees Ibn Ma'qel Al-Asbahy
+  slug: 3-a-anees-ibn-ma-qel-al-asbahy
+  uuid: e0f79ef2-58ef-4a19-900c-c5c4ce3f10f2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: A - Aslam, the Turkish slave
+  slug: 4-a-aslam-the-turkish-slave
+  uuid: 3f7ef09f-70c1-4eea-9f06-470c7038ab15
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: A - Atiyya
+  slug: 5-a-atiyya
+  uuid: 81b7444f-4cfa-4694-a4ad-84a94eb43f03
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: A - Awn Ibn Abdullah Ibn Ja’far
+  slug: 6-a-awn-ibn-abdullah-ibn-ja-far
+  uuid: fc75a8ba-e1f1-487c-bc23-4618783a3365
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: A - Awn Ibn Ja’far Ibn Abi Talib
+  slug: 7-a-awn-ibn-ja-far-ibn-abi-talib
+  uuid: f41b73d5-69a2-43c4-b408-781a21daf4bf
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: B - Bishr Ibn ‘Amr Alhadhrami
+  slug: 8-b-bishr-ibn-amr-alhadhrami
+  uuid: bc8345a6-734c-4577-95f8-c8a461ff94d8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: B - Burayr Ibn Khudhair Alhamadani
+  slug: 9-b-burayr-ibn-khudhair-alhamadani
+  uuid: d39d708a-1094-42ff-ba2b-52d9c6126e8b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: D - Al-Dhahhak Ibn Abdullah Al-Mushrefi
+  slug: 10-d-al-dhahhak-ibn-abdullah-al-mushrefi
+  uuid: 9202e34e-b787-49fa-8cd4-eed6abfbeea0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: H - Habib Ibn Muthaher
+  slug: 11-h-habib-ibn-muthaher
+  uuid: 175403ea-dc36-4636-9a12-e58505e75c0a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: H - Hafhaf Ibn Muhanned Alrasibi
+  slug: 12-h-hafhaf-ibn-muhanned-alrasibi
+  uuid: fe73997e-6576-408f-9624-eb05256f59ff
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: H - Hakim Ibn Tufail
+  slug: 13-h-hakim-ibn-tufail
+  uuid: cb0d6675-8117-47d1-9358-39f01400bdf0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: H - Hameed Ibn Muslim Al-Azdi
+  slug: 14-h-hameed-ibn-muslim-al-azdi
+  uuid: ae755ebd-76af-43a8-abc8-3138f2906f14
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: H - Hani Ibn Urwah Al-Sib'eey
+  slug: 15-h-hani-ibn-urwah-al-sib-eey
+  uuid: 6dd0fa8b-6b85-4408-94bf-a6513c4b57fd
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: H - Harmalah
+  slug: 16-h-harmalah
+  uuid: ae91f6c5-e668-4313-98f8-6dfa0e05d93d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: H - Hilal Ibn Nafi'i
+  slug: 17-h-hilal-ibn-nafi-i
+  uuid: 3e29f3a8-2a97-4efb-944f-9a0d3bc8dbf4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: H - Al-Husayn Ibn Numair
+  slug: 18-h-al-husayn-ibn-numair
+  uuid: a8036c09-3118-4591-a302-5ddde3e13a8f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: J - Ja’far Ibn Ali Ibn Abi Talib
+  slug: 19-j-ja-far-ibn-ali-ibn-abi-talib
+  uuid: be2f6ed8-2073-451a-9360-d7c138e1967d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: J - Jabir Ibn Abdullah Al-Ansari
+  slug: 20-j-jabir-ibn-abdullah-al-ansari
+  uuid: 1d92934a-4581-4519-91c0-448e20d20790
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: J - Jibleh Ibn Ali Al-Sheybani
+  slug: 21-j-jibleh-ibn-ali-al-sheybani
+  uuid: feef7c27-bbc9-48c9-b82f-fef1bc1d0927
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: J - Jon, the black slave
+  slug: 22-j-jon-the-black-slave
+  uuid: b843a75c-9910-4b91-aa67-8709711841db
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: J - Jonadah Ibn Ka'ab Alansari
+  slug: 23-j-jonadah-ibn-ka-ab-alansari
+  uuid: a49c60fe-1a36-465e-b231-2c8d22d70f40
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: J - Jondob Ibn Hojair Alkoholani
+  slug: 24-j-jondob-ibn-hojair-alkoholani
+  uuid: 9fc62b25-92f5-4f17-b0f2-f9734ca2b987
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: K - Al-Kumayt Ibn Zayd Al-Asadi
+  slug: 25-k-al-kumayt-ibn-zayd-al-asadi
+  uuid: dad6dd6b-07c7-45e1-a5f2-a83b5ba57cd5
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: L - Layla Bint Abi Morra Al-Thaqafi
+  slug: 26-l-layla-bint-abi-morra-al-thaqafi
+  uuid: 844cfe70-553d-4e7e-8c46-ace6bddcb97c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: M - Mane'e Ibn Zyad
+  slug: 27-m-mane-e-ibn-zyad
+  uuid: 5191f2a7-7297-4ec7-a08c-98b283b9d64a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: M - Muhammad Ibn Al-Ash'ath
+  slug: 28-m-muhammad-ibn-al-ash-ath
+  uuid: 4cfef034-85c5-477d-860e-f75585f4aa40
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: M - Muhteshem Al-Kashany
+  slug: 29-m-muhteshem-al-kashany
+  uuid: ae089f89-1702-4ce8-b385-a57629424a9a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: M - Muhammad Ibn Al-Hanafiyyah
+  slug: 30-m-muhammad-ibn-al-hanafiyyah
+  uuid: 1fe68101-a4b4-4ed4-ad2c-ec62d2ffa4ea
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: M - Al-Mukhtar Al-Thaqafi
+  slug: 31-m-al-mukhtar-al-thaqafi
+  uuid: 4ce735ed-ea73-4cad-9370-089c04ed3eba
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: M - Muslim Ibn Uqbah
+  slug: 32-m-muslim-ibn-uqbah
+  uuid: 55d44232-0d45-488d-84c9-ebc696107c79
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: M - Muhajir Ibn Aws
+  slug: 33-m-muhajir-ibn-aws
+  uuid: 51db1fae-63e8-44f5-a942-456af431c6d6
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: N - Nafi'i Ibn Hilal
+  slug: 34-n-nafi-i-ibn-hilal
+  uuid: d43c2e97-e5fe-4550-a63d-78642cf99019
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: Q - Qarib (Servant of Imam Husayn)
+  slug: 35-q-qarib-servant-of-imam-husayn
+  uuid: 2dc82146-c2fe-4076-a0f6-9b50b07d3f21
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: Q - Al-Qassim Ibn Al Hasan
+  slug: 36-q-al-qassim-ibn-al-hasan
+  uuid: adb38aa1-3f31-479d-8c21-9db9c03386e0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: R - Al-Rabab
+  slug: 37-r-al-rabab
+  uuid: e16ca602-2bab-4bbe-adc5-1b074bd47d46
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: S - Sahl Ibn Saad
+  slug: 38-s-sahl-ibn-saad
+  uuid: f19d57a8-e1eb-4cf7-994e-d649441be2eb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: S - Sarjoon (Sir Jon)
+  slug: 39-s-sarjoon-sir-jon
+  uuid: a451d9d7-29ff-499c-afa5-e87d770596f8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: S - Shabib Ibn Abdullahh
+  slug: 40-s-shabib-ibn-abdullahh
+  uuid: 09889dac-4ef8-4384-b5a1-bb23af28a12a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: S - Shorayh Al-Qadhi
+  slug: 41-s-shorayh-al-qadhi
+  uuid: 4cfa6f1b-f257-4015-bd33-b9b449f00831
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: T - Al Tawaboon
+  slug: 42-t-al-tawaboon
+  uuid: 70d3f041-8ee3-4324-aff6-1008cfe798ba
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: U - ‘Ubayd Allah Ibn Ziyad
+  slug: 43-u-ubayd-allah-ibn-ziyad
+  uuid: 6809e4cb-4a11-4237-8980-34c3ce4dee2c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: U - Ummayah Ibn Sa'ad Alta'aey
+  slug: 44-u-ummayah-ibn-sa-ad-alta-aey
+  uuid: 9413158c-8dc1-4f43-8835-dfa09f88aab0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: U - ‘Urwa Ibn Battan Altha'leby
+  slug: 45-u-urwa-ibn-battan-altha-leby
+  uuid: 31f79b09-dd28-45c8-bc1a-13979dd103bb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: U - Uthman Ibn Ali Ibn Abi Talib
+  slug: 46-u-uthman-ibn-ali-ibn-abi-talib
+  uuid: 9c4386dc-7474-4a80-9a67-325a754b8979
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: Y - Yazeed Ibn Mu’awiyyah
+  slug: 47-y-yazeed-ibn-mu-awiyyah
+  uuid: a14b65e9-967a-4c62-97e0-2c75918f9227
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: Y - Yazeed Ibn Thabeet Al-Abdy
+  slug: 48-y-yazeed-ibn-thabeet-al-abdy
+  uuid: 1ced3220-9054-42c5-8775-83218ce896f4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: Z - Zayd Ibn Al-Arqam
+  slug: 49-z-zayd-ibn-al-arqam
+  uuid: 3885694a-e8d7-4fae-b1b2-acbe4c46642f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=765
+  title: Z - Sayyida Zaynab Bint Ali (as)
+  slug: 50-z-sayyida-zaynab-bint-ali-as
+  uuid: 0fe3397c-afe0-4169-9950-246d8e8d7e58
+---

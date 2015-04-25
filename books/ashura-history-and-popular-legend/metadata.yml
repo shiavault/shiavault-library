@@ -1,0 +1,29 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=343
+title: Ashura - History and Popular Legend
+author: Ayatollah Murtada Mutahhari
+slug: ashura-history-and-popular-legend
+uuid: 219b394d-0dd8-4b9e-b894-ca73f9701f04
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=343
+  title: First Sermon
+  slug: 1-first-sermon
+  uuid: 3dd61694-212b-4df1-ae6e-bcb49c1e71cd
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=343
+  title: Second Sermon
+  slug: 2-second-sermon
+  uuid: 93c0f126-875e-4ecb-bd5a-65544ec3fe56
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=343
+  title: Third Sermon
+  slug: 3-third-sermon
+  uuid: c4a9b8a6-3f88-4768-b0f1-15fc3413cc10
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=343
+  title: Fourth Sermon
+  slug: 4-fourth-sermon
+  uuid: b9f5dd2d-6e5e-4aec-8eb3-d02fc4553de2
+---

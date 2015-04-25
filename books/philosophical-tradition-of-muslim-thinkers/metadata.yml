@@ -1,0 +1,20 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=810
+title: Philosophical Tradition of Muslim Thinkers
+author: Mirza Ashraf
+publisher: www.academia.edu
+slug: philosophical-tradition-of-muslim-thinkers
+uuid: a5705fb7-1add-4ee1-880d-899e36dd8cd2
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=810
+  title: "[Preface]"
+  slug: 1-preface
+  uuid: 66f41c88-3016-4fda-9d0c-354ab4667f30
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=810
+  title: "[History of Muslim Philosophers]"
+  slug: 2-history-of-muslim-philosophers
+  uuid: 06728e2f-6a13-472f-a9d5-f13d42309841
+---

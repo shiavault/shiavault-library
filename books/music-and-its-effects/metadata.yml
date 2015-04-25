@@ -1,105 +1,19 @@
 ---
-source: :alislam
-source_url: http://www.al-islam.org/music-and-its-effects-a-h-sheriff
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=282
+title: Music and Its Effects
 author: A. H. Sheriff
-publisher: Bilal Muslim Mission of Tanzania
-title: Music and its Effects
 slug: music-and-its-effects
-uuid: ce181e56-75d0-411d-8578-cefff84b833d
-description: |
-  In this booklet, the author discusses the detrimental effects of music
-  on our lives. He talks about the origin of music and its effects from
-  various points of views. He also discusses what the Qur'an and
-  narrations of the Ahlul Bayt have to say on this matter.
+uuid: ac739a56-5e31-4811-bc2b-d43f2beac71e
 chapters:
-- source: :alislam
-  source_url: http://www.al-islam.org/music-and-its-effects-a-h-sheriff/foreword
-  title: Foreword
-  slug: 1-foreword
-  uuid: 25091b8c-d670-4020-9231-3b1298acf57f
-- source: :alislam
-  source_url: http://www.al-islam.org/music-and-its-effects-a-h-sheriff/what-music
-  title: What is Music?
-  slug: 2-what-is-music
-  uuid: 4d1e9a98-b8ec-4efa-bbe5-e75dc21c52ea
-- source: :alislam
-  source_url: http://www.al-islam.org/music-and-its-effects-a-h-sheriff/origin-music
-  title: Origin of Music
-  slug: 3-origin-of-music
-  uuid: 6df32b82-8d10-429f-838d-49abfbdb47e7
-- source: :alislam
-  source_url: http://www.al-islam.org/music-and-its-effects-a-h-sheriff/effects-music-nervous-system
-  title: Effects of music on Nervous System
-  slug: 4-effects-of-music-on-nervous-system
-  uuid: d359d081-e96e-40c7-a8d5-b882c502613a
-- source: :alislam
-  source_url: http://www.al-islam.org/music-and-its-effects-a-h-sheriff/some-other-ailments-and-music
-  title: Some other Ailments and Music
-  slug: 5-some-other-ailments-and-music
-  uuid: e92384a0-a3e5-466a-ad80-2b5e81af4b1f
-- source: :alislam
-  source_url: http://www.al-islam.org/music-and-its-effects-a-h-sheriff/philosophical-point-view
-  title: From Philosophical Point of View
-  slug: 6-from-philosophical-point-of-view
-  uuid: c7a45884-7e0b-418b-b1f9-f5361e1a5fc5
-- source: :alislam
-  source_url: http://www.al-islam.org/music-and-its-effects-a-h-sheriff/ethical-point-view
-  title: From the Ethical Point of View
-  slug: 7-from-the-ethical-point-of-view
-  uuid: 79a716a1-0396-40d7-9e71-009df1246f6c
-- source: :alislam
-  source_url: http://www.al-islam.org/music-and-its-effects-a-h-sheriff/effect-children
-  title: Effect on the Children
-  slug: 8-effect-on-the-children
-  uuid: bb93e92b-201f-4a93-b30b-dd8c83be75a0
-- source: :alislam
-  source_url: http://www.al-islam.org/music-and-its-effects-a-h-sheriff/quran-music
-  title: The Quran on Music
-  slug: 9-the-quran-on-music
-  uuid: e8b99a2e-87fc-4e63-bfef-aae97799ec35
-- source: :alislam
-  source_url: http://www.al-islam.org/music-and-its-effects-a-h-sheriff/some-traditions-music
-  title: Some Traditions on Music
-  slug: 10-some-traditions-on-music
-  uuid: ba2b30f0-8415-4ab6-a47e-3ae1b31e3bbf
-- source: :alislam
-  source_url: http://www.al-islam.org/music-and-its-effects-a-h-sheriff/music-companions-holy-prophet-s
-  title: Music as per the Companions of the Holy Prophet (S)
-  slug: 11-music-as-per-the-companions-of-the-holy-prophet-s
-  uuid: 0122f516-67ae-42f8-8f23-7728be17f698
-- source: :alislam
-  source_url: http://www.al-islam.org/music-and-its-effects-a-h-sheriff/music-light-traditions
-  title: Music in the Light of Traditions
-  slug: 12-music-in-the-light-of-traditions
-  uuid: c6fe56e0-a911-46f4-bc51-f4eec8c6dfb7
-- source: :alislam
-  source_url: http://www.al-islam.org/music-and-its-effects-a-h-sheriff/music-and-last-epoch
-  title: Music and the Last Epoch
-  slug: 13-music-and-the-last-epoch
-  uuid: a9861ef2-21e6-4d7a-90e2-5d664b0c468f
-- source: :alislam
-  source_url: http://www.al-islam.org/music-and-its-effects-a-h-sheriff/singing-and-adultery
-  title: Singing and Adultery
-  slug: 14-singing-and-adultery
-  uuid: 93ef696c-7bed-4c79-83c3-4e2b0e5b6ee9
-- source: :alislam
-  source_url: http://www.al-islam.org/music-and-its-effects-a-h-sheriff/effects-music
-  title: Effects of Music
-  slug: 15-effects-of-music
-  uuid: 221022fc-99a0-4125-bbee-7782f018d82e
-- source: :alislam
-  source_url: http://www.al-islam.org/music-and-its-effects-a-h-sheriff/musicians-fate
-  title: Musicians Fate
-  slug: 16-musicians-fate
-  uuid: bd331258-f349-4fca-8a55-ef02bd8e766e
-- source: :alislam
-  source_url: http://www.al-islam.org/music-and-its-effects-a-h-sheriff/influence-music
-  title: Influence of Music
-  slug: 17-influence-of-music
-  uuid: 7d723d79-950c-4162-912d-10b3d22bff73
-- source: :alislam
-  source_url: http://www.al-islam.org/music-and-its-effects-a-h-sheriff/list-books-referred
-  title: List of the Books referred to
-  slug: 18-list-of-the-books-referred-to
-  uuid: ad132b79-a4da-4d5c-9fb5-3fa8d3470ae6
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=282
+  title: Forward
+  slug: 1-forward
+  uuid: 9857a32c-f535-4717-abfb-2b31f368eeec
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=282
+  title: "(7) Effect On the Children"
+  slug: 2-7-effect-on-the-children
+  uuid: 87566460-96d5-4663-b4aa-95ee401168a8
 ---

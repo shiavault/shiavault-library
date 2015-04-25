@@ -1,0 +1,49 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=852
+title: 'The Caste System of India: a Very Rudimentary Summary'
+publisher: www.umsl.edu
+slug: the-caste-system-of-india-a-very-rudimentary-summary
+uuid: 7efa9c0d-ad9c-41c2-9e2c-5a341fc27124
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=852
+  title: Background
+  slug: 1-background
+  uuid: 2ebcc1a4-863b-460c-8305-a9ec4e5fd965
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=852
+  title: The Beginning of the Caste System
+  slug: 2-the-beginning-of-the-caste-system
+  uuid: 122c1a35-2e5d-4d90-bc58-95123ad6e961
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=852
+  title: The Religious form of Caste System
+  slug: 3-the-religious-form-of-caste-system
+  uuid: 6bb5d13e-afa0-40d0-a52c-ee75581c9cc1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=852
+  title: The Confusing Caste System
+  slug: 4-the-confusing-caste-system
+  uuid: 3b594dde-5611-4d85-8eab-d76d459994c1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=852
+  title: Untouchables
+  slug: 5-untouchables
+  uuid: eb411d99-539e-48dc-81fc-5242dfd3082e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=852
+  title: The Non-Hindus in Caste System
+  slug: 6-the-non-hindus-in-caste-system
+  uuid: 2eab8515-297e-485f-ac86-c1695b30bd44
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=852
+  title: 'A Former Practice: Sati - The burning of the widow'
+  slug: 7-a-former-practice-sati-the-burning-of-the-widow
+  uuid: fee70400-c9d8-4f9d-b3ab-c8fff94d6cd5
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=852
+  title: Caste System in Modern India
+  slug: 8-caste-system-in-modern-india
+  uuid: 0f2cbf41-2a24-4d98-8a1f-8174fd32ee35
+---

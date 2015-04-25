@@ -1,0 +1,125 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=745
+title: The Mystery of Life
+author: Allamah Muhammad Taqi Ja'fari
+publisher: http://www.al-islam.org
+slug: the-mystery-of-life
+uuid: 804f2a92-6729-42e1-8267-311bea8a4345
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: Acknowledgments
+  slug: 1-acknowledgments
+  uuid: 77e709b6-5622-4c6d-b646-037e8d592ecf
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: Preface
+  slug: 2-preface
+  uuid: bacd2bdd-3522-4e83-8d6f-ebabbad740eb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: Recognition in the Domain of Thoughts
+  slug: 3-recognition-in-the-domain-of-thoughts
+  uuid: 7c7e790f-bb1a-4d6d-8134-3cc42fbbdde0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: 'From Science to Philosophy: A Look Inside'
+  slug: 4-from-science-to-philosophy-a-look-inside
+  uuid: c327865f-2ac0-45a7-90fa-a6c34c797849
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: 'Anthropology: A New Scope'
+  slug: 5-anthropology-a-new-scope
+  uuid: bfe54d2d-ca5c-45e1-87d3-73ef497e4f79
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: 'Life: The Hows and Whys'
+  slug: 6-life-the-hows-and-whys
+  uuid: 0c8e1892-a16a-4f24-b817-21986d8f2e46
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: 'Education: The Basics'
+  slug: 7-education-the-basics
+  uuid: 6d804c22-94b7-4e0e-8852-f70471dcfffa
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: How Do Cultures Evolve?
+  slug: 8-how-do-cultures-evolve
+  uuid: 207549f1-9c8f-4c64-8992-e7b51b94acb5
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: 'Man and the Universe: What Should Man Do?'
+  slug: 9-man-and-the-universe-what-should-man-do
+  uuid: 46ae5ab7-c167-40f8-bcd3-9c2c90c836e0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: The “What There Should Be” and “What There Is” System
+  slug: 10-the-what-there-should-be-and-what-there-is-system
+  uuid: f364341f-a32b-4be3-824d-5b9e76371f84
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: Life, Rising Up
+  slug: 11-life-rising-up
+  uuid: 7d85763a-7300-4207-8891-e23dbb5a21e0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: Man and Freedoms
+  slug: 12-man-and-freedoms
+  uuid: 90e4c689-04d6-4816-8355-8e729a1e6372
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: 'In the Society: From Economics to Politics'
+  slug: 13-in-the-society-from-economics-to-politics
+  uuid: 3f03d1f3-632d-472b-a161-91690b048f77
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: A Study of History
+  slug: 14-a-study-of-history
+  uuid: 376ee28e-11d5-4b87-b0d3-1317f37a3494
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: 'Civilizations: The Principles and the Presumptions'
+  slug: 15-civilizations-the-principles-and-the-presumptions
+  uuid: 4f18a05d-30ca-4f19-a3ed-900aec1e8e17
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: 'Men and Women: A Serious Study'
+  slug: 16-men-and-women-a-serious-study
+  uuid: 604998f0-1907-487e-a281-6f5775d9dbc6
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: 'God: From Seeking God to Faith in God'
+  slug: 17-god-from-seeking-god-to-faith-in-god
+  uuid: 5c1ef59a-57c7-4b7a-94f7-d75328df3b29
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: 'Fatalism and Free Will: Which Is the Truth?'
+  slug: 18-fatalism-and-free-will-which-is-the-truth
+  uuid: e9f7ef13-ea23-41e8-9f12-c154683e8545
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: A Look at Human Rights
+  slug: 19-a-look-at-human-rights
+  uuid: eaa82bf1-7ece-46c2-822d-5e9361699f93
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: A Brief Study of the Qur’an
+  slug: 20-a-brief-study-of-the-qur-an
+  uuid: 321eda64-f9ca-4be2-8f75-3af43f1e306c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: Positive Mysticism
+  slug: 21-positive-mysticism
+  uuid: a5d2b7d6-dcbb-4964-88ae-5132d53b8948
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: Arts and Aesthetics
+  slug: 22-arts-and-aesthetics
+  uuid: 11e57a24-5031-4f0d-810e-698f90d0f857
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=745
+  title: What Does Whitehead Tell Us? A Critique of a Book
+  slug: 23-what-does-whitehead-tell-us-a-critique-of-a-book
+  uuid: 8a31c807-937a-4a7b-92ad-6061bcbfdbb2
+---

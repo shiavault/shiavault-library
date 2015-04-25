@@ -1,0 +1,55 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=838
+title: 'The Varieties of Normativity: an Essay On Social Ontology'
+author: Leo Zaibert and Barry Smith
+publisher: www.ist-socrates.berkeley.edu
+slug: the-varieties-of-normativity-an-essay-on-social-ontology
+uuid: 05147b86-40e4-44e3-aab6-b5a3c9a23382
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=838
+  title: "[Introduction]"
+  slug: 1-introduction
+  uuid: af012104-461a-4f6d-a3f9-891b40b4c752
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=838
+  title: I. Hart and Soft Positivism
+  slug: 2-i-hart-and-soft-positivism
+  uuid: 6b6cd49e-8b83-44c4-8f91-9fedf8888c19
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=838
+  title: II. Rawls and Rule-Utilitarianism
+  slug: 3-ii-rawls-and-rule-utilitarianism
+  uuid: 0e67c88e-3ed7-4204-8c09-7717eda3da7e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=838
+  title: III. Searle and Obligations
+  slug: 4-iii-searle-and-obligations
+  uuid: 4f030567-a442-427f-a2c1-37df408f5369
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=838
+  title: IV. On Soft Normativity
+  slug: 5-iv-on-soft-normativity
+  uuid: c9a739f2-9647-46c6-9d00-9eb24adc87c3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=838
+  title: V. On Robust Normativity
+  slug: 6-v-on-robust-normativity
+  uuid: c862d09a-85fc-483b-93ed-d888038474ac
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=838
+  title: VI. The Normativity of Intentions
+  slug: 7-vi-the-normativity-of-intentions
+  uuid: a02ea337-60c6-4072-b8dd-8eff96b410a1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=838
+  title: VII. Conclusion
+  slug: 8-vii-conclusion
+  uuid: 3d1c00c8-86b5-41d1-84fb-50f14479837d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=838
+  title: Notes
+  slug: 9-notes
+  uuid: 68a5d5fa-0fa6-4ce5-b86d-93290bd9348b
+---

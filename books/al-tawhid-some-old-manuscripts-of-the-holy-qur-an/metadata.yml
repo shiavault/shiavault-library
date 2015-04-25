@@ -1,0 +1,44 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=565
+title: Al-tawhid Some Old Manuscripts of the Holy Qur'an
+author: Kazim Mudir Shanehchi
+slug: al-tawhid-some-old-manuscripts-of-the-holy-qur-an
+uuid: 739f66eb-306b-4c26-a2f7-b75cf37e6b4e
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=565
+  title: Introduction
+  slug: 1-introduction
+  uuid: 9fc0708b-91ee-467d-8bdb-3a983deacd33
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=565
+  title: 2. the 'uthmani Codices
+  slug: 2-2-the-uthmani-codices
+  uuid: 7da8ecb7-7d08-4a40-b0cf-b20557836874
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=565
+  title: 4. Codices Attributed To 'ali (a)
+  slug: 3-4-codices-attributed-to-ali-a
+  uuid: b8b13893-5d84-4b84-a633-f78b91dbe474
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=565
+  title: 8. the Codex At Topkapu Sarayi Collection
+  slug: 4-8-the-codex-at-topkapu-sarayi-collection
+  uuid: b405967f-dd5f-4f3a-9238-30ae00efc54f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=565
+  title: 11. Manuscripts Ascribed To the Imams, Sahabah and Tab'iun
+  slug: 5-11-manuscripts-ascribed-to-the-imams-sahabah-and-tab-iun
+  uuid: 879ea6b6-4920-49c1-b219-a0dbc79f03e7
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=565
+  title: 20. Specimens in Kufic Pertaining To the 2nd To 4th Centuries
+  slug: 6-20-specimens-in-kufic-pertaining-to-the-2nd-to-4th-centuries
+  uuid: 64d3296c-a649-4b74-8e31-523d5940d81c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=565
+  title: Notes
+  slug: 7-notes
+  uuid: c50829a6-50ed-4ed9-b069-5218791f6c35
+---

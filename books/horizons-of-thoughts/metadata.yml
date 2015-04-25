@@ -1,0 +1,44 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=590
+title: Horizons of Thoughts
+author: Abu Muhammad Zaynu'l `Abidin
+slug: horizons-of-thoughts
+uuid: eb4a2414-a443-46fb-a614-bef81b3fa22f
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=590
+  title: Preface
+  slug: 1-preface
+  uuid: 29390712-6cf7-477d-8a43-53899da7253f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=590
+  title: Meaning of Ziyarah
+  slug: 2-meaning-of-ziyarah
+  uuid: bda8727a-c49c-4790-8019-aed3c5f3714e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=590
+  title: Ziyarah of Believers
+  slug: 3-ziyarah-of-believers
+  uuid: d835108f-d1be-465a-bc26-95451e5f900a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=590
+  title: The Purpose of Ziyarah
+  slug: 4-the-purpose-of-ziyarah
+  uuid: ff9b3ec6-6de9-4a15-bd21-cdce7dec66cf
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=590
+  title: Another Important Meaning of Al-salam
+  slug: 5-another-important-meaning-of-al-salam
+  uuid: 02802e7b-416f-4668-bffc-8059aa075b0d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=590
+  title: Between Declaring Al-salam & Its Application
+  slug: 6-between-declaring-al-salam-its-application
+  uuid: 0c9cfa5d-1738-4fc9-9cb7-113939722c45
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=590
+  title: End Notes
+  slug: 7-end-notes
+  uuid: 0b8fbc78-8c31-44b5-b2f0-08c2f41379f4
+---

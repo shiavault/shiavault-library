@@ -1,0 +1,54 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=344
+title: The Alchemy of Happiness
+author: Al-Ghazzali
+slug: the-alchemy-of-happiness
+uuid: dcbf2959-d5c2-4280-8693-e11f6fb8f553
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=344
+  title: Editorial Note
+  slug: 1-editorial-note
+  uuid: 5598de46-aba3-4774-a1d2-507d208f11f3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=344
+  title: 'Chapter 1 : the Knowledge of Self'
+  slug: 2-chapter-1-the-knowledge-of-self
+  uuid: c6ca47e9-f718-4e53-b129-ab5c04d7ddca
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=344
+  title: 'Chapter 2 : the Knowledge of God'
+  slug: 3-chapter-2-the-knowledge-of-god
+  uuid: 0d1f8897-58ff-42c1-a3e9-35df97d7a1e3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=344
+  title: 'Chapter 3 : the Knowledge of This World'
+  slug: 4-chapter-3-the-knowledge-of-this-world
+  uuid: 87de1f85-4e88-4084-a091-2b4bfdd5c7c4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=344
+  title: 'Chapter 4 : the Knowledge of the Next World'
+  slug: 5-chapter-4-the-knowledge-of-the-next-world
+  uuid: bae0c683-34ba-408d-b472-77a0b18bd4e5
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=344
+  title: 'Chapter 5 : Concerning Music and Dancing As Aids To the Religious Life'
+  slug: 6-chapter-5-concerning-music-and-dancing-as-aids-to-the-religious-life
+  uuid: 95077219-c6e0-45c2-809f-8c81557bae71
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=344
+  title: 'Chapter 6 : Concerning Self-examination and the Recollection of God'
+  slug: 7-chapter-6-concerning-self-examination-and-the-recollection-of-god
+  uuid: b3309762-8418-4a75-b672-6eb1d8f9f280
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=344
+  title: 'Chapter 7 : Marriage As a Help Or Hindrance To the Religious Life'
+  slug: 8-chapter-7-marriage-as-a-help-or-hindrance-to-the-religious-life
+  uuid: 61ebcb0c-0d66-4452-88bc-d137c0559a9d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=344
+  title: 'Chapter 8 : the Love of God'
+  slug: 9-chapter-8-the-love-of-god
+  uuid: 121549c9-be40-4bf7-b1ea-db37dbcaa77e
+---

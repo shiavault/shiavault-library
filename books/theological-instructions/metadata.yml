@@ -1,0 +1,335 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=709
+title: Theological Instructions
+author: Ayatullah Muhammad Taqi Misbah Yazdi
+translator: Mirza Muḥammad Abbas Rida
+publisher: Institute of Imām Khumaynī (IIK)
+slug: theological-instructions
+uuid: 4485920e-a171-4d75-9923-037a2daa53d4
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: " INTRODUCTION"
+  slug: 1-introduction
+  uuid: 02e2144e-6030-4cfb-b1d3-ee89775a905b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: TRANSLATOR’S NOTE
+  slug: 2-translator-s-note
+  uuid: 1ba6273c-eb88-45f6-879e-fe6b3912096c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: AUTHOR’S PREFACE
+  slug: 3-author-s-preface
+  uuid: 806ac378-10c7-4cb9-b30e-001c61d87958
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON ONE: CONCEPT OF RELIGION'
+  slug: 4-lesson-one-concept-of-religion
+  uuid: c97d621f-6716-4f01-b84a-c156b4c32a97
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON TWO: INQUIRING INTO RELIGION'
+  slug: 5-lesson-two-inquiring-into-religion
+  uuid: 5707070a-8229-450e-97f8-f8eef036db2d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON THREE: THE CONDITIONS NECESSARY TO LIVE AS HUMAN BEINGS'
+  slug: 6-lesson-three-the-conditions-necessary-to-live-as-human-beings
+  uuid: b5aa26c6-f0ab-4fc2-afd6-e1ec478be82d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FOUR: THE WAY OF RESOLVING FUNDAMENTAL ISSUES'
+  slug: 7-lesson-four-the-way-of-resolving-fundamental-issues
+  uuid: 96824ae2-8482-44e1-8f34-8046c0ff8ee3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FIVE: KNOWING GOD'
+  slug: 8-lesson-five-knowing-god
+  uuid: d1011ca4-fd64-47b1-b68d-6d0efef28581
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON SIX: THE SIMPLE WAY OF KNOWING GOD'
+  slug: 9-lesson-six-the-simple-way-of-knowing-god
+  uuid: cfbb1cb4-942f-4ca6-8411-72293a61c34c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON SEVEN: PROOFS OF NECESSARY EXISTENT'
+  slug: 10-lesson-seven-proofs-of-necessary-existent
+  uuid: 7c66c183-7818-4376-9e1f-3b2d46b5ff9c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON EIGHT: ATTRIBUTES OF GOD'
+  slug: 11-lesson-eight-attributes-of-god
+  uuid: a26fe459-74b2-410b-87b9-522488e85da1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON NINE: ATTRIBUTES OF ESSENCE'
+  slug: 12-lesson-nine-attributes-of-essence
+  uuid: a34cec00-dc2b-44d1-8827-1a6d15c2e275
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON TEN: ATTRIBUTES OF ACTION'
+  slug: 13-lesson-ten-attributes-of-action
+  uuid: 57b405d7-d921-4a82-997b-2d67c039082f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON ELEVEN: ADDITIONAL ATTRIBUTES OF ACTION'
+  slug: 14-lesson-eleven-additional-attributes-of-action
+  uuid: 5ba7628b-42e2-4cd1-b82e-d9e5aaa118e1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON TWELVE: ANALYSING THE REASONS FOR DEVIATION'
+  slug: 15-lesson-twelve-analysing-the-reasons-for-deviation
+  uuid: f2975bcc-a2c5-4b42-955e-506190a496a5
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON THIRTEEN: RESOLVING SEVERAL SPURIOUS DOUBTS'
+  slug: 16-lesson-thirteen-resolving-several-spurious-doubts
+  uuid: 3b0bf220-013f-4bef-a2df-562487e7811a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FOURTEEN: THE MATERIALISTIC WORLD VIEW AND ITS CRITICISM'
+  slug: 17-lesson-fourteen-the-materialistic-world-view-and-its-criticism
+  uuid: a9073477-1e6c-4d4e-a5ad-843c29095a14
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FIFTEEN: DIALECTICAL MATERIALISM AND ITS CRITICISM'
+  slug: 18-lesson-fifteen-dialectical-materialism-and-its-criticism
+  uuid: c4b05ee1-0b88-4c31-8081-50614af9ee16
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON SIXTEEN: ONENESS OF GOD'
+  slug: 19-lesson-sixteen-oneness-of-god
+  uuid: 541743ee-b080-447a-931b-e8081dc9d0fe
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON SEVENTEEN: THE MEANING OF THE ONENESS OF THE GOD'
+  slug: 20-lesson-seventeen-the-meaning-of-the-oneness-of-the-god
+  uuid: 3563d3da-d724-4cd1-981a-8f4a49de5c1b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON EIGHTEEN: FREEWILL AND DETERMINISM'
+  slug: 21-lesson-eighteen-freewill-and-determinism
+  uuid: 67aa6228-d835-46c8-a536-66e0fb8200d0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON NINETEEN: DIVINE DECREE AND DESTINY'
+  slug: 22-lesson-nineteen-divine-decree-and-destiny
+  uuid: a1b0818a-f85c-4a4f-a2f7-43e732fc5cb5
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON TWENTY: DIVINE JUSTICE'
+  slug: 23-lesson-twenty-divine-justice
+  uuid: 3ad5eef0-fd04-4de7-ab00-663b1e92780f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON TWENTY-ONE: THE ISSUES CONCERNING PROPHETHOOD'
+  slug: 24-lesson-twenty-one-the-issues-concerning-prophethood
+  uuid: d739bd07-27d1-4618-bae0-5f2cc44e8c2e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON TWENTY-TWO: THE NEED FOR REVELATION AND PROPHETHOOD'
+  slug: 25-lesson-twenty-two-the-need-for-revelation-and-prophethood
+  uuid: 7a4c28b3-99b9-420b-b5fb-d8809a1f6ee6
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON TWENTY-THREE: RESOLVING CERTAIN SOURIOUS DOUBTS'
+  slug: 26-lesson-twenty-three-resolving-certain-sourious-doubts
+  uuid: 8e4ab6df-7a7e-4250-bdb5-760ca1cbb08e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON TWENTY-FOUR: INFALLIBILITY OF THE PROPHETS'
+  slug: 27-lesson-twenty-four-infallibility-of-the-prophets
+  uuid: 73df8356-bc8b-43a2-bf31-7502d1e36dbe
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON TWEWNTY-FIVE: THE REASONS FOR THE INFALLIBILITY OF PROPHETS'
+  slug: 28-lesson-twewnty-five-the-reasons-for-the-infallibility-of-prophets
+  uuid: 0fd54c4a-5d7f-4c7e-94bd-6a111f246bd0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON TWEWNTY-SIX: RESPONSE TO CERTAIN DOUBTS'
+  slug: 29-lesson-twewnty-six-response-to-certain-doubts
+  uuid: 00dcbf7e-8a42-4e7d-957b-f269dc2b1a85
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON TWENTY-SEVEN: MIRACLES'
+  slug: 30-lesson-twenty-seven-miracles
+  uuid: aad0bad6-0030-47db-845c-a2f5630c0ce0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON TWENTY-EIGHT: RESPONSES TO CERTAIN DOUBTS'
+  slug: 31-lesson-twenty-eight-responses-to-certain-doubts
+  uuid: 5f64b6f8-13ea-46db-a282-6e9b4a19d997
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON TWENTY-NINE: CHARACTERISTICS OF THE PROPHET'
+  slug: 32-lesson-twenty-nine-characteristics-of-the-prophet
+  uuid: 663918d3-ab98-4d43-90c0-18d80ec5696e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON THIRTY: PROPHETS AND PEOPLE'
+  slug: 33-lesson-thirty-prophets-and-people
+  uuid: 1c86550c-3aff-4d44-bb2d-fc9e714acdc4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON THIRY-ONE: THE PROPHET OF ISLAM'
+  slug: 34-lesson-thiry-one-the-prophet-of-islam
+  uuid: b7e57d52-e101-43fb-8971-4942e45be6c2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON THIRY-TWO: THE MIRCULOUS NATURE OF THE QUR’AN'
+  slug: 35-lesson-thiry-two-the-mirculous-nature-of-the-qur-an
+  uuid: b961bb26-b898-4319-bfc0-88b1bfc0cbf8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON THIRY-THREE: THE IMMUNITY OF THE QUR’AN FROM ALTERATION'
+  slug: 36-lesson-thiry-three-the-immunity-of-the-qur-an-from-alteration
+  uuid: d46d6b5d-dc68-4f59-870c-8147e3b7bb8d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON THIRTY-FOUR: ISLAM IS UNIVERSAL AND ETERNAL'
+  slug: 37-lesson-thirty-four-islam-is-universal-and-eternal
+  uuid: 26f90822-1d9c-4d41-9eb2-3422d7e4b8b9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON THIRY-FIVE: THE SEAL OF PROPHECY'
+  slug: 38-lesson-thiry-five-the-seal-of-prophecy
+  uuid: f410b9ac-74aa-4a76-ae76-ff3c03118857
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON THIRTY-SIX: IMĀMAH'
+  slug: 39-lesson-thirty-six-imamah
+  uuid: 98d97961-82e5-4b56-86e1-a29a98fb8843
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON THIRY-SEVEN: THE NEED FOR AN IMAM'
+  slug: 40-lesson-thiry-seven-the-need-for-an-imam
+  uuid: 9f1bd081-b3c5-4209-a06e-394faad26830
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON THIRTY-EIGHT: THE APPOINTMENT OF AN IMAM'
+  slug: 41-lesson-thirty-eight-the-appointment-of-an-imam
+  uuid: bd8925d6-6699-4c9a-a900-7e9c40d74fad
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON THIRTY-NINE: THE KNOWLEDGE AND THE INFFALIBILITY OF THE IMAM'
+  slug: 42-lesson-thirty-nine-the-knowledge-and-the-inffalibility-of-the-imam
+  uuid: a599d33a-fd7c-4dec-be88-b165fd4cf9a3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FORTY: IMAM MAHDI'
+  slug: 43-lesson-forty-imam-mahdi
+  uuid: 4abd9db0-1b6b-4f3c-b8c7-4ac37c89e67a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FORTY-ONE: THE IMPORTANCE OF UNDERSTANDING DAY OF JUDGEMENT'
+  slug: 44-lesson-forty-one-the-importance-of-understanding-day-of-judgement
+  uuid: 000a8a10-3208-4799-a982-2103e2a8ed63
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FORTY-TWO: THE DEPENDENCE OF THE ISSUES OF RESSURRECTION UPON THE
+    ISSUES OF THE SPIRIT'
+  slug: 45-lesson-forty-two-the-dependence-of-the-issues-of-ressurrection-upon-the-issues-of-the-spirit
+  uuid: 6447867b-633a-4ec9-910f-8badd3ffb633
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FORTY-THREE: THE IMMATERIALITY OF THE SOUL'
+  slug: 46-lesson-forty-three-the-immateriality-of-the-soul
+  uuid: 8f1da0b7-680c-421b-a40c-aded7f2718b2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FORTY-FOUR: PROVING RESSURRECTION'
+  slug: 47-lesson-forty-four-proving-ressurrection
+  uuid: 6e66b73b-c8aa-4b40-9ba5-2c7fe33a1fc7
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FORTY-FIVE: RESSURECTION IN THE QUR’AN'
+  slug: 48-lesson-forty-five-ressurection-in-the-qur-an
+  uuid: 3d3e22c7-99b9-41e1-92e6-1f115b44d382
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FORTY-SIX: THE QUR’ANIC RESPONSE RESSURRECTION TO THE DOUBTHS CONCERNING'
+  slug: 49-lesson-forty-six-the-qur-anic-response-ressurrection-to-the-doubths-concerning
+  uuid: f5b28e2d-883e-4648-9476-b736658969c8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FORTY-SEVEN: GOD’S PROMISE REGARDING THE RESURRECTION'
+  slug: 50-lesson-forty-seven-god-s-promise-regarding-the-resurrection
+  uuid: 3fa8fe55-d418-4c70-aab3-ab9a49b564fd
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FORTY-EIGHT: CHARACTERSTICS OF THE NEXT LIFE'
+  slug: 51-lesson-forty-eight-characterstics-of-the-next-life
+  uuid: 54b3557b-6e5f-4327-97e6-ec1dda89567b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FORTY-NINE: FROM DEATH TO RESURRECTION'
+  slug: 52-lesson-forty-nine-from-death-to-resurrection
+  uuid: ab68f3ac-b09b-4593-ab10-350ee1f6be17
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FIFTY: THE IMAGE OF RESURRECTION IN THE QUR’AN'
+  slug: 53-lesson-fifty-the-image-of-resurrection-in-the-qur-an
+  uuid: 5829d8cc-d044-49d3-ae7e-a5cbeda63f64
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FIFTY-ONE: A COMPARISON BETWEEN THIS WORLD AND THE HEREAFTER'
+  slug: 54-lesson-fifty-one-a-comparison-between-this-world-and-the-hereafter
+  uuid: 54db30da-b6ce-4bd8-a678-9d2427121890
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FIFTY-TWO: THE RELATIONSHIP BETWEEN THIS WORLD AND HEREAFTER'
+  slug: 55-lesson-fifty-two-the-relationship-between-this-world-and-hereafter
+  uuid: 7f1df142-a408-4aaa-834d-4bdb51ce3189
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FIFTY-THREE: THE TYPE OF RELATIONSHIP BETWEEN THIS WORLD AND THE
+    HERE AFTER'
+  slug: 56-lesson-fifty-three-the-type-of-relationship-between-this-world-and-the-here-after
+  uuid: ff37d060-5979-474f-bff9-db342d5e09c1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FIFTY-FOUR: THE ROLE OF FAITH AND BLASHEMY IN ONE’S ETERNAL PROSPERITY
+    OR ADVERSITY'
+  slug: 57-lesson-fifty-four-the-role-of-faith-and-blashemy-in-one-s-eternal-prosperity-or-adversity
+  uuid: ea909d57-931d-4a3b-a800-dcfcbce82a1e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FIFTY-FIVE: THE INTER-RELATIONSHIP BETWEEN FAITH AND DEEDS'
+  slug: 58-lesson-fifty-five-the-inter-relationship-between-faith-and-deeds
+  uuid: 3c3c4f87-e1c9-4131-b41e-6c22bc93b9ce
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FIFTY-SEVEN: THE MISCARRIAGE BY EVIL ACTS (Habt) AND REMITTANCE OF
+    SINS AFTER GOOD DEEDS (Takfīr)'
+  slug: 59-lesson-fifty-seven-the-miscarriage-by-evil-acts-habt-and-remittance-of-sins-after-good-deeds-takfir
+  uuid: 24000370-0b43-461e-982c-3ab6a4dce5ae
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FIFTY-EIGHT: PRIVILEDGES OF THE BELIEVERS'
+  slug: 60-lesson-fifty-eight-priviledges-of-the-believers
+  uuid: 6b81b5cc-6749-43cc-bdc8-6faa8b0a3116
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON FIFTY-NINE: INTERSSESION'
+  slug: 61-lesson-fifty-nine-interssesion
+  uuid: 9d52322d-528b-49e1-92c0-676236d9a187
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: 'LESSON SIXTY: RESPONSES TO CERTAIN SPURIOUS DOUBTS'
+  slug: 62-lesson-sixty-responses-to-certain-spurious-doubts
+  uuid: 9902c7c5-4b74-4906-8f04-580a16415498
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: Glossary of Terms
+  slug: 63-glossary-of-terms
+  uuid: f0b2a87a-ecfd-4d7f-9090-6ac98bc965a5
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=709
+  title: Endnotes
+  slug: 64-endnotes
+  uuid: b68d3e0f-01e1-48b2-b888-01f48321f598
+---

@@ -1,0 +1,54 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=389
+title: Islamic Answer
+author: Sayyid Muhammad Hussein Jalali
+slug: islamic-answer
+uuid: 0f040e9e-9718-473e-bbdc-dc0a90967aca
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=389
+  title: Freedom in Islam
+  slug: 1-freedom-in-islam
+  uuid: 3a4f0015-51e9-40ce-aa61-089d4d3ca2ec
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=389
+  title: Jerusalem and Three Main Religion
+  slug: 2-jerusalem-and-three-main-religion
+  uuid: 81a59358-a85e-4a8a-b8b6-6b336631ad0a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=389
+  title: The Spirit of Karbala
+  slug: 3-the-spirit-of-karbala
+  uuid: 9101b857-889b-4339-b681-b420d1ec1286
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=389
+  title: Al-afghani's Nationality
+  slug: 4-al-afghani-s-nationality
+  uuid: f37966f4-518b-46b7-ad55-7e4352fd2da4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=389
+  title: The Islamic Tax ( Khums )
+  slug: 5-the-islamic-tax-khums
+  uuid: c95a3196-24b8-40b3-8bd2-7f7f35ca3a0c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=389
+  title: The Open School of Islamic Studies
+  slug: 6-the-open-school-of-islamic-studies
+  uuid: ba4cebfc-1aa2-47ac-8eb1-10d9eda9f35f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=389
+  title: Meaning of Shi'a?
+  slug: 7-meaning-of-shi-a
+  uuid: 77dd3382-5f71-4b78-a350-ecf9ba5b8c64
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=389
+  title: Temporary Marriage, Mutah
+  slug: 8-temporary-marriage-mutah
+  uuid: 2da5c79c-d89f-4bbc-bb32-7fbbd984e948
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=389
+  title: Free Will
+  slug: 9-free-will
+  uuid: f37aa9f6-67b9-42ed-b602-ded7aa1aaa9c
+---

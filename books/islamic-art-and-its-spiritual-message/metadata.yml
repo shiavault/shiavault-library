@@ -1,0 +1,30 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=729
+title: Islamic Art and Its Spiritual Message
+author: Dr. Khawaja Muhammad Saeed
+publisher: Centre for Promoting Ideas
+slug: islamic-art-and-its-spiritual-message
+uuid: 619f17fe-a758-4512-9ae7-c637942df111
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=729
+  title: Abstract
+  slug: 1-abstract
+  uuid: 08c42172-15cd-44b7-a4dc-78841997ec35
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=729
+  title: 1. Introduction
+  slug: 2-1-introduction
+  uuid: 12225825-e3f1-4a35-ab6e-1d1d401724e3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=729
+  title: II. What is Islamic Art?
+  slug: 3-ii-what-is-islamic-art
+  uuid: 4d3ec57a-e7ce-459a-a92e-f7ae012e5155
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=729
+  title: III. The Spiritual Message of Islamic Art
+  slug: 4-iii-the-spiritual-message-of-islamic-art
+  uuid: af2d343d-73c0-4a79-b651-98f120c9625a
+---

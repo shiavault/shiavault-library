@@ -1,0 +1,125 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=267
+title: History of Islam
+author: Mahdi Pishva'i
+slug: history-of-islam
+uuid: 99aa53fd-772b-4c3c-8319-e557f3d94860
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: Publisher’s Preface
+  slug: 1-publisher-s-preface
+  uuid: ef369f63-aff9-4011-befc-c549cb300a61
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: 'Chapter One : the Arabian Peninsula;'
+  slug: 2-chapter-one-the-arabian-peninsula
+  uuid: 296627a6-8e41-4692-b118-4e112159a318
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: The Significance of Parentage
+  slug: 3-the-significance-of-parentage
+  uuid: c233e95d-a607-4c6c-be20-2a75cb2fc2e3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: 'Chapter Two : Moral Features of the Arabs'
+  slug: 4-chapter-two-moral-features-of-the-arabs
+  uuid: fa5d5205-b57d-4b99-a8cf-ac17fdc2355d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: 'Chapter Three : Sects and Religions in the Arabian Peninsula and Its Surroundings'
+  slug: 5-chapter-three-sects-and-religions-in-the-arabian-peninsula-and-its-surroundings
+  uuid: c1a4e8e7-d5cc-42a8-bf0b-e5621092e274
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: The Worshipping of Jinn and Angels
+  slug: 6-the-worshipping-of-jinn-and-angels
+  uuid: 1810a26c-ecb2-426b-aedb-34a0ef34299e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: The Commercial Position
+  slug: 7-the-commercial-position
+  uuid: d39d15f3-6425-4fa0-868d-5102b617b2d2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: 'Chapter One : the Holy Prophet’s Ancestors'
+  slug: 8-chapter-one-the-holy-prophet-s-ancestors
+  uuid: 91761210-c70c-4e8c-bd82-3373829187a5
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: 'Chapter Three : the Holy Prophet’s Youth'
+  slug: 9-chapter-three-the-holy-prophet-s-youth
+  uuid: 3c20efe8-4aa8-4e33-a60f-321fed7be546
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: 'Ssction Three : From Prophethood To Migration'
+  slug: 10-ssction-three-from-prophethood-to-migration
+  uuid: ad6e40e2-b00c-47fe-886a-a87599ac29b5
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: The Pioneer Groups in Acceptance of Islam
+  slug: 11-the-pioneer-groups-in-acceptance-of-islam
+  uuid: 0647159a-495c-4e55-8224-0810784c3ac1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: 'Chapter Three : the Consequences and Reactions of Opposition To the Qur''an'
+  slug: 12-chapter-three-the-consequences-and-reactions-of-opposition-to-the-qur-an
+  uuid: 9bcce888-e8a1-4745-9fe7-6187c41674c6
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: The Prophet's Wives
+  slug: 13-the-prophet-s-wives
+  uuid: c4197f9f-87af-4c68-96a2-6028b030337f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: 'Section Four : From Hegira To the Universal Invitation'
+  slug: 14-section-four-from-hegira-to-the-universal-invitation
+  uuid: 2a2f18cb-acfa-476a-8620-a32ea39d24ee
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: 'Chapter Two : the Prophet''s Major Proceedings in Medina'
+  slug: 15-chapter-two-the-prophet-s-major-proceedings-in-medina
+  uuid: a664428e-4530-4657-90cd-372847cb838c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: 'Chapter Four : Establishment of Muslim Military Forces'
+  slug: 16-chapter-four-establishment-of-muslim-military-forces
+  uuid: 6508cc13-8bd8-4e54-82a7-793f0d642926
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: The Battle of the Ditch
+  slug: 17-the-battle-of-the-ditch
+  uuid: adf6dd92-bba1-4bb5-9198-0acf1a574264
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: The Prophet’s Prediction
+  slug: 18-the-prophet-s-prediction
+  uuid: 3042068a-7881-4bac-babf-bcdea3f336b8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: 'Section Five : From the Universal Invitation To the Depature of the Holy
+    Prophet'
+  slug: 19-section-five-from-the-universal-invitation-to-the-depature-of-the-holy-prophet
+  uuid: d8ef4d7c-692a-4637-b71f-cda14e205601
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: 'Chapter Two : the Spread of Islam'
+  slug: 20-chapter-two-the-spread-of-islam
+  uuid: 5b3153b2-9e98-4de8-a944-32ec8eb07677
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: Imam `ali; the Holy Prophet's Successor in Medina
+  slug: 21-imam-ali-the-holy-prophet-s-successor-in-medina
+  uuid: f1666b15-8c0f-468e-9d59-89660c98e9eb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: 'Chapter Three : the Farewell Pilgrimage and the Demise of the Prophet'
+  slug: 22-chapter-three-the-farewell-pilgrimage-and-the-demise-of-the-prophet
+  uuid: 9bff748e-47e9-427f-abfd-ea6a55fae696
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=267
+  title: A Perspective On the New Community of Muslims
+  slug: 23-a-perspective-on-the-new-community-of-muslims
+  uuid: 6fe79ef4-d89b-4332-ad4d-36d7b6e802ac
+---

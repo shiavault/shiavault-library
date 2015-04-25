@@ -1,0 +1,25 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=661
+title: Truth and Islamic Thought
+author: Andrey Smirnov
+publisher: www.muslimphilosophy.com
+slug: truth-and-islamic-thought
+uuid: 80cac812-55bd-4d66-bd88-3f24e3450830
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=661
+  title: Introduction
+  slug: 1-introduction
+  uuid: 364eadf3-75c9-4a07-8b7c-f66ca9c3a0ef
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=661
+  title: Interpretations
+  slug: 2-interpretations
+  uuid: 0deef1ec-b07b-43c2-98d4-68a83a0dccf3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=661
+  title: Bibliography
+  slug: 3-bibliography
+  uuid: 2721c6ce-f3e6-4d85-8a1f-ebacd9688e71
+---

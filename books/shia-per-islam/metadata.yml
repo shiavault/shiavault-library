@@ -1,0 +1,59 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=39
+title: Shia Per Islam
+author: Allamah Sayyid Muhammad Hussein Tabatibaei
+slug: shia-per-islam
+uuid: c919e370-f0bc-4e23-8e43-7641bf4888e8
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=39
+  title: Introduction
+  slug: 1-introduction
+  uuid: 606918e9-1ec6-4c01-b34e-60b759b6b6bf
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=39
+  title: 'Part I: the Historical Background of Shi''ism'
+  slug: 2-part-i-the-historical-background-of-shi-ism
+  uuid: 967beb0a-c283-49f6-9db0-8ba78c05776a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=39
+  title: The Benefit Which the Shi'ah Derived From the Caliphate of Ali
+  slug: 3-the-benefit-which-the-shi-ah-derived-from-the-caliphate-of-ali
+  uuid: 22dea21a-9c7e-44a3-b754-3c66504c5be5
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=39
+  title: 'Part Ii: Shiites Religious Thought'
+  slug: 4-part-ii-shiites-religious-thought
+  uuid: 6a80cd0b-2211-42f2-b906-c767dd99a128
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=39
+  title: 'Second Method: the Way of Intelection and Intelectual Reasoning'
+  slug: 5-second-method-the-way-of-intelection-and-intelectual-reasoning
+  uuid: 7a6b094e-966b-4058-8db1-22f1d989687d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=39
+  title: 'Part Iii: Islamic Beliefs From the Shiites Point of View'
+  slug: 6-part-iii-islamic-beliefs-from-the-shiites-point-of-view
+  uuid: cf837ab4-77b8-42c0-b6d4-a0ae995bdd52
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=39
+  title: Chapter V On the Knowledge of the Prophet
+  slug: 7-chapter-v-on-the-knowledge-of-the-prophet
+  uuid: a87107ab-6bd6-4002-b533-5cd03a9a00b2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=39
+  title: Chapter Vi Eschatology
+  slug: 8-chapter-vi-eschatology
+  uuid: 9b8de65b-c533-4eb7-bb10-e611632860a1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=39
+  title: A Brief History of the Lives of the Twelve Imams
+  slug: 9-a-brief-history-of-the-lives-of-the-twelve-imams
+  uuid: d5edcc8b-8a4a-4124-b2e1-62328e999d79
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=39
+  title: The Fourth Imam
+  slug: 10-the-fourth-imam
+  uuid: 27b218b2-1abd-4b7a-bd2a-388d297f446e
+---

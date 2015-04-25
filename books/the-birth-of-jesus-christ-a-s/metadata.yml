@@ -1,0 +1,35 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=768
+title: The Birth of Jesus Christ (a.s)
+author: Haj Nour Ali Tabandeh
+publisher: www.sufi.ir
+slug: the-birth-of-jesus-christ-a-s
+uuid: 9e68e192-a2c0-410c-954d-353f9ce6436a
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=768
+  title: The Birth of Jesus Christ (AS)1
+  slug: 1-the-birth-of-jesus-christ-as-1
+  uuid: 50a28ef6-297c-4199-803c-7d9cfb792ce1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=768
+  title: "[Introduction]"
+  slug: 2-introduction
+  uuid: 4293e39a-1907-41df-b067-932e72e0ef11
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=768
+  title: "[The Manin Debate]"
+  slug: 3-the-manin-debate
+  uuid: 33332d26-dfc5-4fb9-be02-306b8d55e95f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=768
+  title: "[End Word]"
+  slug: 4-end-word
+  uuid: 4a5ad84f-91d2-4f69-ac2b-526eaaeabb40
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=768
+  title: Notes
+  slug: 5-notes
+  uuid: 05505a0e-0131-46fc-9b3b-661d61c9397e
+---

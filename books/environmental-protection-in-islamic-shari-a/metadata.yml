@@ -1,0 +1,24 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=312
+title: Environmental Protection in Islamic Shari`a
+author: Al Balagh Foundation
+slug: environmental-protection-in-islamic-shari-a
+uuid: bfabddeb-523e-4696-a867-392f3a27f6a5
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=312
+  title: A Word From the Foundation
+  slug: 1-a-word-from-the-foundation
+  uuid: 3509a16c-b78c-4c7c-ae9c-a5d65160bf6b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=312
+  title: The Environment and Destructive Practices
+  slug: 2-the-environment-and-destructive-practices
+  uuid: 4cb89423-bf26-4c76-ae04-7c060ad1c076
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=312
+  title: The Planet Environment
+  slug: 3-the-planet-environment
+  uuid: 60737667-4326-44ff-a6bd-5d9fd71bd423
+---

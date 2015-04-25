@@ -1,0 +1,34 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=510
+title: In Defence of Truth
+author: Dr. A. Alwaeili
+slug: in-defence-of-truth
+uuid: 2cd5e3ad-d0b0-48b4-be48-ff5ebdd7f22c
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=510
+  title: Enmtiy With Shi’ism and Calumny Against It
+  slug: 1-enmtiy-with-shi-ism-and-calumny-against-it
+  uuid: cc8d333e-a9f2-402c-b38b-674aed7a692b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=510
+  title: The Reasons of the Hostile Attitude Towards Shi’ism
+  slug: 2-the-reasons-of-the-hostile-attitude-towards-shi-ism
+  uuid: e7c40874-565a-45d1-94cd-87e7a54809ba
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=510
+  title: The First Example Some Examples of Slanders Against Shi’ites
+  slug: 3-the-first-example-some-examples-of-slanders-against-shi-ites
+  uuid: 7a24b3af-bef6-4acd-b570-30a1f20354ca
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=510
+  title: The Second Example
+  slug: 4-the-second-example
+  uuid: a758a480-a13c-43ad-ae46-d0254c517b3b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=510
+  title: The Third Example
+  slug: 5-the-third-example
+  uuid: 776da88f-25a7-4df0-8001-7289465600b0
+---

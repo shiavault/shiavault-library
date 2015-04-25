@@ -1,0 +1,50 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=777
+title: The Globalization of Muslim Environmentalism
+author: Richard C. Foltz
+publisher: www.zeriislam.com
+slug: the-globalization-of-muslim-environmentalism
+uuid: 56dbce8a-6f39-4f9b-80fe-7a35041d11cb
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=777
+  title: "[Introduction]"
+  slug: 1-introduction
+  uuid: 9641d0da-3194-4ce1-af8b-91a697051d4d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=777
+  title: Humans and Nature in the Qur’an
+  slug: 2-humans-and-nature-in-the-qur-an
+  uuid: 3ceffd84-7635-4652-9274-e0ce4b4415c2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=777
+  title: In the Hadiths
+  slug: 3-in-the-hadiths
+  uuid: f6bcde4d-012f-4c1c-a7ca-5661b92b36f9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=777
+  title: In Islamic Law
+  slug: 4-in-islamic-law
+  uuid: 38746f92-a4f0-498f-82e0-3cba210aacee
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=777
+  title: In Islamic Philosophy
+  slug: 5-in-islamic-philosophy
+  uuid: 25ad1ff9-a1b2-4fc4-a4c4-d168b895fc3a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=777
+  title: In Sufism
+  slug: 6-in-sufism
+  uuid: 5d5d8b7e-d69d-4841-9eb2-dad9c80da59b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=777
+  title: Contemporary Islamic Environmental Ethics
+  slug: 7-contemporary-islamic-environmental-ethics
+  uuid: b23fd5b3-3a38-488c-ba3e-ffa17b261457
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=777
+  title: Notes
+  slug: 8-notes
+  uuid: 22d42e05-b75e-4335-af48-9beda82823a3
+---

@@ -1,0 +1,39 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=278
+title: The Life and the Tales of the Prophet Adam (pbuh)
+author: Abdul-Sahib Al-Hasani Al-'Amili
+slug: the-life-and-the-tales-of-the-prophet-adam-pbuh
+uuid: 2cb4d4f1-dce6-4a96-bbb4-aa7cec5eda57
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=278
+  title: Translator's Word
+  slug: 1-translator-s-word
+  uuid: b1e35ca3-9a0e-4b4e-80a2-26ebf8e4f434
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=278
+  title: About Some Conditions of the Father of Human Beings
+  slug: 2-about-some-conditions-of-the-father-of-human-beings
+  uuid: be87b7e2-60bf-4978-b7e6-18faf918dbf1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=278
+  title: Useful Caution
+  slug: 3-useful-caution
+  uuid: 2e96958c-dc0d-4a5e-9f63-6a4db9076abe
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=278
+  title: The Place of Falling of Adam and Eve When They Got Down From Paradise
+  slug: 4-the-place-of-falling-of-adam-and-eve-when-they-got-down-from-paradise
+  uuid: 43cfc604-53ff-4594-9d4b-cc7d7f529be5
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=278
+  title: The Marriage of Adam and Eve
+  slug: 5-the-marriage-of-adam-and-eve
+  uuid: 5d175abf-70be-4fbf-9f99-8880b17f6e16
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=278
+  title: Summary of the Story of Adam (puh)
+  slug: 6-summary-of-the-story-of-adam-puh
+  uuid: 86f778ad-3c0a-4556-85ba-0d1fe897ef95
+---

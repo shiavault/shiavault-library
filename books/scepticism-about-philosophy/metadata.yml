@@ -1,0 +1,45 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=834
+title: Scepticism About Philosophy
+author: Jason Brennan
+publisher: www.jasonfbrennan.com
+slug: scepticism-about-philosophy
+uuid: 5a710166-a085-4d4b-b7d2-797b8e24845d
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=834
+  title: Abstract
+  slug: 1-abstract
+  uuid: c0b652ff-31e1-4db3-833b-294a57431d0f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=834
+  title: 1. Insider and Outsider Scepticism about Philosophy
+  slug: 2-1-insider-and-outsider-scepticism-about-philosophy
+  uuid: cb27fe35-b870-437d-a031-63e501f13dbc
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=834
+  title: 2. The Argument against Philosophy
+  slug: 3-2-the-argument-against-philosophy
+  uuid: 78d44b91-bc25-4c07-97e1-12de43c4de0e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=834
+  title: 3. What Type of Defence Do We Want?
+  slug: 4-3-what-type-of-defence-do-we-want
+  uuid: 02455d17-776c-47e3-8d01-cd5178b74c0b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=834
+  title: 4. Some Inadequate Defences
+  slug: 5-4-some-inadequate-defences
+  uuid: 8a5d2ca5-e47a-410f-93fc-9d960f9d5a78
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=834
+  title: 5. Rational Disagreement
+  slug: 6-5-rational-disagreement
+  uuid: 62b64df2-030a-4685-aa33-1bee1d415433
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=834
+  title: Notes
+  slug: 7-notes
+  uuid: 436dd476-24ca-4505-b4ae-617edd08fbd9
+---

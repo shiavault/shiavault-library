@@ -1,0 +1,34 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=447
+title: The Methods of Propagation and Missionary Work
+author: Sayyid Bahashti
+slug: the-methods-of-propagation-and-missionary-work
+uuid: 6badcdd0-f7bb-4868-9fcf-3953218a90ae
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=447
+  title: Introduction
+  slug: 1-introduction
+  uuid: 3a04426d-dbdf-4d62-9c65-7784f49203d2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=447
+  title: Necessity of Propagation
+  slug: 2-necessity-of-propagation
+  uuid: 3defcde1-fd4d-440d-a795-742ca24b2982
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=447
+  title: Causes of Differences
+  slug: 3-causes-of-differences
+  uuid: 14ef6eaf-c195-4d38-95fb-952f4ee442d4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=447
+  title: Foundations of Propagation
+  slug: 4-foundations-of-propagation
+  uuid: d566d9a9-d2ad-4bc0-99cc-8c1b6de2cdaf
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=447
+  title: The Missionary's Education
+  slug: 5-the-missionary-s-education
+  uuid: e377b480-a55c-4b15-9cbf-1f09a8c63b65
+---

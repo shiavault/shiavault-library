@@ -1,99 +1,99 @@
 ---
-source: :alislam
-source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai
-author: Allamah Sayyid Muhammad Husayn at-Tabataba'i
-publisher: Ansariyan Publications - Qum
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=376
 title: Islamic Teachings in Brief
+author: Ayatullah Sayyid Muhammad Husayn Tabataba'i
 slug: islamic-teachings-in-brief
-uuid: e48790e2-5d71-4062-b242-0e9c36dc8365
-description: |
-  This book, written in a relatively simple language, presents a summary
-  of the teachings of Islam.
+uuid: 2396ef2c-a2a6-42cc-9675-a42b02c89faf
 chapters:
-- source: :alislam
-  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/preface
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=376
   title: Preface
   slug: 1-preface
-  uuid: 2fcf6fd3-b355-4c80-8227-7ac0b78d0dd4
-- source: :alislam
-  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/foreword
-  title: Foreword
-  slug: 2-foreword
-  uuid: 9e105aaf-36d5-45f4-93a2-530fbd6f4e54
-- source: :alislam
-  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/religion
-  title: Religion
-  slug: 3-religion
-  uuid: 794854a3-18d0-42b4-a923-884fa9005c18
-- source: :alislam
-  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/beliefs
-  title: Beliefs
-  slug: 4-beliefs
-  uuid: dc4a8f58-ddd8-4e33-89b1-b366240aa975
-- source: :alislam
-  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/qurans-teachings-about-creator-world
-  title: Qur'an's Teachings about The Creator Of The World
-  slug: 5-qur-an-s-teachings-about-the-creator-of-the-world
-  uuid: 321fec4d-d2cd-4e10-81e0-ba07906857d2
-- source: :alislam
-  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/nubuwwah-prophethood
-  title: Nubuwwah (Prophethood)
-  slug: 6-nubuwwah-prophethood
-  uuid: a43aa9dc-b661-4bda-8046-30a6ef70aab3
-- source: :alislam
-  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/ululazm-anbiya-arch-prophets-and-all-other-prophets
-  title: Ulul'azm Anbiya' (Arch-Prophets) and All Other Prophets
-  slug: 7-ulul-azm-anbiya-arch-prophets-and-all-other-prophets
-  uuid: 6f55c744-4682-42bb-ba17-22434fefa12d
-- source: :alislam
-  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/prophet-muhammad-ibn-abdillah
-  title: Prophet Muhammad Ibn 'Abdillah (S)
-  slug: 8-prophet-muhammad-ibn-abdillah-s
-  uuid: 795ee3fa-e0d5-436b-8fa2-7f27b22eb005
-- source: :alislam
-  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/glance-intellectual-and-spiritual-personality-holy
-  title: A Glance at The Intellectual and Spiritual Personality of The Holy Prophet
-    (S)
-  slug: 9-a-glance-at-the-intellectual-and-spiritual-personality-of-the-holy-prophet-s
-  uuid: 0b8df1be-abed-4f98-b18a-c156afef14ce
-- source: :alislam
-  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/holy-quran
-  title: The Holy Qur'an
-  slug: 10-the-holy-qur-an
-  uuid: c53b19b9-a2e0-4ef1-9014-86c1ba2f9e02
-- source: :alislam
-  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/prophet-muhammads-s-ahl-al-bayt
-  title: Prophet Muhammad's (S) Ahl Al-Bayt (as)
-  slug: 11-prophet-muhammad-s-s-ahl-al-bayt-as
-  uuid: 1e494273-edc1-46b6-a4c8-1898dca34431
-- source: :alislam
-  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/imamah
-  title: Imamah
-  slug: 12-imamah
-  uuid: 83681d9e-da49-45fc-a9a0-edf2a76ff73d
-- source: :alislam
-  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/general-life-style-ahl-al-bayt
-  title: The General Life-Style of the Ahl Al-Bayt (as)
-  slug: 13-the-general-life-style-of-the-ahl-al-bayt-as
-  uuid: 7a63b51f-4db7-41de-a8bb-e7e1871858d8
-- source: :alislam
-  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/maad-resurrection
-  title: Ma'ad (Resurrection)
-  slug: 14-ma-ad-resurrection
-  uuid: b2a8d9d7-6cff-4a9e-8de6-6a1f19144c13
-- source: :alislam
-  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/ethics
-  title: Ethics
-  slug: 15-ethics
-  uuid: c136c8f6-8aba-414f-9cb1-1977d940b8ba
-- source: :alislam
-  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/commandments
+  uuid: 4d8846b3-8482-466c-b33f-5533429e4c6f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=376
+  title: Is It Necessary For Man To Follow a Religion?
+  slug: 2-is-it-necessary-for-man-to-follow-a-religion
+  uuid: b16bcef7-967c-404b-93fb-d258b2ca07b2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=376
+  title: Seeking a Remedy By Others
+  slug: 3-seeking-a-remedy-by-others
+  uuid: eabafd41-5e87-4a84-84e2-49272d630a25
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=376
+  title: 'Beliefs : Discussion Concerning Origin of Creation Is Natural'
+  slug: 4-beliefs-discussion-concerning-origin-of-creation-is-natural
+  uuid: e61fe3c5-2f8c-4d24-8af3-763a926acec4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=376
+  title: Nubuwah (prophethood)
+  slug: 5-nubuwah-prophethood
+  uuid: ee22b0ba-d9b5-4a93-8be7-7113234137b7
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=376
+  title: The Incident of Monk Buhayra
+  slug: 6-the-incident-of-monk-buhayra
+  uuid: 3a6a87c8-2e05-45b3-b898-9518bd4887ee
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=376
+  title: Ghadir Khumm and the Issue of Succession
+  slug: 7-ghadir-khumm-and-the-issue-of-succession
+  uuid: 70c3f7de-0a5d-45c5-a381-22041b2a1d8e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=376
+  title: The Holy Quran
+  slug: 8-the-holy-quran
+  uuid: ac0359f3-1ec5-4eb6-8b44-6d36a467bdac
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=376
+  title: Prophet Muhammad's (sa) Ahl Al-bayt (a.s)
+  slug: 9-prophet-muhammad-s-sa-ahl-al-bayt-a-s
+  uuid: c85490b1-1ce6-489d-a391-188f3bf1d425
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=376
+  title: Al-'imam 'ali (as)
+  slug: 10-al-imam-ali-as
+  uuid: 96faa4dd-594b-4ea3-bb61-1f75883f0a00
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=376
+  title: Were the Polices of Al-'imam Al-hasan (as) and Al-'imam Al-husayn (as) Different?
+  slug: 11-were-the-polices-of-al-imam-al-hasan-as-and-al-imam-al-husayn-as-different
+  uuid: 9067f6ca-4e2b-4d84-bc0e-cd5276e30f49
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=376
+  title: Ma'ad (resurrection)
+  slug: 12-ma-ad-resurrection
+  uuid: b5b0e243-b837-461a-b251-bb63c7502a6d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=376
+  title: "(2) the Duty of Man Towards Himself"
+  slug: 13-2-the-duty-of-man-towards-himself
+  uuid: af0d6f47-d0d0-463a-8f63-8970198c7b14
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=376
+  title: "(3) the Duty of Man Towards Others"
+  slug: 14-3-the-duty-of-man-towards-others
+  uuid: 87068503-2539-4470-a440-b64baefcadfc
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=376
+  title: The Generalities of Jihad
+  slug: 15-the-generalities-of-jihad
+  uuid: aaf2a7ac-c96a-457f-bc77-efd00fc25796
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=376
   title: Commandments
   slug: 16-commandments
-  uuid: bb65156e-afc2-4de4-ba9f-c58c1e6ff3b0
-- source: :alislam
-  source_url: http://www.al-islam.org/islamic-teachings-in-brief-allamah-tabatabai/glossary-non-english-terms
-  title: Glossary of non-English Terms
-  slug: 17-glossary-of-non-english-terms
-  uuid: cde0df41-e037-434d-b703-630d3cabf890
+  uuid: 2b7f90fb-d513-48fe-ba0b-d84347e7556f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=376
+  title: The Sawm
+  slug: 17-the-sawm
+  uuid: 5c99592a-c350-43de-9d61-31159d782c53
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=376
+  title: Glossary of Non-english Terms
+  slug: 18-glossary-of-non-english-terms
+  uuid: e9045663-612d-45e3-8a1b-3b3b0760552b
 ---

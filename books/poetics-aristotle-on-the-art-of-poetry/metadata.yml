@@ -1,0 +1,41 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=805
+title: Poetics [aristotle On the Art of Poetry]
+author: Aristotle (Arastu)
+translator: Ingram Bywater
+publisher: www.gutenberg.org
+slug: poetics-aristotle-on-the-art-of-poetry
+uuid: dcbab7ef-1189-4f20-b26a-7d2870a0a288
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=805
+  title: PREFACE
+  slug: 1-preface
+  uuid: 0faa17cf-5dfb-4b5e-967e-0d7cd2c9211e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=805
+  title: ARISTOTLE ON THE ART OF POETRY
+  slug: 2-aristotle-on-the-art-of-poetry
+  uuid: d2d88866-171f-4724-a794-ec86148d472e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=805
+  title: "[Section One]"
+  slug: 3-section-one
+  uuid: c2b9cdd1-7ffd-4f71-bc15-2e97a2888141
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=805
+  title: "[Section Two]"
+  slug: 4-section-two
+  uuid: c4870a64-b680-4a6b-a59c-5c4a527a1dcc
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=805
+  title: "[Section Three]"
+  slug: 5-section-three
+  uuid: 5b741d3b-1b02-4016-968f-8af9a2981410
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=805
+  title: "[Section Four]"
+  slug: 6-section-four
+  uuid: 6d6d1f9a-cf68-4d47-8229-7cfd4f5aaa56
+---

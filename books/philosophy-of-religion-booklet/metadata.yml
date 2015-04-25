@@ -1,0 +1,84 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=851
+title: Philosophy of Religion (booklet)
+publisher: www.pactiss.org
+slug: philosophy-of-religion-booklet
+uuid: 17c48d4b-d999-4180-a4d4-7e826fd9dc27
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=851
+  title: Introduction
+  slug: 1-introduction
+  uuid: 753e77f7-4e62-4107-b56c-56cf24550f1e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=851
+  title: Arguments for the Existence of God
+  slug: 2-arguments-for-the-existence-of-god
+  uuid: bceaede0-5c77-4632-8083-a1743cbe4633
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=851
+  title: Pascal’s Wager
+  slug: 3-pascal-s-wager
+  uuid: a4a91b30-351e-48a7-be85-3e71f3c8bcc5
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=851
+  title: The Ontological Argument
+  slug: 4-the-ontological-argument
+  uuid: a41997aa-7102-4f58-9613-a6e5c9cc3334
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=851
+  title: The Cosmological Argument
+  slug: 5-the-cosmological-argument
+  uuid: 8438337b-0aee-44f7-855a-1d13f303b59f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=851
+  title: The Teleological Argument
+  slug: 6-the-teleological-argument
+  uuid: c15829f8-4d0d-4837-bf28-60ff32cff5a4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=851
+  title: The Moral Argument
+  slug: 7-the-moral-argument
+  uuid: 82ae47c7-744e-4bc3-826e-4dae6e29bc11
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=851
+  title: The Argument from Religious Experience
+  slug: 8-the-argument-from-religious-experience
+  uuid: 489f5ff9-8c89-4f13-8b0b-83f8b31795a0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=851
+  title: The Argument from Miracles
+  slug: 9-the-argument-from-miracles
+  uuid: ce17417a-08b0-4a42-be2e-69ddf3d177a3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=851
+  title: Arguments for Atheism
+  slug: 10-arguments-for-atheism
+  uuid: 9a983481-0ed2-4dd8-8607-7cd85a9e8e8d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=851
+  title: The Problem of Evil
+  slug: 11-the-problem-of-evil
+  uuid: 0261b986-7bc6-409f-82fe-962161577d0c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=851
+  title: Problems with Divine Omnipotence
+  slug: 12-problems-with-divine-omnipotence
+  uuid: 876232c2-7b5f-4835-80fe-1f289879e429
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=851
+  title: Problems with Divine Omniscience
+  slug: 13-problems-with-divine-omniscience
+  uuid: 4664c66f-b779-40ab-8aed-b0c06cab53f8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=851
+  title: Problems with Divine Justice
+  slug: 14-problems-with-divine-justice
+  uuid: 4d818531-e362-4a7c-ac96-131a08d2bb7c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=851
+  title: The Argument from Autonomy
+  slug: 15-the-argument-from-autonomy
+  uuid: f400f7de-ab08-4c9f-887f-4bf7e7422b18
+---

@@ -1,0 +1,40 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=817
+title: Classification of Arabic Documents
+author: Ahmed A. Elbery
+publisher: www.vtechworks.lib.vt.edu
+slug: classification-of-arabic-documents
+uuid: 66a4249a-8883-4836-af0c-a8b3175771bb
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=817
+  title: Summary
+  slug: 1-summary
+  uuid: bfa84ea1-e0b4-4c37-975b-839ceb245df1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=817
+  title: Background
+  slug: 2-background
+  uuid: 6d72c4b7-70db-4db7-a170-410e5385a309
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=817
+  title: 'Arabic Text Classification:'
+  slug: 3-arabic-text-classification
+  uuid: a86d540c-b339-4f93-969f-ef0a3a78f66e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=817
+  title: Project Model
+  slug: 4-project-model
+  uuid: 5a4fef7d-48eb-4407-a6d7-74fdcedc7409
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=817
+  title: Conclusions &future work
+  slug: 5-conclusions-future-work
+  uuid: b4959561-a6c1-4315-a008-913cce5202a2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=817
+  title: References
+  slug: 6-references
+  uuid: 1e4336f8-e5a6-4137-9e3f-ec6da8c1f531
+---

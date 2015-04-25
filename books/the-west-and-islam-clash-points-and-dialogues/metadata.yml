@@ -1,0 +1,30 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=713
+title: 'The West and Islam: Clash Points and Dialogues'
+author: Dr. Abdelwahab M. Elmessiri
+publisher: www.muslimphilosophy.com
+slug: the-west-and-islam-clash-points-and-dialogues
+uuid: 0e44a6f7-f70c-4d51-98c4-87dc83d90101
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=713
+  title: "[Preface]"
+  slug: 1-preface
+  uuid: e46d28fb-1cfe-4f45-b562-df1048c54f46
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=713
+  title: "[Classification of Islamic Discourses]"
+  slug: 2-classification-of-islamic-discourses
+  uuid: a1c89a01-1059-41a3-9403-8c66250626e6
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=713
+  title: A Chronological Diachronic Classification
+  slug: 3-a-chronological-diachronic-classification
+  uuid: fcc19286-568e-475d-8afa-961023e28dd2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=713
+  title: Difference Between Two Fundemental Points
+  slug: 4-difference-between-two-fundemental-points
+  uuid: d2c940c2-6153-4a1a-b36d-27a8f7834a8d
+---

@@ -1,0 +1,20 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=728
+title: 'Man in the Universe: Permanence Amidst Apparent Change'
+author: Seyyed Hossein Nasr
+publisher: Studies in Comparative Religion
+slug: man-in-the-universe-permanence-amidst-apparent-change
+uuid: c0f77211-ea92-4c79-8117-a3d1dcd87912
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=728
+  title: "[Introduction]"
+  slug: 1-introduction
+  uuid: 7e3e3a16-40d4-450a-91bc-bf241a585cc4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=728
+  title: "[Main Debate]"
+  slug: 2-main-debate
+  uuid: 1dea38f6-5084-44f0-bf27-94263ad474eb
+---

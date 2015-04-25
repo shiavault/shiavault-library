@@ -1,0 +1,25 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=689
+title: Selected Judgements of Imam Ali (a.s)
+publisher: www.balaghah.net
+slug: selected-judgements-of-imam-ali-a-s
+uuid: bd8f0606-22c8-4d85-8f00-8d1b78197670
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=689
+  title: Introduction
+  slug: 1-introduction
+  uuid: ad4b1f27-edf0-4d8c-a578-00a05a56aa93
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=689
+  title: 'Chapter One: Instructions to Judges'
+  slug: 2-chapter-one-instructions-to-judges
+  uuid: b7488145-0232-4e35-89fc-1749ea9899b9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=689
+  title: 'Chapter Two: Rare Justice: Judgements, Decisions and Answers to Difficult
+    Questions'
+  slug: 3-chapter-two-rare-justice-judgements-decisions-and-answers-to-difficult-questions
+  uuid: 6e3efa4c-dfcf-4737-ada5-237386098965
+---

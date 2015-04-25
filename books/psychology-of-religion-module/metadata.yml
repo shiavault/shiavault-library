@@ -1,0 +1,55 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=850
+title: Psychology of Religion Module
+author: Raymond F. Paloutzian
+publisher: www.highered.mheducation.com
+slug: psychology-of-religion-module
+uuid: fe9abd4d-4976-4e6e-852c-ae744d0f3065
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=850
+  title: Religious Motivation and Justification for Compassion and Violence
+  slug: 1-religious-motivation-and-justification-for-compassion-and-violence
+  uuid: dba1a016-93cf-4419-a0fa-9793a4f1513b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=850
+  title: The Scope of Religion and Links Between Psychology and Religion
+  slug: 2-the-scope-of-religion-and-links-between-psychology-and-religion
+  uuid: 44c05b3e-8786-4e55-aeb9-492db0504d01
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=850
+  title: Defining Religion and Exploring the Psychology of Religion
+  slug: 3-defining-religion-and-exploring-the-psychology-of-religion
+  uuid: 58782529-35cf-4b5d-ad82-1e654db4d30c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=850
+  title: 'EXPLORATIONS IN PSYCHOLOGY: The Exemplary Religious Life and Advanced'
+  slug: 4-explorations-in-psychology-the-exemplary-religious-life-and-advanced
+  uuid: aeb5cdf3-4380-461a-9659-e70246397c77
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=850
+  title: 'EXPLORATIONS IN PSYCHOLOGY:'
+  slug: 5-explorations-in-psychology
+  uuid: 5a5669e4-8bb2-4b3f-a78f-6c92e742689b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=850
+  title: SUMMARY
+  slug: 6-summary
+  uuid: 8e06fd06-5c6d-4d3c-b567-21b956c315c2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=850
+  title: WEB LINKS
+  slug: 7-web-links
+  uuid: a6c229d5-d706-4f28-b245-750d765ec24f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=850
+  title: GLOSSARY
+  slug: 8-glossary
+  uuid: 2a72a109-058a-41ea-a60c-32d31d8f5242
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=850
+  title: REFERENCES
+  slug: 9-references
+  uuid: 113bd5f9-5b66-4082-b1ea-036defc8b125
+---

@@ -1,0 +1,31 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=826
+title: The HadÎqatul-haqÎqat (the Enclosed Garden of the Truth)
+author: Sanai of Ghazna
+translator: J. STEPHENSON
+publisher: www.sufi.ir
+slug: the-hadiqatul-haqiqat-the-enclosed-garden-of-the-truth
+uuid: f7a16a77-ce74-4eed-a1e6-15630927b054
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=826
+  title: PREFACE
+  slug: 1-preface
+  uuid: a6d6e3f2-8b75-46a7-9258-8c27b318bc7c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=826
+  title: ABBREVIATIONS
+  slug: 2-abbreviations
+  uuid: 94624885-506e-4d3f-aaa7-82a1982bbdd8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=826
+  title: INTRODUCTION
+  slug: 3-introduction
+  uuid: 0a740098-2028-4b06-98a1-9b06677fdf7e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=826
+  title: The First Book of the Hadîqatu'-l-Haqîqat of Sanâ'î.
+  slug: 4-the-first-book-of-the-hadiqatu-l-haqiqat-of-sana-i
+  uuid: dad3b3a0-91a9-4d9b-846b-25252a78037b
+---

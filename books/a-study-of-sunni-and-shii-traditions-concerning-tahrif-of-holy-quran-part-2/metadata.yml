@@ -1,0 +1,22 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=738
+title: A Study of Sunni and Shii Traditions Concerning Tahrif [of Holy Quran] Part
+  2
+author: Rasul Ja'farian
+translator: Mujahid Husayn
+publisher: http://www.al-islam.org
+slug: a-study-of-sunni-and-shii-traditions-concerning-tahrif-of-holy-quran-part-2
+uuid: 574b9103-2828-4192-a6ac-b9c06e103d4d
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=738
+  title: A Study of Sunni and Shii Traditions Concerning Tahrif Part 2
+  slug: 1-a-study-of-sunni-and-shii-traditions-concerning-tahrif-part-2
+  uuid: d750a54a-7c7a-48de-8231-8949934c54fa
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=738
+  title: Tahrif and Shii Traditions
+  slug: 2-tahrif-and-shii-traditions
+  uuid: 71f06e47-3d3b-4fc4-b92c-8a953b1122da
+---

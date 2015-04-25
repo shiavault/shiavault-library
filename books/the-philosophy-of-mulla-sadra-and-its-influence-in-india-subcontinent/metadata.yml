@@ -1,0 +1,35 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=761
+title: The Philosophy of Mulla Sadra and Its Influence in India [subcontinent]
+author: Syed Ali Nadeem Rezavi
+publisher: www.archive.org
+slug: the-philosophy-of-mulla-sadra-and-its-influence-in-india-subcontinent
+uuid: d4f1e9a9-c64b-4bf1-83d0-1ee799e996bf
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=761
+  title: "[Introduction]"
+  slug: 1-introduction
+  uuid: 42ba51db-39f2-4ea4-9f9e-09e73d7b7059
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=761
+  title: "[The Main Schools of Islamic Thought]"
+  slug: 2-the-main-schools-of-islamic-thought
+  uuid: 05806cd7-bff7-451c-9ac6-dcf6cd6b7006
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=761
+  title: "[Mulla Sadra’s Intellectual Journey]"
+  slug: 3-mulla-sadra-s-intellectual-journey
+  uuid: 6984f553-1734-44d0-a144-0936c35f4924
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=761
+  title: "[Mulla Sadra’s Philosophy In Subcontinent]"
+  slug: 4-mulla-sadra-s-philosophy-in-subcontinent
+  uuid: 02a0ef24-af9e-499d-8df3-a4bfee0ec3b4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=761
+  title: Notes and References
+  slug: 5-notes-and-references
+  uuid: 7d5e9e99-cbfc-4135-b528-51d2f636a0b6
+---

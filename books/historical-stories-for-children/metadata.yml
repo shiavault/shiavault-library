@@ -1,0 +1,29 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=288
+title: Historical Stories For Children
+author: Cultural Rafed Foundation
+slug: historical-stories-for-children
+uuid: f9d1db3c-32b1-4c93-9712-eead9334831d
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=288
+  title: Abu Sufyan
+  slug: 1-abu-sufyan
+  uuid: 1d10a1e1-02bf-49ae-98d6-191ebbf53f85
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=288
+  title: Mu'awiyah
+  slug: 2-mu-awiyah
+  uuid: 4472c35d-d2e8-402b-8e4f-b54b27f4ee66
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=288
+  title: Yazid
+  slug: 3-yazid
+  uuid: d15f91ee-31a1-4210-be09-0b58fb57d1c4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=288
+  title: Abd Al-malik Ibn Marwan
+  slug: 4-abd-al-malik-ibn-marwan
+  uuid: 49c0934b-f7b2-4223-af39-be1a7e4e7cfb
+---

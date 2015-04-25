@@ -1,0 +1,43 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=86
+title: History and Human Evolution
+slug: history-and-human-evolution
+uuid: 76190e3c-9ec0-4ee1-bda9-463b8975a07e
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=86
+  title: Preface
+  slug: 1-preface
+  uuid: 23df6009-4c7a-4402-8438-79ec62b0b2ce
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=86
+  title: Man's Future From Different Viewpoints
+  slug: 2-man-s-future-from-different-viewpoints
+  uuid: 0857c4a8-7cf6-4ee5-9b9a-393e3d2bbc8d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=86
+  title: The View of Scientism
+  slug: 3-the-view-of-scientism
+  uuid: 620007b5-212f-40af-9d64-5435357b1b12
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=86
+  title: The Viewpoint of Marxism
+  slug: 4-the-viewpoint-of-marxism
+  uuid: 325c3e57-6e70-4272-be05-f93b43e45bad
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=86
+  title: The View of Existentialism
+  slug: 5-the-view-of-existentialism
+  uuid: 9ca27697-5ec4-43e7-b484-e317190cecf2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=86
+  title: The View of Islam
+  slug: 6-the-view-of-islam
+  uuid: 5e9a15b0-0c63-4df2-9de4-04aad00ce0e8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=86
+  title: Supplement
+  slug: 7-supplement
+  uuid: 15a28142-b97b-4bb3-b2da-303e54c347ef
+---

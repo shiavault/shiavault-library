@@ -1,0 +1,46 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=239
+title: An Introduction To 'ilm Al-kalam
+author: Ayatullah Murtadha Mutahhari
+translator: Ali Quli Qara'i
+publisher: www.muslimphilosophy.com
+slug: an-introduction-to-ilm-al-kalam
+uuid: d0a4cc9e-8798-4342-963d-e08626d49b37
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=239
+  title: "[INTRODUCTION]"
+  slug: 1-introduction
+  uuid: 862620de-8f9c-4eb2-9efe-e95031802794
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=239
+  title: 'DEFINITION AND SUBJECT MATTER OF ''ILM AL-KALAM:'
+  slug: 2-definition-and-subject-matter-of-ilm-al-kalam
+  uuid: 5cde97ce-bee4-4bca-99d3-6b62ecc18b17
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=239
+  title: 'MU''TAZILAH:'
+  slug: 3-mu-tazilah
+  uuid: bd9a2692-8e2c-4ed8-ae87-fb345ed3a66a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=239
+  title: 'ASHA''IRAH:'
+  slug: 4-asha-irah
+  uuid: 398696a6-0ad3-4a00-816d-cfd843ac1d56
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=239
+  title: 'THE SHI''ITE KALAM:'
+  slug: 5-the-shi-ite-kalam
+  uuid: f62c9fd2-a699-49d6-ab1d-3a7db07427c1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=239
+  title: 'THE SHI''I STANDPOINT:'
+  slug: 6-the-shi-i-standpoint
+  uuid: 8ee6dc24-30a6-4c47-bd85-3e47c2ce45e9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=239
+  title: 'NOTES:'
+  slug: 7-notes
+  uuid: 471bd73b-64e4-4640-8f03-8898dd56df51
+---

@@ -1,0 +1,35 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=781
+title: Concept of Justice, Utilitarianism and Other Modern Approaches
+author: M.K. Vyas
+publisher: www.bhu.ac.in
+slug: concept-of-justice-utilitarianism-and-other-modern-approaches
+uuid: fd5687de-ac18-4346-b5b0-3baa3bf2ac31
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=781
+  title: "(A) Introduction"
+  slug: 1-a-introduction
+  uuid: 412c15ca-0201-4bfc-be13-3a4126670a88
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=781
+  title: "(B) Utilitarianism and notion of justice"
+  slug: 2-b-utilitarianism-and-notion-of-justice
+  uuid: 6627673a-42c2-4cb9-8d65-5e5f433906fa
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=781
+  title: "(C) Notion of Justice and other Modern Approaches"
+  slug: 3-c-notion-of-justice-and-other-modern-approaches
+  uuid: e5b7a357-8783-4e77-ab75-60eb4094c0b8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=781
+  title: "(D) Conclusion"
+  slug: 4-d-conclusion
+  uuid: a7b698a4-337a-40c7-8505-2d75a67b174b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=781
+  title: Notes
+  slug: 5-notes
+  uuid: 80c31d08-19d2-4abf-8f94-41e083c15987
+---

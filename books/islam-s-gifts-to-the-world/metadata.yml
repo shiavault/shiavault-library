@@ -1,0 +1,24 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=290
+title: Islam's Gifts To the World
+author: Cultural Rafed Network
+slug: islam-s-gifts-to-the-world
+uuid: bd98b923-243e-4160-8bb4-65aecf35a923
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=290
+  title: Islam
+  slug: 1-islam
+  uuid: bf0ad7d2-af59-43db-918a-e6a806ac3c82
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=290
+  title: Islam and Nationhood
+  slug: 2-islam-and-nationhood
+  uuid: 69de56d0-0afd-44fd-be26-5f44892408ab
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=290
+  title: Islam and Intellectual Advance
+  slug: 3-islam-and-intellectual-advance
+  uuid: 75e1fd65-2f4b-4c7f-b685-1adad56d9edb
+---

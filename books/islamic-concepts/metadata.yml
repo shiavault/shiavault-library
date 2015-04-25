@@ -1,0 +1,34 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=457
+title: Islamic Concepts
+author: Al-Balagh Foundation
+slug: islamic-concepts
+uuid: 6cd2aea8-e187-4bcf-ab5e-49be9673f1ec
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=457
+  title: Forward
+  slug: 1-forward
+  uuid: b3306938-f255-4889-b004-3cdd54390556
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=457
+  title: Islamic Thought and Research Methods
+  slug: 2-islamic-thought-and-research-methods
+  uuid: 2ee31595-074d-451a-9c43-428a97ca7f57
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=457
+  title: How To Obtain Benefit From Inductive Evidence
+  slug: 3-how-to-obtain-benefit-from-inductive-evidence
+  uuid: 58299779-1759-487a-90b4-bfe0e91492e2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=457
+  title: Islamic Theory
+  slug: 4-islamic-theory
+  uuid: d04ab4dc-9622-4715-9a2f-00b0614f7bec
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=457
+  title: Factors of Retardation and Ideological Deviance in the Islamic World
+  slug: 5-factors-of-retardation-and-ideological-deviance-in-the-islamic-world
+  uuid: adf57126-a448-4639-adf1-441625681e8b
+---

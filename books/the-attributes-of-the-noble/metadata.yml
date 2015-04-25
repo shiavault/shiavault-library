@@ -1,0 +1,37 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=279
+title: The Attributes of the Noble
+author: Khwajah Nasir al-Din al-Tusi
+slug: the-attributes-of-the-noble
+uuid: 4b05b58d-241c-49d7-8682-ae1f56577d9d
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=279
+  title: Introduction
+  slug: 1-introduction
+  uuid: ec7d44ea-64a0-462b-8c3a-20769cb246c1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=279
+  title: 'Chapter 2 : On the Removal of Obstacles and Hindrances From the Wayfarer''s
+    Path'
+  slug: 2-chapter-2-on-the-removal-of-obstacles-and-hindrances-from-the-wayfarer-s-path
+  uuid: fd65cb18-c707-41f2-b963-d2a08cea55ad
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=279
+  title: 'Chapter 3 : On Wayfaring in the Quest of Perfection, and the States of the
+    Wayfarer'
+  slug: 3-chapter-3-on-wayfaring-in-the-quest-of-perfection-and-the-states-of-the-wayfarer
+  uuid: cccafe06-8702-48d4-9d47-8d0169107b8a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=279
+  title: 'Chapter 4 : On the States That Occur During Wayfaring Before the Attainment
+    of the Goal'
+  slug: 4-chapter-4-on-the-states-that-occur-during-wayfaring-before-the-attainment-of-the-goal
+  uuid: f7eff227-d34f-4bce-b611-c17c958ee087
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=279
+  title: 'Chapter 5 : Concerning the States of Those Who Attain Realization'
+  slug: 5-chapter-5-concerning-the-states-of-those-who-attain-realization
+  uuid: d5a941ad-4f7b-4af4-9c3b-b274d7ed2335
+---

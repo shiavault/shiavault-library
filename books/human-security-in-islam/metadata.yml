@@ -1,0 +1,55 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=824
+title: Human Security in Islam
+author: Zarina Othman
+publisher: www.humansecurityconf.polsci.chula.ac.th
+slug: human-security-in-islam
+uuid: 5c7bc41d-3e5c-46b6-aa3b-62c7ee087a71
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=824
+  title: Abstract
+  slug: 1-abstract
+  uuid: 23d6d681-64f8-469b-aaaf-8c4973fcd3f0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=824
+  title: 1. INTRODUCTION
+  slug: 2-1-introduction
+  uuid: e6fe4b88-43f6-4ffe-9fcf-d84f1cf1b242
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=824
+  title: 2. (STATE) SECURITY
+  slug: 3-2-state-security
+  uuid: 92625280-5608-447c-ba8e-6c537a113222
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=824
+  title: 3. HUMAN SECURITY
+  slug: 4-3-human-security
+  uuid: e9a82a25-9692-4dbb-b55f-52538afbf09a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=824
+  title: 4. ISLAM AND HUMAN SECURITY
+  slug: 5-4-islam-and-human-security
+  uuid: 0ef6cfc7-bf42-477d-a1c7-00724b5ee9df
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=824
+  title: '5. ISLAM HADHARI: MALAYSIA’S APPROACH OF HUMAN SECURITY'
+  slug: 6-5-islam-hadhari-malaysia-s-approach-of-human-security
+  uuid: 967c1c69-4d34-4744-a285-aa9a05d324f2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=824
+  title: 6. CONCLUSION
+  slug: 7-6-conclusion
+  uuid: dcbcd9fc-27e5-401f-8862-f3a31b2acf13
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=824
+  title: 7. REFERENCES
+  slug: 8-7-references
+  uuid: b4469e12-d107-41d3-ac85-54fe5ad8d4ae
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=824
+  title: 8. INTERNET SOURCES
+  slug: 9-8-internet-sources
+  uuid: 2c05ec9c-0739-4e50-9029-468a590bc618
+---

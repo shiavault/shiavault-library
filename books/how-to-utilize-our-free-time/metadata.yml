@@ -1,0 +1,24 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=309
+title: How To Utilize Our Free Time
+author: Al Balagh Foundation
+slug: how-to-utilize-our-free-time
+uuid: 7329c7d9-3b27-45ec-91b1-cc0d28b70159
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=309
+  title: Introduction
+  slug: 1-introduction
+  uuid: ed3f67bf-733f-4a01-99e3-a1063bf17397
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=309
+  title: Organizing Time
+  slug: 2-organizing-time
+  uuid: 51c76a1d-1e88-492f-9305-c432939bcb22
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=309
+  title: Free Time
+  slug: 3-free-time
+  uuid: 7e245eeb-32e7-4c2a-8f55-3d9784e7a629
+---

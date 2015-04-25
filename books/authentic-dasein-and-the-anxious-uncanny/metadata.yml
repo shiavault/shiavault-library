@@ -1,0 +1,40 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=789
+title: Authentic Dasein and the Anxious Uncanny
+author: Hend Diaa Diaa Seifeldin Khalifa
+publisher: www.dar.aucegypt.edu
+slug: authentic-dasein-and-the-anxious-uncanny
+uuid: 65fdc1e4-e14e-435d-acb5-a147bd146667
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=789
+  title: ABSTRACT
+  slug: 1-abstract
+  uuid: ea1a8398-7052-4955-bcaa-d3740ae20db7
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=789
+  title: 'Introduction: Comparing Notions of Anxiety'
+  slug: 2-introduction-comparing-notions-of-anxiety
+  uuid: 811ee42a-9151-438d-a15e-66f88817c221
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=789
+  title: 'Chapter 1: Kant and Munch: the Sublime in Nature'
+  slug: 3-chapter-1-kant-and-munch-the-sublime-in-nature
+  uuid: 4db92802-faa4-4b50-8aaf-fbc2e2b533f5
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=789
+  title: 'Chapter Two: Heidegger and Munch: Anxious Dasein'
+  slug: 4-chapter-two-heidegger-and-munch-anxious-dasein
+  uuid: 666485f5-5811-4da6-af84-fc63fb8b87a3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=789
+  title: 'Chapter 3: Munch  -  Combining Heidegger and Kant'
+  slug: 5-chapter-3-munch-combining-heidegger-and-kant
+  uuid: 68359dd4-b0e6-43d3-9c80-da555ef12426
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=789
+  title: Works Cited
+  slug: 6-works-cited
+  uuid: dffbaf81-7e53-40a3-999d-0933f7fb1ad1
+---

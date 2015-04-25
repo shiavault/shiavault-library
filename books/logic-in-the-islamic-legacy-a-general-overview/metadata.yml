@@ -1,0 +1,50 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=779
+title: 'Logic in the Islamic Legacy: a General Overview'
+author: Dr. Aref Al Attari
+publisher: www.logic.sysu.edu
+slug: logic-in-the-islamic-legacy-a-general-overview
+uuid: 2f39e4e2-89fa-4929-8012-fd897a700859
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=779
+  title: 'Logic: A brief overview'
+  slug: 1-logic-a-brief-overview
+  uuid: 99f03563-db61-4956-b387-a4b0de5a52d8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=779
+  title: The Beginnings
+  slug: 2-the-beginnings
+  uuid: ca649a7b-0e9c-415b-ad01-12589c8e6444
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=779
+  title: The Aristotelian Expositors
+  slug: 3-the-aristotelian-expositors
+  uuid: ab6c63dc-d288-4999-b791-789281be11e9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=779
+  title: Dissention from Aristotelian Legacy
+  slug: 4-dissention-from-aristotelian-legacy
+  uuid: eef06a91-a3f3-464e-8d8c-44ffde30ea69
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=779
+  title: The Decline
+  slug: 5-the-decline
+  uuid: 6ff882d5-7681-440a-bb60-e9961d3ead1d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=779
+  title: Domains of Logic
+  slug: 6-domains-of-logic
+  uuid: 59641979-5f85-4d52-8884-d24fd712f258
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=779
+  title: Logic and Language
+  slug: 7-logic-and-language
+  uuid: c3a7c5ff-c7eb-4780-a571-15b04cbd5a82
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=779
+  title: Concluding Remarks
+  slug: 8-concluding-remarks
+  uuid: 88fc721f-b64c-4945-bb67-c8a25c69419a
+---

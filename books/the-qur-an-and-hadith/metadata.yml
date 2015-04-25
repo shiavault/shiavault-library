@@ -1,0 +1,44 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=364
+title: The Qur'an and Hadith
+author: Sayyid Akhtar Razawi
+slug: the-qur-an-and-hadith
+uuid: 059f1aef-461a-4404-8953-feef4784026a
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=364
+  title: 'Chapter One : Revelation'
+  slug: 1-chapter-one-revelation
+  uuid: 3aa1c559-f15d-4745-b24a-4fa1f7de16ff
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=364
+  title: Further Details Abour the Torah
+  slug: 2-further-details-abour-the-torah
+  uuid: feb1e703-07c3-4cdd-a097-5f095ca19d89
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=364
+  title: 'Chapter Three : the Qur''an'
+  slug: 3-chapter-three-the-qur-an
+  uuid: b93e4862-cd57-46c5-9148-7338467d08bb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=364
+  title: Miracles of Prophecies
+  slug: 4-miracles-of-prophecies
+  uuid: 2f314e5e-9ad6-4de3-a756-62062a1f5f34
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=364
+  title: 'Chapter Four : the Hadith'
+  slug: 5-chapter-four-the-hadith
+  uuid: 5d5ce3c8-0ee3-4799-802e-f2dcabb32a6f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=364
+  title: The Style of Ahadiths Books
+  slug: 6-the-style-of-ahadiths-books
+  uuid: a5318e66-1cb5-4c42-9f5f-3cd766500531
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=364
+  title: How To Test a Hadith?
+  slug: 7-how-to-test-a-hadith
+  uuid: 340ca335-b433-4861-8703-a95e40b8d3bc
+---

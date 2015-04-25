@@ -1,0 +1,39 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=603
+title: The Evils of Westernization
+author: Dr. Wahid Akhtar
+slug: the-evils-of-westernization
+uuid: 598b77bc-f76e-4a5c-9a94-981c226a6152
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=603
+  title: Preface
+  slug: 1-preface
+  uuid: 2566741f-62bf-4019-9798-eca6d2f4437b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=603
+  title: Supplement 1
+  slug: 2-supplement-1
+  uuid: 8642a177-f894-4ec6-be58-a19eaa8766a0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=603
+  title: Supplement 2
+  slug: 3-supplement-2
+  uuid: ec993460-20be-4871-827f-bc3cf770ca64
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=603
+  title: Supplement 3
+  slug: 4-supplement-3
+  uuid: 3ecd59af-6854-40ab-8d5a-5bd228b2336c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=603
+  title: Supplement 4
+  slug: 5-supplement-4
+  uuid: 169b6277-0694-40c9-aa50-71f62c005c2d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=603
+  title: Supplement 5
+  slug: 6-supplement-5
+  uuid: 7395a026-a12c-4376-8eff-4ad31ea3d5b8
+---

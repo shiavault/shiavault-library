@@ -1,0 +1,39 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=238
+title: A Comparative Glance At the Qur'an and the Gospel
+author: Dar Rahe Haq Board of Writers
+slug: a-comparative-glance-at-the-qur-an-and-the-gospel
+uuid: 64a6610e-c9a8-444b-88c5-8731f6c417e6
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=238
+  title: Introduction
+  slug: 1-introduction
+  uuid: 4c744aed-01e5-4545-9453-16eaa79eae50
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=238
+  title: Monotheism
+  slug: 2-monotheism
+  uuid: de2a441c-bd79-47f3-89c0-3de46294ecf1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=238
+  title: The Events of the Day of Judgement (qiyamat)
+  slug: 3-the-events-of-the-day-of-judgement-qiyamat
+  uuid: 92729cf1-6415-44aa-b0db-078018c486ce
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=238
+  title: Worships
+  slug: 4-worships
+  uuid: 599ee428-dd2d-4252-ae55-edffd139b8dc
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=238
+  title: The Common Examples Between the Quran and the Gospel
+  slug: 5-the-common-examples-between-the-quran-and-the-gospel
+  uuid: 1e3a05ff-e621-462d-aa76-8a0c624a09dd
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=238
+  title: Epilogue
+  slug: 6-epilogue
+  uuid: c9fec20f-f7ed-439b-9a62-d735c3bc7e34
+---

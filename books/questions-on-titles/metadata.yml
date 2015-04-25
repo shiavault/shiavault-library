@@ -1,0 +1,49 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=580
+title: Questions On Titles
+author: Bashir Alidina
+slug: questions-on-titles
+uuid: 89c94852-4090-4009-ae95-a10f58319ccf
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=580
+  title: Introduction
+  slug: 1-introduction
+  uuid: 86fdc80f-0ed3-4684-ba40-e2d210e1d1f8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=580
+  title: Aalim (knowledgeable One)
+  slug: 2-aalim-knowledgeable-one
+  uuid: e282174d-7b84-4ecc-ac32-d421a053ecee
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=580
+  title: Allamah (knowledgeable in Many Fields of Knowledge)
+  slug: 3-allamah-knowledgeable-in-many-fields-of-knowledge
+  uuid: 9314d040-4b30-45e8-ad6a-b321cc37eb20
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=580
+  title: Hujat Ull Islam (proof of Islam)
+  slug: 4-hujat-ull-islam-proof-of-islam
+  uuid: 097ebeed-9f01-477f-a25f-8c92936b298e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=580
+  title: Ayatollah Al Uzma (the Great Sign of Allah)
+  slug: 5-ayatollah-al-uzma-the-great-sign-of-allah
+  uuid: 5fb94a38-58a1-4368-9042-6be80ad17631
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=580
+  title: Na'ib E Imam (representive of the Imam)
+  slug: 6-na-ib-e-imam-representive-of-the-imam
+  uuid: d9bec4ae-58bd-4a88-aea3-ebb8e3e8173e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=580
+  title: Imam (divine Guide)
+  slug: 7-imam-divine-guide
+  uuid: a01510a8-f9a3-4afa-81f1-2b6161e48949
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=580
+  title: The Final Aregument
+  slug: 8-the-final-aregument
+  uuid: f857ba90-1aca-41a3-bbdd-a4ae38f5a305
+---

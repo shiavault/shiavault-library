@@ -1,0 +1,35 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=772
+title: An Introduction To the Al-mizan
+author: Abu al-Qassim Razzaqi
+publisher: al-Tawhid Islamic Journal
+slug: an-introduction-to-the-al-mizan
+uuid: f3e19f3f-b07f-4429-a8e4-609c63195c2c
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=772
+  title: 'The Author:'
+  slug: 1-the-author
+  uuid: 0292ba8e-d4e2-4cda-b101-2fca377c2d42
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=772
+  title: 'The History of Al-Mizan:'
+  slug: 2-the-history-of-al-mizan
+  uuid: 92be5a52-2103-4dd7-a8e2-681e6b142f74
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=772
+  title: THE SALIENT FEATURES OF AL-MIZAN
+  slug: 3-the-salient-features-of-al-mizan
+  uuid: 2407d0bf-7819-4279-a2dd-d3b3a09a901f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=772
+  title: 'A Brief Survey of the Contents of al-Mizan:'
+  slug: 4-a-brief-survey-of-the-contents-of-al-mizan
+  uuid: a20837fc-c153-459c-81c3-b848beac3ce5
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=772
+  title: Note
+  slug: 5-note
+  uuid: d190dff0-bf54-4095-8ff0-28bcd140af2e
+---

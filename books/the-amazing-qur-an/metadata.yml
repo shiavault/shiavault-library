@@ -1,0 +1,49 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=140
+title: The Amazing Qur'an
+author: Dr. Gary Miller
+slug: the-amazing-qur-an
+uuid: a0d93d3f-467a-4c80-a470-409be3e06d89
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=140
+  title: The Amazing Qur'an - Part 1
+  slug: 1-the-amazing-qur-an-part-1
+  uuid: 9bd4f663-b6cb-471d-8aad-3305699a6928
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=140
+  title: Falsification Test
+  slug: 2-falsification-test
+  uuid: c6695fa7-c711-4900-af4c-75359cb1e109
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=140
+  title: The Amazing Qur'an - Part 2
+  slug: 3-the-amazing-qur-an-part-2
+  uuid: 8153c90f-86b6-4c2a-a0e2-4d15ad97bbd2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=140
+  title: 'Proof of Authenticity: an Approach'
+  slug: 4-proof-of-authenticity-an-approach
+  uuid: 2d317174-2688-478a-a6e1-ef7ce69f916a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=140
+  title: The Amazing Qur'an - Part 3
+  slug: 5-the-amazing-qur-an-part-3
+  uuid: 78d59a98-b988-41ef-8229-1dd291089454
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=140
+  title: Mythomania
+  slug: 6-mythomania
+  uuid: fce6468c-2bc2-4b0e-a9ee-d3c628d6ff9d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=140
+  title: The Amazing Qur'an - Part 4
+  slug: 7-the-amazing-qur-an-part-4
+  uuid: 5dd21d56-944b-4850-a89a-b6811dcbdd47
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=140
+  title: Conclusions
+  slug: 8-conclusions
+  uuid: 2d892999-e4b8-4d77-80fc-ed0ad465e2f0
+---

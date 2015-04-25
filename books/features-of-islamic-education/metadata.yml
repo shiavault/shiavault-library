@@ -1,0 +1,24 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=451
+title: Features of Islamic Education
+author: Al Balagh Foundation
+slug: features-of-islamic-education
+uuid: cd10bcee-47bc-43ae-b6f9-d8378e3a68d1
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=451
+  title: Forword
+  slug: 1-forword
+  uuid: de91ecfb-7129-44c1-84f4-ea273133befc
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=451
+  title: Main Pillars of the Islamic Code of Education
+  slug: 2-main-pillars-of-the-islamic-code-of-education
+  uuid: 2f5d969e-41c5-4d5f-a85b-87dc54d78c5f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=451
+  title: Healthy Preparation
+  slug: 3-healthy-preparation
+  uuid: f4ce3351-37a7-4704-a074-ebe656f49891
+---

@@ -1,0 +1,34 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=308
+title: Islamic Thought
+author: Al Balagh Foundation
+slug: islamic-thought
+uuid: da4d0e04-3c99-4c43-a333-20b0debce6c4
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=308
+  title: Forward
+  slug: 1-forward
+  uuid: bcd6291d-b78f-4481-9615-29910d10dad9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=308
+  title: Sources of Islamic Thought
+  slug: 2-sources-of-islamic-thought
+  uuid: b23e7641-4001-44e1-97bf-fdfdf71f80dd
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=308
+  title: Revelation Causes
+  slug: 3-revelation-causes
+  uuid: 75e73f1d-f35b-48ad-aa29-d60490d15316
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=308
+  title: Features of Islamic Thought
+  slug: 4-features-of-islamic-thought
+  uuid: 122451f8-4425-492f-8a32-c5f0a6610566
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=308
+  title: For the Sake of Fulfilling the Intellectual Originality
+  slug: 5-for-the-sake-of-fulfilling-the-intellectual-originality
+  uuid: 0ee5f165-5198-4a41-82b3-f8b0cbb610f4
+---

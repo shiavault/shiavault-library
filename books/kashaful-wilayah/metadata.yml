@@ -1,0 +1,34 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=366
+title: Kashaful Wilayah
+author: Syed Baqir Nisar Zaidi
+slug: kashaful-wilayah
+uuid: aab0422e-c819-476c-bb01-11fe8c1050f1
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=366
+  title: Oblivious Religion
+  slug: 1-oblivious-religion
+  uuid: f84a450a-bc96-4bca-929f-085b0f9c9568
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=366
+  title: Things Which Exclude One From the Religion
+  slug: 2-things-which-exclude-one-from-the-religion
+  uuid: a3dee7de-caa8-4692-bd62-9eae60ca49a8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=366
+  title: More Clarification
+  slug: 3-more-clarification
+  uuid: 1491d17b-176a-4891-81f8-9cf17a589d1b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=366
+  title: Wilayat E Fitri (natural Wilayat)
+  slug: 4-wilayat-e-fitri-natural-wilayat
+  uuid: 461296e9-55d2-4ad8-b5c6-c2a6e8de5d24
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=366
+  title: Removal of Astonishment
+  slug: 5-removal-of-astonishment
+  uuid: 953c6ddd-a767-4b06-9457-756a3aad4311
+---

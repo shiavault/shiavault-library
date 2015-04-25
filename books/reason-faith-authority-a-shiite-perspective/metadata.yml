@@ -1,0 +1,116 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=744
+title: 'Reason, Faith & Authority: a Shiite Perspective'
+author: Muhammad Ali Shomali
+publisher: http://www.al-islam.org
+slug: reason-faith-authority-a-shiite-perspective
+uuid: 5245bbb1-bd12-41fe-a468-fcb8b2339f23
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=744
+  title: "[Introduction]"
+  slug: 1-introduction
+  uuid: 0b362cbc-80b1-441a-8643-706aa062e056
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=744
+  title: The status of reason
+  slug: 2-the-status-of-reason
+  uuid: 05831684-3729-4d56-8e32-b38fb2432480
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=744
+  title: Different roles of reason
+  slug: 3-different-roles-of-reason
+  uuid: 619d46f5-5092-4ca7-ab45-cb966280b419
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=744
+  title: Role of Reason in understanding Moral Values
+  slug: 4-role-of-reason-in-understanding-moral-values
+  uuid: 46ec9172-dab4-4349-b25d-9a52ba9c95f8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=744
+  title: Faith & Reason
+  slug: 5-faith-reason
+  uuid: 2df911de-e2a3-446c-b63a-24978a09858e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=744
+  title: The Nature of Faith
+  slug: 6-the-nature-of-faith
+  uuid: 3e9b9e49-1580-47ab-80d8-14e671fb28bc
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=744
+  title: Faith requires reason
+  slug: 7-faith-requires-reason
+  uuid: 6239c8ed-34b4-47cf-91d3-267f3ee8a8cb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=744
+  title: Faith supports and strengthens reason
+  slug: 8-faith-supports-and-strengthens-reason
+  uuid: 4f11a9b1-6c0e-4179-8b02-5a351d2a780a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=744
+  title: Authority
+  slug: 9-authority
+  uuid: 47580228-7715-48a1-a78f-33cf9f6bc534
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=744
+  title: 'Principle One: Obedience belongs only to God'
+  slug: 10-principle-one-obedience-belongs-only-to-god
+  uuid: c05c307e-d91a-4b21-ae1e-0262f902e7b9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=744
+  title: 'Principle Two: Human freedom'
+  slug: 11-principle-two-human-freedom
+  uuid: acfa7501-dc77-46bc-8941-3e0aed35046e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=744
+  title: 'Principle Three: Delegation of obedience'
+  slug: 12-principle-three-delegation-of-obedience
+  uuid: 2bf6f175-b968-413f-af79-a66aacd52575
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=744
+  title: 'Principle Four: Authority of the Prophet'
+  slug: 13-principle-four-authority-of-the-prophet
+  uuid: b781c775-010f-4acb-8aa3-8579c1f43400
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=744
+  title: 'First: Delivering Divine Message'
+  slug: 14-first-delivering-divine-message
+  uuid: 6c6ff259-1983-4cab-9a52-5ed66a86ac30
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=744
+  title: 'Second: Judgement'
+  slug: 15-second-judgement
+  uuid: 9d78552c-3f37-421d-8f76-5b0f81c18d9f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=744
+  title: 'Third: Rule'
+  slug: 16-third-rule
+  uuid: 60d8e5c0-1431-4ea5-9b9a-b4474fbe9b62
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=744
+  title: 'Principle Five: Delegation of the Prophet’s Authority to Imam Ali and successive
+    Imams'
+  slug: 17-principle-five-delegation-of-the-prophet-s-authority-to-imam-ali-and-successive-imams
+  uuid: 1dc44d76-e480-4f03-aa8f-c7019c67ae27
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=744
+  title: 'Principle Six: Delegation of the authority of Imams to the jurists'
+  slug: 18-principle-six-delegation-of-the-authority-of-imams-to-the-jurists
+  uuid: 76360f81-502f-4fe2-8cdc-46be48aa7223
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=744
+  title: Who is a faqih?
+  slug: 19-who-is-a-faqih
+  uuid: 07882599-db52-416f-a943-beb30dcda9fd
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=744
+  title: The role of jurists in the time of minor occultation
+  slug: 20-the-role-of-jurists-in-the-time-of-minor-occultation
+  uuid: 304dbc12-9a93-457f-a641-138bd72a257f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=744
+  title: Bibliography
+  slug: 21-bibliography
+  uuid: 68cc434a-4d5f-4e66-9f4b-529c1c60c7e1
+---

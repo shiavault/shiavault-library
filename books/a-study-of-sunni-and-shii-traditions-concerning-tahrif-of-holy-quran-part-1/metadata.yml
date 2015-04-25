@@ -1,0 +1,28 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=737
+title: A Study of Sunni and Shii Traditions Concerning Tahrif [of Holy Quran] Part
+  1
+author: Rasul Ja'farian
+translator: Ali Quli Qara'i
+publisher: http://www.al-islam.org
+slug: a-study-of-sunni-and-shii-traditions-concerning-tahrif-of-holy-quran-part-1
+uuid: faa2957d-391b-4843-aa2d-f8c8f2c31688
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=737
+  title: A Study of Sunni and Shii Traditions Concerning Tahrif [of Holy Quran] Part
+    1
+  slug: 1-a-study-of-sunni-and-shii-traditions-concerning-tahrif-of-holy-quran-part-1
+  uuid: ac105c02-2287-4bbe-a6f3-dedeedbf6f1a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=737
+  title: 1. Semantic Alteration
+  slug: 2-1-semantic-alteration
+  uuid: 014df9b5-9eaf-499c-9950-bde94985ca87
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=737
+  title: 2. Textual Alteration
+  slug: 3-2-textual-alteration
+  uuid: 2df30393-8714-480a-a335-ed5dea38aea3
+---

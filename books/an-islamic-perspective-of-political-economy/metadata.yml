@@ -1,0 +1,29 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=336
+title: An Islamic Perspective of Political Economy
+author: Ayatollah Muhammad Baqir Al-Sadr
+slug: an-islamic-perspective-of-political-economy
+uuid: 659f9351-06d1-4850-b37c-db12ea0b7449
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=336
+  title: 'Chapter 1 : an Islamic Perspective of Political Economy'
+  slug: 1-chapter-1-an-islamic-perspective-of-political-economy
+  uuid: 22bf62a5-5685-4a9c-881e-46681c0d83ef
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=336
+  title: 'Chapter 3 : the Islamic Theory of Distribution'
+  slug: 2-chapter-3-the-islamic-theory-of-distribution
+  uuid: 30bde1e9-2d65-494d-84ba-c28883aa36f0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=336
+  title: 'Chapter 5 : Distribution of Produced Wealth'
+  slug: 3-chapter-5-distribution-of-produced-wealth
+  uuid: 2f8c7799-527f-4bb1-9e99-5ea000c5809d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=336
+  title: 'Chapter 7 : Economic Development'
+  slug: 4-chapter-7-economic-development
+  uuid: e066f0eb-c2aa-4c2d-a74a-db89e10bab07
+---

@@ -1,0 +1,34 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=619
+title: Compilation of Imam 'ali's Words
+author: Tebyan
+slug: compilation-of-imam-ali-s-words
+uuid: 1204ad9d-a5b4-474b-9b50-4296db483347
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=619
+  title: Preface
+  slug: 1-preface
+  uuid: f5c8b9e5-0b40-46a0-a455-df12c07bce91
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=619
+  title: Classification of Nahj Al-balaghah
+  slug: 2-classification-of-nahj-al-balaghah
+  uuid: f19f2416-55cc-4bd9-b312-c67465e9ac97
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=619
+  title: Two Kinds of Imams
+  slug: 3-two-kinds-of-imams
+  uuid: 822758e8-7f32-46e4-8555-b68442c1f229
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=619
+  title: Imam of Light and Guidance
+  slug: 4-imam-of-light-and-guidance
+  uuid: 75b2e22b-445c-4413-8bad-87a3fa634372
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=619
+  title: Chain of Guidance
+  slug: 5-chain-of-guidance
+  uuid: 26329d09-7e98-43ab-8c92-ac119233e6ed
+---

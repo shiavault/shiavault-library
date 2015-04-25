@@ -1,0 +1,49 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=40
+title: The Faith of Shia Islam
+author: Shaykh Muhammad Rida al-Mudhaffar
+slug: the-faith-of-shia-islam
+uuid: eb3573e0-a5d6-4ed3-8161-fd07c87a4b5c
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=40
+  title: Introduction
+  slug: 1-introduction
+  uuid: a32bd8d6-d828-447f-bfde-1cdca4b9b66a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=40
+  title: 'Introduction Part Two : the Prophethood'
+  slug: 2-introduction-part-two-the-prophethood
+  uuid: ed49a278-8279-44af-9d34-2a81a242c2bc
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=40
+  title: 21. Belief in the Qur'an
+  slug: 3-21-belief-in-the-qur-an
+  uuid: e5b09745-67de-4a12-ac6a-df0e82f13857
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=40
+  title: 31. Doctrine of the Mahdi
+  slug: 4-31-doctrine-of-the-mahdi
+  uuid: bd6582c8-161c-4a03-b51c-de5d3212a028
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=40
+  title: 33. Doctrine of Dissimulation (taqiyyah)
+  slug: 5-33-doctrine-of-dissimulation-taqiyyah
+  uuid: bf5b89d1-cc44-4f7e-ac0e-003316740906
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=40
+  title: 36. Our Belief in Pilgrimage (ziyarah)to the Holy Shrines
+  slug: 6-36-our-belief-in-pilgrimage-ziyarah-to-the-holy-shrines
+  uuid: 7d791d86-1ba5-4e0c-acdd-432cbb24ca78
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=40
+  title: 40. Doctrine of Non-participation in Oppressive Government
+  slug: 7-40-doctrine-of-non-participation-in-oppressive-government
+  uuid: b0d3cdb6-e8fa-41e2-a034-8179984a89f2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=40
+  title: Appendix
+  slug: 8-appendix
+  uuid: ef117dbb-036d-40d2-abec-785f87c8812e
+---

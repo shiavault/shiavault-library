@@ -1,52 +1,49 @@
 ---
-source: :alislam
-source_url: http://www.al-islam.org/hypocrites-commentary-surah-munafiqun-ayatullah-jafar-subhani
-author: Ayatullah Ja’far Subhani
-translator: Hamid Hussein Waqar
-title: 'Hypocrites: A Commentary on Surah Munafiqun'
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=254
+title: Hypocrites (a Commentary On Surah Munafiqun)
+author: Ayatollah Jafar Subhai
 slug: hypocrites-a-commentary-on-surah-munafiqun
-uuid: 5d33e91e-0a5e-4ab6-b98c-59bf3f5a6c7d
-description: |
-  A description of the reality of hypocrites in the Holy Quran.
+uuid: 78c5dce6-983e-4014-8212-9bed2de60810
 chapters:
-- source: :alislam
-  source_url: http://www.al-islam.org/hypocrites-commentary-surah-munafiqun-ayatullah-jafar-subhani/introduction-contention-society-basis
-  title: 'Introduction: Contention In Society is The Basis For Mankind’s Perfection'
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=254
+  title: 'Introduction : Contention in Society Is the Basis For Mankind’s Perfection'
   slug: 1-introduction-contention-in-society-is-the-basis-for-mankind-s-perfection
-  uuid: 288a2cb6-633b-4053-87f7-3350725e835b
-- source: :alislam
-  source_url: http://www.al-islam.org/hypocrites-commentary-surah-munafiqun-ayatullah-jafar-subhani/special-qualities-surah-al-munafiqun
-  title: Special Qualities of Surah al-Munafiqun
-  slug: 2-special-qualities-of-surah-al-munafiqun
-  uuid: 8375c4d0-d191-4fbd-8f64-50909055fba9
-- source: :alislam
-  source_url: http://www.al-islam.org/hypocrites-commentary-surah-munafiqun-ayatullah-jafar-subhani/hypocrisy
-  title: Hypocrisy
-  slug: 3-hypocrisy
-  uuid: a33105af-e26d-4d9a-bfbb-1f5c3daef3b3
-- source: :alislam
-  source_url: http://www.al-islam.org/hypocrites-commentary-surah-munafiqun-ayatullah-jafar-subhani/detrimental-effects-hypocrisy
-  title: Detrimental Effects of Hypocrisy
-  slug: 4-detrimental-effects-of-hypocrisy
-  uuid: eaaeb1c8-5c95-4ef4-96b1-8096eb29b961
-- source: :alislam
-  source_url: http://www.al-islam.org/hypocrites-commentary-surah-munafiqun-ayatullah-jafar-subhani/signs-hypocrisy
-  title: Signs of Hypocrisy
-  slug: 5-signs-of-hypocrisy
-  uuid: a78bb56e-3ac6-4bbd-9659-bc04211857b7
-- source: :alislam
-  source_url: http://www.al-islam.org/hypocrites-commentary-surah-munafiqun-ayatullah-jafar-subhani/hypocrites-and-repentance
-  title: Hypocrites And Repentance
-  slug: 6-hypocrites-and-repentance
-  uuid: 8e77f8d5-e88d-4f85-b687-94ee2e90a210
-- source: :alislam
-  source_url: http://www.al-islam.org/hypocrites-commentary-surah-munafiqun-ayatullah-jafar-subhani/hypocrites-dangerous-plans
-  title: Hypocrites’ Dangerous Plans
-  slug: 7-hypocrites-dangerous-plans
-  uuid: 9be7b92b-d543-46cb-be2a-dbd7e4dbe350
-- source: :alislam
-  source_url: http://www.al-islam.org/hypocrites-commentary-surah-munafiqun-ayatullah-jafar-subhani/islamic-viewpoint-world
-  title: The Islamic Viewpoint of The World
-  slug: 8-the-islamic-viewpoint-of-the-world
-  uuid: ef8f2f60-c69f-43bc-9a45-957d92e27638
+  uuid: 4f0f73af-6d45-4ce0-8752-05bf66d24d85
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=254
+  title: 'Chapter 1 : Special Qualitiess of Surah Muna-fiqu-n'
+  slug: 2-chapter-1-special-qualitiess-of-surah-muna-fiqu-n
+  uuid: 3a3c26a8-db4a-4a10-9190-3e04a374470e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=254
+  title: 'Chapter 2 : Hypocricy'
+  slug: 3-chapter-2-hypocricy
+  uuid: 591b1db0-62a0-4d5f-8fc3-55960e769c5e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=254
+  title: 'Chapter 3 : Detrimental Effects of Hypocrisy'
+  slug: 4-chapter-3-detrimental-effects-of-hypocrisy
+  uuid: c33faeef-955a-4994-a46f-4fe5b028e130
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=254
+  title: 'Chapter 4 : Signs of Hypocrisy'
+  slug: 5-chapter-4-signs-of-hypocrisy
+  uuid: 30921bd2-6ea5-4a1e-8ac9-6320c1ea5ac7
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=254
+  title: 'Chapter 5 : Hypocrities and Repetence'
+  slug: 6-chapter-5-hypocrities-and-repetence
+  uuid: c6b95b67-9ef3-4970-bfdc-0ebaea91d5e5
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=254
+  title: 'Chapter 6 : Hypocrities''s Dangerous Plans'
+  slug: 7-chapter-6-hypocrities-s-dangerous-plans
+  uuid: aa446213-1db8-4cdb-8c53-123944096ca1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=254
+  title: 'Chapter 7 : the Islamic Viewpoint of the World'
+  slug: 8-chapter-7-the-islamic-viewpoint-of-the-world
+  uuid: 2e83b5a5-3989-403a-a35c-c372425e3350
 ---

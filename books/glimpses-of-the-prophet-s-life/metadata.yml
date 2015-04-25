@@ -1,0 +1,29 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=355
+title: Glimpses of the Prophet's Life
+author: Talip Alp
+slug: glimpses-of-the-prophet-s-life
+uuid: 6ac1588e-ea0d-4d1e-a124-0576b45b3e08
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=355
+  title: Foreword
+  slug: 1-foreword
+  uuid: 8086e268-1af1-49ba-9158-2f939ac9d57b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=355
+  title: Age of Disenlightenment
+  slug: 2-age-of-disenlightenment
+  uuid: b467428d-d01b-4ab1-8c19-762aa743273f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=355
+  title: The Messenger in Medina
+  slug: 3-the-messenger-in-medina
+  uuid: 1609a29e-1e57-4fcd-a6c3-191f42d54c3a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=355
+  title: The Jews
+  slug: 4-the-jews
+  uuid: ddd17bf4-6fce-4b63-ac15-bc52bb44ac7b
+---

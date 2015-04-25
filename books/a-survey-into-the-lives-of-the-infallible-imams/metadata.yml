@@ -1,94 +1,82 @@
 ---
-source: :alislam
-source_url: http://www.al-islam.org/survey-lives-infallible-imams-murtadha-mutahhari
-author: Ayatullah Murtadha Mutahhari
-publisher: ABWA Publishing and Printing Center
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=711
+title: A Survey Into the Lives of the Infallible Imams
+author: Ayatollah Murtadha Mutahhari
 translator: Zainab Muhammadi ‘Araqi
-title: A Survey into the Lives of the Infallible Imams
+publisher: ABWA Publishing and Printing Center
 slug: a-survey-into-the-lives-of-the-infallible-imams
-uuid: 01305b01-dcd1-4758-87ae-f92df3f71c39
-description: |
-  This text provides a good analysis of the lives of the Infallible Imams
-  while presenting the different methods, struggles, and circumstances of
-  each Imam and how they may have acted similarly or differently. However
-  they have all acted as Allah (SWT) desired of them and that if each of
-  the Imam were in the same position as the other Imams, they would’ve
-  behaved similarly.
+uuid: b8fa3ff5-4dc7-4bf3-ad82-ff445e8fcc92
 chapters:
-- source: :alislam
-  source_url: http://www.al-islam.org/survey-lives-infallible-imams-murtadha-mutahhari/transliteration-symbols
-  title: Transliteration Symbols
-  slug: 1-transliteration-symbols
-  uuid: 0d468264-637c-463e-91f4-ef07eaf6b1a3
-- source: :alislam
-  source_url: http://www.al-islam.org/survey-lives-infallible-imams-murtadha-mutahhari/foreword
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=711
   title: Foreword
-  slug: 2-foreword
-  uuid: 8c794224-eff5-4e5a-9520-da98da59b886
-- source: :alislam
-  source_url: http://www.al-islam.org/survey-lives-infallible-imams-murtadha-mutahhari/introduction-comparison-between-imam-al-husayns
+  slug: 1-foreword
+  uuid: 54070688-3832-41e6-879f-bb34090cae07
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=711
   title: 'Introduction: A Comparison between Imam al-Husayn’s (‘a) Path and That of
     Other Imams (‘a)'
-  slug: 3-introduction-a-comparison-between-imam-al-husayn-s-a-path-and-that-of-other-imams-a
-  uuid: 7f65aaba-0c7f-475a-a470-1d25db30e2ad
-- source: :alislam
-  source_url: http://www.al-islam.org/survey-lives-infallible-imams-murtadha-mutahhari/chapter-1-alis-struggles
+  slug: 2-introduction-a-comparison-between-imam-al-husayn-s-a-path-and-that-of-other-imams-a
+  uuid: 9f28cfd0-c0d7-4a04-bf84-5379dbc7548f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=711
   title: 'Chapter 1: ‘Ali’s (‘a) Struggles'
-  slug: 4-chapter-1-ali-s-a-struggles
-  uuid: 8920438e-6302-4223-8d0f-38fcf6c2431d
-- source: :alislam
-  source_url: http://www.al-islam.org/survey-lives-infallible-imams-murtadha-mutahhari/chapter-2-imam-al-hassans-pacifism-session-1
+  slug: 3-chapter-1-ali-s-a-struggles
+  uuid: 98ce95c5-b26d-4625-8f20-ad54cd5f89ae
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=711
   title: 'Chapter 2: Imam al-Hassan’s (‘a) Pacifism (Session 1)'
-  slug: 5-chapter-2-imam-al-hassan-s-a-pacifism-session-1
-  uuid: 6260723e-3b2a-4ffe-9527-f0450cda03c5
-- source: :alislam
-  source_url: http://www.al-islam.org/survey-lives-infallible-imams-murtadha-mutahhari/chapter-2-imam-al-hassans-pacifism-session-2
+  slug: 4-chapter-2-imam-al-hassan-s-a-pacifism-session-1
+  uuid: ab371697-8f22-4db1-b45a-214caca888a3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=711
   title: 'Chapter 2: Imam al-Hassan’s Pacifism (Session 2)'
-  slug: 6-chapter-2-imam-al-hassan-s-pacifism-session-2
-  uuid: f1477f8f-2c2b-43e0-8c62-1426773ffacb
-- source: :alislam
-  source_url: http://www.al-islam.org/survey-lives-infallible-imams-murtadha-mutahhari/chapter-3-discourse-imam-zayn-al-abidin
+  slug: 5-chapter-2-imam-al-hassan-s-pacifism-session-2
+  uuid: 2dbc3ae5-33e0-42ab-927a-cf5d7e5f5429
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=711
   title: 'Chapter 3: A Discourse on Imam Zayn al-‘Abidin (‘a)'
-  slug: 7-chapter-3-a-discourse-on-imam-zayn-al-abidin-a
-  uuid: 737bc35b-3f46-4be6-9c90-f893f401bf1c
-- source: :alislam
-  source_url: http://www.al-islam.org/survey-lives-infallible-imams-murtadha-mutahhari/chapter-4-imam-al-sadiq-and-issue-vicegerency
+  slug: 6-chapter-3-a-discourse-on-imam-zayn-al-abidin-a
+  uuid: 1e3a74aa-a68e-43e8-8caf-50d5cdbb8ce0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=711
   title: 'Chapter 4: Imam al-Sadiq (‘a) and the Issue of Vicegerency (Session 1)'
-  slug: 8-chapter-4-imam-al-sadiq-a-and-the-issue-of-vicegerency-session-1
-  uuid: 8c15942f-9787-460c-9e6c-277fb69f795d
-- source: :alislam
-  source_url: http://www.al-islam.org/survey-lives-infallible-imams-murtadha-mutahhari/chapter-4-imam-al-sadiq-and-issue-vicegerency-0
+  slug: 7-chapter-4-imam-al-sadiq-a-and-the-issue-of-vicegerency-session-1
+  uuid: ba9b7ea0-5973-45c2-8abb-d5873c7859ff
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=711
   title: 'Chapter 4: Imam al-Sadiq (‘a) and the Issue of Vicegerency (Session 2)'
-  slug: 9-chapter-4-imam-al-sadiq-a-and-the-issue-of-vicegerency-session-2
-  uuid: b2df75da-ebd1-45f2-8fc2-405bb334aa5a
-- source: :alislam
-  source_url: http://www.al-islam.org/survey-lives-infallible-imams-murtadha-mutahhari/chapter-5-reasons-imam-musa-al-kazims-martyrdom
+  slug: 8-chapter-4-imam-al-sadiq-a-and-the-issue-of-vicegerency-session-2
+  uuid: fd06ec34-7529-4b14-a552-8aaf6078a37e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=711
   title: 'Chapter 5: The Reasons for Imam Musa al-Kazim’s (‘a) Martyrdom'
-  slug: 10-chapter-5-the-reasons-for-imam-musa-al-kazim-s-a-martyrdom
-  uuid: ffb55efe-d9ab-47d2-b342-ded64e54bbc0
-- source: :alislam
-  source_url: http://www.al-islam.org/survey-lives-infallible-imams-murtadha-mutahhari/chapter-6-issue-imam-al-rida-crown-prince-session-1
+  slug: 9-chapter-5-the-reasons-for-imam-musa-al-kazim-s-a-martyrdom
+  uuid: 8796dd0f-4480-43ec-a3da-d1b6be0baac7
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=711
   title: 'Chapter 6: The Issue of Imam al-Rida (‘a) as the Crown Prince (Session 1)'
-  slug: 11-chapter-6-the-issue-of-imam-al-rida-a-as-the-crown-prince-session-1
-  uuid: 48fc1046-d6fc-4262-ab11-ff2990dc2ef6
-- source: :alislam
-  source_url: http://www.al-islam.org/survey-lives-infallible-imams-murtadha-mutahhari/chapter-6-issue-imam-al-ridaa-crown-prince-session
-  title: Chapter 6 :The Issue of Imam al-Rida(‘a) as the Crown Prince (Session 2)
-  slug: 12-chapter-6-the-issue-of-imam-al-rida-a-as-the-crown-prince-session-2
-  uuid: 349cfdff-2705-4a3e-b9af-68d322397f62
-- source: :alislam
-  source_url: http://www.al-islam.org/survey-lives-infallible-imams-murtadha-mutahhari/chapter-7-topic-imam-al-hassan-al-askari
+  slug: 10-chapter-6-the-issue-of-imam-al-rida-a-as-the-crown-prince-session-1
+  uuid: dd5ddd01-8ea8-486a-887c-9c685c613c6a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=711
+  title: 'Chapter 6 : The Issue of Imam al-Rida(‘a) as the Crown Prince (Session 2)'
+  slug: 11-chapter-6-the-issue-of-imam-al-rida-a-as-the-crown-prince-session-2
+  uuid: a9a6102e-ca60-433a-aa47-ff19f8e174b7
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=711
   title: 'Chapter 7: On the Topic of Imam al-Hassan al-‘Askari (‘a)'
-  slug: 13-chapter-7-on-the-topic-of-imam-al-hassan-al-askari-a
-  uuid: 856f7d90-4864-403e-817a-e85d5e62bb7d
-- source: :alislam
-  source_url: http://www.al-islam.org/survey-lives-infallible-imams-murtadha-mutahhari/chapter-8-part-1-universal-justice
+  slug: 12-chapter-7-on-the-topic-of-imam-al-hassan-al-askari-a
+  uuid: 47801507-cf07-49a7-a7c8-3a8592bbc6c6
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=711
   title: 'Chapter 8, Part 1: The Universal Justice'
-  slug: 14-chapter-8-part-1-the-universal-justice
-  uuid: 06b32e1e-eee2-48cc-93bb-37807d4e1359
-- source: :alislam
-  source_url: http://www.al-islam.org/survey-lives-infallible-imams-murtadha-mutahhari/chapter-8-part-2-promised-mawud-al-mahdi
+  slug: 13-chapter-8-part-1-the-universal-justice
+  uuid: 967527f2-2620-42be-a6ac-6048084e19f6
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=711
   title: 'Chapter 8, Part 2: The Promised [Maw‘ud] al-Mahdi'
-  slug: 15-chapter-8-part-2-the-promised-maw-ud-al-mahdi
-  uuid: 1ddd067c-fec2-467d-89ce-7fced9873423
+  slug: 14-chapter-8-part-2-the-promised-maw-ud-al-mahdi
+  uuid: d525c18d-62fa-42c8-bb57-3f938d1410b2
 ---

@@ -1,0 +1,44 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=448
+title: Rewards From Recitation of the Quran
+author: Resaleh Team
+slug: rewards-from-recitation-of-the-quran
+uuid: 1795a46a-9a71-43f9-84ee-07314d91f36f
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=448
+  title: Part 1
+  slug: 1-part-1
+  uuid: f305af81-7d0b-481d-8b2f-68502d85a019
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=448
+  title: Part 2
+  slug: 2-part-2
+  uuid: 2d42101f-f250-4a16-a5b6-2731651c9d13
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=448
+  title: Chapter 36 (ya-sin)
+  slug: 3-chapter-36-ya-sin
+  uuid: 184d876e-b4c6-44a4-a1c0-9d2c59c9c81e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=448
+  title: Part 3
+  slug: 4-part-3
+  uuid: b7461a90-74db-4676-a31d-d05d006bfcf1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=448
+  title: Chapter 75 (al-qiyama)
+  slug: 5-chapter-75-al-qiyama
+  uuid: af2a9fa9-6197-49de-ae0b-2e5cfcac5e6c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=448
+  title: Part 4
+  slug: 6-part-4
+  uuid: 44499386-f6ec-4ac4-9d52-352d2afaedf4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=448
+  title: Chapter 110 (al-nasr)
+  slug: 7-chapter-110-al-nasr
+  uuid: 41804a37-91ee-45a4-817c-62484a2776c4
+---

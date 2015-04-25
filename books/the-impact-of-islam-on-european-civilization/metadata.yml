@@ -1,0 +1,40 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=823
+title: The Impact of Islam On European Civilization
+author: Mohammad Fanaei Eshkevari
+publisher: www.eshkevari.com
+slug: the-impact-of-islam-on-european-civilization
+uuid: f45faca2-4789-4a54-b0b8-3f45afbb29a6
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=823
+  title: "[Preface]"
+  slug: 1-preface
+  uuid: ce84b781-64c8-4c80-936d-51d199b935fd
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=823
+  title: Science and Civilization in Islam
+  slug: 2-science-and-civilization-in-islam
+  uuid: 481488dc-e17e-4b81-b8a3-d63638763298
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=823
+  title: Ways of Influence
+  slug: 3-ways-of-influence
+  uuid: 830e523b-55fb-45e1-942a-38785e3973f8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=823
+  title: Some Areas of Impact
+  slug: 4-some-areas-of-impact
+  uuid: 63196d70-41d8-45b7-a8b4-51fcaee91415
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=823
+  title: Concluding Remark
+  slug: 5-concluding-remark
+  uuid: 19688030-257d-45fe-a74f-18085cb4e726
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=823
+  title: 'Sources:'
+  slug: 6-sources
+  uuid: 57480641-4fa1-497b-8014-e57f9913bf0f
+---

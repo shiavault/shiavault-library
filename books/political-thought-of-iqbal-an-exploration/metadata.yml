@@ -1,0 +1,35 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=732
+title: Political Thought of Iqbal (an Exploration)
+author: Dr. Ali Raza Tahir
+publisher: www.ijcrb.webs.com
+slug: political-thought-of-iqbal-an-exploration
+uuid: be205647-c664-4fc2-8d01-f838911c5cb5
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=732
+  title: 'Abstract:'
+  slug: 1-abstract
+  uuid: f6720e15-7968-4671-be5c-1c761dbeb4b9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=732
+  title: "[Inroduction]"
+  slug: 2-inroduction
+  uuid: 5d487839-5640-4c99-8651-64e699a46b2b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=732
+  title: The Origin of Human Being
+  slug: 3-the-origin-of-human-being
+  uuid: 966016f4-ca6f-48b2-960d-9b232242aae0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=732
+  title: The Ills of Muslim World
+  slug: 4-the-ills-of-muslim-world
+  uuid: c644442f-f2c4-4d11-bf14-41bc99d840b3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=732
+  title: References
+  slug: 5-references
+  uuid: c6b73168-fbb1-4e87-a663-620441af53a1
+---

@@ -1,0 +1,39 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=294
+title: Imam Hussein Bin Ali (a.s.)
+author: Al Balagh Foundation
+slug: imam-hussein-bin-ali-a-s
+uuid: 888b9bfe-706b-484c-9b56-9ea531b4022d
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=294
+  title: Publisher's Word
+  slug: 1-publisher-s-word
+  uuid: bfb5e2de-db70-4192-808e-f34057a65111
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=294
+  title: How Islam Immortalized Imam Hussein (a.s.)
+  slug: 2-how-islam-immortalized-imam-hussein-a-s
+  uuid: 0954f3ac-abb9-40d0-b3e5-cb39b850ade1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=294
+  title: Imam Hussein's Role in Reviving Islam
+  slug: 3-imam-hussein-s-role-in-reviving-islam
+  uuid: 818b9e4d-f3e8-4458-9249-0998bd7cd6f2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=294
+  title: Wind of the Uprising
+  slug: 4-wind-of-the-uprising
+  uuid: 09b03bd2-fecc-4c42-9961-17b4a6b7d923
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=294
+  title: An Route To Iraq
+  slug: 5-an-route-to-iraq
+  uuid: 2fc20195-d936-4c61-83f9-d18c60cf7802
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=294
+  title: Role of Women in the Uprising
+  slug: 6-role-of-women-in-the-uprising
+  uuid: ec41a233-ff3d-4f38-8efe-cbeb442dacc9
+---

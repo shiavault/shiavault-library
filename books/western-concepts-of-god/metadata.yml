@@ -1,0 +1,24 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=283
+title: Western Concepts of God
+author: Cultural Rafed Network
+slug: western-concepts-of-god
+uuid: ccc2ba7c-5535-4a1e-a412-47e1161424e0
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=283
+  title: Introduction
+  slug: 1-introduction
+  uuid: dee06dd6-2f36-4da6-be4d-8fddfe2f4890
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=283
+  title: 4. Renaissance Thought
+  slug: 2-4-renaissance-thought
+  uuid: a27403b8-791c-48d1-a567-67dfdac095e2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=283
+  title: 3. Unity
+  slug: 3-3-unity
+  uuid: d96cf84a-52e2-4e0d-8985-352f80bd78db
+---

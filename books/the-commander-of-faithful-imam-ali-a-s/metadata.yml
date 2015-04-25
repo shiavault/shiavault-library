@@ -1,0 +1,44 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=306
+title: The Commander of Faithful Imam Ali (a.s)
+author: Al Balagh Foundation
+slug: the-commander-of-faithful-imam-ali-a-s
+uuid: 7ef65858-9009-4db8-9ed6-64ffa27e0876
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=306
+  title: Publisher's Word
+  slug: 1-publisher-s-word
+  uuid: 8735acff-63b8-41ac-8c9e-12a584efdff1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=306
+  title: The First Believer
+  slug: 2-the-first-believer
+  uuid: b96c8486-8499-4b0e-ac67-434c708167cb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=306
+  title: Tasks After Emigration
+  slug: 3-tasks-after-emigration
+  uuid: 1734633d-11d5-471a-a895-2343a314aa0d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=306
+  title: Islamic Perspective of Imam Ali
+  slug: 4-islamic-perspective-of-imam-ali
+  uuid: 34208846-3c01-4e7c-87dd-5dd83ce284ff
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=306
+  title: 'Part Two : Introduction'
+  slug: 5-part-two-introduction
+  uuid: 77c164ef-a1b3-474e-93f5-af1672f095ef
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=306
+  title: Policy of Reaction
+  slug: 6-policy-of-reaction
+  uuid: 09941dd8-9d09-4bd9-b003-3fc1219e32a7
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=306
+  title: To the Kingdom of Allah
+  slug: 7-to-the-kingdom-of-allah
+  uuid: 5187e1c9-5eed-4701-a87a-4df65e3b8bdb
+---

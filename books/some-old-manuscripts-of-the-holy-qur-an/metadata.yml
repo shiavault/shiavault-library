@@ -1,0 +1,54 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=576
+title: Some Old Manuscripts of the Holy Qur'an
+author: Kazim Mudir Shanehchi
+slug: some-old-manuscripts-of-the-holy-qur-an
+uuid: f46c3dc1-c117-43d8-bcc1-748d4af9a6be
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=576
+  title: Introduction
+  slug: 1-introduction
+  uuid: fdde6e12-721b-4262-be64-64fc169d475c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=576
+  title: 1. Compilers of the Qur'an
+  slug: 2-1-compilers-of-the-qur-an
+  uuid: 8c9337c5-c908-4c65-8007-39c91c484e12
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=576
+  title: 3. the Codex of 'ali (a)
+  slug: 3-3-the-codex-of-ali-a
+  uuid: 65b0959b-1dcc-443f-83f4-fe4ef125871c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=576
+  title: 5. the Egyptian Codex
+  slug: 4-5-the-egyptian-codex
+  uuid: 0cefaa8e-3c7f-478f-8917-d1d5b466347c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=576
+  title: 8. the Codex At Topkapu Sarayi Collection
+  slug: 5-8-the-codex-at-topkapu-sarayi-collection
+  uuid: f83d7410-d799-449d-b4e0-9a051ddc2bbb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=576
+  title: 10. the Naskhi Script
+  slug: 6-10-the-naskhi-script
+  uuid: c3debfb7-181b-4302-8a1f-60bc1106e5d0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=576
+  title: 13. the Codex of Al 'imam Al-husayn (a)
+  slug: 7-13-the-codex-of-al-imam-al-husayn-a
+  uuid: 4327eaef-fd3a-4357-9d9a-2b5637c92ddc
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=576
+  title: 19. the Codex of Al-'imam Al-rida (a)
+  slug: 8-19-the-codex-of-al-imam-al-rida-a
+  uuid: 5dc55be2-bd44-4930-b893-888774740841
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=576
+  title: Notes
+  slug: 9-notes
+  uuid: f1957234-e4d5-4aae-8175-94c78b076272
+---

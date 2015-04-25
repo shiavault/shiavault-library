@@ -1,0 +1,45 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=811
+title: Dialectical Relations of Modernity and Tradition
+author: Saefur Rochmat
+publisher: www.staff.uny.ac.id
+slug: dialectical-relations-of-modernity-and-tradition
+uuid: 7ebb734c-909e-4159-b872-66e13d59a6c1
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=811
+  title: 'Abstract:'
+  slug: 1-abstract
+  uuid: 5f85af4d-f42a-4499-92b8-6003b91415f9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=811
+  title: A. Introduction
+  slug: 2-a-introduction
+  uuid: 8618b6b0-aa69-4947-a165-fc3df836e204
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=811
+  title: B. Modern Structural transcendental Approach
+  slug: 3-b-modern-structural-transcendental-approach
+  uuid: 7438ba5c-c2ca-415d-aafa-011fea5f8e10
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=811
+  title: C. Dialectic with Traditional Realities
+  slug: 4-c-dialectic-with-traditional-realities
+  uuid: 44d678b3-74ce-4872-b64d-58ffe5544d52
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=811
+  title: D. Historically and Structurally transcendental Approach
+  slug: 5-d-historically-and-structurally-transcendental-approach
+  uuid: 6c646f72-aab9-4360-bef7-edcbef857119
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=811
+  title: E. Conclusion
+  slug: 6-e-conclusion
+  uuid: ae6e451e-0ce2-4b93-9d26-8b311912d789
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=811
+  title: F. References
+  slug: 7-f-references
+  uuid: 49418788-e90e-4d5e-aa21-d5b1a3485f9a
+---

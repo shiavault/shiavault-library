@@ -1,0 +1,40 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=837
+title: Aristotelian Perspectives For Post-modern Reason (ii)
+author: Alfredo Marcos
+publisher: www.fyl.uva.es
+slug: aristotelian-perspectives-for-post-modern-reason-ii
+uuid: edc515c7-4716-490f-a04c-6acd746ee623
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=837
+  title: Introduction
+  slug: 1-introduction
+  uuid: 10aad381-a492-4337-a467-6dc53e541cdc
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=837
+  title: Practical Truth
+  slug: 2-practical-truth
+  uuid: 40d7b016-367a-4504-aa03-901e0c6f8e49
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=837
+  title: Practical truth and creative discovery
+  slug: 3-practical-truth-and-creative-discovery
+  uuid: eb2e3726-2ea4-4300-af63-8895261b7656
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=837
+  title: Metaphor as a creative discovery of similarity
+  slug: 4-metaphor-as-a-creative-discovery-of-similarity
+  uuid: 1804abb1-b46c-47df-9efd-8ee1279eb015
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=837
+  title: Conclusion
+  slug: 5-conclusion
+  uuid: a6f0f8a6-a121-46ac-91b3-7603b101db04
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=837
+  title: Notes
+  slug: 6-notes
+  uuid: 75af796b-5805-41a8-8aef-7d0c1f929b7d
+---

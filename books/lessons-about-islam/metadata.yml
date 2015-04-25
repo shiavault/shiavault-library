@@ -1,0 +1,35 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=24
+title: Lessons About Islam
+author: Shaheed Ayatollah Dr. Beheshti
+slug: lessons-about-islam
+uuid: 669de151-fa3c-4c6b-8198-197bc61dcaf8
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=24
+  title: 'Part 1 : Foreword'
+  slug: 1-part-1-foreword
+  uuid: 659a6f7d-626c-4dba-ab95-0547a9c77d7f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=24
+  title: 'Part 2 : 5: God Is Unlike Anything Else'
+  slug: 2-part-2-5-god-is-unlike-anything-else
+  uuid: e3f04e62-f59f-482a-a89a-99d1031cca28
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=24
+  title: 'Part 2 : 5: God Is Unlike Anything Else Part 3 : 12: Man and Universe (recognise
+    Yourself!)'
+  slug: 3-part-2-5-god-is-unlike-anything-else-part-3-12-man-and-universe-recognise-yourself
+  uuid: 439245a3-9fdf-4e7f-a1f9-480b090765e9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=24
+  title: 'Part 4 : 22: Fate and Free Will'
+  slug: 4-part-4-22-fate-and-free-will
+  uuid: 88fcf697-ba36-4ebf-9b52-e8702e0e989f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=24
+  title: 'Part 5 : 28: Believing in and Honouring All Prophets'
+  slug: 5-part-5-28-believing-in-and-honouring-all-prophets
+  uuid: 9d339961-cc0d-444a-838e-01e44eebd12a
+---

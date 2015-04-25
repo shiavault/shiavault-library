@@ -1,0 +1,29 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=313
+title: Woman and Society
+author: Al Balagh Foundation
+slug: woman-and-society
+uuid: 47f5c5e0-6a55-4bf8-befb-09ce2b245d1e
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=313
+  title: Preface
+  slug: 1-preface
+  uuid: 7ba90823-32d3-4c5a-b032-debac314ff09
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=313
+  title: Woman and Material Civilization
+  slug: 2-woman-and-material-civilization
+  uuid: d2f2cdac-9926-4ae2-935e-006844063864
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=313
+  title: Woman During the Lifetimes of the Prophets (a.s.)
+  slug: 3-woman-during-the-lifetimes-of-the-prophets-a-s
+  uuid: 77456977-a439-4b66-a94f-54e714c81640
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=313
+  title: Woman and Family Economy
+  slug: 4-woman-and-family-economy
+  uuid: 5d881eb1-f2df-4484-ae2f-dee4ed9062af
+---

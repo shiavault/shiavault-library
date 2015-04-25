@@ -1,0 +1,25 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=813
+title: 'Social Sciences and Religion: What Relationship?'
+author: Mustapha Achoui
+publisher: The association of Muslim Social Scientists
+slug: social-sciences-and-religion-what-relationship
+uuid: fb79ab5e-0a20-4eb6-b224-c9b0cb8f8f3f
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=813
+  title: 'Introduction:'
+  slug: 1-introduction
+  uuid: dc6c3d6f-49fb-4262-bae2-c665d03e4c74
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=813
+  title: The nature of the relationship between the social sciences and philosophy.
+  slug: 2-the-nature-of-the-relationship-between-the-social-sciences-and-philosophy
+  uuid: 210e8281-2a28-4005-9441-b375f147ffec
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=813
+  title: The relationship between social sciences and religious sciences.
+  slug: 3-the-relationship-between-social-sciences-and-religious-sciences
+  uuid: ab128c37-2bb6-4b36-bb5c-e8404d41b302
+---

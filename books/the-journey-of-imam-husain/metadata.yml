@@ -1,0 +1,39 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=118
+title: The Journey of Imam Husain
+author: Sheikh Al-Mufid
+slug: the-journey-of-imam-husain
+uuid: 8e946242-bb4a-4b0d-b21b-e012eae41d63
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=118
+  title: Part 1
+  slug: 1-part-1
+  uuid: 5e926b69-d053-4b95-a733-ff9f7cc1b157
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=118
+  title: Part 2
+  slug: 2-part-2
+  uuid: 0854ce7d-a855-4f19-8a31-3b35fb798005
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=118
+  title: Part 3
+  slug: 3-part-3
+  uuid: bf402a04-2a77-496b-9d18-2e6309fe2e73
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=118
+  title: Part 4
+  slug: 4-part-4
+  uuid: 5fd8ceea-263a-4b89-a952-44332817b8f6
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=118
+  title: Part 5
+  slug: 5-part-5
+  uuid: c1b5c06b-973a-424f-ac26-0a0886600a31
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=118
+  title: Part 6
+  slug: 6-part-6
+  uuid: 5aa150ba-24e0-40bf-be58-c46743542095
+---

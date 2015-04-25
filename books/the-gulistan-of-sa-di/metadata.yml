@@ -1,0 +1,60 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=342
+title: The Gulistan of Sa'di
+author: Sa'di
+publisher: www.classics.mit.edu
+slug: the-gulistan-of-sa-di
+uuid: 4ddae2ba-10aa-4889-bee7-4f115341419e
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=342
+  title: Introductory
+  slug: 1-introductory
+  uuid: 19e96d1e-5c7a-4dd3-a4a1-5ff21818066a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=342
+  title: 'Chapter I: The Manners of Kings'
+  slug: 2-chapter-i-the-manners-of-kings
+  uuid: c6243b81-e4e7-4318-9bc7-331a80c39060
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=342
+  title: 'Chapter II: The Morals of Dervishes'
+  slug: 3-chapter-ii-the-morals-of-dervishes
+  uuid: 1b05daed-37a5-4415-9ca5-2b924689c9f4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=342
+  title: 'Chapter III: On the Excellence of Contentment'
+  slug: 4-chapter-iii-on-the-excellence-of-contentment
+  uuid: 792ab673-bd54-4247-877b-dca983402ceb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=342
+  title: 'Chapter IV: On the Advantages of Silence'
+  slug: 5-chapter-iv-on-the-advantages-of-silence
+  uuid: 17a36067-1e3c-4bd5-9c15-60b843936299
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=342
+  title: 'Chapter V: On Love and Youth'
+  slug: 6-chapter-v-on-love-and-youth
+  uuid: d9566b02-77d1-4742-af42-9eddd153e183
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=342
+  title: 'Chapter VI: On Weakness and Old Age'
+  slug: 7-chapter-vi-on-weakness-and-old-age
+  uuid: 1823442f-71b9-4387-9824-52fcf4dec53a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=342
+  title: 'Chapter VII: On the Effects of Education'
+  slug: 8-chapter-vii-on-the-effects-of-education
+  uuid: 70e69e8b-1197-4a1f-ac54-f874b5df9242
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=342
+  title: 'Chapter VIII: On Rules for Conduct in Life'
+  slug: 9-chapter-viii-on-rules-for-conduct-in-life
+  uuid: 4043ce9c-4f6d-4c1e-9e9a-3c707891ee53
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=342
+  title: Conclusion of the Book
+  slug: 10-conclusion-of-the-book
+  uuid: 15aba84c-468a-45a7-ae63-660741b52329
+---

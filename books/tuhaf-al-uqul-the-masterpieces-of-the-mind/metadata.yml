@@ -1,0 +1,140 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=374
+title: Tuhaf Al-uqul ( the Masterpieces of the Mind )
+author: Al-Hasan bin Ali bin Al-Hussein bin Shu'ba Al-Harrani
+slug: tuhaf-al-uqul-the-masterpieces-of-the-mind
+uuid: 7cdc0c35-a0e0-4dcd-81eb-f2183bbe454c
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: Introduction of the Copilier
+  slug: 1-introduction-of-the-copilier
+  uuid: e92236e4-46d5-4ce3-8d43-03c5f2e28993
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: Maxims of the Prophet
+  slug: 2-maxims-of-the-prophet
+  uuid: 6657caac-2255-4d50-a3c7-b7382c4eb7e6
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: Another Brief Commandment of the Prophet For Imam Ali
+  slug: 3-another-brief-commandment-of-the-prophet-for-imam-ali
+  uuid: 9ef5b3f9-da6e-4b72-9d0c-c93f8e8d275b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: Maxims and Words of Wisdom of the Prophet
+  slug: 4-maxims-and-words-of-wisdom-of-the-prophet
+  uuid: d3c9d6f2-d80c-4c54-9ce8-bb8178d7ce41
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: The Commandment of the Prophet For Me'aath Bin Jabal
+  slug: 5-the-commandment-of-the-prophet-for-me-aath-bin-jabal
+  uuid: 26fc7eb9-c28a-4de4-903b-dd68ce3ecfa3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: Short Maxims of the Prophet
+  slug: 6-short-maxims-of-the-prophet
+  uuid: 8154e81f-550e-4393-84e5-d3e34b70af9c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: Narrations of Imam Ali
+  slug: 7-narrations-of-imam-ali
+  uuid: 2da4034d-1d61-42e6-bf3f-7bf2f7be2b26
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: Imam Ali's Commandment For His Son Hussein Bin Ali
+  slug: 8-imam-ali-s-commandment-for-his-son-hussein-bin-ali
+  uuid: 8327548f-dba7-453f-95aa-718d677b282d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: Imam Ali's Document of Instructions For Malik Al-ashtar When He Appointed
+    Him As the Governor of Egypt and the Surroundings
+  slug: 9-imam-ali-s-document-of-instructions-for-malik-al-ashtar-when-he-appointed-him-as-the-governor-of-egypt-and-the-surroun
+  uuid: 3563abf8-5685-4c35-a446-432a1903e4c3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: Imam Ali's Admonition and Description of the Negligent
+  slug: 10-imam-ali-s-admonition-and-description-of-the-negligent
+  uuid: 204cddcc-eb8d-44a0-a704-e6db99f47c68
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: Imam Ali's Commandment For Mohammed Bin Abi Bakr
+  slug: 11-imam-ali-s-commandment-for-mohammed-bin-abi-bakr
+  uuid: 150447e8-b741-4174-b0a8-fa47b3126c3a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: Maxims of Imam Al-hassan
+  slug: 12-maxims-of-imam-al-hassan
+  uuid: 309e5d27-3d3d-437e-83a6-b6a47c4982ad
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: Maxims of Imam As-sejad
+  slug: 13-maxims-of-imam-as-sejad
+  uuid: f443b371-a797-477f-9fa8-e8af2cdd3227
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: Narratives of Imam Al-baqir
+  slug: 14-narratives-of-imam-al-baqir
+  uuid: 4bff9bcb-927c-4c98-8497-4d8d2d2a491e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: Maxims of Imam As-sadiq
+  slug: 15-maxims-of-imam-as-sadiq
+  uuid: 9d3fefb0-914c-474b-b81b-17d65fb9e41a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: The Quality of Quitting Islam
+  slug: 16-the-quality-of-quitting-islam
+  uuid: 566719cb-b1c4-48df-8933-4a581e55c0aa
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: Short Maxims of Imam As-sadiq
+  slug: 17-short-maxims-of-imam-as-sadiq
+  uuid: 06cb3bf8-de6e-4d06-b3a4-d18ab2ddcb0f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: Maxims of Imam Al-kadhim
+  slug: 18-maxims-of-imam-al-kadhim
+  uuid: 1e6fe1ca-d994-414c-a45a-b9ca4edff8a3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: Maxims of Imam Ar-reza
+  slug: 19-maxims-of-imam-ar-reza
+  uuid: 36084a49-6076-4982-87af-cfb85dc12f5d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: Maxims of Imam Al-jawad
+  slug: 20-maxims-of-imam-al-jawad
+  uuid: 544b9123-777d-4600-8377-2f7e83e69e31
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: Maxims of Imam Al-hadi
+  slug: 21-maxims-of-imam-al-hadi
+  uuid: 13aca45f-c3b5-406c-8421-262caacee182
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: Narrations of Imam Al-askari
+  slug: 22-narrations-of-imam-al-askari
+  uuid: e4d52828-3366-4d85-831b-78959b69cd91
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: God's Confidential Talk To Moses
+  slug: 23-god-s-confidential-talk-to-moses
+  uuid: 8a9804fc-bb53-4e92-91a5-06bd37c07185
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: God's Confidential Talks To Jesus
+  slug: 24-god-s-confidential-talks-to-jesus
+  uuid: ce8280de-defa-48b4-9a3d-6b5e80c741cb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: Admonitions and Maxims of Jesus in the Bible
+  slug: 25-admonitions-and-maxims-of-jesus-in-the-bible
+  uuid: 07c9d1b1-6d37-4c96-bd00-1ade574bb5a1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=374
+  title: Al-mufaddal Bin Omar's Commandment For the Community of Shiism
+  slug: 26-al-mufaddal-bin-omar-s-commandment-for-the-community-of-shiism
+  uuid: c79905cd-43b7-4593-9e0e-1ef27a857df5
+---

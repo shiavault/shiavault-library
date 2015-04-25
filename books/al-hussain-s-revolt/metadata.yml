@@ -1,0 +1,34 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=421
+title: Al-hussain's Revolt
+author: Ayatollah Murtadha Mutahhari
+slug: al-hussain-s-revolt
+uuid: ebe804d5-ea0e-421c-a4e6-db70f1c3b51a
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=421
+  title: Introduction Hussain - the Universalist Preface
+  slug: 1-introduction-hussain-the-universalist-preface
+  uuid: 7dff59ad-620d-4a0a-b78d-9ec46cbd7c4b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=421
+  title: Translator's Note
+  slug: 2-translator-s-note
+  uuid: 576bab05-faf4-4369-ba5c-6680a26135c9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=421
+  title: Introduction Hussain - the Universalist
+  slug: 3-introduction-hussain-the-universalist
+  uuid: ff8a8c7d-23f4-4891-91d6-ca9b0e223c70
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=421
+  title: The Truth About Al-hussain's Revolt
+  slug: 4-the-truth-about-al-hussain-s-revolt
+  uuid: bba400dd-4cb9-47fb-b9ab-a89154f1f10c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=421
+  title: Supplement
+  slug: 5-supplement
+  uuid: e2925868-8e07-4bc5-b370-18dcd923e615
+---

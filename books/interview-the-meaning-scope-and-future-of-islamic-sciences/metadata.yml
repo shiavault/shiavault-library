@@ -1,0 +1,20 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=730
+title: 'Interview: the Meaning, Scope, and Future of Islamic Sciences'
+author: Seyyed Hossein Nasr
+publisher: Centre for Promoting Ideas
+slug: interview-the-meaning-scope-and-future-of-islamic-sciences
+uuid: bcbaed9c-f762-421f-93cc-250c1fdafb6c
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=730
+  title: "[Abstract]"
+  slug: 1-abstract
+  uuid: 231d3992-e50e-4481-b362-c8aa106e99cc
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=730
+  title: "[Text of Interview]"
+  slug: 2-text-of-interview
+  uuid: ce93ad99-b2c4-4ad6-af21-94fe74d91829
+---

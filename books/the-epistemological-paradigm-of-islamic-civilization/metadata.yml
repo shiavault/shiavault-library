@@ -1,0 +1,35 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=722
+title: The Epistemological Paradigm of Islamic Civilization
+author: Mashhad Al-Allaf
+publisher: www.muslimphilosophy.com
+slug: the-epistemological-paradigm-of-islamic-civilization
+uuid: 93ab7e45-f076-42e3-a270-bf3fe5a9a400
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=722
+  title: Introduction
+  slug: 1-introduction
+  uuid: cfa1321d-2565-485c-b393-064921d7b9ef
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=722
+  title: The Epistemological Paradigm
+  slug: 2-the-epistemological-paradigm
+  uuid: 3abf922a-135d-4ca4-95e5-6e93189060b2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=722
+  title: 'The Epistemological Structure: Five Circles'
+  slug: 3-the-epistemological-structure-five-circles
+  uuid: 3ec6b9af-75e6-4917-a1c0-18011a3a6d63
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=722
+  title: Epistemological Characteristics
+  slug: 4-epistemological-characteristics
+  uuid: ae12c04d-921c-462e-b289-15b3a37da47e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=722
+  title: Endnotes
+  slug: 5-endnotes
+  uuid: cf036591-8b0e-46d9-b987-84d5544566fb
+---

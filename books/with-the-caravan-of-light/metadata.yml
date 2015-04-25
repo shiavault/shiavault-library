@@ -1,0 +1,29 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=409
+title: With the Caravan of Light
+author: Hussein Ansarian
+slug: with-the-caravan-of-light
+uuid: 80e9858a-2596-4f86-8153-82a22e13e292
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=409
+  title: Publisher's Word
+  slug: 1-publisher-s-word
+  uuid: 40d75898-3ef9-493b-b61b-6ff51f3cc689
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=409
+  title: Worldlings To the Worst Degree
+  slug: 2-worldlings-to-the-worst-degree
+  uuid: f84f4dc0-a11d-4208-a3cb-63a4f19ee390
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=409
+  title: The Greatest Reality From the Tonge of Jabir Ibn- Abdullah
+  slug: 3-the-greatest-reality-from-the-tonge-of-jabir-ibn-abdullah
+  uuid: 4021b715-5c25-4f0d-8950-a377f43f2a6e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=409
+  title: Undergoing the Divine Test
+  slug: 4-undergoing-the-divine-test
+  uuid: 11aedb55-dab1-4621-aba3-bacf7e9a2baf
+---

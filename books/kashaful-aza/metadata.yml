@@ -1,0 +1,49 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=581
+title: Kashaful Aza
+author: Sayyid Baqir Nizar Al Zaidi
+slug: kashaful-aza
+uuid: 64ef6983-81d6-4016-9e8a-569776f5af10
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=581
+  title: Voice of Karbala
+  slug: 1-voice-of-karbala
+  uuid: b263c9c5-91fc-4a1c-925b-42ef2f24abbb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=581
+  title: Spirit of Aza
+  slug: 2-spirit-of-aza
+  uuid: 1cb892d1-5585-4d2e-adc3-7da121041ade
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=581
+  title: Preaching of Aza
+  slug: 3-preaching-of-aza
+  uuid: e5f423b0-8160-4ce6-927f-ee7338cb51c4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=581
+  title: Second Stage
+  slug: 4-second-stage
+  uuid: 7073537e-0ea3-491e-99ac-6f0646194995
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=581
+  title: Qadqamatis Salat
+  slug: 5-qadqamatis-salat
+  uuid: 114dbd3f-5d5f-4caa-9069-af7229255623
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=581
+  title: Last Sajda
+  slug: 6-last-sajda
+  uuid: 72f28f12-b7a3-4b9f-b2da-c5251756f3c0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=581
+  title: Second Example
+  slug: 7-second-example
+  uuid: fe9fd9ac-ac51-4601-a71e-1a7811496f1d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=581
+  title: Fourth Example
+  slug: 8-fourth-example
+  uuid: 265cb169-bd2f-4443-ae61-485fc2324675
+---

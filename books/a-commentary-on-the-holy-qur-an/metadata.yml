@@ -1,0 +1,64 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=395
+title: A Commentary On the Holy Qur'an
+author: S.V. Mir Ahmad Ali
+slug: a-commentary-on-the-holy-qur-an
+uuid: 23ff0de6-6dde-4882-8ceb-f95420efac4d
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=395
+  title: Foreword
+  slug: 1-foreword
+  uuid: d3e0b483-e569-49c9-8447-9bf09d92526f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=395
+  title: Translations of the Holy Qur'an Into English
+  slug: 2-translations-of-the-holy-qur-an-into-english
+  uuid: 88e72ca9-d6db-4beb-908e-c35c0d9a44fc
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=395
+  title: Misinterpretation
+  slug: 3-misinterpretation
+  uuid: 27a978cb-747b-47a8-92d1-1fd49ef78083
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=395
+  title: The Causes of Doubt
+  slug: 4-the-causes-of-doubt
+  uuid: e2f83c2b-e5ad-4b31-9027-3f018813097f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=395
+  title: Traditions On the Collection of the Holy Qur'an
+  slug: 5-traditions-on-the-collection-of-the-holy-qur-an
+  uuid: 993ce169-3a4a-406f-acec-7ede3ac2f69e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=395
+  title: Shia Traditions
+  slug: 6-shia-traditions
+  uuid: a7ea85df-ce54-4c78-9ac0-a1af91963af3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=395
+  title: The Various Recitations of the Holy Qur'an
+  slug: 7-the-various-recitations-of-the-holy-qur-an
+  uuid: 939aeb68-753f-495d-a3e3-162ff875819c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=395
+  title: Usool-e-deen
+  slug: 8-usool-e-deen
+  uuid: fa6060b5-a399-4e39-8929-dbd2db1aaaed
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=395
+  title: Some Truths of Islam
+  slug: 9-some-truths-of-islam
+  uuid: 55011e1f-9f32-4991-992c-1086f8d81c02
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=395
+  title: 28 Killing of Even One Believer
+  slug: 10-28-killing-of-even-one-believer
+  uuid: f3655377-4f48-4a35-b34c-949e3726858c
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=395
+  title: 48 Intoxicants and Gambling
+  slug: 11-48-intoxicants-and-gambling
+  uuid: 2335e5bd-d63c-4041-9f03-f29ac79aa411
+---

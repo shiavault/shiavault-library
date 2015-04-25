@@ -1,0 +1,45 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=784
+title: Social and Moral Responsibility
+author: Janet Kay
+publisher: www.extra.shu.ac.uk
+slug: social-and-moral-responsibility
+uuid: a8ff1996-c84c-4d71-8887-ae1221c16695
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=784
+  title: Introduction
+  slug: 1-introduction
+  uuid: 01bfae8e-8362-484b-897e-6805aa200bd9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=784
+  title: Higher Education and Social and Moral Development
+  slug: 2-higher-education-and-social-and-moral-development
+  uuid: b6281a41-30a9-43f7-a60b-3eaf7c8b5fd9
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=784
+  title: The Concept of Morality
+  slug: 3-the-concept-of-morality
+  uuid: 08efdbef-eef2-4b0c-bf06-140e723277c5
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=784
+  title: Educating for Social and Moral Responsibility
+  slug: 4-educating-for-social-and-moral-responsibility
+  uuid: 8d66f228-87bd-4d06-b523-8c917f2438d7
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=784
+  title: Ethos and Active Learning
+  slug: 5-ethos-and-active-learning
+  uuid: 0fd724a0-a1ad-439a-80b9-e3ddece38212
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=784
+  title: Conclusion
+  slug: 6-conclusion
+  uuid: 63d800d4-cde5-4839-a594-023823e218a5
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=784
+  title: References
+  slug: 7-references
+  uuid: ff06b057-9192-43aa-bc73-ce8416284546
+---

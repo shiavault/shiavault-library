@@ -1,0 +1,65 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=763
+title: A Compilation of Islamic Philosophy and Theology [edited]
+author: Aliyu Yunus Sakande
+publisher: Ansariyan Publications – Qum
+slug: a-compilation-of-islamic-philosophy-and-theology-edited
+uuid: 396893b7-9f2c-4328-8451-60a1ef1e3af6
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=763
+  title: Preface
+  slug: 1-preface
+  uuid: 97e3a411-e276-4bdc-a474-4f70f08c76a4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=763
+  title: 'Chapter One: What is Philosophy?'
+  slug: 2-chapter-one-what-is-philosophy
+  uuid: e14ee7c2-24bd-4253-aff7-f6ab37fe533d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=763
+  title: 'Chapter Two: Research Methodology in Philosophy'
+  slug: 3-chapter-two-research-methodology-in-philosophy
+  uuid: 738ef38a-808e-4148-a24f-60d5a2bd4567
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=763
+  title: 'Chapter Three: The Relation between Science and Philosophy'
+  slug: 4-chapter-three-the-relation-between-science-and-philosophy
+  uuid: dc1685ae-9d9d-4a4e-a36f-6bd70d1fd8e1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=763
+  title: 'Chapter Four: Is Learning Philosophy Necessary?'
+  slug: 5-chapter-four-is-learning-philosophy-necessary
+  uuid: 64728310-db80-4469-bcc3-65af90675a86
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=763
+  title: 'Chapter Five: Necessity, Impossibility, and Possibility'
+  slug: 6-chapter-five-necessity-impossibility-and-possibility
+  uuid: f99f8a07-a9fe-4898-8903-0f7264dc3ab6
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=763
+  title: 'Chapter Six: Ibn Sina'
+  slug: 7-chapter-six-ibn-sina
+  uuid: a6d379af-37ce-4683-89ff-0f87b21e6271
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=763
+  title: 'Chapter Seven: Mulla Sadra: His Teachings'
+  slug: 8-chapter-seven-mulla-sadra-his-teachings
+  uuid: 1c51eb42-aeff-406a-987f-df96050c99d6
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=763
+  title: 'Chapter Eight: Al-Kindi'
+  slug: 9-chapter-eight-al-kindi
+  uuid: a1e692ef-7920-4dd4-a079-a0da56c39791
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=763
+  title: 'Chapter Nine: Al-Farabi'
+  slug: 10-chapter-nine-al-farabi
+  uuid: 420c109d-abf9-41d7-8b0e-b29b8ca72425
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=763
+  title: Index of term
+  slug: 11-index-of-term
+  uuid: 29fb0de3-ee8c-47d1-881c-4d5526b7cef5
+---

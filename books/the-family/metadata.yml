@@ -1,0 +1,34 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=274
+title: The Family
+author: The Grand Ayatullah Sayyid Muhammad Sadiq Shirazi
+slug: the-family
+uuid: 3accadbb-0843-4f2f-9aba-1a00d10fd58f
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=274
+  title: Translator's Foreword
+  slug: 1-translator-s-foreword
+  uuid: 1c97bd29-cc13-4999-8dfd-48ed7e155cc0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=274
+  title: Marital Relationships in the Major Religions
+  slug: 2-marital-relationships-in-the-major-religions
+  uuid: e0a2ab6f-78d6-43ec-9b76-552b315f6d11
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=274
+  title: Idolatry of Traditions
+  slug: 3-idolatry-of-traditions
+  uuid: 62fc7eca-5c92-421e-9525-7e72ce89be8a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=274
+  title: 'Section Five : Challenges Facing the Family and Society'
+  slug: 4-section-five-challenges-facing-the-family-and-society
+  uuid: 0d0a85db-dafa-4573-88a5-4f9440a7a1c7
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=274
+  title: 'Section Six : the Role of Institutions'
+  slug: 5-section-six-the-role-of-institutions
+  uuid: 0d5c96ac-b84c-4a71-b32e-89ca90129a27
+---

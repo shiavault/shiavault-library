@@ -1,0 +1,89 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=806
+title: Middle English Literature
+publisher: www.ang.lo2.opole.pl
+slug: middle-english-literature
+uuid: 512dff78-d558-4c89-886a-ff7c8bada57e
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=806
+  title: Background
+  slug: 1-background
+  uuid: dd55a4e3-4e44-4273-8896-fd99a0cd875d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=806
+  title: The Early Period
+  slug: 2-the-early-period
+  uuid: 65d507ad-8b92-4f7d-ac46-32e2711aabdb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=806
+  title: Sir Gawain and the Green Knight (c. 1375 - 1400)
+  slug: 3-sir-gawain-and-the-green-knight-c-1375-1400
+  uuid: a6475de4-6c29-427a-a08f-b2857a9a0ea1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=806
+  title: WILLIAM LANGLAND ( c. 1330 - 1387)
+  slug: 4-william-langland-c-1330-1387
+  uuid: e09671d0-6c75-4d22-8faa-884956bce49d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=806
+  title: Geoffrey Chaucer (c. 1343 - 1400)
+  slug: 5-geoffrey-chaucer-c-1343-1400
+  uuid: e7e67f23-a9d7-4fa7-bbd6-187626c835a2
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=806
+  title: Italian Period
+  slug: 6-italian-period
+  uuid: f90015a9-f560-4ba8-9cac-e396ba1a8047
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=806
+  title: John Gower (c. 1330? - 1408) - English poet.
+  slug: 7-john-gower-c-1330-1408-english-poet
+  uuid: 010d3398-56f9-4953-9b92-e9dcefcfe38b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=806
+  title: SIR THOMAS MALORY (c. 1405 - 1471)
+  slug: 8-sir-thomas-malory-c-1405-1471
+  uuid: 5974c064-9cac-488b-a374-98d5f66c6e62
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=806
+  title: King Arthur - Legendary Character / Royalty
+  slug: 9-king-arthur-legendary-character-royalty
+  uuid: f949f5db-3dde-4858-b0d4-174ecb433f20
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=806
+  title: The Fifteenth Century
+  slug: 10-the-fifteenth-century
+  uuid: 986e204c-2e50-43aa-a0cc-41cbb3ad68b4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=806
+  title: WILLIAM CAXTON AND THE INTRODUCTION OF PRINTING TO ENGLAND, 1476.
+  slug: 11-william-caxton-and-the-introduction-of-printing-to-england-1476
+  uuid: 19044bf1-0bbf-49a9-86db-4f0fc5be05ec
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=806
+  title: The Medieval Drama
+  slug: 12-the-medieval-drama
+  uuid: 7e7275b9-175d-4580-87b8-e4685fe99a8b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=806
+  title: TROPES, LITURGICAL PLAYS, AND MYSTERY PLAYS.
+  slug: 13-tropes-liturgical-plays-and-mystery-plays
+  uuid: b14b7fcf-602a-4b4c-aad6-1ed9758869c5
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=806
+  title: THE MORALITY PLAYS.
+  slug: 14-the-morality-plays
+  uuid: 1faff731-25ed-4086-923a-19c6dd7fd1d8
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=806
+  title: THE INTERLUDES.
+  slug: 15-the-interludes
+  uuid: bba63eca-6e57-45e4-9c3a-88bab8deb33a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=806
+  title: THE LATER INFLUENCE OF THE MEDIEVAL DRAMA.
+  slug: 16-the-later-influence-of-the-medieval-drama
+  uuid: b3375729-1b36-42f7-a959-1b7548a47c2d
+---

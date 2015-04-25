@@ -1,0 +1,24 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=393
+title: Islam & Physical Care
+author: Al Balagh Foundation
+slug: islam-physical-care
+uuid: 27c24df7-3d59-459a-b1be-d7b081a90a94
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=393
+  title: The Foundation's Word
+  slug: 1-the-foundation-s-word
+  uuid: 273fa596-1a27-4752-be95-71cf4d7a8a7f
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=393
+  title: 'Firstly: Providing the Body With Its Different Needs'
+  slug: 2-firstly-providing-the-body-with-its-different-needs
+  uuid: 1b15ce8e-150d-4220-ad39-667deb7931a1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=393
+  title: 'Secondly: Preserving and Protecting the Human Body'
+  slug: 3-secondly-preserving-and-protecting-the-human-body
+  uuid: 17f31473-e1bc-42ff-822a-f18cb31c61dd
+---

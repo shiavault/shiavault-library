@@ -1,0 +1,25 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=794
+title: Human Rights in Islam
+author: Ali Mohammad Bhat
+publisher: www.aannaim.law.emory.edu
+slug: human-rights-in-islam
+uuid: e1e3c92b-984a-44cc-b7ff-0b288a9258da
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=794
+  title: "[Introduction]"
+  slug: 1-introduction
+  uuid: ec2e21e2-366d-403a-b372-c276181046c3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=794
+  title: "[Main Points of Research]"
+  slug: 2-main-points-of-research
+  uuid: 35f2a171-368a-4ac6-bb8f-9f3cc8eeee13
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=794
+  title: End Notes
+  slug: 3-end-notes
+  uuid: fecaedea-f305-49fe-b7d4-aa34100627f8
+---

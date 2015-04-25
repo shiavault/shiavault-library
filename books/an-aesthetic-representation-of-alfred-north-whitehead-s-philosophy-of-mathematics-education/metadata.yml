@@ -1,0 +1,41 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=835
+title: An Aesthetic Representation of Alfred North Whitehead's Philosophy of Mathematics
+  Education
+author: M. Sencer Çorlu
+publisher: www.people.exeter.ac.uk
+slug: an-aesthetic-representation-of-alfred-north-whitehead-s-philosophy-of-mathematics-education
+uuid: a3f1f1af-0082-43f1-b138-0d39bda9e3fb
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=835
+  title: A STORY
+  slug: 1-a-story
+  uuid: 3c8eec27-69e0-4809-a632-aff018cf3816
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=835
+  title: CONCLUSION
+  slug: 2-conclusion
+  uuid: 695defa1-6b1b-4362-9a4b-577238cc428e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=835
+  title: POSTFACE
+  slug: 3-postface
+  uuid: 5522c4ee-2118-497d-9023-1c91d1563d62
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=835
+  title: ABSTRACT
+  slug: 4-abstract
+  uuid: 304ed7c7-48ec-453f-ac9f-fb4836e394b6
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=835
+  title: REFERENCES
+  slug: 5-references
+  uuid: 22c3a67c-b89b-4ccf-b99c-327e661fc21b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=835
+  title: FOOTNOTES
+  slug: 6-footnotes
+  uuid: a62c81e9-f984-4657-a21d-4f863964b8a6
+---

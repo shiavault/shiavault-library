@@ -1,0 +1,49 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=206
+title: The Generation Gap
+author: Sayyid Muhammad Taqi Hakim
+slug: the-generation-gap
+uuid: b9b25e2a-2b2d-430b-a2b8-1fdc6fa045dd
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=206
+  title: Introduction
+  slug: 1-introduction
+  uuid: d56aeeff-3afb-4040-9e85-7b1dd01acbb5
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=206
+  title: Preface
+  slug: 2-preface
+  uuid: 037d119e-edda-4fff-ada9-a45492f47f5d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=206
+  title: Biography
+  slug: 3-biography
+  uuid: 7a820390-6238-4c3b-bde2-2016b9dc5ada
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=206
+  title: The Results of Good Behaviour the Father
+  slug: 4-the-results-of-good-behaviour-the-father
+  uuid: a50a595e-ae80-4f68-85fd-a47beb0be4e4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=206
+  title: Testimonies of Non-muslims About Islam
+  slug: 5-testimonies-of-non-muslims-about-islam
+  uuid: 3b8266c7-0287-452f-ba8f-6a0d05984364
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=206
+  title: The Rights of Fathers and Mothers the Father
+  slug: 6-the-rights-of-fathers-and-mothers-the-father
+  uuid: 5e658f5b-c38c-4830-a47d-dc3810787e83
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=206
+  title: The Exciting Words the Father
+  slug: 7-the-exciting-words-the-father
+  uuid: c1fb2ff7-95bf-425d-9f8f-e97bb7be5318
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=206
+  title: A Word of Advise the Father
+  slug: 8-a-word-of-advise-the-father
+  uuid: a19b21a3-298a-491c-ab54-0570a9f8a65c
+---

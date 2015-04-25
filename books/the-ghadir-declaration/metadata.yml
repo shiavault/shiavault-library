@@ -1,0 +1,55 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=660
+title: The Ghadir Declaration
+author: Dr Muhammad Tahir-ul-Qadri
+publisher: Minhaj-ul-Quran Publications
+slug: the-ghadir-declaration
+uuid: 962a7089-2065-494e-8e6a-87350e1335ec
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=660
+  title: Preface
+  slug: 1-preface
+  uuid: 73e4c0f2-2894-4083-bbb3-2f9c2f6b438a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=660
+  title: Hadith 01 to 10
+  slug: 2-hadith-01-to-10
+  uuid: 68201a26-920f-4266-983a-6ffef70430eb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=660
+  title: Refrences
+  slug: 3-refrences
+  uuid: f679a41c-97b2-4db1-a895-4429ea6e2fc4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=660
+  title: Hadith 10 to 20
+  slug: 4-hadith-10-to-20
+  uuid: fc9ae60b-abed-4f25-ba96-c3121436f8ef
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=660
+  title: Refrences
+  slug: 5-refrences
+  uuid: 14ad8882-ef82-438c-b2eb-2a894cec28af
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=660
+  title: Hadith 21 to 30
+  slug: 6-hadith-21-to-30
+  uuid: dd500702-fd58-4055-ace0-1187286daaed
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=660
+  title: Refrences
+  slug: 7-refrences
+  uuid: 38032a98-68da-438c-b686-d9fa2d6bd1dc
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=660
+  title: Hadith 31 to 40
+  slug: 8-hadith-31-to-40
+  uuid: 2d8e5261-caea-4d89-bd43-48da4b87c92b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=660
+  title: Refrences
+  slug: 9-refrences
+  uuid: 83ba099a-878c-4bfd-8255-0241d1abfb1d
+---

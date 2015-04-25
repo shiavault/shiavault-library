@@ -1,0 +1,119 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=401
+title: A Brief of Islamic Law
+author: The Grand Ayatollah Al-Sistani
+slug: a-brief-of-islamic-law
+uuid: 18b7febc-b774-42e4-b178-f514e5c51e38
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=401
+  title: Taqli'd
+  slug: 1-taqli-d
+  uuid: 06e8090c-a51d-4738-92a0-207f61f261d4
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=401
+  title: Taqli'd
+  slug: 2-taqli-d
+  uuid: cb2da6c7-b5aa-40fc-9570-514778458b68
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=401
+  title: Change (inqilab)
+  slug: 3-change-inqilab
+  uuid: 49f950cc-3142-40b5-b348-6222b76b4e25
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=401
+  title: Ghusl For Touching a Dead Body
+  slug: 4-ghusl-for-touching-a-dead-body
+  uuid: 059a3d3e-7558-47dd-b8bd-f5c5a79ad51b
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=401
+  title: Rules of Salat
+  slug: 5-rules-of-salat
+  uuid: d274ac05-b45b-4fd3-9368-fd04f033c551
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=401
+  title: Exceptional Cases
+  slug: 6-exceptional-cases
+  uuid: 6e6461c4-3ae8-4640-aead-65545f70b394
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=401
+  title: Takbirat-in-ihram
+  slug: 7-takbirat-in-ihram
+  uuid: 7e8ba407-f80d-46b3-93d6-7cb5cbe7ca33
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=401
+  title: Things On Which Sajdah Is Allowed
+  slug: 8-things-on-which-sajdah-is-allowed
+  uuid: 1414dd07-f7c2-4a60-8e27-357be02fd280
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=401
+  title: Doubts Which Are Valid
+  slug: 9-doubts-which-are-valid
+  uuid: a62981fd-cbb3-4f8e-a151-7c38eea97d24
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=401
+  title: Miscellaneous Rules
+  slug: 10-miscellaneous-rules
+  uuid: 09140776-7834-460e-8305-20b48eacf754
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=401
+  title: Fasting
+  slug: 11-fasting
+  uuid: 0452da61-563f-4e45-9518-484ab5d5f338
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=401
+  title: Khums
+  slug: 12-khums
+  uuid: 95b79b2f-d043-46d1-9ca1-cfaf8cbdcf89
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=401
+  title: Zaka`t
+  slug: 13-zaka-t
+  uuid: b353abbe-3727-4f0d-bf6b-79f99faf4dd3
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=401
+  title: Transactions
+  slug: 14-transactions
+  uuid: 8d70a640-9581-425d-8cb1-66cd31f1d753
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=401
+  title: Laws of Partnership
+  slug: 15-laws-of-partnership
+  uuid: 5bbcae1b-da0b-4967-9e1d-6a10440c0574
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=401
+  title: Persons Who Have No Right of Disposal Or Discretion Over Their Own Property
+  slug: 16-persons-who-have-no-right-of-disposal-or-discretion-over-their-own-property
+  uuid: 042ccc12-0c0a-49df-8bff-b611be9f25fb
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=401
+  title: Rules Regarding Mortgage (rahn)
+  slug: 17-rules-regarding-mortgage-rahn
+  uuid: 12c59622-33c5-494a-bbf8-7ba224e43c3d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=401
+  title: Marriage
+  slug: 18-marriage
+  uuid: c032a867-6ddb-44c3-9e61-b874f2270f79
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=401
+  title: Mut'ah (temporary Marriage)
+  slug: 19-mut-ah-temporary-marriage
+  uuid: b373f912-39a1-45ee-9ff5-94d6d0af3e52
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=401
+  title: Divorce
+  slug: 20-divorce
+  uuid: 409b442c-4898-4643-84fa-986b9a5d8446
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=401
+  title: Usurpation (ghasb)
+  slug: 21-usurpation-ghasb
+  uuid: 96ce11cc-dd6a-4365-848d-ebb8359a4599
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=401
+  title: Vow and Covenant (nadhr and `ahd)
+  slug: 22-vow-and-covenant-nadhr-and-ahd
+  uuid: 8083bc6a-47b0-4787-ba1d-47402854d94b
+---

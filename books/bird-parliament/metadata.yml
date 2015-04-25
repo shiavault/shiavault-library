@@ -1,0 +1,21 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=769
+title: Bird Parliament
+author: Farid ud-Din Attar
+translator: EDWARD FITZGERALD
+publisher: www.sacred-texts.com
+slug: bird-parliament
+uuid: e3b14445-2a91-459a-9fb4-5349b527a462
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=769
+  title: Introduction
+  slug: 1-introduction
+  uuid: f09f2199-22b6-4644-831b-3659bea87977
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=769
+  title: Bird Parliament
+  slug: 2-bird-parliament
+  uuid: a1fc9992-4996-4b27-952d-f77027d8c69c
+---

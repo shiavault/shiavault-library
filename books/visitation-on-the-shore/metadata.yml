@@ -1,0 +1,44 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=550
+title: Visitation On the Shore
+author: Tebyan
+slug: visitation-on-the-shore
+uuid: 10c56eaa-c2f1-41d3-912e-12dc957cf3c6
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=550
+  title: Preface
+  slug: 1-preface
+  uuid: 5f23d190-7d95-4836-9cd0-06a38d71e022
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=550
+  title: The Full Moon
+  slug: 2-the-full-moon
+  uuid: 3b90303e-bd51-4679-ad12-cf9b2b717a4a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=550
+  title: The Man From Persia
+  slug: 3-the-man-from-persia
+  uuid: d55c2848-b38c-4f34-84eb-252c95f272c0
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=550
+  title: Master of the Shiites
+  slug: 4-master-of-the-shiites
+  uuid: f0c337f1-fbe4-4090-944b-9e54e6969443
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=550
+  title: The Signs
+  slug: 5-the-signs
+  uuid: 0ae3b069-d44e-4074-9fde-85e831a95e1a
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=550
+  title: The Golden Pomegranate
+  slug: 6-the-golden-pomegranate
+  uuid: 30359db9-5d0b-4248-95e3-be14539654e1
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=550
+  title: The Last Word
+  slug: 7-the-last-word
+  uuid: 83c08229-b26f-486c-94d7-63ce1ce7aa84
+---

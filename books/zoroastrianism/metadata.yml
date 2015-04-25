@@ -1,0 +1,25 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=849
+title: Zoroastrianism
+author: Annie Besant
+publisher: www.mysticknowledge.org
+slug: zoroastrianism
+uuid: 2264e11c-db9b-4634-9abc-ef70a9ca8309
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=849
+  title: "[Introduction]"
+  slug: 1-introduction
+  uuid: 8c722392-59e5-4a55-a8cd-2fb0742d827e
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=849
+  title: "[Main Section]"
+  slug: 2-main-section
+  uuid: 081ff25f-e1e1-4d25-a619-be0814e3c70d
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=849
+  title: "[End]"
+  slug: 3-end
+  uuid: 23b42dcf-8971-477d-95a6-d98586f1c7fc
+---

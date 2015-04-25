@@ -1,0 +1,39 @@
+---
+source: :alhassanian
+source_url: http://alhassanain.org/english/?com=book&id=281
+title: Medieval Philosophy
+author: Cultural Rafed Foundation
+slug: medieval-philosophy
+uuid: 97a3d50e-4793-46ba-a2f1-8603ea0addce
+chapters:
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=281
+  title: Introductory Essay
+  slug: 1-introductory-essay
+  uuid: fdaecf84-46ff-40ee-91f3-d3947a4bb478
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=281
+  title: The Arabians
+  slug: 2-the-arabians
+  uuid: 7e2b56e1-3083-4d85-852c-89d8aa256a19
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=281
+  title: The Period of Patristic Philosophy
+  slug: 3-the-period-of-patristic-philosophy
+  uuid: d5e6c66f-2e1b-4d1e-82b4-82ee08e70417
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=281
+  title: The Positive Contributions of John Duns Scotus To the Perennial Philosophy
+  slug: 4-the-positive-contributions-of-john-duns-scotus-to-the-perennial-philosophy
+  uuid: 63e048f8-d9c3-4eb9-a595-59af73587570
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=281
+  title: Vii. the World (cosmology)
+  slug: 5-vii-the-world-cosmology
+  uuid: 9301b7c2-49a8-480d-bd8e-ebc1bed71bc7
+- source: :alhassanian
+  source_url: http://alhassanain.org/english/?com=book&id=281
+  title: The Philosophy of St. Augustine
+  slug: 6-the-philosophy-of-st-augustine
+  uuid: fa6c8228-951d-407e-88f8-724a9ce59097
+---
