@@ -252,7 +252,7 @@ and compensate the Musilm who suffered the loss. As Allah (S.w.T.)
 Himself says,
 
 ***“…except those who repent after this and act aright, for surely Allah
-is Forgiving, Merciful.”***  
+is Forgiving, Merciful.”***
 ***(Surah an-Nūr 24:4-5)***
 
 [^1]: al-Kāfi

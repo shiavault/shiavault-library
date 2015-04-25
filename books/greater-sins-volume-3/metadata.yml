@@ -1,12 +1,12 @@
 ---
 source: :alislam
-source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi
-author: Ayatullah Sayyid 'Abd al-Husayn Dastghayb Shirazi
+source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi
+author: Ayatullah Sayyid Abdul Husayn Dastghaib Shirazi
 publisher: Islamic Study Circle
 translator: Sayyid Athar Husain S.H.Rizvi
 title: Greater Sins Volume 3
 slug: greater-sins-volume-3
-uuid: 76d0a8e4-ca57-42c5-963d-192a2cfaa3f1
+uuid: 3296fbed-ad1f-4fdd-9327-7d9e70bcabce
 description: |
   Ayatullah Dastghaib has exhaustively explained the phenomenon of sin,
   the classification of sins, and the necessity of avoiding them. He has
@@ -19,140 +19,140 @@ description: |
   http://www.al-islam.org/greater-sins-volume-2-ayatullah-sayyid-abd-al-hu...
 chapters:
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/dedication
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/dedication
   title: Dedication
   slug: 1-dedication
-  uuid: 0203c53c-a3ab-4534-b6fc-a4af7a089aa1
+  uuid: 3cb8aa39-4dd3-469a-b3b3-d02efe7580dd
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/translator%E2%80%99s-preface
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/translators-preface
   title: Translator’s Preface
   slug: 2-translator-s-preface
-  uuid: 3da5547e-b995-44a7-8676-8b4342094d6d
+  uuid: 268ee9c3-b437-47ec-ad5c-ce24af28e54e
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/short-biography-ayatullah
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/short-biography-ayatullah
   title: A Short Biography of Ayatullah Dastaghaib Shirazi
   slug: 3-a-short-biography-of-ayatullah-dastaghaib-shirazi
-  uuid: fae62ba3-6f84-4496-b091-7bf3e3a12b56
+  uuid: 8b78056b-9cd1-4501-8285-95a6c3ae16d4
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/preface
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/preface
   title: Preface
   slug: 4-preface
-  uuid: e68f20a9-0c0a-4224-9aa1-7ecbed42549d
+  uuid: 9b7e7a55-1af3-4a23-aedf-1a6536fd8a0b
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/thirty-third-greater-sin
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/thirty-third-greater-sin-pride
   title: 'Thirty-third Greater Sin: Pride or Arrogance'
   slug: 5-thirty-third-greater-sin-pride-or-arrogance
-  uuid: 6d08c3ad-57e0-4051-9311-c35796eddb25
+  uuid: 1f3a2190-4f4e-4d59-a74a-9bfbd6eafffc
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/humility-rich-and-pride
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/humility-rich-and-pride-beggar
   title: The Humility of the Rich and the Pride of the Beggar for the pleasure of
     Allah (S.w.T.)
   slug: 6-the-humility-of-the-rich-and-the-pride-of-the-beggar-for-the-pleasure-of-allah-s-w-t
-  uuid: 3517cf88-761e-4837-ac9b-13db752f13de
+  uuid: 013f185a-ded3-4f2a-b440-06c4805f59e7
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/thirty-fourth-greater-sin-war
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/thirty-fourth-greater-sin-war
   title: 'Thirty-fourth Greater Sin: To War against Muslims'
   slug: 7-thirty-fourth-greater-sin-to-war-against-muslims
-  uuid: 1b6fc2c5-ff6a-4bb4-bca5-701777c32f0f
+  uuid: b012b5db-eae3-4ea8-bf4c-c89b1b8f57d2
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/thirty-fifth-greater-sin
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/thirty-fifth-greater-sin
   title: 'Thirty-fifth Greater Sin: Eating of Carrion, Pork and Blood'
   slug: 8-thirty-fifth-greater-sin-eating-of-carrion-pork-and-blood
-  uuid: c45e2ee1-f91a-42bb-8b83-0569340c8463
+  uuid: e8ef2a57-fbc6-495a-b947-e722c5b18c9e
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/purification-animals
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/purification-animals
   title: Purification of Animals
   slug: 9-purification-of-animals
-  uuid: f7c2c493-ea78-44e4-8e40-4f820c275198
+  uuid: 7daf95d0-a29f-4ff1-9038-3565c8fbfa70
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/thirty-sixth-greater-sin
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/thirty-sixth-greater-sin
   title: 'Thirty-sixth Greater Sin: Omitting Prayer Intentionally'
   slug: 10-thirty-sixth-greater-sin-omitting-prayer-intentionally
-  uuid: a592f7d0-8f24-4dbe-9e32-7cf9b7fa3661
+  uuid: 0f6bff41-ff77-4646-bede-c154db6fd834
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/thirty-seventh-greater-sin
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/thirty-seventh-greater-sin
   title: 'The Thirty-seventh Greater Sin: Non–Payment of Zakat'
   slug: 11-the-thirty-seventh-greater-sin-non-payment-of-zakat
-  uuid: 828733fd-d4f9-4b87-8d11-b8c86235dad7
+  uuid: 22cabeda-f692-417a-9de3-963928177f34
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/thirty-eighth-greater-sin-not
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/thirty-eighth-greater-sin-not
   title: 'The Thirty-eighth Greater Sin: Not Giving Importance to Hajj'
   slug: 12-the-thirty-eighth-greater-sin-not-giving-importance-to-hajj
-  uuid: 98be3bc6-d1cf-4951-a913-289ffb593fdd
+  uuid: 25fd1e7a-00ce-499f-be7b-a471819b23e2
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/thirty-ninth-greater-sin
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/thirty-ninth-greater-sin
   title: 'The Thirty-ninth Greater Sin: To Neglect any Obligatory Act'
   slug: 13-the-thirty-ninth-greater-sin-to-neglect-any-obligatory-act
-  uuid: 357c10a4-d611-4501-9358-8e741775a611
+  uuid: d704a675-56df-4490-9ccd-3fe67fc6e1ce
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/fortieth-greater-sin
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/fortieth-greater-sin
   title: 'The Fortieth Greater Sin: Persistence in Minor Sins'
   slug: 14-the-fortieth-greater-sin-persistence-in-minor-sins
-  uuid: 3873bc12-e290-4176-a570-bb41747155a6
+  uuid: 1187cd96-701e-4cb6-b360-7389191c9332
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/forty-first-greater-sin
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/forty-first-greater-sin
   title: 'The Forty-first Greater Sin: Backbiting'
   slug: 15-the-forty-first-greater-sin-backbiting
-  uuid: a6feeab6-c9f7-4bb6-ba00-980aaadee73d
+  uuid: 9797d516-d65f-4298-a5d0-c6cd89ee9c6e
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/forty-second-greater-sin-tale
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/forty-second-greater-sin-tale
   title: 'The Forty-second Greater Sin: Tale Telling'
   slug: 16-the-forty-second-greater-sin-tale-telling
-  uuid: d870a361-ad08-4c99-9402-0c152a058da4
+  uuid: bcf7642c-6b51-4cad-bf0f-bf3c5fb88954
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/forty-third-greater-sin
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/forty-third-greater-sin
   title: 'The Forty-third Greater Sin: Insulting a Believer'
   slug: 17-the-forty-third-greater-sin-insulting-a-believer
-  uuid: efff60da-d980-4a86-b80c-2d36c8993dcb
+  uuid: d98e1321-3b91-4a0b-8ad9-7cd985b3239b
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/forty-fourth-greater-sin
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/forty-fourth-greater-sin
   title: 'The Forty-fourth Greater Sin: Intrigue, Deception and Breaking Covenants'
   slug: 18-the-forty-fourth-greater-sin-intrigue-deception-and-breaking-covenants
-  uuid: 7ab475ef-0f5e-4a2c-8347-0da340b0ea07
+  uuid: 7dee0203-660c-4855-a963-e326f842e0d1
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/forty-fifth-greater-sin
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/forty-fifth-greater-sin
   title: 'The Forty-fifth Greater Sin: Hoarding and Black-marketing'
   slug: 19-the-forty-fifth-greater-sin-hoarding-and-black-marketing
-  uuid: 23b1ee84-3648-477e-b5ee-b9abd4a4cb55
+  uuid: f082e3c5-1b88-4e5b-8e16-26a7caec69f4
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/forty-sixth-greater-sin
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/forty-sixth-greater-sin
   title: 'The Forty-sixth Greater Sin: Disrespect of Qur’an'
   slug: 20-the-forty-sixth-greater-sin-disrespect-of-qur-an
-  uuid: b4dc9e2a-75ff-4fc1-bef8-30f86832ee52
+  uuid: 469e4bb7-f369-4937-931e-16bc7ddaa316
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/forty-seventh-greater-sin
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/forty-seventh-greater-sin
   title: 'The Forty-seventh Greater Sin: Disrespect of Ka’ba'
   slug: 21-the-forty-seventh-greater-sin-disrespect-of-ka-ba
-  uuid: 2a2af912-b428-403d-8a7d-9a43bfd86ced
+  uuid: e04e9292-400e-45a4-b050-e1df26280aa8
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/forty-eighth-greater-sin
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/forty-eighth-greater-sin
   title: 'The Forty-eighth Greater Sin: Disrespect to Masajid'
   slug: 22-the-forty-eighth-greater-sin-disrespect-to-masajid
-  uuid: 2182d56f-8fb2-48dc-9707-fad97f426fa3
+  uuid: c5ada0f0-f791-44ee-8ecf-b653d0bab17d
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/forty-ninth-greater-sin
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/forty-ninth-greater-sin
   title: 'The Forty-ninth Greater Sin: Disrespect of the Tombs of Ma’sūmīn (a.s.)'
   slug: 23-the-forty-ninth-greater-sin-disrespect-of-the-tombs-of-ma-sumin-a-s
-  uuid: 68abb7c5-0bc1-4b7a-8116-c3440a2d7c87
+  uuid: 74418bf1-4919-4cfe-a646-996c4cde20ab
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/fiftieth-greater-sin
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/fiftieth-greater-sin
   title: 'The Fiftieth Greater Sin: Disrespect to the soil of Imam Husain’s Grave
     (Turbah)'
   slug: 24-the-fiftieth-greater-sin-disrespect-to-the-soil-of-imam-husain-s-grave-turbah
-  uuid: 172bf0aa-4115-4a46-a417-4db729f3d7b4
+  uuid: e6182e9e-036f-43ff-ad82-c98007bdb2e1
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/tawba-part-one
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/tawba-part-one
   title: Tawba (Part One)
   slug: 25-tawba-part-one
-  uuid: 3b8bc6ae-56c2-4552-aaf0-9544dc6e36df
+  uuid: 1478602f-d705-45a1-bbbd-d4bc86f970e1
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/tawba-part-two-ten-incidents
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/tawba-part-two-ten-incidents
   title: 'Tawba (Part Two): Ten Incidents to enlighten our minds'
   slug: 26-tawba-part-two-ten-incidents-to-enlighten-our-minds
-  uuid: 1cb9534b-8cae-4dc0-9d50-25baac357c3b
+  uuid: 9e3134ec-94e4-4921-a917-ff2e1de7c375
 - source: :alislam
-  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abd-al-husayn-dastghayb-shirazi/glossary-islamic-terms
+  source_url: http://www.al-islam.org/greater-sins-volume-3-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/glossary-islamic-terms
   title: Glossary of Islamic Terms
   slug: 27-glossary-of-islamic-terms
-  uuid: 29a1ad21-26c5-49e1-bd3b-91636947e403
+  uuid: e763cdc5-258d-4fc5-896f-3f3c747136b3
 ---

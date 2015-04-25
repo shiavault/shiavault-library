@@ -25,9 +25,9 @@ Our readers had been impatiently waiting for the last volume and we are
 sure they would find it as useful and as informative as the previous
 volumes.
 
-Islamic Study Circle  
- Mumbai  
- India  
- January 2004
+Islamic Study Circle
+Mumbai
+India
+January 2004
 
 

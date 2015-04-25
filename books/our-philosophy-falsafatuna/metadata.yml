@@ -1,12 +1,12 @@
 ---
 source: :alislam
-source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-muhammad-baqir-sadr
-author: Ayatullah Muhammad Baqir as-Sadr
+source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-sayyid-muhammad-baqir-sadr
+author: Ayatullah Sayyid Muhammad Baqir As-Sadr
 publisher: Muhammadi Trust of Great Britain and Northern Ireland
 translator: Shams C. Inati
 title: Our Philosophy- Falsafatuna
 slug: our-philosophy-falsafatuna
-uuid: 5a21cf24-6c29-4bb1-a541-8410a0824a85
+uuid: 5b5a3aca-949d-42b1-9769-4ad8e6be0737
 description: |
   A collection of basic notions concerning the world and our way of
   considering it. Divided into two investigations: one concerned with the
@@ -14,58 +14,58 @@ description: |
   world.
 chapters:
 - source: :alislam
-  source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-muhammad-baqir-sadr/nature-work
+  source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-sayyid-muhammad-baqir-sadr/nature-work
   title: The Nature of This Work
   slug: 1-the-nature-of-this-work
-  uuid: e324e947-3b81-4d43-b8a6-8976718a8815
+  uuid: 98c5a603-596e-4d37-9449-934577aa99fa
 - source: :alislam
-  source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-muhammad-baqir-sadr/introduction-social-issue
+  source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-sayyid-muhammad-baqir-sadr/introduction-social-issue
   title: 'Introduction: The Social Issue'
   slug: 2-introduction-the-social-issue
-  uuid: 761267ba-5535-4b99-a94b-fc19cc05baf0
+  uuid: 80aa62c8-e8dd-4aba-be84-37a4adf035d0
 - source: :alislam
-  source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-muhammad-baqir-sadr/part-one-theory-knowledge
+  source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-sayyid-muhammad-baqir-sadr/part-one-theory-knowledge
   title: 'Part One: The Theory of Knowledge'
   slug: 3-part-one-the-theory-of-knowledge
-  uuid: 2addf955-52ff-42e1-92ba-acc367acd083
+  uuid: 58ff9ace-44d4-4bab-b5db-ebf4be499724
 - source: :alislam
-  source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-muhammad-baqir-sadr/chapter-one-primary-source-knowledge
+  source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-sayyid-muhammad-baqir-sadr/chapter-one-primary-source-knowledge
   title: 'Chapter One: The Primary Source of Knowledge'
   slug: 4-chapter-one-the-primary-source-of-knowledge
-  uuid: aa2a1be1-57df-484f-a57d-87cdbe1b0eaa
+  uuid: 863b52eb-8ce9-48d7-a049-a503f9a156c9
 - source: :alislam
-  source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-muhammad-baqir-sadr/chapter-two-value-knowledge
+  source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-sayyid-muhammad-baqir-sadr/chapter-two-value-knowledge
   title: 'Chapter Two: The Value of Knowledge'
   slug: 5-chapter-two-the-value-of-knowledge
-  uuid: 214c3d92-b6a9-489b-9d3b-aa40555d1be3
+  uuid: e5d16fce-5c69-46b2-8d2c-4a88ed04d562
 - source: :alislam
-  source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-muhammad-baqir-sadr/part-two-philosophical-notion-concerning
+  source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-sayyid-muhammad-baqir-sadr/part-two-philosophical-notion
   title: 'Part Two: The Philosophical Notion concerning the World'
   slug: 6-part-two-the-philosophical-notion-concerning-the-world
-  uuid: 19d27406-5d25-4c38-8f8d-726457e1ddd1
+  uuid: e79a426b-0c3b-47e9-be67-4f96d64e8eb3
 - source: :alislam
-  source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-muhammad-baqir-sadr/chapter-one-preliminary-notes
+  source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-sayyid-muhammad-baqir-sadr/chapter-one-preliminary-notes
   title: 'Chapter One: Preliminary Notes'
   slug: 7-chapter-one-preliminary-notes
-  uuid: c910b0d2-4e79-47d6-9736-f45030b6bbc8
+  uuid: a2148d06-3de7-4fe0-b524-7cc4a9fb12d0
 - source: :alislam
-  source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-muhammad-baqir-sadr/chapter-two-dialectics-or-disputation
+  source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-sayyid-muhammad-baqir-sadr/chapter-two-dialectics-or
   title: 'Chapter Two: Dialectics or Disputation'
   slug: 8-chapter-two-dialectics-or-disputation
-  uuid: 57f51116-63f7-4e46-b255-6d49efd7837c
+  uuid: 47cbcc5b-2ed6-4f30-97c1-9778b2ad1728
 - source: :alislam
-  source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-muhammad-baqir-sadr/chapter-three-principle-causality
+  source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-sayyid-muhammad-baqir-sadr/chapter-three-principle-causality
   title: 'Chapter Three: The Principle of Causality'
   slug: 9-chapter-three-the-principle-of-causality
-  uuid: e5b393bc-bc85-4485-aac0-5524ca4c05dc
+  uuid: b21e77cb-fc3c-429e-86d7-b430845350d0
 - source: :alislam
-  source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-muhammad-baqir-sadr/chapter-four-matter-or-god
+  source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-sayyid-muhammad-baqir-sadr/chapter-four-matter-or-god
   title: 'Chapter Four: Matter or God'
   slug: 10-chapter-four-matter-or-god
-  uuid: e749e367-e63a-415d-af41-785507483806
+  uuid: abba42d2-c406-4abc-a887-c94cc1df15ca
 - source: :alislam
-  source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-muhammad-baqir-sadr/chapter-five-knowledge
+  source_url: http://www.al-islam.org/our-philosophy-falsafatuna-ayatullah-sayyid-muhammad-baqir-sadr/chapter-five-knowledge
   title: 'Chapter Five: Knowledge'
   slug: 11-chapter-five-knowledge
-  uuid: 47de41f7-84de-48b1-8410-cb7590fa7002
+  uuid: 3c645c55-c060-4aee-b3a3-9b3e12224d2c
 ---

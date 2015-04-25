@@ -99,12 +99,12 @@ field. For the clarification of this, we must point out a number of
 causal laws from the philosophical group [of laws] on which science
 rests.
 
-These laws are the following:  
- The principle of causality that asserts that every event has a cause;  
- the law of necessity that asserts that every cause necessarily produces
+These laws are the following:
+The principle of causality that asserts that every event has a cause;
+the law of necessity that asserts that every cause necessarily produces
 its natural effect, and that it is not possible for effects to be
-separate from their causes;  
- the law of harmony between causes and effects that asserts that every
+separate from their causes;
+the law of harmony between causes and effects that asserts that every
 natural group that is essentially in harmony must also be in harmony
 with respect to [its] causes and effects.
 
@@ -181,8 +181,8 @@ firmly. Let us suppose that the scientist repeats this experiment on
 other bodies a number of times. At the end of the experimental course,
 he cannot escape the following question: 'Since you have not covered all
 the particular bodies, how then can you believe that new frames other
-than those you have tried will also expand by heat?'  
- The only answer to this question is the principle and laws of
+than those you have tried will also expand by heat?'
+The only answer to this question is the principle and laws of
 causality. Since the mind does not accept haphazardness and chance, but
 explains the universe on the basis of causality and its laws, including
 those of necessity and harmony, it finds in limited experiments a
@@ -311,8 +311,8 @@ However, according to our view of causality, which asserts that
 causality is a rational principle above experimentation (p. 311) the
 situation is completely different with regard to various aspects. First,
 causality is not limited to the natural phenomena that appear in the
-experiment.  
- Rather, it is a general law of existence at large, which includes the
+experiment.
+Rather, it is a general law of existence at large, which includes the
 natural phenomena, matter itself, and the various kinds of existence
 that lie beyond matter, Second, the cause whose existence is confirmed
 by the principle of causality need not be subject to experimentation, or
@@ -620,8 +620,8 @@ thing's age and history to the furthest times would not justify that
 thing's existence, nor would it make it dispense with a cause. In other
 words, since the coming into existence of the warmth requires a cause,
 extending the warmth [over time] would not be sufficient to free it from
-this requirement.  
- This is because its extension makes us pursue further the question
+this requirement.
+This is because its extension makes us pursue further the question
 about its cause, regardless of the length of the extension process.
 
 ### III, IV. The Theories of Essential Possibility and Existential Possibility
@@ -881,8 +881,8 @@ number of motions made by the employees for the purpose of gathering raw
 material for construction, including brick iron, wood and similar
 things. These motions require the employees for their existence. Indeed,
 they definitely cease to exist at the time the employees cease to
-work.  
- The condition that occurs to the construction material as a result of
+work.
+The condition that occurs to the construction material as a result of
 the operation of construction is in its existence and continuity an
 effect of the properties of that material and of the general natural
 forces that impose on the matter the preservation of its condition and

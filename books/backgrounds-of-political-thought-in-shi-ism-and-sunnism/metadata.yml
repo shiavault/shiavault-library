@@ -1,0 +1,51 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/backgrounds-political-thought-shiism-and-sunnism-muhammad-masjid-jamei
+author: Muhammad Masjid-Jame‘i
+publisher: ABWA Publishing and Printing Center
+translator: Mahdi Azadi
+title: Backgrounds of Political Thought in Shi‘ism and Sunnism
+slug: backgrounds-of-political-thought-in-shi-ism-and-sunnism
+uuid: 8579b196-6410-441e-b92f-39a7e50ed0da
+description: |
+  This book is an extension and elaboration of four lectures from fall
+  1987 in the hall of the Contemporary Arts Museum. The book is aimed to
+  provide the main backgrounds of Shi‘ite and Sunni political thought, how
+  they were formed, what factors influenced them, how they have reacted
+  and finally making this book possible for the two parties to have a
+  clearer picture of the other, to know the theological and
+  jurisprudential limitations and obligations, the historical experiences
+  and doctrinal structure of the other and their mutual expectations in
+  coordination with these principles, foundations and capacities.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/backgrounds-political-thought-shiism-and-sunnism-muhammad-masjid-jamei/preface
+  title: Preface
+  slug: 1-preface
+  uuid: f449d3ed-88d7-4928-a55b-7a9f424d5592
+- source: :alislam
+  source_url: http://www.al-islam.org/backgrounds-political-thought-shiism-and-sunnism-muhammad-masjid-jamei/authors-introduction
+  title: Author’s Introduction
+  slug: 2-author-s-introduction
+  uuid: f1a52933-ce25-4a8c-8eb5-f262531155b0
+- source: :alislam
+  source_url: http://www.al-islam.org/backgrounds-political-thought-shiism-and-sunnism-muhammad-masjid-jamei/chapter-1-contemporary
+  title: 'Chapter 1: Contemporary Religious Movements'
+  slug: 3-chapter-1-contemporary-religious-movements
+  uuid: 0c4f023f-e899-45c5-b927-0be29cc844c9
+- source: :alislam
+  source_url: http://www.al-islam.org/backgrounds-political-thought-shiism-and-sunnism-muhammad-masjid-jamei/chapter-2-historical
+  title: 'Chapter 2:  The Historical Perception'
+  slug: 4-chapter-2-the-historical-perception
+  uuid: 5c96ffdd-d0b3-463e-a1d5-511df9199aca
+- source: :alislam
+  source_url: http://www.al-islam.org/backgrounds-political-thought-shiism-and-sunnism-muhammad-masjid-jamei/chapter-3-government-and
+  title: 'Chapter 3: Government and the Ruler'
+  slug: 5-chapter-3-government-and-the-ruler
+  uuid: 3065e841-e0e9-4d31-bc16-ce74e62c7c69
+- source: :alislam
+  source_url: http://www.al-islam.org/backgrounds-political-thought-shiism-and-sunnism-muhammad-masjid-jamei/chapter-4-power-and-justice
+  title: 'Chapter 4:  Power And Justice'
+  slug: 6-chapter-4-power-and-justice
+  uuid: 8cbd5a17-8333-42e3-9ab5-bd54f55da74c
+---

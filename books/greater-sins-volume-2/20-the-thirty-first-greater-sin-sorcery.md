@@ -38,7 +38,7 @@ ascribe sorcery to Hazrat Sulaiman (a.s.) was absolutely wrong. As the
 Almighty says,
 
 ***“...and Sulaiman was not an unbeliever, but the shaitans disbelieved,
-they taught men sorcery...”***  
+they taught men sorcery...”***
 ***(Surah al-Baqarah 2:102)***
 
 Regarding Harut and Marut the Holy Qur’an says:

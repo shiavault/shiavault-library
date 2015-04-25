@@ -297,16 +297,16 @@ is obligatory
 
 (9) Touching the body of a stranger
 
-    (1) Praising an oppressor except for Taqaiyyah
+(1) Praising an oppressor except for Taqaiyyah
 
-    (2) Staying in an assembly of sin
+(2) Staying in an assembly of sin
 
-    (3) Eating from gold and silver utensils
+(3) Eating from gold and silver utensils
 
-    (4) Not participating in congregation prayer and considering it
+(4) Not participating in congregation prayer and considering it
 unimportant
 
-    (5) Acting against any of the rules mentioned in Tauzihul Masael.
+(5) Acting against any of the rules mentioned in Tauzihul Masael.
 
 [^1]: Mustanadush Shia / Layalial Akhbar
 

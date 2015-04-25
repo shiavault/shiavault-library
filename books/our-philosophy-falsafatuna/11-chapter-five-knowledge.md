@@ -15,13 +15,13 @@ following texts from Marx, Engels, Georges Politzer and Roger Garaudy,
 respectively:
 
 Thought is inseparable from thinking matter. This matter is the
-substance of all changes.[^1] (p. 372)  
- Regardless of the apparent superiority of our consciousness and
+substance of all changes.[^1] (p. 372)
+Regardless of the apparent superiority of our consciousness and
 thought, they are nothing but a bodily or material organic product -
 this being the brain.[^2]
 
-Engels continues:  
- It is necessary that any driving force in people passes through their
+Engels continues:
+It is necessary that any driving force in people passes through their
 brains. This is true even of food and drink which begin by a sensation
 of hunger or thirst. This sensation is also felt in the brain. The
 influences of the external world on a human being are expressed in his
@@ -94,8 +94,8 @@ and so on. Every one of these schools studies a various aspect of
 knowledge. After all of this, the role of philosophical psychology
 emerges to treat knowledge from its own perspective. It investigates
 whether knowledge in essence is a material state of the nervous system
-or a pure spiritual state.  
- In what follows, we will clarify those various aspects to the extent
+or a pure spiritual state.
+In what follows, we will clarify those various aspects to the extent
 needed to light up the path of our investigation, and to show our
 position regarding materialism and Marxism.
 
@@ -933,8 +933,8 @@ conclusions. First, consciousness develops in accordance with external
 circumstances. This is because it is the product of conditioned
 reflexive actions that are evoked by external stimuli.
 
-Georges Politzer makes the following point:  
- By this method, Pavlov proved that what primarily determines the human
+Georges Politzer makes the following point:
+By this method, Pavlov proved that what primarily determines the human
 consciousness is not the organic system. But, on the contrary, this
 determination is made by the society in which human beings reside and by
 the knowledge that human beings acquire from this society. Therefore,
@@ -949,8 +949,8 @@ human being to have a thought of anything were it not for the fact that
 some instrument, such as language, played the role of a conditioned
 stimulus.
 
-The following is a passage from Stalin:  
- It is said that thoughts arise in the soul of a human being before they
+The following is a passage from Stalin:
+It is said that thoughts arise in the soul of a human being before they
 are expressed in language, and that they are produced without the
 instrumentality of language. But this is completely erroneous.
 Regardless of what the thoughts that arise in the human soul are, they

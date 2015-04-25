@@ -1,135 +1,135 @@
 ---
-source: :alhassanian
-source_url: http://alhassanain.org/english/?com=book&id=720
-title: Islamic Laws
-author: Ayatullah al-Uzma Sayyid Ali al-Husaini Seestani
+source: :alislam
+source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani
+author: Ayatullah Ali Al-Husayni Al-Sistani
 publisher: World Federation of KSI Muslim Communities
+title: Islamic Laws
+subtitle: According to the Fatawa of Ayatullah al Uzma Sayyid Ali al-Husaini Seestani
 slug: islamic-laws
-uuid: d85a75ac-86b7-4cc4-b4b5-5a00276b96e5
+uuid: 1119f57a-20f6-4505-aab5-f55b432551b4
+description: |
+  Laws on cleanliness, prayers, fasting, hajj, transactions, marriage, and
+  other topics. According to the Risalah of Ayatullah Ali al-Husayni
+  Al-Seestani.
 chapters:
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/important-note
   title: Important Note
   slug: 1-important-note
-  uuid: f312f3e4-40cb-4134-a8ab-1cc71e1ed7a2
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
+  uuid: 0b0c0b88-c4e6-4195-a438-845c5991dca1
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/taqlid-following-mujtahid
   title: 'Taqlid: Following a Mujtahid'
   slug: 2-taqlid-following-a-mujtahid
-  uuid: 2217ab14-261e-405e-8ad9-fd1cd945f6fa
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
+  uuid: d0717915-da74-4dab-986a-c13bef9fcb0d
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/taharat
   title: Taharat
   slug: 3-taharat
-  uuid: 48f1ba18-5eb0-41fc-b2d0-06cc5e6adea1
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
-  title: Rules of Salat (Part I of III)
+  uuid: 732e1802-e97e-4d68-9d6a-cecdb9722b09
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/rules-salat-part-i-iii
+  title: Rules of Salat  (Part I of III)
   slug: 4-rules-of-salat-part-i-of-iii
-  uuid: a39619c5-591a-46cd-b7c3-ff45102fb935
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
-  title: Rules of Salat (Part II of III)
+  uuid: 768b158c-b544-4953-ba09-268dd297a2a6
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/rules-salat-part-ii-iii
+  title: Rules of Salat  (Part II of III)
   slug: 5-rules-of-salat-part-ii-of-iii
-  uuid: 8d615add-6fb5-4f46-80e2-387518f33131
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
-  title: Rules of Salat (Part III of III)
+  uuid: 670e0d2d-0185-494c-a7d8-525c0f986322
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/rules-salat-part-iii-iii
+  title: Rules of Salat  (Part III of III)
   slug: 6-rules-of-salat-part-iii-of-iii
-  uuid: a6ea6e94-5ef5-4167-a5c6-ade30a1ce844
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
+  uuid: 57d7954e-436f-49e3-b837-76f5c13fe031
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/fasting-part-i-ii
   title: Fasting (Part I of II)
   slug: 7-fasting-part-i-of-ii
-  uuid: d7113a86-aa6e-4af3-9ec0-e641d1f6244d
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
+  uuid: 1793de88-4e5b-4434-9e73-27cf52fd3586
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/fasting-part-ii-ii
   title: Fasting (Part II of II)
   slug: 8-fasting-part-ii-of-ii
-  uuid: 0fb2c8f0-cfff-46d8-82ec-5892dd8b9d95
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
+  uuid: 559be803-4de5-43b1-8e91-9dcf46400eeb
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/khums
   title: Khums
   slug: 9-khums
-  uuid: a40adb4d-50d2-42d3-b2d4-652d341c2508
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
+  uuid: 8fcc37d3-62f1-40c6-95b0-1242603560cf
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/zakat-part-i-ii
   title: Zakat (Part I of II)
   slug: 10-zakat-part-i-of-ii
-  uuid: c382001d-09a8-4885-af59-52401b2ac3d9
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
+  uuid: 3910aba8-45c7-47c4-a509-da14a117576a
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/zakat-part-ii-ii
   title: Zakat (Part II of II)
   slug: 11-zakat-part-ii-of-ii
-  uuid: 9516b9a3-e050-48e2-8c5f-5a3edbf444d2
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
+  uuid: 42209ee9-b60d-4c59-8dda-5cecedf90cff
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/hajj
   title: Hajj
   slug: 12-hajj
-  uuid: b1d7fdb9-2cbc-45e2-9fcc-5c3baaa36d37
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
+  uuid: e8bbc48b-1c1c-4f92-b0dc-b3e0eff04b33
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/transactions-part-i-iii
   title: Transactions (Part I of III)
   slug: 13-transactions-part-i-of-iii
-  uuid: 6128b65f-7326-4a83-99b4-5307df143b44
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
+  uuid: 346a1eaf-866d-4402-981d-c844331834bf
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/transactions-part-ii-iii
   title: Transactions (Part II of III)
   slug: 14-transactions-part-ii-of-iii
-  uuid: af480e34-f2f6-470e-8252-6749179acfc4
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
+  uuid: f467993e-915c-4511-9b9c-3a792ab4ace1
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/transactions-part-iii-iii
   title: Transactions (Part III of III)
   slug: 15-transactions-part-iii-of-iii
-  uuid: c6514f3e-51b5-4a0d-a624-32917017eab1
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
+  uuid: 560fdaf6-2009-4d3a-b36e-3d9b4e619baa
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/marriage-part-i-ii
   title: Marriage (Part I of II)
   slug: 16-marriage-part-i-of-ii
-  uuid: 70e062fd-3fdd-4e23-9da3-203d988003a7
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
+  uuid: dee07666-a3ee-4ae1-b478-6efc8d301f14
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/marriage-part-ii-ii
   title: Marriage (Part II of II)
   slug: 17-marriage-part-ii-of-ii
-  uuid: 62a8e833-778c-4025-8c84-e9372005c806
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
+  uuid: 4bf42128-a765-473c-8c53-333f04e91b34
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/divorce
   title: Divorce
   slug: 18-divorce
-  uuid: af79ba36-35ff-4d38-88ec-2eb2164c5c4a
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
+  uuid: 3b39dbfa-a0f5-4184-8d7b-41b473c7ce49
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/usurpation-ghasb
   title: Usurpation (Ghasb)
   slug: 19-usurpation-ghasb
-  uuid: 4e36a035-d4ed-4e74-b5eb-c6d4c378c558
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
+  uuid: f7d46171-47b6-464a-8efb-28fc638ccdab
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/slaughtering-and-hunting-animals
   title: Slaughtering and Hunting of Animals
   slug: 20-slaughtering-and-hunting-of-animals
-  uuid: 7f5d0be3-28d6-41b2-ac3f-7b7fa4edd50b
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
+  uuid: cc87e7f3-7701-4c32-8f53-9b6d6c35cdfc
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/rules-things-allowed-eat-and-drink
   title: Rules of Things Allowed to Eat and Drink
   slug: 21-rules-of-things-allowed-to-eat-and-drink
-  uuid: f8803da7-2091-45cd-8cb7-e826c58dfe18
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
+  uuid: 4fcdd21c-d45c-4d59-8e37-aa7af5f62033
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/vow-and-covenant
   title: Vow and Covenant
   slug: 22-vow-and-covenant
-  uuid: 9611b7a1-c265-44bd-8381-73d056884d95
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
+  uuid: c09929a2-f286-4424-829f-4f08e43634e8
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/rules-regarding-waqf
   title: Rules Regarding Waqf
   slug: 23-rules-regarding-waqf
-  uuid: fcd8a318-67eb-471b-a154-6186a34c010c
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
+  uuid: 74c377e0-3048-403d-8841-a21681fa4f2c
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-laws-ayatullah-ali-al-husayni-al-sistani/rules-regarding-will-wasiyyat
   title: Rules Regarding Will (Wasiyyat)
   slug: 24-rules-regarding-will-wasiyyat
-  uuid: 22d99bc8-9801-45a1-a8f2-f5fe48fef0e6
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=720
-  title: Inheritance
-  slug: 25-inheritance
-  uuid: 1745acdd-f54e-4878-9219-08dc6e198c49
+  uuid: a3abf906-1094-4da9-958d-c9c19d3bda21
 ---

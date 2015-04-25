@@ -12,8 +12,8 @@ they possess.
 Therefore, before anything, we must inquire as to whether this way can
 really lead to the goal, and whether human beings are capable of
 grasping an objective reality by means of the intellectual knowledge and
-capacities that they possess.  
- Regarding this issue, Marxist philosophy believes that it is possible
+capacities that they possess.
+Regarding this issue, Marxist philosophy believes that it is possible
 for one to know the world, and that the human mind is capable of
 discovering objective realities. [In other words], it rejects doubt and
 sophistry.
@@ -33,8 +33,8 @@ Rather, it contains certain things that are still (p. 108) unknown, but
 that will be discovered, and will become known by means of the
 scientific and practical methods.[^1]
 
-Again:  
- The strongest refutation of this philosophical illusion, i.e. the
+Again:
+The strongest refutation of this philosophical illusion, i.e. the
 illusion of Kant, Hume and other idealists, as well as of every other
 philosophical illusion is practice, sense experience and industry in
 particular.
@@ -210,13 +210,13 @@ proposition to the first intuitive proposition, and admitted as true
 that a thing does not come out of nothing. (p. 113)
 
 After he accepted the subjective side, he went on to prove the objective
-reality. Thus, he arranged human thought in three groups:  
+reality. Thus, he arranged human thought in three groups:
 ***I. Instinctive or natural ideas***. These are the natural human ideas
 that appear most evident and clearest, such as the ideas of God, motion,
-extension, and the soul.  
+extension, and the soul.
 ***II. Vague ideas that occur in the mind on the occasion of motions
 that come to the senses from without.*** These have no foundation in the
-human mind.  
+human mind.
 ***III. Various ideas that human beings construct and compose from their
 other ideas.*** These are exemplified in the idea of a human being
 having two heads.
@@ -252,8 +252,8 @@ external causes. As a result of this, he divided ideas concerning matter
 into two types: (1) the innate ideas, such as the idea of extension; and
 (2) ideas that occur [later] and express specific reactions of the soul,
 caused by external influences, such as the ideas of sound, odor, light,
-flavor, heat and color.  
- The former are real primary qualities, while the latter are secondary
+flavor, heat and color.
+The former are real primary qualities, while the latter are secondary
 qualities that do not express objective realities. Rather, they
 represent subjective reactions. They are successive mental concepts that
 arise in the mental realm due to the influence of external bodies to
@@ -324,11 +324,11 @@ knowledge is that knowledge is divided into the following types:
 
 ***I. Intuitive knowledge (al-ma'rifa al-wijdaniyya):*** this is the
 knowledge the mind can attain without need for recognizing something
-else. An example of this is our knowledge that one is half of two.  
+else. An example of this is our knowledge that one is half of two.
 ***II. Reflective knowledge (al-ma'rifa at-ta' ammuliyya***): this kind
 of knowledge cannot occur without the help of previous information. An
 example of it is our knowledge that the sum of the angles of a triangle
-is equal to two right angles.  
+is equal to two right angles.
 ***III. Knowledge that results from empirical knowledge of the known
 object.***
 
@@ -855,11 +855,11 @@ mentioned proofs.
 A human being cannot demonstrate something, unless he based his
 demonstration on fundamentals and rules that are to him of secure truth.
 If we pay attention to Berkeley's proofs, we find him obliged to admit
-the following:  
+the following:
 *a. The principle of non-contradiction on which the first proof is
 based.* If contradiction were possible, one could infer from the
 contradiction of sense perceptions that this principle is not
-objective.  
+objective.
 *b. The principle of causality and necessity.* If Berkeley does not
 admit this principle, his proof will be useless. For a human being bases
 a proof on his opinion, only because he is convinced that a proof is a
@@ -951,14 +951,14 @@ physicists went further than this to claim that the world can be
 attributed to pure motion. In this, they attempted to dispense with any
 substantial reality in addition to the world.
 
-In the words of Ostwald:[^11]  
- The stick that strikes Scaban? does not rise on the basis of the
+In the words of Ostwald:[^11]
+The stick that strikes Scaban? does not rise on the basis of the
 existence of the external world. This stick does not exist. The only
 thing that exists [of it] is its power of motion.[^12]
 
 Also, Karl Pearson[^13] makes the following statement: 'Matter is the
-nonmaterial in motion.'[^14]  
- In the midst of these new discoveries that shook the material edifice
+nonmaterial in motion.'[^14]
+In the midst of these new discoveries that shook the material edifice
 and showed that matter is a general human illusion about the world, and
 not a scientific notion that corresponds to the world, the idealistic
 tendency in physics arose and attracted many physicists.
@@ -981,8 +981,8 @@ acquired by way of sense experience. Finally, I say that what I know
 about the universe is truly and precisely the exact, the very thing
 which we add to the universe to make it intelligible.[^16]
 
-Later, Eddington expressed his hope that  
- What was concealed in the nucleus of the atom will become known in the
+Later, Eddington expressed his hope that
+What was concealed in the nucleus of the atom will become known in the
 very near future, in spite of the presumptions that our minds entertain,
 namely that this was concealed prior to our time.[^17]
 
@@ -1065,8 +1065,8 @@ scientific and empirical evidence does not demonstrate the non-existence
 of the material aspect of the world. Rather, it is a cause of
 strengthening our understanding of matter and its qualities.
 
-Let us quote from Lenin:  
- The disappearance of matter determines that the degree of the knowledge
+Let us quote from Lenin:
+The disappearance of matter determines that the degree of the knowledge
 of matter that we have reached also disappears, and that our awareness
 becomes more profound. Thus, some qualities of matter, such as its
 impenetrability, rest and mass, had appeared to us before as absolute,
@@ -1365,8 +1365,8 @@ Their only role is to explain and clarify.
 
 Second, synthetic judgement: this is the judgement whose predicate adds
 something new to the subject. Examples of this are: 'Bodies are heavy'.
-'Heat expands corporeal particles.' 'Two plus two equals four.'  
- The quality that we impose on the subjects in these propositions is not
+'Heat expands corporeal particles.' 'Two plus two equals four.'
+The quality that we impose on the subjects in these propositions is not
 inferred from them by analysis. Rather, it is additional. Because of
 this, a new knowledge that was not available before arises. Synthetic
 judgements are sometimes primary judgements, while at other times they
@@ -2139,8 +2139,8 @@ more things remain at the end and he could not determine the cause in
 light of the necessary principles, the scientific result in this area
 will be presumptive.
 
-From this we learn the following:  
- The necessary rational principles are the general ground of the
+From this we learn the following:
+The necessary rational principles are the general ground of the
 scientific truths, as was stated at the beginning of this investigation.
 
 The value of scientific theories and results in experimental fields (p.
@@ -2229,8 +2229,8 @@ idealism. They also relied on motion for refuting relativism.
 
 ### I. Sense Experience and Idealism
 
-Engels[^29] makes the following statement concerning idealism:  
- The strongest refutation of this philosophical illusion, and of every
+Engels[^29] makes the following statement concerning idealism:
+The strongest refutation of this philosophical illusion, and of every
 other philosophical illusion is work, trial, and industry in particular.
 If we can prove the soundness of our understanding of a certain natural
 phenomenon, by creating this phenomenon in ourselves and producing it by
@@ -2238,8 +2238,8 @@ means of fulfilling its conditions, and further, if we can use it in
 achieving our ends, then this will be a decisive judgment against the
 Kantian notion of the thing in itself.[^30] (p. 168)
 
-Again, Marx says:  
- The issue of knowing whether the human mind can grasp an objective
+Again, Marx says:
+The issue of knowing whether the human mind can grasp an objective
 reality is not a theoretical, but a practical issue. This is because a
 human being must establish the evidence for the reality of his mind on
 the basis of the practical field.[^31]
@@ -2348,15 +2348,15 @@ Let us present some of the Marxist texts that had attempted to treat
 this problem [in a manner] not in accordance with the nature and
 philosophical character of Marxism.
 
-We quote first from Roger Garaudy:  
- The sciences teach us that human beings appeared on the face of the
+We quote first from Roger Garaudy:
+The sciences teach us that human beings appeared on the face of the
 earth at a very late stage. The same is true of the mind accompanying
 them. For us to assert that the mind had existed on earth prior to
 matter, is to assert that such a mind was not the human mind. Idealism
 in all its forms cannot escape theology.[^35]
 
-Again:  
- The earth had existed even prior to any sensitive being, i.e. prior to
+Again:
+The earth had existed even prior to any sensitive being, i.e. prior to
 any living being. No organic matter could have existed on (p. 172) this
 planet in the very early stages of the existence of this planet.
 Inorganic matter, therefore, preceded life which had to grow and develop
@@ -2383,8 +2383,8 @@ create in our perception and conception. The evidence that Garaudy gives
 us involves a petitio principii (musadara)[^37], and begins with a point
 that idealism does not admit.
 
-Second, the following is a passage from Lenin:  
- If we wish to present the issue from the only sound point of view; that
+Second, the following is a passage from Lenin:
+If we wish to present the issue from the only sound point of view; that
 is, from the point of view of dialectical materialism, we must ask
 whether electrons, air, etc., exist outside the human mind, and whether
 or not they have an objective reality.
@@ -2410,8 +2410,8 @@ and are not such experiments and sense perceptions the subject of the
 debate that centers on whether or not they have an objective reality?
 How then can science have the decisive word concerning this issue?
 
-Third, this is what Georges Politzer says:  
- No one doubts that the material life of society is independent of human
+Third, this is what Georges Politzer says:
+No one doubts that the material life of society is independent of human
 consciousness, for there is none, whether a capitalist or a proletariat,
 who desires an economic crisis, even though such a crisis occurs
 unavoidably.[^39]
@@ -2454,8 +2454,8 @@ presented by Kant. Similarly, it opposes the idealistic conceptual
 notions. Let us, therefore, examine its method with regard to this
 matter.
 
-Georges Politzer makes the following statement: (p. 175)  
- In fact, the dialectic, including the idealistic dialectic of Hegel,
+Georges Politzer makes the following statement: (p. 175)
+In fact, the dialectic, including the idealistic dialectic of Hegel,
 asserts that a distinction between the qualities of a thing and the
 thing in itself is an empty distinction. If we know all the qualities of
 a certain thing, we also know that thing in itself. [How then could it
@@ -2485,8 +2485,8 @@ fluidity in itself is precisely the state of relative equilibrium whose
 internal contradiction is revealed at the point of freezing or
 boiling.[^41]
 
-Concerning this, Lenin says:  
- There is no basic difference, and there cannot be such a difference
+Concerning this, Lenin says:
+There is no basic difference, and there cannot be such a difference
 between the phenomenon and the thing in itself. Further, there is no
 difference between what is known and what will be known later. The
 deeper our knowledge of reality is, the more the thing in itself
@@ -2670,17 +2670,17 @@ of evidence offered by this school concerning the present point. One of
 these is philosophical evidence, and the other scientific biological
 evidence.
 
-The philosophical evidence is summed up in the following text:  
- Thought is capable of full comprehension of nature. This is because it
+The philosophical evidence is summed up in the following text:
+Thought is capable of full comprehension of nature. This is because it
 is a part of nature, due to the fact that it is the product of nature
 and the highest expression of it. Thought is nature conscious of itself
 in the innermost being of humanity.[^44]
 
-Also, Lenin says:  
- The universe is the motion of matter which is governed by laws. Since
+Also, Lenin says:
+The universe is the motion of matter which is governed by laws. Since
 our knowledge is nothing other than a superior product of nature, it
-cannot but reflect (p. 18 1) these laws.[^45]  
- In his book, Anti-Duhring, Engels tried to show the following:
+cannot but reflect (p. 18 1) these laws.[^45]
+In his book, Anti-Duhring, Engels tried to show the following:
 
 Philosophical materialism is the only thing capable of establishing the
 value of knowledge on firm principles, since it considers consciousness
@@ -2728,13 +2728,13 @@ from everything else.
 
 The biological evidence concerning the correspondence of knowledge or
 sense perception to objective reality is expounded in the following
-text:  
- At the level of sense perception, [an idea] cannot be beneficial
+text:
+At the level of sense perception, [an idea] cannot be beneficial
 biologically in preserving life, except if it reflects objective
 reality.[^47]
 
-Again:  
- If it were true that sense perception is merely symbolic and has no
+Again:
+If it were true that sense perception is merely symbolic and has no
 resemblance to the [actual] thing, and if, consequently, it were
 possible for numerous different things to correspond, or for illusory
 and actual things to have exact resemblance to each other, then the
@@ -2794,19 +2794,19 @@ movement and unity of the material development is the dialectic only
 which is the proper reflection of the everlasting development of the
 world (ad-Dafati*r al-Falsafiyya, p.* 84).[^49]
 
-He also says:  
- By our proceeding from the pure relativity theory, we can justify all
+He also says:
+By our proceeding from the pure relativity theory, we can justify all
 kinds of sophistry (ibid, p. 328).[^50]
 
-Further, Kedrov[^51] says:  
- But there may be a certain subjective tendency, not only when we
+Further, Kedrov[^51] says:
+But there may be a certain subjective tendency, not only when we
 operate on the basis of the fixed and frozen categories of formal logic,
 but also when we operate by means of flexible and changing categories.
 In the former case, we reach metaphysics; while in the latter case, we
 reach the relativity theory, sophistry and purism.[^52]
 
-He adds:  
- The Marxist dialectical method requires that the reflection of the
+He adds:
+The Marxist dialectical method requires that the reflection of the
 objective world in the human mind corresponds (p. 185) to the reflected
 thing, and that is involves nothing foreign to that thing, i.e. nothing
 which is brought in by the subjectivity. From the point of view of
@@ -2826,8 +2826,8 @@ progressive truths that grow and integrate in accordance with the laws
 of the dialectic. For this reason, these truths are relative and in
 continuous development.
 
-Here is another citation from Lenin:  
- The mind, i.e. the human [mind] must not conceive truth as a mere
+Here is another citation from Lenin:
+The mind, i.e. the human [mind] must not conceive truth as a mere
 motionless, faint or dull scene or picture. Knowledge is the infinite
 endless closeness of the mind to the thing. One must understand the
 reflection of nature in the human mind not as a motionless static
@@ -2835,13 +2835,13 @@ abstract thing free from contradictions, but as an endless process of
 the development of motion for creating contradictions, and for resolving
 these contradictions (p. 186) (ibid, p. 167-8).[^54]
 
-He continues:  
- In the theory of knowledge, as in all other areas of knowledge, it is
+He continues:
+In the theory of knowledge, as in all other areas of knowledge, it is
 important that thought be dialectical, i.e. that no assumption be made
 that our consciousness is fixed and resists development.[^55]
 
-Kedrov says:  
- The dialectical method does not encounter this judgment as a complete
+Kedrov says:
+The dialectical method does not encounter this judgment as a complete
 thing, but as an expression of an idea capable of growth and movement.
 Regardless of the simplicity of a certain judgment, and regardless of
 how common that judgment appears to be, it contains the seeds or
@@ -2849,12 +2849,12 @@ elements of dialectical contradictions within whose scope, all human
 knowledge moves and grows.[^56]
 
 Kedrov points to a statement in which Lenin determines the style of the
-dialectical method of thought. This statement is the following:  
- The dialectical method requires that a thing be taken in its
+dialectical method of thought. This statement is the following:
+The dialectical method requires that a thing be taken in its
 development, growth, and change.[^57]
 
-He follows this by saying:  
- Contrary to the dialectical method, formal logic resorts for solving
+He follows this by saying:
+Contrary to the dialectical method, formal logic resorts for solving
 the problem of truth to solving this problem in the most basic manner;
 that is, by means of the formula 'yes-no.' It knows in one word, and in
 an absolute fashion the answer to the question: 'Does (p. 187) that
@@ -3223,8 +3223,8 @@ we know them in a different form.[^67]
 
 in criticizing the principle of absolute truth that asserts that
 absolute truth cannot come together with falsity by way of the revisions
-made in the scientific theories and laws, Engels tells us:  
- Let us illustrate this by the well-known Boyle's[^68] law which states
+made in the scientific theories and laws, Engels tells us:
+Let us illustrate this by the well-known Boyle's[^68] law which states
 that the volumes of gases are inversely proportionate to the pressure
 exerted on them - if the degree of their temperature remains fixed.
 

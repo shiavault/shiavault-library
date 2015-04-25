@@ -1,69 +1,75 @@
 ---
-source: :mareef
-source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam09_jawad/the_life_of_imam_jawad/index.htm
-title: The Life of Imam Muhammad Al-jawad
+source: :alislam
+source_url: http://www.al-islam.org/life-imam-muhammad-al-jawad-baqir-shareef-al-qurashi
 author: Baqir Shareef al-Qurashi
+publisher: Ansariyan Publications - Qum
+translator: Abdullah al-Shahin
+title: The Life of Imam Muhammad Al-Jawad
 slug: the-life-of-imam-muhammad-al-jawad
-uuid: 9042d1df-321c-40de-9915-5c4bf2ecff77
+uuid: 1c5dd8ce-27e2-4041-b694-1a9fc2093da1
+description: |
+  A research biography of the ninth Imam: Muhammad Ibn Ali, At-Taqi or
+  al-Jawad (as) who has filled the world with his virtues, knowledge,
+  asceticism and piety.
 chapters:
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam09_jawad/the_life_of_imam_jawad/0.htm
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-muhammad-al-jawad-baqir-shareef-al-qurashi/dedication
   title: Dedication
   slug: 1-dedication
-  uuid: 1d6dd57b-f6b5-45f7-b0c3-d84f876a1800
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam09_jawad/the_life_of_imam_jawad/00.htm
+  uuid: f46868c4-3b49-411e-96ae-465f966654d4
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-muhammad-al-jawad-baqir-shareef-al-qurashi/introduction
   title: Introduction
   slug: 2-introduction
-  uuid: 20ed40f4-2f1b-492c-a029-aee2305dbfd0
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam09_jawad/the_life_of_imam_jawad/01.htm
-  title: His Birth and Upbringing
+  uuid: 03db3368-767a-42cf-84fe-bb28a0560332
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-muhammad-al-jawad-baqir-shareef-al-qurashi/his-birth-and-upbringing
+  title: His Birth And Upbringing
   slug: 3-his-birth-and-upbringing
-  uuid: 6779a8b3-68f6-4c39-919b-0c767228c48c
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam09_jawad/the_life_of_imam_jawad/02.htm
-  title: Under the Wing of His Father
+  uuid: e1cbfb2f-018d-4e44-ba9d-0c74addc41c8
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-muhammad-al-jawad-baqir-shareef-al-qurashi/under-wing-his-father
+  title: Under The Wing Of His Father
   slug: 4-under-the-wing-of-his-father
-  uuid: 2cf0f531-c1db-43d8-a314-9b67d30b294f
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam09_jawad/the_life_of_imam_jawad/03.htm
+  uuid: 7b9c3428-d391-4f2a-952c-02683bd27716
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-muhammad-al-jawad-baqir-shareef-al-qurashi/his-high-ideals
   title: From His High Ideals
   slug: 5-from-his-high-ideals
-  uuid: 2b560023-0242-46c7-b65b-cbdf65ba2a4c
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam09_jawad/the_life_of_imam_jawad/04.htm
-  title: His Knowledge and Sciences
+  uuid: 3deebf03-a047-40d7-ae47-2c5b2502bbf1
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-muhammad-al-jawad-baqir-shareef-al-qurashi/his-knowledge-and-sciences
+  title: His Knowledge And Sciences
   slug: 6-his-knowledge-and-sciences
-  uuid: 1004f38b-a55b-448d-aee7-06c2a08acd3c
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam09_jawad/the_life_of_imam_jawad/05.htm
-  title: His Companions and the Narrators of His Traditions
+  uuid: c1854f91-e504-4c2a-b886-ddcb4ae2eb33
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-muhammad-al-jawad-baqir-shareef-al-qurashi/his-companions-and-narrators-his-traditions
+  title: His Companions And The Narrators Of His Traditions
   slug: 7-his-companions-and-the-narrators-of-his-traditions
-  uuid: 2e0274e2-e021-4cde-91e1-30197248a311
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam09_jawad/the_life_of_imam_jawad/06.htm
-  title: The Age of Imam Al-jawad (a.s)
+  uuid: a82e2a21-9d94-4b29-b2e9-4e1061be547d
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-muhammad-al-jawad-baqir-shareef-al-qurashi/age-imam-al-jawad
+  title: The Age Of Imam Al-Jawad (A.S)
   slug: 8-the-age-of-imam-al-jawad-a-s
-  uuid: 2f019640-f2d5-4da8-95f2-1b7a673f81dd
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam09_jawad/the_life_of_imam_jawad/07.htm
-  title: At the Age of Al-ma'moon
+  uuid: cb9c5e5b-e705-4426-ab6a-4e571ed34eeb
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-muhammad-al-jawad-baqir-shareef-al-qurashi/age-al-mamoon
+  title: At The Age Of Al-Ma'moon
   slug: 9-at-the-age-of-al-ma-moon
-  uuid: f87bdd5e-73e9-4d7a-9977-fee21f9c73c6
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam09_jawad/the_life_of_imam_jawad/08.htm
+  uuid: 684858bf-2916-439d-a43b-ecdac450ba98
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-muhammad-al-jawad-baqir-shareef-al-qurashi/end
   title: The End
   slug: 10-the-end
-  uuid: 480b230d-74bb-4e9e-990e-f3a332de03ad
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam09_jawad/the_life_of_imam_jawad/09.htm
-  title: Ziyarah of Imam Al-jawad (a.s)
+  uuid: 8ee3f70a-ffc9-43fe-b67e-6fb4060b2908
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-muhammad-al-jawad-baqir-shareef-al-qurashi/ziyarah-imam-al-jawad
+  title: Ziyarah Of Imam Al-Jawad (a.s)
   slug: 11-ziyarah-of-imam-al-jawad-a-s
-  uuid: 9770807d-0a4e-48d1-8e53-cce38f58f294
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam09_jawad/the_life_of_imam_jawad/10.htm
+  uuid: 41c281a6-e7f8-4cbc-93c0-6ea109bf9877
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-muhammad-al-jawad-baqir-shareef-al-qurashi/reference-books
   title: Reference Books
   slug: 12-reference-books
-  uuid: 2f575337-d452-4533-80fd-be9846a7601a
+  uuid: b5146542-fd6e-4a45-90e7-9a4758d522aa
 ---

@@ -1,0 +1,104 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/lady-zaynab-badr-shahin
+author: Badr Shahin
+publisher: Ansariyan Publications - Qum
+title: Lady Zaynab
+slug: lady-zaynab
+uuid: c6e13a38-3ba6-418a-801e-e1e7c5e8eceb
+description: |
+  This book throws lights on the great personality of Lady Zaynab (s.a.),
+  daughter of Imam Ali (a.s.) and Fatimah az-Zahra (s.a.), granddaughter
+  of the Holy Prophet Muhammad (S) and sister of Imam Husayn (a.s.) and
+  describes her great role in the uprising of Imam al-Husayn (a.s.)
+  especially after his martyrdom, it recalls how she stood firmly against
+  oppression and tyranny denouncing the great injustices and the forgeries
+  made by the tyrant that called himself a Muslim caliph, Yazid ibn
+  Mu’awuiyyah (‘lan).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-zaynab-badr-shahin/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: 1aa150a3-1893-4e9b-9812-ee59a462ae5d
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-zaynab-badr-shahin/publishers-word
+  title: Publisher’s Word
+  slug: 2-publisher-s-word
+  uuid: ea1789b8-c976-4a4e-b9aa-53377a10ba08
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-zaynab-badr-shahin/ahl-ul-bayt-quran-and-sunnah
+  title: The Ahl ul-Bayt in The Quran And Sunnah
+  slug: 3-the-ahl-ul-bayt-in-the-quran-and-sunnah
+  uuid: 1f039b03-75c6-4c3e-bd0d-5ed9a907bc35
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-zaynab-badr-shahin/introduction
+  title: Introduction
+  slug: 4-introduction
+  uuid: 3498f671-aa21-49ce-a899-dd48293bab8e
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-zaynab-badr-shahin/life-lady-zaynab
+  title: The Life of Lady Zaynab
+  slug: 5-the-life-of-lady-zaynab
+  uuid: 92785b7f-90cb-4b6f-a387-349099eed20e
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-zaynab-badr-shahin/personality
+  title: Personality
+  slug: 6-personality
+  uuid: a096f8c9-3e89-4e9c-91bb-a91ec8061a27
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-zaynab-badr-shahin/horrifying-events
+  title: Horrifying Events
+  slug: 7-horrifying-events
+  uuid: 9c71b5d8-10a1-47b9-b433-04d0e96f977e
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-zaynab-badr-shahin/caliphs-reign
+  title: The Caliphs’ Reign
+  slug: 8-the-caliphs-reign
+  uuid: d3b398cb-22a8-43f6-92d0-74f8129d0321
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-zaynab-badr-shahin/imam-alis-reign
+  title: Imam Ali’s Reign
+  slug: 9-imam-ali-s-reign
+  uuid: c2a9e5dc-d468-42c1-b216-e97d3ce26053
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-zaynab-badr-shahin/imam-al-hasans-reign
+  title: Imam Al-Hasan’s Reign
+  slug: 10-imam-al-hasan-s-reign
+  uuid: c1a6fa5e-e6b5-49e3-880c-11fa9ec1dfb1
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-zaynab-badr-shahin/muawiyahs-reign
+  title: Muawiyah’s Reign
+  slug: 11-muawiyah-s-reign
+  uuid: ec4b95a1-440d-4531-a6c6-ab7c86971de2
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-zaynab-badr-shahin/black-reign
+  title: The Black Reign
+  slug: 12-the-black-reign
+  uuid: e9f6075b-d8ec-42e2-8801-13581f35ff43
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-zaynab-badr-shahin/karbala
+  title: In Karbala
+  slug: 13-in-karbala
+  uuid: 651428ba-ce82-48d1-9251-c1d70228ba44
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-zaynab-badr-shahin/day-ashura
+  title: Day of Ashura
+  slug: 14-day-of-ashura
+  uuid: 9e63bae7-38e1-4e08-b444-2a1b920131f6
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-zaynab-badr-shahin/lady-zaynab-captivity
+  title: Lady Zaynab in Captivity
+  slug: 15-lady-zaynab-in-captivity
+  uuid: 0cf39fe1-ca00-4fdc-b0f1-0e63894c1254
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-zaynab-badr-shahin/heaven
+  title: To The Heaven
+  slug: 16-to-the-heaven
+  uuid: df4a7b3f-dd0b-423d-a098-4157b8028757
+- source: :alislam
+  source_url: http://www.al-islam.org/lady-zaynab-badr-shahin/references
+  title: References
+  slug: 17-references
+  uuid: ccbf2ed0-aaae-4b91-b969-331b42318bde
+---

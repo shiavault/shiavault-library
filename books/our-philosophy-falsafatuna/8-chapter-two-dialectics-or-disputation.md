@@ -52,14 +52,14 @@ of thought and reality alike. That is why it is a method of thought as
 well as a principle on which the existence and development of reality is
 based.
 
-We are told the following by Lenin:  
- If there are some contradictions among people's ideas, it is because
+We are told the following by Lenin:
+If there are some contradictions among people's ideas, it is because
 the reality that our minds reflect involves contradictions. The
 dialectic of things produces the dialectic of ideas, and not vice
 versa.[^1] (p. 223)
 
-Marx also says:  
- The movement of thought is nothing but a reflection of the movement of
+Marx also says:
+The movement of thought is nothing but a reflection of the movement of
 reality, transmitted to, and transformed in the human mind.[^2]
 
 Hegelian logic, with the dialectic and contradiction on which it rests,
@@ -184,8 +184,8 @@ assertion of general linkage. (p. 227)
 1. The Movement of Development
 ------------------------------
 
-Stalin declares that  
- Contrary to metaphysics, the dialectic does not consider nature as a
+Stalin declares that
+Contrary to metaphysics, the dialectic does not consider nature as a
 state of rest, frozenness, stagnation, and stability. Rather, it
 considers it as a state of constant motion, change, and uninterrupted
 renewal and development. In nature, there is always something generating
@@ -196,8 +196,8 @@ one another and from the perspective of their mutual adaptation to one
 another, but also from the perspective of their motion, change,
 development, appearance, and disappearance.[^4]
 
-Further, Engels says:  
- We must not view the world as if is were composed of complete things.
+Further, Engels says:
+We must not view the world as if is were composed of complete things.
 Rather, we must view it as if it were composed in our minds. This
 passage (to the mental composition) indicates a continuous change of
 becoming and disintegration, where at last the light of progressive
@@ -617,8 +617,8 @@ thoughts are such that they grow and develop dialectically, so that our
 thoughts of things match the things themselves.
 
 In this respect, we should pay attention to the following texts: (p.
-241)  
- Reality grows, and the knowledge chat results from this reality
+241)
+Reality grows, and the knowledge chat results from this reality
 reflects it, grows as it grows, and becomes an effective element of its
 growth. Thought does not produce its subject. Rather, it reflects and
 portrays objective reality by disclosing the laws of the growth of this
@@ -757,8 +757,8 @@ something that continues its progression, and about every stage of which
 human beings form a notion, this will close the discussion; [for] it
 does not mean a dialectical motion in truths and notions. Every notion
 we form about a specific stage of the development of uranium is fixed
-and does not develop dialectically to another notion.  
- Rather, a new notion is added to it.
+and does not develop dialectically to another notion.
+Rather, a new notion is added to it.
 
 At the end of this process, we possess a number of fixed notions and
 truths, every one of which portrays a specific level of the objective
@@ -794,8 +794,8 @@ innermost being of every objective phenomenon of nature, it also
 dictates the existence of dynamic motion in all the phenomena of thought
 and knowledge.
 
-Let us go over what is related to this subject in the following texts:  
- Being is the motion of matter which is subject to laws. Since our
+Let us go over what is related to this subject in the following texts:
+Being is the motion of matter which is subject to laws. Since our
 knowledge is nothing but a superior product of nature, it cannot but
 reflect these laws.[^20]
 
@@ -847,8 +847,8 @@ history of sciences, according to the Marxist claim, is itself the
 history of the dialectical movement of the human thought that becomes
 more complete with the passage of time.
 
-Here is a citation from Kedrov:  
- The absolute truth which results from relative truths is a historical
+Here is a citation from Kedrov:
+The absolute truth which results from relative truths is a historical
 movement of development. It is the movement of knowledge. It is
 precisely for this reason that the Marxist dialectical logic treats the
 thing that it studies from a historical point of view, i.e. from the
@@ -1079,8 +1079,8 @@ knowledge, even though there may not be any absolute truth in our minds.
 2. The Contradictions of Development
 ------------------------------------
 
-The following passage is taken from Stalin:  
- Contrary to metaphysics, the starting point of the dialectic is the
+The following passage is taken from Stalin:
+Contrary to metaphysics, the starting point of the dialectic is the
 view which rests on the fact that all natural events and things involve
 contradictions, since all of them involve a negative aspect as well as a
 positive aspect in the past and in the present.
@@ -1089,8 +1089,8 @@ Further, they all have elements that disintegrate or develop. Thus, the
 strife of these opposites lies in the internal content responsible for
 transferring the quantitative changes to qualitative changes.[^28]
 
-Again, Mao Tse-tung says:  
- The law of contradiction in things, i.e. the law of the union of
+Again, Mao Tse-tung says:
+The law of contradiction in things, i.e. the law of the union of
 opposites, is the basic and most important law in dialectical
 materialism.
 
@@ -1128,8 +1128,8 @@ non-contradiction. It considered it a characteristic of metaphysical
 thought and one of the fundamentals of formal logic chat succumb to the
 sharp pickax of the dialectic.
 
-This is confirmed by Kedrov in the following statement:  
- By the expression 'formal logic' we understand the logic that rests on
+This is confirmed by Kedrov in the following statement:
+By the expression 'formal logic' we understand the logic that rests on
 nothing other than the four laws of thought: the law of identity, the
 law of contradiction, the law of conversion, and the law of
 demonstration. This logic stops at this point. But we consider the
@@ -1374,8 +1374,8 @@ somebody will emerge to consider this strife as a proof for the collapse
 of this necessary principle.
 
 Here are some of Aristotle's texts concerning strife among external
-opposites:  
- Put briefly, something of the same genus may be actually accepted by
+opposites:
+Put briefly, something of the same genus may be actually accepted by
 something else of the same genus. The reason for this is that all
 opposites are of the same genus, and opposites act upon one another and
 accept one another from one another.[^33]
@@ -1413,16 +1413,16 @@ of its weakness and failure to demonstrate its own logic.
 
 #### a. The contradictions of motion
 
-The following is a passage from Georges Lefebvre:[^35]  
- When nothing goes on, then there is no contradiction. Conversely, when
+The following is a passage from Georges Lefebvre:[^35]
+When nothing goes on, then there is no contradiction. Conversely, when
 there is no contradiction, nothing happens, nothing exists, no
 appearance of any activity is noticed, and nothing new emerges. (p. 264)
 Whether the matter is related to a state of stagnation, to a temporary
 equilibrium, or to a moment of flourishing, the being or thing that is
 not self-contradictory is temporarily in a state of rest.[^36]
 
-Also, we quote from Mao Tse-tung:  
- A proposition with general contradiction or with the absolute existence
+Also, we quote from Mao Tse-tung:
+A proposition with general contradiction or with the absolute existence
 of contradiction has a dual meaning. The first is that contradiction
 exists in the process of the development of all things. The second is
 that from the beginning to the end of the development of everything,
@@ -1475,8 +1475,8 @@ of non-contradiction and of the rules of the metaphysical logic.
 
 #### b. The contradictions of life or of a living body
 
-[Concerning this,] Georges Lefebvre tells us the following:  
- In spite of this, it is not clear that life is birth, growth, and
+[Concerning this,] Georges Lefebvre tells us the following:
+In spite of this, it is not clear that life is birth, growth, and
 development? Still, a living being cannot grow without changing and
 developing, i.e. without ceasing to be what he was. In order for him to
 become a man, he must abandon and lose adolescence. Everything that
@@ -1516,8 +1516,8 @@ life is actual death.
 #### c. The contradiction in people's capacity for knowledge
 
 In his presentation of the principle of contradiction in the dialectic,
-Engels says: (p. 267)  
- As we have seen, contradiction, for example, between the genuine and
+Engels says: (p. 267)
+As we have seen, contradiction, for example, between the genuine and
 unlimited human capacity for knowledge and the actual realization of
 this capacity in people who are restricted by their external
 circumstances and mental receptivity finds its resolution in the
@@ -1648,8 +1648,8 @@ ordinariness of that judgment, it contains seeds or elements of
 dialectical contradiction which move and grow in the sphere of all human
 knowledge.[^45]
 
-Lenin emphasizes this point saying:  
- Beginning with any proposition, even with the simplest proposition or
+Lenin emphasizes this point saying:
+Beginning with any proposition, even with the simplest proposition or
 with the most ordinary and most common proposition, etc., such as: 'The
 tree leaves are green,' 'Ivan is a man,' 'Zhuchka is a dog,' and so on,
 also involves a dialectic. The particular is the general; that is,
@@ -1824,8 +1824,8 @@ is necessary to adopt this law, as long as this law sheds some light on
 the path of action and struggle.
 
 On this occasion, we must listen to Engels discussing the research he
-carried on in his book, Anti-Duhring:  
- Needless to say, I had resorted to a quick and brief presentation of
+carried on in his book, Anti-Duhring:
+Needless to say, I had resorted to a quick and brief presentation of
 the subjects (p. 276) of mathematics and natural science for the purpose
 of acquiring peace of mind regarding the details of what I had not
 doubted in general, [namely] that the same dialectical laws of movement
@@ -1940,8 +1940,8 @@ society and history.[^54]
 
 #### The Leaps of Development
 
-Stalin tells us the following:  
- Contrary to metaphysics, the dialectic does not consider the movement
+Stalin tells us the following:
+Contrary to metaphysics, the dialectic does not consider the movement
 of development as a simple movement of growth in which quantitative
 changes do not lead to qualitative changes. Rather, it considers it as a
 development that moves from small and hidden quantitative changes to
@@ -1955,9 +1955,9 @@ why, according to the dialectical method, it is necessary to understand
 the movement of development, not inasmuch as it is a circular movement
 or a simple repetition of the same procedure, but inasmuch as it is a
 linear progressive movement and a transmission from a previous
-qualitative stage to a new qualitative stage.[^55]  
-    
- The dialectic asserts in this point that the dialectical development of
+qualitative stage to a new qualitative stage.[^55]
+
+The dialectic asserts in this point that the dialectical development of
 matter is of two kinds: (p. 280) one of them is a gradual quantitative
 change that occurs slowly. The other is a sudden qualitative change that
 occurs at once as a result of the gradual quantitative changes. This
@@ -2017,14 +2017,14 @@ contradictory that has been nominated by the internal contradictions to
 be the main side in the contradiction process will have the opportunity
 to be in control.
 
-Both Manx and Engels say:  
- Communists do not come close to hiding their views, intentions, and
+Both Manx and Engels say:
+Communists do not come close to hiding their views, intentions, and
 plans. They declare with frankness that their purposes cannot be
 attained and realized except through the destruction of the whole
 traditional social system by violence and force.[^57]
 
-Also, Lenin says: (p. 282)  
- The proletariat revolution is not possible without destroying by
+Also, Lenin says: (p. 282)
+The proletariat revolution is not possible without destroying by
 violence the bourgeoisie system of the state.[^58]
 
 After Marxism posited the law of the leaps of development, it had to
@@ -2349,8 +2349,8 @@ would have occurred at that time?
 
 #### The General Linkage
 
-Stalin asserts the following:  
- Contrary to metaphysics, the dialectic does not consider nature as an
+Stalin asserts the following:
+Contrary to metaphysics, the dialectic does not consider nature as an
 accidental accumulation (p. 291) of things or events, of which some are
 separate, isolated, or independent from some others. Rather it considers
 nature as one firm whole in which things and events are linked together
@@ -2380,8 +2380,8 @@ its laws, for the study of which we have reserved the third chapter of
 this investigation.
 
 According to the general view of the universe, events cannot be except
-one of three kinds:  
- First, they are either an assembly of accumulated coincidences, in the
+one of three kinds:
+First, they are either an assembly of accumulated coincidences, in the
 sense that every event occurs by pure chance, without there being (p.
 292) any necessity that requires its existence. This is the first
 perspective. Second, the parts of nature are essentially necessary.
@@ -2409,8 +2409,8 @@ the scientific knowledge of anything. (p. 293)
 This clearly means that metaphysics does not at all admit the
 possibility of isolating the event from its environment and conditions,
 or not extending the question to the event's relations to other
-events.  
- The assertion of general linkage is not, therefore, dependent on the
+events.
+The assertion of general linkage is not, therefore, dependent on the
 dialectic. Rather, it is one of those things to which the philosophical
 principles established by metaphysics in the investigation of causality
 and its laws necessarily lead.
@@ -2437,8 +2437,8 @@ with respect to its logical and philosophical aspect.
 On this occasion, let us read what was written by the Marxist author
 Emile Burns[^68] concerning the linkage according to the Marxist view.
 
-He says: (p. 294)  
- Nature or the world, including human society, was not formed out of
+He says: (p. 294)
+Nature or the world, including human society, was not formed out of
 distinct things that are completely independent of one another. Every
 scientist knows this and finds it extremely difficult to determine the
 causes even of the main factors that affect the specific things chat he
@@ -2451,8 +2451,8 @@ Further, every common person realizes, if he or she experiences things,
 that there is nothing which is completely independent by itself, and
 that everything is influenced by other things.
 
-[He continues]:  
- This linkage among things may appear intuitive, such that every cause
+[He continues]:
+This linkage among things may appear intuitive, such that every cause
 that turns one's attention to it is evident. However, the truth is this.
 People do not always apprehend the linkage among things, nor do they
 apprehend that what is real under specific circumstances may not be so
@@ -2485,8 +2485,8 @@ of a number of ocher similar applications that we can find in a group of
 other Marxist texts. Where then is the powerful logical disclosure of
 the dialectic?
 
-Two Points concerning the General Linkage  
- In pursuing this discussion about the theory of general linkage in
+Two Points concerning the General Linkage
+In pursuing this discussion about the theory of general linkage in
 metaphysics, it is necessary to point out two important points. The
 first is that, according to the metaphysical view, the linkage of every
 part of nature or the universe to the causes, conditions and
@@ -2555,8 +2555,8 @@ linkage circular, returning to the point of its departure. But this is
 impossible.
 
 Finally, let us study for a moment Engels' statements about general
-linkage and the abundance of scientific proofs for it. He says:  
- In particular, there are three discoveries that helped advance (p. 298)
+linkage and the abundance of scientific proofs for it. He says:
+In particular, there are three discoveries that helped advance (p. 298)
 the steps of giant thinkers with regard to our knowledge of the linkage
 of the natural progressive processes.
 
@@ -2719,8 +2719,8 @@ perfection and ascent.
 Darwin's theory or the biological idea of development demonstrates the
 possibility of the exact opposite. Biologists have shown that in the
 living nature, there are cases of gradual motion, as there are cases of
-motion by sudden leaps.[^81]  
- Moreover, the interaction that Darwin points out between a living being
+motion by sudden leaps.[^81]
+Moreover, the interaction that Darwin points out between a living being
 and nature need not secure the perfection of the developing being.
 Rather, due to it, the living being may lose some of the perfection that
 it had acquired, in accordance with the laws specified by Darwin in his

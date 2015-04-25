@@ -16,9 +16,9 @@ reward her for the long hours she devoted to this work.
 We also request the readers to pray that Allah (a.j.) give us the
 Tawfeeq to publish the third and the final volume as soon as possible.
 
-Islamic Study Circle  
- Mumbai  
- India  
- January 2001
+Islamic Study Circle
+Mumbai
+India
+January 2001
 
 

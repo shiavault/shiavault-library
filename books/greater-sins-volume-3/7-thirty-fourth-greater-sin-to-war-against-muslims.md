@@ -15,7 +15,7 @@ be murdered or crucified or their hands and their feet should be cut off
 on opposite sides or they should be exiled; this shall be as a disgrace
 for them in this world, and in the hereafter they shall have a grievous
 chastisement,Except those who repent before you have them in your power;
-so know that Allah is Forgiving, Merciful.***  
+so know that Allah is Forgiving, Merciful.***
 ***(Surah al-Mā’ida 5:33-34)***
 
 In *Minhaj* it is written that in the 6th year of Hijrah a group from

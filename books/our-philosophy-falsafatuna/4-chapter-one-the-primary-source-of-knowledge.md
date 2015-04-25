@@ -282,8 +282,8 @@ anything that falls outside the limits of sensible reflections. Hence,
 we do not conceive anything other than our sense perceptions which
 indicate objective realities that exist in the external world.
 
-Georges Politzer[^19] said the following:  
- But what is the point of the origin of consciousness or thought? It is
+Georges Politzer[^19] said the following:
+But what is the point of the origin of consciousness or thought? It is
 sense perception. Further, the source of the sense perceptions chat
 human beings experience is grounded in their natural needs.[^20]
 
@@ -415,8 +415,8 @@ dispossession theory (nazariyyat al-intiza).
 
 This is the theory of the Islamic philosophers in general. It can be
 summarized in the division of the mental conceptions into the following
-two kind:: primary conceptions and secondary conceptions.  
- The primary conceptions are the conceptual foundation of the human
+two kind:: primary conceptions and secondary conceptions.
+The primary conceptions are the conceptual foundation of the human
 mind. (p. 69) These primary conceptions are produced from the direct
 genre perception of their content.
 
@@ -671,8 +671,8 @@ experience.
 
 This is because human beings do not have any judgement whose
 confirmation does not require experience. This results in the
-following:  
- First, the, power of human thinking is delimited by the limits of the
+following:
+First, the, power of human thinking is delimited by the limits of the
 empirical field; so that, any metaphysical investigation or study of
 metaphysical issues becomes useless. [In this, the empirical doctrine]
 is exactly the contrary of the rational doctrine.
@@ -1132,8 +1132,8 @@ and an extension of the principle 'Four is four'. How could the truth
 stating 'The diameter is always shorter than the circumference' be an
 analytic proposition? Are 'shortness' and 'circumference' included in
 the notion of 'diameter'? And is 'diameter' another expression for the
-statement, 'The diameter is a diameter'?  
- We conclude from this study that the rational doctrine is the only
+statement, 'The diameter is a diameter'?
+We conclude from this study that the rational doctrine is the only
 doctrine capable of solving the problem of the justification of
 knowledge, and setting up the criteria and primary principles of
 knowledge.
@@ -1175,8 +1175,8 @@ they will have the opportunity to judge and assent by means of it.
 Therefore, the fact that this principle appears later on in the human
 mind does not indicate that it is not necessary, and that it does not
 proceed from the innermost being of the human soul without requiring an
-external cause.  
- Indeed, it is necessary and does proceed from the soul independently of
+external cause.
+Indeed, it is necessary and does proceed from the soul independently of
 experience. The specific conceptions are necessary conditions for its
 existence and for its proceeding from the soul. If you wish, compare the
 soul and the primary principles to fire and its burning [respectively].
@@ -1230,8 +1230,8 @@ other. With this, it retained the place of experience, the empirical
 doctrine, and the consideration of it as a general criterion of human
 knowledge.
 
-Mao Tse-tung makes the following remark:  
- The first step in the process of acquiring knowledge is the immediate
+Mao Tse-tung makes the following remark:
+The first step in the process of acquiring knowledge is the immediate
 contact with the external environment - this being the stage of sense
 perception. The second step (p. 90) is the gathering, the arranging and
 the ordering of the information which we receive from the sense
@@ -1242,16 +1242,16 @@ By acquiring sufficient and complete information from sense perception
 to the real situation (not false notions), then we may be able to form
 on the basis of such information a true notion and a sound logic.[^36]
 
-He also says this:  
- The continuous social application leads to the repetition of multiple
+He also says this:
+The continuous social application leads to the repetition of multiple
 occurrences in people's application of things which they perceive by the
 senses, and which create in them an impression. At this point, a sudden
 change in the form of a leap occurs during the process of acquiring
 knowledge. With this, notions are created.[^37]
 
 In this text, Marxism asserts that theory is inseparable from
-application namely, the unity of theory and application:  
- It is important, therefore, that we understand the meaning of the unity
+application namely, the unity of theory and application:
+It is important, therefore, that we understand the meaning of the unity
 of theory and application. It asserts that he who neglects theory falls
 into the philosophy of practice, moving as a blind person moves and
 falters in the dark. As for him who neglects (p. 91) application, he
@@ -1749,8 +1749,8 @@ Dialectical materialism is no more in need of a philosophy higher than
 the other sciences. The only thing that remains of ancient philosophy is
 the theory and laws of the mind, i.e. formal and dialectical logic.[^42]
 
-Also, Roger Garaudy[^43] makes the following statement:  
- To be exact, the task of the materialist theory of knowledge will be
+Also, Roger Garaudy[^43] makes the following statement:
+To be exact, the task of the materialist theory of knowledge will be
 never to cut off philosophical thought from scientific thought or from
 historical practical activity.[^44]
 

@@ -490,36 +490,36 @@ cows as that would have a remainder of 10 cows.
 
 Camels have 12 taxable limits:
 
-    (i) 5 camels, the Zakat is one sheep. As long as the number of
+(i) 5 camels, the Zakat is one sheep. As long as the number of
 camels does not reach five, no Zakat is payable on them.
 
-    (ii) 10 camels, the Zakat is 2 sheep.
+(ii) 10 camels, the Zakat is 2 sheep.
 
-    (iii) 15 camels, the Zakat is 3 sheep.
+(iii) 15 camels, the Zakat is 3 sheep.
 
-    (iv) 20 camels, the Zakat is 4 sheep.
+(iv) 20 camels, the Zakat is 4 sheep.
 
-    (v) 25 camels, the Zakat is 5 sheep.
+(v) 25 camels, the Zakat is 5 sheep.
 
-    (vi) 26 camels, the Zakat is a camel which has entered the 2nd year
+(vi) 26 camels, the Zakat is a camel which has entered the 2nd year
 of its life.
 
-    (vii) 36 camels, the Zakat is a camel which has entered the 3rd year
+(vii) 36 camels, the Zakat is a camel which has entered the 3rd year
 of its life.
 
-    (viii) 46 camels, the Zakat is a camel which has entered the 4th
+(viii) 46 camels, the Zakat is a camel which has entered the 4th
 year of its life.
 
-    (ix) 61 camels, the Zakat is a camel which has entered the 5th year
+(ix) 61 camels, the Zakat is a camel which has entered the 5th year
 of its life.
 
-    (x) 76 camels, the Zakat is 2 camels which has entered the 3rd year
+(x) 76 camels, the Zakat is 2 camels which has entered the 3rd year
 of their life.
 
-    (xi) 91 camels, the Zakat is 2 camels which has entered the 4th year
+(xi) 91 camels, the Zakat is 2 camels which has entered the 4th year
 of their life.
 
-    (xii) 121 camels and above. In this case, the person concerned
+(xii) 121 camels and above. In this case, the person concerned
 should either calculate the camels in groups of 40 each, and give for
 each set of forty camels, a camel, which has entered the third year of
 its life; or calculate them in groups of 50 each and give as Zakat, for
@@ -623,40 +623,40 @@ of Allah and the wayfarer.”*** ***(Surah at-Tawba 9: 60)***
 
 Zakat can be spent for the following eight purposes:
 
-    (1) It may be given to a poor person, who does not posses actual or
+(1) It may be given to a poor person, who does not posses actual or
 potential means to meet his own expenses, as well as that of his family
 for a period of one year. However, a person who has an art or possesses
 property or capital to meet his expenses, is not classified as poor.
 
-    (2) It may be paid to a miskin (a destitute person) who leads a
+(2) It may be paid to a miskin (a destitute person) who leads a
 harder life than a Faqir (a poor person).
 
-    (3) It can be given to a person who is a Wakil of Holy Imam (a.s.)
+(3) It can be given to a person who is a Wakil of Holy Imam (a.s.)
 or his representative to collect Zakat, to keep it in safe custody, to
 maintain its accounts and to deliver it to the Imam or his
 representative or to the poor.
 
-    (4) It can be given to those non-Muslims who may, as a result, be
+(4) It can be given to those non-Muslims who may, as a result, be
 inclined to Islam, or may assist the Muslims for fighting against the
 enemies, or for other justified purposes. It can be given to those
 Muslims also whose faith in the Prophet or in the Wilāyat of Amir
 ul-Mu’minīn in unstable and weak, provided that, as a result of giving,
 their faith is reinforced.
 
-    (5) It can be spent to purchase the slaves to set them free, the
+(5) It can be spent to purchase the slaves to set them free, the
 details of which have been given in its relevant Chapter.
 
-    (6) It can be given to an indebted person who is unable to repay his
+(6) It can be given to an indebted person who is unable to repay his
 debt.
 
-    (7) It may be spent in the way of Allah (S.w.T.) for things which
+(7) It may be spent in the way of Allah (S.w.T.) for things which
 have common benefit to the Muslims; for example, to construct a mosque,
 or a school for religious education or to keep the city clean, or to
 widen or build tar roads.
 
-    (8) It may be given to a stranded traveller.
+(8) It may be given to a stranded traveller.
 
-    (9) These are the situations in which Zakat can be spent. But in
+(9) These are the situations in which Zakat can be spent. But in
 situation number 3 and 4, the owner cannot spend without the permission
 of Imam (a.s.) or his representative; and the same applies to the 7th
 situation, as per obligatory precaution.
@@ -767,19 +767,19 @@ When does Khums become Wajib . How is it spent?
 
 Khums is obligatory on the following seven things:
 
-    (i) Profit or gain from earning.
+(i) Profit or gain from earning.
 
-    (ii) Minerals.
+(ii) Minerals.
 
-    (iii) Treasure-trove
+(iii) Treasure-trove
 
-    (iv) Amalgamation of Halāl wealth with Harām.
+(iv) Amalgamation of Halāl wealth with Harām.
 
-    (v) Gems obtained from diving into sea.
+(v) Gems obtained from diving into sea.
 
-    (vi) Spoils of war.
+(vi) Spoils of war.
 
-    (vii) A land which a Zimmi Kafir purchases from a Muslim.
+(vii) A land which a Zimmi Kafir purchases from a Muslim.
 
 The detailed laws for each of the above have been discussed in Tauzihul
 Masael. Khums should be divided into two parts. One part is for the

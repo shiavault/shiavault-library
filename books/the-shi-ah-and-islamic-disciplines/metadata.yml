@@ -1,0 +1,111 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/shiah-and-islamic-disciplines-sayyid-hasan-al-sadr
+author: Sayyid Hasan al-Sadr
+publisher: ABWA Publishing and Printing Center
+translator: "'Umar Kumo"
+title: The Shi'ah and Islamic Disciplines
+slug: the-shi-ah-and-islamic-disciplines
+uuid: a5a8a2fb-736a-44e5-ab39-6034577c6757
+description: |
+  The writer is an erudite scholar who, with authority discusses the
+  Islamic and Arabic sciences, the factors responsible for their emergence
+  and the various stages of their development throughout Shi'a sources..
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/shiah-and-islamic-disciplines-sayyid-hasan-al-sadr/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 6c492f2f-0fe0-4e69-b476-3e8da06b1f0c
+- source: :alislam
+  source_url: http://www.al-islam.org/shiah-and-islamic-disciplines-sayyid-hasan-al-sadr/foreword
+  title: Foreword
+  slug: 2-foreword
+  uuid: 85d0b6f9-134d-4e61-82d9-54e0d6d710e4
+- source: :alislam
+  source_url: http://www.al-islam.org/shiah-and-islamic-disciplines-sayyid-hasan-al-sadr/about-author
+  title: About The Author
+  slug: 3-about-the-author
+  uuid: a1fe77e9-5e63-4def-a117-28f8c220c1ba
+- source: :alislam
+  source_url: http://www.al-islam.org/shiah-and-islamic-disciplines-sayyid-hasan-al-sadr/preamble
+  title: Preamble
+  slug: 4-preamble
+  uuid: ba9cef33-bd7e-4a38-9f9d-8a075471c0b0
+- source: :alislam
+  source_url: http://www.al-islam.org/shiah-and-islamic-disciplines-sayyid-hasan-al-sadr/chapter-1the-precedence-shiah-quranic-sciences
+  title: Chapter 1:The Precedence Of The Shi’ah In Quranic Sciences
+  slug: 5-chapter-1-the-precedence-of-the-shi-ah-in-quranic-sciences
+  uuid: f5391df4-8b09-4fe0-90b2-faa7a2691845
+- source: :alislam
+  source_url: http://www.al-islam.org/shiah-and-islamic-disciplines-sayyid-hasan-al-sadr/chapter-2-precedence-shiah-sciences-hadith
+  title: 'Chapter 2: The Precedence Of The Shi’ah In The Sciences Of Hadith'
+  slug: 6-chapter-2-the-precedence-of-the-shi-ah-in-the-sciences-of-hadith
+  uuid: 18144133-2820-4426-8272-dc41abb1ddfe
+- source: :alislam
+  source_url: http://www.al-islam.org/shiah-and-islamic-disciplines-sayyid-hasan-al-sadr/chapter-3-precedence-shiah-islamic-jurisprudence
+  title: 'Chapter 3: The Precedence Of The Shi’ah In Islamic Jurisprudence'
+  slug: 7-chapter-3-the-precedence-of-the-shi-ah-in-islamic-jurisprudence
+  uuid: dc699a4c-8095-4861-b512-6961bb9e78fa
+- source: :alislam
+  source_url: http://www.al-islam.org/shiah-and-islamic-disciplines-sayyid-hasan-al-sadr/chapter-4-pioneering-role-shiah-theology
+  title: 'Chapter 4: Pioneering Role Of The Shi’ah In Theology'
+  slug: 8-chapter-4-pioneering-role-of-the-shi-ah-in-theology
+  uuid: 7154256b-9e5a-4093-b236-9b20f8897c8d
+- source: :alislam
+  source_url: http://www.al-islam.org/shiah-and-islamic-disciplines-sayyid-hasan-al-sadr/chapter-5-precedence-shiah-principles
+  title: 'Chapter 5: Precedence Of The Shi’ah In The Principles Of Jurisprudence (Usul)'
+  slug: 9-chapter-5-precedence-of-the-shi-ah-in-the-principles-of-jurisprudence-usul
+  uuid: f3879f12-2271-45f5-aa89-c506c019c140
+- source: :alislam
+  source_url: http://www.al-islam.org/shiah-and-islamic-disciplines-sayyid-hasan-al-sadr/chapter-6-precedence-shiah-writing-about-islamic
+  title: 'Chapter 6: Precedence Of The Shi’ah In Writing About Islamic Sects'
+  slug: 10-chapter-6-precedence-of-the-shi-ah-in-writing-about-islamic-sects
+  uuid: a860826e-8934-443f-94f1-de4cab02f275
+- source: :alislam
+  source_url: http://www.al-islam.org/shiah-and-islamic-disciplines-sayyid-hasan-al-sadr/chapter-7-shiah-precedence-writing-about-ethics
+  title: 'Chapter 7: Shi’ah Precedence In Writing About Ethics'
+  slug: 11-chapter-7-shi-ah-precedence-in-writing-about-ethics
+  uuid: b89b6cd5-2e80-46b2-9d3b-aa28d16f8e88
+- source: :alislam
+  source_url: http://www.al-islam.org/shiah-and-islamic-disciplines-sayyid-hasan-al-sadr/chapter-8-pioneering-position-shiah-field
+  title: 'Chapter 8: Pioneering Position Of The Shi’ah In The Field Of Biographies
+    (Siyar)'
+  slug: 12-chapter-8-pioneering-position-of-the-shi-ah-in-the-field-of-biographies-siyar
+  uuid: 1b79cefc-237c-4132-9ea5-2cde71a1871d
+- source: :alislam
+  source_url: http://www.al-islam.org/shiah-and-islamic-disciplines-sayyid-hasan-al-sadr/chapter-9-precedence-shiah-compiling-islamic
+  title: 'Chapter 9: Precedence Of The Shi’ah In Compiling Islamic History'
+  slug: 13-chapter-9-precedence-of-the-shi-ah-in-compiling-islamic-history
+  uuid: 0d22c1b3-988e-44e4-a52d-2b26f8980193
+- source: :alislam
+  source_url: http://www.al-islam.org/shiah-and-islamic-disciplines-sayyid-hasan-al-sadr/chapter-10-pioneering-role-shiah-lexicology
+  title: 'Chapter 10: The Pioneering Role Of The Shi’ah In Lexicology'
+  slug: 14-chapter-10-the-pioneering-role-of-the-shi-ah-in-lexicology
+  uuid: d7b10ad6-0ffb-4af4-b4f9-89128f48482e
+- source: :alislam
+  source_url: http://www.al-islam.org/shiah-and-islamic-disciplines-sayyid-hasan-al-sadr/chapter-11-precedence-shiah-semantics-rhetoric
+  title: 'Chapter 11: The Precedence Of The Shi’ah In Semantics, Rhetoric And Eloquence'
+  slug: 15-chapter-11-the-precedence-of-the-shi-ah-in-semantics-rhetoric-and-eloquence
+  uuid: dbd3184a-1a00-49dd-94a2-43b878ea1bf2
+- source: :alislam
+  source_url: http://www.al-islam.org/shiah-and-islamic-disciplines-sayyid-hasan-al-sadr/chapter-12-precedence-shiah-prosody
+  title: 'Chapter 12: The Precedence Of The Shi’ah In Prosody'
+  slug: 16-chapter-12-the-precedence-of-the-shi-ah-in-prosody
+  uuid: 43d8e7f3-5db7-40af-8836-0400e9be1c13
+- source: :alislam
+  source_url: http://www.al-islam.org/shiah-and-islamic-disciplines-sayyid-hasan-al-sadr/chapter-13-precedence-shiah-various-genres-poetry
+  title: 'Chapter 13: The Precedence Of The Shi’ah In Various Genres Of Poetry'
+  slug: 17-chapter-13-the-precedence-of-the-shi-ah-in-various-genres-of-poetry
+  uuid: 9187a31d-e0f0-4ece-9d09-3787092b3754
+- source: :alislam
+  source_url: http://www.al-islam.org/shiah-and-islamic-disciplines-sayyid-hasan-al-sadr/chapter-14-precedence-shiah-arabic-morphology
+  title: 'Chapter 14: The Precedence Of The Shi’ah In Arabic Morphology'
+  slug: 18-chapter-14-the-precedence-of-the-shi-ah-in-arabic-morphology
+  uuid: e6fdf9e5-7539-4d8c-a645-6cbbd0d5aa60
+- source: :alislam
+  source_url: http://www.al-islam.org/shiah-and-islamic-disciplines-sayyid-hasan-al-sadr/chapter-15-precedence-shiah-arabic-grammar
+  title: 'Chapter 15: The Precedence Of The Shi’ah In Arabic Grammar'
+  slug: 19-chapter-15-the-precedence-of-the-shi-ah-in-arabic-grammar
+  uuid: 48adbaf5-f9b8-4c51-891f-8092b58a95ee
+---

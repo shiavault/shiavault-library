@@ -11,8 +11,8 @@ Naturally, this problem occupies an important position, and is, with its
 complexity and variety of kinds of efforts for solving it, a source of
 danger for humankind itself. This is so because the system is an aspect
 of the consideration of human life and affects the innermost structure
-of its existence.  
- This problem is deeply rooted in the distant times of human history.
+of its existence.
+This problem is deeply rooted in the distant times of human history.
 
 Mankind has confronted is ever since it arose in actual social life.
 [Primitive] communal human [living] began exemplified in a number of
@@ -1380,8 +1380,8 @@ this profound view turns fast loss into real profit, and fast profits
 into real loss:
 
 He who does right it is for his soul, and he who does wrong it is
-against his soul.[^18]  
- He who does right, whether male or female, and is a believer will enter
+against his soul.[^18]
+He who does right, whether male or female, and is a believer will enter
 Paradise where he will be provided for, without restriction.[^19]
 
 On that day, people will proceed in scattered groups to see their deeds.
@@ -1467,8 +1467,8 @@ two principles that are the ground of the new moral criterion which
 Islam lays down for humankind. This criterion is the satisfaction of
 God, be He exalted. The satisfaction of God that Islam erects as a
 general criterion in life is that which steers the human ship to the
-shore of righteousness, goodness and justice.  
- Thus, the basic distinguishing feature of the Islamic system is
+shore of righteousness, goodness and justice.
+Thus, the basic distinguishing feature of the Islamic system is
 represented in its being based on a spiritual understanding of life and
 a moral sense of life.
 

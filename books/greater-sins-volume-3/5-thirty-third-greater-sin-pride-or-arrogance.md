@@ -637,7 +637,7 @@ to make a show of one’s sanctity is also a kind of haughtiness. The
 verse of Surah an-Najm prohibits such behaviour.
 
 ***“...Therefore do not attribute purity to your souls; He knows him
-best who guards (against evil).”***  
+best who guards (against evil).”***
 ***(Surah an-Najm 53:32)***
 
 And in the same way the Almighty Allah has remarked in the following

@@ -11,7 +11,7 @@ Reference Books
 
 5. Al-A’lam by az-Zarkali
 
-6. Ithbat al-Hudat by Muhammad bin al-Hasan al-Hurr al-Aamily
+6. Ithbat al-Hudat by Muhammad bin al-Hasan al-Hurr al- Aamily
 
 7. Ahsan at-Taqaseem by al-Maqdisi
 
@@ -21,7 +21,7 @@ Reference Books
 
 10. At-Tanbeeh wel-Ishraf by al-Mas’oodi
 
-11. Umara’ ash-Shi’r al-Arabi fil-Asr al-Abbasi by Anees al-Maqdisi
+11. Umara’ ash-Shi’r al-Arabi fil-Asr al-Abbasi by Anees al- Maqdisi
 
 12. Ittijahat ash-Shi’r al-Arabi by Muhammad Mustafa Haddarah
 
@@ -85,7 +85,7 @@ Reference Books
 
 42. Tareekh at-Tabari by at-Tabari
 
-43. Tareekh al-Khamees by Husayn bin Muhammad ad-Diyarbakri
+43. Tareekh al-Khamees by Husayn bin Muhammad ad- Diyarbakri
 
 44. Tareekh al-Islam by ath-Thahabi
 
@@ -119,17 +119,17 @@ Suroor
 
 58. Tuhaf al-Uqool by ibn Shu’bah
 
-59.  Jawharat al-Kalam by al-Qaraghulli
+59. Jawharat al-Kalam by al-Qaraghulli
 
 60. Jami’ ar-Ruwat by Muhammad bin Ali al-Ardabili
 
 61. Hadharat al-Arab (the Civilization of the Arabs) by Gustav Lobon
 
-62.  Hilyat al-Awliya’ by Abu Na’eem
+62. Hilyat al-Awliya’ by Abu Na’eem
 
 63. Hadharat al-Islam fee Dar as-Salam by Jameel Nakhlah
 
-64. Hayat al-Imam ar-Redha by Ja’far Murtadha
+64. Hayat al-Imam ar-Ridha’ by Ja’far Murtadha
 
 65. Hayat al-Imam Muhammad al-Baqir by Baqir al-Qurashi (the author of
 this book)
@@ -168,7 +168,7 @@ this book)
 
 82. Tabaqat ash-Shu’ara’ by Ibnul Mu’tazz
 
-83. Uyun Akhbar ar-Redha by Sheikh as-Saduq
+83. Uyun Akhbar ar-Ridha’ by Sheikh as-Saduq
 
 84. Uyun at-Tawareekh by Ahmed bin Shakir al-Kutubi
 
@@ -186,7 +186,7 @@ this book)
 
 91. Al-Ghaybah by Sheikh at-Toossi
 
-29. Furaq ash-Shia by an-Nawbakhti
+92. Furaq ash-Shia by an-Nawbakhti
 
 93. Kashful Ghummah by al-Arbali
 
@@ -245,3 +245,5 @@ this book)
 120. Wassa’il ash-Shia by al-Hurr al-Aamili
 
 121. Al-Wulat wel-Qudhat by al-Kindi
+
+

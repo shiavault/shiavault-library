@@ -1,0 +1,136 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor
+author: Luis Alberto Vittor
+publisher: Ansariyan Publications - Qum
+translator: John Andrew Morrow
+title: 'Shi’ite Islam: Orthodoxy Or Heterodoxy? Second Amended and Amplified Edition'
+slug: shi-ite-islam-orthodoxy-or-heterodoxy-second-amended-and-amplified-edition
+uuid: b6d46a5f-1dc6-4153-ad96-aeb136c880f1
+description: |
+  This book addresses many essential issues concerning the split between
+  the followers of Ahlul Bayt and the followers of Ahlul Sunnah.
+  Transcending the historical, the author focuses on historical aspects in
+  the genesis of adherence, stressing the esoteric foundation of Shi’s
+  Islam, as opposed to the exoteric foundation of Sunni Islam which forces
+  its followers to find spirituality in various Sufi orders.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: 195954f4-d9e9-44d1-83d6-4c2061fbdf99
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/about-author
+  title: About the Author
+  slug: 2-about-the-author
+  uuid: 8a9951c5-87b6-4850-afe1-838f3da1cf69
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/about-translator-editor-and
+  title: About the Translator, Editor, and Annotator
+  slug: 3-about-the-translator-editor-and-annotator
+  uuid: 0dff6c89-b5fa-4b52-80e2-0fe8c3ab6af2
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/exordium
+  title: Exordium
+  slug: 4-exordium
+  uuid: 627794c4-4e9b-4e80-a020-a5603ab7cee7
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/opening-remarks-foundations
+  title: 'Opening Remarks: The Foundations of Islamic Unity'
+  slug: 5-opening-remarks-the-foundations-of-islamic-unity
+  uuid: 144620b4-33ed-436d-b09b-37735bd90999
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/foreword-sayyid-muhammad-rizvi
+  title: Foreword by Sayyid Muhammad Rizvi
+  slug: 6-foreword-by-sayyid-muhammad-rizvi
+  uuid: e041c4cb-9dcc-4f40-8cbf-0d2a8ec558ba
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/commendatory-preface-barbara
+  title: Commendatory Preface by Barbara Castelton
+  slug: 7-commendatory-preface-by-barbara-castelton
+  uuid: 713071cf-e6f1-471f-be11-745eb0e73ac6
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/translators-preface
+  title: Translator’s Preface
+  slug: 8-translator-s-preface
+  uuid: 7d6506af-5548-4c0d-a13d-14be8a05f5ac
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/acknowledgments-and
+  title: Acknowledgments and Observations
+  slug: 9-acknowledgments-and-observations
+  uuid: cb82e4c6-312a-4f5a-baaa-98472b655398
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/genesis-work
+  title: Genesis of the Work
+  slug: 10-genesis-of-the-work
+  uuid: 556b8b09-583e-4864-ab7f-0c69d614c38e
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/authors-preface
+  title: Author’s Preface
+  slug: 11-author-s-preface
+  uuid: 3ee97d9e-d69c-4853-b720-422b4f5f99d8
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/introduction-issue-hand
+  title: 'Introduction: The Issue at Hand'
+  slug: 12-introduction-the-issue-at-hand
+  uuid: 4bc0b9b4-b68a-407f-a880-c2d844cdfdf4
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/chapter-1-towards-definition
+  title: 'Chapter 1: Towards a Definition of Heterodoxy in Islam'
+  slug: 13-chapter-1-towards-a-definition-of-heterodoxy-in-islam
+  uuid: 22082b16-bb05-4ab7-a4f8-5b3754cdd06f
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/chapter-2-towards-definition
+  title: 'Chapter 2: Towards a Definition of Shi‘ism'
+  slug: 14-chapter-2-towards-a-definition-of-shi-ism
+  uuid: 66560ddc-ede7-4a42-9735-ece759d664d8
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/chapter-3-al-ijma-or-scholarly
+  title: 'Chapter 3: al-Ijma‘ or Scholarly Consensus, An Accepted Method for Controlling
+    Heresy?'
+  slug: 15-chapter-3-al-ijma-or-scholarly-consensus-an-accepted-method-for-controlling-heresy
+  uuid: 43e2c7c6-38ac-4b4f-9919-b1c152207936
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/chapter-4-infallible-divine
+  title: 'Chapter 4: The Infallible Divine Authority, Source of Law and Doctrine in
+    Islamic ijma‘'
+  slug: 16-chapter-4-the-infallible-divine-authority-source-of-law-and-doctrine-in-islamic-ijma
+  uuid: 7da7ab9c-aa26-4beb-9bde-8db9ba8ee6fc
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/chapter-5-mukhtar-al-thaqafi
+  title: 'Chapter 5: Mukhtar al-Thaqafi'
+  slug: 17-chapter-5-mukhtar-al-thaqafi
+  uuid: 17fc2c38-1990-4992-9bc1-04a2c4173abb
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/chapter-6-caliphate-crossroads
+  title: 'Chapter 6: The Caliphate at a Crossroads, Abu Bakr and the Collusion of
+    the Powerful Classes'
+  slug: 18-chapter-6-the-caliphate-at-a-crossroads-abu-bakr-and-the-collusion-of-the-powerful-classes
+  uuid: cc7c7e31-ba63-4e2a-9e03-d498cc30640d
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/chapter-7-prophethood-and
+  title: 'Chapter 7: Prophethood and Imamate, Two Inseparable Metaphysical Realities'
+  slug: 19-chapter-7-prophethood-and-imamate-two-inseparable-metaphysical-realities
+  uuid: dcad734d-af06-46dc-a5e9-39964781fae9
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/chapter-8-wilayah
+  title: 'Chapter 8: The Wilayah'
+  slug: 20-chapter-8-the-wilayah
+  uuid: fd11a913-65e0-46bd-8c78-ccf258aa45f5
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/chapter-9-imamate-esoteric
+  title: 'Chapter 9: The Imamate, The Esoteric Inheritance or the Batin of the Prophet'
+  slug: 21-chapter-9-the-imamate-the-esoteric-inheritance-or-the-batin-of-the-prophet
+  uuid: b03d84cc-5395-46a0-aa2e-7d21d36695ca
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/conclusions
+  title: Conclusions
+  slug: 22-conclusions
+  uuid: 5b4193ed-a34c-424b-8624-4e69d1b8ee8d
+- source: :alislam
+  source_url: http://www.al-islam.org/shiite-islam-orthodoxy-heterodoxy-second-edition-luis-alberto-vittor/bibliography
+  title: Bibliography
+  slug: 23-bibliography
+  uuid: 087efa31-88d2-4de9-8c0e-7ba8e6e95593
+---

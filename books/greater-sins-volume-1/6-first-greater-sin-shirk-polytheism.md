@@ -500,14 +500,14 @@ His grace; He brings it to whom He pleases of His servants; and He is
 the Forgiving, the Merciful.”*** ***(Surah Yūnus 10:107)***
 
 ***At another place the Qur’an says, “And whatever favour is (bestowed)
-on you, it is from Allah...”***  
+on you, it is from Allah...”***
 ***(Surah an-Nahl 16:53)***
 
 Thus, it is clear from the above discussion that all that is present in
 the material and the ethereal spheres is subservient to Allah (S.w.T.).
 
 ***“There is no one in the heavens and the earth but will come to the
-Beneficient God as a servant.”***  
+Beneficient God as a servant.”***
 ***(Surah Maryam 19:93)***
 
 If someone reposes hope in anyone except Allah (S.w.T.) his hopes are
@@ -748,7 +748,7 @@ Allah is severe in retributing (evil).”*** ***(Surah al-Hashr 59:7)***
 Further Allah (S.w.T.) says,
 
 ***“O ye who believe! Obey Allah and obey the Apostle and those who have
-authority among you.”***  
+authority among you.”***
 ***(Surah an-Nisā’ 4:59)***
 
 Who are the “Ūli’ l-’Amr”?
@@ -1127,7 +1127,7 @@ Wavering between that (and this), (belonging) neither to these nor to
 those.”*** ***(Surah an-Nisā’ 4:142)***
 
 ***2) “So woe to the praying ones, who are unmindful of their prayers,
-who do (good) to be seen.”***  
+who do (good) to be seen.”***
 ***(Surah Ma’ūn 107:4-6)***
 
 Outward Piety (Riyah) is the Lesser Shirk

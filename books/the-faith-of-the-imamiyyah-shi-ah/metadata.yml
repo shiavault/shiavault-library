@@ -1,0 +1,79 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/faith-imamiyyah-shiah-shaykh-muhammad-ridha-al-mudhaffar
+author: Shaykh Muhammad Ridha al-Mudhaffar
+publisher: ABWA Publishing and Printing Center
+translator: Badr Shahin
+title: The Faith of the Imamiyyah Shi'ah
+slug: the-faith-of-the-imamiyyah-shi-ah
+uuid: f1913490-2ed0-4bd1-8074-8d77a73620c6
+description: |
+  The book is an attempt to present a general and throughout outline of
+  the doctrines, practices and history of Twelver Shi'ah Islam.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/faith-imamiyyah-shiah-shaykh-muhammad-ridha-al-mudhaffar/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 345420e8-31d6-41b1-905f-6e138fb21fb6
+- source: :alislam
+  source_url: http://www.al-islam.org/faith-imamiyyah-shiah-shaykh-muhammad-ridha-al-mudhaffar/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 43dce64a-f0eb-4244-943b-13908107bffe
+- source: :alislam
+  source_url: http://www.al-islam.org/faith-imamiyyah-shiah-shaykh-muhammad-ridha-al-mudhaffar/glimpses-life-shaykh-al-muzaffar
+  title: Glimpses into the Life of Shaykh al-Muzaffar
+  slug: 3-glimpses-into-the-life-of-shaykh-al-muzaffar
+  uuid: 19ed1ec1-beca-457c-95c2-c8dd18281539
+- source: :alislam
+  source_url: http://www.al-islam.org/faith-imamiyyah-shiah-shaykh-muhammad-ridha-al-mudhaffar/foreword
+  title: Foreword
+  slug: 4-foreword
+  uuid: 9cc10aac-3e25-4a3a-b98b-d10bb91ae5d5
+- source: :alislam
+  source_url: http://www.al-islam.org/faith-imamiyyah-shiah-shaykh-muhammad-ridha-al-mudhaffar/preface-second-edition
+  title: Preface to the Second Edition
+  slug: 5-preface-to-the-second-edition
+  uuid: 7aedc72b-9294-4e72-8ffb-99c048cf579a
+- source: :alislam
+  source_url: http://www.al-islam.org/faith-imamiyyah-shiah-shaykh-muhammad-ridha-al-mudhaffar/preamble
+  title: Preamble
+  slug: 6-preamble
+  uuid: 80083cc1-58f7-48e8-9922-1ee1783e8f9a
+- source: :alislam
+  source_url: http://www.al-islam.org/faith-imamiyyah-shiah-shaykh-muhammad-ridha-al-mudhaffar/preludeijtihad-and-taqlid
+  title: Prelude:Ijtihad and Taqlid
+  slug: 7-prelude-ijtihad-and-taqlid
+  uuid: defc043a-b2ab-45ee-8a5b-ea712a00289b
+- source: :alislam
+  source_url: http://www.al-islam.org/faith-imamiyyah-shiah-shaykh-muhammad-ridha-al-mudhaffar/part-1-doctrines-pertaining-divinity
+  title: 'Part 1: Doctrines Pertaining To Divinity'
+  slug: 8-part-1-doctrines-pertaining-to-divinity
+  uuid: 6f9d2cea-d5a7-4cdf-8a5d-1b5e74a41893
+- source: :alislam
+  source_url: http://www.al-islam.org/faith-imamiyyah-shiah-shaykh-muhammad-ridha-al-mudhaffar/part-2-prophethood
+  title: 'Part 2: Prophethood'
+  slug: 9-part-2-prophethood
+  uuid: 38187ce8-6f77-46f1-bda5-13472212138a
+- source: :alislam
+  source_url: http://www.al-islam.org/faith-imamiyyah-shiah-shaykh-muhammad-ridha-al-mudhaffar/part-3-imamate
+  title: 'Part 3: Imamate'
+  slug: 10-part-3-imamate
+  uuid: 5b56fe2c-0a7f-4a8a-81f4-b2720a4a27df
+- source: :alislam
+  source_url: http://www.al-islam.org/faith-imamiyyah-shiah-shaykh-muhammad-ridha-al-mudhaffar/part-4-teachings-ahl-al-bayt-their
+  title: 'Part 4: Teachings of the Ahl Al-Bayt for Their Followers'
+  slug: 11-part-4-teachings-of-the-ahl-al-bayt-for-their-followers
+  uuid: 38c01ca2-03fc-4324-9532-35747d93da17
+- source: :alislam
+  source_url: http://www.al-islam.org/faith-imamiyyah-shiah-shaykh-muhammad-ridha-al-mudhaffar/part-5-eschatology
+  title: 'Part 5: Eschatology'
+  slug: 12-part-5-eschatology
+  uuid: 45aefede-1b33-4e7b-aa12-c1509a67fb3c
+- source: :alislam
+  source_url: http://www.al-islam.org/faith-imamiyyah-shiah-shaykh-muhammad-ridha-al-mudhaffar/bibliography
+  title: Bibliography
+  slug: 13-bibliography
+  uuid: edaa91d5-ed27-4ce5-b30b-bf2585846e60
+---
