@@ -36,7 +36,7 @@ title (Khums instead of Zakat). It is a mark of respect for the esteemed
 position of the Holy Prophet (S) and it is not in any way a sort of
 recompense or price. Obviously, there is a wide difference between
 maintaining respect of honor of exalted personalities and paying a
-price.  
-  
+price.
+
 
 

@@ -1,8 +1,8 @@
 Question 64: Should We Laugh Less And Weep More?
 ================================================
 
-**Question:** What is the meaning of the ayat:  
- “***Therefore they shall laugh little and weep much…***”[^1]
+**Question:** What is the meaning of the ayat:
+“***Therefore they shall laugh little and weep much…***”[^1]
 
 Does it mean that the Almighty Allah has commended us to laugh less and
 weep more? Though weeping more is not allowed by any jurist, secondly
@@ -36,9 +36,9 @@ And the last words show that their laughing less and weeping more is a
 punishment of their deeds. It indicates towards the fact that if they
 understood it, that what punishments they will get, they would laugh
 less and weep more and they will not get comfort from grief and sorrow,
-even for a moment.  
-    
-  
+even for a moment.
+
+
 
 [^1]: Surah Tawbahh 9:82
 

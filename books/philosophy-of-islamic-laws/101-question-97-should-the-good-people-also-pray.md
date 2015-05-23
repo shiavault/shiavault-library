@@ -23,7 +23,7 @@ development of spirituality. Abstaining from sins also contribute to the
 spiritual upliftment of man.
 
 In any case, it is obligatory upon all able Muslim men and women,
-without any exception that they must perform the duty of prayers.  
-  
+without any exception that they must perform the duty of prayers.
+
 
 

@@ -166,8 +166,8 @@ would have been achieved by himself even though in spite of his merits
 he had not reached to that position. This same desired distanced him
 from, the Paradise and that was his tree of prohibition. Though in some
 traditions wheat is mentioned as the prohibited tree whose prohibition
-had an aspect of trial.  
-  
+had an aspect of trial.
+
 
 [^1]: Surah Baqarah 2:31
 

@@ -49,8 +49,8 @@ must be available to as wide a group of Muslims as possible.
 
 Hence this translation! I pray to Allah (S.w.T.) that the translation
 gets published, gets widely circulated, and the spiritual reward (*ajr*)
-goes to the Shahīd Dastaghaib. Insha Allah (S.w.T.)!  
-    
-  
+goes to the Shahīd Dastaghaib. Insha Allah (S.w.T.)!
+
+
 
 

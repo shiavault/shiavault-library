@@ -1,8 +1,8 @@
 Final Word of Advice and Instruction
 ====================================
 
-** **  
- We have also promised to add a word of advice to the spiritual
+** **
+We have also promised to add a word of advice to the spiritual
 travelers on their way to the Lord of the Worlds. This concerns the
 qualities that they must adopt in order to reach their goal and arrive
 at their Beloved, to join and: aide with Him after their annihilation.
@@ -31,9 +31,9 @@ This middle path is itself a quality of excellence bounded as it must be
 on either side by two baser qualities: thus the first (wisdom) lies
 between foolishness and cunning, the second (cour­age) between
 cowardliness and impetuousness and the third (chastity) between
-covetousness and discouragement.  
-    
- Up to this point we have been considering the principles or root
+covetousness and discouragement.
+
+Up to this point we have been considering the principles or root
 qualities. As for the branches of wisdom, they are astuteness,
 eloquence, sound opinion, prudence and resolution, truthfulness,
 trustworthiness, mercy, modesty, earnestness, faithfulness and humility;
@@ -41,9 +41,9 @@ the branches of chastity are contentment, generosity, patience,
 forbearance, open‑heartedness, concealment of the sec­ret and trust; the
 branches of courage are endeavor, power, firmness and constancy,
 determination, vitality, bravery and ambition. It is thus by adoption of
-these qualities that one attains to a completion of perfection.  
-    
- Know too ‑ and may Allah assist you and grant you success ‑ that
+these qualities that one attains to a completion of perfection.
+
+Know too ‑ and may Allah assist you and grant you success ‑ that
 despite the differences in these terms, they are essentially similar in
 meaning. As for gnosis, it is preceded by love; wherever gnosis is
 perfected, then love of necessity is established, and whenever love is
@@ -52,9 +52,9 @@ foresight, then you are able to enquire after the truth of your state in
 your descent from the disclosure of painful states of separation; you
 are able too to reach your goal without great difficulty, unlike others
 who only reach this goal with intense hardship. But you must be ready to
-serve and eager to find out the truth.  
-    
- Know that union with the world of sanctity and entry into the Presence
+serve and eager to find out the truth.
+
+Know that union with the world of sanctity and entry into the Presence
 of Allah refers to the removal of the veil, that is, union in the realm
 of the intellect. It must be realized that the sun does not become more
 in number by the multiplicity of its manifestations; likewise the One,
@@ -86,9 +86,9 @@ Generosity and Excellence. Ask of Him for He is the Bestower and the
 Giver of Gifts. Read His Wise and Precious Book with understanding and
 reflect in order that the self may gain' assistance from the greatest of
 store‑houses and the most generous of sources of benefit. In this way
-you will reach your goal.  
-    
- Repeat the words of one of the masters of the spiritual path: \`O
+you will reach your goal.
+
+Repeat the words of one of the masters of the spiritual path: \`O
 Maintainer (of the cosmos), darkness has surrounded me, serpent passions
 have bitten me, crocodile desires are preying on me and the scorpions of
 the world have stung me. You have become a stranger to me in the midst
@@ -131,9 +131,9 @@ tranquility; grant us mercy from Yourself and pour the lights of your
 blessings on our selves and the radiance of Your goodness on our souls.
 Make us of the felicitous and of those who experience Your majesty and
 witness Your beauty and are fearful of You. Surely You are capable of
-all things.'  
-    
- We shall conclude this exhortation and instruction by mention­ing what
+all things.'
+
+We shall conclude this exhortation and instruction by mention­ing what
 has been reported of the spiritual experience by one of the gnostics and
 seekers of the truth, recorded on the tablet of remembrance in the
 intellects of the men of knowledge and in the persons of spiritual
@@ -146,9 +146,9 @@ majestic splendour and the sources of perfection and beauty are poured
 over them such that they are purified by the purifi­cation of light.
 Surely the Generous Benefactor loves purity in those who enter into His
 Presence ‑ a purity obtained by means of knowledge from the realm of
-reality and pleasing behaviour.  
-    
- The brothers of inward sight concur that Allah is independent of and
+reality and pleasing behaviour.
+
+The brothers of inward sight concur that Allah is independent of and
 above creation ‑ both in the realm of inner meaning and speech. These
 brothers keep to the way of humility and silent \`supplication. They
 invoke the One Who orders the world of the elements, the world of the
@@ -168,9 +168,9 @@ obedience. Our spirits extol You, seeking to ascend to the seat of Your
 majesty and the station of Your light. Therefore purify us by Your
 powerful hand and open our hands to Your provision of unveilings. Open
 our sight by Your light for surely we have found Your Majesty above the
-pillars of the realm of Absolute Dominion (jabarut).'  
-    
- The men of resolve and perfection are cleansed so that they may be
+pillars of the realm of Absolute Dominion (jabarut).'
+
+The men of resolve and perfection are cleansed so that they may be
 worthy of a place next to Allah. They hate wrong actions and
 disobedience, and if it were not for them, then the heavens would have
 been thrown down upon the earth as a punishment for mankind and grievous
@@ -198,9 +198,9 @@ possible degree of certainty and to grant us and you victory with the
 victorious, with those of union, with the annihilated and with those who
 abide with Him, for surely He is the most Beneficent, the Merciful, and
 He does not withhold the outpourings of His blessings from those who are
-ready and have the capacity to receive.  
-    
- In these words of remembrance there is instruction enough ‑ sufficient
+ready and have the capacity to receive.
+
+In these words of remembrance there is instruction enough ‑ sufficient
 to lead one to a station of proximity with the Truth, enough to free man
 from the ties and chains which might bind the seeker of salvation. It is
 for this reason that Allah has in­structed His slaves to seek the
@@ -238,9 +238,9 @@ would not fail to fulfill the promise.' So their Lord accepted their
 prayer. \`We ask you, O Allah, to make us of those who respond to You,
 who believe in Your promise and Your threat of punishment, and who
 fulfill their contract with You, and who establish Your caliphate which
-You have delegated to us O Lord of the Worlds.'  
-    
- Know that in the world of the intellect and the divine creation of
+You have delegated to us O Lord of the Worlds.'
+
+Know that in the world of the intellect and the divine creation of
 Allah there are many wondrous things which may not be encompassed by the
 intellect of men engulfed in darkness; what­ever wonders may be seen in
 the world of physical bodies, others still more wondrous and surprising
@@ -252,9 +252,9 @@ intellect when bound by the senses is as the diver submerged in the
 depths of the ocean: it is evident that he cannot see the sky in the
 same way as someone who is standing above in the open air. Therefore
 measure what you cannot see by what you can and the matter will become
-clear to you.  
-    
- This is the last of the instructions which are addressed to you and
+clear to you.
+
+This is the last of the instructions which are addressed to you and
 which will permit you to arrive at your goal. As for the particular
 instructions of this book, you should take great care to observe them,
 for they are bestowed upon those who keep safely what is entrusted to
@@ -292,9 +292,9 @@ His bestowal of gifts is tremendous. Knowledge does not stagnate with a
 people such that it no longer flows to others; rather the One who pours
 His divine emanations into the source of certainty and into the drink of
 the pure springs of gnosis does not deny anyone knowledge of the
-unseen.  
-    
- When I consider how the gentlemen of the age have made public the
+unseen.
+
+When I consider how the gentlemen of the age have made public the
 method of disputing employed by the Mu'tazilites and the Ash'arites, how
 they have thereby ascended the path of vainglory and repute, how discord
 and mutual rejection reign, how they have made their words a commerce
@@ -319,9 +319,9 @@ chosen few and the stations of the righteous; it is the way of the
 spiritual poles, the great saints, the prophets and those men who are a
 living example on earth of good conduct and spirituality and who
 determine and order the affairs of the world both now and in past
-ages.  
-    
- Thus if you wish to gaze on these jewels and to dive for these pearls,
+ages.
+
+Thus if you wish to gaze on these jewels and to dive for these pearls,
 then reflect well upon the contents of this book; consider the latter
 portion of the work and compare it with the beginning; gather together
 the different points and subjects which are dis­persed throughout ‑ for
@@ -341,9 +341,9 @@ of the tree of wonder may unfold. To this end I have followed the
 instructions of the Lord and the example of perfection set by the people
 of Allah and their elite. Thus gather this knowledge, commit it to
 memory and reflect upon its meanings: Allah will guide you to the right
-path; He is sufficient for us and the best of guardians.  
-    
- I would also inform you, O you who pause to attend to its meanings,
+path; He is sufficient for us and the best of guardians.
+
+I would also inform you, O you who pause to attend to its meanings,
 that I have chosen fine fruit for you, delicious and ready for eating; I
 have picked it from various gardens, watered by the water of divine
 blessings, \`well pleasing (Him) and well pleased (with Him)'. I hereby
@@ -413,16 +413,16 @@ widespread. What we hope for from the generosity of the reader is that
 he forgives our shortcomings from the good nature of his heart, that he
 overlooks our deficiencies and avoids divulging our secrets. We hope too
 that he will put right what he considers to be wrong and make good any
-lack or defect and with these words we conclude this work.  
-    
- This arduous task was completed on a Saturday evening, 12th Ramadan 950
+lack or defect and with these words we conclude this work.
+
+This arduous task was completed on a Saturday evening, 12th Ramadan 950
 AH.[^1] All praise belongs to Allah, the Possessor of Praise and we ask
 for blessings on Muhammad, the crown of splendour and glory, and on his
-family.[^2]  
-    
-    
-    
-  
+family.[^2]
+
+
+
+
 
 [^1]: Another source relates that a copy written in the author's own
 hand was completed and corrected in the above‑mentioned year.

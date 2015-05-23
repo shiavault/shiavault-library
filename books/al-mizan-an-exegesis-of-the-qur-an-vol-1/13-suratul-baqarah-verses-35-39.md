@@ -835,8 +835,8 @@ given a compulsory order before Adam was placed in the Garden.
 
 Question: If the prohibition were of an advisory nature, Allah would not
 have described its disregard in the terms of “injustice”,
-“disobedience”, and “going astray”.  
- Reply: We have already explained that the “injustice” done by Adam and
+“disobedience”, and “going astray”.
+Reply: We have already explained that the “injustice” done by Adam and
 his wife was against their own selves; it was not a sin against Allah.
 
 *“al-'Isyan”* (**العِصيان** = disobedience ) literally means to resist,

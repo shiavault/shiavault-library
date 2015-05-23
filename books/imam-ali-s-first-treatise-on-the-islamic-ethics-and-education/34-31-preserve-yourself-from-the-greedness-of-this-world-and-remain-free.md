@@ -55,8 +55,8 @@ Commentary
 
 From here to the very end of the letter, Imam ‘Ali (as) mentions one
 hundred pieces of wisdom, if one of which, in the words of Qutb al-Din
-Rawandi, were found in the will, that would have been sufficient.[^1]  
- In this portion of the letter, Imam ‘Ali (as) attracts our attention to
+Rawandi, were found in the will, that would have been sufficient.[^1]
+In this portion of the letter, Imam ‘Ali (as) attracts our attention to
 the following points:
 
 ### 1. Man Is A Traveler Riding On The Palfrey Of Time
@@ -86,10 +86,9 @@ incomplete, that we may make clear to you; and we cause what we please
 to stay in the wombs till an appointed time, then we bring you forth as
 babies, then that you may attain your maturity; and of you is he who is
 caused to die, and of you is he who is brought back to the worst part of
-life, so that after having knowledge he does not*** ***know anything;
-and you see the earth sterile land, but when we send down on it the
-water, it stirs and swells and brings forth of every kind a beautiful
-herbage.***
+life, so that after having knowledge he does not know anything; and you
+see the earth sterile land, but when we send down on it the water, it
+stirs and swells and brings forth of every kind a beautiful herbage.***
 
 ***This is because Allah is the Truth and because He gives life to the
 dead and because He has power over all things. And because the hour is
@@ -117,8 +116,8 @@ those who are in the graves”.***[^2]
 three and three remain. The first of those that he has passed is from
 the concealment of non-existence to the loins of the father and the ribs
 of the mother. God says in this regard ***"Coming from between the back
-and the ribs"***[^3]  
- The second stage is the mother's womb. In this regard Allah says:
+and the ribs"***[^3]
+The second stage is the mother's womb. In this regard Allah says:
 
 <blockquote dir="rtl">
   <p>
@@ -174,46 +173,46 @@ And now we are passing through the fourth stage, and the duration of its
 passage is the duration of our lives. Our days are *farsakhs* (a measure
 of 3 to 4 miles) and our hours are miles, and our breaths are steps. How
 many people are there for whom *farsakhs* remain and how many others for
-whom steps remain?‘  
- Imam ‘Ali (as) has the following interpretation in this letter: Man is
+whom steps remain?‘
+Imam ‘Ali (as) has the following interpretation in this letter: Man is
 a traveler who is riding the palfrey of time which is manifested as day
 and night. This movement is continuous, but he seems as though he were
 motionless.
 
 Imam ‘Ali (as) in this portion of letter warns us not to be carried away
 in this evolutionary process by negligence so that you suddenly notice
-that "day and night went by but you are still asleep".  
- Sa’di, the great Persian poet has written two beautiful pieces:  
- We may not harvest dates from the thorn we have planted,  
- We may not weave silk from this wool;  
- We did not put an excuse line on the slate of our sins,  
- We did not write anything good beside our sins;  
- We are the victims to our inner selves, and we will cry,  
- On the Doom's Day why we did not kill our inner selves;  
- Alas! Our precious lives passed away,  
- But we did not stop our wrong-doing;  
- Old age and youth passed like day and night,  
- The night arrived, the day came and we are still asleep.  
- You, who can do something, do it,  
- Before you are unable to do it;  
- You who were, at one stage, a sperm in the belly,  
- And turned into an infant;  
- Then you grew till you arrived at the puberty,  
- You became a handsome youth;  
- Till you changed into a man of fame,  
- The rider in the court and a man of war;  
- What you did see did not stay long,  
- Neither will it stay long what you will see;  
- Sooner or later this handsome man,  
- Will change into earth and his earth into dust;  
- A good name for a man after his death,  
- Is preferable to a gold-ornamented house;  
- Who knows who is going to be alive next year?  
- Or where did the person who was our friend go?  
- The miserable dead are in the grave,  
- There is a lizard in their heads each;  
- The handsome appearance is nothing,  
- O brother bring forth a handsome conduct.[^8]
+that "day and night went by but you are still asleep".
+Sa’di, the great Persian poet has written two beautiful pieces:
+We may not harvest dates from the thorn we have planted,
+We may not weave silk from this wool;
+We did not put an excuse line on the slate of our sins,
+We did not write anything good beside our sins;
+We are the victims to our inner selves, and we will cry,
+On the Doom's Day why we did not kill our inner selves;
+Alas! Our precious lives passed away,
+But we did not stop our wrong-doing;
+Old age and youth passed like day and night,
+The night arrived, the day came and we are still asleep.
+You, who can do something, do it,
+Before you are unable to do it;
+You who were, at one stage, a sperm in the belly,
+And turned into an infant;
+Then you grew till you arrived at the puberty,
+You became a handsome youth;
+Till you changed into a man of fame,
+The rider in the court and a man of war;
+What you did see did not stay long,
+Neither will it stay long what you will see;
+Sooner or later this handsome man,
+Will change into earth and his earth into dust;
+A good name for a man after his death,
+Is preferable to a gold-ornamented house;
+Who knows who is going to be alive next year?
+Or where did the person who was our friend go?
+The miserable dead are in the grave,
+There is a lizard in their heads each;
+The handsome appearance is nothing,
+O brother bring forth a handsome conduct.[^8]
 
 ### 2. Since Not All Wishes Are Obtainable…
 
@@ -224,10 +223,10 @@ life-limit, and since everybody has got to go the way of those who have
 passed away, therefore we should observe the following points:
 
 **a)** We should never be greedy for what we want. We should endeavor
-not more than adequate.   
+not more than adequate.
 **b)** We should be honest in our business. We should have our incomes
-obtained legally and we should spend in good ways what we earn.[^9]  
- Sometimes it may happen that greed may cause the loss of the owner’s
+obtained legally and we should spend in good ways what we earn.[^9]
+Sometimes it may happen that greed may cause the loss of the owner’s
 capital altogether. And not every effort is always of benefit. Any
 well-wisher will benefit from his trials, however.
 
@@ -281,30 +280,30 @@ He said in another occasion:
 *"What does ‘Ali have to do with enjoyments that perish and pleasures
 that are transitory?"*[^12]
 
-Somebody asked the Imam al-Baqir (as):  
- “Who are the most precious people?”  
- He answered:  
- "Those who do not see the world as their equal."  
- Sa’di, the great Persian poet says:  
- Our human body is honorable because of our human spirit,  
- Our clothes not a sign for a human being;  
- If eyes, tongues, ears and noses were the symbols of humanity,  
- Then what is the difference between man and a wall-drawing?  
- Eating, sleeping, anger and lusts are ignorance,  
- A beast knows nothing from man’s world;  
- Be truly a man, or else a bird,  
- Can use human speech;  
- Did you see the flight of birds, now put aside lusts,  
- Till you see the flight of man;  
- Why did you make yourself a slave in the hands of a devil?  
- You are a man and even an angel can not fill your place.  
- If you kill the savage in your nature,  
- All life-long you will be living with human morale;  
- A man can reach a place where he can see nobody but God,  
- See how lofty is human dignity.  
- Sa’di elsewhere has said:  
- It is better for you to tell the truth and remain in jail,  
- Than telling a lie and getting freed.
+Somebody asked the Imam al-Baqir (as):
+“Who are the most precious people?”
+He answered:
+"Those who do not see the world as their equal."
+Sa’di, the great Persian poet says:
+Our human body is honorable because of our human spirit,
+Our clothes not a sign for a human being;
+If eyes, tongues, ears and noses were the symbols of humanity,
+Then what is the difference between man and a wall-drawing?
+Eating, sleeping, anger and lusts are ignorance,
+A beast knows nothing from man’s world;
+Be truly a man, or else a bird,
+Can use human speech;
+Did you see the flight of birds, now put aside lusts,
+Till you see the flight of man;
+Why did you make yourself a slave in the hands of a devil?
+You are a man and even an angel can not fill your place.
+If you kill the savage in your nature,
+All life-long you will be living with human morale;
+A man can reach a place where he can see nobody but God,
+See how lofty is human dignity.
+Sa’di elsewhere has said:
+It is better for you to tell the truth and remain in jail,
+Than telling a lie and getting freed.
 
 ### 4. Man Is Created Free And Should Remain Free
 
@@ -320,8 +319,8 @@ himself and cause his becoming a slave.
 
 Islam, however, will not agree with any kind of slavery. It wants
 everybody to live freely and be in Hafiz’s words: free from anything
-which smells of possession.  
- On one hand, Islam considers the excessive love towards the life
+which smells of possession.
+On one hand, Islam considers the excessive love towards the life
 manifestations as a kind of slavery and condemns it seriously.
 
 Imam Husayn (as) tells those who have sold their religion to the world:
@@ -349,8 +348,8 @@ with the world in the following words:
 </blockquote>
 
 *"A person who worships this world and prefers it to the Hereafter, has
-ruined his fate."*[^15]  
- On the other hand, Imam ‘Ali (as) considers people subject to desire as
+ruined his fate."*[^15]
+On the other hand, Imam ‘Ali (as) considers people subject to desire as
 the slaves of desire.
 
 <blockquote dir="rtl">
@@ -364,7 +363,7 @@ the slaves of desire.
 And the Holy Qur’an considers slavery to desire as a hindrance to the
 realization of facts:
 
-**  
+**
 **
 
 "أَفَرَأَيْتَ مَنْ اتَّخَذَ إِلَهَهُ هَوَاهُ وَأَضَلَّهُ اللَّهُ عَلَى
@@ -404,8 +403,8 @@ hands of its followers, he should not blame anybody else except himself.
 
 Anyway, Islam wants freedom for everybody: natural freedom, freedom of
 thought, political freedom, civic freedom and religious freedom. See
-"Islam and Human rights" for more detail.  
- Imam ‘Ali (as) has showed this meaning clearly in his letter.[^20] So
+"Islam and Human rights" for more detail.
+Imam ‘Ali (as) has showed this meaning clearly in his letter.[^20] So
 far as possible do not accept anything from anybody which limits your
 freedom or causes you to thank him since man is a slave to generosity.
 
@@ -434,9 +433,9 @@ humiliates people greatly. Imam ‘Ali (as) has said:
 
 *“There is no one more abased than a greedy person”.*[^21]
 
-Regarding this topic, Sa’di says:  
- He added to my daily bread but caused my lack of honor,  
- Poverty is better than the humiliation of asking.
+Regarding this topic, Sa’di says:
+He added to my daily bread but caused my lack of honor,
+Poverty is better than the humiliation of asking.
 
 Imam ‘Ali (as), in other positions, considers slavery as one of the
 vicious side effects of greed.
@@ -527,8 +526,8 @@ Imam ‘Ali (as) has said:
 
 *"Asking people for help weakens one's tongue, breaks the heart of the
 brave one, puts a free man in place of a lowly slave, causes one to lose
-face and deprives one of his sustenance".*[^27]  
- That is why Imam ‘Ali (as) in his letter says: *“If you are able to do
+face and deprives one of his sustenance".*[^27]
+That is why Imam ‘Ali (as) in his letter says: *“If you are able to do
 so, then do not let there be a benefactor between you and Allah* (and do
 not ask a go-between for any help)*, for you will attain your portion
 and acquire your share (anyway). The little (you receive) from Allah is

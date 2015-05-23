@@ -13,7 +13,7 @@ From the philosophical point of view it considers a society to have two
 aspects. Firstly, it is composed of individuals, each of them having a
 mixture of high and low qualities. Secondly, as a whole, it has its own
 variety of attributes which are the eternal characteristics of man in
-general. A Persian poet expresses this fact thus:  
+general. A Persian poet expresses this fact thus:
 *"This sweet water and this saltish water in every vein of creatures
 will flow till the Day of Resurrection. "*
 
@@ -56,15 +56,15 @@ want to encompass the whole of humanity and aim at achieving the moral,
 religious, scientific and intellectual objectives. The famous Persian
 poet, Mawlawi says:
 
-The soul inclines to wisdom and science,  
- The body inclines to gardens and fruits,  
- The soul inclines to progress and honour,  
- The body inclines to property and chattels,  
- The body inclines to greenery and flowing water,  
- because it originates from them,  
- The soul inclines to life and the living;  
- because its origin is divine,  
- Allah also inclines to soul,  
+The soul inclines to wisdom and science,
+The body inclines to gardens and fruits,
+The soul inclines to progress and honour,
+The body inclines to property and chattels,
+The body inclines to greenery and flowing water,
+because it originates from them,
+The soul inclines to life and the living;
+because its origin is divine,
+Allah also inclines to soul,
 *So say that He loves them and they love Him.*
 
 The internal conflict of man, which the ancients called the fight
@@ -75,8 +75,8 @@ beings on the one side and the nasty and brutish beings on the other.
 This approach accepts the existence of a conflict as a part of the
 development and evolution of history, but not in the form of class war
 between those attached to the old means of production and old social
-system and those attached to the more modern means of production.  
- It claims that a conflict has always existed between men with mature
+system and those attached to the more modern means of production.
+It claims that a conflict has always existed between men with mature
 faith who are free from the captivity of nature and the environment of
 animal instincts and have an object in view and the degraded and brutish
 persons and it has played a very effective role in the evolution of
@@ -111,8 +111,8 @@ are waged by the oppressed and the deprived classes wanting to displace
 the existing system and to replace it by another system which may ensure
 their material needs in conformity with the developed means of
 production there exists historical evidence to prove that progressive
-movements have not always been confined to the oppressed classes.  
- They have occasionally been led by the individuals belonging to the
+movements have not always been confined to the oppressed classes.
+They have occasionally been led by the individuals belonging to the
 privileged classes who thrust their dagger into the heart of the ruling
 system.
 
@@ -157,8 +157,8 @@ man is gradually coming closer to perfection i.e. to the stage of an
 ideal man in an ideal society. He will continue to advance on this path
 till a world government, having full regard for all human values is
 established and that will be the end of all the evil forces and selfish
-wars.  
- According to the Islamic terminology this government is called the
+wars.
+According to the Islamic terminology this government is called the
 Mahdi Government.
 
 **2.** Absurdity of logical continuity: A logical continuity of the

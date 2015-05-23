@@ -1,12 +1,11 @@
 Wisdom
 ======
 
-   
- Wisdom is the light of gnosis, the measure of fearful awareness and the
+Wisdom is the light of gnosis, the measure of fearful awareness and the
 fruit of truthfulness. Allah has not given any of his servants a
 greater, more favourable, generous, lofty or more splendid blessing than
-wisdom for the heart. In Allah's words,  
-  
+wisdom for the heart. In Allah's words,
+
 
 <blockquote dir="rtl">
   <p>
@@ -19,8 +18,8 @@ wisdom for the heart. In Allah's words,
 indeed is given a great good and none but the men of understanding
 remember.*** (2:269)
 
-   
- That is, only the one whom I have singled out for My sake and whom I
+
+That is, only the one whom I have singled out for My sake and whom I
 have designated for it knows what wisdom I have reserved and prepared.
 Wisdom is rescue, steadiness at the beginning of the affair and a firm
 stance at the end. It makes Allah's creatures aspire to Him. And the

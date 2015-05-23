@@ -84,8 +84,8 @@ al-Hamdani emphasizes that:
 </blockquote>
 
 *"Learn lessons from past events for future events, because they are
-similar to one another."*[^1]  
- It is exactly for this reason that one third of the Qur’an consists of
+similar to one another."*[^1]
+It is exactly for this reason that one third of the Qur’an consists of
 the stories and histories of past nations and according to the Qur’an,
 this survey of the past will help everybody since
 
@@ -97,8 +97,8 @@ reflect." [Qur’an 7:176].***
 In his Qasi’ah sermon, where he talks on the issues of the prosperity
 and misery of nations and Muslims and the factors responsible for them,
 Imam ‘Ali (as) talks about the similarity among the fates of the nations
-and the identical factors of their successes and failures,  
- He says: Avoid facing the punishments which were inflicted upon the
+and the identical factors of their successes and failures,
+He says: Avoid facing the punishments which were inflicted upon the
 past nations. Remember their attitudes in hardships. Try not to be like
 them.
 
@@ -117,8 +117,8 @@ tested by God. Did they not have to face a lot of hardships?
 the face of obstacles for His sake, He changed their misery into
 prosperity, and their fear into security. God made them governors,
 statesmen and leaders. They received such favors from God they had not
-even hoped for.  
- "Observe how they were moderate, their hands were in the service of one
+even hoped for.
+"Observe how they were moderate, their hands were in the service of one
 another, their swords helped each other, their eyes were piercing, and
 their intentions and aims were united. Did they not become leaders of
 the entire earth?
@@ -128,8 +128,8 @@ unity was fractured, and there were disagreements among them; they
 divided, and started to quarrel. At this time, God changed their
 strength into weakness and deprived them of their assets. What remained
 of them is their sad stories for you today to behold and for you to take
-lessons.  
- Then Imam ‘Ali (as) adds:
+lessons.
+Then Imam ‘Ali (as) adds:
 
 <blockquote dir="rtl">
   <p>
@@ -137,8 +137,8 @@ lessons.
   </p>
 </blockquote>
 
-*"You see how nations are similar in their states and traits."*[^2]  
- This very principle of similarity in states and traits among nations,
+*"You see how nations are similar in their states and traits."*[^2]
+This very principle of similarity in states and traits among nations,
 which depicts their fates, is of crucial significance for Imam ‘Ali (as)
 in his sermon. That is why he emphasizes a survey of the lives of people
 of the past.
@@ -206,18 +206,18 @@ Muslims," one of the reasons for this fall is said to be sectarianism.
 Two other factors are responsible for these differences, however:
 
 **a)** Lack of the recognition of the truth. Hafiz, the Persian poet,
-says in this regard:  
- The quarrel among the seventy–two nations is not valid.  
- For, not seeing the truth, they resorted to fantasy.  
-**b)** Selfishness and self-conceit.  
- We have already said if we wish to get rid of the sectarian differences
+says in this regard:
+The quarrel among the seventy–two nations is not valid.
+For, not seeing the truth, they resorted to fantasy.
+**b)** Selfishness and self-conceit.
+We have already said if we wish to get rid of the sectarian differences
 among people, we should use reasoning in the light of the Book and the
 Prophet's kinfolks, and avoid being indoctrinated by poisoning ideas of
 some.
 
 We should also avoid being carried away by selfishness and self-conceit
-in the recognition of facts and truth in different sects.  
- Imam ‘Ali (as) in his letter asks his child not to be carried away by
+in the recognition of facts and truth in different sects.
+Imam ‘Ali (as) in his letter asks his child not to be carried away by
 these two factors: selfishness and self-conceit.
 
 4. Why Is Imam ‘Ali Unwilling To Teach Any Book On Religion But The Qur’an And The Shari’ah?
@@ -242,8 +242,8 @@ when people separated themselves from the Prophet's kinfolk. This
 separation from the guidance of the Prophet's kinfolk caused people to
 have different understandings of the facts and truth. In this way,
 different sects came into being. Under such conditions, Imam saw it
-feasible to start giving Imam Hasan (as) new insights about religion.  
- Furthermore, this section of Imam ‘Ali's letter neither involves
+feasible to start giving Imam Hasan (as) new insights about religion.
+Furthermore, this section of Imam ‘Ali's letter neither involves
 unwillingness towards religious discussions, nor, does it indicate, as
 some have erroneously assumed, that the Qur’anic sciences and religious
 commandments are of lower importance. Each one of these has its special

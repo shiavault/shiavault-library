@@ -30,7 +30,7 @@ their souls was severed. Therefore they ayat: “Everything will be
 destroyed except His face” means that all the living and non-living
 things disintegrate and their style undergoes a change and it is only
 the Purified Being of Allah which is beyond every type of change and
-transformation.  
-  
+transformation.
+
 
 

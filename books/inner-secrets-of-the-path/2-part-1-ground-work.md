@@ -1,13 +1,11 @@
 Part 1: Ground Work
 ===================
 
- 
-
 1) Introduction and the First Aspect: a study of Theology and the Science of Gnosis
 -----------------------------------------------------------------------------------
 
-    
- May Allah give me success in completion of this book, by the blessing
+
+May Allah give me success in completion of this book, by the blessing
 of Muhammad, his pure family and progeny. Praise belongs to Allah, Who
 has illuminated the hearts of His slaves by the knowledge of the truth,
 tasting and witnessing, Who has cooled their eyes with the antimony of
@@ -15,18 +13,18 @@ His divine grace and love from eternity, Who has brought them to the
 highest stations of witnessing in the world of pre‑existent form and
 spiritual unveil­ing, and Who has enabled them to establish proof based
 on the intellect and clear evidence based on the traditions by way of
-the higher levels of the purified soul and the illuminated intellect.  
-    
- May Allah bless the one who guides to such stations by means of the
+the higher levels of the purified soul and the illuminated intellect.
+
+May Allah bless the one who guides to such stations by means of the
 lights of inner vision and who indicates the path leading to these
 divine gnoses; may He bless the one who has made clear the meaning of
 the *shari\`ah,* that is the merciful code of behaviour incumbent upon
 every Muslim. May He bless too his progeny, companions and family ‑ the
 continuation of the lineage of the Prophet; it is in accordance with
 man's enmity or love of them that the different levels of the Garden and
-the Fire are appor­tioned in the hereafter.  
-    
- Only the slaves of abundant excellence and of penetrating knowledge
+the Fire are appor­tioned in the hereafter.
+
+Only the slaves of abundant excellence and of penetrating knowledge
 will be able to arrive at the Divine Presence and to fulfill the
 exigencies of the subtle divine states; such slaves alone will be able
 to come close to the Reality of Oneness and will be able to extinguish
@@ -41,15 +39,15 @@ path, by their struggle and perseverance in the search for meanings, by
 their purification and refinement of behaviour and their capacity to
 free the self from the veil of animal urges. Only these slaves will be
 able to break the chains of bodily desires and the fetters of material
-bondage.  
-    
- None will comprehend the nature of travel on this path but those
+bondage.
+
+None will comprehend the nature of travel on this path but those
 experienced and knowledgeable in the science of true divin­ity and the
 stations of unveiling ‑ that is the stations of the *awliya'* (the
 saints or intimate friends of Allah), the prophets and the greatest
-amongst the men of wisdom.  
-    
- The spiritual gnoses and the rules of behaviour embodied in the
+amongst the men of wisdom.
+
+The spiritual gnoses and the rules of behaviour embodied in the
 *shari\`ah* have come down to us from the Divine Presence by means of
 the Muhammadi reality; together they convey the bles­sings of the
 prophetic example and the stations of elevation. It was this important
@@ -65,9 +63,9 @@ Prophet, Mustafa (\`the chosen one'). These three levels embrace the
 totality of the stations of the Muhammadi way, that is, both the inner
 and the outer stations. They embrace too all the degrees of perfection
 belonging to the prophets and the saints ‑ who are the caliphs of Allah
-and the vicegerents of divine Lordship.  
-    
- In writing this book I have followed the path of the *shari\`ah,* the
+and the vicegerents of divine Lordship.
+
+In writing this book I have followed the path of the *shari\`ah,* the
 path of specific duties and service made incumbent by Allah on His
 slaves. I have traveled lightly along this path with the minimum of
 hindrance and impediment, so much so it may be construed as an omission
@@ -76,9 +74,9 @@ on seeing that this age and this country are devoid of men of
 excellence; I did not take upon myself this great task except after
 perceiving the absence of men of perfection and the absence of spiritual
 \`poles' (a group of spiritual guardians, appointed by God and specific
-in number) and after seeing the door to spiritual travel closed.  
-    
- If we accept that knowledge is bestowed by Allah on certain of His
+in number) and after seeing the door to spiritual travel closed.
+
+If we accept that knowledge is bestowed by Allah on certain of His
 slaves, then it is not surprising that He may store up this knowledge
 for certain of the later generations of gnostics. Thus it may be that
 understanding of that which was difficult for many of the earlier
@@ -87,29 +85,29 @@ saying more apt than that of the one who said \`So much has been left by
 earlier generations to their successors. May Allah grant us refuge from
 envy which closes the door of justice and bars the way to attainment of
 man's finer qualities.' There are no more fitting words than those of
-Abu l‑\`Ala al ­Mu'arra on the same topic:  
-    
- By your father's life, the man of nobility is never attributed with
-generosity  
- As long as the Generous Himself exists in the world; But if the land
-becomes barren and the crops wither,  
- Then one pastures on the dry stubble.  
-    
- We should note too the famous words of the Commander of the Faithful
+Abu l‑\`Ala al ­Mu'arra on the same topic:
+
+By your father's life, the man of nobility is never attributed with
+generosity
+As long as the Generous Himself exists in the world; But if the land
+becomes barren and the crops wither,
+Then one pastures on the dry stubble.
+
+We should note too the famous words of the Commander of the Faithful
 ('Ali), words which have been related in an unbroken chain of
 transmission: \`Even if one does not attain everything, one does not
 abandon everything,' and \`Do not abandon what is easy because of what
-is difficult.'  
-    
- Thus I composed this book and named it \`The Light of the Truth, the
+is difficult.'
+
+Thus I composed this book and named it \`The Light of the Truth, the
 Stations of the Way and the Mysteries of the Revealed Law'. In doing so
 I sought from the Good, the Generous, that He grant us success by it and
 that He grant me success in its composition ‑ success in delineating the
 spiritual path of right guidance ‑ and that He enable us to avoid any
 mistakes in the exposition of the various topics under discussion;
-surely He is the Most Generous of those Who bestow goodness.  
-    
- Before embarking on this study however I should present an introduction
+surely He is the Most Generous of those Who bestow goodness.
+
+Before embarking on this study however I should present an introduction
 encompassing the numerous benefits awaiting the reader of this book; it
 is necessary that I provide the key with which to unlock the treasures
 contained therein for those desirous of such knowledge. Know therefore
@@ -144,9 +142,9 @@ of noxious waste material and cor­rupting humors, with the result that
 they would acquire a capac­ity to listen to words which they had
 previously been unable to digest, and they would be able to accept the
 beliefs (of the above­mentioned groups) whenever anyone gave expression
-to them.  
-    
- The words of the scholars, for example, confirm the prophetic code of
+to them.
+
+The words of the scholars, for example, confirm the prophetic code of
 behaviour and the divine rules imposed on man. Indeed each of the three
 levels, namely prophethood, delivery of the message *(risalah)* and
 saintship or divine authority *(wilayah) is* a pre‑requisite of the
@@ -169,9 +167,9 @@ the messenger, or upon one reality and that is the *shari\`ah.* This
 concurs with our earlier statement that the prophetic code of behaviour
 and the divine body of laws imposed on man is one truth which
 encompasses all three levels and that the different names are synonyms
-for this one truth.  
-    
- There are many examples of this in other spheres *of* investiga­tion:
+for this one truth.
+
+There are many examples of this in other spheres *of* investiga­tion:
 the names *\`aql* (intellect), *qalam* (pen) and *nur* (light) all
 indicate one reality, namely the reality of the Cosmic Man ‑ as in the
 authoritative traditions which say, \`The first thing created by Allah
@@ -202,9 +200,9 @@ people know it not.' With these words Allah is indicating the right way
 ‑ the way of Muhammad ‑ whereby man must establish the three pillars of
 the *shari\`ah, tariqah* and *haqiqah* and fulfill the demands of each,
 according to the different levels. The fact that \`most do not know' is
-because of their ignorance and blindness.  
-    
- If one understands that there has never been any dispute amongst the
+because of their ignorance and blindness.
+
+If one understands that there has never been any dispute amongst the
 prophets and messengers with regard to the found­ations and pillars of
 Islam, then one should realize too that if differences do occur in the
 details and branches of the law, then these differences are of quality
@@ -234,9 +232,9 @@ be impossible to channel all the varying capacities into one single path
 and at one simple level. Allah Himself says: \`For every one of you did
 We appoint a law and a way.' Thus these differences are in accordance
 with the nature of existence and a state of affairs other than this
-would not be possible.  
-    
- The expressions and indications of the Sufis to describe these degrees
+would not be possible.
+
+The expressions and indications of the Sufis to describe these degrees
 and levels are difficult to understand; indeed their pro­fundity of
 meaning is not intended to be comprehended by all. Thus the teaching
 shaykhs strove always to advise and guide their disciples in such
@@ -247,9 +245,9 @@ of Resurrection, then of every thousand so raised up, nine hundred and
 ninety nine will be killed by the gnostic terms or be slaughtered by the
 swords of gnostic signs: they will be covered in blood and wounds
 through their neglect of the meanings and their abandonment of the
-principles of this matter.'  
-    
- If this point is understood, then the reader should also realize that
+principles of this matter.'
+
+If this point is understood, then the reader should also realize that
 the ultimate intention of this study is to explain that all these names
 refer to one reality, albeit using different terms; thus there is no
 fundamental difference between them. Moreover, we must have recourse to
@@ -261,9 +259,9 @@ people of *tariqah* are greater than the people of *shari'ah,* and that
 between them there exists no essential divergence; and thirdly, that an
 explanation of the *shari\`ah* must be based on the intellect and the
 intellect on the *shari\`ah.* This third section will also contain a
-study of other related matters.  
-    
- With regard to the first aspect ‑ to its definition and its reality as
+study of other related matters.
+
+With regard to the first aspect ‑ to its definition and its reality as
 a unified whole ‑ then know that the *shari\`ah is* the name of the
 God‑given path which lies before man in his life in this world; it
 encompasses both the principles and the branches of the religion; it
@@ -304,9 +302,9 @@ and the throne was his *haqiqah* and his doing‑without in this world and
 the actions undertaken by him such that he merited this degree were his
 *tariqah.* Moreover all three levels are encompassed by the prescribed
 laws of Islam and are in no way outside of it: we have seen earlier how
-the Islamic code includes all of them.  
-    
- It has also been said that the Islamic code is like the almond nut,
+the Islamic code includes all of them.
+
+It has also been said that the Islamic code is like the almond nut,
 which consists of the oil, the kernel and the shell: the almond as a
 whole is the *shari\`ah,* the kernel is the *tariqah* and the oil the
 *haqiqah.* A similar meaning has also been applied to prayer: \`Surely
@@ -317,9 +315,9 @@ three of these. Allah Himself has referred to these three degrees by the
 phrases: *\`ilm* *al yaqin* (the knowledge of certainty), *\`ayn al
 yaqin* (the vision or experience of certainty) and *haqq al yaqin* (the
 truth of reality of certainty) ‑ an explana­tion of these terms will
-follow later in this work.  
-    
- On investigation we realize that *shari\`ah* expresses man's
+follow later in this work.
+
+On investigation we realize that *shari\`ah* expresses man's
 affir­mation of the words of the Prophet in the heart and man's acting
 in accordance with the laws of Islam; we realize that *tariqah is* the
 fulfillment and realization of these laws together with the prophetic
@@ -340,9 +338,9 @@ certainty and certainty is constancy and constancy is performance and
 performance is righteous action. Thus who­ever wishes to model himself
 on his Prophet as is fitting, then he should take on all these qualities
 and not reject any of those who themselves have taken on these qualities
-in their behaviour because…[^1]  
-    
- By its nature the essential cannot be separated from the es­sence.
+in their behaviour because…[^1]
+
+By its nature the essential cannot be separated from the es­sence.
 Allah's words \`And they shall continue to differ, except those on whom
 your Lord has mercy; and for this did He create them' confirm, this
 insomuch as differences in the outward arise from differences in the
@@ -355,9 +353,9 @@ accordance with their original substance and reality. This bestowal is
 not an in‑time initiation of something on the part of the Creator, for
 in reality they are non‑existent and in annihilation, and that which is
 non‑existent and in annihilation is not a creation of the Creator,
-rather it is inherent and inseparable from His knowledge.  
-    
- A dispute of vast dimensions exists concerning this subject, namely the
+rather it is inherent and inseparable from His knowledge.
+
+A dispute of vast dimensions exists concerning this subject, namely the
 nature of the beginnings of things and whether or not they are created
 by the Creator. This question is of utmost importance with regard to the
 science of *tawhid* (unity); indeed a proper investigation of the truth
@@ -381,9 +379,9 @@ clarifying the meaning of the differences which exist in the realm of
 realities and substances ‑ the differences existing in the essential
 realities of people and in their opinions and beliefs. Moreover, it
 should be noted also that this study has particular recourse to Allah's
-words, \`And they shall continue to differ.'  
-    
- At this point a note of introduction is needed: substances and essences
+words, \`And they shall continue to differ.'
+
+At this point a note of introduction is needed: substances and essences
 are, according to the belief of some, brought into exis­tence by the
 Creator, while for others this is not so. The first belief belongs to
 the people of the outward that is those scholars who demand that the
@@ -405,9 +403,9 @@ the outer realm and their creation in the world of vision and
 witnes­sing spring from His knowledge of them from before eternity: thus
 the act whereby He brings into being any creational form corresponds to
 that which is contained in His knowledge. This is referred to in His
-words: \`He does what he wishes' and \`Allah orders what he desires.'  
-    
- At this point, however, we should note that many dispute the validity
+words: \`He does what he wishes' and \`Allah orders what he desires.'
+
+At this point, however, we should note that many dispute the validity
 of this argument; their disagreement lies in the fact that any substance
 or essence may protest with a voice issuing from a station of
 spirituality or with the voice of outer learning saying \`Why have You
@@ -422,14 +420,14 @@ although Allah Himself says: \`Then Allah's is the con­clusive
 argument.' Moreover, there is no escape from this accusa­tion and there
 remains nothing to be done in this state of affairs but to submit and to
 be content with what has been decreed: one must accept that the matter
-depends on  
- His knowledge and wisdom and things depend wholly on His will and
+depends on
+His knowledge and wisdom and things depend wholly on His will and
 desire. There is no doubt, however, that this belief is neither
 reasonable nor acceptable. It is for this reason that He says: \`Do not
 put questions about things which, if declared to you, may trouble you.'
-In truth, then, their belief is not consonant with the facts.  
-    
- As for the people of the second group, they says that the realities,
+In truth, then, their belief is not consonant with the facts.
+
+As for the people of the second group, they says that the realities,
 the substances and the essences are not brought into being by the
 Creator ‑ rather they are part of His knowledge from before eternity. It
 is not permitted that these knowledges be brought into being because, if
@@ -453,9 +451,9 @@ realm of the outward is ignorance. Based on this premise, there­fore, it
 is not permitted that His knowledge from before eternity be part of His
 creation, or be conceived of as having been brought into being by Him;
 if this is not the case, then His knowledge cannot be affirmed and
-imperfection of knowledge is imputed to Him as we have seen above.  
-    
- The commentator of *Al‑Fusus* says: \`Since pre‑material forms and
+imperfection of knowledge is imputed to Him as we have seen above.
+
+The commentator of *Al‑Fusus* says: \`Since pre‑material forms and
 realities are conceived in the realm of imagination, they cannot be
 described as creational or brought into being; what is imagined does not
 have existence in the phenomenal world and only something which is
@@ -464,9 +462,9 @@ pictured in the imagination, or the mind's eye, through one's knowledge
 of that thing cannot be described as having been brought into being as
 long as it is not seen to exist in the phenomenal world; otherwise
 impos­sibilities would also be capable of being brought into visible
-existence.'  
-    
- The commentator mentions a still more striking example when he says:
+existence.'
+
+The commentator mentions a still more striking example when he says:
 \`Know that the names possess rational forms in the knowledge of Allah ‑
 since He is knowledgeable by His very essence of His own Essence, His
 Names and Attributes. Thus those rational forms existing in the realm of
@@ -483,9 +481,9 @@ residing in the Presence of His knowledge ‑ and as such these forms flow
 out from the divine source by an outflowing on the level of sanctity and
 purity; they emanate from the First Manifes­tation by means of the
 essential Love and through a seeking of the keys of the unseen whose
-outward manifestations and perfec­tions are only known to Him.  
-    
- This divine overflowing may be divided into two types: that is, the
+outward manifestations and perfec­tions are only known to Him.
+
+This divine overflowing may be divided into two types: that is, the
 overflowing from the greater sanctity and that emanating from the lesser
 sanctity. From the first arise the pre‑material forms and from the
 second the phenomenal manifestations of the forms with their relative
@@ -506,9 +504,9 @@ capacity of receiving the constant, never-ending outpouring of divine
 manifestations while existing in those forms.' The receiver can only
 exist by this very outpouring of purity and sanctity. Thus everything
 from the beginning to the end is from Him, everything returns to Him
-just as it began from Him.  
-    
- With this in mind, it is not permissible to say that the pre‑mate­rial
+just as it began from Him.
+
+With this in mind, it is not permissible to say that the pre‑mate­rial
 forms, the substances and the beginnings are created by the Creator ‑ if
 we suppose that the Creator and the Receiver of the created forms are
 one and the same and if we suppose that the Doer is His Essence and the
@@ -534,9 +532,9 @@ into being, in time. If it is possible, then its substance in the realm
 of knowledge and its pre‑existent form in the realm of rationality are
 not brought into being in time by Him or any other, rather, they arise
 out of the pre‑eternal divine knowledge, as has already been
-established.  
-    
- As for the possible, it is nothing but the \`request' ‑ in the
+established.
+
+As for the possible, it is nothing but the \`request' ‑ in the
 terminology of the people of spiritual stations ‑ for outward existence
 in accordance with that thing's capacity, a request which is made to the
 Real Actor and in accordance with existence in the realm of knowledge.
@@ -548,9 +546,9 @@ bring anything into being from that Existence, but from the existence in
 the outward, as we have already made clear; moreover, it is not true to
 say that anything is \`brought into being' except within the sphere of
 this outward existence. Understand this point well ‑ it will be of great
-benefit on many occasions on reading this book.  
-    
- The subject of our study contains secrets of the greatest order with
+benefit on many occasions on reading this book.
+
+The subject of our study contains secrets of the greatest order with
 respect to the question of predestination; it is therefore necessary at
 this point that we investigate further into this matter and we shall
 begin with some appropriate examples, which will increase understanding
@@ -576,9 +574,9 @@ called \`created' or \`brought into being.' If, however, it was in His
 knowledge, then it is not called created or brought into existence. Thus
 we arrive at the desired conclusion, namely His knowledges from before
 eternity are not brought into being; \`And (as for) these examples, We
-set them forth for men, and none understand them but the learned.'  
-    
- There is also another example worthy of mention: it is that the
+set them forth for men, and none understand them but the learned.'
+
+There is also another example worthy of mention: it is that the
 pre‑material source forms and substances are related to the never‑ending
 perfections hidden in His Essence, which are also known as Attributes
 and Names. These expressions are similar in their metaphorical nature to
@@ -635,17 +633,17 @@ the Essence; this is His reception of form in the world of creation. The
 Real descends by means of this emanation from the Presence of
 Singularity to the Presence of Uniqueness through His relationship to
 the Names. It should be noted that this notion is in complete accord
-with the direction of our discourse above.  
-    
- The aim of using quotations and supporting examples from the works of
+with the direction of our discourse above.
+
+The aim of using quotations and supporting examples from the works of
 the distinguished saints of Allah is twofold: the first is to reassure
 the heart of the reader and to aid him in removing doubt; the second is
 to repulse the sayings of the ignorant and those who reject the people
 of Allah, as far as we are able. If this objective is not met, then
 there are many other studies one may refer to; it is not fitting,
-however, that we reproduce them here.  
-    
- The aim of this introduction is to comment upon the meaning of Allah's
+however, that we reproduce them here.
+
+The aim of this introduction is to comment upon the meaning of Allah's
 words: \`And they shall continue to differ.' Given that this is
 understood and accepted as a principle, then we must also realize that
 these words are an indication of the essential differences in the realm
@@ -680,9 +678,9 @@ existence to the receiving creational forms except in accordance with
 their true natures. This existence is \`sought' by means of the speech
 of spirituality from the Actor. This same meaning has already been
 referred to with the metaphor of the writer, the writing and the letters
-(and their existence both in the mind and the concrete world).  
-    
- These source‑forms and substances are non‑existent in the phenomenal
+(and their existence both in the mind and the concrete world).
+
+These source‑forms and substances are non‑existent in the phenomenal
 world but they exist in the realm of knowledge and are constantly
 seeking outer existence by the tongue of spirituality and their own
 capacity. The Actor, for His part, requires from His Essence a constant
@@ -693,8 +691,8 @@ speech or action. Thus, if one of the source forms demands of Allah, the
 true Actor, by the language of spirituality that it be given outward
 existence, then the Real has no option but to bestow on it that required
 existence in accordance with the capacity and receptivity of that
-particular source form.  
- The Absolute Actor does not, therefore, govern the receiving form in an
+particular source form.
+The Absolute Actor does not, therefore, govern the receiving form in an
 absolute manner but rather in accordance with the aspect of that
 receiving form.
 
@@ -720,9 +718,9 @@ in accord with the source‑form and the reality and that Allah has
 decided by its very nature that it be created in such and such a way.
 Likewise, as we have seen in the example of the letters, neither the
 \`a’ or the \`b’ nor any other letter would demand of the writer that
-they be set down otherwise.  
-    
- This notion is supported by Ibn al‑\`Arabi when he says: \`He does not
+they be set down otherwise.
+
+This notion is supported by Ibn al‑\`Arabi when he says: \`He does not
 rule over us except by us, nay, rather we rule over ourselves, albeit in
 Him.' It is for this reason that He has said: \`Then Allah's is the
 conclusive argument', that is, against those who are veiled when they
@@ -734,9 +732,9 @@ asked Him to act; this notion is of their making, however, and they only
 know as much as their particular creational form permits them to know,
 thus their argument is untenable and the conclusive argument which is
 Allah's remains. The famous saying of the Arabs is particularly relevant
-here: \`Your arms are for leaning on and your mouth is for speech.'  
-    
- Thus any existence which manifests, be it in the realm of action,
+here: \`Your arms are for leaning on and your mouth is for speech.'
+
+Thus any existence which manifests, be it in the realm of action,
 speech perfection or imperfection, be it beautiful or ugly, is dependent
 upon the source‑form in accordance with the essence. Thus it is not
 directly dependent on Allah nor on other than Allah ‑ although it does
@@ -751,9 +749,9 @@ creation?" He replied, "For that which they have been created," '
 meaning, for that particular capacity or receptivity, that perfection or
 imperfection inherent in their cre­ation. Again Allah's words are
 sufficient in this matter, \`And for this did He create them', since
-this statement is the complete answer for the gnostic.  
-    
- We have seen that the term \`creation' means the bringing into being of
+this statement is the complete answer for the gnostic.
+
+We have seen that the term \`creation' means the bringing into being of
 something: What is indicated, as we have seen on many previous
 occasions, is that Allah brings them into being in accor­dance with
 their source‑form in the world of essences and sub­stances; if there are
@@ -763,9 +761,9 @@ then there are no likenesses or similarities between them in the
 totality of the states. Thus he who has said that \`There does not exist
 any resemblance between things at all except by the Necessary of
 Existence' has spoken the truth and in accordance with what he has
-actually witnessed.  
-    
- It has been established as a principle by the scholars of the science
+actually witnessed.
+
+It has been established as a principle by the scholars of the science
 of unity that the divine manifestations are not repeated and that the
 Real never manifests twice in the same way, neither in the realm of form
 or meaning ‑ so it has been from before eternity and so it will be to
@@ -781,9 +779,9 @@ We realize that resemblance and equality with regard to all aspects of a
 thing are not possible under any circumstances; we realize, too, the
 meaning of His words, \`And they continue to differ' and the hidden
 meaning indicated in \`and for this did he create them.' And Allah is
-more knowing and of acuter judgment in all matters.  
-    
- The following saying of the Prophet is also relevant: \`Whoever finds
+more knowing and of acuter judgment in all matters.
+
+The following saying of the Prophet is also relevant: \`Whoever finds
 good, then let him praise Allah, and whoever finds other than this, then
 let him blame no one but himself;' so also are the words of Imam 'Ali
 ibn Musa al‑Rida: \`Generosity on the part of the creature is to carry
@@ -810,9 +808,9 @@ anything which prevents them from attaining the stations of divine
 unity. May Allah sanctify their purified souls and bestow on them the
 divine illumination; may Allah grant us the light which is reflected
 from their perfections and emanations, after seeking help from Him for
-He is the Generous, the Noble.  
-    
- If the reader has understood the ideas we have expounded to him ‑ ideas
+He is the Generous, the Noble.
+
+If the reader has understood the ideas we have expounded to him ‑ ideas
 which merit being written with a pen of light on the cheeks of the
 maidens of Paradise, or being placed as amulets around the neck so that
 they may live through the ages ‑ if he has imprinted them on his mind
@@ -841,9 +839,9 @@ demands of the whole ‑ in that each level possesses laws distinct unto
 itself. Thus, it is not permitted to deny the validity of any of these
 levels, nor to reproach any of the people (who follow them). The model
 of prophetic behaviour, Muhammad, can only be followed to perfection
-when these three levels are respected.  
-    
- Allah speaks about the differences of capacity and receptivity within
+when these three levels are respected.
+
+Allah speaks about the differences of capacity and receptivity within
 creation when He says: \`For every one of you did We appoint a law and a
 way and if Allah had pleased He would have made you (all) a single
 people, but that He might try you in what He gave you, therefore strive
@@ -880,9 +878,9 @@ exists too the three‑tiered level of the Muhammadi aspect ‑ referred to
 when he says: \`There are three things which are dear to me in this
 world of yours, perfume, women and the coolness of the eye which comes
 from prayer' and everything else in creation accords with these
-classifications.  
-    
- Thus it is not permitted to deny the sayings of the prophets, nor those
+classifications.
+
+Thus it is not permitted to deny the sayings of the prophets, nor those
 who speak or deliver the prophetic message, particu­larly with respect
 to the people of *shari\`ah* and the people of beginnings. Moreover, it
 is not permitted to deny the actions of the prophets, nor those who take
@@ -891,9 +889,9 @@ particularly with respect to the people of *tariqah* and the people of
 the middle or intermediate path. Finally it is not permitted to deny the
 states of *haqiqah,* or to reject those who have taken on the
 corresponding qualities of this level together with those of the ending
-or final level.  
-    
- In short, it is not permitted to reject any of the people of the
+or final level.
+
+In short, it is not permitted to reject any of the people of the
 *shar'iah, tariqah* or *haqiqah.* The Prophet's words \`I have been
 given all the names and have been sent to perfect good behaviour' is. an
 indication of just what we have been indicating: creational realities
@@ -902,9 +900,9 @@ station; rather they are as diverse as their capacities and
 receptivities and each must be given its rightful place in accordance
 with this capacity and receptivity. Thus it is that we are commanded to
 talk to the people in accordance with the capacity of their
-intellects.  
-    
- You may say that according to the above argument it is claimed that
+intellects.
+
+You may say that according to the above argument it is claimed that
 each group, with its own particular way, of worship, its opinions and
 beliefs, is correct, but by the nature of things, each and every one
 cannot be right. I would say, in reply, that whoever is living according
@@ -927,9 +925,9 @@ perfection with regard to the sciences of *shari\`ah, tariqah* and
 *haqiqah;* they have reached the limits of perfection in each by their
 knowledge of the diseases of the self and the corresponding cures ‑
 provided of course the self is willing to accept this cure in the form
-of spiritual guidance.'  
-    
- A similar division may be seen in the description of the levels of
+of spiritual guidance.'
+
+A similar division may be seen in the description of the levels of
 knowledge of the knower, namely in terms of the husk, the shell and the
 kernel. Each indicates a level of knowledge together with a
 corresponding awareness of the demands and claims of each level.
@@ -951,9 +949,9 @@ attached to this world, shut off from understanding and veiled by
 official learning, is not able to comprehend the higher sciences by
 virtue of the good which has been pre‑determined for him by Allah:
 \`Surely (as for) those for whom the good has already gone forth from
-Us, they shall be kept far off from it.'  
-    
- Know too that the laws of the *shari\`ah constitute the divine code and
+Us, they shall be kept far off from it.'
+
+Know too that the laws of the *shari\`ah constitute the divine code and
 social order: it is incumbent on the prophets and the friends of Allah
 to establish this order together with its pillars' and to command the
 Muslim nation to respect and* fulfil *its demands. By this 1 mean that
@@ -972,9 +970,9 @@ people in the *surah,* \`The Cattle', which features the story of the
 star, the moon and the sun. The first instruction is for the guidance of
 the common people, the second for the elite and the third of the elite
 of the elite ‑ in line with the three distinctions of *shari\`ah,
-tariqah* and *haqiqah.*  
-* *  
- The first symbolizes the light of goodness which belongs to the people
+tariqah* and *haqiqah.*
+* *
+The first symbolizes the light of goodness which belongs to the people
 of *shari\`ah,* the people of the outward and the common people in their
 search for the truth and in their going beyond. This is so because the
 star of this world is like the light of goodness in man.
@@ -1000,9 +998,9 @@ would mean multiplicity. Vision and witnessing in the realm of divine
 unity does not admit of this; rather there must be a crossing beyond to
 a point where unity is attained. This point is reached by the
 annihilation of the knower in the known and the witnesser in the
-witnessed.  
-    
- As for the opinion of some commentators, namely that Ab­raham was at
+witnessed.
+
+As for the opinion of some commentators, namely that Ab­raham was at
 the time a small child and was not able to distin­guish between the
 star, the moon, the sun and his Lord, then it is a total falsehood,
 indeed a complete heresy ‑ may the sta­tions of the prophets and Friends
@@ -1035,9 +1033,9 @@ enjoined on me prayer and the poor‑rate so long as I live,' or when He
 addresses John the Baptist, \`O Yahya! Take hold of the Book with
 strength, and We granted him wisdom while yet a child.' Let these
 examples suffice as an indication of our meaning, al­though there are
-numerous other examples in the Qur'an.  
-    
- Know too that the laws of the *shari\`ah* constitute the divine code
+numerous other examples in the Qur'an.
+
+Know too that the laws of the *shari\`ah* constitute the divine code
 and social order: it is incumbent on the prophets and the friends of
 Allah to establish this order together with its \`pillars' and to
 command the Muslim nation to respect and fulfill its demands. By this I
@@ -1057,9 +1055,9 @@ instructions given by Abraham to his people in the *surah,* \`The
 Cattle', which features the story of the star, the moon and the sun. The
 first instruction is for the guidance of the common people, the second
 for the elite and the third of the elite of the elite ‑ in line with the
-three distinctions of *shari\`ah, tariqah* and *haqiqah.*  
-* *  
- As for the words which testify that the incident involving Abraham took
+three distinctions of *shari\`ah, tariqah* and *haqiqah.*
+* *
+As for the words which testify that the incident involving Abraham took
 place during the period of his prophethood and his calling of the people
 to Islam, then the following *ayah is* one of several where this is
 mentioned in the Qur'an: \`And the people disputed with him. He said:
@@ -1101,9 +1099,9 @@ by Him and by His light of Reality. This is referred to in the words of
 the Prophet when he says: \`I have known my Lord by my Lord.' One of the
 gnostics of his people has also said, \`By God one cannot arrive at Him
 except by Him.' Every gnostic knows that it is only possible to see the
-orb of the sun and its rays by the very light of the sun.  
-    
- The people of *shari\`ah* who seek gnosis of the Real by way of the
+orb of the sun and its rays by the very light of the sun.
+
+The people of *shari\`ah* who seek gnosis of the Real by way of the
 light of goodness are like the person who seeks to see the orb of the
 sun in the darkness of the night by the light of the stars; as is
 obvious, he will never be able to catch sight of it. The people of
@@ -1134,9 +1132,9 @@ his hand and his foot.' It is for this reason that the gnostic has said:
 \`It is not everyone who sets out who arrives, and not everyone who
 arrives attains, and not everyone who attains attains, and not everyone
 who attains separates, and not everyone who separates arrives, and not
-everyone who arrives arrives.'  
-    
- The Commander of the Faithful ('Ali) explains the relationship (between
+everyone who arrives arrives.'
+
+The Commander of the Faithful ('Ali) explains the relationship (between
 Allah and His slave) in the following way: \`Allah pos­sesses a drink
 which is reserved for His intimate friends (awliya'): when they drink
 they become intoxicated, when they become intoxicated they become
@@ -1144,9 +1142,9 @@ joyful, when they become joyful they become sweet, when they become
 sweet they begin to melt, when they begin to melt they become free, when
 they become free they seek, when they seek they find, when they find
 they arrive, when they arrive they join, and when they join, there is no
-difference between them and their Beloved.'  
-    
- Allah describes the lack of any distance or separation in His
+difference between them and their Beloved.'
+
+Allah describes the lack of any distance or separation in His
 relationship with the Prophet when fie says, \`And you did not smite
 when you smote (the enemy), but it was Allah Who smote.' The Prophet has
 also said, \`Whoever sees me has seen the Truth.' Others have said,
@@ -1156,12 +1154,12 @@ annihilation in unity, by this I mean the station of annihilation of the
 knower in the known, the lover in the beloved and the witnesser in the
 witnessed ‑ by way of the disappearance of phenomenal duality and the
 removal of egotism which is the obstacle to arrival at Him. The
-following verse also refers to this:  
-    
- Between myself and You is individual existence following from me. So,
-by Your grace, remove this individuality from between us.  
-    
- The prophets, messengers, intimate friends and gnostics have all
+following verse also refers to this:
+
+Between myself and You is individual existence following from me. So,
+by Your grace, remove this individuality from between us.
+
+The prophets, messengers, intimate friends and gnostics have all
 reached a point of annihilation in Him and then a continuing in Him;
 thus their contact with the ordinary world still exists despite the fact
 that they were spiritually annihilated in Him. It is necessary to
@@ -1177,19 +1175,19 @@ these examples, We set them forth for men, and none understands them but
 the learned' and \`Everything is perishable but He; His is the judgment,
 and to Him you shall be brought back' and \`Everyone on it must pass
 away. And there will endure for ever the person of your Lord, the Lord
-of Glory and honour' are all further indications of the same meaning.  
-    
- If the meaning of the annihilation of the slave in his Lord is still
+of Glory and honour' are all further indications of the same meaning.
+
+If the meaning of the annihilation of the slave in his Lord is still
 unclear, then we would describe it metaphorically as the disappearance
 of the light of the stars in the light of the sun when the latter rises
 on the horizon, or as the constant breaking and disappearance of the
 waves in the sea. This idea has also been expressed in the following
-verse:  
-    
- The sea is the same sea as it has been of old;  
- The events of today are its waves and its rivers.  
-    
- Thus it has been said that the one who continues (after annihi­lation)
+verse:
+
+The sea is the same sea as it has been of old;
+The events of today are its waves and its rivers.
+
+Thus it has been said that the one who continues (after annihi­lation)
 into eternity and the one who is annihilated is in a state of
 annihilation which has not yet finished. Knowledge of cer­tainty,
 experience of certainty, and truth of certainty are terms which describe
@@ -1225,9 +1223,9 @@ yourselves from the darkness of egotism and otherness, and then take
 hold of the light of truth ‑ it will allow you to go on for ever and
 ever and will cause you to enter into the Garden of the Essence, the
 Arena of the Attributes and the worlds of never‑ending divine
-emanations.'  
-    
- If we examine the Qur'anic *ayah:* \`Allah is the light of the heavens
+emanations.'
+
+If we examine the Qur'anic *ayah:* \`Allah is the light of the heavens
 and the earth; a likeness of His light is as a niche... ,' we realize
 that it is alludes to the witnessing of this light according to the
 three levels of consciousness. The niche refers to the world of the
@@ -1247,9 +1245,9 @@ slaves. Thus Allah says immediately afterwards, \`Allah sets forth
 parables for men' as an exhortation to His slaves to realize that
 attainment of the light of witnessing is dependent upon removal of the
 darkness of their existence (existence which is contingent and a mere
-reflection of the true existence).  
-    
- In this *ayah* and others before it are secrets beyond the compass of
+reflection of the true existence).
+
+In this *ayah* and others before it are secrets beyond the compass of
 the heavens and the earth. Thus, for example, He says: \`If the sea were
 ink for the words of my Lord, the sea would surely be consumed before
 the words of my Lord are exhausted, though We were to bring the like of
@@ -1265,9 +1263,9 @@ in my blood and light in my bones, light in front of me, light behind
 me, light beneath me, light above me, light to the right of me, light to
 the left of me and light in my grave. O Allah, increase me in light and
 bestow on me light and give me light, by the truth of Your Reality, O
-most Merciful of the Merciful.'  
-    
- It is by these examples that we recognize the prophets' and messengers'
+most Merciful of the Merciful.'
+
+It is by these examples that we recognize the prophets' and messengers'
 respect for these three levels of consciousness, and we see how they
 commanded their respective peoples to also respect them and to carry on
 the duties incumbent on them ‑ whether it be by the *shari\`ah,* the
@@ -1279,26 +1277,26 @@ of the people of Allah, their elite, the masters of divine unity and the
 chosen amongst them. Happy indeed is the slave who follows in their
 footsteps. \`All praise is due to Allah Who guided us to this, and we
 would not have found the way had it not been that Allah had guided
-us.'  
-    
- Having established that the *shari\`ah, tariqah* and *haqiqah* are all
+us.'
+
+Having established that the *shari\`ah, tariqah* and *haqiqah* are all
 terms which describe the One Truth, the Divine Code, and that there
 exists no contradiction between the different levels, we shall begin the
 second aspect of our study, namely the superiority of one level over the
-next.  
-  
+next.
+
 
 2) The Second Aspect
 --------------------
 
-**The Second Aspect:** **Description** ***of*** **the people** ***of
+**The Second Aspect: Description** ***of*** **the people** ***of
 haqiqah*** **(the inner truth) and how their station is higher than
 that** ***of*** **the people** ***of tariqah*** **(the way); and how the
 people** ***of tariqah*** **are higher than the people** ***of
 shari\`ah*** **(the law)**
 
-   
- Know that although *shari\`ah, tariqah* and *haqiqah* all describe one
+
+Know that although *shari\`ah, tariqah* and *haqiqah* all describe one
 truth, *haqiqah* and its people are higher than *tariqah* and *tariqah*
 and its people are higher than *shari\`ah. Shari\`ah is* the level of
 beginnings, *tariqah* the intermediate stage and *haqiqah* the final
@@ -1322,14 +1320,14 @@ through *haqiqah.* Accordingly, the perfection of perfection is the
 joining together of all three levels, for the sum of two things, or two
 states when joined together, must be better and more perfect than the
 two when separate: the people of *haqiqah* are therefore superior in
-relation to the people of *shari\`ah* and *tariqah.*  
-* *  
- Our Prophet was the greatest and noblest of the prophets since he
+relation to the people of *shari\`ah* and *tariqah.*
+* *
+Our Prophet was the greatest and noblest of the prophets since he
 brought all three levels together, as his words attest, \`I have been
 given all the names.' We are familiar with the hidden meanings of these
 words, but there remains one aspect we have not considered, namely that
 the station of joining ‑ which is particular to the Prophet and those of
-his people who are seekers of *haqiqah* *‑ is* the most sublime and most
+his people who are seekers of *haqiqah ‑ is* the most sublime and most
 noble of stations. The words of the Prophet: *\`My qiblah* (the
 direction of prayer, namely Makkah) is between the East and the West'
 also indicate the station of joining ‑ for the East was the *qiblah* of
@@ -1357,9 +1355,9 @@ the realities of the world of spirit and those of the world of
 materiality. It is for this reason that Allah refers to His Truth and
 Light (or Reality) as being \`neither of the east nor the west.' Allah
 has also said of His people: \`And thus We have made you a middle nation
-that you may be the bearers of witness to the people.'  
-    
- Moreover, there exists similarity between the two worlds and between
+that you may be the bearers of witness to the people.'
+
+Moreover, there exists similarity between the two worlds and between
 the west and the east at the levels of form and meaning. The east with
 regard to the realm of form refers to the place of rising of the sun,
 the diffusion of its light and the illumination of the sensory world;
@@ -1411,12 +1409,12 @@ al‑Qur'an ‑ is significant: linguistically *qara'a* can mean a picking
 up or gathering together. The Commander of the Faithful ('Ali) has said:
 \`I am the Qur'an speaking and I am the Book of Allah which unites.' He
 is the one who unites the two levels and the two states of the outward
-and the inward. One of the gnostics has composed the following lines:  
-    
- I am the Qur'an and the seven oft‑repeated verses, and the spirit of
-the spirit and not the spirit of empty vessels.  
-    
- He is referring here to this all‑encompassing station of joining which
+and the inward. One of the gnostics has composed the following lines:
+
+I am the Qur'an and the seven oft‑repeated verses, and the spirit of
+the spirit and not the spirit of empty vessels.
+
+He is referring here to this all‑encompassing station of joining which
 is the Muhammadi state. Another gnostic of excellence has expressed this
 same meaning in his writings: \`Just as the perfection of Moses was an
 absolute perfection of a specific kind, so he inclined to the perfection
@@ -1477,9 +1475,9 @@ Lord; and none of them is mindful except those with understanding.'
 Those who thus say \`everything is from our Lord' are the ones of
 realization and are no other than the elite referred to above; in
 contrast the Ash'arites, who believe in absolute predestination, veil
-them­selves from this station.  
-    
- Witnessing that all is from the One True Lord is realization that
+them­selves from this station.
+
+Witnessing that all is from the One True Lord is realization that
 imperfection on His part is not admissible since His sanctity,
 incomparability and exaltedness over anything created are con­nected
 with the concept of pure divine unity. This unity is totally removed
@@ -1489,9 +1487,9 @@ to this degree although the Ash'arites do not believe in it. Allah's
 words, \`and none do mind except those having understanding' is further
 proof that this meaning is intended - namely that this vast and noble
 secret is only known, as is fitting, to those of His slaves who have
-understanding.  
-    
- Thus, having demonstrated that the stations of the people of *haqiqah*
+understanding.
+
+Thus, having demonstrated that the stations of the people of *haqiqah*
 are higher than the people of *tariqah* and *shari\`ah* in all respects,
 let us begin with our study of the third aspect, which is a description
 of how the divine code is dependent upon the intellect and how the
@@ -1509,17 +1507,17 @@ Judgment: \`Our Lord! Show us those who led us astray from among the
 jinn and the men that we may trample them under our feet so that they
 may be of the lowest.' There are many examples of this nature in the
 Qur'an ‑ and Allah is more knowing and of greater wisdom. He it is Who
-declares the Truth and Who guides to the right path.  
-  
+declares the Truth and Who guides to the right path.
+
 
 3) The Third Aspect
 -------------------
 
- **The Third Aspect: the need of the intellect for the divine code of
+**The Third Aspect: the need of the intellect for the divine code of
 laws and the dependence of the latter on the intellect**
 
-   
- Know that this study necessitates a passage of introduction, namely a
+
+Know that this study necessitates a passage of introduction, namely a
 description of how all the prophets and intimate friends or saints are
 doctors of the self and healers of the heart, in the same way as the
 doctors and physicians are all healers of the ailments of the human
@@ -1538,9 +1536,9 @@ illness. Likewise, it is knowledge of the methods of maintaining good
 health and even temperament and prevention of further "infection" with
 this disease.' We read too of the spiritual doctor in similar terms:
 \`The spiritual doctor is the shaykh, the person who has gnosis of the
-treatment and who is capable of giving guidance and perfection.'  
-    
- As we have already seen, it has also been said: \`The shaykh is the
+treatment and who is capable of giving guidance and perfection.'
+
+As we have already seen, it has also been said: \`The shaykh is the
 perfect man with regard to the *shari\`ah,* the *tariqah* and the
 *haqiqah,* having reached the limits of perfection in each by his
 knowledge of the diseases and illnesses of the self and the
@@ -1582,9 +1580,9 @@ refers to this when He says, with respect to the Prophet Muhammad: \`But
 no! By your Lord! They do not believe (in reality) until they make you a
 judge of that which has become a matter of disagreement among them, and
 then do not find any straightness in their hearts as to what you have
-decided and submit with entire submission.'  
-    
- Our aim in this introductory study is to demonstrate to the reader the
+decided and submit with entire submission.'
+
+Our aim in this introductory study is to demonstrate to the reader the
 truth and validity of the principles and precepts out­lined herewith,
 with particular regard to the *shari\`ah, tariqah* and *haqiqah.* We
 also wish to show how each level is just as it should be, and that no
@@ -1597,9 +1595,9 @@ their intellects are the most perfect of intellects, just as their souls
 are the most perfect of souls: there is manifestly a great distance
 between the two and whoever denies this is in sheer folly and in haughty
 disregard of his intellect. We are not, however, addressing such
-persons.  
-    
- The situation is similar with regard to the body of the narrated
+persons.
+
+The situation is similar with regard to the body of the narrated
 traditions: it is not possible that one can have heard or understood all
 the traditions which exist. By the nature of things we do not become
 aware of many of the traditions and we thus cannot be expected to
@@ -1644,9 +1642,9 @@ their substance and inner reality. There is nothing in the divine code
 which is contrary to the intellect and, on investigation, one realizes
 that the whole system of legal duties and ordinances with all its
 details and ramifications is based on the intellect and is within the
-true grasp of the thinking man.  
-    
- Indeed, all the workings of existence are based on the intellect and
+true grasp of the thinking man.
+
+Indeed, all the workings of existence are based on the intellect and
 the understanding of the man of intellect: it was within these
 parameters that existence came into being and so will it end with the
 annihilation of existence. Thus it has been said: \`Glory to the One Who
@@ -1656,9 +1654,9 @@ Prophet: \`The first thing which Allah created was the intellect. He
 thereupon said to it: "Come closer" and it came closer. He then said:
 "Go back" and it went back.. He then said: "By My power and My glory, I
 have not created any creation more beloved to Me than you: By you I take
-and by you I give, by you I reward and by you I punish." '  
-    
- The likeness of the divine code and the intellect and the depen­dence
+and by you I give, by you I reward and by you I punish." '
+
+The likeness of the divine code and the intellect and the depen­dence
 of each on the other is also the likeness of the soul and the body and
 the dependence of each on the other: I mean by this that just as the
 workings of the soul and the manifestation of its attributes and
@@ -1666,20 +1664,20 @@ perfections is not possible except by means of the body (by way of its
 physical strength and the various limbs), so the workings of the divine
 code and the manifestations of its various levels are not possible
 except by means of the intellect and by means of the different levels
-and stations of the intellect.  
-    
- The different levels of the intellect comprise what is called the
+and stations of the intellect.
+
+The different levels of the intellect comprise what is called the
 material intellect, the intellect of action, the faculty of intellect,
 and the acquiring intellect. The whole of the divine code is based on
 these different levels: the first and the second are the levels of the
 common people, the third is that of the elite, and the fourth that of
-the elite of the elite from amongst the prophets and saints.  
-    
- The object of this study is to show that the divine code is not
+the elite of the elite from amongst the prophets and saints.
+
+The object of this study is to show that the divine code is not
 independent of the intellect, nor the intellect independent of the
 divine code. Most scholars, gnostics and philosophers, among them the
 perfect shaykh Abu'l‑Qasim al‑Husayn ibn Muhammad al‑Raghib al‑Isfahani,
-agree with this. In his book *Tafsil al* *­Nash'atayn fi* *tahsil
+agree with this. In his book *Tafsil al ­Nash'atayn fi* *tahsil
 al‑sa\`adatayn,'* Shaykh Raghib mentions this subject in detail saying:
 \`Know that the intellect never guides except by the divine code and
 that the divine code will never be understood except by the intellect.'
@@ -1701,9 +1699,9 @@ Light upon light.' What is referred to in the latter portion of the
 divine code ‑ for the former will not shine without the latter. Besides,
 the divine code is the intellect from without and the intellect is the
 divine code from within: indeed the two are mutually supportive,
-in­deed, united.  
-    
- As the divine code is the intellect in its outward aspect, so Allah has
+in­deed, united.
+
+As the divine code is the intellect in its outward aspect, so Allah has
 stripped the name intellect from the disbeliever on[^2] more than one
 occasion in the Qur'an, like, for example, when He says: \`Deaf, dumb
 (and) blind, so they do not understand.' As the intellect is the divine
@@ -1722,9 +1720,9 @@ detail all aspects of belief and worship; likewise, if the divine code
 is missing, then the intellect is incapable of dealing with many of the
 details of belief and worship. This is because the divine code is as the
 eye and the intellect as the light or vice‑versa: neither of the two can
-do without the other.  
-    
- One should realize too that the intellect of itself is hardly enough:
+do without the other.
+
+One should realize too that the intellect of itself is hardly enough:
 it can perceive the universality of things, but it cannot cope with the
 details. It realizes the benefit of belief in the truth, in speaking the
 truth, in behaving well towards others, in acting justly, in being
@@ -1752,9 +1750,9 @@ communications before we met disgrace and shame." On another occasion
 Allah refers to the intellect and the divine code in terms of grace and
 mercy: \`And were it not for the grace of Allah upon you and His mercy,
 you would have certainly followed Satan, save a few' ‑ by the word
-\`few' Allah is indicating the elite.  
-    
- As we have already seen, Allah shows that a person who does not devote
+\`few' Allah is indicating the elite.
+
+As we have already seen, Allah shows that a person who does not devote
 himself to the divine code and worship of His Lord is neither a true man
 nor a person of intellect ‑ if he is called a man, he is supposed to be
 a thinking person. Shaykh Raghib has said that \`man, because of his
@@ -1773,9 +1771,9 @@ thereby worships his Lord: it was for this very purpose that he was
 created. Allah says, \`And I have not created the jinn and the men
 except that they should serve Me' and \`And they were not enjoined
 anything except that they should serve Allah, being sincere to Him in
-obedience, upright, and keep up the prayer and pay the poor‑rate.'  
-    
- Anything which has been brought into existence for a specific task is
+obedience, upright, and keep up the prayer and pay the poor‑rate.'
+
+Anything which has been brought into existence for a specific task is
 as if in a state of non‑existence if it does not fulfill that specific
 task. Thus, in a similar way, people discard a thing's very name if that
 thing is not fulfilling the function for which it was created. When they
@@ -1815,9 +1813,9 @@ is attained only through knowledge of the Qur'an. Allah demonstrates
 these meanings in a particular order and leaves out the joining word
 \`and' in between, making each phrase take the place of the one
 preceding it. Thus the words indicate a certain progression and are not
-merely placed one after the other as mere additional information.  
-    
- Again, in order to emphasize this point, we would repeat that man
+merely placed one after the other as mere additional information.
+
+Again, in order to emphasize this point, we would repeat that man
 cannot be considered to be a man as long as he has no knowledge of the
 various acts of worship required of him, and his speech is not
 considered speech unless his words are uttered in accordance with the
@@ -1840,9 +1838,9 @@ meaning. In short, if a wise person uses a word of praise, it is
 understood as such, although the word may either be used to describe
 something praiseworthy or despicable, for example, if someone says
 someone is well‑known, it can carry either a positive or a pejorative
-implication depending on the circumstances.  
-    
- Thus it might be said that everything is described or praised in terms
+implication depending on the circumstances.
+
+Thus it might be said that everything is described or praised in terms
 which are related to the nature of that thing or its kind; it is said,
 for example, \`such and such a person is a human‑being' or \`this sword
 is a sword:' In an analogous manner it is said that the absolute human
@@ -1870,13 +1868,13 @@ shining radiance which lights up the way for him; he travels along that
 way, propelled from gate to gate until he reaches the gate of peace and
 the abode of rest; his step is firm and his body is tranquil, enclosed
 in safety and ease ‑ and this by virtue of how he has used his heart and
-satisfied his Lord.'  
-    
- Examples such as these are many and the reader is advised to research
+satisfied his Lord.'
+
+Examples such as these are many and the reader is advised to research
 the matter in the appropriate books ‑ and Allah is more Knowing and
-Wise; He it is who declares the Truth and guides to, the right path.  
-    
- Thus we conclude our investigation of the *shari\`ah, tariqah* and
+Wise; He it is who declares the Truth and guides to, the right path.
+
+Thus we conclude our investigation of the *shari\`ah, tariqah* and
 *haqiqah.* and the need of the intellect for the divine code and the
 need of the divine code for the intellect; we have treated the matter in
 such detail and depth as befits a matter of such impor­tance. We shall
@@ -1886,8 +1884,8 @@ cannot be completed in a fitting matter except by recourse to this third
 domain of investigation which is concerned with what may be called the
 two principles and the two rules. The first principle concerns the
 general duty incum­bent upon the prophets, the messengers and the saints
-which is the duty to instruct and guide creation to the straight path.  
-  
+which is the duty to instruct and guide creation to the straight path.
+
 
 4) The First Principle
 ----------------------
@@ -1896,8 +1894,8 @@ which is the duty to instruct and guide creation to the straight path.
 messengers in their instruction and guidance of mankind to the straight
 path**
 
-   
- Know that the general precepts and the body of laws established by the
+
+Know that the general precepts and the body of laws established by the
 prophets, messengers, saints and Imams from Adam him­self to our Prophet
 Muhammad and from the latter to the Mahdi are the means of conveying
 every man to his own particular state of perfection in accordance with
@@ -1936,9 +1934,9 @@ creation: in truth, all the prophets and messengers of the visible and
 invisible worlds were my caliphs, my vicegerents and manifestations of
 my own manifestation.' The Prophet has also said, \`Adam and those after
 him are beneath my banner' and \`I was a Prophet when Adam was between
-the water and clay.'  
-    
- At this point there is need for an introductory discourse in order to
+the water and clay.'
+
+At this point there is need for an introductory discourse in order to
 explain what is meant by these notions in rational terms; thereafter, we
 will return to our original subject. One should realize that the
 speaking or rational self possesses two powers of knowledge and action
@@ -1951,24 +1949,24 @@ path, namely, the path which leads to attainment of these knowledges
 without caus­ing confusion or doubt with regard to one's belief and
 without, causing one to go astray through error. It is concerned too
 with the blessings of Allah, despite their boundless, basically
-incom­prehensible nature.  
-    
- There are different degrees of perfection with regard to the intellect
+incom­prehensible nature.
+
+There are different degrees of perfection with regard to the intellect
 and its knowledge. The highest of these is the level of certainty in
 belief within the domain of religious fundamentals: anyone who reaches
 this level is released from eternal torment and achieves eternal
-blessing and riches.  
-    
- It should be realized from this that Allah acts according to a specific
+blessing and riches.
+
+It should be realized from this that Allah acts according to a specific
 purpose and not in jest, may He be exalted high above any such notion.
 We know that Allah has no such frivolous intent since it is impossible
 to impute frivolity to Him: the Qur'an speaks of this saying, \`And were
 it not for Allah's repelling some (bad) men with others (who are good),
 the earth would certainly be in a state of disorder' and also, \`And We
 did not create the heaven and the earth and what is between them for
-sport.'  
-    
- Now we should pause to reflect upon two matters: the first is that lutf
+sport.'
+
+Now we should pause to reflect upon two matters: the first is that lutf
 or divine grace and kindness is obligatory on Allah; likewise, the
 dutiful Muslim is closest in obedience as long as he himself possesses
 kindness, since kindness is related to His wisdom, generosity and mercy.
@@ -1986,9 +1984,9 @@ is in this way that such things are \`obligatory on Allah', that is,
 when we ourselves con­sider the matter rationally for His action cannot
 be at odds with His overall purpose. This is the very meaning of Allah's
 words when He says, \`And I have not created the jinn and the men except
-that they should serve Me.'  
-    
- The second point is the fact that Allah has created desires in man and
+that they should serve Me.'
+
+The second point is the fact that Allah has created desires in man and
 has enabled him to fulfill these desires. The intellects of many men do
 not discriminate between what is good and what is bad behaviour; since
 ignorance reigns over most of them, this also facilitates bad behaviour
@@ -2004,16 +2002,16 @@ obligatory on Allah in the sense that if He were not to act in this way,
 then He would be abandoning good action and committing bad action, and
 the two are both impossible with respect to Allah: He is of necessity
 kind and concerned for His slaves since to forego this kindness and
-concern would cause them to become corrupt in their actions.  
-    
- It is absolutely necessary that we become fully acquainted with this
+concern would cause them to become corrupt in their actions.
+
+It is absolutely necessary that we become fully acquainted with this
 kind of knowledge for it forms the basis of our present investigation.
 Most of this knowledge is contained in the body of reported traditions,
 in the books of the people of the outward and scholars of the Prophetic
 narrations, and is in complete accord with the aims of the people of the
-inward.  
-    
- We shall now return to our original subject. Know, therefore, that
+inward.
+
+We shall now return to our original subject. Know, therefore, that
 perfection and deficiency with respect to each individual being and each
 kind will be explained to the reader in its proper place. As for
 absolute perfection, it is found in gnosis of Allah and in the
@@ -2044,15 +2042,15 @@ of laws. Likewise, anyone who acts correctly, in accordance with the
 above‑men­tioned roots and branches of the religion, is also carrying
 out the totality of Allah's commands and prohibitions and attains
 thereby his own specific perfection in accordance with his own
-capacity.  
-    
- Allah's purpose in all this is attainment of the ultimate aim inherent
+capacity.
+
+Allah's purpose in all this is attainment of the ultimate aim inherent
 in His creation and His imposition of the code of duties (known as the
 *shari\`ah ).* None of this has been done in jest and without design ‑
 for this would be incompatible with the perfection and wisdom of Allah;
-indeed, it would be an impossibility as we have shown above.  
-    
- Just as all people are contained within the three different levels,
+indeed, it would be an impossibility as we have shown above.
+
+Just as all people are contained within the three different levels,
 namely the beginning, the middle and the end, so their different levels
 of instruction and guidance are all contained within the three levels of
 *shari\`ah, tariqah* and *haqiqah.* With respect to the essences and
@@ -2062,9 +2060,9 @@ Allah for His creation demands a harmonious system which allows each
 element to be brought to its own specific perfection. Such a system
 permits the raising of each element out of its state of imperfection; by
 means of the force and vigor inherent in each element, it then manifests
-(in that subsequent form).  
-    
- Thus the demands and imposition (made by Allah on His slaves) vary
+(in that subsequent form).
+
+Thus the demands and imposition (made by Allah on His slaves) vary
 according to each group or rather according to each species or
 individual ‑ despite the fact that as a whole they are governed by one
 law. The duties of each of the above‑men­tioned groups differ from each
@@ -2073,7 +2071,7 @@ the pillars and funda­mental principles of the religion. By this I mean
 that the duties and knowledge of the state of perfection of the people
 of *shari\`ah* are different from those of the people of *tariqah.*
 
- Similarly, the state of perfection and the knowledge of the people of
+Similarly, the state of perfection and the knowledge of the people of
 *haqiqah* are different from those of the people of *tariqah.* The
 reader will become aware of this when reading the detailed description
 of each of the three groups; he will see how one is superior to the
@@ -2116,9 +2114,9 @@ responsible for transmitting these duties by means of the revelation or
 divine inspiration; they convey these duties to those of Allah's slaves
 upon whom such duties are incumbent. Thus Allah says, \`And if We had
 made him an angel, We would certainly have made him a man, and we would
-certainly have made confused to them what they make confused.'  
-    
- The prophets and the messengers are the original recipients of Allah's
+certainly have made confused to them what they make confused.'
+
+The prophets and the messengers are the original recipients of Allah's
 message, and the saints and the spiritual inheritors follow behind and
 continue the task begun by the former. Allah refers to this when He
 says: \`Surely We have revealed to you as We revealed to Noah, and the
@@ -2129,9 +2127,9 @@ mentioned before and apostles We have not mentioned to you; and to Moses
 Allah addressed His word, speaking (to him): (We sent) apostles as the
 givers of good news and as warners, so that people should not have a
 plea against Allah after (the coming of) the apostles; and Allah is
-Mighty, Wise.'  
-    
- One might remark that this is an explanation of the reason for the need
+Mighty, Wise.'
+
+One might remark that this is an explanation of the reason for the need
 of a group of persons who provide a link between Allah and His creation
 and who transmit the duties incumbent upon the latter, and that it is
 not a description of the particular qualities of the group which makes
@@ -2139,9 +2137,9 @@ them suitable for such a task. However, this question will be explained
 after our discourse which shows how they take on Allah's qualities ‑
 referred to when He says, \`I become his hearing, his sight, his tongue
 and his arm' and \`You did not smite when you smote (the enemy) but it
-was Allah Who smote.'  
-    
- One might ask who obtained this essential relationship for them or,
+was Allah Who smote.'
+
+One might ask who obtained this essential relationship for them or,
 indeed, in what manner it came about. We would reply that there are two
 aspects to the answer. The first aspect is from the point of view of the
 people of the *shari\`ah* and the outward, namely that this special
@@ -2167,9 +2165,9 @@ secrets attached to this subject are known only to the scholars of these
 sciences. We have in fact clarified the majority of these matters in the
 opening chapters of this work: they concern the stations of knowledge
 which the prophets, the spiritual guardians and the saints have warned
-against divulging and these stations are among the secrets of destiny.  
-    
- The Sultan of the Saints and Gnostics, the Commander of the Faithful,
+against divulging and these stations are among the secrets of destiny.
+
+The Sultan of the Saints and Gnostics, the Commander of the Faithful,
 says the following about destiny and Allah's decree: \`Destiny is one of
 the secrets which are guarded and protected by Allah, which are raised
 high behind the veil of Allah, hidden from creation and sealed with the
@@ -2186,9 +2184,9 @@ anyone catch sight of it but by the One on Whom all depend; whoever
 attempts to see it is setting himself up as a rival to Allah in His
 wisdom, is challenging His sovereignty and is threatening to reveal His
 secret: He indeed becomes deserving of Allah's wrath, and his abode is
-hell; and an evil destination shall it be.'  
-    
- There is nothing more to be added to this ‑ and how could it be
+hell; and an evil destination shall it be.'
+
+There is nothing more to be added to this ‑ and how could it be
 otherwise since these words are spoken by the Lord of the Friends of
 Allah, the Seal of the Spiritual Guardians, by he who encompasses all
 their stations and by he who gives them these stations in the world of
@@ -2199,9 +2197,9 @@ obligation upon Allah to appoint such persons and single them out for
 special treatment, in accordance with His knowledge and wisdom; this is
 emphasized by His words, \`Surely We purified them by a pure quality,
 the keeping in mind of the (final) abode. And most surely they were with
-Us, of the elect, the best.'  
-    
- We should now examine the actual relationship between them and the Real
+Us, of the elect, the best.'
+
+We should now examine the actual relationship between them and the Real
 on the one hand, and between Him and the creation on the other. As for
 the first, it has two aspects: that with regard to the intellect and
 that with regard to the revelation of the Qur'an and the body of
@@ -2275,9 +2273,9 @@ of any angel or Gabriel. It has been narrated that Allah revealed thirty
 thousand secrets in an hour or less. Gabriel says of this station, \`If
 I had stretched out the tips of my fingers they would have burned;' this
 is an indication of the nobility of man and his superiority over the
-angels and other creatures.  
-    
- If we consider the matter with respect to the Truth, the Real Himself
+angels and other creatures.
+
+If we consider the matter with respect to the Truth, the Real Himself
 rather than the messengers, then the following ayah suf­fices: \`So when
 I made him (man) complete and. breathed into him of My spirit, (the
 angels) fell down making obeisance of him.' These words indicate two
@@ -2307,9 +2305,9 @@ attainment of the station of realization through all and not just some
 of the Divine Names. There are numerous works on this matter by past and
 latter‑day Mu'tazilite and Ash'arite scholars of the science of divine
 unity; this is not however the moment to elabo­rate on this subject and
-the reader is advised to make further investigations of his own.  
-    
- As for the second part of our investigation, namely with respect to the
+the reader is advised to make further investigations of his own.
+
+As for the second part of our investigation, namely with respect to the
 Qur'an and the narrated body of traditions, then we should refer to the
 words of Allah: \`Then Allah will bring a people, He shall love them and
 they shall love Him, modest before the believ­ers, mighty against the
@@ -2326,9 +2324,9 @@ by the most intimate of angels nor the messengers sent to man' refer to
 this. Such a station is evidently only possible after the annihilation
 of his qualities in those of the Lord and the annihilation of his
 existence in His existence, like the merging of a drop of water in the
-sea or a lump of ice in water.  
-    
- If the nature of these different aspects of the relationship with the
+sea or a lump of ice in water.
+
+If the nature of these different aspects of the relationship with the
 divine are still unclear to the reader, then we shall give another
 example which will clarify this matter beyond any doubt. It is the
 likeness of fire: fire is light, illuminating and transparent; it may be
@@ -2345,9 +2343,9 @@ me in a dream has truly seen me,' and the words of one of the *awliya'*
 who said: \`Praise! for how vast is my affair!' and the words of
 another: \`I am the Truth' and \`I am from my Passion and my Passion am
 I ‑ we strike such likeness for the people but only the knowledgeable
-comprehend them.'  
-    
- Up to this point we have been considering the relationship established
+comprehend them.'
+
+Up to this point we have been considering the relationship established
 between the prophets and the Real, may He be exalted. We shall now
 consider the relationship which is estab­lished between the prophets and
 creation. This relationship may also be considered from two angles,
@@ -2363,26 +2361,26 @@ Necessary (of existence) and the possible (of existence). Moreover, the
 Necessary of Existence is by common accord one, that is, the One; there
 remains, therefore, only the possible. As scholars of this science are
 well aware all possible things are alike, both with regard to their
-essences and substances.  
-    
- As for the consideration of the relationship of the Prophet with
+essences and substances.
+
+As for the consideration of the relationship of the Prophet with
 creation, with regard to the Qur'an and the narrated traditions, then we
 should keep in mind the words of Allah: \`I am a mortal like you, it is
 revealed to me that your god is one God' and His words: \`What is the
 matter with this Apostle that he eats food and goes around in the
 market.' Both these verses indicate the human aspect of the Prophet; his
 relationship to creation is based on human qualities and natural
-patterns of behaviour.  
-    
- Know too that there is also a relationship between them and the angels
+patterns of behaviour.
+
+Know too that there is also a relationship between them and the angels
 and likewise a relationship between Allah and the angels. The following
 words of Allah refer to it in a general way: \`(As for) those who say:
 Our Lord is Allah, then continue in the right way, the angels descend
 upon them', and again in a more particular way: \`The Lord of Mighty
 Power has taught him, the Lord of Strength', and likewise the words:
-\`The Faithful Spirit has descended with it upon your heart.'  
-    
- As for the relationship between Allah and the angels, it is established
+\`The Faithful Spirit has descended with it upon your heart.'
+
+As for the relationship between Allah and the angels, it is established
 by their elevation above the baseness of corporeal realities and the
 natural abjectness of animals. This is de­monstrated in Allah's words
 when He says of them, \`We celeb­rate Thy praise and extol Thy
@@ -2407,9 +2405,9 @@ saying, \`Read and your Lord is Most Honourable, Who taught (to write)
 with the pen, taught man what he knew not' and also when he says, \`The
 Beneficent God, taught the Qur'an, He created man, taught him the mode
 of expression.' There are many other examples with respect to this
-subject; and Allah is More Knowing and More Wise.  
-    
- As for the second matter, it concerns their not being overbur­dened by
+subject; and Allah is More Knowing and More Wise.
+
+As for the second matter, it concerns their not being overbur­dened by
 their duties, given the honour and nobility of their standing. There are
 also two aspects to this matter. The first concerns their capacity which
 is theirs from before eternity and which has been acquired through no
@@ -2419,9 +2417,9 @@ already gone forth from Us, they shall be kept far off from it (the
 torment of hell)' and His words: \`This is Our free gift, therefore give
 freely or withhold, without reckoning' and His words: \`That is the
 grace of Allah: He gives it to Whom He pleases, and Allah is the Lord of
-Mighty Grace.'  
-    
- The second aspect of this matter concerns the intensity of their
+Mighty Grace.'
+
+The second aspect of this matter concerns the intensity of their
 striving and their exercise of physical and spiritual restraint in the
 performance of their acts of worship and in their seeking after the
 satisfaction of Allah. This is expressed in Allah's words: \`And whoever
@@ -2442,9 +2440,9 @@ from the books (that were revealed to them) and a more general picture
 is available from the Qur'an. Muslim scholars know that the Qur'an is
 the best witness and the best proof of the veracity (of a story) ‑ and
 may Allah suffice as a witness; He it is Who says the truth and guides
-to the correct path.  
-    
- Although there are many other areas of investigation let us content
+to the correct path.
+
+Although there are many other areas of investigation let us content
 ourselves with the point we have arrived at so far and begin now to
 consider the second principle. This second principle is concerned with
 Allah's designation of a (certain) perfection for each being and with
@@ -2452,19 +2450,19 @@ the development and progression of this being with respect to the realm
 of form and to the realm of inner meaning and in accordance with their
 station of perfection.
 
- 
+
 
 5) The Second Principle
 -----------------------
 
- 
+
 
 **The Second Principle:** **Allah's designation of a specific perfection
-to each existing thing whether spiritual or corporeal** **‑ in both the
+to each existing thing whether spiritual or corporeal ‑ in both the
 phenomenal realm and the realm of inner meaning.**
 
-   
- Know that the search after perfection is not a feature particular to
+
+Know that the search after perfection is not a feature particular to
 man alone, but rather of all existent and created beings, be they of a
 sublime or base nature: they are all making for the object of their
 \`search'; both the Qur'an, the traditions and the conclusions of the
@@ -2487,9 +2485,9 @@ worship in accordance with their receptivity and capability. The first
 heavens and the earth and all that is between them, the third refers to
 all specific beings, and the fourth refers to all beings in an absolute
 way. Thus all are facing and moving towards Allah, engaged in a search
-for gnosis of Him.  
-    
- The obeisance and prayer referred to in these *ayat* carry the meaning
+for gnosis of Him.
+
+The obeisance and prayer referred to in these *ayat* carry the meaning
 of worship and gnosis ‑ and not the prayer which is familiar to us in
 the code of the *shari\`ah.* Likewise, their prayer and glorification
 are not like the praise and glorification of man; if they were, then we
@@ -2522,9 +2520,9 @@ individual soul of man is the caliph (or deputy) of Allah in the body
 and the absolute soul of man is the caliph of Allah in the world. As
 Allah Himself says, \`Whoever obeys the Apostle, he indeed obeys Allah'
 and \`And as for these examples, We set them forth for men, and none
-understands them but the learned!'  
-    
- In connection with the above, we should mention what has been related
+understands them but the learned!'
+
+In connection with the above, we should mention what has been related
 by one of the Imams, namely that true gratitude is the employment of
 each limb of the body for that for which it has been created. It has
 also been said, \`Every existent being, be it of a sublime or base
@@ -2542,9 +2540,9 @@ eternity to eternity. Thus one of the gnostics has commented on this
 matter saying: \`Whoever opposes the decree of Allah is not in fact
 opposing Him, and whoever opposes Him in that purpose for which he has
 designated is in fact in compliance with the general form in which Allah
-created him.'  
-    
- The Commander of the Faithful has also indicated this in one of his
+created him.'
+
+The Commander of the Faithful has also indicated this in one of his
 sermons concerning Adam and his progeny: \`And Allah brought him to
 reside in His garden and made his food plentiful for him therein. He
 then warned him concerning that which He had prohibited: He taught him
@@ -2564,9 +2562,9 @@ ease and benefit; whoever ignores this or doubts its validity is of
 those who work hardest towards their own harm. Thus many a time it
 happens that blessings are given to him, and great ease and affluence is
 accorded to him (despite the obstinacy of the person), and many a time
-he is tried and afflicted by care.  
-    
- Thus, O you who enjoy your benefits, increase your thanks, rest­rain
+he is tried and afflicted by care.
+
+Thus, O you who enjoy your benefits, increase your thanks, rest­rain
 your haste and be content when your provision comes to an end.' The
 Prophet is reported to have said, in a similar vein; \`The pen has dried
 and with it (has been written) whatever exists in the cosmos' and \`The
@@ -2586,9 +2584,9 @@ Divine Decree; it is forbidden to divulge this Divine Decree as we have
 already seen from one of the most excellent and pertinent of traditions
 on the subject, namely that of the Commander of the Faithful mentioned
 above. It is incumbent upon the reader to reflect upon its meanings and
-take note of the secrets hidden therein.  
-    
- Know that just as it may be ascertained that every existent being has
+take note of the secrets hidden therein.
+
+Know that just as it may be ascertained that every existent being has
 its own form of prayer, praise and prostration, so it may also be
 ascertained that every existent being has life, speech and knowledge ‑
 which in fact are expressions of the different degrees of perfection
@@ -2604,9 +2602,9 @@ single thing but glorifies Him with His praise.' Glorification of
 something is naturally preceded by knowledge of that thing:
 glorification with­out knowledge of what one is glorifying is impossible
 ‑ whether this knowledge be inherent in man's faculty or whether it be
-acquired.  
-    
- As for the superficial life: it has been established that each existent
+acquired.
+
+As for the superficial life: it has been established that each existent
 being possesses life of itself and the following words of Allah testify
 to this: \`And We have made from water every living thing.' Moreover, it
 is one of the elements of the phenomenal world, for the elements and
@@ -2623,9 +2621,9 @@ action.' In short, everything possesses life in accordance with its
 state. One may, if one wishes, call this (condition of life) knowledge
 of gnosis, or, if one wishes, elemental water or, if one wishes,
 universal matter: there is no dispute as to the general applicability of
-these terms.  
-    
- As for speech, there is superficial or apparent speech, and true
+these terms.
+
+As for speech, there is superficial or apparent speech, and true
 speech. Apparent speech is referred to by Allah when He says, \`Allah,
 Who makes everything speak, has made us speak' and by the Prophet when
 he says, \`Everything on earth, both green and dry, bears witness to the
@@ -2646,9 +2644,9 @@ essence of anything and of the Essence of the Creator of that thing is
 true speech. Besides, the proof that they know and glorify Him is that
 if they did not know Him, they would not be able to glorify Him ‑
 something about which one is ignorant can never the praised or glorified
-by anyone.  
-    
- As for gnosis, there is likewise real gnosis and apparent gnosis; I
+by anyone.
+
+As for gnosis, there is likewise real gnosis and apparent gnosis; I
 mean by this an inherent or naturally created gnosis, on the one hand,
 and an acquired or sought‑after gnosis, on the other. Inherent or real
 gnosis is referred to in the following *ayah:* \`And should you ask them
@@ -2669,9 +2667,9 @@ This is also indicated in another *ayah:* \`He has made it in two
 kinds', the two kinds referring to the male and the female. As for the
 state­ment of the one who said: \`In everything there is an *ayah* ‑ or
 a sign ‑ of Him which demonstrates His Oneness', it also de­monstrates
-the validity of this explanation of inherent or created gnosis.  
-    
- Acquired or manifest gnosis is something which is particular to men,
+the validity of this explanation of inherent or created gnosis.
+
+Acquired or manifest gnosis is something which is particular to men,
 angels and jinn ‑ notwithstanding their inherent gnosis which precedes
 it. It has been established by the people of Allah, and supported by a
 consensus of opinion from amongst most of the men of intellect, that
@@ -2682,20 +2680,20 @@ love them and they shall love Him' and also His words: \`Thus I desired
 to be known.' We realize, on investigation, that the true Loved One is
 only Allah and those who love Him are all things other than Him ‑
 including thus the mineral, vegetable and animal realms and men, jinn
-and angels. This is expressed in the follow­ing verse:  
-    
- The goodness of each elegant thing is derived from His beauty,  
- A beauty which is loaned to it and to all charming things  
-    
- and also in the following:  
-    
- Allow your heart to pursue its desire as it wishes,  
- for love is nothing but for the First Lover.  
-    
- Thus it is true to say that all things feel love for Him and are facing
-and moving towards His Presence.  
-    
- On examination, we realize that the one loved and those who love, the
+and angels. This is expressed in the follow­ing verse:
+
+The goodness of each elegant thing is derived from His beauty,
+A beauty which is loaned to it and to all charming things
+
+and also in the following:
+
+Allow your heart to pursue its desire as it wishes,
+for love is nothing but for the First Lover.
+
+Thus it is true to say that all things feel love for Him and are facing
+and moving towards His Presence.
+
+On examination, we realize that the one loved and those who love, the
 seeker and the sought, the knower and the known are one. Merely
 expressing this principle presupposes otherness, multiplicity and the
 witnessing of something which is not Him and is thus in opposition to
@@ -2706,52 +2704,52 @@ inconceivable to admit of another together with Him ‑ given the Presence
 of His One­ness, His station of Absoluteness and Unity ‑ and secondly,
 that He exists together with His Names, Attributes and Actions and the
 corresponding manifestations of these, expressed as the worlds of the
-phenomenal.  
-    
- With respect to the first it has been said:  
-    
- I was Time itself before the veil was raised.  
- I was a brother to you ‑ indeed a rememberer of you and grateful.  
- So when the night lit up, I realized That You are the remembered,  
- the remembrance and the one who remembers.  
-    
- It has also been said that \`No one loves Allah but Allah and no one
-knows Allah but Allah and no One remembers Allah but Allah.'  
-    
- With respect to the second, it has been said, \`There is nothing in
+phenomenal.
+
+With respect to the first it has been said:
+
+I was Time itself before the veil was raised.
+I was a brother to you ‑ indeed a rememberer of you and grateful.
+So when the night lit up, I realized That You are the remembered,
+the remembrance and the one who remembers.
+
+It has also been said that \`No one loves Allah but Allah and no one
+knows Allah but Allah and no One remembers Allah but Allah.'
+
+With respect to the second, it has been said, \`There is nothing in
 existence except Allah, His Name, Attributes and Actions: thus all is
 Him, by Him, from Him and to Him.' He Himself has said, \`He is the
 First, the Last, the Outward and the Inward, and He is cognizant of all
 things.' He has also said, \`Is it not sufficient as regards your Lord
 that He is a witness over all things? Now surely they are in doubt as to
 the meetings of their Lord; now surely he encompasses all things.' The
-following verse refers to this matter:  
-    
- Your beauty pervades all realities; Indeed it only veils Your majesty.
+following verse refers to this matter:
+
+Your beauty pervades all realities; Indeed it only veils Your majesty.
 It radiates to the universe from behind its veil. And by being covered
-is revealed.  
-    
- It has also been said:  
-    
- My Beloved appeared radiant to me from every aspect And so I witnessed
-Him in every meaning and form.  
-    
- The import of all these words is one and the same, namely the
+is revealed.
+
+It has also been said:
+
+My Beloved appeared radiant to me from every aspect And so I witnessed
+Him in every meaning and form.
+
+The import of all these words is one and the same, namely the
 affirmation that all things contain inherent paths of development and
 specific modes of conduct. We have thus drawn the general outlines of
 this subject and we shall now begin to describe these in a more detailed
-manner.  
-    
- Know that for every existing thing there are two courses of
+manner.
+
+Know that for every existing thing there are two courses of
 development: that of form and that of inner meaning. As for the progress
 and development of form with regard to matter, it ex­tends up to the
 level of the plant world in the form of coral ‑ in the latter we see
 that matter possesses branches and leaves like plants and trees. As for
 its progression in the realm ‑of inner meaning, it becomes, in one way
 or another, part of the human body ‑ I mean, for example, in the form of
-food, drink or potions.  
-    
- Progression in the realm of form in regard to plants extends to the
+food, drink or potions.
+
+Progression in the realm of form in regard to plants extends to the
 level of animals as, for example, in the case of the date‑palm which
 possesses ‑ like animals ‑ a tendency and inclination for reproduction
 with another date palm by the force of the affinity which exists between
@@ -2760,9 +2758,9 @@ relationship to the animal world, namely the fact that it the head of
 the palm is cut, then the tree dies and if it is submerged in water,
 then it also dies, as would animals under similar conditions. As for its
 progression in the realm of inner meaning, it is that it becomes part of
-the human body ‑ by becoming food for ictan, for example.  
-    
- Progression in the world of form in regard to animals extends to the
+the human body ‑ by becoming food for ictan, for example.
+
+Progression in the world of form in regard to animals extends to the
 level of man and acquires the faculty of speech as, for example, in the
 case of the monkey or the parrot. As for the progression in the realm of
 inner meaning, it is that it becomes part of the body of man by one
@@ -2779,9 +2777,9 @@ is in the earth subservient to you.' Yet a clearer indication of this
 meaning is expressed in the words ad­dressed by Allah to the Prophet:
 \`If it were not for you, I would not have created the planets' and here
 what is being referred to, is the whole cosmic system and all contained
-therein.  
-    
- As for the progression of man in the realm of form, it is that he
+therein.
+
+As for the progression of man in the realm of form, it is that he
 becomes angelic, thereby acquiring purification and elevation above the
 outer form which clothes him and above the baser aspects of his sensory
 natural attributes. As for his progression with respect to the inner
@@ -2789,9 +2787,9 @@ meaning, it is that he attains to the rank of prophethood, messengership
 and sainthood, arriving thereby to the station of Pure Oneness, which is
 the elimination of duality and multiplicity leading to the all‑embracing
 unity referred to by Allah when He says, \`Then he drew near, then he
-bowed, so he was the measure of two bows or closer still.'  
-    
- As for the progression in the realm of form with respect to the jinn,
+bowed, so he was the measure of two bows or closer still.'
+
+As for the progression in the realm of form with respect to the jinn,
 it is that they attain to an angelic rank by rising above the earthly
 and by their glorification of Him. Most people believe that the jinn are
 earthly angels and that they are called jinn because they are hidden
@@ -2806,9 +2804,9 @@ they believe in the code of the shari \`ah and the Qur'an; this is
 expressed in the Qur'an itself \`Say it has been revealed to me that a
 party of the jinn listened and they said: "Surely we have heard a
 wonderful Qur'an, guiding to the right way, so we believe in it and we
-will not set up anyone with our Lord" '.  
-    
- As for the development in the realm of form in regard to the angels,
+will not set up anyone with our Lord" '.
+
+As for the development in the realm of form in regard to the angels,
 they attain to the rank of proximity, of glorification of Allah and
 holiness. They reach the rank of cherubim by Allah's raising them above
 the rest of the angels; in this way He separates one particular kind of
@@ -2823,9 +2821,9 @@ the tips of my fingers extended I would certainly have burnt them.' It
 is for this reason that the gnostic believes man to be greater and
 nobler than the angels: the angels have no share in the develop­ment
 which is particular to man, indeed, they have never tasted of man's
-secret in this respect.  
-    
- We have now come to the end of our study of the various ranks of
+secret in this respect.
+
+We have now come to the end of our study of the various ranks of
 perfection with respect to each existent being, both of the highest and
 lowest orders of creation. If you have understood this science and have
 realized that man's perfection is of a higher and more noble rank than
@@ -2839,7 +2837,7 @@ you the truth and admonition and a reminder to the believers;' and Allah
 is more Knowing and more Wise, He it is Who says the truth and guides to
 the correct path.
 
- 
+
 
 [^1]: The text of the copy in my possession as well those copies in the
 Mar'ashi and Consultative Assembly Libraries were all interrupted here;

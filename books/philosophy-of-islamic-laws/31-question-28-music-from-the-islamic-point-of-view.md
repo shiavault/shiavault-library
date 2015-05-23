@@ -13,13 +13,13 @@ blemish.
 They are not ready to study the evil and pernicious effects of music. To
 the extent that the people who are realistic are not content to this
 condition also, and in spite of those things being common they always
-endeavor to understand the reality and are engaged in research.  
- Music from many viewpoints is worth investigation.
+endeavor to understand the reality and are engaged in research.
+Music from many viewpoints is worth investigation.
 
 (1) It causes harm to the physics of human body and leaves a bad effect
 on the nervous system. Keeping these factors in mind a Professor of
-Columbia University, Dr. Wolf Adler says:  
- The best and most fascinating tunes of music leaves the worst kind of
+Columbia University, Dr. Wolf Adler says:
+The best and most fascinating tunes of music leaves the worst kind of
 effects on the nervous system of humans and especially when the climate
 is hot; then the unpleasant effects are too much.
 
@@ -133,9 +133,9 @@ People who are day and night bombarded by songs and music are prone to
 heart failure and brain hemorrhage.
 
 However much is not necessary to show that nerves very soon become
-unserviceable because of continuous excitement.  
- This was one side of the harms of music.  
-    
-  
+unserviceable because of continuous excitement.
+This was one side of the harms of music.
+
+
 
 

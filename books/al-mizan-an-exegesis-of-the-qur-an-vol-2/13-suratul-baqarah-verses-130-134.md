@@ -172,8 +172,8 @@ to him from Allah - the creative matters like the measure and the
 decree, as well as the legislative ones like order and prohibition.
 
 As men differ in degrees of their submission to Divine Decrees or
-legislations, so does their Islam.  
- The first stage of Islam is to accept and obey the exoteric
+legislations, so does their Islam.
+The first stage of Islam is to accept and obey the exoteric
 commandments, orders and prohibitions, by reciting *ash-shahada­tayn* (
 **اَلشَّهَادَتَيْنِ** ) = the two testimonies, that is, testifying to
 the Oneness of God and Messengership of Muhammad, (S), no matter whether
@@ -505,8 +505,8 @@ is like this:
 
 Beware lest the death comes to you and you are not Muslims; always
 remain Muslims; keep on Islam, so that whenever death comes to you, you
-are Muslims.  
- The verse gives a hint that the religion means Islam, as Allah says:
+are Muslims.
+The verse gives a hint that the religion means Islam, as Allah says:
 
 ***Surely the religion with Allah is Islam*** (3:19)***.***
 
@@ -556,8 +556,8 @@ the multitude of people are on its apparent (meaning); and the iman
 characteristic of Islam which is firmly placed in the hearts.” (*ibid.*)
 
 **The author says:** There are other traditions of the same meaning; and
-they explain the above-mentioned first stage of the Islam and Iman*.*  
- al-Barqi has narrated from 'Ali (a.s.) that he said: “Islam is
+they explain the above-mentioned first stage of the Islam and Iman*.*
+al-Barqi has narrated from 'Ali (a.s.) that he said: “Islam is
 submission and submission is conviction.” (*ibid.*)
 
 Kahil said that as-Sadiq (a.s.) said: “If a people worshipped Allah -
@@ -569,8 +569,8 @@ by the Messenger of Allah, 'Why did he not do it in another way?', or
 polytheists because of it...” (*ibid.*)
 
 **The author says:** The foregoing two traditions refer to the third
-stages of the Islam and iman*.*  
- Ad-Daylami narrates in his *al-Irshad -* and he gives two *sanads* for
+stages of the Islam and iman*.*
+Ad-Daylami narrates in his *al-Irshad -* and he gives two *sanads* for
 this *hadith* which is one of the traditions of Ascension - that Allah
 said:
 
@@ -677,8 +677,8 @@ the more difficult it is to protect oneself from its opposite *kufr* or
 *shirk.*
 
 Obviously, a lower stage of the Islam or iman does not exclude the
-possibility of a subtler *kufr* or *shirk.*  
- These two principles should be kept in mind. It follows that the verses
+possibility of a subtler *kufr* or *shirk.*
+These two principles should be kept in mind. It follows that the verses
 of the Qur'an have some esoteric meanings which are applied to the
 situations which its exoteric meanings cannot be applied to. Please keep
 this hint in mind until we explain to you its details.

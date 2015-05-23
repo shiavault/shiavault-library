@@ -321,7 +321,7 @@ Can an American Muslim purchase these insurance shares?
 agreement and general laws are applicable to it) is valid and legal and
 from this aspect there is no difference between this insurance and
 general insurance. Therefore a Muslim can opt for trade insurance and
-also purchase the shares.  
-  
+also purchase the shares.
+
 
 

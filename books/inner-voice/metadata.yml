@@ -1,369 +1,369 @@
 ---
 source: :alislam
-source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi
+source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi
 author: Allamah Sayyid Sa'eed Akhtar Rizvi
 publisher: Bilal Muslim Mission of Tanzania
 title: Inner Voice
 slug: inner-voice
-uuid: f501410e-2fcc-4e5d-b953-1dff94f24539
+uuid: 298c61b3-00c2-4b19-9ae0-1fb7b15bf988
 description: |
   Allamah Sayyid Sa'eed Akhtar Rizvi aptly explains the need for man to
   understand his purpose in life and to be able to ponder over some of the
   important aspects of our journey in reaching nearness to Him.
 chapters:
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/preface
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/preface
   title: Preface
   slug: 1-preface
-  uuid: 197da45b-4aa1-4dd0-8d91-ad3b7514c9c8
+  uuid: f3c6e960-9b46-4a42-bccb-ba978c87aa7e
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/introduction
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/introduction
   title: Introduction
   slug: 2-introduction
-  uuid: b9e5fcc9-21a1-499e-a390-3f33acf74b57
+  uuid: c917ecc0-0318-43d4-875d-f16801e89385
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/know-soul
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/know-soul
   title: Know The Soul
   slug: 3-know-the-soul
-  uuid: 7d8b72f6-bb97-45c5-a0f3-226eb0fab54c
+  uuid: 7bf0465c-2cb9-4873-891c-cfc740f39f8d
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/god-dead
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/god-dead
   title: Is God Dead?
   slug: 4-is-god-dead
-  uuid: 1fcd0ece-ce65-43d1-9341-f16ed3db0c7b
+  uuid: e7e77454-ce6a-429f-b8ec-d4c7ee6702b1
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/unity-god
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/unity-god
   title: Unity of God
   slug: 5-unity-of-god
-  uuid: 1ad35411-c4df-41c1-83b0-3169e8eaa101
+  uuid: 81941a45-3fc6-40a1-9e28-a15c6f06cfbc
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/can-nature-replace-god
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/can-nature-replace-god
   title: Can ‘Nature’ Replace God?
   slug: 6-can-nature-replace-god
-  uuid: e34c3449-7d56-4b50-b805-df65295ab1e1
+  uuid: 9e09eae4-9396-4fea-b443-5f175880f3f1
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/love-and-fear-allah
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/love-and-fear-allah
   title: Love and Fear of Allah
   slug: 7-love-and-fear-of-allah
-  uuid: 57c8436b-33c1-4f58-959c-51b0f09891cf
+  uuid: a96c8995-adad-4824-81a0-e88d492be6fa
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/sinlessness-prophets
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/sinlessness-prophets
   title: Sinlessness of Prophets
   slug: 8-sinlessness-of-prophets
-  uuid: 4b28fc94-863c-450d-a097-fc28ad1abc0a
+  uuid: 05516ca8-4408-4349-9c40-dd189f4e8ec3
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/unique-achievement
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/unique-achievement
   title: Unique Achievement
   slug: 9-unique-achievement
-  uuid: ca086983-0d17-4015-847f-d198c4121976
+  uuid: 6f25d4db-db5e-46cd-b3f3-b5c1f0806ab0
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/aim-life
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/aim-life
   title: Aim of Life
   slug: 10-aim-of-life
-  uuid: a9e7db2b-8eef-4010-b17a-afa15d99babc
+  uuid: d2ded1ad-9246-4fdf-a8d1-5b25c3302417
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/purpose-creation
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/purpose-creation
   title: Purpose of Creation
   slug: 11-purpose-of-creation
-  uuid: 2b37cfab-78a3-4002-ac45-e0792792cd10
+  uuid: e6471bb2-1cea-4445-8c5d-985b936db5a2
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/god-%E2%80%93-mindedness
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/god-mindedness
   title: God – Mindedness
   slug: 12-god-mindedness
-  uuid: abb0090a-8726-48e6-b44c-250dceccd222
+  uuid: b0274983-b30a-4305-95e3-039c126e1e5d
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/trust-god
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/trust-god
   title: Trust in God
   slug: 13-trust-in-god
-  uuid: c70b44bb-6f4d-4daf-8d4f-f019b9ba99d4
+  uuid: 62155ff0-f82a-4922-a5b0-dc3fc1cfdf19
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/thankfulness-allah
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/thankfulness-allah
   title: Thankfulness to Allah
   slug: 14-thankfulness-to-allah
-  uuid: 46f58b88-0978-4c70-bb47-4e5f850120ca
+  uuid: ca5ee1b6-345e-46b0-8350-4446a6566e0a
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/be-god
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/be-god
   title: Be With God
   slug: 15-be-with-god
-  uuid: 9bf728bf-5218-4596-8975-db99f1293176
+  uuid: 40b273ea-bf08-48e4-945c-9d8870828158
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/live-die-allah
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/live-die-allah
   title: Live & Die for Allah
   slug: 16-live-die-for-allah
-  uuid: 1fda8a1e-06f5-425f-8435-74d1f6ff0e35
+  uuid: 7a856fd0-4122-4a2d-a09d-a4f4b0efba8d
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/allahu-akbar
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/allahu-akbar
   title: Allahu Akbar
   slug: 17-allahu-akbar
-  uuid: 95f7a83d-709d-43bc-bb0c-70c05e693ecd
+  uuid: 47d52027-9fa2-4150-be3f-19c0eb647f1c
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/real-fast
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/real-fast
   title: Real Fast
   slug: 18-real-fast
-  uuid: 1794df7b-fd7b-4038-b113-c1ab8a7ec5f1
+  uuid: 9925917c-4776-42b8-8c19-acb9daf6add6
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/fruit-fasting
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/fruit-fasting
   title: Fruit of Fasting
   slug: 19-fruit-of-fasting
-  uuid: 8f0273b8-aa3e-44bc-ac7f-6cc18a311689
+  uuid: 2fa1579f-2da5-46c1-aa46-3d6a02d4b697
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/spirit-fast
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/spirit-fast
   title: Spirit of Fast
   slug: 20-spirit-of-fast
-  uuid: bcb00613-172f-4576-871a-b9bac3f285b2
+  uuid: fe8c53de-82b8-4687-8ba3-b4e3af52c198
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/purpose-fasting
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/purpose-fasting
   title: Purpose of Fasting
   slug: 21-purpose-of-fasting
-  uuid: b034a857-09b2-449a-b4d5-ed1a4a27e22d
+  uuid: 44d405e1-85d9-4486-8c89-d0e06d56d8b1
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/sincere-repentance
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/sincere-repentance
   title: Sincere Repentance
   slug: 22-sincere-repentance
-  uuid: 014a4379-c108-42e0-a915-ce3746dd16fd
+  uuid: 0cd0a3bb-0651-4775-977c-adf4d8ae05af
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/pilgrimage
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/pilgrimage
   title: On Pilgrimage
   slug: 23-on-pilgrimage
-  uuid: 652c6c87-6d78-46a1-8702-18c8edd505e8
+  uuid: 5357e1dc-9061-44c4-bfa4-8865aa6de893
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/philosophy-pilgrimage
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/philosophy-pilgrimage
   title: Philosophy of Pilgrimage
   slug: 24-philosophy-of-pilgrimage
-  uuid: e29c273f-36fe-4808-b740-0dd263f042df
+  uuid: 58b11823-4ead-4588-9701-4388ddf95a03
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/eternal-life
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/eternal-life
   title: Eternal Life
   slug: 25-eternal-life
-  uuid: 0831f8fd-9323-4c05-a429-1eb09033ea12
+  uuid: 41f185b1-38e3-45f5-b78d-c0ee50bca1f7
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/miracle-qur%E2%80%99
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/miracle-quran
   title: Miracle of Qur’an
   slug: 26-miracle-of-qur-an
-  uuid: 58e10614-647b-45dd-a792-53a9e9e6b1f3
+  uuid: ed958854-ae3d-481c-a678-eabb06981135
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/achievements-islam
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/achievements-islam
   title: Achievements of Islam
   slug: 27-achievements-of-islam
-  uuid: 5c698f59-adb5-4779-8920-e120ce09ee61
+  uuid: 1bd88e61-fe64-4000-9266-ee474d50ae95
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/how-islam-was-spread
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/how-islam-was-spread
   title: How Islam was Spread ?
   slug: 28-how-islam-was-spread
-  uuid: 10bc5cfb-4d69-44ed-9f5f-cd09613b434b
+  uuid: 4c249a31-faf4-4101-9f2b-b97ca812b283
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/mercy-all-worlds
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/mercy-all-worlds
   title: Mercy For All Worlds
   slug: 29-mercy-for-all-worlds
-  uuid: 4d9dee37-231d-4dc0-b5e2-4f538d682d2a
+  uuid: 6ccbb1ec-7afa-4dcb-8f00-1ae2bd16f564
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/equality-man
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/equality-man
   title: Equality of Man
   slug: 30-equality-of-man
-  uuid: 4420be8a-8d0a-4628-a13d-b07354598cf8
+  uuid: a4044ca3-fc7e-4b5a-995f-f4b332ec05e9
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/akhlaq
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/akhlaq
   title: On Akhlaq
   slug: 31-on-akhlaq
-  uuid: 532fe83c-f12f-4313-8628-176387a8d5e9
+  uuid: a0dce764-b498-4b89-94e8-6d7210960b2c
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/code-conduct
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/code-conduct
   title: Code of Conduct
   slug: 32-code-of-conduct
-  uuid: f37111de-b48a-4e28-8762-696179db2f1d
+  uuid: ca63590b-6014-44bf-8c47-96563e95cb81
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/self-%E2%80%93-criticism
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/self-criticism
   title: Self – Criticism
   slug: 33-self-criticism
-  uuid: 7b8cc182-ebb4-4557-82d3-b114a03934ce
+  uuid: 50e3d85d-04e1-482b-aeb4-b870096ebadd
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/righteousness
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/righteousness
   title: On Righteousness
   slug: 34-on-righteousness
-  uuid: 41a966a9-b836-4d68-8404-c0f88bd4a5ce
+  uuid: a7e24fca-ed50-4b79-84d5-c0f4dfac1790
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/justice-generosity
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/justice-generosity
   title: Justice & Generosity
   slug: 35-justice-generosity
-  uuid: 43a91586-13aa-4ea2-8244-7dfe90822d7b
+  uuid: 8bd97b2b-297f-4bd3-b165-0b7ddbbfbe8d
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/essence-ethics
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/essence-ethics
   title: Essence of Ethics
   slug: 36-essence-of-ethics
-  uuid: fdc27859-5fbe-4960-9822-2cbebdb09264
+  uuid: c8bc7372-453c-41f3-8421-503a818559ac
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/pride
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/pride
   title: On Pride
   slug: 37-on-pride
-  uuid: 9c313ba5-0370-4378-ab9c-c3738bd350a9
+  uuid: 0ac40fac-4bcb-44e3-9cf8-9cdac84c3422
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/greed
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/greed
   title: On Greed
   slug: 38-on-greed
-  uuid: f4d174d3-0e66-4193-8838-04f5a857cd01
+  uuid: ce0b51b9-e33b-449c-8980-5ce698c13048
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/envy
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/envy
   title: On Envy
   slug: 39-on-envy
-  uuid: ca53b981-d5b5-4913-9bfe-376df0ace557
+  uuid: 529b1027-4471-43d6-a3a7-7b3fb3dc9e7f
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/most-dangerous-disease
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/most-dangerous-disease
   title: Most Dangerous Disease
   slug: 40-most-dangerous-disease
-  uuid: 0f3aca51-ab4a-4fa9-9b84-8b5efadbfce7
+  uuid: dd6a6f59-f17c-44d9-8881-37ea7911b6de
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/extravagancy
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/extravagancy
   title: On Extravagancy
   slug: 41-on-extravagancy
-  uuid: dd5d3d5e-3d45-4cd8-9ebe-436efe187734
+  uuid: 32ba2247-be3e-4846-b18a-c56c285000f9
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/generosity-and-miserliness
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/generosity-and-miserliness
   title: Generosity and Miserliness
   slug: 42-generosity-and-miserliness
-  uuid: 9878a7d9-5ead-4367-8989-824bf119f1f4
+  uuid: 37acd15b-31f1-4a08-a017-596431a43e06
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/islamic-generosity
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/islamic-generosity
   title: Islamic Generosity
   slug: 43-islamic-generosity
-  uuid: 487ab726-89a0-4480-892c-03db6e1700b6
+  uuid: d833e547-7e35-4c71-ad9b-f2350219382b
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/true-charity
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/true-charity
   title: True Charity
   slug: 44-true-charity
-  uuid: 9987cbe8-5955-4320-8b9f-69926522f64f
+  uuid: c347113d-b71a-4f10-9d87-3ac70a0a2654
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/both-worlds
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/both-worlds
   title: Both Worlds
   slug: 45-both-worlds
-  uuid: 80e5f865-17fe-4d98-993f-503e3ebecffd
+  uuid: 22837f96-1757-4088-a553-cc9733a4483c
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/love-world
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/love-world
   title: Love of This World
   slug: 46-love-of-this-world
-  uuid: 2b3696d7-a49b-4a51-8ad1-b0edf906d995
+  uuid: bd82ecb3-f4da-46ab-944f-2a03087c863c
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/humility
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/humility
   title: Humility
   slug: 47-humility
-  uuid: 907fc090-95b4-4bd0-bdaa-652d2777c20b
+  uuid: d77a3425-9331-4ccf-a0f0-d62ed5517102
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/amr-bil-maaroof
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/amr-bil-maaroof
   title: Amr-Bil-Maaroof
   slug: 48-amr-bil-maaroof
-  uuid: bf3585f1-71ff-489f-a152-889dabecb0e2
+  uuid: f8c8424c-790d-4689-994b-0b72c79b2ca8
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/best-%E2%80%98jihad%E2%80%99
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/best-jihad
   title: The Best ‘Jihad’
   slug: 49-the-best-jihad
-  uuid: 405abfaf-c4a6-48eb-a2cb-86e5f7f173a4
+  uuid: 679112d7-047c-4818-b6eb-5e7498c4886a
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/chaos-world
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/chaos-world
   title: Chaos in World
   slug: 50-chaos-in-world
-  uuid: 2244cc9f-c7c3-4f3d-8320-93a0255f2715
+  uuid: c7a7e20c-136e-44d7-a9bd-8cc09f16ac03
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/decaying-society
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/decaying-society
   title: Decaying Society
   slug: 51-decaying-society
-  uuid: 7739fd2f-deed-46b7-afa0-29b16d7c7c8c
+  uuid: 8d935e2f-ab8e-4c46-af12-da938f712f85
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/modestry
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/modestry
   title: On Modestry
   slug: 52-on-modestry
-  uuid: 8e28ddb2-1e7b-4e1d-a442-cf8f0f2bcd8f
+  uuid: daf1171f-fbc0-4feb-9439-93d1d2f1a1f2
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/polygamy
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/polygamy
   title: On Polygamy
   slug: 53-on-polygamy
-  uuid: b011f991-e9b5-4cbd-b91f-06afbed39078
+  uuid: a1f2873b-b192-4019-9eac-6c5cfee7dedf
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/dignity-labour
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/dignity-labour
   title: Dignity of Labour
   slug: 54-dignity-of-labour
-  uuid: f67b4cc3-878b-48fe-a3bc-508ee91650ee
+  uuid: f124b3bc-7e7b-4ec1-b3ae-783322548bdf
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/lawful-earning
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/lawful-earning
   title: Lawful Earning
   slug: 55-lawful-earning
-  uuid: 0c1a3456-a7c1-40be-a640-72ff6405d6d8
+  uuid: f4f14f06-bd16-431c-a795-16b191e21f6e
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/obligations
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/obligations
   title: On Obligations
   slug: 56-on-obligations
-  uuid: d03aba22-015e-4b6b-a602-00beadb089ba
+  uuid: a3a4a791-efce-4da0-bb78-d76eaecc0850
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/be-kind-parents
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/be-kind-parents
   title: Be Kind to Parents
   slug: 57-be-kind-to-parents
-  uuid: dee563d1-1fb7-4f5e-8fa5-6fd75afcbdb1
+  uuid: acb9a6b9-64aa-4ba5-9fb8-07daa30caef7
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/duty-towards-parents
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/duty-towards-parents
   title: Duty Towards Parents
   slug: 58-duty-towards-parents
-  uuid: 8bb51e22-2d57-4b96-a3aa-53fdf185d3d3
+  uuid: 4df31a42-850d-4235-b9ae-ad308a5ab503
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/duty-towards-neighbors
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/duty-towards-neighbors
   title: Duty Towards Neighbors
   slug: 59-duty-towards-neighbors
-  uuid: 9a657b84-705f-493a-936f-e3458eb5138e
+  uuid: f4017b89-3673-480b-88d6-0bfc02d1371c
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/change-heart
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/change-heart
   title: Change of Heart
   slug: 60-change-of-heart
-  uuid: 0faec167-b2b3-43de-a6e5-51c4dad98f61
+  uuid: cd5be783-b460-49e5-84a8-1c523ed65760
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/acquire-knowledge
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/acquire-knowledge
   title: To Acquire Knowledge
   slug: 61-to-acquire-knowledge
-  uuid: 34f9746c-01ec-44ab-bd44-ed14311ce30c
+  uuid: 6ba7bcb4-f301-49b3-a095-95e53fdc5d1e
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/great-fellowship
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/great-fellowship
   title: The Great Fellowship
   slug: 62-the-great-fellowship
-  uuid: 08319492-4308-416c-979a-69c2a33c8f83
+  uuid: c6edfc8d-59bb-4f74-9406-e993bc1d6151
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/obligations-believer
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/obligations-believer
   title: Obligations of a Believer
   slug: 63-obligations-of-a-believer
-  uuid: b00580fa-962a-4fd5-90ba-857bdaad8da4
+  uuid: 353d4a49-41c5-4d33-a006-de1f0ab70554
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/%E2%80%98trust%E2%80%99
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/trust
   title: On ‘Trust’
   slug: 64-on-trust
-  uuid: 73288c55-d999-42f6-addd-bf72f0901b81
+  uuid: 9e5cd5cd-74a9-4cd8-8a0a-7e5d4aee8d5d
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/liquor
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/liquor
   title: On Liquor
   slug: 65-on-liquor
-  uuid: cbfc4e28-c563-48cc-98b6-286c0de0c831
+  uuid: 9a7ae9dd-15f3-4c32-955c-8e87d999887a
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/liquor-and-%E2%80%98nation-building%E2%80%99
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/liquor-and-nation-building
   title: Liquor and ‘Nation-Building’
   slug: 66-liquor-and-nation-building
-  uuid: 5ab04e5e-2806-47b9-8f83-40f7abad2eb0
+  uuid: 0b06f1ed-2df6-482a-9df8-c12bc260c45f
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/gambling
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/gambling
   title: On Gambling
   slug: 67-on-gambling
-  uuid: 6984749c-2647-4cea-b8f3-02afdceb73bf
+  uuid: f189185f-ab5b-42c1-ad26-483ff71bbbf3
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/future-%E2%80%93-reading
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/future-reading
   title: On Future – Reading
   slug: 68-on-future-reading
-  uuid: f065ac68-a42f-4bdc-a7a3-6f61bddd8e00
+  uuid: 63f5dd74-3ab6-49d1-9eac-ca43cfc7fd0c
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/witchcraft
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/witchcraft
   title: On Witchcraft
   slug: 69-on-witchcraft
-  uuid: 0c8cab9d-2209-4e1e-ae71-540293d695d2
+  uuid: d080fb96-3948-4a5b-a525-d01bf8d526b7
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/backbiting
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/backbiting
   title: On Backbiting
   slug: 70-on-backbiting
-  uuid: 60de06bf-9292-4e7b-b075-12ab7d3e4132
+  uuid: 4f81f00b-e6f0-487b-9911-3c804f0e69bc
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-voice-allamah-sayyid-saeed-akhtar-rizvi/purity-intentions
+  source_url: http://www.al-islam.org/inner-voice-sayyid-akhtar-rizvi/purity-intentions
   title: Purity of Intentions
   slug: 71-purity-of-intentions
-  uuid: fa3be54e-b86c-475d-aead-a603ce347611
+  uuid: 068a4ed0-2748-4c4b-b05a-9798b5274e5e
 ---

@@ -21,14 +21,14 @@ grandeur and greatness of Allah nor His disobedience reduce an iota of
 His Glory and Majesty, as Imam Ali (a.s.) said:
 
 The sins of the transgressors do not harm Him nor the obedience of the
-worshipper benefit him.  
- He is the bestower to the whole Universe. Everything that we and other
+worshipper benefit him.
+He is the bestower to the whole Universe. Everything that we and other
 creatures have is given by Him. Nor can we give Him anything as He is
 needless and Independent and it is not that we have a thing and He
 doesn't have so that we may give it to Him. Whatever we get, we get from
 Him only and He gives whatever He deems fit for us and the original
-treasure is with him:  
- And there is not a thing but with Us are the treasures of it, and We do
+treasure is with him:
+And there is not a thing but with Us are the treasures of it, and We do
 not send it down but in a known measure.[^1]
 
 Can a drop of water, which acquires its capital from the huge sea, give

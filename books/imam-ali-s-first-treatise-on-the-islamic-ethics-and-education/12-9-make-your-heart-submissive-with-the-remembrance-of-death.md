@@ -37,8 +37,8 @@ will disintegrate and turn into earth. He will cut his relations with
 his wealth, children, house and the world as such. He will, pretty soon,
 be forgotten as if he had not been living. But he is responsible now for
 what he had done before. Now he wishes he had never been born to take
-this burden of sins on his shoulders.  
- For this very reason it is emphasized in the Islamic traditions to
+this burden of sins on his shoulders.
+For this very reason it is emphasized in the Islamic traditions to
 remember death. The Prophet of Islam has said:
 
 <blockquote dir="rtl">
@@ -113,8 +113,8 @@ animal."*[^5]
 Once a man’s name was mentioned in the presence of the Prophet (S) and
 he was praised. The Prophet (S) asked: “Did he remember death”? The
 attendants answered: “We don't remember him saying anything about
-death”. The Prophet (S) said: “Then he is not to be praised”.[^6]  
- The Prophet was asked:
+death”. The Prophet (S) said: “Then he is not to be praised”.[^6]
+The Prophet was asked:
 
 <blockquote dir="rtl">
   <p>
@@ -136,8 +136,8 @@ prosperous. Anybody in this world who does not care for death will be
 inflicted with sorrows in this world and anybody whose remembrance of
 death is good in this world is prosperous"[^8]
 
-There are two groups of people regarding death:  
- The first group severely escapes the remembrance of death and these are
+There are two groups of people regarding death:
+The first group severely escapes the remembrance of death and these are
 people who do not believe in the Hereafter and whose behavior in the
 world has been indecent. They know that by death they will get deprived
 of what they have.
@@ -145,19 +145,19 @@ of what they have.
 Imam al-Husayn (as) was once asked: “Why are we frightened of death and
 are not interested in it”? Imam answered: “Because you have destroyed
 your Hereafter but have constructed your world. That is why you are
-frightened to move from flourishing condition to ruined condition".  
- The second group includes those who do not fear death. These are people
+frightened to move from flourishing condition to ruined condition".
+The second group includes those who do not fear death. These are people
 who believe in the Hereafter and its assets, who have acted in
 accordance with the commands of God, who believe that by breaking the
 cage of the body here, they will enjoy God's blessings in the Hereafter.
 Thus, they not only do not fear death, but also consider it sweeter than
-honey.[^9] They repeat the following:  
- Tell death to come to me if it is a man,  
- Till I embrace him very closely;  
- I'll receive an eternal life from him,  
- He'll receive from me colored clothing  
- Kill me; kill me, O Great one,  
- For in your killing there is life.
+honey.[^9] They repeat the following:
+Tell death to come to me if it is a man,
+Till I embrace him very closely;
+I'll receive an eternal life from him,
+He'll receive from me colored clothing
+Kill me; kill me, O Great one,
+For in your killing there is life.
 
 Imam ‘Ali (as) has said:
 

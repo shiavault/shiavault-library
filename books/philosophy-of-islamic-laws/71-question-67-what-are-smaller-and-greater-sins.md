@@ -47,8 +47,8 @@ From this aspect the magnitude of sins is not relative. Their limits are
 different. It can never be that a sin is smaller as well as greater.
 Because if it is promised punishment of if its performance is
 emphatically prohibited, it would be a greater sin, otherwise it is
-smaller.  
-  
+smaller.
+
 
 [^1]: Surah Nisa 4:31
 

@@ -39,11 +39,11 @@ him.
 When we consider carefully the spirit of *Isti’adha,* we find that it
 has five well-defined aspects:
 
-1. *Taqwa* or piety.  
- 2. *Tadhakkur* or remembrance of Allah (S.w.T.).  
- 3. *Tawakkul* or trust in Allah (S.w.T.).  
- 4. *Ikhlas* or sincerity.  
- 5. *Aajizi* or humility towards Allah (S.w.T.).
+1. *Taqwa* or piety.
+2. *Tadhakkur* or remembrance of Allah (S.w.T.).
+3. *Tawakkul* or trust in Allah (S.w.T.).
+4. *Ikhlas* or sincerity.
+5. *Aajizi* or humility towards Allah (S.w.T.).
 
 When a person practices all these five aspects, his *Isti’adha* will be
 accepted by Allah (S.w.T.). Then the accursed Satan will remain a long
@@ -211,8 +211,8 @@ al-Hajj, 22:37)***
 Until the last vestiges of Haram are not removed Isti’adha is not possible
 --------------------------------------------------------------------------
 
-   
- As long as even one morsel of *Haram* food is in the body of a person,
+
+As long as even one morsel of *Haram* food is in the body of a person,
 he is himself like Satan. Beating drums seeking protection from Satan is
 his hypocrisy. As long as he is not able to shake away the influence of
 Satan from his person, all his prayers are mere pretences.
@@ -242,7 +242,7 @@ Abstain from doubtful food
 When one has doubt about the food being *halal,* he should rather
 abstain from eating it. Avoid using *Haram* food and clothes. The use of
 these will have such deleterious effect on the person that he becomes
-the victim of fears and doubts.  
+the victim of fears and doubts.
 ** **
 
 

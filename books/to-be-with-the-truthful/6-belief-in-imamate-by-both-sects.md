@@ -66,8 +66,8 @@ saying: “I have appointed thee a leader for mankind”. The verse further
 elucidates that Imamate is a covenant from Allah never including but the
 pious bondmen, whom Allah has elected for this task, due to denying it
 for the wrong-doers, who never deserve the covenant of Allah — the
-Glorified and the Exalted.  
- The Almighty has said too:
+Glorified and the Exalted.
+The Almighty has said too:
 
 ***“And We made them chiefs who guide by Our command, and We inspired in
 them the doing of good deeds and the right establishment of worship and
@@ -77,8 +77,8 @@ In another place, Allah, the Glorified, said:
 
 ***“And when they became steadfast and believed firmly in Our
 revelations, We appointed from among them leaders who guided to Our
-command.” (32:24)***  
- He also said:
+command.” (32:24)***
+He also said:
 
 ***“And We desired to show favour unto those who were oppressed in the
 earth, and to make them examples and to make them the inheritors.”
@@ -164,8 +164,8 @@ Allah, may God’s peace and benediction be upon him and his Progeny, say:
 then a word I couldn’t understand, so I asked my father: what did he
 say? He replied: All are from Quraysh.”[^4]
 
-About princedom he (S) said:  
- “There will be emirs whom you recognize but deny. Whoever recognizes
+About princedom he (S) said:
+“There will be emirs whom you recognize but deny. Whoever recognizes
 (them) will be acquitted and whoever denies will secure (against
 danger), but who admits and follows, (thereat) they said: Shall we fight
 them? He replied: No, as long as they keep on establishing prayer.”[^5]
@@ -184,8 +184,8 @@ The Messenger of Allah (S) said further: “Whoever presides over subjects
 of Muslims, and dies after being dishonest with them, Allah shall verily
 forbid him the heavens.”[^8]
 
-In another place he (s) uttered a hadith about *wilāyah*:  
- “The affairs of people keep on running their course as long as being
+In another place he (s) uttered a hadith about *wilāyah*:
+“The affairs of people keep on running their course as long as being
 presided over by twelve men, all being from Quraysh.”[^9]
 
 That was a brief survey about the concept of Imamate or caliphate, which
@@ -195,10 +195,10 @@ the Sihāh of Ahl al-Sunnah other than the Shi‘ah, since this affair
 (i.e. caliphate of twelve men from Quraysh) is regarded by them as an
 irreproachable intuition, about which there is no slight difference
 between even two of them, despite the fact that the ‘ulamā’ of Ahl
-al-Sunnah expressly declare that the Messenger of Allah (S) said:  
- “After me there will be twelve successors (ruling over you) who are all
-from Banu Hāshim.”[^10]  
- Al-Shi’bi reports from Masruq that he said: “When we were in the house
+al-Sunnah expressly declare that the Messenger of Allah (S) said:
+“After me there will be twelve successors (ruling over you) who are all
+from Banu Hāshim.”[^10]
+Al-Shi’bi reports from Masruq that he said: “When we were in the house
 of Ibn Mas’ud offering him our codices (masāhif), a lad said to him: Did
 your Prophet make a covenant informing you how many successors will be
 after him? He replied: You are still so young, and no one other than you
@@ -250,9 +250,9 @@ life?
 
 The recapitulation of their belief is that:
 
-1. The Messenger has never nominated any successor.  
- 2. Caliphate can never be determined but through shurā (council).  
- 3. Electing Abu Bakr as a caliph was made by the magnates of Sahābah
+1. The Messenger has never nominated any successor.
+2. Caliphate can never be determined but through shurā (council).
+3. Electing Abu Bakr as a caliph was made by the magnates of Sahābah
 (Companions).
 
 This was also my opinion when I was a Māliki strongly defending him with
@@ -279,8 +279,8 @@ let his *Ummah* without a custodian, especially when knowing that he
 used to fear for his *Ummah* disunity, [^12] turning back on their
 heels,[^13] rushing madly upon the world,[^14] smiting of the necks of
 each other,[^15] and lastly following the systems (sunan) of the Jews
-and Christians.[^16]  
- When knowing that Umm al-Mu’minin ‘A’ishah, the daughter of Abu Bakr,
+and Christians.[^16]
+When knowing that Umm al-Mu’minin ‘A’ishah, the daughter of Abu Bakr,
 delegated to ‘Umar ibn al-Khattāb, when he was stabbed, someone to tell
 him: “Nominate someone as a successor over the *Ummah* of Muhammad, and
 never leave them discarded after you, as I fear they be inflicted with
@@ -298,8 +298,8 @@ through the shurā, breached this principle, rushing to nominate ‘Umar as
 his successor, in order to eradicate any dispute, disunity and sedition.
 The fact that was foretold by al-’Imām ‘Ali (‘a), when ‘Umar exerted
 much pressure against him to swear allegiance to Abu Bakr, thereat he
-said to him:  
- “Prepare a scheme whose half shall be yours, and reinforce it for him
+said to him:
+“Prepare a scheme whose half shall be yours, and reinforce it for him
 today, he will reward you tomorrow.”[^19]
 
 While Abu Bakr was not believing in the shurā system, so how can we
@@ -352,8 +352,8 @@ reported, with his isnād (chain) reaching back to Abu Dharr al-Ghifāri,
 to have said: "I heard the Messenger of Allah (may God’s peace and
 benediction be upon him and his Progeny) with my two ears, otherwise
 they be deaf, and saw him with my own eyes, otherwise they be blind,
-saying:  
- ‘Ali is the leader of the pious, slayer of the disbelievers, victorious
+saying:
+‘Ali is the leader of the pious, slayer of the disbelievers, victorious
 is that who helps him, and defeated is that who disappoints him.”
 
 Once upon a day I was praying with the Messenger of Allah, when a beggar
@@ -363,8 +363,8 @@ on which was a ring, towards the beggar, who came forward and took away
 the ring. This incident occurred in the Prophet’s presence, who raised
 his hands towards the Heavens and prayed My God! My brother Moses had
 begged of You saying: “My Lord! Relieve my mind. And ease my task for
-me. And loose a knot from my tongue.  
- That they may understand my saying. Appoint for me a henchman from my
+me. And loose a knot from my tongue.
+That they may understand my saying. Appoint for me a henchman from my
 folk. Aaron, my brother. Confirm my strength with him. And let him share
 my task. That we may glorify Thee much. And much remember Thee. Lo! Thou
 art ever Seeing us.” Then you revealed to him: “Thou art granted thy
@@ -387,30 +387,30 @@ in ‘Ali’s regard, according to the reports of Ahl al-Bayt (peace be upon
 them), which being among the unanimously accepted akhbār (reports), that
 were referred to in many considerable Shi‘ah books, like:
 
-1. Bihar al-’anwār, by al-Majlisi.  
- 2. Ithbāt al-hudāt, by al-Hurr al-‘Amili.  
- 3. Tafsir al-Mizān, by al-‘Allāmah al-Tabātabā’i.  
- 4. Tafsir al-Kāshif, by Muhammad, Jawād Maghniyyah.  
- 5. Al-Ghadir, by al-‘Allāmah al-’Amini.
+1. Bihar al-’anwār, by al-Majlisi.
+2. Ithbāt al-hudāt, by al-Hurr al-‘Amili.
+3. Tafsir al-Mizān, by al-‘Allāmah al-Tabātabā’i.
+4. Tafsir al-Kāshif, by Muhammad, Jawād Maghniyyah.
+5. Al-Ghadir, by al-‘Allāmah al-’Amini.
 
 Beside numerous other books.
 
 Its revelation in ‘Ali’s regard was reported too by a large number of
 Ahl al-Sunnah ‘ulamā’, among whom we refer only to the exegets:
 
-1. Tafsir al-Kashshāf by al-Zamakhshari, vol.I, p.649  
- 2. Tafsir al-Tabari, vol.VI,-P.288  
- 3. Zād al-masir fi ‘ilm al-tafsir, by Ibn al-Jawzi, vol.II, p.383  
- 4. Tafsir al-Qurtubi, vol. VI,p.219.  
- 5. Tafsir al-Fakhr al-Rāzi, vol,. XII, p. 26  
- 6. Tafsi Ibn Kathir, vol.II, p.71  
- 7. Tafsir al-Nasafi, vol. I. p.289  
- 8. Shawāhid al-tanzil, by al-Hasakāni al-Hanafi, vol. I, p.161  
- 9. Al-Durr al-manthur fi al-tafsir bi al-ma’thur, by al-Suyuti,
-vol.II.p.293  
- 10. Asbāb al-nuzul, by al-’Imām al-Wāhidi, p.148  
- 11. Ahkām al-Qur’ān, by al-Jassās, vol.IV. p.102  
- 12. Al-Tashil li ‘ulum al-tanzil, by al-Kalbi, Vol.I, p.181.
+1. Tafsir al-Kashshāf by al-Zamakhshari, vol.I, p.649
+2. Tafsir al-Tabari, vol.VI,-P.288
+3. Zād al-masir fi ‘ilm al-tafsir, by Ibn al-Jawzi, vol.II, p.383
+4. Tafsir al-Qurtubi, vol. VI,p.219.
+5. Tafsir al-Fakhr al-Rāzi, vol,. XII, p. 26
+6. Tafsi Ibn Kathir, vol.II, p.71
+7. Tafsir al-Nasafi, vol. I. p.289
+8. Shawāhid al-tanzil, by al-Hasakāni al-Hanafi, vol. I, p.161
+9. Al-Durr al-manthur fi al-tafsir bi al-ma’thur, by al-Suyuti,
+vol.II.p.293
+10. Asbāb al-nuzul, by al-’Imām al-Wāhidi, p.148
+11. Ahkām al-Qur’ān, by al-Jassās, vol.IV. p.102
+12. Al-Tashil li ‘ulum al-tanzil, by al-Kalbi, Vol.I, p.181.
 
 Beside other unmentioned Sunnah books, numbering more than those I
 referred to.
@@ -426,12 +426,12 @@ verse was revealed in the early days of Da‘wah (invitation), when the
 Messenger of Allah was having some bodyguards to protect him against
 murder and assassination. But when the verse “and Allah will protect
 thee from mankind,” was revealed, he (S) said: “Go away, Allah has
-protected me.”  
- Ibn Jarir and Mardawayh have reported from ‘Abd Allāh ibn Jarir that he
+protected me.”
+Ibn Jarir and Mardawayh have reported from ‘Abd Allāh ibn Jarir that he
 said: “The Messenger of Allah (S) was pursued by some of his Companions,
 and when the words” and Allah will protect thee from mankind,” he came
-out and said:  
- “O people, go and reach your pursuants, as Allah has protected me from
+out and said:
+“O people, go and reach your pursuants, as Allah has protected me from
 mankind.” [^25]
 
 Ibn Hibbān and Ibn Mardawayh have reported from Abu Hurayrah that he
@@ -478,8 +478,8 @@ have reported from Jubayr ibn Nufayr that he said: I made the pilgrimage
 to Makkah, and when I entered upon ‘A’ishah, she said: O Jubayr, do you
 read (Surat) al-Mā’idah? I said: Yes. Then she said: It is the last
 surah revealed (of the Qur’ān). Deem lawful whatever you find lawful in
-it, and deem unlawful whatever you find unlawful (harām) in it.[^28]  
- Also it is reported by Ahmad and al-Tirmidhi, and was improved and
+it, and deem unlawful whatever you find unlawful (harām) in it.[^28]
+Also it is reported by Ahmad and al-Tirmidhi, and was improved and
 revised by al-Hākim, with Ibn Mardawayh and al-Bayhaqi in their Sunan,
 from ‘Abd Allāh ibn ‘Umar that he said: Surat al-Mā’idah is the last
 surah revealed of the Qur’ān.[^29]
@@ -573,38 +573,38 @@ authenticating those narrations, concurring in this respect with their
 brothers among the Shi'ah ‘ulamā’. As an example I refer to some of the
 Sunni ‘ulamā’:
 
-1. Al-Hāfiî Abu Nu’aym in his book Nuzul al-Qur’ān.  
- 2. Al-’Imām al-Wāhidi in his book Asbāb al-nuzul, p.150  
- 3. Al-’Imām Abu Ishāq al-Thalabi in his al-Tafsir al-kabir.  
- 4. Al-Hakim al-Hasakani in his book Shawāhid al-tanzil li qawā‘id
-al-tafdil, vol.I,p.187  
- 5. Jalāl al-Din al-Suyuti in his book al-Durr al-manthur fi al-tafsir
-bi al-ma’thur, vol. III, p. 117.  
- 6. Al-Fakhr al-Rāzi in his al-Tafsir al-kabir, Vol.XII, p.50.  
- 7. Muhammad Rashid Ridā in Tafsir al-manār, Vol.II, p.86; Vol. VI,
-p.463  
- 8. Abu Asākir al-Shāfi‘i in Ta’rikh Dimashq, Vo. II, p.86  
- 9. Al-Shawkāni in Fath al-Qadir, vol.II, p.60  
- 10. Ibn Talhah al-Shāfi‘i in Matālib al-Sa’ul, vol.I.p.44  
- 11. Ibn Sabbāgh al-Māliki in al-Fusul al-Muhimmah, p.25  
- 12. Al-Qunduzi al-Hanafi in Yanābi‘ al-mawaddah, p.120  
- 13. Al-Shahristāni in al-Milal wa al-nihal, vol.I.p.163  
- 14. Ibn Jarir al-jabari in Kitāb al-*Wilāyah*.  
- 15. Badr al-Din al-Hanafi in ‘Umdat al-qāri fi Sharh al-Bukhāri.
-Vol.VIII.P.584  
- 16. ‘Abd al-Wahhab al-Bukhāri in Tafsir al-Qur’ān.  
- 17. Al-’Alusi in Ruh ma‘āni, Vo..II.p.384  
- 18. Ibn Sa‘id al-Sijistāni in Kitāb al-*Wilāyah*.  
- 19. Al-Hamwini in Farā’id al-simtayn, vol.I.p.185  
- 20. Al-Sayyid Siddiq Hasan Khān in Fath al-bayān fi maqasid al-Qur’ān,
+1. Al-Hāfiî Abu Nu’aym in his book Nuzul al-Qur’ān.
+2. Al-’Imām al-Wāhidi in his book Asbāb al-nuzul, p.150
+3. Al-’Imām Abu Ishāq al-Thalabi in his al-Tafsir al-kabir.
+4. Al-Hakim al-Hasakani in his book Shawāhid al-tanzil li qawā‘id
+al-tafdil, vol.I,p.187
+5. Jalāl al-Din al-Suyuti in his book al-Durr al-manthur fi al-tafsir
+bi al-ma’thur, vol. III, p. 117.
+6. Al-Fakhr al-Rāzi in his al-Tafsir al-kabir, Vol.XII, p.50.
+7. Muhammad Rashid Ridā in Tafsir al-manār, Vol.II, p.86; Vol. VI,
+p.463
+8. Abu Asākir al-Shāfi‘i in Ta’rikh Dimashq, Vo. II, p.86
+9. Al-Shawkāni in Fath al-Qadir, vol.II, p.60
+10. Ibn Talhah al-Shāfi‘i in Matālib al-Sa’ul, vol.I.p.44
+11. Ibn Sabbāgh al-Māliki in al-Fusul al-Muhimmah, p.25
+12. Al-Qunduzi al-Hanafi in Yanābi‘ al-mawaddah, p.120
+13. Al-Shahristāni in al-Milal wa al-nihal, vol.I.p.163
+14. Ibn Jarir al-jabari in Kitāb al-*Wilāyah*.
+15. Badr al-Din al-Hanafi in ‘Umdat al-qāri fi Sharh al-Bukhāri.
+Vol.VIII.P.584
+16. ‘Abd al-Wahhab al-Bukhāri in Tafsir al-Qur’ān.
+17. Al-’Alusi in Ruh ma‘āni, Vo..II.p.384
+18. Ibn Sa‘id al-Sijistāni in Kitāb al-*Wilāyah*.
+19. Al-Hamwini in Farā’id al-simtayn, vol.I.p.185
+20. Al-Sayyid Siddiq Hasan Khān in Fath al-bayān fi maqasid al-Qur’ān,
 Vol. III, p.63.
 
 This is just a scanty modicum of what comes to my mind, beside a large
 number of other Ahl al-Sunnah ‘ulamā’ referred to by al-‘Allāmah
-al-’Amini in the book al-Ghadir.  
- I wonder what did the Messenger of Allah (S) do when he was commanded
-by his Lord to deliver what was revealed unto him?  
- The Shi'ah hold that he (S) gathered the people from all strata in that
+al-’Amini in the book al-Ghadir.
+I wonder what did the Messenger of Allah (S) do when he was commanded
+by his Lord to deliver what was revealed unto him?
+The Shi'ah hold that he (S) gathered the people from all strata in that
 place, being Ghadir Khumm, giving a long eloquent sermon, calling them
 to witness against themselves and they witnessed that he(S) certainly
 had more right on them than they themselves had. Thereat he took ‘Ali’s
@@ -618,8 +618,8 @@ commanding his Companions to congratulate him for being the leader of
 the believers. And so they did, at the foremost of whom being Abu Bakr
 and ‘Umar, who both said to ‘Ali (‘a): “Congratulation, O son of Abu
 Tālib, within a day and a night you became a mawlā (master) of every
-believing man and woman.”[^34]  
- When the ceremony was over, the following verse was revealed unto him
+believing man and woman.”[^34]
+When the ceremony was over, the following verse was revealed unto him
 by Allah:
 
 ***“This day have I perfected your religion for you and completed my
@@ -637,8 +637,8 @@ yet he is the most violent of adversaries.” (2:204)***
 
 We are asked then to be cautious, and to discuss this topic with much
 care, with looking honestly into the evidences given by the two sects,
-seeking only God’s pleasure in this respect.  
- The answer for the previous question is: yes, many of Ahl al-Sunnah
+seeking only God’s pleasure in this respect.
+The answer for the previous question is: yes, many of Ahl al-Sunnah
 ‘ulamā’ refer to this incident with all its stages. The following are
 some of evidences quoted from their books:
 
@@ -647,8 +647,8 @@ Arqam, saying: We got down with the Messenger of Allah (S) in a valley
 called Khumm Valley, and he ordered congregational prayer to be held,
 performing it in meridional heat. Then, while being shaded by a garment
 over a brown tree, from the sun, the Messenger of Allah addressed us
-saying:  
- “Aren’t you aware, or don’t you give witness that I have more right on
+saying:
+“Aren’t you aware, or don’t you give witness that I have more right on
 every believer than he himself has? They said: Yea. Then he said: Of
 whomever I am his master (mawlā) ‘Ali also is his master. O God,
 befriend whoever befriends him and be the enemy of whoever is hostile to
@@ -814,8 +814,8 @@ enumerated a large number of non Shi’i ‘ulamā’, who narrated Hadith
 al-Ghadir and recorded it in their books, from different classes and
 schools of law, since the first till the fourteenth Hijrah century,
 numbering more than sixty-three. Whoever wants to investigate and be
-more assured, can refer to the book al-Ghadir.[^42]  
- After all this, is it possible for anyone to claim that Hadith
+more assured, can refer to the book al-Ghadir.[^42]
+After all this, is it possible for anyone to claim that Hadith
 al-Ghadir was fabricated by the Shi‘ah?
 
 The surprising and strange fact is that, when Hadith al-Ghadir is
@@ -850,17 +850,17 @@ recognize the successorship of the caliphs, speaking ill of the
 Messenger’s Sahābah. This being a sufficient proof to refute their lies
 and invalidate their allegations.” (His speech in the book is over).
 
-I asked him: Did the incident actually occur at Ghadir Khumm?  
- He replied: Had it not occurred, the ‘ulamā’ and muhaddithtn
-(traditionists) would have never related it!  
- I said: Is it appropriate for the Messenger of Allah (S) to gather his
+I asked him: Did the incident actually occur at Ghadir Khumm?
+He replied: Had it not occurred, the ‘ulamā’ and muhaddithtn
+(traditionists) would have never related it!
+I said: Is it appropriate for the Messenger of Allah (S) to gather his
 Companions under scorching sun’s heat, addressing them with a protracted
 sermon, just to tell them that ‘Ali was their lover and helper? Do you
-accept such an interpretation?  
- He replied: A number of the Companions have complained against ‘Ali (to
+accept such an interpretation?
+He replied: A number of the Companions have complained against ‘Ali (to
 the Prophet), among whom there were some harbouring vindictive feelings
-against ‘Ali and detesting ‘him.  
- There after the Messenger, intending to eliminate their grudge, said to
+against ‘Ali and detesting ‘him.
+There after the Messenger, intending to eliminate their grudge, said to
 them: Ali is your lover and helper, so as to make them love him and
 never detest him.
 
@@ -872,8 +872,8 @@ him to tell those complaining against ‘Ali: "He is your lover and
 helper," and finished with it without any need to detain under the sun
 all those enormous multitudes, numbering more than a hundred thousand,
 among whom were old men and women. Any man having reason can never be
-content with this!  
- He then said: Does any sane man believe that a hundred thousand
+content with this!
+He then said: Does any sane man believe that a hundred thousand
 Companions have never apprehended what you and the Shi‘ah apprehended??
 
 I said: First of all, only very few of them were living in al-Madinah.
@@ -881,8 +881,8 @@ Secondly: They apprehended exactly the same meaning I and the Shi‘ah
 got. So it was narrated by the ‘ulamā’ that Abu Bakr and ‘Umar were
 among those congratulating ‘Ali by saying: "Congratulations, O Ibn Abi
 Tālib, within a night and a day you became the mawlā of every believing
-man (and woman)."  
- He said: Why didn’t they swear allegiance to him then, after the
+man (and woman)."
+He said: Why didn’t they swear allegiance to him then, after the
 Prophet’s demise? Do you think that they have disobeyed and contradicted
 the Prophet’s commandment? I seek Allah’s forgiveness for such claim.
 
@@ -960,23 +960,23 @@ My favour unto you, and have chosen for you Islam as a religion,” was
 revealed at Ghadir Khumm after the Messenger of Allah (S) had designated
 al-’Imām ‘Ali as his successor over the Muslims, as reported from the
 Pure ‘Itrah Imams. That is why they consider Imamah (Imamate) as one of
-the principles of religion (ustl al-Din).  
- Many of’ our ‘ulamā’ report its revelation at Ghadir Khumm, after the
+the principles of religion (ustl al-Din).
+Many of’ our ‘ulamā’ report its revelation at Ghadir Khumm, after the
 appointment of al-’Imām ‘Ali, of whom I may mention, as an example:
 
-1. Ibn ‘Asākir, in Ta’rikh Dimashq, Vol.II,p.75.  
- 2. Ibn al-Maghāzili al-Shāfi‘i, in Manāqib ‘Ali ibn Abi Tālib, p.19  
- 3. Al-Khatib al-Baghdādi, in Ta’rikh Baghdād, Vol.VIII P.290.  
- 4. Al-Suytti, in al-’Itqān, Vol.I,p.31.  
- 5. Al-Khwārazmi al-Hanafi, in al-Manāqib, P.80  
- 6. Al-Sibt ibn al-Jawzi, in Tadhkirat al-Khawāss, p.30.  
- 7. Ibn Kathir, in his Tafsir, Vo.lII, p.14.  
- 8. Al-’Altsi, in Rth al-ma‘āni, vol.VI, p.55  
- 9. Ibn Kathir al-Dimashqi, in al-Bidāyah wa al-nihāyah, vol.V, P.213  
- 10. Al-Suytti, in al-Durr al-manthtr fi al-tafsir bi al-ma’thtr
-vol.III, p.19.  
- 11. Al-Qundtzi al-Hanafi, in Yanābi‘ al-mawaddah, p.115.  
- 12. Al-Hasakāni al-Hanafi, in Shawāhid al-tanzil, vol.I.p.157.
+1. Ibn ‘Asākir, in Ta’rikh Dimashq, Vol.II,p.75.
+2. Ibn al-Maghāzili al-Shāfi‘i, in Manāqib ‘Ali ibn Abi Tālib, p.19
+3. Al-Khatib al-Baghdādi, in Ta’rikh Baghdād, Vol.VIII P.290.
+4. Al-Suytti, in al-’Itqān, Vol.I,p.31.
+5. Al-Khwārazmi al-Hanafi, in al-Manāqib, P.80
+6. Al-Sibt ibn al-Jawzi, in Tadhkirat al-Khawāss, p.30.
+7. Ibn Kathir, in his Tafsir, Vo.lII, p.14.
+8. Al-’Altsi, in Rth al-ma‘āni, vol.VI, p.55
+9. Ibn Kathir al-Dimashqi, in al-Bidāyah wa al-nihāyah, vol.V, P.213
+10. Al-Suytti, in al-Durr al-manthtr fi al-tafsir bi al-ma’thtr
+vol.III, p.19.
+11. Al-Qundtzi al-Hanafi, in Yanābi‘ al-mawaddah, p.115.
+12. Al-Hasakāni al-Hanafi, in Shawāhid al-tanzil, vol.I.p.157.
 
 I say, despite this fact, the Ahl al-Sunnah ‘ulamā’ have no choice but
 to interpolate this verse to denote another occasion, in order to
@@ -1130,8 +1130,8 @@ feast. This prompted ‘Umar to question: Which verse? When they said:
 “This day have I perfected your religion for you”, he said: I know where
 it was revealed, that was when the Messenger of Allah, upon whom be
 Allah’s peace and benediction, was making a halt on (the Mount of)
-‘Arafāt.  
- From this episode we can sense the smell of intrigue and opaqueness,
+‘Arafāt.
+From this episode we can sense the smell of intrigue and opaqueness,
 realizing that those who forged this hadith and ascribed it to ‘Umar ibn
 al-Khattāb during al-Bukhāri’s lifetime, intended in fact to compromise
 between the belief of the Jews and Christians in the greatness of the
@@ -1421,11 +1421,11 @@ occasion some (poetic) lines that you hear? He (S) said: Say, with
 Allah’s blessing. You are still, O Hassan, supported by the sacred
 Essence as long as you keep on succouring us with your tongue.
 
-Then he chanted, saying:  
- On Ghadir Day their Prophet calls them  
- At Khumm, so listen to the Messenger as he calls, ...  
- up to the other lines of the poem mentioned by the historians.[^56]  
- But, despite this, Quraysh has chosen for itself (a caliph),
+Then he chanted, saying:
+On Ghadir Day their Prophet calls them
+At Khumm, so listen to the Messenger as he calls, ...
+up to the other lines of the poem mentioned by the historians.[^56]
+But, despite this, Quraysh has chosen for itself (a caliph),
 disapproving that Prophethood and caliphate to be inside Banu Hāshim
 alone, so as they do injustice to their people by boasting and showing
 delightness, as was expressed by ‘Umar ibn al-Khattāb during a
@@ -1788,8 +1788,8 @@ recognize the solutions of many bewildering enigmas.
 He holds that the validity of allegiance could be established only when
 any of the Muslims manages to attain to it, whereat all the others
 should follow and obey him, and anyone lingering behind was considered
-out of the pale of Islam, that should be slain.  
- Herein his words about himself, when referring to bay‘ah (allegiance),
+out of the pale of Islam, that should be slain.
+Herein his words about himself, when referring to bay‘ah (allegiance),
 as reported by al-Bukhāri in his Sahih.[^68] He said: It is reported
 concerning what happened at the Saqifah.
 
@@ -1868,8 +1868,8 @@ made him a ruler in the first year, and he appointed you a ruler this
 year.[^74]
 
 This exactly resembles al-Imam ‘Ali’s saying to ‘Umar (when observing
-him compel people by duress to swear allegiance to Abu Bakr):  
- “Prepare a scheme whose half shall be yours, and reinforce it for him
+him compel people by duress to swear allegiance to Abu Bakr):
+“Prepare a scheme whose half shall be yours, and reinforce it for him
 today, he will recompense you tomorrow.”[^75]
 
 Of significance is to know the reason why ‘Umar changed his opinion
@@ -1978,13 +1978,13 @@ from among Muhājirun (Emigrants) with no one from the Ansār (Helpers),
 and each one of them represents and heads a tribe of great importance
 and influence. They are:
 
-1. ‘Ali ibn Abi Tālib, chief of Banu Hāshim.  
- 2. ‘Uthmān ibn ‘Affān, chief of Banu Umayyah.  
- 3. ‘Abd al-Rahmān ibn ‘Awf, chief of Banu Zuhrah.  
- 4. Sa’d ibn Abi Waqqās, from Banu Zuhrah and his uncles belong to Banu
-Ummayyah.  
- 5. Talhah ibn ‘Ubayd Allāh, the master of Banu Taym  
- 6. Al-Zubayr ibn al-‘Awwām, the son of Safiyyah— the Messenger’s aunt —
+1. ‘Ali ibn Abi Tālib, chief of Banu Hāshim.
+2. ‘Uthmān ibn ‘Affān, chief of Banu Umayyah.
+3. ‘Abd al-Rahmān ibn ‘Awf, chief of Banu Zuhrah.
+4. Sa’d ibn Abi Waqqās, from Banu Zuhrah and his uncles belong to Banu
+Ummayyah.
+5. Talhah ibn ‘Ubayd Allāh, the master of Banu Taym
+6. Al-Zubayr ibn al-‘Awwām, the son of Safiyyah— the Messenger’s aunt —
 and he was the husband of Asmā’ the daughter of Abu Bakr.
 
 These were the men of resolution and determination with their judgement
@@ -2042,11 +2042,11 @@ have said that Abu Bakr argued with the Ansār (Helpers) by the
 Messenger’s hadith: "Verily caliphate is in Quraysh", which being a
 sahih (correct) tradition whereof there is no doubt, whose real text (as
 reported by al-Bukhāri and Muslim and all Sihāh of the Sunnah, with the
-Shi‘ah) being thus:  
- The Messenger of Allah (S) said: “The successors after me are twelve
+Shi‘ah) being thus:
+The Messenger of Allah (S) said: “The successors after me are twelve
 ones, all being from Quraysh.” More explicit than this hadith, is the
-following saying uttered by the Messenger (S):  
- “This matter (caliphate) will verily continue to be in Quraysh as long
+following saying uttered by the Messenger (S):
+“This matter (caliphate) will verily continue to be in Quraysh as long
 as only two men survive,”[^83] and his saying: “Mankind being only
 followers of Quraysh in good and evil.”[^84]
 
@@ -2081,8 +2081,8 @@ nowadays, and so that no argument (hujjah) would be left for his
 priority.
 
 But all this was elucidated by al-’Imām ‘Ali (‘a) through a sermon
-before the public, saying in this regard:  
- “...Nevertheless, I remained patient despite length of period and
+before the public, saying in this regard:
+“...Nevertheless, I remained patient despite length of period and
 stiffness of trial, till when he went away (of death) he put matter (of
 caliphate) in a group and regarded me to be one of them. But good
 Heavens! What had I to do with this consultation”? Where was any doubt
@@ -2106,13 +2106,13 @@ world. The Messenger of Allah (S) was fully aware of all this,
 extolling, throughout opportune times, the virtues of his brother and
 cousin, so as to make them love him, saying in this respect:
 
-To love “‘Ali is faith and hating him is hypocrisy”[^90]  
- And: “Ali is from me and I am from him.”[^91]  
- He also said: “Ali is the wali (guardian) of every believer after
-me.”[^92]  
- Further: “‘Ali is the gate of the city of my knowledge and the father
-of my children.”[^93]  
- He said too: ‘Ali is the master of the Muslims and Imam of the pious,
+To love “‘Ali is faith and hating him is hypocrisy”[^90]
+And: “Ali is from me and I am from him.”[^91]
+He also said: “Ali is the wali (guardian) of every believer after
+me.”[^92]
+Further: “‘Ali is the gate of the city of my knowledge and the father
+of my children.”[^93]
+He said too: ‘Ali is the master of the Muslims and Imam of the pious,
 and leader of the immaculate pure ones.[^94]
 
 But all these traditions have, unfortunately, increased them in
@@ -2177,8 +2177,8 @@ They asked: Do you mean the Jews and Christians? He replied: But who
 would be then (other than them)??”[^96]
 
 Where from to come the wonder while we read what is reported by
-al-Bukhāri and Muslim from the Messenger of Allah (S):  
- “On the Doomsday my Companions will be brought unto the left, whereat I
+al-Bukhāri and Muslim from the Messenger of Allah (S):
+“On the Doomsday my Companions will be brought unto the left, whereat I
 would inquire: Whereto (are they brought)? The reply will come: To the
 Hellfire, and I will say: O my lord, these are my Companions, then it
 will be said to me. You are unaware of what they have done after you.
@@ -2188,8 +2188,8 @@ cattle.”[^97]
 
 What wonder when listening to the hadith uttered by the Prophet (s): “My
 *Ummah* will be divided, after me, into seventy-three parties, all will
-go to Fire except only one.”[^98]  
- And the Most High, the Lord of Glory, and Exaltness, Who knows what is
+go to Fire except only one.”[^98]
+And the Most High, the Lord of Glory, and Exaltness, Who knows what is
 kept in bosoms, disclosed the truth when saying:
 
 ***“And most believe (it) not, though thou desire it.” (12:103)***
@@ -2198,8 +2198,8 @@ kept in bosoms, disclosed the truth when saying:
 Truth.” (23:70)***
 
 ***“Indeed have We brought unto you with the truth but most of you unto
-the truth were hateful.” (43:78)***  
- ***“Be it known verily God’s is what is in the heavens and the earth;
+the truth were hateful.” (43:78)***
+***“Be it known verily God’s is what is in the heavens and the earth;
 Be it (also) known, verily, God’s promise is true, but most of them know
 not.” (10:55)***
 
@@ -2295,14 +2295,14 @@ other well-known narrations.
 
 The Prophet (S) has, time and again, extalted his cousin ‘Ali
 manifesting his honour and virtues throughout all occasions, referring
-to his traits and merits. Once he said:  
- “This man (‘Ali) is my brother, and executor and successor after me; so
-you should adhere to and obey him.”[^105] Once again he said:  
- “Your position to me is exactly like that of Aaron to Moses, except
+to his traits and merits. Once he said:
+“This man (‘Ali) is my brother, and executor and successor after me; so
+you should adhere to and obey him.”[^105] Once again he said:
+“Your position to me is exactly like that of Aaron to Moses, except
 that there is no prophet after me.”[^106]
 
-Another time he said:  
- “Whoever desires to live my life, and to die my death, and dwell the
+Another time he said:
+“Whoever desires to live my life, and to die my death, and dwell the
 Land of the Leal (Paradise) with which my Lord promised me, he should
 follow the guide of ‘Ali ibn Abi Tālib, as he would either take you out
 of guidance nor bring you into misguidance (dalālah).”[^107]
@@ -2318,8 +2318,8 @@ them over others, as in the case of giving commandment to Abu Bakr and
 
 Another example also, is when he made the young man, Usāmah ibn Zayd, a
 commander over all of them, within the battalion of Usāmah before his
-(S) death.  
- But concerning ‘Ali ibn Abi Tālib, he was never sent in a mission but
+(S) death.
+But concerning ‘Ali ibn Abi Tālib, he was never sent in a mission but
 only as a leader and commander. Once upon a time he (S) delegated two
 armies, giving the commandment of one of them to ‘Ali and the other to
 Khalid ibn al-Walid, saying to them: When being separated each one of
@@ -2467,8 +2467,8 @@ and not from me (repeating it three times)
 
 On standing up, al-Hārith said: "O Allah, if what is uttered by MuHammad
 being true, send against us stones from the sky or bring us a painful
-doom."  
- Then he (S) said: By Allah, before reaching his camel, Allah pelted him
+doom."
+Then he (S) said: By Allah, before reaching his camel, Allah pelted him
 with a stone from the heaven, which fell upon the top of his head and
 went out from his posterior, causing his death. Thereat these verses
 were revealed by Allah the Almighty:
@@ -2487,8 +2487,8 @@ It is related to the punishment of anyone concealing the witness
 regarding the incident of al-Ghadir, and was inflicted by the
 imprecation uttered by al-’Imām ‘Ali. That was when al-’Imām ‘Ali,
 during a memorable day, rose up, and gathered people at al-Rahabah,
-proclaiming from over the minbar:  
- I appeal to every Muslim who heard the Messenger of Allah (S), saying
+proclaiming from over the minbar:
+I appeal to every Muslim who heard the Messenger of Allah (S), saying
 on the day of Ghadir Khumm. "‘Ali is the master of whomever I am his
 master", to stand up and give witness of what he heard, provided that he
 saw him by his own eyes and heard him by his own ears."
@@ -2532,8 +2532,8 @@ Mālik was affected with leprosy, al-Barā’ ibn ‘Azib turned blind, and
 Jarir was converted to a bedouin after his migration, and on coming
 al-Shurāt he died inside his mother’s house.
 
-This story is famous, reported by a large number of historians.[^118]  
- “So Learn a Lesson, O ye who have eyes.”
+This story is famous, reported by a large number of historians.[^118]
+“So Learn a Lesson, O ye who have eyes.”
 
 Any truth-seeker can recognize, out of this incident,[^119] that was
 revived by al-’Imām ‘Ali after elapse of twenty-five years and was about
@@ -2593,11 +2593,11 @@ The Almighty Allah said:
 Lo! Allah is Hearer, Seer." (22:75)***
 
 The executors have been chosen by Allah exactly as in the case of the
-prophets. The Messenger of Allah (S) said in this respect:  
- "For every prophet there is an executor (wasi), and my executor is ‘Ali
-ibn Abi Tālib.[^120]  
- In another haadith, he (S) said:  
- “I am the seal of the prophets and ‘Ali is the seal of the
+prophets. The Messenger of Allah (S) said in this respect:
+"For every prophet there is an executor (wasi), and my executor is ‘Ali
+ibn Abi Tālib.[^120]
+In another haadith, he (S) said:
+“I am the seal of the prophets and ‘Ali is the seal of the
 executors.”[^121]
 
 On this basis, the Shi‘ah submitted totally to Allah and His Messenger,
@@ -2634,8 +2634,8 @@ death of his slave-girl Habbabah, being delighted at a poet whereat he
 kisses his penis. Why do we occupy our minds in talking about those whom
 the Muslims judged to be representing only the mordacious kings, not the
 (real) caliphate, as referred to by the Hhadith narrated by them, which
-is the utterance of the Messenger (S).  
- "Verily successorship after me shall last for thirty years, after which
+is the utterance of the Messenger (S).
+"Verily successorship after me shall last for thirty years, after which
 it will be only a mordacious rule."
 
 This point is out of scope of our discussion, and anyone desiring to

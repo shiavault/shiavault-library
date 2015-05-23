@@ -47,8 +47,8 @@ government has the right to give him physical punishment.
 This point is also worth remembering that according to the view of
 psychologists some women always like to hurt and sometimes due to some
 cause it becomes intense and shown in psychological disorder. In such
-cases a light physical punishment cures their sickness.  
- It must also be remembered that the punishment mentioned should be such
+cases a light physical punishment cures their sickness.
+It must also be remembered that the punishment mentioned should be such
 that the body is injured or bruised.
 
 [^1]: Surah Nisa 4:19

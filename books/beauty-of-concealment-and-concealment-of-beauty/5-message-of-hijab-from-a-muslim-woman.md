@@ -1,13 +1,13 @@
 Message of Hijab From a Muslim Woman
 ====================================
 
-Hearken!  
- O Woman! This jingle jangle is the clink of your chains!  
- What an old and rusty clink!  
- As if it has continued to ring for thousand of years of history till  
- this day. under the dominance of the systems devouring the blood of
-humanity,  
- Throughout the decadent society in which you live,
+Hearken!
+O Woman! This jingle jangle is the clink of your chains!
+What an old and rusty clink!
+As if it has continued to ring for thousand of years of history till
+this day. under the dominance of the systems devouring the blood of
+humanity,
+Throughout the decadent society in which you live,
 
 In the depth of your thoughts, wishes and tastes, and even your
 decisions, These chains, which have pierced from your skin into your
@@ -36,8 +36,8 @@ supplied.
 
 Of course, O Woman!
 
-Whom thousands of years of decadent history have kept in chains,  
- Whose self has been wounded by the scourges of oppression of prevailing
+Whom thousands of years of decadent history have kept in chains,
+Whose self has been wounded by the scourges of oppression of prevailing
 systems, Who throughout the history, in one way or the other, has been
 the slave of the economic powers;
 
@@ -49,9 +49,9 @@ Now at this height of awakening and freedom when the people of the world
 are straightening their backs from under the bloodstained boots of
 oppressors, are revolting and are. triumphant:
 
-Wait a bit! Wait a bit!  
- And from the depth of this dark night,  
- Which is nearing the dawn,
+Wait a bit! Wait a bit!
+And from the depth of this dark night,
+Which is nearing the dawn,
 
 From beyond the cries of the deprived, the hungry and those in debt,
 From beyond the chains fastened round the feet of the seekers of truth,
@@ -61,27 +61,27 @@ the whole world under the cover of its darkness, You have linked (the
 people) with God.
 
 And now that you have accepted Islam as a system of life and an
-Ideology,  
- Also accept hijab,  
- And under its vitalizing dress recreate yourself and get a new life.  
- With this bold negation have no fears.
+Ideology,
+Also accept hijab,
+And under its vitalizing dress recreate yourself and get a new life.
+With this bold negation have no fears.
 
-What do you possess which you are afraid to lose,  
- Except a personality crushed under the load of thousands of years of
+What do you possess which you are afraid to lose,
+Except a personality crushed under the load of thousands of years of
 contempt and chains which have hindered your movement, your journey,
 your flight to new heights?
 
-It's nothing! It's nothing!  
- The legacy of this history made of rogues,  
- The corrupt and cruel regimes of two thousand and five hundred years
+It's nothing! It's nothing!
+The legacy of this history made of rogues,
+The corrupt and cruel regimes of two thousand and five hundred years
 with autocratic and bloodthirsty leaders and enslaving economic systems,
 And thousands Of years of religious despotism swayed by the traders of
 faith, How all these elements have changed you, your sex quality, your
 culture, your feminine character and your capacity to work!
 
-You are nothing ! Your are nothing!  
- But a woman who adds passion to bed,  
- A doll which through its characteristics weakens determination, A
+You are nothing ! Your are nothing!
+But a woman who adds passion to bed,
+A doll which through its characteristics weakens determination, A
 commodity found in abundance in the private chambers of rulers and the
 common street harems, A domestic prisoner who from morn till night is
 put to drudgery in the isolated portions of the house and busies herself
@@ -90,13 +90,13 @@ maximum profits to the landlords and mill-owners, Or rots in the expanse
 of the bureaucratic establishments, And lastly in every institution of a
 decadent society, in one form or the other, is despised and exploited.
 
-Of course, this is what has been imposed on you.  
- The dirty culture they have framed for you,  
- The income they have fixed for you,  
- As if throughout the history all its autocrats and rogues, with
+Of course, this is what has been imposed on you.
+The dirty culture they have framed for you,
+The income they have fixed for you,
+As if throughout the history all its autocrats and rogues, with
 hundreds of sabres drawn, have made you their target. Come and seek
-shelter in Islam and be safe, be strong, be armed.  
- With what ? With its laws, its universal outlook, its anthropology.
+shelter in Islam and be safe, be strong, be armed.
+With what ? With its laws, its universal outlook, its anthropology.
 
 Yes, with Islam in toto, including indeed, its hijab system. Now that
 you have accepted Islam, also accept its dress, and throw away this
@@ -107,14 +107,14 @@ Do we mean the dress which has been imposed on Islam by feudalism or
 Capital ism with the help of the tyrant rulers, With all those
 restrictions, contempts, but of course with an Islamic form Or a prison,
 a cloth which alludes to the large prison of house, society and your
-history ?  
- What difference does it make, whether it is a (head) kerchief, a loose
+history ?
+What difference does it make, whether it is a (head) kerchief, a loose
 garment or a chador, under which you may suffer unlimited contempt ?
 
 Where you may be free to do whatever you like, dress yourself as you
 like, think as you like, even be more anti-Islamic than any infidel, be
-devoid of belief in God, or be without any cover ? No, never!  
- The free and unrestrained dress of the imperialist, capitalist or
+devoid of belief in God, or be without any cover ? No, never!
+The free and unrestrained dress of the imperialist, capitalist or
 colonial systems, which places you uncovered before the eyes of the
 people, stupefying the brains, weakening the intentions and negating the
 higher values,
@@ -122,26 +122,26 @@ higher values,
 Or the Marxian dress whose limits are so much indefinite and incomplete
 that it cannot change into a protector of your total features, into a
 complete revolutionary base against the decadent systems and values of
-atheism, sex, beauty and pleasure.  
- No, no! None of these dresses, but only the Islamic dress to the extent
+atheism, sex, beauty and pleasure.
+No, no! None of these dresses, but only the Islamic dress to the extent
 it Is prescribed by the Islamic ideology which humanizes and liberates
 man.
 
 It has no special form, no particular colour, neither black, nor yellow,
 brown, blue, red or orange, No, all these details are to be determined
 by the requirements of time, even social, economic, political conditions
-and specially the indigenous culture and tradition of your own land.  
- It is not a prison ?  
- Then, what is it ?
+and specially the indigenous culture and tradition of your own land.
+It is not a prison ?
+Then, what is it ?
 
-It is a sanctuary of concealment and chastity.  
- It is a message.  
- It is a weapon, or a stronghold.
+It is a sanctuary of concealment and chastity.
+It is a message.
+It is a weapon, or a stronghold.
 
 A sanctuary of concealment and chastity which not only shields you in
 its cover and hides your physical features and bestows upon them
-perfection.  
- Your characteristic features, after all, are not confined to body and
+perfection.
+Your characteristic features, after all, are not confined to body and
 sex alone.
 
 But it also covers the divine substance of your being a woman, The
@@ -157,16 +157,16 @@ imperialistic sociology, But how naively you have pleased yourself with
 such disgrace! Islam, however, introduces with this dress for you some
 other criteria for your identity.
 
-After all Islam does not demand beauty from a woman.  
- It does not ask for an illusive appearance.  
- In the society, it does not demand the physical, sensual and feminine
-features.  
- No! No!
+After all Islam does not demand beauty from a woman.
+It does not ask for an illusive appearance.
+In the society, it does not demand the physical, sensual and feminine
+features.
+No! No!
 
 It rather demands from you belief in God, trust in Islamic identity,
 truthfulness, search for truth, pure human feelings, in short, faith,
-noble deeds and piety.  
- Islam demands from you your existential value, and not sensual value.
+noble deeds and piety.
+Islam demands from you your existential value, and not sensual value.
 
 It is your faith, your practice which brings about and establishes a
 progressive society based on the belief in One God, and not the physical
@@ -380,8 +380,8 @@ and fearful night which had enshrouded the whole world. I give you the
 glad tidings of the dawn of Islam, which would give you freedom.
 
 There is a violent agitation in your mind. How had they introduced Islam
-to you? What is it that you hear now? What is it that you see now?  
- I know how difficult it is for you to accept and believe what I am
+to you? What is it that you hear now? What is it that you see now?
+I know how difficult it is for you to accept and believe what I am
 telling you.
 
 I know how difficult it is to nullify the pictures drawn before you by
@@ -474,8 +474,8 @@ get more profit at the cost of your lifeblood, at the cost of disturbing
 the whole system of your family and at the cost of depriving your
 children of your protection.
 
-Woe and disaster be the companion of those,  
- Who are so much flourishing due to oppression (to others). You see how
+Woe and disaster be the companion of those,
+Who are so much flourishing due to oppression (to others). You see how
 in order to get more profit and power they prepare plans for exploiting
 every section and class of the people. With my hijab, I invite you to
 the fold of Islam, the Islamic ideology, the Islamic hijab. Prepare
@@ -506,8 +506,8 @@ veneration, modesty, chastity, fervour, pure love and holy devotion.
 
 Now that those rogues have conquered you as a base for themselves and
 for the preservation of their system, they have also slaughtered all
-these supreme values on the altar of their interests.  
- O my sister, with my hijab I give you a message. A half of the body of
+these supreme values on the altar of their interests.
+O my sister, with my hijab I give you a message. A half of the body of
 the oppressed people, oppression and exploitation are your problems too,
 and not the problems of men only, This bruised land which has always
 been plundered by rogues, super-criminals and enemies is your land too
@@ -650,8 +650,8 @@ publicity of a refrigerator or a juicer, or. ..Alas! How much they have
 degraded you, to the position of an article, a tool, an implement simply
 for making profit and perpetuating their control over the sleeping
 minds, the petrified brains, interested in sex, pleasure, consumption
-and grazing like cattle.  
- Islam has also taken away this base from them, (as Allah orders):
+and grazing like cattle.
+Islam has also taken away this base from them, (as Allah orders):
 
 "***Be not too complacent of speech***."[^6]
 
@@ -684,8 +684,8 @@ forward in the way of this sacred path by sacrificing their blood.
 
 O Woman! O my sister! O prisoner of the ruling regime! O the one
 oppressed by the political and economic powers and religious
-despotism!  
- Is according to the analysis of Islamic Ideology this love for display
+despotism!
+Is according to the analysis of Islamic Ideology this love for display
 and ostentation at the social level an innate trait of woman's
 character?
 
@@ -748,8 +748,8 @@ imposed on you which have dragged you into such disgrace and
 humiliation, and raze their edifice to the ground.
 
 Give a helping hand to those who have openly been defeated in the path
-of truth and to the masses.  
- Rise and revolt against the autocratic regimes, against the decadent
+of truth and to the masses.
+Rise and revolt against the autocratic regimes, against the decadent
 societies and the dirty values imposed on you. Rise, and incite others
 against them, with the help of your Islam, with the help of your hijab,
 the depth of which you have now fully realized, which has bestowed upon
@@ -800,8 +800,8 @@ I am released. This is the real freedom, namely, being a Muslim.
 
 My hijab is a weapon. It is a stronghold for war against oppressors. I
 make them a target of the volley of truth and wrath discharged from my
-hijab and send them to the graveyard of history.  
- O powerful people! O disobedient tyrants! O Pharoahs! Throughout the
+hijab and send them to the graveyard of history.
+O powerful people! O disobedient tyrants! O Pharoahs! Throughout the
 millenia of decadent history you have used me as a domestic servant, a
 tool for the bed and a source for enervating willpowers, stupefying the
 brains and destroying the supreme values and have turned me subservient

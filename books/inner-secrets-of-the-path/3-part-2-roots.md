@@ -1,7 +1,7 @@
 Part 2: Roots
 =============
 
- 1) The First Foundation
+1) The First Foundation
 ------------------------
 
 **The First Foundation: the five roots of religion, namely divine
@@ -9,9 +9,9 @@ unity** ***(tawhid),*** **divine justice** ***(adl),*** **prophethood,
 imamate and the events of the hereafter** ***(ma\`ad)*** **according to
 the three degrees of** ***shari\`ah, tariqah*** **and** ***haqiqah.***
 
-   
-* *  
- Know that the aim of the prophets and *awliya;* as we have already
+
+* *
+Know that the aim of the prophets and *awliya;* as we have already
 explained above on various occasions, is to convey each creational
 reality to its own specific perfection, in accordance with its
 capability and receptivity, and to elevate them above the darkness of
@@ -30,9 +30,9 @@ this in His Book when he says, \`and made complete to you His favours
 outwardly and inwardly' and thereafter \`And if you count Allah's
 favours, you will not be able to number them;' thus the slave realizes
 that the blessings bestowed upon him by Allah are in­numerable, both in
-this world and the next.  
-    
- The meaning of inner purification is the purification of the impurities
+this world and the next.
+
+The meaning of inner purification is the purification of the impurities
 of manifest and hidden *shirk* (associating other than Allah with
 Allah). The polishing of the mirror of the self from the rust of
 disbelief and misguided actions is only possible with correct belief in
@@ -52,9 +52,9 @@ possible by means of the five branches, namely prayer, fasting, *zakat*
 (payment of the purifying tax), *hajj* (pilgrimage) and *jihad.* Hence
 the Prophet's words: \`Islam is built on cleanliness,' and the words of
 Allah: \`Surely Allah loves those who turn much to Him and He loves
-those who purify themselves.'  
-    
- The Commander of the Faithful has explained the meaning of
+those who purify themselves.'
+
+The Commander of the Faithful has explained the meaning of
 purification: \`Allah has imposed belief (on the Muslims) as a
 purification from idolatry *(shirk),* the prayer as a way of freeing
 oneself from pride, *zakat* (the alms‑tax) as a means of provision,
@@ -73,9 +73,9 @@ may go on multiplying, death as a martyr *(shahid)* to overcome the
 perverse and the rebellious, abstention from lying as a means of
 revering the truth, peace as a heaven from whatever inspires fear,
 imamate as a way of establishing order within the nation of Muslims and
-obedience as a mark of respect for the Imams.'  
-    
- Thus, anyone who wishes to purify the outward and the inward in the way
+obedience as a mark of respect for the Imams.'
+
+Thus, anyone who wishes to purify the outward and the inward in the way
 outlined above should establish these roots and branches and all they
 imply, within the framework of the three levels of *shari\`ah, tariqah*
 and *haqiqah.* The roots and branches of the people of each of these
@@ -87,7 +87,7 @@ are both applied and define the pillars or the foundation of knowledge
 and action; we must then explain how they are both contained in the
 three above‑mentioned levels.
 
- 
+
 
 2) An Investigation of the Roots
 --------------------------------
@@ -97,8 +97,8 @@ three above‑mentioned levels.
 **An Investigation of the Roots:** **according to the way of the people
 of truth**
 
-   
- Know that there are great differences of opinion concerning this
+
+Know that there are great differences of opinion concerning this
 matter: some believe that the roots of faith are two in number, that is,
 affirmation of Allah and His Prophet and certainty of belief with regard
 to the laws (and the fact that the Prophet ruled by these laws), while
@@ -123,9 +123,9 @@ that the roots of belief are five in number: divine unity, divine
 justice, prophethood, imamate and *al‑ma\`ad,* the resurrection and
 return of man to his Creator to face judgment. This is in fact the
 correct system of belief it is what I prefer and what is preferred by
-most of the scholars of the people of Allah.  
-    
- The one who possesses a correct system of belief and perfect faith must
+most of the scholars of the people of Allah.
+
+The one who possesses a correct system of belief and perfect faith must
 also believe in the unity of Allah so that he may free himself from
 associating others (or other things) with Allah. Moreover, as well as
 belief in His unity, he must also believe that He is just and Wise, that
@@ -138,9 +138,9 @@ this when He says, \`And your Lord is not in the least unjust to His
 servants.' As these two beliefs are dependent upon the existence of the
 Prophet and the manifestation of his miracle (namely the Qur'an, in
 order that false belief may be distinguished from correct belief), it is
-also necessary to believe in the prophet and his prophecy.  
-    
- The claim of certain people that knowledge of the roots need not be
+also necessary to believe in the prophet and his prophecy.
+
+The claim of certain people that knowledge of the roots need not be
 based upon the evidence of the Qur'an and the body of traditions, but
 rather that it is enough to acquire knowledge of them by means of the
 intellect, is not true: if the intellect were sufficient in acquiring
@@ -172,9 +172,9 @@ it would imply deficiency on His part. These two roots are dependent
 upon Allah, that is, His appointment of the Prophet and the Imam;
 comprehension of these two roots is by reference to the Qur'an and the
 narrated traditions ‑ and not by means of the intellect, as we have
-explained above.  
-    
- There are numerous works on this subject, but it is not approp­riate
+explained above.
+
+There are numerous works on this subject, but it is not approp­riate
 that we discuss the matter any further in this study. These works are to
 be found in particular in the sphere of theological debate *(\`ilm
 al‑kalam)* about the nature of life after death in the section dealing
@@ -193,17 +193,17 @@ explained later). The roots are confined to these five and the dutiful
 Muslim has no need of any more than these. Moreover it is not
 permissible that he base his worship on less than these, and Allah is
 more Knowing and more Wise ‑He it is Who says the truth and He it is Who
-guides to the correct path.  
-    
- We shall now begin to comment upon each of these roots within the
+guides to the correct path.
+
+We shall now begin to comment upon each of these roots within the
 parameters of the three levels, namely *shari\`ah, tariqah* and
 *haqiqah.*
 
 3) Divine Unity (tawhid)
 ------------------------
 
-*  *  
- The science of divine unity, *tawhid,* despite its various divisions
+*  *
+The science of divine unity, *tawhid,* despite its various divisions
 and types, may be contained within two general divisions: firstly, the
 *tawhid* of the prophets and secondly, the *tawhid* of the saints or
 friends of Allah. As for the t*awhid* of the prophets, it is a divine
@@ -221,14 +221,14 @@ for lords besides Allah' and also His words: \`What! Makes he the gods a
 single god? A strange thing is this to be sure! The second kind of
 *tawhid is* expressed in His words: \`Surely your Lord is One God' and
 \`So know that there is no god but Allah'; moreover, the phrase *la
-ilaha illa'llah* *‑* there is no god but Allah ‑ has the same meaning,
+ilaha illa'llah ‑* there is no god but Allah ‑ has the same meaning,
 that is, it is a rejection of many gods and an affirmation of One God.
 The words of the Prophet also testify to this: \`I have been commanded
 to fight the people until they say \`There is no god but Allah'; indeed
 these words express the perennial mission to mankind of the prophets and
-messengers from Adam to Muhammad.  
-    
- As for the *tawhid* of the saints *(awliya'),* it is a *tawhid* of His
+messengers from Adam to Muhammad.
+
+As for the *tawhid* of the saints *(awliya'),* it is a *tawhid* of His
 existence and of the inward: it is a *tawhid* of the elite and calls man
 to witness Absolute (Existence which belongs to Allah) rather than to
 witness limited or dependent existences. In other words, it calls to the
@@ -244,9 +244,9 @@ Person of your Lord, the Lord of glory and honour.' The words of all the
 gnostics also reflect the same truth: \`There is nothing in existence
 but Allah, His Names, His Attributes and His Actions. Thus everything is
 Him, by Him, from Him and to Him' ‑ such is the call of the Saints and
-the Imams from Seth to the Mahdi.  
-    
- There are no other kinds of *tawhid* besides these two because idolatry
+the Imams from Seth to the Mahdi.
+
+There are no other kinds of *tawhid* besides these two because idolatry
 or polytheism *(shirk),* which stands in opposition to it, is also
 confined to two kinds: that is, manifest and hidden *shirk.* A person
 may either outwardly or inwardly associate others with Allah: if he or
@@ -270,9 +270,9 @@ you have named, you and your fathers' Allah has not sent down any
 authority for them; judgment is only Allah's. He has commanded that you
 shall not serve aught but Him; this is the right religion but most
 people know it not.' This *shirk is* the antithesis of the *tawhid* of
-existence: there is no other *shirk* besides these two.  
-    
- Know that the appearance of all the prophets and messengers is only for
+existence: there is no other *shirk* besides these two.
+
+Know that the appearance of all the prophets and messengers is only for
 the purpose of calling mankind to the divine *tawhid* and freeing him
 from manifest *shirk.* The appearance of all the Saints and Imams is
 only for the purpose of calling man to a *tawhid* of existence and of
@@ -285,10 +285,10 @@ who believe and affirm the Oneness of Allah. Moreover, both their
 outward and their inward aspects become purified of the impurity of
 manifest *shirk.* This is referred to in the words of Allah when He
 says, \`The idolaters are nothing but unclean.' If he does not do so
-then he is a *mushrik* *‑ guilty* of *shirk* *‑ an* unbeliever and
-im­pure both outwardly and inwardly.  
-    
- All those who set out in the direction of the Absolute Existent leaving
+then he is a *mushrik ‑ guilty* of *shirk ‑ an* unbeliever and im­pure
+both outwardly and inwardly.
+
+All those who set out in the direction of the Absolute Existent leaving
 behind the dependent and finite existence, all those who turn from
 witnessing of the contingency of existence to a witnes­sing of the
 Necessary of Existence and who utter the formula of the *tawhid* of
@@ -320,9 +320,9 @@ divine *tawhid.* At the same time, however, he overlooks the hidden
 *shirk* which is veiling him from Allah. The Prophet alludes to this
 when he says, \`The creatures of *shirk* from amongst my people are more
 hidden than the black creatures of the ant world crawling over a hard
-rock on a dark night.'  
-    
- It is clear that hidden *shirk is* particular to the *mu'minun* (the
+rock on a dark night.'
+
+It is clear that hidden *shirk is* particular to the *mu'minun* (the
 believers) and the *muslimun* (those who have submitted to the will of
 God); it cannot be ascribed to the hypocrites and the unbelievers. Hence
 the words of Allah \`And most of them do not believe in Allah without
@@ -341,26 +341,26 @@ worshipped that is greater than one's base desire.' This is because the
 unbe­liever tends to the religion of his fathers and forefathers by way
 of his low desire ‑ becoming thereby one of the idolaters. They are
 referred to by Allah when He says, \`They say: "We found our fathers on
-a course and surely we are guided by their footsteps." '  
-    
- We have presented the above principles by way of a brief introduction;
+a course and surely we are guided by their footsteps." '
+
+We have presented the above principles by way of a brief introduction;
 we shall now begin a description of each of the different kinds of
-*tawhid* particular to each of the three groups.  
-  
+*tawhid* particular to each of the three groups.
+
 
 ### i) According to the people of shari\`ah
 
-* *  
- This *tawhid is* divine *tawhid,* that is, the rejection of many gods
+* *
+This *tawhid is* divine *tawhid,* that is, the rejection of many gods
 and the affirmation of one God (or to express it in other terms the
 rejection of finite gods and the affirmation of the One Absolute God).
 This kind of *tawhid* may be divided into two kinds: one kind which is
 connected to those *of taqlid* (imitation *of* others more learned than
 they in matters of religion) from amongst the common or ignorant people,
 and a second kind which is con­nected to those of perception and
-intellectual reasoning from amongst the elite and the scholars.  
-    
- As for the first group, their way is to believe that God is One, that
+intellectual reasoning from amongst the elite and the scholars.
+
+As for the first group, their way is to believe that God is One, that
 He has no associate to His divinity and no rival or equal in existence,
 that there is nothing like Him and that He is the One Who hears and the
 One Who sees. They hold strongly to their belief, aware of Allah's
@@ -389,17 +389,17 @@ their sons, or their brothers, or their kinsfolk.' People who have such
 a system of belief live within the protection of Islam in this world,
 they are safe from them­selves, secure in their wealth and in their
 honour; in the next world their return will be to the generosity and
-mercy of Allah ‑truly Allah is the Possessor of vast bounty.  
-    
- The perfect shaykh Abu Isma'il al‑Harawi has indicated this in his book
+mercy of Allah ‑truly Allah is the Possessor of vast bounty.
+
+The perfect shaykh Abu Isma'il al‑Harawi has indicated this in his book
 called *Manazil al‑Sa'irin:* \`There are three aspects *of tawhid,* the
 first being the *tawhid of* the common people: this *tawhid is* made
 valid by the profession of faith *(shahadah);* the second kind is the
 *tawhid* of the elite which is established by means of the spiritual
 realities; the third kind is the *tawhid* which has its source in
-pre‑creational reality and is the *tawhid* of the elite of the elite.'  
-    
- As for the *tawhid* of imitation *(taqlid),* it is to bear witness that
+pre‑creational reality and is the *tawhid* of the elite of the elite.'
+
+As for the *tawhid* of imitation *(taqlid),* it is to bear witness that
 there is no god but Allah, that He is One and has no associate, that He
 is One and \`He upon whom all depend. He begets not, nor is He begotten
 and none is like Him.' This is the manifest *tawhid* which rejects the
@@ -408,9 +408,9 @@ Makkah faced while praying) and the inviolability of life and property;
 by it lives and property are spared and by it the House of Peace is made
 distinct from the House of Disbelief; by it the worship of ordinary
 Muslims is made valid ‑ even if their action and belief is not based on
-proofs and reasoning.  
-    
- As for the *tawhid* of reasoning, it is to establish the Oneness of God
+proofs and reasoning.
+
+As for the *tawhid* of reasoning, it is to establish the Oneness of God
 by intellectual proofs, showing that to admit of the existence of more
 than one god is logically inadmissible. If there were two independent
 gods in existence, then each would be distinct from the other by their
@@ -432,13 +432,13 @@ the believers) on the Day of Resurrec­tion. This *tawhid is* called the
 Actor by the action and the Creator by the creation. They have no
 greater aim or destination but this, for such are the limits of their
 knowledge: \`They know the appearances of this world's life, but of the
-hereafter they are absolutely heedless.'  
-  
+hereafter they are absolutely heedless.'
+
 
 ### ii) According to the people of tariqah
 
-   
- After arrival at this *tawhid,* the people of this group bear witness
+
+After arrival at this *tawhid,* the people of this group bear witness
 with the eye of inner vision that God is One, that there is no other
 than Him in existence and that there is no other Actor but Him. This is
 referred to in their words, \`There is no Actor but Allah' and \`There
@@ -472,14 +472,14 @@ they bear witness to His placing of all things in their rightful place,
 His connection to these things by their longing for Him, and His
 invisibility with respect to them by virtue of their form and structure.
 This *tawhid* lends to the inner knowledge of causes and the
-abandon­ment of the phenomenal world.  
-    
- The difference between this kind of *tawhid* and that of the people of
+abandon­ment of the phenomenal world.
+
+The difference between this kind of *tawhid* and that of the people of
 *shari\`ah* is that that of the latter is a *tawhid of* factual
 knowledge belonging to the common people and the former is the *tawhid*
 of actual experience belonging to the elite. The first allows one to rid
-oneself of manifest *shirk* and the second of hid­den *shirk* *‑ which*
-is the greater and more difficult of the two. As for the vast difference
+oneself of manifest *shirk* and the second of hid­den *shirk ‑ which* is
+the greater and more difficult of the two. As for the vast difference
 between this *tawhid* and the *tawhid* of the elite from amongst the
 people of Allah, it is that the *tawhid* particular to the people of
 *tariqah* is based on reliance, submission and contentment, together
@@ -492,9 +492,9 @@ denotes multiplic­ity, or rather it is multiplicity itself. In the same
 manner the multiplicity may be seen in the notion of the Relied upon and
 the one who relies, likewise in the One who is content with and the
 contented. It is clear that between multiplicity and *tawhid* there is a
-great distance.  
-    
- The *tawhid* of the elite of the elite is based on total annihilation,
+great distance.
+
+The *tawhid* of the elite of the elite is based on total annihilation,
 complete extinction and a passing beyond all stations, levels and all
 manifestations of the contingent or phenomenal world, even beyond
 existence itself and all that it implies. This is referred to by their
@@ -503,9 +503,9 @@ His sole existence).' What a difference then between this kind of
 *tawhid* and that! What a difference between the one who continues by
 himself and the one who is annihilated in his Lord: \`That is Allah's
 grace; \`He grants it to Whom He pleases and Allah is the Lord of mighty
-grace.'  
-    
- In His noble Book Allah also speaks about \`the knowledge of
+grace.'
+
+In His noble Book Allah also speaks about \`the knowledge of
 certainty', \`the source of certainty' and \`the truth of certainty',
 thus indicating thereby these three kinds of *tawhid.* And they are
 indicated by the terms \`submission', \`faith' and \`certainty' or the
@@ -524,17 +524,17 @@ of this world. Moreover, it is well known that \`love of this world is
 the source of all wrong actions.' Thus it is correct to associate the
 people of this group with this world ‑ for this is the reality of their
 situation. Allah refers to them saying, \`They know the appearances of
-this world's life, but of the hereafter they are absolutely heedless.'  
-    
- The station of realization, the spiritual rank and the *tawhid* of
+this world's life, but of the hereafter they are absolutely heedless.'
+
+The station of realization, the spiritual rank and the *tawhid* of
 experience ‑ a degree superior to that of mere factual know­ledge ‑
 places the people of the second group amongst the people of the next
 world: they have gone beyond outward appear­ances, witnessing the object
 of their desire ‑ as it actually is ‑by the eye of inward vision. This
 is referred to by Allah Who says: \`Say: this is My way: I call to
-Allah, I and those who follow Me being certain.'  
-    
- As for the people of the third group, their station of annihila­tion,
+Allah, I and those who follow Me being certain.'
+
+As for the people of the third group, their station of annihila­tion,
 their rank of the inward within the inward, their member­ship of the
 elite of the elite and their *tawhid* of the essence places them among
 the people of Allah and His chosen ones. This is because they have gone
@@ -552,13 +552,13 @@ of Allah, who are many ranks above the people of the Garden. Thus it is
 not surprising that he does not yearn after that which is lower than
 him, for to descend from something higher to something lower indicates
 imperfection. This is referred to by the Prophet when he says, \`The
-good actions of the righteous are the wrong actions of the intimate.'  
-  
+good actions of the righteous are the wrong actions of the intimate.'
+
 
 ### iii) According to the people of haqiqah
 
-   
- The arrival of the people of Allah at the station of the two kinds of
+
+The arrival of the people of Allah at the station of the two kinds of
 *tawhid* mentioned above means that they do not witness other ­than
 Allah in existence and that in reality they know no other but Him: this
 is because His existence is true and essential and the existence of
@@ -580,14 +580,14 @@ the sea and the waves are in a state of self‑destruction and
 disappearance. Such a notion is entirely rational and may be understood
 by every sane person, indeed, it is also a phenomenon that may be
 perceived by the senses of everyone. The following lines of verse also
-express this idea:  
-    
- The sea is as the sea of old; truly the action of the waves and the
-rivers  
- Does not veil you from their real *form, for* the very *forms* therein
-are veils.  
-    
- Thus, just as the one who realizes that in reality there is no
+express this idea:
+
+The sea is as the sea of old; truly the action of the waves and the
+rivers
+Does not veil you from their real *form, for* the very *forms* therein
+are veils.
+
+Thus, just as the one who realizes that in reality there is no
 existence but that of the sea (the waves and raindrops being
 non‑existent and time‑bound and thus doomed to extinction and
 disappearance), will say that there is nothing in reality nor in outward
@@ -599,15 +599,15 @@ is also permitted to say that, in reality, there is no existence save
 that of the Real. This is the meaning of their words, \`The one who
 continues (in Allah) continues forever and the one of annihilation is
 still in a state of annihilation.' Allah refers to this when He says,
-\`Yet are they in doubt with regard to a new creation.'  
-    
- According to the gnostic, contingent existence is maintained by the
+\`Yet are they in doubt with regard to a new creation.'
+
+According to the gnostic, contingent existence is maintained by the
 Spirit of the Merciful, by the input from real existence at every moment
 (into the manifest world of disappearing forms) and by a corresponding
 moment by moment acceptance of this existence (on the part of the
-existences of this world).  
-    
- The reality of this contingent existence is difficult to com­prehend
+existences of this world).
+
+The reality of this contingent existence is difficult to com­prehend
 for it is of an extremely subtle nature. Allah refers to this when He
 says, \`And you see the mountains, you think them to be solid, and they
 shall pass away as the passing away of the cloud.' Contingent existence
@@ -633,9 +633,9 @@ intellect judges them to be of continued unbroken life by the
 predominance of the existence lent to them. Man's inner vision, however,
 judges every contingent existence to be a new creation at every moment.
 Thus, in the vision of the gnostic who witnesses the Real or existence
-as it actually is, there exists nothing but the Real Him­self.  
-    
- This vision of the Real is sometimes expressed as existence and
+as it actually is, there exists nothing but the Real Him­self.
+
+This vision of the Real is sometimes expressed as existence and
 sometimes as essence. This notion is lent support by the consensus of
 the gnostics who say, \`There is nothing in existence but Allah, His
 Names, His Attributes and His Actions; every­thing is Him, by Him, from
@@ -653,9 +653,9 @@ consensus the \`face' referred to here is the essence and thus we may
 read: \`Anywhere you turn in the contingent phenomenal world, there is
 His essence and His existence,' This is evident since the encompasser
 only encompasses by the presence of the thing encompassed ‑ \`And Allah
-encompasses all things.'  
-    
- The *tawhid* of action means the removal from one's vision of any actor
+encompasses all things.'
+
+The *tawhid* of action means the removal from one's vision of any actor
 or action, such that one arrives at the One True Actor, the Originator
 of all actions. In this way one establishes the intellect in the unity
 of action. The *tawhid* of attribute is an expression of the removal of
@@ -671,9 +671,9 @@ In this way one establishes one's spiritual vision in the unity of
 existence and essence ‑ becoming thereby a perfected gnostic, a man of
 realization and arrival, at the station of abode and firmness, above
 which there is no station. This station is referred to in their words,
-\`There is no other village after Abadan.'  
-    
- The Prophet has referred to these three kinds of *tawhid* in his
+\`There is no other village after Abadan.'
+
+The Prophet has referred to these three kinds of *tawhid* in his
 supplication, which is well known to the elite and the common people:
 \`O Allah I seek refuge from Your punishment by Your mercy, I seek
 refuge from Your wrath by Your contentment and I seek refuge from You by
@@ -684,9 +684,9 @@ action, the second to the *tawhid of* attribute and the third to the
 possessor of intellect', the person of the second \`the possessor of
 sight' and the third \`the possessor of intellect and; sight.' This is
 because the third gathers and comprises the other two and takes
-precedence over them.  
-    
- We shall finish this study by mentioning another of the gnostic
+precedence over them.
+
+We shall finish this study by mentioning another of the gnostic
 sayings, namely: \`The possessor of intellect is he who sees creation in
 a manifest way and the Truth in an inward way, the Truth being for him a
 mirror of creation: by the veiling of the mirror with the manifest
@@ -704,14 +704,14 @@ multiplicity from witnessing the aspect of the Inventor of existence,
 the One, and is not disturbed from witnes­sing, in the multiplicity of
 the creational manifestations, the Oneness of the Essence which emanates
 from them. The perfect shaykh Muhyi al‑Din ibn 'Arabi says in the
-following verse:  
-    
- Thus in creation is truth itself, if you possess sight,  
- And in the truth is creation itself, if you possess intellect.  
- If you possess both sight and intellect, then you see  
- Nothing therein but One thing, albeit in different forms.  
-    
- Since, as we have already indicated, there is no station above this
+following verse:
+
+Thus in creation is truth itself, if you possess sight,
+And in the truth is creation itself, if you possess intellect.
+If you possess both sight and intellect, then you see
+Nothing therein but One thing, albeit in different forms.
+
+Since, as we have already indicated, there is no station above this
 noble station Shaykh ibn 'Arabi has also said in his Fusus; \`If you
 have tasted of this, you have tasted the goal above which there is no
 other goal for those of creation. Thus do not hunger or tire yourself
@@ -722,14 +722,14 @@ Muhammad and his noble fam­ily.' We shall now conclude our description
 of the three kinds *of tawhid;* and Allah is more Knowing and more Wise;
 He it is Who says the truth and guides to the correct path.
 
- 
+
 
 4) The Justice of Allah (\`adl)
 -------------------------------
 
-   
-    
- What is meant by *\`adl is* that Allah is incapable of committing an
+
+
+What is meant by *\`adl is* that Allah is incapable of committing an
 offensive action and that He does not fail to fulfill that which is
 incumbent upon Him. Offensive action is any action for which the
 intellect feels revulsion and which is not consistent with its judgment
@@ -756,9 +756,9 @@ a sacred *hadith,* \`I was a hidden treasure and I desired to be known:
 so I created the world.' This is what is known as *lutf* (divine grace
 or kindness), which we have already explained above: the slave comes
 closer to His grace by his obedience and is distanced from it by his
-disobedience.  
-    
- According to most scholars, the question of what is good and what is
+disobedience.
+
+According to most scholars, the question of what is good and what is
 bad is a matter for the intellect and is not dependent upon what is
 mentioned on the subject in the Qur'an and the Prophetic traditions
 *(ahadith).* Some, however, believe the oppo­site to be true, that is,
@@ -779,9 +779,9 @@ intellect.
 
 Moreover, most men of intellect agree that the question of good and bad
 is something which is judged to be so by the intellect and does not
-depend on the evidence of the Qur'an and *ahadith.*  
-* *  
- The Mu'tazalites and their followers have provided ir­refutable proofs
+depend on the evidence of the Qur'an and *ahadith.*
+* *
+The Mu'tazalites and their followers have provided ir­refutable proofs
 of the validity of what we are saying. We shall mention them here so
 that the reader may decide for himself between the truth of our claim
 and theirs. What they say is that our purpose in the creation of Allah
@@ -815,13 +815,13 @@ aware of this distinction (between good and bad). Whoever denies the
 validity of this argument is both arrogant and ignorant and is not
 worthy of being spoken to (on this matter). We shall now begin to
 explain the question of divine justice with relation to the three
-levels.  
-  
+levels.
+
 
 ### i) According to the people of shari\`ah
 
-* *  
- All that is contained in this section may be expressed in the notion
+* *
+All that is contained in this section may be expressed in the notion
 that Allah does not commit any action which is odious (to the intellect)
 and He does not fail in fulfilling what is incumbent upon Him. Since He
 is aware of what (action) is repulsive and what (action) odious, and
@@ -831,18 +831,18 @@ nothing urges Him to such action because He is devoid of need and
 transcends such action. Therefore, since there is nothing to urge Him to
 such an action and yet there is something which prevents Him from such
 an action, it is impossible that such actions issue from the
-All‑Powerful, from the One Who elects.  
-    
- As it is established that Allah never commits any odious action and
+All‑Powerful, from the One Who elects.
+
+As it is established that Allah never commits any odious action and
 never fails in what is incumbent upon Him, the existence of dangerous
 animals; poisonous plants, noxious substances and other harmful things
 together with the cruelty of certain animals without apparent reason in
 the world of created phenomena is all for the good; whenever any action
 of oppression, lying or corruption, for exam­ple, occurs in the world,
 then it is because of other‑than‑Him and not because of Him. He never
-wills anything which is odious;  
-    
- indeed, the very desire for something odious is odious. Allah refers to
+wills anything which is odious;
+
+indeed, the very desire for something odious is odious. Allah refers to
 this when He says: \`And when they commit an indecency they say: We
 found our fathers doing this and Allah has enjoined it on us. Say:
 Surely Allah does not enjoin indecency. Do you say against Allah what
@@ -868,18 +868,18 @@ the slave of Allah, as do good actions, albeit with the accord and
 guidance of Allah; thus any praise or criticism falls on the slave and
 no other person. However we interpret this matter, there is nothing to
 suggest any injustice or actions of an odious nature on the part of
-Allah. It is this that is meant by *\`adl* by the people of *shari\`ah*
-*‑ in* accordance with the judgment of the intellect and the relevant
+Allah. It is this that is meant by *\`adl* by the people of *shari\`ah ‑
+in* accordance with the judgment of the intellect and the relevant
 sources within the Qur'an and *ahadith.* This is referred to by Allah
 when He says: \`Whoever does good, it is for his own soul and whoever
 does evil, it is against it, and your Lord is not the least unjust to
-His servants.'  
-  
+His servants.'
+
 
 ### ii) According to the people of tariqah
 
-   
- The justice of the people of *tariqah is* attained after their firm
+
+The justice of the people of *tariqah is* attained after their firm
 conviction that Allah has bestowed upon every created thing certain
 rights, perfections, inherent qualities, instincts, states and actions ‑
 in accordance with what is just and harmonious and without injury, loss,
@@ -902,9 +902,9 @@ or words issuing from Him: it is his duty to act only in accordance with
 His command directives and not to pay attention to any other. He Himself
 has said, \`Is not Allah sufficient for His servants?' and \`And
 whosoever trusts in Allah, He is sufficient for him; surely Allah
-attains His purpose; Allah has appointed a measure for everything.'  
-    
- In this way the people of *tariqah* and gnosis become established in
+attains His purpose; Allah has appointed a measure for everything.'
+
+In this way the people of *tariqah* and gnosis become established in
 the station of firmness and constancy, that is, they attain the station
 of trust, submission and contentment: this station is refer­red to by
 Allah with the words, \`Allah confirms those who believe with the sure
@@ -915,9 +915,9 @@ all things both past and to come, does not act but in accordance with
 His knowledge and wisdom and that nothing issues from Him which is in
 opposition to what actually happens; thus there is no alternative but to
 trust in and be content with one's own actions ‑ be they good or bad
-‑since this station is within the knowledge of Allah.  
-    
- Allah indicates that the contentment of the slave results in the
+‑since this station is within the knowledge of Allah.
+
+Allah indicates that the contentment of the slave results in the
 contentment of his Lord with him: \`(as for) those who believe and do
 good, surely these are the best of men, their reward with their Lord is
 gardens of perpetuity beneath which rivers flow, abiding therein for
@@ -932,9 +932,9 @@ within the knowledge of Lord and that He does not do anything but in the
 most appropriate manner. The Commander of the Faithful ('Ali) says in
 this respect, \`I have found all renunciation of the world *(zuhd)* in
 just two phrases from the Qur'an: "So that you may not grieve at what
-escaped you, nor be joyous at what He bestowed on you." '  
-    
- The aim of the slave of Allah is thus to attain to an equilibrium in
+escaped you, nor be joyous at what He bestowed on you." '
+
+The aim of the slave of Allah is thus to attain to an equilibrium in
 all states irrespective of whether these states be liked or dis­liked,
 easy to deal with or difficult. He ('Ali) has referred to this in a
 still more direct way with the words, \`Know with a certainty of
@@ -957,9 +957,9 @@ said on this subject. We have mentioned this saying in order to lend
 weight and clarity to the matter in hand and although we have used this
 quotation earlier on in the work, we feel justified in the repetition,
 given the variety of interpretations possible at the different levels of
-our investigation.  
-    
- It has been narrated that Ibn 'Abbas has said: \`I was riding mounted
+our investigation.
+
+It has been narrated that Ibn 'Abbas has said: \`I was riding mounted
 behind the Prophet when he said to me: "O youth! O my son! shall I teach
 you some words (of wisdom) which Allah will cause to be of benefit to
 you?" I replied: "Yes, O Messenger of Allah." He said: "Take care (to be
@@ -975,9 +975,9 @@ decreed for you, then they would not be able to. Thus work for Allah
 with gratitude and certainty and know that there is great good in being
 patient in the face of those things you dislike; know too that victory
 comes with patience and relief after trial and that with hardship comes
-ease." '  
-    
- It is clear that no one will be able to attain to this station unless
+ease." '
+
+It is clear that no one will be able to attain to this station unless
 he becomes aware of what we have mentioned above: namely that Allah is
 cognizant of things before and after their coming into existence and
 that actions undertaken by Allah are in accordance with His knowledge
@@ -997,9 +997,9 @@ you will meet one of my sons, his name will be the same as mine; he will
 penetrate to the depth of knowledge, just as the ox cleaves the soil
 (while ploughing)."[^1] From these words we realize that Jabir was of
 the station of patience and that Muhammad al‑Baqir was of the station of
-contentment: between these two stations the difference is manifest.  
-    
- In short, these stations are only attained by way of the slave's
+contentment: between these two stations the difference is manifest.
+
+In short, these stations are only attained by way of the slave's
 knowledge that his Lord is aware of his state and the state of all
 creatures from before endless‑time until eternity and by the slave's
 knowledge that He is just in His actions and states, ele­vated above
@@ -1009,13 +1009,13 @@ to men, but men are unjust to them­selves.' If you have grasped this,
 then you should learn and acquire this belief for yourselves, together
 with the accompanying states mentioned above ‑ and Allah is more Knowing
 and more Wise; He it is Who says the truth and He guides to the correct
-path.  
-  
+path.
+
 
 ### iii) According to the people of haqiqah
 
-* *  
- This station occurs after firm establishment in the two above­mentioned
+* *
+This station occurs after firm establishment in the two above­mentioned
 stations of justice. It is the station of knowing that Allah is just in
 His bestowal of existent on every existent being and that He is just in
 His bestowal of a behaviour‑pattern and certain attributes on these
@@ -1033,9 +1033,9 @@ mentioned. Thus it is incumbent upon Him to give existence to every
 existent being in a way which is concordant with the state of that being
 in itself neither adding to nor detracting from that specific mea­sure
 of existence. This then is true justice since justice is the placing of
-something in its rightful place.  
-    
- Many things have been related with respect to this matter, for example:
+something in its rightful place.
+
+Many things have been related with respect to this matter, for example:
 \`Say: "Every one acts according to his manner."’ These words of Allah
 mean that everyone acts according to his outward manner and physical
 form and these in turn are in accordance with his inward manner and his
@@ -1080,32 +1080,32 @@ My knowledge and wisdom and in the manner which is most fitting. Thus it
 is that I have said: "Not a weight of an atom becomes absent from Him in
 the heavens or in the earth, and neither less than that nor greater, but
 (all) is in a clear book" and also "that is the decree of the Mighty,
-the Knowing." '  
-    
- Thus we exhort the reader to reflect upon this matter for surely it
+the Knowing." '
+
+Thus we exhort the reader to reflect upon this matter for surely it
 will reveal to him all the secrets contained in the subject we are now
 considering. This is the highest of stations, there being no rank above
 it ‑ and Allah is more Knowing and more Wise; He it is Who says the
-truth and guides to the correct path.  
-   
+truth and guides to the correct path.
+
 
 5) Prophethood
 --------------
 
-   
- Prophethood is a term used to express the act of receiving the
+
+Prophethood is a term used to express the act of receiving the
 realities of gnosis and intellectual knowledge from Allah on the part of
 the Purified Soul by means of the essence of the First Intellect, known
 sometimes as Gabriel and sometimes as the Holy Spirit. It is also used
 to express the transmission of this gnosis and intellectual knowledge to
 those who listen and benefit thereby and to the followers of the
-prophets and messengers.  
-  
+prophets and messengers.
+
 
 ### i) According to the people of shari\`ah
 
-   
- The prophet is the man sent from Allah to His slaves: he is sent in
+
+The prophet is the man sent from Allah to His slaves: he is sent in
 order to perfect them by making them aware of the manner in which they
 need to worship Him and by teaching them about that which will safeguard
 them from any acts of disobedience. His prophethood is recognized by
@@ -1124,10 +1124,10 @@ exhort him to do something that they may believe in his prophecy ‑ like
 their calling on him to split the moon or make the stones speak. An
 (extraordi­nary) action which does not occur specifically in response to
 a challenge or a denial of a message (on the part of a prophet) is
-called a *karamah* *‑ an* act of wondrous proportions ‑ and it belongs
-to the saints rather than the prophets.  
-    
- The reason for sending a prophet or a messenger is because it becomes
+called a *karamah ‑ an* act of wondrous proportions ‑ and it belongs to
+the saints rather than the prophets.
+
+The reason for sending a prophet or a messenger is because it becomes
 incumbent upon Allah ‑ given His aim in bringing the slaves to their own
 specific perfection from before eternity in accordance with their
 essence and substance ‑ to teach His slaves the manner of their duties
@@ -1145,9 +1145,9 @@ understanding from Him himself and since instruction of His slaves
 without an intermediary is not possible, it is incumbent upon Him to
 appoint a group of messengers as a connecting link between Himself and
 them. In this way the messengers take (instructions) from Him and
-deliver them to His slaves.  
-    
- It is necessary too that the prophets or messengers who take on the
+deliver them to His slaves.
+
+It is necessary too that the prophets or messengers who take on the
 pattern and qualities of Allah be infallible, that is, be free from any
 minor or major misdeed from the very beginning of their lives until the
 end. In this way, their words and actions gain the trust of the people.
@@ -1157,7 +1157,7 @@ live in a manner which does not put them beyond the realm of free
 choice. In this way the intellect of the people are not alienated from
 them and they trust in that which is being brought by them as a kind of
 divine grace. This divine grace is an obligation on Allah and it is
-called (in this case) *\`ismah* *‑ or* infallibility.
+called (in this case) *\`ismah ‑ or* infallibility.
 
 No one sent from His Presence to the people will be believed unless he
 confronts oppos­ition and challenges to his call with an action which
@@ -1171,13 +1171,13 @@ raised among them an Apostle from among themselves, reciting to them His
 communications and purifying them, and teaching them the Book and the
 wisdom, although before that they were surely in manifest error.' Such
 is the nature of this station with respect to the people of the
-*shari'ah,* and Allah is more Knowing and more Wise.  
-  
+*shari'ah,* and Allah is more Knowing and more Wise.
+
 
 ### ii) According to the people of tariqah
 
-* *  
- Prophethood for the people of the spiritual path means knowledge of the
+* *
+Prophethood for the people of the spiritual path means knowledge of the
 divine realities and secrets of Lordship. It may be divided into two
 types, the prophethood of instruction in knowledge and the prophethood
 of instruction in the code of laws. The first means a transmission of
@@ -1186,9 +1186,9 @@ of the aforesaid together with a transmission of the laws, inculcation
 of courtesy and moral behaviour, instruction of wisdom and the
 establishment of a political framework, which are covered by the term of
 *risalah* or divine message. We shall now comment upon this term in more
-detail.  
-    
- Know that there is an outward and an inward aspect to the Real. The
+detail.
+
+Know that there is an outward and an inward aspect to the Real. The
 inward contains the Divine Solitude of Truth which is in the realm of
 the Absolute Unseen. Multiplicity is in the realm of knowledge and the
 pre‑creational source‑forms. The outward is always dependent on
@@ -1207,9 +1207,9 @@ arbiter is the Prophet of Reality, the Pole of pre‑endless time, the
 first, the last. He is the Muhammadi reality mentioned by the Prophet
 Himself in his words: \`I was a prophet when Adam was (in a state)
 between water and clay', that is, in a state between knowledge and
-cor­poreal form.  
-    
- As for the one who judges between the manifestations other than the
+cor­poreal form.
+
+As for the one who judges between the manifestations other than the
 Names, it is the prophet who attains to prophethood after his
 manifestation as the vicegerent of the Prophet of Reality. This prophet
 is sent to creation as a guide and a teacher who indicates the way to
@@ -1233,9 +1233,9 @@ miracles and supernatural events together with the corresponding
 challenge or opposition (from the opponents of the prophet) and has thus
 distinguished real prophethood from false prophethood. Thus the prophets
 are manifestations of the divine Essence by their authority over the
-other manifestations and by their standing in judgment between them.  
-    
- Prophethood is particular to the realm of the outward; all prophets of
+other manifestations and by their standing in judgment between them.
+
+Prophethood is particular to the realm of the outward; all prophets of
 necessity share the task of calling people to worship, guiding them and
 living among them. Prophethood is as a com­plete cycle which includes in
 it various finite cycles within the perfect enclosed space ‑ like, for
@@ -1243,20 +1243,20 @@ example, the *ulu'l‑\`azm* (those in authority) and the messengers and
 various prophets of the tribes of Israel within the enclosed dimensions
 which are not (in themselves) perfect. This then is the station of the
 people of *tariqah* with respect to prophethood, the message, the
-prophet and the messenger; and success is by Allah.  
-  
+prophet and the messenger; and success is by Allah.
+
 
 ### iii) According to the people of haqiqah
 
-   
- The station of this group occurs after establishment in the two
+
+The station of this group occurs after establishment in the two
 above‑mentioned stations. It is the rank of absolute divine caliphate,
 although it has different ranks according to the rank of the person who
 is the manifestation of this caliphate. We have already explained some
 aspects of these ranks and we shall now continue to comment upon the
-rest.  
-    
- Know that the prophethood of this group is an expression of the good
+rest.
+
+Know that the prophethood of this group is an expression of the good
 news or revelation from the divine: the prophet is the one who is
 informed of the Essence of Allah and of His Attributes, His Names, His
 laws and His wishes. The real and essential prophetic announcement is
@@ -1282,9 +1282,9 @@ The Messenger, may Allah bless him and his family, preceded all the
 prophets with respect to the reality of prophethood, yet comes after
 them with respect to outward form. He himself has said: \`We are the
 last and the first' and also \`I was a prophet when Adam was (in a
-state) between water and clay.'  
-    
- As for the description of the caliphate and the caliph, this has also
+state) between water and clay.'
+
+As for the description of the caliphate and the caliph, this has also
 been given in terms of the people of this station. When the authority of
 the eternal essence and that of the higher attributes demand an
 expansion of the divine kingdom and the unfurling of the banners of
@@ -1327,9 +1327,9 @@ the micro­cosm,' they are here referring to man as an individual type
 and as the caliph of Allah on earth. As for the Cosmic Man, he is the
 Caliph of Allah in the heavens and the earth; the lesser man or
 microcosm is the selected copy of him, just as the son is the copy of
-the father.  
-    
- The lesser man also has an inner reality and an outward form, the
+the father.
+
+The lesser man also has an inner reality and an outward form, the
 former being the individual spirit, the soul and the temper­ament and
 the latter a select copy of the form of the world: in it is contained in
 corresponding proportions every part of the world, be it of subtle or
@@ -1343,34 +1343,34 @@ Spirit and the Universal Soul. The Cosmic Man is a manifestation of the
 Evident Reality and the lesser man attains to this by the annihilation
 of his individuality and the obliteration of his dependent or limited
 nature. From this state it will then be correct for him to declare that
-which certain persons would find obscure:  
-    
- Even if I am known simply as Adam's son,  
- Therein lies meaning for me, as witnessed by my forefathers.  
-    
- The reader should pay particular attention to this point, for it is the
+which certain persons would find obscure:
+
+Even if I am known simply as Adam's son,
+Therein lies meaning for me, as witnessed by my forefathers.
+
+The reader should pay particular attention to this point, for it is the
 source of many finer points which in turn lead to an understanding of
 many truths; and Allah says the truth and guides to the correct path.
 With this we conclude our study of prophethood and the message within
 the framework of the three levels; we shall now begin our investigation
 of imamate.
 
- 
+
 
 6) Imamate
 ----------
 
-   
- In an absolute sense imamate refers to a religious governance which
+
+In an absolute sense imamate refers to a religious governance which
 includes an exhortation to the common people to safeguard what is of
 benefit to them (with respect to their religion and their worldly
-affairs) and aims to protect them from that which might harm them.  
-  
+affairs) and aims to protect them from that which might harm them.
+
 
 ### i) According to the people of shari\`ah
 
-   
- For the people of the *shari\`ah* imamate is an obligatory matter both
+
+For the people of the *shari\`ah* imamate is an obligatory matter both
 with respect to the intellect and in the light of the legal code, in the
 same way as prophethood is an obligatory matter for a person in a state
 *of fitrah (the* natural harmonious condition of man) and in the state
@@ -1384,9 +1384,9 @@ punishments in this world. This need is similar to their need for a
 prophet who discriminates between that which is permissible and that
 which is forbidden. just as men were in need of the establishment of the
 *shari\`ah* in the beginning, so they are also in need of its continued
-maintenance and preservation.  
-    
- Likewise, if the sending of the prophet is a divine obligation ‑ a
+maintenance and preservation.
+
+Likewise, if the sending of the prophet is a divine obligation ‑ a
 necessary act of grace by the Deity and a necessary means of
 establishing certainty of faith ‑ then so too is the establish­ment of
 the Imam: it is necessary so as not to invalidate Allah's proofs and
@@ -1412,9 +1412,9 @@ rational reason to comply: the Real would then be defeating His purpose
 and this is impossible with respect to Him. Since we have de­monstrated
 the truth of the two premises, we have also shown that the establishment
 of the Imam is obligatory upon Allah ‑ this with respect to the
-intellect and rational proofs.  
-    
- If we now examine the narrated evidence, we may refer to Allah's words:
+intellect and rational proofs.
+
+If we now examine the narrated evidence, we may refer to Allah's words:
 \`O you who believe! Obey Allah and obey the Apostle and those in
 authority from among you.' These words may be used as proof ‑ in the
 sense that Allah has commanded the Muslims to be obedient to those in
@@ -1428,9 +1428,9 @@ for the first of the two, it either refers to all the nations of Muslims
 or to some of them. The first of these is necessarily false; the second
 stands and thus it must be that there exists within the nation of
 Muslims a particular infallible person, for whom it is not permissible
-to make mistakes and who is known as one of \`those in authority'.  
-    
- We thus arrive at the point of our argument: that it is necessary that
+to make mistakes and who is known as one of \`those in authority'.
+
+We thus arrive at the point of our argument: that it is necessary that
 the imamate be an obligatory religious doctrine both with respect to the
 intellect and to the *shari\`ah.* This, however, is in opposition to the
 majority of the Muslim nation. Most, because of their lack of
@@ -1454,9 +1454,9 @@ commanding of obedience to them would imply evil and oppression on the
 part of Allah, may Allah be elevated above such a description of
 Himself. We have clear evidence from both narrated sources and from the
 intellect that He is in a state of sanctity and holiness, far removed
-(from the impurities of crea­tion).  
-    
- It is necessary that the Imam be exempt of all wrong action, just as
+(from the impurities of crea­tion).
+
+It is necessary that the Imam be exempt of all wrong action, just as
 the prophet is infallible. This is so because the reason for the
 necessity of infallibility for the prophet and the Imam is one and the
 same: if the infallibility of the prophet is obligatory, then so too
@@ -1505,9 +1505,9 @@ to the present day, in view of the number of their enemies and their
 lack of supporters. If the Mahdi did not fear his enemies, then it would
 be incumbent upon him to become manifest. If he were not to become
 manifest, then he would failing in his obliga­tion; yet this is not
-possible as is explained in the books of theology.  
-    
- Allah also mentions the Imams when he says: \`Surely Allah has bought
+possible as is explained in the books of theology.
+
+Allah also mentions the Imams when he says: \`Surely Allah has bought
 of the believers their persons and their property for this, that they
 shall have the Garden; they fight in Allah's way, so they slay and are
 slain; a promise which is binding on Him in the Torah and the Gospel and
@@ -1520,13 +1520,13 @@ good news to the believers.' On examination we realize that the
 qualities referred to belong to no others‑ but the Imams. There are
 numerous examples of this in the Qur'an and the body of Prophetic
 traditions and the reader should look for them in the appropriate
-places. Allah it is Who says the Truth and guides to the correct path.  
-  
+places. Allah it is Who says the Truth and guides to the correct path.
+
 
 ### ii) According to the people of tariqah
 
-   
- According to the people of this station, imamate refers to the
+
+According to the people of this station, imamate refers to the
 caliphate which issues from Allah and the Pole of the Age. The Imam is
 the possessor of that caliphate and is called the wali. There are two
 types of wali: there is the; wali whose wilayah (governance) is real and
@@ -1540,9 +1540,9 @@ Prophet and upon whoever of the people of His House inherits from him ‑
 that is the Commander of the Faithful and his progeny. In the light of
 this we may say that this station is recognized by three signs: the
 first, the designation of wilayah, the second, the appointment of the
-Absolute Wali and the third, the appointment of the dependent wali.  
-    
- As for the first, wilayah is the act of living among created beings
+Absolute Wali and the third, the appointment of the dependent wali.
+
+As for the first, wilayah is the act of living among created beings
 after annihilation in the Real and subsistence in Him: in reality, it is
 nothing but the inward dimension of prophethood whose outward
 manifestation is the bringing of news and whose inward is their
@@ -1557,12 +1557,12 @@ Prophet: both derive their pattern of behaviour from one source, the
 wali being a manifes­tation of the behaviour of the Prophet. Some have
 spoken of themselves as having the qualities of a prophet in a poetic
 sense: they see. themselves as descending upon the station of the
-prophet in a divine way; thus Ibn al‑Farid has said:  
-    
- I was sent from myself as a messenger to myself  
- And my essence testified to myself by my signs.  
-    
- Prophethood, in the exoteric sense, is a cycle which is composed of a
+prophet in a divine way; thus Ibn al‑Farid has said:
+
+I was sent from myself as a messenger to myself
+And my essence testified to myself by my signs.
+
+Prophethood, in the exoteric sense, is a cycle which is composed of a
 line of points marking the lives of the prophets. This line is perfected
 by the Muhammadi point, since prophethood is like a wall of bricks which
 is completed, except that it needs one more brick, that brick being the
@@ -1585,9 +1585,9 @@ alone, namely our Prophet Muham­mad. The matter is similar in the case
 of the seal of wilayah: by it the good of this world and the next is
 brought to final perfection; with his death the order of this world is
 plunged into disorder. He is the Mahdi, whose return is promised for the
-end of time.  
-    
- Another aspect of the wilayah of the wali has also been described in
+end of time.
+
+Another aspect of the wilayah of the wali has also been described in
 the following way: \`Wilayah is the establishment of the slave by means
 of the Real after annihilation of the self. This takes place by the
 turning of the Real to him and by His bringing him to the furthest.
@@ -1597,9 +1597,9 @@ disobedient action and does not leave him nor his soul until He brings
 him to the highest perfection in the realm of man.' Allah has said,
 \`And He befriends the good' and also, 'Thou art my guardian in this
 world and the hereafter. Make me die a Muslim and join me with the
-good.'  
-    
- The Shaykh ai‑A'zam (Ibn 'Arabi) has divided the subject of *wilayah*
+good.'
+
+The Shaykh ai‑A'zam (Ibn 'Arabi) has divided the subject of *wilayah*
 into different sections; his own words on the matter provide a clearer
 description than any other: \`Know that *wilayah* may be divided into
 absolute and dependent *wilayah,* in other words common *wilayah* and
@@ -1618,25 +1618,25 @@ reality), so absolute *wilayah is* particular to 'Ali ibn Abi Talib and
 to his reality (by way of the essential and inherited spiritual legacy
 from pre‑eternity) and thereafter (by way of a continuation of the
 original reality) to his infallible progeny. This spiritual line extends
-until Allah seals it with the Mahdi.'  
-    
- The reason why 'Ali is singled out for the absolute *wilayah* may be
+until Allah seals it with the Mahdi.'
+
+The reason why 'Ali is singled out for the absolute *wilayah* may be
 found in the saying of the Prophet related with an authen­tic chain of
 narration by Akhtab Khawarazam and Ahmad ibn Hanbal, they being amongst
 the most eminent and trusted of the jurists *(fuqaha')* and narrators
 respected by the majority of the Muslims, \`Allah has created my soul
 and the soul of 'Ali ibn Abi Talib a thousand thousand years before He
-created Adam.'  
-    
- Shaykh Muhyi al‑Din ibn 'Arabi also refers to the Prophet after a long
+created Adam.'
+
+Shaykh Muhyi al‑Din ibn 'Arabi also refers to the Prophet after a long
 study of the matter in this *Futuhat:* \`He was the lord of the whole
 world and the first manifestation in existence; his existence was from
 the divine light, motes of dust and the Uni­versal Truth; his very being
 came into being in these motes of dust as did the world in its entirety;
 the closest person to him was 'Ali ibn Abi Talib, the secret embracement
-of the secret of all the prophets.'  
-    
- As for the second and the third of the above‑mentioned divi­sions, that
+of the secret of all the prophets.'
+
+As for the second and the third of the above‑mentioned divi­sions, that
 is, the appointment of the absolute seal of the *awliya'* by means of
 the absolute *wilayah* and the appointment of the seal of the dependent
 *awliya'* by dependent *wilayah,* these will be explained in the
@@ -1648,13 +1648,13 @@ follows the abso­lute prophet. Thus we reach the aim of this study,
 namely to establish the inter‑relationship of the rank of prophethood
 with the rank of *wilayah* and the rank of the absolute with that of the
 dependent; and Allah is more Knowing and more‑Wise ‑ He it is Who says
-the truth and guides to the right path.  
-  
+the truth and guides to the right path.
+
 
 ### iii) According to the people of haqiqah
 
-   
- According to this group the Imam and the *wall* are the Great Imam and
+
+According to this group the Imam and the *wall* are the Great Imam and
 the Absolute Wali, also known as the Pole and the Imam of the Imams who
 is responsible for the ordering of existence, the establishing of the
 *shari\`ah, tariqah* and *haqiqah.* The ranks of all, from the prophet,
@@ -1666,9 +1666,9 @@ anywhere else than in the niche of the messenger who is their Seal.
 Again, none of the saints imbibe it elsewhere than in the niche of the
 saint who is their seal; indeed even the messengers only imbibe it, in
 so far as they do imbibe it, from the niche of the Seal of the
-Saints.'  
-    
-*Risalah* *‑* messengership ‑ and prophethood (by this I mean the
+Saints.'
+
+*Risalah ‑* messengership ‑ and prophethood (by this I mean the
 prophethood which is concerned with the establishment of the *shari\`ah*
 and the corresponding message or calling of the people) are interrupted;
 *wilayah,* however, is never interrupted. Thus those sent as bearers of
@@ -1679,9 +1679,9 @@ despite the fact that, with respect to governance and judgment, the Seal
 of the Walls follows the *shari\`ah* ‑ namely that which is brought by
 the Seal of the Messengers. This does not imply any criticism of his
 station and does not contradict what we have been describing: from one
-point of view he is inferior and from another superior.  
-    
- Thus he (Ibn 'Arabi) continues after a few words by saying: \`All
+point of view he is inferior and from another superior.
+
+Thus he (Ibn 'Arabi) continues after a few words by saying: \`All
 prophets, without exception, since Adam to the last, take from the niche
 of the Seal of the Prophets: even if the clay of the latter was formed
 after them, he is no less present by his spiritual reality. It is for
@@ -1706,9 +1706,9 @@ contemplates all ranks, this contemplation being just one of the good
 qualities from among the bounty and blessings of the Seal of the
 Messen­gers, Muhammad, the leader of this group, the lord of the progeny
 of Adam and the one responsible for the task of mediation (on the Final
-Day).'  
-    
- These words, occurring as they do after his demonstration of the
+Day).'
+
+These words, occurring as they do after his demonstration of the
 existence of the Seal of the Saints and the truth of all that we have
 said on the matter, show that the absolute Seal of the Saints, is the
 Commander of the Faithful \`All: he is described with the same good
@@ -1717,15 +1717,15 @@ mentioned by the commentator of the fusus with respect to the Lord of
 the Messengers can only be ascribed to him. As we have now concluded our
 investigation of imamate with respect to the three levels, then we shall
 now begin our study of *ma\`ad,* namely the last of the five principles
-outlined above; and success is by Allah.  
-    
-  
+outlined above; and success is by Allah.
+
+
 
 7) Events of the Hereafter (ma\`ad)
 -----------------------------------
 
-   
- Know that the Day of Judgment, in an absolute sense, denotes the return
+
+Know that the Day of Judgment, in an absolute sense, denotes the return
 of the world and all contained therein to whence it came. This return is
 both with respect to the form and the inner meaning or spirit and also
 in relation to the three different levels of resurrection ‑ that is the
@@ -1738,13 +1738,13 @@ resurrection of form and three of spirit with respect to the cosmic
 dimension; this is repeated with respect to the individual dimen­sion
 and there is thus of necessity twelve days of resurrection in all. We
 shall now explain each in brief, as there is not space to go into more
-detail.  
-  
+detail.
+
 
 ### i) According to the people of shari\`ah
 
-   
- According to the people of this group, the Day of judgment is a term
+
+According to the people of this group, the Day of judgment is a term
 for the gathering together of the parts of the dead body, their
 recomposition into their previous form and the return of the soul to
 this body. This is also referred to as the assembling of the bodies
@@ -1770,9 +1770,9 @@ infallibility and the impossibility of their telling any lies. Likewise
 the Garden and the Fire, which are both experienced by physical
 sensations and which they promise are to come, are true. They are true
 because they are possible and because there is trustworthy news of their
-coming.  
-    
- Some have said that the return of something (essentially) non­existent
+coming.
+
+Some have said that the return of something (essentially) non­existent
 is impossible: if this were so, if would imply entry into and
 disturbance of the one existence and would mean that the one was in fact
 two. To this the scholars (of this station) have replied: \`Since the
@@ -1794,9 +1794,9 @@ on these qualities of knowledge: he is an essence, possessed of
 knowledge, and the body and the rest of the limbs are the instruments of
 his actions. This essence is what is known as the soul in the divine
 shari\`ah; it must be added, however, that there is a great difference
-of opinion with regard to this matter.  
-    
- The Dahriyyah (whose god may be said to be Time) reject this belief and
+of opinion with regard to this matter.
+
+The Dahriyyah (whose god may be said to be Time) reject this belief and
 claim that man becomes non‑existent at the time of his death and say
 that there is no return to existence for him. Those who say that the
 non‑existent is actually something say that he becomes non‑existent when
@@ -1814,9 +1814,9 @@ This latter is the true statement from amongst the above‑mentioned
 statements. Those who believe in the existence of the original parts and
 their necessary recomposition after a change in state and that the self
 is a simple essence are nearer to the truth than others since they free
-themselves of all ambiguity and contentious belief.  
-    
- Most of these arguments have been taken from the works of Khawaja Nasir
+themselves of all ambiguity and contentious belief.
+
+Most of these arguments have been taken from the works of Khawaja Nasir
 al‑Din al‑Tusi, from those sections dealing with the roots of the
 religion and other sections. In the course of his writings, he mentions
 the dubious nature of the beliefs of the philosophers. We shall conclude
@@ -1832,20 +1832,20 @@ souls in one body and that is impossible.' We too would reply to this
 that since we have established the existence of an Actor Who chooses of
 His own free will, we thus invalidate the very basis of the argument and
 we have no need to reply to this foolish talk; and Allah says the truth
-and guides to the correct path.  
-  
+and guides to the correct path.
+
 
 ### ii) According to the people of tariqah
 
-   
- Those of this group, as well as believing in the Day of Judgment as
+
+Those of this group, as well as believing in the Day of Judgment as
 mentioned above, understand it to be an expression of the return of the
 manifestation of some of the Names to the manifes­tation of other Names;
 this is referred to in Allah's words: \`The day on which We will gather
 those who guard (against evil) to the Beneficent God to receive
-honours.'  
-    
- Know that the Day of Resurrection, the Day of Final Return is, as a
+honours.'
+
+Know that the Day of Resurrection, the Day of Final Return is, as a
 general principle, an expression of the manifestation of the Real in the
 form of the two Names, the Inward and the Last, together with other
 Names such as the just, the Real, the One who brings to life and the One
@@ -1858,9 +1858,9 @@ manifestation in an absolute sense by way of the forms of the Names ‑
 which are also known by such terms as \`the cre­ation' and \`the world'
 ‑ is indicated in His words: \`I was a hidden treasure and I desired to
 be known so I created the world.' These words refer also to the
-fulfillment of the claims and rights of each of His Names.  
-    
- It has been established by the people of Allah and their elite that
+fulfillment of the claims and rights of each of His Names.
+
+It has been established by the people of Allah and their elite that
 when each of the individual and particular manifestations of His Names
 is taken into account, then they are endless; if, however, His Names are
 considered according to general kinds and types of manifestation, then
@@ -1882,9 +1882,9 @@ in number, they are all governed by just four: \`He is the First and the
 Last and the Outward and the Inward.' The First and the Last and all the
 related Names are associated with this world, and the various levels of
 beginning, the Inward and the Last and all the related names are
-associated with the hereafter and the various levels of ending.  
-    
- This notion is permissible from one point of view, but not from
+associated with the hereafter and the various levels of ending.
+
+This notion is permissible from one point of view, but not from
 another. The truth of this matter is that each of Allah's Names has
 specific laws and \`exigencies': thus, for example, the hereafter is a
 necessary implication of the Names the Subduer, the Alone, the One, the
@@ -1892,9 +1892,9 @@ Eternal, the Single, the One who causes to return, the One who
 obliterates and the One who causes death. Similarly, this world is a
 necessary implication of the Name the Outward, the Originator, the First
 and the Bringer into exis­tence. Each, however, on investigation is the
-same as the other, the difference being in their sphere of influence.  
-    
- Allah, the Real ‑ may His remembrance be made more splendid by this
+same as the other, the difference being in their sphere of influence.
+
+Allah, the Real ‑ may His remembrance be made more splendid by this
 beginning and return, by the outward manifestation and inner dimensions,
 by the ascent and the descent, by the multip­licity and singularity, by
 this world and the hereafter ‑ has talked about the Divine Command on
@@ -1915,9 +1915,9 @@ period to one thousand years, to make fifty thousand years exactly. This
 latter is called the Greater Day of Resurrection; the seven particular
 to each of the individual stars is the intermediate resurrection; and
 the special span of a thousand years refers, in particular, to the Minor
-Day of Resurrection.  
-    
- If you have understood this, then know too that the purpose of these
+Day of Resurrection.
+
+If you have understood this, then know too that the purpose of these
 investigations is to demonstrate that Allah has described the Divine
 Command governing the ascent, descent, appearance. and disappearance,
 the bringing into being and the return to creation of all these cosmic
@@ -1948,9 +1948,9 @@ contain all His manifestations. When seen in relation to these two
 manifestations (and others like them), then His manifestations are
 contained therein in a general way; when, however, we treat each of His
 manifestations in an individual way, then they are seen to be
-never‑ending and continuing to eternity.  
-    
- Whichever way we look at it, it must be that the manifestation returns
+never‑ending and continuing to eternity.
+
+Whichever way we look at it, it must be that the manifestation returns
 to the outward in the countless abodes encompassed by this world and the
 next: this, in reality, is the *ma\`ad* and no other; by this I mean the
 return of the manifestations to the outward and the encompassing to the
@@ -1969,9 +1969,9 @@ stations of appearance and disappearance; this is so since the cosmos
 and whatever occurs therein are never‑ending manifestations of actions,
 and actions are manifestations of the Attributes, and Attributes are
 manifes­tations of Names, and the Names are manifestations of the
-Es­sence and its essential Perfections.  
-    
- Since it has been established that the actions, Attributes, Names and
+Es­sence and its essential Perfections.
+
+Since it has been established that the actions, Attributes, Names and
 Perfections are never‑ending, it may also be estab­lished that the
 return of these manifestations is also never‑end­ing ‑ that is, from the
 individual rather than the universal point of view. If, for example, the
@@ -2007,9 +2007,9 @@ expounded) and of the authenticity of the three kinds of resurrection
 those who understand the mean­ing of Allah's words, \`As long as the
 heavens and the earth endure, except as your Lord pleases.' Many secrets
 are contained in these words but we have already mentioned the gist of
-their meaning.  
-    
- If you have already understood these principles and have realized the
+their meaning.
+
+If you have already understood these principles and have realized the
 meaning of the true return of the totality of Names, then know the
 following: The divine Names possess spheres of gover­nance and influence
 and also cycles, states, dominions, begin­nings and ends. An explanation
@@ -2035,9 +2035,9 @@ nature of divine wisdom and in accordance with those Names which arc
 related to the hereafter and its laws. From these general laws many
 other laws may be construed. Nevertheless we shall give the reader an
 example of what is meant which will facilitate a rapid understanding of
-this secret.  
-    
- Existence and true authority in the realm of inner meaning occur
+this secret.
+
+Existence and true authority in the realm of inner meaning occur
 according to the same pattern of superficial authority in the realm of
 form. I mean by this that just as authority in the exterior world is
 organized by means of sultans, viziers, amirs, armies, subjects and all
@@ -2057,9 +2057,9 @@ that particular Name, since the Name is the lord and the manifestation
 is the \`lorded over'. The following words of Allah testify to this
 notion: \`The day on which We will gather those who guard (against evil)
 to the Beneficent God to receive honours' and also His words: \`And that
-to your Lord is the (final) goal.'  
-    
- With respect to the inner realm of reality and truth, the return of the
+to your Lord is the (final) goal.'
+
+With respect to the inner realm of reality and truth, the return of the
 totality of manifestations is only to Allah, just as on inves­tigation
 (we realize that) each subject in fact is turning to the sultan (of the
 outward), despite the presence of the vizier, amir, chamberlain,
@@ -2076,9 +2076,9 @@ as these may be found with respect to the various assistant courtiers,
 armies and subjects: this is so because the affairs of authority and
 their organization are all undertaken by such people. Thus the totality
 (of some­thing) with respect to the totality (of its separate parts) can
-only function by means of this totality.  
-    
- The same may be said for the real or true Sultan: if a poor man comes
+only function by means of this totality.
+
+The same may be said for the real or true Sultan: if a poor man comes
 to Him or stands in His Presence saying \`O Allah' and seeks wealth,
 then of necessity he turns only to the Name \`the One of riches and
 independence;' likewise, the sick person who goes before Allah saying
@@ -2088,14 +2088,14 @@ goes before Him saying \`O Allah' and seeks guidance, then of necessity
 he turns only to the Name \`the One who guides.' Countless other
 examples may be given with respect to the rest of His names. True
 Authority only functions in this way. This is reflected in the following
-verse:  
-    
- How much is everything in need, how much is all depen­dent!  
- This is the truth, as we have said, so do not conceal, it  
- Everything is mutually related, there is no separation from Him,  
- So take what I have said from me!  
-    
- On investigation we realize that this has the same meaning as that
+verse:
+
+How much is everything in need, how much is all depen­dent!
+This is the truth, as we have said, so do not conceal, it
+Everything is mutually related, there is no separation from Him,
+So take what I have said from me!
+
+On investigation we realize that this has the same meaning as that
 expressed by the gnostics when they say: \`Truly there is a secret to
 Lordship, which, if it became manifest, would invali­date Lordship.'
 This is so because lordship is a matter which only functions by way of
@@ -2127,9 +2127,9 @@ but which nevertheless does not invalidate it. Other subtle secrets are
 contained in this point and all are related to the point we have already
 mentioned, that is, the *Ma \`ad,* the Final Day of Return, which is an
 expression of the return of each manifestation to the Name by whose rule
-and dominion it became manifest.  
-    
- Despite the fact that the matter is as we have described, it should be
+and dominion it became manifest.
+
+Despite the fact that the matter is as we have described, it should be
 noted that the Names possess cycles and spheres of dominion and
 influence and that it is permissible that some of the Names together
 with their respective spheres of dominion may dominate to the exclusion
@@ -2151,9 +2151,9 @@ endless‑time ‑ like, for example, the Names which have dominion over the
 hereafter. That they and their rule are eternal is testified by the
 Qur'anic *ayat:* they do not extend to pre‑endless‑time by virtue of
 their non‑manifestation; indeed, their manifestation only commences with
-the ceasing of the activity of this world.  
-    
- All the Names have a sphere of governance in accordance with their
+the ceasing of the activity of this world.
+
+All the Names have a sphere of governance in accordance with their
 manifestations and the appearance of their rule of influence. Indeed it
 is on these spheres of governance that the courses of the seven planets
 are based (each course lasting. a thousand years); likewise, in the case
@@ -2163,9 +2163,9 @@ dependent upon its Name, just as its authority lasts as long as that of
 the Name and is annulled on the disappearance of that Names. The pattern
 is analogous in the case of the emanation of the Attributes, such that
 when a particular Attribute manifests its sphere of influence, other
-Attributes below it become concealed.  
-    
- Furthermore, each of the divisions of the Names calls up a particular
+Attributes below it become concealed.
+
+Furthermore, each of the divisions of the Names calls up a particular
 manifestation in which the rule and influence (of this division of the
 Names) appear: this rule and influence is in fact (a manifestation of)
 the Source‑Forms. If these latter are capable of receiving all the
@@ -2182,8 +2182,8 @@ Allah comes success. We shall now begin to classify the Final Day of
 Return, both in the realm of form and that of the spirit of inner
 meaning according to the people of *tariqah* and *haqiqah* and in the
 light of the triad of days of resurrection, namely the minor,
-intermediate and final.  
-  
+intermediate and final.
+
 
 **The minor, intermediate and major days of resurrec­tion in spirit for
 the people of** ***tariqah***
@@ -2192,16 +2192,16 @@ the people of** ***tariqah***
 
 ### a) The minor day
 
-* *  
- This particular day of resurrection describes the awakening and rising
+* *
+This particular day of resurrection describes the awakening and rising
 after the deliberate death of the will; it corresponds to the saying of
 the Prophet, \`Die before you die' and the words of the Wise Himself,
 \`Die the death of the will and you will live naturally (by your
 essence) as a result.' The words of the Prophet \`Whoever dies, then his
 day of rising up has arrived' affirms the above notion, both with
-respect to death both in the exoteric and esoteric sense.  
-    
- This death is divided into four types according to the people of this
+respect to death both in the exoteric and esoteric sense.
+
+This death is divided into four types according to the people of this
 group: the red, the white, the green and the black. As for the death in
 an absolute sense, it is the removal of the desires of the self: the
 life of the self *(nafs) is* by means of these desires and the self does
@@ -2223,9 +2223,9 @@ darkness whence he cannot come forth? In other words, \`Is he who was
 dead by his ignorance, then We raised him to life by knowledge and made
 for him a light by which he walks among the people in a state of gnosis
 and perfection and full of eternal life, like him who is still in the
-utter darkness of ignorance whence he has not yet emerged?'  
-    
- Jafar ibn Muhammad al‑Sadiq has said, \`Death is turning (for
+utter darkness of ignorance whence he has not yet emerged?'
+
+Jafar ibn Muhammad al‑Sadiq has said, \`Death is turning (for
 forgiveness to Him).' Allah has said (in the words of Moses),
 \`Therefore turn to your Creator in penitence and kill (or mortify)
 yourselves;' thus whoever turns for forgiveness, kills himself. This
@@ -2247,84 +2247,84 @@ the people of this science: it is one of the four above‑mentioned
 deaths; it has also been called the death which gathers all other
 deaths, since if it occurs, all other types of death also occur. The
 following verse illustrates further this relationship of life and
-death:  
-    
- Kill me my trusted companions, for in killing me is my life  
- And my death is in my life and my life is in my death.  
-    
- It is called the red death for two reasons: the first is that blood,
+death:
+
+Kill me my trusted companions, for in killing me is my life
+And my death is in my life and my life is in my death.
+
+It is called the red death for two reasons: the first is that blood,
 which is red, appears when someone is killed, and secondly, the face
-then turns red (after the killing) by the infusion of divine light.  
-    
- As for the white death, it is an expression for hunger, for hunger
+then turns red (after the killing) by the infusion of divine light.
+
+As for the white death, it is an expression for hunger, for hunger
 illuminates the inward and whitens the face of the heart. Thus if the
 spiritual traveler does not eat his fill and remains in a state of
 hunger, then he dies the white death and thereby gives life to his
 intelligence. This is because gluttony kills sagacity: whoever kills the
-desire for gluttony gives life to his intelligence.  
-    
- As for the green death, it alludes to the discarded patched robe. If
+desire for gluttony gives life to his intelligence.
+
+As for the green death, it alludes to the discarded patched robe. If
 the traveler is content to wear this as his adornment and covers his
 private parts and makes sure that his prayer, while wearing the robe, is
 acceptable, then he dies the green death. This is because he comes alive
 by his contentment and by the illumination of his face with the radiance
 of the Essential Beauty and by his having no need of the transient
-adornment of this world. The following verse emphasizes this:  
-    
- If a man is not sullied by blame of his honour  
- Then any robe he wears will be beautiful.  
-    
- As for the black death, it alludes to the traveler's patient endurance
+adornment of this world. The following verse emphasizes this:
+
+If a man is not sullied by blame of his honour
+Then any robe he wears will be beautiful.
+
+As for the black death, it alludes to the traveler's patient endurance
 of the injustice done by others. This is because he only becomes a truly
 beloved person in the eyes of Allah if he experiences pain and
 constriction caused by their injustice to­wards him. This person,
 however, finds delight in this time of trouble, knowing that it comes
 from the Beloved; everything which issues from the Beloved, be it good
 or bad, becomes a desirable thing (for as the people of this group say:
-\`All from the Beloved is beloved'). It has been said:  
-    
- In my passion for You I find censure pleasurable,  
- And out of love for Your remembrance, may they reproach me with
-blame.  
- I have become like my enemies and most beloved of them  
- Because my portion from them was my portion from You.  
- You disdain me, so I deliberately disdain myself;  
- Whoever disdains You, is not treated generously.  
-    
- In this way he dies the black death, which is annihilation in Allah by
+\`All from the Beloved is beloved'). It has been said:
+
+In my passion for You I find censure pleasurable,
+And out of love for Your remembrance, may they reproach me with
+blame.
+I have become like my enemies and most beloved of them
+Because my portion from them was my portion from You.
+You disdain me, so I deliberately disdain myself;
+Whoever disdains You, is not treated generously.
+
+In this way he dies the black death, which is annihilation in Allah by
 witnessing that the pain and trouble is from Him and experiencing the
 annihilation of actions in the action of his Be­loved, or rather seeing
 himself and others annihilated in the Beloved. At this point he comes
 alive by the existence of the Real by way of the Real by way of His
-assistance which emanates from the Presence of Absolute Existence.  
-    
- The garden attained by this resurrection after death is called the
+assistance which emanates from the Presence of Absolute Existence.
+
+The garden attained by this resurrection after death is called the
 Garden of the Senses. Allah describes it saying, \`And as for him who
 fears to stand in the presence of his Lord and forbids the soul from low
-desires, then surely the Garden is the abode.'  
-    
- He also says that \`therein shall be what their souls yearn after and
+desires, then surely the Garden is the abode.'
+
+He also says that \`therein shall be what their souls yearn after and
 (wherein) the eyes shall delight;' this is because it is a garden which
 is experienced physically: in it is overflowing food and drink which is
 to be enjoyed by the senses. It is for this reason that He says, \`And
 you shall abide there forever.' We ask Allah that He may grant us
 provision and bestow on us arrival at this garden, for it is a place of
 countless and boundless blessings: \`And if you count Allah's favours,
-you will not be able to count them.'  
-  
+you will not be able to count them.'
+
 
 ### b) The intermediate day
 
-* *  
- This day of resurrection alludes to the death of man with respect to
+* *
+This day of resurrection alludes to the death of man with respect to
 base behaviour, evil character and vile qualities and his coming alive
 by way of praiseworthy behaviour, generous and excellent character and
 fine qualities ‑ all things which were at the very core of the Prophet's
 message and purpose. This is reflected in his words, \`I have been given
 all the names' and \`I have been sent to perfect good behaviour' and
-\`Make your qualities the Qualities of Allah.'  
-    
- Know too that if there were a blessing greater than good behaviour and
+\`Make your qualities the Qualities of Allah.'
+
+Know too that if there were a blessing greater than good behaviour and
 the taking on of the qualities of good behaviour, then Allah would have
 bestowed it upon His Prophet. As He Himself says, \`And most surely you
 conform yourself to sublime morality.' When one takes on the character
@@ -2346,9 +2346,9 @@ occupies a similar position within man as man's position in relation to
 the world as a whole. The truth of this first statement is testified by
 Allah's words, \`Surely We offered the trust to the heavens and the
 earth and the moun­tains...' and the second by his words, \`Neither the
-heavens nor the earth can contain Me ... .'  
-    
- The garden attained after this particular death is called the Garden of
+heavens nor the earth can contain Me ... .'
+
+The garden attained after this particular death is called the Garden of
 the Spirit: it is reserved for the spiritual inheritors from amongst His
 slaves. This is referred to by His words, \`Suc­cessful indeed are the
 believers, who are humble in their prayers and keep aloof from what is
@@ -2365,9 +2365,9 @@ Exterior Garden. Thus he becomes a lord of two gardens and two ranks.
 This is referred to by Allah: \`And as for him who fears to stand in the
 presence of his Lord, there are two gardens', that is the Garden of the
 Senses and Garden of the Spirit. We shall now describe this matter in
-more detail.  
-    
- If we examine this subject from another angle, then we see that when
+more detail.
+
+If we examine this subject from another angle, then we see that when
 the soul or self devotes its energy to true spiritual exercises which
 are based on real knowledge, then the person loses all of the viler
 features of his self ‑ in particular, the seven most fundamental of
@@ -2405,25 +2405,25 @@ stations belonging to the base qualities all become spiritual gardens
 when they are ex­changed for the seven stations belonging to the
 praiseworthy qualities. In this way there appears \*the rank of justice
 which encompasses the totality of stations and becomes in turn the
-eighth of these gardens.  
-    
- Allah has referred to these spiritual gardens and their wealth and
+eighth of these gardens.
+
+Allah has referred to these spiritual gardens and their wealth and
 blessings in a *hadith* when He says, \`I have prepared for My slaves
 from amongst the righteous that which the eye has not seen, what the ear
 has not heard and what the heart of man has never conceived?' Likewise,
 the Prophet has described them with his words, \`Truly Allah possesses a
 garden in which there are no maidens and no palaces, in which there is
 no honey and no milk; rather therein our Lord manifests smilingly.' This
-is not the Garden of the Senses but rather the Garden of the Spirit:  
-    
- the difference between the two is evident. He has also referred to this
+is not the Garden of the Senses but rather the Garden of the Spirit:
+
+the difference between the two is evident. He has also referred to this
 kind of garden with His words, \`By the One in Whose hand is the soul of
 Muhammad: truly the Garden and the Fire are closer to each other of you
 than the lace of your sandals'. Here He refers to the interior paradise
 and to the transience of the world in comparison with the world to
-come.  
-    
- The Commander of the Faithful ('Ali) has also indicated all of these
+come.
+
+The Commander of the Faithful ('Ali) has also indicated all of these
 matters with his words: \`He has brought life to his intellect, and
 brought death to his self, until he has worn down his roughness and made
 smooth his coarseness and a great radiance of exceeding brightness has
@@ -2458,13 +2458,13 @@ pure drink. Surely this is a reward for you and your striving shall be
 recompensed.' There are also many other ayat and Prophetic sayings on
 this same subject but we shall content ourselves with these and now turn
 to another matter; and by Allah is success and He it is Who says the
-truth and He it is Who guides to the correct path.  
-  
+truth and He it is Who guides to the correct path.
+
 
 ### c) The major day
 
-   
- This day of resurrection expresses their annihilation in the Real and
+
+This day of resurrection expresses their annihilation in the Real and
 their biding by Him. This station is also called the annihi­lation in
 divine unity and the proximity which comes through supererogatory
 action. It is referred to in Allah's words, \`A slave does not continue
@@ -2474,9 +2474,9 @@ tongue and his hand and his foot such that he hears by Me and he sees by
 Me and he speaks by Me and he walks by Me.' The result of this
 resur­rection, after the annihilation described above ‑ which is the
 real or true death ‑ is the Garden of Witnessing. This garden is above
-the Garden of Inheritance and the Garden of the Soul.  
-    
- Shaykh Muhyi al‑Din ibn 'Arabi has indicated three interior gardens
+the Garden of Inheritance and the Garden of the Soul.
+
+Shaykh Muhyi al‑Din ibn 'Arabi has indicated three interior gardens
 which result from these kinds of resurrection in his Futukat saying:
 \`Know that there are three gardens: the garden which is particular to
 the divine, namely the garden into which go, among others, the children
@@ -2493,13 +2493,13 @@ it is attained by all those who are mentioned above together with the
 believers and those who are (rescued) from the Fire. The third garden is
 the Garden of Actions: the people of this garden take up residence
 therein according to their actions. Whoever surpasses others by the
-excellence of his actions has a greater portion of this garden.  
-    
- Thus there is no good action without is a corresponding garden.
+excellence of his actions has a greater portion of this garden.
+
+Thus there is no good action without is a corresponding garden.
 Superiority in excellence between the people of this garden is in
-accordance with what is required by their stations.  
-    
- Ibn 'Arabi then goes on to say: \`Know that the people of the Garden
+accordance with what is required by their stations.
+
+Ibn 'Arabi then goes on to say: \`Know that the people of the Garden
 are of four kinds: the messengers or prophets, the saints or followers
 of the messengers who have a certainty of knowledge and clear evidence
 from their Lord, the believers or those who affirm the former and the
@@ -2508,9 +2508,9 @@ god but Allah. .Allah has said, "Allah bears witness that there is no
 god but He, and (so do) the angels and those possessed of knowledge."
 These are the scholars to whom I refer; Allah mentions them when He
 says, "Allah will exalt those of you who believe, and those who are
-given knowledge, in high degrees." '  
-    
- Ibn \`Arabi continues: \`The ways leading to knowledge of Allah are
+given knowledge, in high degrees." '
+
+Ibn \`Arabi continues: \`The ways leading to knowledge of Allah are
 two, not three in number. Whoever affirms the Oneness of Allah, by means
 other than these two ways, then lies is *a muqallid* (a person who
 imitates those more knowledgeable). The first of these is the way of
@@ -2530,9 +2530,9 @@ realization within the realm of the Real which is the desired goal: thus
 the people of knowledge are those who bear witness to the unity of Allah
 by means of proofs and investigation. Any further knowledge of divine
 unity is by means of the *tawhid* of the essence and is not given to all
-of those of unveiling but rather to certain of them.'  
-    
- Ibn 'Arabi continues: \`The four groups (mentioned above) are
+of those of unveiling but rather to certain of them.'
+
+Ibn 'Arabi continues: \`The four groups (mentioned above) are
 distinguished from each other in the Gardens of \`Adnin by their
 witnessing of the Real in the "proximity of whiteness". They exist
 therein according to four stations. One group are the lords of the
@@ -2547,9 +2547,9 @@ imitate others more know­ledgeable than they concerning the unity of
 Allah ‑ they oc­cupy different ranks on the Day of judgment and take
 prece­dence over those of rational proofs. As for those outside these
 four groups, Allah knows best as to their state.' At this point the
-words of Shaykh Muhyi al‑Din come to an end on this subject.  
-    
- With the above in mind, we should point out that although this
+words of Shaykh Muhyi al‑Din come to an end on this subject.
+
+With the above in mind, we should point out that although this
 classification is correct and indeed is the best of its kind, other
 gnostics from amongst the people of Allah have given other definitions
 with regard to the totality of these groups. One of these is as follows:
@@ -2580,17 +2580,17 @@ Garden are in accordance with their ranks (each occupy a corresponding
 level and chamber in the Garden). Likewise these three groups may be
 classified in terms of low, high or intermediate, each of these ranks
 and divisions having a particular group assigned to it; and Allah is
-more knowing and more Wise.'  
-    
- It is with these words that the gnostic concludes this particular
+more knowing and more Wise.'
+
+It is with these words that the gnostic concludes this particular
 subject. It would not be fitting to include more on the subject in a
 work of this nature: it will be clear to those of knowledge and
 spiritual tasting that such divisions and classifications as have been
 described are correct; and \`All Praise is due to Allah Who guided us to
 this, and we would not have found our way had it not been that Allah had
-guided us.'  
-    
- Here we conclude our discussion of the three days of spiritual
+guided us.'
+
+Here we conclude our discussion of the three days of spiritual
 resurrection with respect to the people of *tariqah.* As for the people
 of *haqiqah,* their resurrection occurs after the three stations
 men­tioned above: it may be expressed as annihilation in the unity of
@@ -2598,22 +2598,22 @@ action, attribute and essence, and their abiding in the Real, in
 accordance with their different ranks therein. This resurrection is also
 based on the three days of rising, namely the minor, intermediate and
 the major, in accordance with the three types of unity and annihilation
-therein.  
-  
+therein.
+
 
 ### iii) According to the people of haqiqah
 
-* *  
-    
-    
- The minor, intermediate and major days of resurrec­tion in spirit for
-the people *of haqiqah*  
+* *
+
+
+The minor, intermediate and major days of resurrec­tion in spirit for
+the people *of haqiqah*
 * *
 
 ### a) The minor day
 
-* *  
- This day of resurrection expresses their annihilation in the unity of
+* *
+This day of resurrection expresses their annihilation in the unity of
 action and their arrival at the witnessing of the One Actor in all
 things. It is the station of those from whom the veil of actions is
 lifted by the opening of their inner vision. Indeed, the veil is lifted
@@ -2629,9 +2629,9 @@ namely the Real. In this way they become firmly established in the
 minor resurrection in His presence such that they are as dead persons
 being washed for burial. The signs of their station are reliance on Him,
 submission, the handing‑over of affairs and the affirma­tion, by action
-rather than words, that there is no actor but Allah.  
-    
- This subject has already been discussed with respect to the people of
+rather than words, that there is no actor but Allah.
+
+This subject has already been discussed with respect to the people of
 *tariqah,* although the two groups are not exactly the same. Whereas
 prayer, for example, is the same in its outward form, not everyone who
 prays is on the same spiritual level: there is a great difference
@@ -2642,9 +2642,9 @@ who are humble in their prayers and who keep aloof from what is vain...
 who are diligent about their prayers, these are they who are the heirs,
 who shall inherit paradise and shall abide therein' and with regard to
 the second: \`And their prayer before the House is nothing but whistling
-and clapping of hands.'  
-    
- The result of this resurrection after annihilation in the
+and clapping of hands.'
+
+The result of this resurrection after annihilation in the
 above­mentioned manner is the Garden of Actions and its corresponding
 pleasures and blessings ‑ that is the witnessing of the Real Actor in
 each of one's actions, whether physical or spiritual. The real esoteric
@@ -2653,9 +2653,9 @@ Actions, the Garden of Attributes and the Garden of the Essence. The
 Garden of Actions, with respect to this group, is the first of these in
 the hierarchy of the gardens. Detailed descriptions of these gardens
 have been narrated and we shall now describe them in the language of the
-people of this group.  
-    
- The Garden of Actions is the garden of form containing deli­cious foods
+people of this group.
+
+The Garden of Actions is the garden of form containing deli­cious foods
 and drinks and beautiful maidens ‑ these things are the reward for
 righteous actions. It is called both the Garden of Actions and the
 Garden of the Self. At,' the esoteric level this garden refers to the
@@ -2671,20 +2671,20 @@ notion is supported by the words of the Prophet who says, \`Whoever
 knows himself knows his Lord' and the words of Allah, \`We will soon
 show them Our signs in the universe and in their souls, until it becomes
 clear to them that it is the truth.' The following verse also expresses
-this idea:  
-    
- All that you witness is one action alone, although con­cealed by
-veils.  
- When the cover disappears, then you do not see other than Him,  
- And nothing remains at any level of the different forms.  
-    
- The Garden of the Attributes is the interior garden from the divine
+this idea:
+
+All that you witness is one action alone, although con­cealed by
+veils.
+When the cover disappears, then you do not see other than Him,
+And nothing remains at any level of the different forms.
+
+The Garden of the Attributes is the interior garden from the divine
 emanations of the Names and the Attributes: it is the garden of the
 heart (which has already been mentioned as the station of the
 purification of behaviour and the heart's assimila­tion of the Divine
-Qualities).  
-    
- The Garden of the Essence is the witnessing of the Beauty of Oneness in
+Qualities).
+
+The Garden of the Essence is the witnessing of the Beauty of Oneness in
 the totality of manifestations, be it with regard to one individual
 manifestation or phenomena in general. This lat­ter is the Garden of the
 Soul: it is attained by the unity of essence and the placing of eye
@@ -2693,13 +2693,13 @@ Real so that one never witnesses anything but the Beloved. Thus the
 result of the annihilation of the slave in the unity of action and the
 minor esoteric resurrection is the Garden of Actions ‑ in accordance
 with its various ranks and levels, and Allah is more Knowing and more
-Wise.  
-  
+Wise.
+
 
 ### b) The intermediate day
 
-   
- This station expresses their annihilation in the divine unity
+
+This station expresses their annihilation in the divine unity
 *(tawhid)* of attribute and their arrival at a witnessing of the one
 attribute which pervades all things. In other words, whenever the veil
 of the totality of attributes is lifted from someone and the veil of
@@ -2714,12 +2714,12 @@ possessing this particular attribute; he sees this in the same way as
 one may see that every limb of the body possesses the attribute of life
 and strength. In this way one dies the real death and Allah's words,
 \`But We have removed from you your veil so your sight today is sharp'
-becomes a reality for him. The following has also been said:  
-    
- The eye is one and the forms are many,  
- This is the secret revealed to the people of gnosis.  
-    
- It has been narrated that Abu Yazid al‑Bastami was asked, \`How are you
+becomes a reality for him. The following has also been said:
+
+The eye is one and the forms are many,
+This is the secret revealed to the people of gnosis.
+
+It has been narrated that Abu Yazid al‑Bastami was asked, \`How are you
 this morning, O Abu Yazid?' He replied; \`There is no morning as far as
 I am concerned, for morning and evening are for those who are dependent
 upon form and attribute, and I possess no attribute.' These words are
@@ -2727,8 +2727,8 @@ clear proof of the firmness of his establishment in the *tawhid* of
 attribute after that of action by way of unveilings and spiritual
 tastings. It is this that is meant by the gnostic's words, \`The essence
 is veiled by the attributes and the attributes by the action,' for all
-those from whom the  
-  
+those from whom the
+
 
 veil of actions is not raised do not attain to the *tawhid* of actions;
 all those from whom the veil of attributes is not raised do not attain
@@ -2744,26 +2744,26 @@ witnessing in the minor resurrection is the Garden of Attributes (which
 we have already described above) and arrival at its pleasures and
 blessings ‑ namely the witnessing of the attribute of the Be­loved in
 the form of every single one of the lovers, be they spiritual or
-corporeal. One who has arrived at this station declares:  
-    
- The Beloved manifested to me from every direction  
- And I witnessed Him in all meaning and forms.  
-    
- Yet another declares:  
-    
- Every fine thing takes its beauty from His splendour.  
- This beauty is lent to this thing, indeed to all fine things.  
-    
- May Allah grant us and you arrival at this point of witnessing at the
+corporeal. One who has arrived at this station declares:
+
+The Beloved manifested to me from every direction
+And I witnessed Him in all meaning and forms.
+
+Yet another declares:
+
+Every fine thing takes its beauty from His splendour.
+This beauty is lent to this thing, indeed to all fine things.
+
+May Allah grant us and you arrival at this point of witnessing at the
 various levels of this garden, both by way of spiritual tasting and
 unveilings. It is from Him that all seek help and upon Him that all rely
-‑ He it is who utters the truth and guides to the correct path.  
-  
+‑ He it is who utters the truth and guides to the correct path.
+
 
 ### c) The major day
 
-* *  
- This resurrection expresses the abiding of all the essences in the
+* *
+This resurrection expresses the abiding of all the essences in the
 Essence of the Real ‑ after their annihilation therein. This
 annihilation is a gnostic annihilation and not an actual experien­tial
 annihilation: Allah refers to it with His words, \`Everyone (in
@@ -2775,19 +2775,19 @@ from the veils of divine splendour and might, and the disappearance of
 the veil *of* seeing other‑than‑Him in any way whatsoever: the one of
 this station witnesses one single Essence which emanates in the various
 countless manifes­tations. Such a station is indicated in the verse
-which says:  
-    
- Your beauty pervades all realities;  
- Indeed it is nothing but a veil of Your splendour.  
-    
- This notion is also expressed in the gnostic's words: \`There is
+which says:
+
+Your beauty pervades all realities;
+Indeed it is nothing but a veil of Your splendour.
+
+This notion is also expressed in the gnostic's words: \`There is
 nothing in existence but Allah, His Names and His Actions; all is Him,
 by Him, from Him and to Him.' Thus he arrives at the *tawhid of* essence
 and comes to the arena *of* the major resurrection; he witnesses the
 meaning of Allah's words, \`To whom belongs the kingdom this day? To
-Allah the One, the Subduer (of all).'  
-    
- This is because by his unified gaze, by his belief in the judgment that
+Allah the One, the Subduer (of all).'
+
+This is because by his unified gaze, by his belief in the judgment that
 there is nothing in existence but Allah, he subdues all the essences; he
 follows the advice given by Allah: \`Say: Allah; then leave them
 sporting in their vain discourses' and \`And do not associate any other
@@ -2807,9 +2807,9 @@ the Cognizant (as we have already explained). The same may be said with
 respect to His words, \`Is it not sufficient as regards your Lord that
 He is a witness over all things? Now surely they are in doubt as to the
 meeting of their Lord; now surely He encompasses all things,' for these
-words are also an indication of this same station of witnessing.  
-    
- The sign of the witnessing and the mark of this *tawhid is* firm
+words are also an indication of this same station of witnessing.
+
+The sign of the witnessing and the mark of this *tawhid is* firm
 establishment in the station of constancy and the perseverance referred
 to in His words, \`Continue then in the right way as you are commanded.'
 Firmness and constancy in real *tawhid* has been described as a state
@@ -2850,9 +2850,9 @@ affirmation.' Such a person has the highest of stations in return for
 his firmness and balance and his avoidance of either of the two
 extremes. There are numerous references to this state, especially in the
 Qur'an and the traditions. The noble however, will be content with our
-indication of this.  
-    
- The result of this esoteric resurrection is the Garden of the Essence,
+indication of this.
+
+The result of this esoteric resurrection is the Garden of the Essence,
 which is the highest of stations; it is the garden reserved for those
 who affirm the Oneness of Allah and who, by means of their *tawhid,*
 rise above any witnessing of otherness. It is they who are mentioned in
@@ -2871,9 +2871,9 @@ you have submitted to this kind of Islam, namely the *tawhid* of essence
 rather than the *tawhid* of attribute and action. Indeed the testimony
 of Allah, His angels and those of knowledge from amongst His slaves is
 sufficient: \`Say: May Allah be sufficient as a witness between me and
-you and whoever has knowledge of the Book.'  
-    
- This is the last of the three days of spiritual resurrection
+you and whoever has knowledge of the Book.'
+
+This is the last of the three days of spiritual resurrection
 par­ticular to the people of *haqiqah.* We must now begin to consider
 the six days of resurrection in the literal sense or the realm of form
 with respect to the horizons ‑ that is, the cosmic dimen­sion. In this
@@ -2881,9 +2881,9 @@ way .the totality of stations will be twelve in number. Since the
 divisions we have mentioned earlier are different from this division, we
 should begin by mentioning the three days related to form at the
 individual level in order that no contradic­tion should appear in our
-argument.  
-    
- The minor day of resurrection at this level expresses the liber­ation
+argument.
+
+The minor day of resurrection at this level expresses the liber­ation
 of the individual from the veil of the body and worldly activity by the
 natural death, referred to in the saying of the Prophet, \`Whoever dies,
 than his day of rising up has arrived.' The intermediate day of
@@ -2901,25 +2901,25 @@ behind.' In this way each person arrives at that particular station
 reserved for him, be it in the Garden or the Fire; and Allah is more
 Knowing and more Wise. Let us now begin our description of the six days
 related to the cosmic dimension and their corresponding classification
-with respect to the realms of form and the spirit or inner meaning.  
-  
+with respect to the realms of form and the spirit or inner meaning.
+
 
 ### iv) The minor, intermediate and major days of resur­rection in form with respect to the cosmic dimension
 
- 
+
 
 #### a) The minor day
 
-   
- This title expresses the destruction of the physical world and the
+
+This title expresses the destruction of the physical world and the
 compound material forms contained therein and the return of all this to
 the world of simple corporeal elements. This is referred to by Allah
 when He says, \`And when the mountains are made to pass away and when
 the camels are left untended and when the wild animals are made to go
 forth and when the seas are set on fire and when the souls are
-united.'  
-    
- Some, however, consider that this title refers to the appearance of the
+united.'
+
+Some, however, consider that this title refers to the appearance of the
 Mahdi at the end of time when he comes to pass judgment over those
 living in his age. He is the Great Caliph of Allah and the Pole around
 which the whole world revolves; it is also by him that *wilayah is*
@@ -2938,18 +2938,18 @@ surely be gathered for the appointed hour of a known day' and it is this
 \`known' day which is different from the above: thus we know that this
 minor day of gathering is a part and not the whole, that is, not the
 Greater Day of Gathering. Some of the Shi'ahs believe, however, that
-this particular day of gathering is called the day of *rajah* *‑
+this particular day of gathering is called the day of *rajah ‑
 returning* to life after death ‑ and they take the above mentioned
 *ayah* as their evidence. We do not wish to linger on the topic and the
 reader should pursue the matter for himself in the appropriate places.
 Indeed a whole book devoted to this question has been written entitled
-*Kitab al‑Rajah* (The Book of the Return).  
-  
+*Kitab al‑Rajah* (The Book of the Return).
+
 
 #### b) The intermediate day
 
-   
- This title expresses the return of the simple elements to the Universal
+
+This title expresses the return of the simple elements to the Universal
 Essence: the latter receives back all the forms of the world of material
 bodies, including the planets, the stars and the plant, mineral and
 animal kingdoms. This is affirmed in Allah's words, \`On the day when We
@@ -2958,9 +2958,9 @@ originated the first cre­ation, (so) We shall reproduce it; a promise
 (binding on Us); surely We will bring it about' and in more detail in
 His words, \`When the sun is covered and when the stars darken... and
 when the books are spread, and when the heaven has its covering removed,
-and when hell is kindled, and when the Garden is brought nigh.'  
-    
- For some, however, this title expresses the transformation of the
+and when hell is kindled, and when the Garden is brought nigh.'
+
+For some, however, this title expresses the transformation of the
 tangible material world into the interspace prior to the Final Day of
 Return, not to the world of absolute beginnings. For these people it
 refers to the time spent therein and the pain or pleasure which is
@@ -2977,22 +2977,22 @@ barrier (interspace) until the day they are raised.' It is in this world
 that they are gathered together to proceed to the vast plain of
 assembly, the arena of the Great Day of Resurrection. Indeed neither of
 these two aspects can be denied by those who consider this matter with
-care and clarity.  
+care and clarity.
 * *
 
 #### c) The major day
 
-* *  
- This title expresses the return of the forms of the spiritual worlds,
+* *
+This title expresses the return of the forms of the spiritual worlds,
 that is, the return of the various intellects and souls to the First
 Essence, from which all these realities and forms were originally
 created by Allah. This is affirmed in the words of the Prophet, \`The
 first thing to be created by Allah was the Essence; He then looked upon
 it and it dissolved in awe of Him, such that half of it became water and
 half and of it became fire; from this water Allah created the souls and
-from the fire the bodies ... .'  
-    
- However, with respect to the language of unveilings and the way of
+from the fire the bodies ... .'
+
+However, with respect to the language of unveilings and the way of
 those of spiritual tasting, this title refers to the material from which
 Allah opened up all the forms of the world: this material is sometimes
 called the primeval motes or particles and sometimes the major elements.
@@ -3015,9 +3015,9 @@ and the abodes of the Garden and the Fire. The truth of this is attested
 by the resurrection of man to the same physical form and with the same
 limbs as he possessed before his death: this is mentioned in Allah's
 words, \`Yea! We are able to make complete his very fingertips' and
-various other ayat.  
-    
- We have already mentioned the belief of the people of the external law,
+various other ayat.
+
+We have already mentioned the belief of the people of the external law,
 from amongst the scholastic theologians (mutakalli­mun), who affirm that
 the individual or partial forms are the original forms and deny the
 possibility of the annihilation of anything in existence under any
@@ -3031,17 +3031,17 @@ change of one form into another. They believe in the necessity of the
 return of all creation to the hereafter and the return is to the forms
 that they previously possessed which will continue in this manner in the
 Garden and the Fire; and Allah is more Knowing and more Wise and He it
-is Who says the truth and guides to the correct path.  
-  
+is Who says the truth and guides to the correct path.
+
 
 ### v) The minor, intermediate and major days of resur­rection in spirit with respect to the cosmic dimension
 
- 
+
 
 #### a) The minor day
 
-* *  
- This title expresses the return of the individual souls or selves to
+* *
+This title expresses the return of the individual souls or selves to
 the Universal Soul such that they ascend towards it. This is stated in
 Allah's words, \`O soul that art at rest! Return to your Lord, well
 pleased (with Him), well pleasing (Him), so enter among My servants, and
@@ -3059,21 +3059,21 @@ affirmed by the application of the word fathers (in Arabic) to the
 planets and the celestial forms and the word mothers (in Arabic) to the
 various elements and terrestrial forms. Shaykh Muhyi‑al‑Din has
 indicated this in a verse from his *Futuhat* (at the beginning of the
-eleventh chapter):  
-    
- I am the son of the fathers of the purified spirits  
- And of the mothers of the elemental souls.  
-    
- These souls are an expression, in the first instance, of the celestial
+eleventh chapter):
+
+I am the son of the fathers of the purified spirits
+And of the mothers of the elemental souls.
+
+These souls are an expression, in the first instance, of the celestial
 souls and thereafter of the angelic, jinn, elemental, mineral; animal
 and finally the human souls; from another aspect the human souls are the
 principal and most noble of the souls. Moreover each of these divisions
 may be further subdivided; an example (from among others too numerous to
 mention) is that of the human soul which may be classified into the
 commanding, re­proaching, inspired and contented self (and other
-classifications besides).  
-    
- All the various souls of the world together with the inhabitants of
+classifications besides).
+
+All the various souls of the world together with the inhabitants of
 this world are charged with duties. This, however, is a separate subject
 and it would not be suitable to include it here; indeed the words of
 Allah are sufficient, \`And there is not a single thing but glorifies
@@ -3082,13 +3082,13 @@ praise the Creator is of necessity charged with a specific duty. The
 import of the above *ayah* must be fully understood, for it includes the
 praise of the stones and the earth and not just the souls and the
 selves; and Allah is more Knowing and more Wise ‑ He it is Who says the
-truth and guides to the correct path.  
-  
+truth and guides to the correct path.
+
 
 #### b) The intermediate day
 
-* *  
- This title expresses the return of the individual spirits to the
+* *
+This title expresses the return of the individual spirits to the
 Universal Greater Spirit: this return takes place by their spiritual
 ascent towards this Spirit, while remaining connected to the body which
 they use and direct. The Greater Spirit is mentioned in the *hadith:*
@@ -3103,9 +3103,9 @@ of years before the bodies: one *hadith* of the Prophet reports that
 thousand years before He created creation.' Likewise, it has been
 narrated that the spirits are like mustered armies: those that come to
 know each other unite in harmony and those that have no knowledge of
-each other separate in discord.  
-    
- The subject of these spirits is a vast one, and it is not fitting that
+each other separate in discord.
+
+The subject of these spirits is a vast one, and it is not fitting that
 we continue it here in a work of this nature. The reader is urged to
 pursue the matter in the appropriate texts. We would simply add here
 that the whole world is like one person, as is indicated in words of the
@@ -3126,21 +3126,21 @@ one may raise about this matter: \`And there is no animal that walks
 upon the earth nor bird that flies with two wings but (they are)
 creatures like yourselves; We have not neglected anything in the Book,
 then to their Lord they shall be gathered;' and Allah is more Knowing
-and more Wise.  
-  
+and more Wise.
+
 
 #### c) The major day
 
-* *  
- This title expresses the return of all the intellects, by way of an
+* *
+This title expresses the return of all the intellects, by way of an
 ascent, to the First Intellect referred to by the Prophet in his words,
 \`The first thing created by Allah was the intellect; He then said to
 it: "Come forward" and it came forward; He then said to it, "Go back"
 and it went back; He then said, "By My power and My majesty I have not
 created a more noble creation than you; by you I give, by you I take, by
-you I reward and by you I punish ... ." '  
-    
- It is evident that there are various intellects and because of their
+you I reward and by you I punish ... ." '
+
+It is evident that there are various intellects and because of their
 number there exist differences between them. Most scholars from amongst
 the philosophers affirm that Allah is One in all respects and that from
 this One there issues another one and it is this which is the First
@@ -3150,9 +3150,9 @@ this way (the chain) continues to the last celestial sphere (or planet).
 I mean by this that these philosophers have established the existence of
 an intel­lect, a soul, a form and an essence for each of these spheres;
 this also applies to the angels for they are the lords of the
-intellects, and likewise to the jinn and mankind, according to some.  
-    
- According to the scholars of this particular science, every being
+intellects, and likewise to the jinn and mankind, according to some.
+
+According to the scholars of this particular science, every being
 possesses an intellectual perception in accordance with its own
 particular capacity. One may call this inspiration, perspicacity,
 intuitive awareness, revelation, or simply knowledge or, indeed, by any
@@ -3164,9 +3164,9 @@ potential intellect) and the inferring intellect. The intellect
 possesses various names in Arabic, among them words meaning \`core,'
 \`acumen,' \`discernment' and \`mind.' This supports the view that some
 kind of correlation must exist between the cosmic and the individual
-dimensions.  
-    
- In the light of the above, it may be shown that anything which may be
+dimensions.
+
+In the light of the above, it may be shown that anything which may be
 assumed to exist with respect to the lesser man should (in this context)
 also be assumed to exist with respect to the Great Man himself. Indeed
 the whole of our commentary throughout this book (with respect to the
@@ -3188,9 +3188,9 @@ this reason too that he also said: \`By Allah, surely the‑son of Abu
 Talib is more intimate with death than the child with the breast of its
 mother.' Allah too addressing the slaves says, \`Then invoke death if
 you are truthful' for He knows that death results in their happiness and
-brings about arrival at their own perfection.  
-    
- If one wishes, one may also consider the three days of resur­rection,
+brings about arrival at their own perfection.
+
+If one wishes, one may also consider the three days of resur­rection,
 in the literal and figurative sense with respect to the cosmic
 dimension, as the return of the world of action, namely the world of
 Lordship, to the world of the Names and Attributes, namely the world of
@@ -3198,11 +3198,11 @@ Divinity, and the return of the world of divinity to the world of the
 Essence and the Presence of Solitude. If we consider the matter in this
 way, then it is also accords with the above‑mentioned classification; in
 this way all aspects are given their due consideration ‑ as is indicated
-by the following verse:  
-    
- Our terms are various but Your beauty is One  
- And everything is indicating that very beauty.  
-  
+by the following verse:
+
+Our terms are various but Your beauty is One
+And everything is indicating that very beauty.
+
 
 [^1]: It is for this reason that he is called al‑Baqir ‑ meaning
 literally the one who cleaves or seeks out the knowledge of past and

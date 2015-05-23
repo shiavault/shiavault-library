@@ -1,8 +1,7 @@
 The Years of Struggle and Exile, 1962-1978
 ==========================================
 
-   
- The emphases of the Imam’s activity began to change with the death of
+The emphases of the Imam’s activity began to change with the death of
 Burujirdi on March 31, 1961, for he now emerged as one of the successors
 to Burujirdi’s position of leadership. This emergence was signaled by
 the publication of some of his writings on *fiqh*, most importantly the
@@ -11,9 +10,9 @@ basic handbook of religious practice entitled, like others of its genre,
 large number of Iranian Shi’is. His leadership role was, however,
 destined to go far beyond that traditional for a *marja’-i taqlid* and
 to attain a comprehensiveness unique in the history of the Shi’i
-*ulama*.  
-    
- This became apparent soon after the death of Burujirdi when Muhammad
+*ulama*.
+
+This became apparent soon after the death of Burujirdi when Muhammad
 Riza Shah, secure in his possession of power after the CIA-organized
 coup of August 1953, embarked on a series of measures designed to
 eliminate all sources of opposition, actual or potential, and to
@@ -31,18 +30,18 @@ engage in a sustained campaign of protest. Rejecting all compromise
 measures, the Imam was able to force the repeal of the laws in question
 seven weeks after they had been promulgated. This achievement marked his
 emergence on the scene as the principal voice of opposition to the
-Shah.  
-    
- A more serious confrontation was not long in coming. In January 1963,
+Shah.
+
+A more serious confrontation was not long in coming. In January 1963,
 the Shah announced a six-point program of reform that he termed the
 White Revolution, an American-inspired package of measures designed to
 give his regime a liberal and progressive facade. Imam Khomeini summoned
 a meeting of his colleagues in Qum to press upon them the necessity of
 opposing the Shah’s plans, but they were initially hesitant. They sent
 one of their number, Ayatullah Kamalvand, to see the Shah and gauge his
-intentions.  
-    
- Although the Shah showed no inclination to retreat or compromise, it
+intentions.
+
+Although the Shah showed no inclination to retreat or compromise, it
 took further pressure by Imam Khomeini on the other senior *ulama* of
 Qum to persuade them to decree a boycott of the referendum that the Shah
 had planned to obtain the appearance of popular approval for his White
@@ -52,9 +51,9 @@ imitation, perhaps, of his father, who had taken an armored column to
 Qum in 1928 in order to intimidate certain outspoken *ulama*, the Shah
 came to Qum two days later. Faced with a boycott by all the dignitaries
 of the city, he delivered a speech harshly attacking the *ulama* as a
-class.  
-    
- On January 26, the referendum was held, with a low turnout that
+class.
+
+On January 26, the referendum was held, with a low turnout that
 reflected the growing heed paid by the Iranian people to Imam Khomeini’s
 directives. He continued his denunciation of the Shah’s programs,
 issuing a manifesto that also bore the signatures of eight other senior
@@ -68,9 +67,9 @@ for the crime of violating the ordinances of Islam and trampling the
 constitution, and in a government taking its place that adheres to Islam
 and has concern for the Iranian nation.”[^1] He also decreed that the
 Nauruz celebrations for the Iranian year 1342 (which fell on March 21,
-1963) be cancelled as a sign of protest against government policies.  
-    
- The very next day, paratroopers were sent to the Fayziya madrasa in
+1963) be cancelled as a sign of protest against government policies.
+
+The very next day, paratroopers were sent to the Fayziya madrasa in
 Qum, the site where the Imam delivered his public speeches. They killed
 a number of students, beat and arrested a number of others, and
 ransacked the building. Unintimidated, the Imam continued his attacks on
@@ -87,9 +86,9 @@ their homes, the Imam reacted contemptuously by referring to the Shah as
 Then, on April 3, 1963, the fortieth day after the attack on the Fayziya
 madrasa, he described the Iranian government as being determined to
 eradicate Islam at the behest of America, Israel, and himself as
-resolved to combat it.  
-    
- Confrontation turned to insurrection some two months later. The
+resolved to combat it.
+
+Confrontation turned to insurrection some two months later. The
 beginning of Muharram, always a time of heightened religious awareness
 and sensitivity, saw demonstrators in Tehran carrying pictures of the
 Imam and denouncing the Shah in front of his own palace. On the
@@ -122,9 +121,9 @@ of the *ulama* to abandon their quietism and align themselves with the
 radical goals set forth by the Imam. The movement of 15 Khurdad may
 therefore be characterized as the prelude to the Islamic Revolution of
 1978-79; the goals of that revolution and its leadership had already
-been determined.  
-    
- After nineteen days in the Qasr prison, Imam Khomeini was moved first,
+been determined.
+
+After nineteen days in the Qasr prison, Imam Khomeini was moved first,
 to the ‘Ishratabad military base and then to a house in the Davudiya
 section of Tehran where he was kept under surveillance. Despite the
 killings that had taken place during the uprising, mass demonstrations
@@ -143,9 +142,9 @@ religious scholars, the regime had also attempted to discredit him by
 creating dissension in Qum. These attempts, too, were unsuccessful, for
 early in June 1964 all the major *ulama* put their signatures to
 declarations commemorating the first anniversary of the uprising of 15
-Khurdad.  
-    
- Despite its failure to sideline or silence Imam Khomeini, the Shah’s
+Khurdad.
+
+Despite its failure to sideline or silence Imam Khomeini, the Shah’s
 regime continued its pro-American policies unwaveringly. In the autumn
 of 1964, it concluded a status of forces agreement with the United
 States that provided immunity from prosecution for all American
@@ -158,9 +157,9 @@ agitated.[^4] He denounced the agreement as a surrender of Iranian
 independence and sovereignty, made in exchange for a $200 million loan
 that would be of benefit only to the Shah and his associates, and
 described as traitors all those in the *Majlis* who voted in favor of
-it; the government lacked all legitimacy, he concluded.[^5]  
-    
- Shortly before dawn on November 4, 1964, again a detachment of
+it; the government lacked all legitimacy, he concluded.[^5]
+
+Shortly before dawn on November 4, 1964, again a detachment of
 commandos surrounded the Imam’s house in Qum, arrested him, and this
 time took him directly to Mehrabad airport in Tehran for immediate
 banishment to Turkey. The decision to deport rather than arrest Imam
@@ -168,9 +167,9 @@ Khomeini and imprison him in Iran was based no doubt on the hope that in
 exile he would fade from popular memory. Physical elimination would have
 been fraught with the danger of an uncontrollable popular uprising. As
 for the choice of Turkey, this reflected the security cooperation
-existing between the Shah’s regime and Turkey.  
-    
- The Imam was first lodged in room 514 of Bulvar Palas Oteli in Ankara,
+existing between the Shah’s regime and Turkey.
+
+The Imam was first lodged in room 514 of Bulvar Palas Oteli in Ankara,
 a moderately comfortable hotel in the Turkish capital, under the joint
 surveillance of Iranian and Turkish security officials. On November 12,
 he was moved from Ankara to Bursa, where he was to reside another eleven
@@ -198,9 +197,9 @@ boycott of foreign goods, and the abandonment of all dealings and
 association with the foreigners in question.” Similarly, “if an attack
 by foreigners on one of the Islamic states is anticipated, it is
 incumbent on all Islamic states to repel the attack by all possible
-means; indeed, this is incumbent on the Muslims as a whole.”[^7]  
-    
- On September 5, 1965, Imam Khomeini left Turkey for Najaf in Iraq,
+means; indeed, this is incumbent on the Muslims as a whole.”[^7]
+
+On September 5, 1965, Imam Khomeini left Turkey for Najaf in Iraq,
 where he was destined to spend thirteen years. As a traditional center
 of Shi’i learning and pilgrimage, Najaf was clearly a preferable and
 more congenial place of exile. It had moreover already functioned as a
@@ -223,17 +222,17 @@ which occasionally had its own differences with the Shah’s regime and
 was of a mind to use the Imam’s presence in Najaf for its own purposes.
 The Imam declined the opportunity to be interviewed on Iraqi television
 soon after his arrival, and resolutely kept his distance from succeeding
-Iraqi administrations.  
-    
- Once settled in Najaf, Imam Khomeini began teaching *fiqh* at the
+Iraqi administrations.
+
+Once settled in Najaf, Imam Khomeini began teaching *fiqh* at the
 Shaykh Murtaza Ansari madrasa. His lectures were well attended, by
 students not only from Iran but also from Iraq, India, Pakistan,
 Afghanistan, and the Persian Gulf states. In fact, a mass migration to
 Najaf from Qum and other centers of religious learning in Iran was
 proposed to the Imam, but he advised against it as a measure bound to
-depopulate Qum and weaken it as a center of religious guidance.  
-    
- It was also at the Shaykh Murtaza Ansari madrasa that he delivered,
+depopulate Qum and weaken it as a center of religious guidance.
+
+It was also at the Shaykh Murtaza Ansari madrasa that he delivered,
 between January 21 and February 8, 1970, his celebrated lectures on
 vilayat-i *faqih*, the theory of governance that was to be implemented
 after the triumph of the Islamic Revolution. (The text of these lectures
@@ -257,9 +256,9 @@ delineated a program for the establishment of an Islamic government,
 laying particular stress on the responsibilities of the *ulama* to
 transcend their petty concerns and to address the people fearlessly: “It
 is the duty of all of us to overthrow the *taghut*, the illegitimate
-political powers that now rule the entire Islamic world.”[^10]  
-    
- The text of the lectures on vilayat-i *faqih* was smuggled back to Iran
+political powers that now rule the entire Islamic world.”[^10]
+
+The text of the lectures on vilayat-i *faqih* was smuggled back to Iran
 by visitors who came to see the Imam in Najaf, as well as by ordinary
 Iranians who came on pilgrimage to the shrine of Hazrat ‘Ali (A) The
 same channels were used to convey to Iran the numerous letters and
@@ -295,9 +294,9 @@ been official in Iran until that time.
 Some developments were met with fatwas rather than proclamations: for
 example, the Imam rejected as incompatible with Islam the Family
 Protection Law of 1967 and classified as adulteresses women who
-remarried after obtaining a divorce under its provisions.[^12]  
-    
- Imam Khomeini had also to deal with changing circumstances in Iraq. The
+remarried after obtaining a divorce under its provisions.[^12]
+
+Imam Khomeini had also to deal with changing circumstances in Iraq. The
 Ba’th Party, fundamentally hostile to religion, had come to power in
 July 1967 and soon began exerting pressure on the scholars of Najaf,
 both Iraqi and Iranian. In 1971, as Iraq and Iran entered a state of
@@ -305,9 +304,9 @@ sporadic and undeclared war with each other, the Iraqi regime began
 expelling from its territory Iranians whose forebears had in some cases
 been residing there for generations. The Imam, who until that point had
 scrupulously kept his distance from Iraqi officialdom, now addressed
-himself directly to the Iraqi leadership condemning its actions.  
-    
- Imam Khomeini was, in fact, constantly, and acutely aware of the
+himself directly to the Iraqi leadership condemning its actions.
+
+Imam Khomeini was, in fact, constantly, and acutely aware of the
 connections between Iranian affairs and those of the Muslim world in
 general and the Arab lands in particular. This awareness led him to
 issue from Najaf a proclamation to the Muslims of the world on the
@@ -319,9 +318,9 @@ The Imam’s strong concern for the Palestine question led him to issue a
 (*vujuh-i shar’i*) to support the nascent activities of *al-Asifa*, the
 armed wing of the Palestine Liberation Organization; this was confirmed
 by a similar and more detailed ruling issued after a meeting with the
-Baghdad representative of the PLO.[^13]  
-    
- The distribution in Iran, on however limited a scale, of the
+Baghdad representative of the PLO.[^13]
+
+The distribution in Iran, on however limited a scale, of the
 proclamations and fatwas of Imam Khomeini was in itself enough to ensure
 that his name not be forgotten during the years of exile. Equally
 important, the movement of Islamic opposition to the Shah’s regime that
@@ -329,16 +328,16 @@ had been inaugurated by the uprising of 15 Khurdad continued to develop
 despite the brutality unhesitatingly dispensed by the Shah. Numerous
 groups and individuals explicitly owed their allegiance to the Imam.
 Soon after his exiling there came into being an organization called
-*Hay’atha-yi Mu’talifa-yi Islami* (the Allied Islamic Associations),
+*Hay’atha-yi Mu’talifa-yi* *Islami* (the Allied Islamic Associations),
 headquartered in Tehran but with branches throughout Iran.
 
 Active in it were many who had been students of the Imam in Qum and who
 came to assume important responsibilities after the revolution, men such
 as Hashimi-Rafsanjani and Javad Bahunar. In January 1965, four members
 of the organization assassinated Hasan ‘Ali Mansur, the prime minister
-who had been responsible for the exiling of the Imam.  
-    
- There were no individuals designated, even clandestinely, as Imam
+who had been responsible for the exiling of the Imam.
+
+There were no individuals designated, even clandestinely, as Imam
 Khomeini’s authorized representatives in Iran while he was in exile.
 
 However, senior *ulama* such as Ayatullah Murtaza Mutahhari, Ayatullah
@@ -346,9 +345,9 @@ Sayyid Muhammad Husayn Bihishti (d. 1981), and Ayatullah Husayn ‘Ali
 Muntaziri, were in contact with him, directly and indirectly, and were
 known to speak on his behalf in important matters. Like their younger
 counterparts in the *Hay’atha-yi Mu’talafa-yi Islami*, all three went on
-to perform important functions during and after the revolution.  
-    
- The continued growth of the Islamic movement during Imam Khomeini’s
+to perform important functions during and after the revolution.
+
+The continued growth of the Islamic movement during Imam Khomeini’s
 exile should not be attributed exclusively to his abiding influence or
 to the activity of *ulama* associated with him. Important, too, were the
 lectures and books of ‘Ali Shari’ati (d. 1977), a university-educated
@@ -359,9 +358,9 @@ many *ulama* regarded as dangerously syncretistic.
 When the Imam was asked to comment on the theories of Shari’ati, both by
 those who supported them and by those who opposed them, he discreetly
 refrained from doing so, in order not to create a division within the
-Islamic movement that would have benefited the Shah’s regime.  
-    
- The most visible sign of the persisting popularity of Imam Khomeini in
+Islamic movement that would have benefited the Shah’s regime.
+
+The most visible sign of the persisting popularity of Imam Khomeini in
 the pre-revolutionary years, above all at the heart of the religious
 institution in Qum, came in June 1975 on the anniversary of the uprising
 of 15 Khurdad. Students at the Fayziya madrasa began holding a
@@ -374,8 +373,8 @@ numerous deaths resulting. The Imam reacted with a message in which he
 declared the events in Qum and similar disturbances elsewhere to be a
 sign of hope that “freedom and liberation from the bonds of imperialism”
 were at hand.[^14] The beginning of the revolution came indeed some two
-and a half years later.  
-  
+and a half years later.
+
 
 [^1]: Sahifa-yi Nur, I, p. 27.
 

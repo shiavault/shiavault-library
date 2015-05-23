@@ -98,11 +98,11 @@ These individuals also base their reasonings on the axioms which Imam
 indispensable.”*
 
 These individuals, to verify their positions, resort to historical
-examples. They say as well:  
- Adam was humiliated in paradise because of a woman,  
- Phoenix got refuge in the Qaf Mount because of a woman,  
- Joseph got into the prison in the well because of a woman,  
- The killing of Aal Imran was because of a woman.[^1]
+examples. They say as well:
+Adam was humiliated in paradise because of a woman,
+Phoenix got refuge in the Qaf Mount because of a woman,
+Joseph got into the prison in the well because of a woman,
+The killing of Aal Imran was because of a woman.[^1]
 
 The Second Explanation:
 -----------------------
@@ -119,16 +119,16 @@ its people issued by Imam ‘Ali (as) are based on this basis.
 
 When A’isha (the Prophet’s wife), in contrast to God's commandment:
 
-**  
+**
 **
 
 "
 
-**  
+**
 **
 وَقَرْنَ فِي بُيُوتِكُنَّ
 
-**  
+**
 **
 "
 
@@ -223,8 +223,8 @@ than your allowing the entry of one who cannot be trusted into their
 presence. If you can do so, then let them not know anyone other than
 you”.*
 
-This is just a moral and ethical recommendation, however.  
- The Islamic scholars look at it just as an ethical suggestion. If it
+This is just a moral and ethical recommendation, however.
+The Islamic scholars look at it just as an ethical suggestion. If it
 were for the scholars we would interpret this suggestion as the
 confinement of women to their homes. However, the reason why the
 jurisprudents have not issued any fatwa or Islamic verdict on this topic

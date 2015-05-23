@@ -46,7 +46,7 @@ and at another point calls it the best provision for the Hereafter[^4]
 and at another occasion he calls it a panacea for every defect of the
 body[^5].
 
-Besides these, God-wariness has two other important effects:  
+Besides these, God-wariness has two other important effects:
 **i)** Anybody possessing God-wariness will have a sort of insight by
 which he will understand the secrets behind the creation.
 
@@ -100,13 +100,13 @@ and hardships will be solved.
 </blockquote>
 
 ***"And whoever is careful of (his duty to) Allah, He will make for him
-an outlet, and give him sustenance from whence he thinks not..”***  
+an outlet, and give him sustenance from whence he thinks not..”***
 ***“..And whoever is careful of (his duty to) Allah He will make easy
 for him his affair".***[^9]
 
 Regarding all these points, it is the important role of God-wariness
-which Imam ‘Ali (as) puts in front of the agenda of his son's life.  
- Of course, as it is repeatedly stated, this emphasis is not only for
+which Imam ‘Ali (as) puts in front of the agenda of his son's life.
+Of course, as it is repeatedly stated, this emphasis is not only for
 Imam ‘Ali’s son, but for all the believers who wish to possess human
 life and enjoy God-given insight and resolve the problems.
 

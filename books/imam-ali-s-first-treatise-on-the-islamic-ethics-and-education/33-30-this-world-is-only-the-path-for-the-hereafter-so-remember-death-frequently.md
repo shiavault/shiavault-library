@@ -62,9 +62,9 @@ dogs and rapacious beasts snarling at one another. Their strong devour
 their weak and their old subjugate their young. (They are like) cattle,
 some confined and others left untended. They have lost their intellects
 and ventured into what is unknown. They are (like)* *diseasesd cattle
-left free to graze in a valley of soft sand,* *difficult to traverse.
-They have neither a shepherd to keep them in order nor a herdsman to
-take them to pasture.*
+left free to graze in a valley of soft sand, difficult to traverse. They
+have neither a shepherd to keep them in order nor a herdsman to take
+them to pasture.*
 
 *The world has taken them them on the path of blindness, and taken their
 sights from the beacon of guidance, so they are wandering in its
@@ -129,8 +129,8 @@ the way these plans are carried out is interpreted as "trial"; the
 guidance of Allah in the materialization of these aims is interpreted as
 God's benevolence; and the recognition of Allah and His traits which is
 the main factor behind all of this collection (Thought, ethics, and
-duties) is interpreted as God's recognition.  
- Thus, it is right to say that the philosophy of man's creation is a
+duties) is interpreted as God's recognition.
+Thus, it is right to say that the philosophy of man's creation is a
 combination of worship, God's benevolence, man's trial and God's
 recognition. And these four factors all lead to man's perfection.[^4]
 
@@ -167,8 +167,8 @@ Imam ‘Ali (as) in this letter compares man to a game that is made to run
 by the hunter who is about to hunt it. And finally he is trapped. In the
 same way, death, like the hunter, has made man run, only to be trapped
 and caught a little later. This does not depend on his will to either
-surrender or to go free.  
- For this reason, man should be careful not to indulge in wrong-doings
+surrender or to go free.
+For this reason, man should be careful not to indulge in wrong-doings
 and not to lose the right of repentance. He might be willing to repent;
 then let him not waste his time.
 
@@ -190,8 +190,8 @@ we might go after our wishes and stay world-mongers. The world may make
 dolls out of us and we may forget the Hereafter. In doing so, we might
 be less than beasts because we have intellect and should do otherwise.
 
-Thus, we have to:  
- Firstly: remember death and its consequences. The remembrance of death
+Thus, we have to:
+Firstly: remember death and its consequences. The remembrance of death
 kills lusts and the roots of negligence, strengthens the heart to
 believe in God's promises and softens man's nature and breaks the flags
 of wishes and whims and belittles this world.
@@ -237,13 +237,13 @@ Thirdly: not to be deceived by this world because only gullible people
 are carried away by flashy things in this world. Wise men are
 unaffected. They realize that in this world the flowers are not
 continuously fresh, neither are the lucky ones always happy. If they are
-happy one day, they are saddened the other day: The poet says:  
- Kesra and the golden orange, Parviz and the golden vegetable,  
- All have gone with the wind, all have been leveled to the ground;  
- Parviz would take golden vegetable to every party,  
- With gold, he made a garden of vegetables;  
- Parviz is lost now, do not say much of him,  
- Read where is the golden vegetables, go and read kam taraku.
+happy one day, they are saddened the other day: The poet says:
+Kesra and the golden orange, Parviz and the golden vegetable,
+All have gone with the wind, all have been leveled to the ground;
+Parviz would take golden vegetable to every party,
+With gold, he made a garden of vegetables;
+Parviz is lost now, do not say much of him,
+Read where is the golden vegetables, go and read kam taraku.
 
 But the feeble-minded persons, like beasts and four-legged animals, can
 only see the prey, stable and grass and lusts and enjoy being indulged
@@ -259,8 +259,8 @@ They are continuously at the mercy of temptations,[^11] but since they
 are realistic, they are not deceived by the world and they provide
 themselves with appropriate provisions for the coming world. They try to
 learn from the world and its ups and downs. There are two traditions
-regarding this:  
- The first tradition: Imam ‘Ali (as) heard somebody blaming this world.
+regarding this:
+The first tradition: Imam ‘Ali (as) heard somebody blaming this world.
 Imam ‘Ali (as) told him:
 
 <blockquote dir="rtl">
@@ -287,7 +287,7 @@ Imam ‘Ali (as) told him:
 
 *“O you who blame the world, while you are beguiled by its vanities and
 deceived by its falsehoods! Are you beguiled by this world, and then
-blame it? Do you accuse it of sin or does it accuse you? When did it
+blame it? Do you accuse it of sin or does it accuse you?* *When did it
 seduce you and when did it deceive you? Through the places where your
 fore-fathers have fallen and decayed? Or through the sleeping-places of
 your mothers under the earth?...... Through him (the dying man), the
@@ -347,17 +347,17 @@ the world will change into the morning of the Day of Judgment. Now the
 caravans have reached their destinations. Let the true believers
 separate themselves from the groups of beasts and join the caravans.
 
-Hafiz, the Iranian poet, says in this regard:  
- Our life passed with no aims in sight,  
- O boy, give me the wine bowl, because you will not arrive at the old
-age;  
- What sort of sugars are here that the royal  
- Falcons have belittled themselves to the position of a fly;  
- The caravan went away but you are asleep and the desert is ahead of
-you,  
- How come you are negligent of the beels?  
- Open your wings and go ahead toward the heaven trees,  
- It is beyond a bird like you to be cage-ridden.
+Hafiz, the Iranian poet, says in this regard:
+Our life passed with no aims in sight,
+O boy, give me the wine bowl, because you will not arrive at the old
+age;
+What sort of sugars are here that the royal
+Falcons have belittled themselves to the position of a fly;
+The caravan went away but you are asleep and the desert is ahead of
+you,
+How come you are negligent of the beels?
+Open your wings and go ahead toward the heaven trees,
+It is beyond a bird like you to be cage-ridden.
 
 ### 4. The Event Narrated By Ibn Abi Al-Hadid
 

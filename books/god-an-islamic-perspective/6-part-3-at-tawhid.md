@@ -6,16 +6,16 @@ Part 3: At-Tawhid
 
 It will be seen from above-mentioned discussion how Islam, for the first
 time in history of religions, explained “*at-tawhid*” (Oneness of God)
-in such a way that there was no misunderstanding afterwards.  
- The Jews believed in one God, but theirs was not the universal but
+in such a way that there was no misunderstanding afterwards.
+The Jews believed in one God, but theirs was not the universal but
 tribal god. And even then, they had fallen in the pitfall of giving \`
 Uzayr the title of \`son of God.'
 
 It is the direct result of the teaching of Islam that Jews left calling
 a man \`son of God'. Christians are trying to re-interprete the dogma of
 Trinity; Hindus were compelled to rediscover that Vedas teach Unity of
-God and that idolworship was wrong.  
- The surah of at-Tawhid is one of the shortest chapters of the Holy
+God and that idolworship was wrong.
+The surah of at-Tawhid is one of the shortest chapters of the Holy
 Qur'an. It establishes the pure belief in the Oneness of God, rejecting
 all types of 'shirk' in these words:
 
@@ -51,9 +51,9 @@ all types of 'shirk' in these words:
 
 ***In the Name of Allah, the Beneficent, the Merciful***
 
-***“Say: He is Allah, The One and Only:***  
-***Allah, the Eternal, Absolute;***  
-***He begetteth not, Nor is He begotten;***  
+***“Say: He is Allah, The One and Only:***
+***Allah, the Eternal, Absolute;***
+***He begetteth not, Nor is He begotten;***
 ***And there is none like unto Him.” (Chapter Al-Ikhlaas, n. 112)***
 
 The first sentence of the Islamic kalimah, t hat is, “There is no god
@@ -215,8 +215,8 @@ No. NAMES OF ALLAH MEANING
 
 2. ar-Rahman The Merciful
 
-3. ar-Rahim The Compassionate  
- 4. al-Malik The Ruler
+3. ar-Rahim The Compassionate
+4. al-Malik The Ruler
 
 5. al-Quddus The Holy
 

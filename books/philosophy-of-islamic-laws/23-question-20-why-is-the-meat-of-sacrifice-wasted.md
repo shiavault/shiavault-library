@@ -67,8 +67,8 @@ the Islamic purpose should be kept in mind and that is the duty of the
 Islamic governments and Muslim intellectuals that they should give Islam
 a practical appearance and should stop all kind of wastage and if any
 problem arises, then it is not the deficiency of divine law. The fault
-lies with the Muslims.[^3]  
-  
+lies with the Muslims.[^3]
+
 
 [^1]: Surah Hajj 22:28
 

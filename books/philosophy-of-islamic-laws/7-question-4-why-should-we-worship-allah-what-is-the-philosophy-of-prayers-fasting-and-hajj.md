@@ -178,8 +178,8 @@ will burn down each and everything and destroy all.
 
 Fasting in the Holy month of Ramadhan shows equality and unity because
 in this month the happy and poor people remain away from desires and
-lead similar life.  
-  
+lead similar life.
+
 
 The Philosophy of Hajj
 ----------------------

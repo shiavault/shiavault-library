@@ -30,8 +30,8 @@ leads him to the Divine aims. On the other hand, "The covenant of
 Shaitan" leads him astray.[^2]
 
 Thus, the Qur’an, Islam and the Prophet's family could be used as
-covenants, as it is written in traditions.[^3]  
- The tradition of Abi Sa'eed al-Khudri narrated from the Prophet
+covenants, as it is written in traditions.[^3]
+The tradition of Abi Sa'eed al-Khudri narrated from the Prophet
 confirms this fact: The Prophet said,
 
 <blockquote dir="rtl">

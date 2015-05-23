@@ -37,8 +37,8 @@ also narrates the state and the feelings of Zulqarnain in this way.
 
 Thus the verse is completely in concordance regarding the earth's
 spherical shape and by “ain-e-hamaa” is meant to be the same ocean in
-the last point of whose horizon the sun had set.  
- Nevertheless it is a separate question that why the Holy Qur’an has
+the last point of whose horizon the sun had set.
+Nevertheless it is a separate question that why the Holy Qur’an has
 interpreted the water of the ocean as “aineen”?
 
 Mufassereen have explained it in this way:
@@ -65,8 +65,8 @@ compared it with muddy water.
 blue color, looks black since Zulqarnain saw that sea-water which was
 much more and it had acquired the state which was almost blackish, that
 is why the Holy Qur’an has interpreted it as the water mixed with black
-soil.[^1]  
-  
+soil.[^1]
+
 
 [^1]: Tafseer Muraghi, Part 16, Page 17, Tafseer Majmaul Bayan, Vol. 7,
 Page 490, Tafseer Tantavi, Part 9, Page 200. Al Munjid , under the words

@@ -20,7 +20,7 @@ be righteous himself.
 And how that exhortation is to be carried out Allah says in the Qur’an:
 
 ***“Call unto the way of the Lord with wisdom and kind preaching; and
-argue with them in the best manner”. (16:25).***
+argue with them in the best manner”. (16:125).***
 
 This was the method used by the Holy Prophet of Islam and his true
 followers to spread the message of Islam and to teach people the real

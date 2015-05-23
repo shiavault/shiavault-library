@@ -1,12 +1,12 @@
 ---
 source: :alislam
-source_url: http://www.al-islam.org/inner-secrets-path-sayyid-haydar-amuli
+source_url: http://www.al-islam.org/inner-secrets-of-the-path-sayyid-haydar-amuli
 author: Sayyid Haydar Amuli
-publisher: Elements Books
+publisher: Zahra Publications
 translator: Asadullah ad-Dhaakir Yate
-title: Inner Secrets Of The Path
+title: Inner Secrets of The Path
 slug: inner-secrets-of-the-path
-uuid: 4d411a32-6f61-4f43-8241-6fa377c8ca05
+uuid: 5ab3717d-d188-4a1e-a45e-6808e39bd819
 description: |
   A valuable resource for the students of Irfan (Gnosis). Discusses how
   spiritual travellers should walk on the path taking to their Lord using
@@ -14,28 +14,28 @@ description: |
   religion.
 chapters:
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-secrets-path-sayyid-haydar-amuli/introduction-and-biographical-background
+  source_url: http://www.al-islam.org/inner-secrets-of-the-path-sayyid-haydar-amuli/introduction-and-biographical-background
   title: Introduction and Biographical Background
   slug: 1-introduction-and-biographical-background
-  uuid: cd59d22a-7e0a-4687-9b8e-03f97a17c31e
+  uuid: ab8a7729-ab9e-428b-831a-ae04739d0591
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-secrets-path-sayyid-haydar-amuli/part-1-ground-work
+  source_url: http://www.al-islam.org/inner-secrets-of-the-path-sayyid-haydar-amuli/part-1-ground-work
   title: 'Part 1: Ground Work'
   slug: 2-part-1-ground-work
-  uuid: 3de7bf23-01fa-400c-8ff5-000bfd7fcefa
+  uuid: fa99e76e-9eb0-4c98-a70f-afc39af8cd72
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-secrets-path-sayyid-haydar-amuli/part-2-roots
+  source_url: http://www.al-islam.org/inner-secrets-of-the-path-sayyid-haydar-amuli/part-2-roots
   title: 'Part 2: Roots'
   slug: 3-part-2-roots
-  uuid: d7f06d57-7197-4f9a-9cd0-cbf1ff2824e7
+  uuid: f33cc623-50d0-417a-a98c-0378ed4b0888
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-secrets-path-sayyid-haydar-amuli/part-3-branches
+  source_url: http://www.al-islam.org/inner-secrets-of-the-path-sayyid-haydar-amuli/part-3-branches
   title: 'Part 3: Branches'
   slug: 4-part-3-branches
-  uuid: 4ab33422-6d8d-47e0-afb3-ae0f0f32fcf3
+  uuid: 886c0ee8-218d-4969-925d-a715c646b1c6
 - source: :alislam
-  source_url: http://www.al-islam.org/inner-secrets-path-sayyid-haydar-amuli/final-word-advice-and-instruction
+  source_url: http://www.al-islam.org/inner-secrets-of-the-path-sayyid-haydar-amuli/final-word-advice-and-instruction
   title: Final Word of Advice and Instruction
   slug: 5-final-word-of-advice-and-instruction
-  uuid: 6a36965b-3565-4893-9f8e-ee77688ca452
+  uuid: a4973d73-a83a-4201-9891-c843286df3e6
 ---

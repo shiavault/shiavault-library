@@ -233,7 +233,7 @@ Shameful Act
 
 Complete faith is necessary on this fact that one is not put to shame in
 the place of action. If this belief is there, then there will be no room
-for objection on the Divine Decree of Fate. (*Qada wa* *Qadar*). If, in
+for objection on the Divine Decree of Fate. (*Qada wa Qadar*). If, in
 fact, what the person desires doesn't happen, then grumbling and
 complaining is a sign of the weakness of his Faith.
 

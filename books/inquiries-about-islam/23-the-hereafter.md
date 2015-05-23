@@ -114,18 +114,17 @@ of the Hereafter:
 ***“And he who believed (in the message of Moses) said: (addressing the
 opponents of Moses) O My*** ***people, follow me. I will guide you to
 the right way. O My people, the life of this world is but a (passing)
-enjoyment, and the Hereafter, that is the abode to settle.”***
-***40:38-39***
+enjoyment, and the Hereafter, that is the abode to settle.” 40:38-39***
 
 ***“And Moses chose of his people seventy men for Our appointed time,
-and when they were seized*** ***with violent quaking, he said: My Lord!
-If Thou hadst willed, Thou hadst destroyed them long before, and me with
+and when they were seized with violent quaking, he said: My Lord! If
+Thou hadst willed, Thou hadst destroyed them long before, and me with
 them. Wilt Thou destroy us for that which the ignorant among us did? It
 is but Thy trial (of us)…Thou art our Protecting Guardian, therefore,
 forgive us and have mercy on us, Thou art the Best of all who show
 forgiveness, and ordain for us in this world that which is good, and in
-the Hereafter (that which is good), Lo! We have turned unto Thee.”***
-***7:155-156***
+the Hereafter (that which is good), Lo! We have turned unto Thee.”
+7:155-156***
 
 The Holy Qur'an informs us also that the Prophet Abraham had spoken
 clearly of the Hereafter, and that he prayed to God to show him how He
@@ -133,7 +132,7 @@ revives the dead:
 
 “***And when Abraham said: My Lord, show me how Thou givest life to the
 dead, He said: Dost thou not believe? He said: Yes, but that my heart
-may be at ease.”*** ***2:260***
+may be at ease.” 2:260***
 
 **Wilson**: You have stated that Islam teaches that every human being,
 on an appointed day known only to God, will be brought back to life.
@@ -178,15 +177,15 @@ the Day of Judgment. The Holy Qur'an, however, is explicit on this
 point:
 
 ***“And speak not of those who are slain in the way of God as dead. Nay,
-(they are) alive, but you perceive not.”*** ***2:154.***
+(they are) alive, but you perceive not.” 2:154.***
 
 ***“And think not of those who are killed in the way of God as dead.
 Nay, they are alive being provided sustenance from their Lord. Rejoicing
 in what God has given them out of His grace, and they rejoice for the
 sake of those who (being left) behind them, have not yet joined them,
-that*** ***they have no fear, nor shall they grieve. They rejoice for
-the favor of God and His grace, and that God wastes not the reward of
-the believers.”*** ***3:168-170.***
+that they have no fear, nor shall they grieve. They rejoice for the
+favor of God and His grace, and that God wastes not the reward of the
+believers.” 3:168-170.***
 
 **Wilson**: Those who subscribe to the doctrine of the Hereafter differ
 on an important point: some of them believe that life in the Hereafter
@@ -218,12 +217,12 @@ this point and does not accept any different interpretation:
 on to their Lord. They will say: O woe to us! Who has raised us up from
 our sleeping place? This is what the Beneficent promised, and the
 messengers told the truth. It is but a single cry, then lo! They are all
-brought forth.”*** ***36:51-53***
+brought forth.” 36:51-53***
 
 ***“So turn away from them. On the day when the Inviter invites them to
 a hard task—their eyes cast down, they will go forth from their graves
 as if they were scattered locusts, hastening to the Inviter. The
-disbelievers will say: This is a hard day.”*** ***54:6-8***
+disbelievers will say: This is a hard day.” 54:6-8***
 
 **Wilson**: The concept of the physical resurrection has its own
 difficulties: Suppose a cannibal ate a human body. The eaten body would
@@ -262,8 +261,8 @@ the human knowledge, and the answer to any of these questions will not
 serve a religious purpose. From the Holy Qur'an:
 
 ***“And they ask thee about the (human) soul. Say: The soul proceeds
-from my Lord's command, and of knowledge you are given but little.”***
-***17:85***
+from my Lord's command, and of knowledge you are given but little.”
+17:85***
 
 **Wilson**: Some religions teach that the human soul after death may
 occupy a body of a newly born child or it may occupy a living body of
@@ -278,7 +277,7 @@ the Holy Qur'an:
 ***“Until death overtakes one of them, he says: My Lord, send me back,
 that I may do good with that which I left. By no means! It is but a word
 that he speaks. And behind them is a barrier, until the day they will be
-raised.”*** ***23:99-100***
+raised.” 23:99-100***
 
 Thus, the Holy Qur'an states that the human soul will not live twice on
 this Earth, so it will not be allowed to occupy another living body,

@@ -26,8 +26,8 @@ of prophethood will collapse.
 
 Denial of the justice of God would also lead to denial of the Hereafter,
 because the Hereafter is the world of carrying out justice by rewarding
-the good doers and punishing the wrongdoers.  
- In short, the concept of justice of God, to us, is as important as the
+the good doers and punishing the wrongdoers.
+In short, the concept of justice of God, to us, is as important as the
 concept of His existence and His oneness; and the denial of it is as
 destructive to religion as the denial of the existence of God or of His
 oneness. Therefore, the concept of justice of God ought to be considered

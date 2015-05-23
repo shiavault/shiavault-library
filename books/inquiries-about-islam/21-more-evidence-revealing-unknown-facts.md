@@ -12,8 +12,8 @@ message of Islam.
 
 **Chirri**: The reader of the Qur'an may find more than one reference
 dealing with certain facts, some of them have been discovered recently,
-and some of them are still in the stage of anticipation.  
- Modern science is looking now, though without certainty, for the time
+and some of them are still in the stage of anticipation.
+Modern science is looking now, though without certainty, for the time
 when we will find living beings on some other planets. The scientists of
 today are not sure of the existence of any biological life on planets
 other than ours, but to them this is highly probable.

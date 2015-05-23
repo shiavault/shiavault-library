@@ -1,68 +1,68 @@
 ---
 source: :alislam
-source_url: http://www.al-islam.org/awaited-saviour-ayatullah-sayyid-muhammad-baqir-sadr-ayatullah-murtadha-mutahhari
+source_url: http://www.al-islam.org/the-awaited-saviour-muhammad-baqir-sadr-murtadha-mutahhari
 author: Ayatullah Sayyid Muhammad Baqir As-SadrAyatullah Murtadha Mutahhari
 publisher: Islamic Seminary Publications
 title: The Awaited Saviour
 slug: the-awaited-saviour
-uuid: ee29fd6d-b1b4-40b4-9ab9-24c0a42fd7de
+uuid: a7527582-fc42-4bdf-aa22-6e778e396ed3
 description: |
   The return of the 12th Imam, Imam Mahdi (a), answering objections about
   him, and his revolution.
 chapters:
 - source: :alislam
-  source_url: http://www.al-islam.org/awaited-saviour-ayatullah-sayyid-muhammad-baqir-sadr-ayatullah-murtadha-mutahhari/prologue
+  source_url: http://www.al-islam.org/the-awaited-saviour-muhammad-baqir-sadr-murtadha-mutahhari/prologue
   title: Prologue
   slug: 1-prologue
-  uuid: b9ba71ad-30b8-4d11-a2aa-f7754bb10f7d
+  uuid: e557692c-f80c-4cbf-a7c2-0084b44a17b1
 - source: :alislam
-  source_url: http://www.al-islam.org/awaited-saviour-ayatullah-sayyid-muhammad-baqir-sadr-ayatullah-murtadha-mutahhari/who-and-what-mahdi
+  source_url: http://www.al-islam.org/the-awaited-saviour-muhammad-baqir-sadr-murtadha-mutahhari/who-and-what-mahdi
   title: Who and What of The Mahdi
   slug: 2-who-and-what-of-the-mahdi
-  uuid: 285e190c-c639-44ee-8109-67a978fb607d
+  uuid: de48d29c-81b7-411f-a59a-5cd5be3f5fe0
 - source: :alislam
-  source_url: http://www.al-islam.org/awaited-saviour-ayatullah-sayyid-muhammad-baqir-sadr-ayatullah-murtadha-mutahhari/some-objections
+  source_url: http://www.al-islam.org/the-awaited-saviour-muhammad-baqir-sadr-murtadha-mutahhari/some-objections-about-mahdi
   title: Some Objections about the Mahdi
   slug: 3-some-objections-about-the-mahdi
-  uuid: 0972565d-8d7c-4eaa-8730-0ae8225823b5
+  uuid: 467917c3-cf6c-44f4-8f85-8283de74e3f4
 - source: :alislam
-  source_url: http://www.al-islam.org/awaited-saviour-ayatullah-sayyid-muhammad-baqir-sadr-ayatullah-murtadha-mutahhari/replies-objections
+  source_url: http://www.al-islam.org/the-awaited-saviour-muhammad-baqir-sadr-murtadha-mutahhari/replies-objections
   title: Replies To The Objections
   slug: 4-replies-to-the-objections
-  uuid: 226e5105-6b6e-40e5-8f33-48e928f76d13
+  uuid: 7f474df5-5cbc-47cf-9474-6b1b254cd700
 - source: :alislam
-  source_url: http://www.al-islam.org/awaited-saviour-ayatullah-sayyid-muhammad-baqir-sadr-ayatullah-murtadha-mutahhari/final-victory
+  source_url: http://www.al-islam.org/the-awaited-saviour-muhammad-baqir-sadr-murtadha-mutahhari/final-victory
   title: The Final Victory
   slug: 5-the-final-victory
-  uuid: a7e78d7b-e953-4917-9a9b-66803bc65149
+  uuid: 068a017c-4817-47e2-abac-38c7255dd39e
 - source: :alislam
-  source_url: http://www.al-islam.org/awaited-saviour-ayatullah-sayyid-muhammad-baqir-sadr-ayatullah-murtadha-mutahhari/expectation-solace
+  source_url: http://www.al-islam.org/the-awaited-saviour-muhammad-baqir-sadr-murtadha-mutahhari/expectation-solace
   title: Expectation of Solace
   slug: 6-expectation-of-solace
-  uuid: 1409acc7-6b55-4b5e-b981-b1eb65e3daac
+  uuid: 611fcede-42dd-4900-b9df-6d2c17aba971
 - source: :alislam
-  source_url: http://www.al-islam.org/awaited-saviour-ayatullah-sayyid-muhammad-baqir-sadr-ayatullah-murtadha-mutahhari/interpretation
+  source_url: http://www.al-islam.org/the-awaited-saviour-muhammad-baqir-sadr-murtadha-mutahhari/interpretation-evolution-history
   title: Interpretation of the Evolution of History
   slug: 7-interpretation-of-the-evolution-of-history
-  uuid: 360e8ed4-695d-4bbc-9ed6-6c3266c01a45
+  uuid: bcaf6f5a-5624-4699-b642-aaa6e09def4d
 - source: :alislam
-  source_url: http://www.al-islam.org/awaited-saviour-ayatullah-sayyid-muhammad-baqir-sadr-ayatullah-murtadha-mutahhari/human-or-natural
+  source_url: http://www.al-islam.org/the-awaited-saviour-muhammad-baqir-sadr-murtadha-mutahhari/human-or-natural-approach
   title: The Human or Natural Approach
   slug: 8-the-human-or-natural-approach
-  uuid: 6cbb73f4-fecb-40bf-a8dd-bd761ca14d3e
+  uuid: b1b6ed70-a608-40dd-b969-c05ec3a9a7c7
 - source: :alislam
-  source_url: http://www.al-islam.org/awaited-saviour-ayatullah-sayyid-muhammad-baqir-sadr-ayatullah-murtadha-mutahhari/two-concepts-about
+  source_url: http://www.al-islam.org/the-awaited-saviour-muhammad-baqir-sadr-murtadha-mutahhari/two-concepts-about-man
   title: Two Concepts About Man
   slug: 9-two-concepts-about-man
-  uuid: d920071b-028a-445a-bb71-7539301c9457
+  uuid: cd4877f0-bf46-42a6-b976-232fd4927543
 - source: :alislam
-  source_url: http://www.al-islam.org/awaited-saviour-ayatullah-sayyid-muhammad-baqir-sadr-ayatullah-murtadha-mutahhari/ideal-society
+  source_url: http://www.al-islam.org/the-awaited-saviour-muhammad-baqir-sadr-murtadha-mutahhari/ideal-society
   title: An ideal society
   slug: 10-an-ideal-society
-  uuid: 0c25697d-bbc7-47e8-adc6-3a92d631d438
+  uuid: 19b06afc-4a76-4e7e-a172-26ada8457c40
 - source: :alislam
-  source_url: http://www.al-islam.org/awaited-saviour-ayatullah-sayyid-muhammad-baqir-sadr-ayatullah-murtadha-mutahhari/appendix
+  source_url: http://www.al-islam.org/the-awaited-saviour-muhammad-baqir-sadr-murtadha-mutahhari/appendix
   title: Appendix
   slug: 11-appendix
-  uuid: 741ecd3f-8b8e-4ccf-b622-bae0f90e22b7
+  uuid: 43a31f37-ad2d-4e00-9c84-64296b95c6d0
 ---

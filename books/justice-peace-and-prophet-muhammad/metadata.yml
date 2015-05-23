@@ -1,0 +1,40 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/justice-peace-and-prophet-muhammad-sayyid-muhammad-rizvi
+author: Sayyid Muhammad Rizvi
+publisher: North American Shia Ithna-Asheri Muslim Communities (NASIMCO)
+title: Justice, Peace and Prophet Muhammad
+slug: justice-peace-and-prophet-muhammad
+uuid: e2b6e056-a6c9-40a5-9058-3f17ee669798
+description: |
+  A short text on the topic of Islamic emphasis on justice and peace
+  between peoples of differing backgrounds and religions, as seen through
+  Qur'anic verses and the honorable treatment of his opponents by Prophet
+  Muhammad.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/justice-peace-and-prophet-muhammad-sayyid-muhammad-rizvi/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 6ac313d5-17d0-4b93-9b9b-d6bf914c2a39
+- source: :alislam
+  source_url: http://www.al-islam.org/justice-peace-and-prophet-muhammad-sayyid-muhammad-rizvi/missions-prophets-justice
+  title: 'Mission’s of the Prophets: Justice'
+  slug: 2-mission-s-of-the-prophets-justice
+  uuid: b8ad6e26-9517-4c62-b491-28b490ef001d
+- source: :alislam
+  source_url: http://www.al-islam.org/justice-peace-and-prophet-muhammad-sayyid-muhammad-rizvi/peace-personal-level
+  title: Peace on Personal Level
+  slug: 3-peace-on-personal-level
+  uuid: 62068569-90ac-4600-97a3-602bbd8ee228
+- source: :alislam
+  source_url: http://www.al-islam.org/justice-peace-and-prophet-muhammad-sayyid-muhammad-rizvi/peace-justice-social-level
+  title: Peace & Justice on Social Level
+  slug: 4-peace-justice-on-social-level
+  uuid: eebb8c50-3aa2-4d35-9749-c1ac02650a62
+- source: :alislam
+  source_url: http://www.al-islam.org/justice-peace-and-prophet-muhammad-sayyid-muhammad-rizvi/conclusion
+  title: Conclusion
+  slug: 5-conclusion
+  uuid: 69ba74ce-12df-4be2-96a7-c7a7c4c35f77
+---

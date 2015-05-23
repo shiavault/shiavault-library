@@ -9,8 +9,8 @@ contain any prophecy foretelling the advent of the Prophet Muhammad.
 
 **Chirri**: There is in the Bible more than one statement which indicate
 the expectation of the Prophet Muhammad. He is not mentioned by name,
-but the descriptions seem to fit only Muhammad.  
- We find in the Deuteronomy book the following statement:
+but the descriptions seem to fit only Muhammad.
+We find in the Deuteronomy book the following statement:
 
 **“I will raise up for them (the Israelites) a prophet like you from
 among their brethren; and I will put My words in his mouth, and he shall

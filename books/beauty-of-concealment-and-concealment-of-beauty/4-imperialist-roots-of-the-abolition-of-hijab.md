@@ -36,16 +36,16 @@ al-Shams: 91:9)***
 
 Even the men of our society came to understand that woman is not a mere
 "beautiful and sexual thing", but is, in fact, a divine substance about
-which Imam Khomeini (RA) has very aptly said:  
- "From women's lap man ascends to the skies".
+which Imam Khomeini (RA) has very aptly said:
+"From women's lap man ascends to the skies".
 
 The person whom the Western Imperialism had convinced and said: "You are
 the sole source of pleasure! You are the ladder for the achievement of
 political power by the (Super) powers, kings, cartels, trusts and
-multinational companies"  
- The person who, through centuries and ages, had been a manifestation of
-intellectual deficiency, foolishness, intrigues and temptation;  
- And on whose bosom would descend abjectness and disgrace of mankind and
+multinational companies"
+The person who, through centuries and ages, had been a manifestation of
+intellectual deficiency, foolishness, intrigues and temptation;
+And on whose bosom would descend abjectness and disgrace of mankind and
 human values;
 
 All of a sudden became the pinnacle of human glory, the ladder that
@@ -166,8 +166,8 @@ methods:
 
 The first method is the one adopted by all the despots and dictators of
 history. The holy Qur'an refers to the story of Pharoah in (almost) the
-following words:  
- "The Pharoah assembled the people of his land and said to them:
+following words:
+"The Pharoah assembled the people of his land and said to them:
 
 ***'O People, behold what gardens full of fruits I have! What cool and
 roaring rivers are under my control! How precious bracelets and earrings
@@ -312,8 +312,8 @@ exploited? Is Muslims' bias [^5] in encountering women a weak point? If
 it is so, how is it to be tackled?
 
 Imperialist Tactics, Weakness of Muslims' Bias and Treacheries
-Perpetrated by the Satanic Regime  
- In order to execute their nasty plans against woman as a manifestation
+Perpetrated by the Satanic Regime
+In order to execute their nasty plans against woman as a manifestation
 and exponent of Islamic Self, there were two internal factors which had
 been effective and paved the way for it.
 
@@ -559,8 +559,8 @@ Western educated persons and intellectuals or those suffering from
 Occidentosis, the dress of the Muslim women is the dress of illiterates,
 the lower classes and the maidservants.
 
-In the words of Dr. Shari'ati:  
- "The wife of a Europe returned graduate does not observe hijab! while
+In the words of Dr. Shari'ati:
+"The wife of a Europe returned graduate does not observe hijab! while
 his maidservant and illiterate mother observe hijab."
 
 According to the above opinion, hijab is a sign of illiteracy, poverty

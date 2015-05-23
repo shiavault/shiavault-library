@@ -33,7 +33,7 @@ inclination and obtain the rewards of prayers. Otherwise they can also
 pretend to pray and perform bowing and prostrating like others while
 they had not made any intention to pray. Thus in such a condition if a
 person makes an intention to pray his prayer is correct, because he has
-performed it with sincerity and inclination.  
-  
+performed it with sincerity and inclination.
+
 
 

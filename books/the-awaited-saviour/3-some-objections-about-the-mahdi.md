@@ -87,8 +87,8 @@ defeatism and an inferiority complex. One begins to shudder at the very
 idea of a world-wide change which may eliminate injustice and historical
 contradictions and usher in a new system based on justice and equity.
 This mental frustration impels one to doubt and reject every possibility
-of such a change by giving one reason or another.  
- We now propose to take up the above-mentioned queries, one by one, and
+of such a change by giving one reason or another.
+We now propose to take up the above-mentioned queries, one by one, and
 deal with them briefly.
 
 

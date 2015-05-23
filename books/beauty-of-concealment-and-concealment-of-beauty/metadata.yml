@@ -1,40 +1,40 @@
 ---
 source: :alislam
-source_url: http://www.al-islam.org/beauty-of-concealment-and-concealment-of-beauty-zahra-rahnavard
+source_url: http://www.al-islam.org/beauty-concealment-concealment-beauty-zahra-rahnavard
 author: Dr. Zahra Rahnavard
 publisher: Cultural Consulate of the Islamic Republic of Iran
-translator: Dr. Sayyid Ali Raza Naqvi
+translator: Sayyid Ali Raza Naqvi
 title: Beauty of Concealment and Concealment of Beauty
 slug: beauty-of-concealment-and-concealment-of-beauty
-uuid: e02d42d5-b891-486f-ad8f-37b0c7b31087
+uuid: 6e4c4f23-925e-4b74-87fb-0c5796273a46
 description: |
   A lecture by the wife of the former PM of Iran on the beauty of
-  concealment. The movement to abolish the Hijab, and the message of
-  Hijab.
+  concealment. The movement to abolish the hijab, and the message of
+  hijab.
 chapters:
 - source: :alislam
-  source_url: http://www.al-islam.org/beauty-of-concealment-and-concealment-of-beauty-zahra-rahnavard/foreword
+  source_url: http://www.al-islam.org/beauty-concealment-concealment-beauty-zahra-rahnavard/foreword
   title: Foreword
   slug: 1-foreword
-  uuid: d3d27a98-5229-4ca9-a9a6-810260de15d1
+  uuid: 5810ea4d-664b-4f85-a1df-f376e97c7b34
 - source: :alislam
-  source_url: http://www.al-islam.org/beauty-of-concealment-and-concealment-of-beauty-zahra-rahnavard/about-author
+  source_url: http://www.al-islam.org/beauty-concealment-concealment-beauty-zahra-rahnavard/about-author
   title: About The Author
   slug: 2-about-the-author
-  uuid: e4277703-3a57-432e-a390-ede226461049
+  uuid: df6fa316-81d6-40ca-81cf-3dab66fd28a6
 - source: :alislam
-  source_url: http://www.al-islam.org/beauty-of-concealment-and-concealment-of-beauty-zahra-rahnavard/beauty-concealment-and-concealment
+  source_url: http://www.al-islam.org/beauty-concealment-concealment-beauty-zahra-rahnavard/beauty-concealment-and-concealment-beauty
   title: Beauty of Concealment and Concealment of Beauty
   slug: 3-beauty-of-concealment-and-concealment-of-beauty
-  uuid: c56a774e-3647-46eb-8bbc-5cab9e2c8da2
+  uuid: f9a5f304-066e-4c14-b409-97efc5b397a2
 - source: :alislam
-  source_url: http://www.al-islam.org/beauty-of-concealment-and-concealment-of-beauty-zahra-rahnavard/imperialist-roots-abolition-hijab
+  source_url: http://www.al-islam.org/beauty-concealment-concealment-beauty-zahra-rahnavard/imperialist-roots-abolition-hijab
   title: Imperialist Roots of The Abolition of Hijab
   slug: 4-imperialist-roots-of-the-abolition-of-hijab
-  uuid: 48110fe3-c598-45c4-b35c-849482405fdd
+  uuid: 744b79f7-86f2-4d86-80cc-5fd360312bb4
 - source: :alislam
-  source_url: http://www.al-islam.org/beauty-of-concealment-and-concealment-of-beauty-zahra-rahnavard/message-hijab-muslim-woman
+  source_url: http://www.al-islam.org/beauty-concealment-concealment-beauty-zahra-rahnavard/message-hijab-muslim-woman
   title: Message of Hijab From a Muslim Woman
   slug: 5-message-of-hijab-from-a-muslim-woman
-  uuid: 7d2f372e-7643-43d1-9b71-d88c676b7fd9
+  uuid: c6212525-32ca-4a2b-bbdb-6c7fa7dc536c
 ---

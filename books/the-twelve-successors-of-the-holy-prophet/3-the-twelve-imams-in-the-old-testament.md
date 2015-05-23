@@ -42,8 +42,8 @@ even have a son?" The Almighty revealed to him, "I will increase your
 progeny till it reaches the number of stars." Hajra was the slave girl
 of Sarah. Sarah betrothed her to Ibrahim (a.s.). She bore for him a son,
 Isma'il (a.s.). The age of Ibrahim (a.s.) was 86 years when Isma'il
-(a.s.) was born to Hajra.[^4]  
- The Holy Qur'an mentions in the following words the prayer of Ibrahim
+(a.s.) was born to Hajra.[^4]
+The Holy Qur'an mentions in the following words the prayer of Ibrahim
 (a.s.).
 
 ***"O Our Lord! Surely I have settled a part of my offspring in a valley

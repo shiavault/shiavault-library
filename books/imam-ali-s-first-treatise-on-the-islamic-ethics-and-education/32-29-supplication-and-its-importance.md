@@ -54,7 +54,7 @@ He did not* *treat you with severity in the acceptance of (your)
 repentance. He did not take you to task for your sins and did not make
 you despair of (His) mercy. Rather, he has appointed your restraint from
 sin to be a good deed, and counted each of your evil deeds as one and
-each good deed as ten.*  
+each good deed as ten.*
 *He has opened for you the door of repentance and the door of* *seeking
 a return to His pleasure. Thus, when you call upon Him he hears your
 call and when you whisper to Him, He knows your secret talk. You
@@ -112,8 +112,8 @@ intelligence and cognitive powers, and to satisfy his physical and
 mental needs, he needs to worship God. For this very reason, the major
 part of the Prophet’s educational programs in general and the Prophet of
 Islam’s program in particular consists of teaching people to carry out
-prayers.  
- But in today’s world more than ninety percent of people suffer from
+prayers.
+But in today’s world more than ninety percent of people suffer from
 some sort of nervous and mental disturbance. Every day we witness
 millions of crimes in the world. A lot of people, due to distresses and
 worries and because of their indecisions, resort to narcotics and drugs
@@ -151,8 +151,8 @@ skies and the earth:
 > والاَرضِ" 490
 
 And Imam ‘Ali (as) calls supplication as the key to victory and
-salvation:  
- In the Du’a Kumayl he introduces supplication as a means for the
+salvation:
+In the Du’a Kumayl he introduces supplication as a means for the
 strengthening of the body and mind and as an agent to serve both God and
 people and a means for a journey towards Heaven.
 
@@ -195,7 +195,7 @@ prayer".***[^5]
 At another place God orders people to call upon Him and He will answer
 them and if they refuse to do so they will go to Hell:
 
-**  
+**
 **
 
 "وَقَالَ رَبُّكُمْ ادْعُونِي أَسْتَجِبْ لَكُمْ إِنَّ الَّذِينَ
@@ -388,11 +388,11 @@ God has told Moses (as):
 *“O son of Imran, give me from your heart humility, from your body
 submissiveness and from your eyes tears, and call on me in the darkness
 of the night. You will find Me very near and answering your
-supplication."*[^19]  
- Nawf al-Bikali says: One night I saw Imam ‘Ali (as), had left his bed,
+supplication."*[^19]
+Nawf al-Bikali says: One night I saw Imam ‘Ali (as), had left his bed,
 and was looking at the stars. He said: ‘O Nawf, are you awake or
-asleep’? I replied I was awake, He then said:  
- ‘O Nawf, Prophet David (as) woke up at such an hour saying: “At this
+asleep’? I replied I was awake, He then said:
+‘O Nawf, Prophet David (as) woke up at such an hour saying: “At this
 time any kind of supplication and prayer will be accepted unless the
 performer of the supplication is a tax official for a tyrant governor,
 or his secret spy or his policeman, or a musical player of tambour or an
@@ -416,29 +416,29 @@ Du’a Kumayl:
 Ayatollah Kalbasi mentions the sins which hinder the supplication and
 prayers to be accepted: suspicion, quarrel with brethren, delaying the
 performance of prayers, the parents’ dissatisfaction with
-children.[^21]  
- He, then, reports the following poem from Mawlawi:  
- The smell of haughtiness, of greed, and of excessive need,  
- In the speech will show themselves like onions;  
- If you swear that you have not taken onions,  
- That you have stopped taking onion and garlic;  
- When you open you mouth to swear,  
- The smell of these will surely betray you;  
- Then your prayers will be rejected for the lies you told,  
- Your tongue is not in harmony with your heart;  
- That supplication will be rejected,  
- It will not find acceptance;  
- If your intention is straight, but your speech not straight,  
- This distortion of speech is accepted by God;  
- But if your intention is not straight but your speech is all right,  
- That sort of intention is worth nothing.
+children.[^21]
+He, then, reports the following poem from Mawlawi:
+The smell of haughtiness, of greed, and of excessive need,
+In the speech will show themselves like onions;
+If you swear that you have not taken onions,
+That you have stopped taking onion and garlic;
+When you open you mouth to swear,
+The smell of these will surely betray you;
+Then your prayers will be rejected for the lies you told,
+Your tongue is not in harmony with your heart;
+That supplication will be rejected,
+It will not find acceptance;
+If your intention is straight, but your speech not straight,
+This distortion of speech is accepted by God;
+But if your intention is not straight but your speech is all right,
+That sort of intention is worth nothing.
 
 #### The Purity Of Foods
 
 As we know our prayers and actions stem from a power which is based on
 foods. If these foods are gained illegally, our prayers are not clean
-and as a consequence they are not accepted.  
- The great Prophet (S) has said:
+and as a consequence they are not accepted.
+The great Prophet (S) has said:
 
 <blockquote dir="rtl">
   <p>
@@ -518,8 +518,8 @@ the following:
 Indulging in sins may be a factor for the rejection of a prayer. Imam
 Sadiq (as) is reported to have said, "Musa b. ‘Imran (as) was passing by
 one of his followers who was prostrating. After some time he was still
-prostrating. Musa told him: If I could, I would satisfy your needs.  
- At this moment God revealed to him,
+prostrating. Musa told him: If I could, I would satisfy your needs.
+At this moment God revealed to him,
 
 <blockquote dir="rtl">
   <p>
@@ -581,14 +581,14 @@ Imam Sadiq (as) has stated:
   </p>
 </blockquote>
 
-*“There are four groups of people whose calls are not answered:*  
+*“There are four groups of people whose calls are not answered:*
 *A man who sits at home saying: ‘O God, give me daily bread’. He is then
-told: ‘Didn’t I command you to seek it?’*  
+told: ‘Didn’t I command you to seek it?’*
 *A man who has a wife and he prays to God against her. It is said to
-him: ‘Didn’t I give you the right of divorce?’*  
+him: ‘Didn’t I give you the right of divorce?’*
 *A man who had wealth, but was extravagant, and then he says: ‘O God,
 give me sustenance’. He is told: ‘Didn’t I command you to be moderate in
-your expenditure?’*  
+your expenditure?’*
 *And a man had wealth which he lent to another without any receipt. Then
 the owner asks God to soften the man’s heart to return to him what he
 owes him. It is said to him: ‘Didn’t I command you to have witnesses
@@ -619,11 +619,11 @@ The Reasons Of Delaying Responding To Supplication
 --------------------------------------------------
 
 Sometimes the supplication of a person will not be answered quickly for
-the following reasons:  
+the following reasons:
 **a)** The qualification for the acceptance of the supplication is still
 absent in the person. This qualification is only obtained through the
-person’s struggle and perseverance.  
- Concerning this issue, Imam ‘Ali (as) in the above letter has stated:
+person’s struggle and perseverance.
+Concerning this issue, Imam ‘Ali (as) in the above letter has stated:
 
 <blockquote dir="rtl">
   <p>
@@ -668,7 +668,7 @@ Imam ‘Ali (as) states in this letter:
 
 *"..or it is turned away from you for what is better for you, because
 sometimes in the fulfillment of what you ask for is the destruction of
-your religion.*  
+your religion.*
 *Therefore let your request be for that, the beauty of which remains for
 you, and the evil consequences of which pass away from you. For wealth
 does not remain for you, nor do you remain for it”.*
@@ -678,8 +678,8 @@ The Access To Repentance And Its Role In Correcting The Sinner
 
 Since one of the requirements for the acceptance of our supplication is
 the state of being innocent, Imam ‘Ali (as) in this letter emphasizes on
-repentance.  
- He points out the following issues:
+repentance.
+He points out the following issues:
 
 ### 1. God Did Not Deny Your Right Of Repentance
 
@@ -930,8 +930,8 @@ who after mentioning the tradition from Imam ‘Ali (as) said:
 evil–doings is among the perfect conditions of repentance and not among
 the principal conditions”.[^44]
 
-Allamah in his commentary on *Tajrid* says, concerning this:  
- "Affairs such as compensation for the lost prayers or the payment of
+Allamah in his commentary on *Tajrid* says, concerning this:
+"Affairs such as compensation for the lost prayers or the payment of
 people's rights are among the extra conditions on repentance and are not
 included in the essence of repentance. Later on, if the person did not
 carry out the lost prayers and did not pay people's rights, these will

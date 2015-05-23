@@ -17,9 +17,9 @@ being at the mercy of so many deplorable events, should make himself
 ready, and if possible stop their occurrence and try to face them
 determinedly.
 
-O my dear friend! Think of the ups and downs of life,  
- Think of the ways to stay strong if deprived of the provisions;  
- A breeze might disturb the book of time,  
- Think of the turning over the pages of your life-book by Day and Night.
+O my dear friend! Think of the ups and downs of life,
+Think of the ways to stay strong if deprived of the provisions;
+A breeze might disturb the book of time,
+Think of the turning over the pages of your life-book by Day and Night.
 
 

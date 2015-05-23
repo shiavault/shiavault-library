@@ -34,8 +34,8 @@ To recognize the human inability of foreseeing the future, we need only
 to remember our election campaigns. In spite of all the information
 which is obtained through our modern media and scientific methods, none
 of the candidates is sure of his victory or defeat until the votes are
-counted .  
- There is a great deal of information contained in the Holy Qur'an
+counted .
+There is a great deal of information contained in the Holy Qur'an
 dealing with the future which could not be humanly predicted. Those
 predictions were fulfilled, and their fulfillment indicates that the
 Qur'an is a true Divine revelation and that Muhammad is a true messenger
@@ -48,8 +48,8 @@ Of these prophecies are the following:
 shall preserve it.” 15:9***
 
 This verse informs us that the Qur'an shall not perish. It shall not
-disappear from this world, and it will last and continue forever.  
- This prediction was actually the opposite of what was humanly expected.
+disappear from this world, and it will last and continue forever.
+This prediction was actually the opposite of what was humanly expected.
 The Qur'an was introduced by a prophet who was unschooled and unable to
 read or write. He introduced it in a language of an illiterate nation.
 The Arabs at the time of the Prophet did not have a hundred readers in a

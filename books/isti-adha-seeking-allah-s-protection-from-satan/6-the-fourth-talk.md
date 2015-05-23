@@ -20,7 +20,7 @@ In the Name of Allah, the Beneficent, the Merciful
 promptings of the satans! I seek refuge unto Thee O my Lord from their
 access to me. (Sura al-Muminun, 23:97-98)***
 
- 
+
 
 The only way to safety from Satan is Isti’adha]
 -----------------------------------------------
@@ -37,9 +37,9 @@ The most important thing is that men make every effort to get rid of
 Satan and his ilk. But to get rid of such powerful and organized group
 of enemies is not an easy task. The Holy Qur’an prescribes the one and
 only remedy for the situation, is *Isti’adha.* There are clear
-indications in the Book saying, “*Fastaidh billah” (So* *seek refuge
-with Allah!)*, because it is not possible to reach the Truth without
-doing this.
+indications in the Book saying, “*Fastaidh billah” (So seek refuge with
+Allah!)*, because it is not possible to reach the Truth without doing
+this.
 
 The King’s tent and the ferocious watch-dog
 -------------------------------------------
@@ -68,15 +68,15 @@ mischief of Satan. In this regard the Holy Qur’an says:
 
 ***And say: ‘O my Lord! I seek refuge in Thee from the evil suggestions
 of the Shaitans; And I seek refuge in Thee! O my Lord from their
-presence.’*** ***(Sura al-Muminun, 23:97-98)***
+presence.’ (Sura al-Muminun, 23:97-98)***
 
 Particularly in privacy and loneliness, saving oneself from the fears
 and temptations created by Satan is rather difficult. In such a
 situation one must call:
 
-*Ya Ghiyath al-mustaghitheen*  
-*Ya Malaadh al-laaedheen*  
-*O listener of the plaint of the plaintiff*  
+*Ya Ghiyath al-mustaghitheen*
+*Ya Malaadh al-laaedheen*
+*O listener of the plaint of the plaintiff*
 *O provider of succor to the refuge seeker!*
 
 ‘Save me from the machinations of Satan.’ If there is no protection of
@@ -115,8 +115,8 @@ There is a third group of persons who say the words of *Isti’adha* from
 the depths of their hearts and are fully aware of their meaning, purport
 and spirit. These persons will be fully aware of the Greatness and
 Omnipotence of Allah (S.w.T.). The *Isti’adha* of these persons will
-always get the accepted by Allah (S.w.T.).  
-  
+always get the accepted by Allah (S.w.T.).
+
 
 Seeking protection in Allah (S.w.T.)’s obedience
 ------------------------------------------------
@@ -124,7 +124,7 @@ Seeking protection in Allah (S.w.T.)’s obedience
 The deity of the sinners and Allah (S.w.T.)’s disobedient persons is
 always Satan. Such persons might curse Satan a thousand times to make a
 hypocritical show to others. To put the matter in more precise words,
-such persons outwardly say *‘audhu billahi min ash-shaitanir rajeem* *(I
+such persons outwardly say *‘audhu billahi min ash-shaitanir rajeem (I
 seek refuge with Allah from the cursed shaytan)* but their character is
 such that they make false allegations against others, use abusive
 language, trifle with the self-respect of others and reveal others’
@@ -137,8 +137,8 @@ obedience to Allah (S.w.T.) they are seeking His protection, but their
 actions are all contrary to His Commandments. When the curtains of
 ignorance are raised from the hearts of such persons, they realize that
 all the time it was Satan who prompted them to utter the words *audhu
-billah* to ridicule their weak faith!  
-  
+billah* to ridicule their weak faith!
+
 
 A satanic book to refute Satan
 ------------------------------
@@ -217,8 +217,8 @@ If a tiger is chasing you, you will try to run into a fortified place of
 safety rather than going near it and putting your hands into its mouth
 and keep shouting for help. Similar is the reality of *Isti’adha.* It is
 seeking Allah (S.w.T.)’s succor against Satan in His strong
-fortification!  
-  
+fortification!
+
 
 A true dream and Satan’s treachery
 ----------------------------------
@@ -254,8 +254,8 @@ bridle?” Satan replied, “This is for your mentor, Shaikh Ansari.
 Yesterday I put it round his neck and dragged him into the bazār. But he
 managed to free himself and escaped.” The person asked, “Which one of
 the bridles is for me?” Satan replied, “For you there is no need of a
-bridle. You can become my victim only with my sweet talk!”  
-  
+bridle. You can become my victim only with my sweet talk!”
+
 
 [^1]: This incidence is quoted from the biography of the Shaikh Ansari,
 ‘Seerat wa Shakhsiyat’ pages 88-89.

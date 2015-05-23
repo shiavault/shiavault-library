@@ -8,8 +8,8 @@ very dear act to Allah, and there are many incidents that prove this.
 Allah (S.w.T.) helps anybody who befriends the Ahlul Bayt (a.s.) in any
 way.
 
-Allah says in the Qur’an on behalf of his Prophet (S):  
- “***I ask nothing from you as a reward except the love of my near ones
+Allah says in the Qur’an on behalf of his Prophet (S):
+“***I ask nothing from you as a reward except the love of my near ones
 or my kith and kin”(*** ***Sura ash-Shura, 42: 23***)
 
 Let us now see how people who sacrificed for the sake of the Ahlul Bayt

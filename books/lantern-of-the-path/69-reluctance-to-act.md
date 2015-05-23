@@ -1,16 +1,15 @@
 Reluctance to Act
 =================
 
-   
- A person who feels reluctant to act falls short of what is correct,
+A person who feels reluctant to act falls short of what is correct,
 even if he does right; while a person who acts voluntarily is correct,
 even if he errs. The reluctant one obtains only contempt in the end, and
 weariness, toil and misery while he is carrying out the action. The
 outer being of a reluctant person is showing off, and his inner being is
 hypocrisy: they are the wings with which he flies. The reluctant person
 never has any of the qualities of the righteous nor any of the marks of
-the believers, wherever he is. As Allah said to His Prophet (S),  
-  
+the believers, wherever he is. As Allah said to His Prophet (S),
+
 
 <blockquote dir="rtl">
   <p>
@@ -22,8 +21,8 @@ the believers, wherever he is. As Allah said to His Prophet (S),
 ***Say, I do not ask you for any reward for it; nor am I of those who
 affect [i.e. act with reluctance].*** (38:87)
 
-   
- The Holy Prophet said, 'we, the company of prophets, the fearfully
+
+The Holy Prophet said, 'we, the company of prophets, the fearfully
 aware, the trusty, we disavow the reluctant.' So, fear Allah and do away
 with reluctance, and it will mark you with the sign of belief. Do not be
 occupied with something whose garment is affliction, with food which in

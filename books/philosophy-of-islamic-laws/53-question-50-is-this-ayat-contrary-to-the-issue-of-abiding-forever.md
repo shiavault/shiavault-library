@@ -10,8 +10,8 @@ one day they may go out of Paradise.
 abiding in it as long as the heavens and the earth endure, except as
 your Lord please, a gift which shall never be cut off.”***
 
-Exception:  
- As it evidently seems that it is possible that one day Allah may wish
+Exception:
+As it evidently seems that it is possible that one day Allah may wish
 to drive them out of this center of blessings, whereas other Ayats prove
 that they will never go out of Paradise. In this situation what is the
 meaning of this Ayat?
@@ -46,7 +46,7 @@ and clear Qur’an, which is corroborating the Tafseer as mentioned above.
 This sentence makes it clear that this gift of Allah is going to remain
 intact and established forever and is never going to part.
 
- 
+
 
 [^1]: Surah Rum 30:6
 

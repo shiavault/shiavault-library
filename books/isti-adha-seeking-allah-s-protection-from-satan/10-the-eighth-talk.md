@@ -18,8 +18,8 @@ that the very thought of committing sins becomes abhorrent to us. For
 example, even if all the friends join together to encourage a man of
 piety to gossip or backbite against another person, he must desist from
 doing it. This is termed *malikat e taqwa* wherein a tendency develops
-in a person that he is able to resist the onslaught of Satan.  
-  
+in a person that he is able to resist the onslaught of Satan.
+
 
 Abstinence from Reprehensible (makrūhāt)
 ----------------------------------------
@@ -46,8 +46,8 @@ feet?
 
 *Taqwa* too means that on the path of life Satan has spread thorns and
 the man of piety has to save himself from getting hurt by them and keep
-moving forward all the time.  
-  
+moving forward all the time.
+
 
 The bait and intrigue of Satan
 ------------------------------
@@ -166,8 +166,8 @@ will be an element of lies in their conversation that might push them
 into the morass of Hell. Emerging out of the morass will be a Herculean
 task. As a follow up to the conversation, even if they go to a mosque,
 you should not think that they are God fearing persons because Satan
-continues to be with them.  
-  
+continues to be with them.
+
 
 Recognize yourself
 ------------------
@@ -192,8 +192,8 @@ al-An’aam, 6:164)***
 
 Remember! Talking against each other, backbiting and carrying of tales
 are all the traps of Satan. When you are in company of others, beware of
-this trap.  
-  
+this trap.
+
 
 Woman is the most formidable trap
 ---------------------------------
@@ -213,16 +213,12 @@ in trapping anyone, I use women to fulfill my plans!”
 Yes! With the help of women Satan progresses towards his objective and
 thus involves the men in his schemes.
 
-<blockquote dir="rtl">
-  <p>
-وَلَقَدْ صَدَّقَ عَلَيْهِمْ إِبْلِيسُ ظَنَّهُ
-  </p>
-</blockquote>
+### وَلَقَدْ صَدَّقَ عَلَيْهِمْ إِبْلِيسُ ظَنَّهُ
 
 ***And certainly the Shaitan found true his conjecture concerning
 them... (Sura Saba, 34:20)***
 
- 
+
 
 The company of women is the preface to sinning
 ----------------------------------------------
@@ -242,8 +238,8 @@ with a man then the trap of Satan becomes strong and very dangerous.
 Shaking hands with a strange woman is *Haram.* Think of the impious
 animals that how deeply they are entrapped by Satan that they are
 totally unaware that the bodily touch of a woman is one of the uncanny
-traps of Satan.  
-  
+traps of Satan.
+
 
 The tale of Barseesa
 --------------------

@@ -1,8 +1,7 @@
 1979-89: first decade of the Islamic Republic, last decade of the Imam’s life
 =============================================================================
 
-   
- Imam Khomeini’s role was also central in shaping the new political
+Imam Khomeini’s role was also central in shaping the new political
 order that emerged from the revolution, the Islamic Republic of Iran. At
 first it appeared that he might exercise his directive role from Qum,
 for he moved there from Tehran on February 29, causing Qum to become in
@@ -15,9 +14,9 @@ government.”[^1] The institutionalization of the new order continued
 with the election, on August 3, of an Assembly of Experts (*Majlis*-*i
 Khubragan*), entrusted with the task of reviewing a draft constitution
 that had been put forward on June 18; fifty-five of the seventy-three
-persons elected were religious scholars.  
-    
- It was not however to be expected that a smooth transition from the old
+persons elected were religious scholars.
+
+It was not however to be expected that a smooth transition from the old
 regime would prove possible. The powers and duties of the Council of the
 Islamic Revolutionary, which was intended to serve as an interim
 legislature, were not clearly delineated from those of the provisional
@@ -51,25 +50,25 @@ most capable personalities.
 Thus on May 1, 1979, Ayatullah Murtaza Mutahhari, a leading member of
 the Council of the Islamic Revolution and a former pupil close to the
 Imam’s heart, was assassinated in Tehran. For once, the Imam wept in an
-open display of grief.  
-    
- The final break between Bazargan and the revolution came as a
+open display of grief.
+
+The final break between Bazargan and the revolution came as a
 consequence of the occupation of the United States embassy in Tehran on
 November 4, 1979 by a coalition of students from the universities of
 Tehran. Despite declarations of willingness to “honor the will of the
 Iranian people” and its recognition of the Islamic Republic, the
 American government had admitted the Shah to the United States on
-October 22, 1979.  
-    
- The pretext was his need for medical treatment, but it was widely
+October 22, 1979.
+
+The pretext was his need for medical treatment, but it was widely
 feared in Iran that his arrival in America, where large numbers of
 high-ranking officials of the previous regime had gathered, might be the
 prelude to an American-sponsored attempt to restore him to power, on the
 lines of the successful CIA coup of August 1953. The Shah’s extradition
 to Iran was therefore demanded by the students occupying the embassy as
-a condition for their liberating the hostages they were holding there.  
-    
- It is probable that the students had cleared their action in advance
+a condition for their liberating the hostages they were holding there.
+
+It is probable that the students had cleared their action in advance
 with close associates of Imam Khomeini, for he swiftly extended his
 protection to them, proclaiming their action “a greater revolution than
 the first.”[^2] Two days later, he predicted that confronted by this
@@ -85,9 +84,9 @@ crashed into each other in a sandstorm near Tabas in southeastern Iran.
 On April 7, the United States had formally broken diplomatic ties with
 Iran, a move welcomed by Imam Khomeini as an occasion of rejoicing for
 the Iranian nation.[^4] It was not until January 21, 1981 that the
-American hostages were finally released.  
-    
- Two days after the occupation of the US embassy, Bazargan once again
+American hostages were finally released.
+
+Two days after the occupation of the US embassy, Bazargan once again
 offered his resignation, and this time it was accepted. In addition, the
 provisional government was dissolved, and the Council of the Islamic
 Revolution temporarily assumed the task of running the country.
@@ -104,18 +103,18 @@ involved.
 Most importantly, the occupation of the embassy constituted a “second
 revolution” in that Iran now offered a unique example of defiance of the
 American superpower and became established for American policymakers as
-their principal adversary in the Middle East.  
-    
- The enthusiasm aroused by the occupation of the embassy also helped to
+their principal adversary in the Middle East.
+
+The enthusiasm aroused by the occupation of the embassy also helped to
 ensure a large turnout for the referendum that was held on December 2
 and 3, 1979 to ratify the constitution that had been approved by the
 Assembly of Experts on November 15. The constitution, which was
 overwhelmingly approved, differed greatly from the original draft, above
 all through its inclusion of the principle of vilayat-i *faqih* as its
 basic and determining principle. Mentioned briefly in the preamble, it
-was spelled out in full in Article Five:  
-    
- “During the Occultation of the Lord of the Age (Sahib al-Zaman; i.e.,
+was spelled out in full in Article Five:
+
+“During the Occultation of the Lord of the Age (Sahib al-Zaman; i.e.,
 the Twelfth Imam)… the governance and leadership of the nation devolve
 upon the just and pious *faqih* who is acquainted with the circumstances
 of his age; courageous, resourceful, and possessed of administrative
@@ -131,9 +130,9 @@ functions of mufti and marja’.” Article 110 listed his powers, which
 include supreme command of the armed forces, appointment of the head of
 the judiciary, signing the decree formalizing the election of the
 president of the republic, and – under certain conditions - dismissing
-him.[^5]  
-    
- These articles formed the constitutional basis for Imam Khomeini’s
+him.[^5]
+
+These articles formed the constitutional basis for Imam Khomeini’s
 leadership role. In addition, from July 1979 onwards, he had been
 appointing Imam Jum’a’s for every major city, who not only delivered the
 Friday sermon but also acted as his personal representatives. Most
@@ -141,25 +140,25 @@ government institutions also had a representative of the Imam assigned
 to them. However, the ultimate source of his influence was his vast
 moral and spiritual prestige, which led to him being designated
 primarily as Imam, in the sense of one dispensing comprehensive
-leadership to the community.[^6]  
-    
- On January 23, 1980, Imam Khomeini was brought from Qum to Tehran to
+leadership to the community.[^6]
+
+On January 23, 1980, Imam Khomeini was brought from Qum to Tehran to
 receive treatment for a heart ailment. After thirty-nine days in
 hospital, he took up residence in the north Tehran suburb of Darband,
 and on April 22 he moved into a modest house in Jamaran, another suburb
 to the north of the capital. A closely guarded compound grew up around
 the house, and it was there that he was destined to spend the rest of
-his life.  
-    
- On January 25, during the Imam’s hospitalization, Abu’l-Hasan Bani
+his life.
+
+On January 25, during the Imam’s hospitalization, Abu’l-Hasan Bani
 Sadr, a French-educated economist, was elected first president of the
 Islamic Republic of Iran. His success had been made possible in part by
 the Imam’s decision that it was not opportune to have a religious
 scholar stand for election. This event, followed on March 14 by the
 first elections to the *Majlis*, might have counted as a further step to
-the institutionalization and stabilization of the political system.  
-    
- However, Bani Sadr’s tenure, together with the tensions that soon arose
+the institutionalization and stabilization of the political system.
+
+However, Bani Sadr’s tenure, together with the tensions that soon arose
 between him and a majority of the deputies in the *Majlis*, occasioned a
 severe crisis that led ultimately to Bani Sadr’s dismissal. For the
 president, his inherent megalomania aggravated by his victory at the
@@ -174,9 +173,9 @@ referred to as “the line of the Imam” (*khatt-i Imam*). As he had
 earlier done with the disputes between the provisional government and
 the Council of the Islamic Revolution, the Imam sought to reconcile the
 parties, and on September 11 1980 appealed to all branches of government
-and their members to set aside their differences.  
-    
- While this new governmental crisis was brewing, on September 22, 1980,
+and their members to set aside their differences.
+
+While this new governmental crisis was brewing, on September 22, 1980,
 Iraq sent its forces across the Iranian border and launched a war of
 aggression that was to last for almost eight years. Iraq enjoyed
 financial support in this venture from the Arab states lining the
@@ -195,9 +194,9 @@ As he had done during the revolution, Imam Khomeini insisted on an
 uncompromising stance and inspired a steadfast resistance, which
 prevented the easy Iraqi victory many foreign observers had confidently
 foretold. Initially, however, Iraq enjoyed some success, capturing the
-port city of Khurramshahr and encircling Abadan.  
-    
- The conduct of the war became one more issue at dispute between Bani
+port city of Khurramshahr and encircling Abadan.
+
+The conduct of the war became one more issue at dispute between Bani
 Sadr and his opponents. Continuing his efforts at reconciling the
 factions, Imam Khomeini established a three-man commission to
 investigate the complaints each had against the other. The commission
@@ -206,9 +205,9 @@ constitution and contravening the Imam’s instructions. He was
 accordingly declared incompetent by the *Majlis* to function as
 president, and the next day, in accordance with Article 110 section (e)
 of the constitution, Imam Khomeini dismissed him. He went into hiding,
-and on July 28 fled to Paris, disguised as a woman.  
-    
- Toward the end of his presidency, Bani Sadr had allied himself with the
+and on July 28 fled to Paris, disguised as a woman.
+
+Toward the end of his presidency, Bani Sadr had allied himself with the
 *Sazman-i Mujahidin-i Khalq* (Organization of People’s Strugglers;
 however, the group is commonly known in Iran as munafiqin, “hypocrites,”
 not mujahidin, because of its members’ hostility to the Islamic
@@ -235,9 +234,9 @@ manner.[^7]
 The fact that Iran was able to withstand such blows internally while
 continuing the war of defense against Iraq was indeed testimony to the
 roots the new order had struck and to the undiminished prestige of Imam
-Khomeini as the leader of the nation.  
-    
- Ayatullah Khamna’i, a longtime associate and devotee of the Imam, was
+Khomeini as the leader of the nation.
+
+Ayatullah Khamna’i, a longtime associate and devotee of the Imam, was
 elected president on October 2, 1981, and he remained in this position
 until he succeeded him as leader of the Islamic Republic on his death in
 1989. No governmental crises comparable to those of the first years of
@@ -277,9 +276,9 @@ broadly defined prerogatives to a commission named the Assembly for the
 Determination of the Interest of the Islamic Order (*Majma’-i Tashkhis-i
 Maslahat-i Nizam-i Islami*.) This standing body has the power to settle
 decisively all differences on legislation between the *Majlis* and the
-Council of Guardians.  
-    
- The war against Iraq continued to preoccupy Iran until July 1988. Iran
+Council of Guardians.
+
+The war against Iraq continued to preoccupy Iran until July 1988. Iran
 had come to define its war aims as not simply the liberation of all
 parts of its territory occupied by Iraq, but also the overthrow of the
 regime of Saddam Husayn. A number of military victories made this goal
@@ -309,9 +308,9 @@ down a civilian Iranian airliner, with the loss of 290 passengers. With
 the utmost reluctance, Imam Khomeini agreed to end the war on the terms
 specified in Resolution 598 of the United Nations Security Council,
 comparing his decision in a lengthy statement issued on July 20 to the
-drinking of poison.[^11]  
-    
- Any notion that the acceptance of a ceasefire with Iraq signaled a
+drinking of poison.[^11]
+
+Any notion that the acceptance of a ceasefire with Iraq signaled a
 diminution in the Imam’s readiness to confront the enemies of Islam was
 dispelled when, on February 14, 1989, he issued a *fatwa* calling for
 the execution of Selman Rushdie, author of the obscene and blasphemous
@@ -329,9 +328,9 @@ Generally overlooked at the time was the firm grounding of the Imam’s
 *fatwa* in the existing provisions of both Shi’i and Sunni
 jurisprudence; it was not therefore innovative. What lent the *fatwa*
 particular significance was rather its issuance by the Imam as a figure
-of great moral authority.  
-    
- The Imam had also gained the attention of the outside world, albeit in
+of great moral authority.
+
+The Imam had also gained the attention of the outside world, albeit in
 a less spectacular way, on January 4, 1989, when he sent Mikhail
 Gorbachev, then general secretary of the Communist Party of the Soviet
 Union, a letter in which he predicted the collapse of the Soviet Union
@@ -342,9 +341,9 @@ He also warned Gorbachev and the Russian people against replacing
 communism with Western-style materialism: “The basic problem of your
 country has nothing to do with ownership, the economy, or freedom; it is
 the lack of a true belief in God, the same problem that has drawn the
-West into a blind alley of triviality and purposelessness.”[^12]  
-    
- Internally, however, the most important development in the last year of
+West into a blind alley of triviality and purposelessness.”[^12]
+
+Internally, however, the most important development in the last year of
 Imam Khomeini’s life was, without doubt, his dismissal of Ayatullah
 Muntaziri from the position of successor to the leadership of the
 Islamic Republic.
@@ -363,9 +362,9 @@ its base in Iraq, had made a large-scale incursion into Iranian
 territory in the closing stages of the Iran-Iraq war. Matters came to a
 head the following year, and on March 28, 1989, the Imam wrote to
 Muntaziri accepting his resignation from the succession, a resignation
-that under the circumstances he was compelled to offer.[^13]  
-    
- On June 3, 1989, after eleven days in hospital for an operation to stop
+that under the circumstances he was compelled to offer.[^13]
+
+On June 3, 1989, after eleven days in hospital for an operation to stop
 internal bleeding, Imam Khomeini lapsed into a critical condition and
 died. The outpouring of grief was massive and spontaneous, the exact
 counterpoint to the vast demonstrations of joy that had greeted his
@@ -376,9 +375,9 @@ body ultimately had to be transported by helicopter to its place of
 burial to the south of Tehran on the road leading to Qum. A still
 expanding complex of structures has grown up around the shrine of the
 Imam, making it likely that it will become the center of an entire new
-city devoted to ziyara and religious learning.  
-    
- The testament of Imam Khomeini was published soon after his death. A
+city devoted to ziyara and religious learning.
+
+The testament of Imam Khomeini was published soon after his death. A
 lengthy document, it addresses itself principally to the various classes
 of Iranian society, urging them to do whatever is necessary for the
 preservation and strengthening of the Islamic Republic. Significantly,
@@ -390,9 +389,9 @@ until they meet me at the pool.”
 The Imam interprets the misfortunes that have befallen Muslims
 throughout history and more particularly in the present age as the
 result of efforts precisely to disengage the Qur’an from the progeny of
-the Prophet (S).  
-    
- The legacy of Imam Khomeini was considerable. He had bequeathed to Iran
+the Prophet (S).
+
+The legacy of Imam Khomeini was considerable. He had bequeathed to Iran
 not only a political system enshrining the principles both of religious
 leadership and of an elected legislature and head of the executive
 branch, but also a whole new ethos and self-image, a dignified stance of
@@ -409,9 +408,9 @@ to America and Israel of numerous Middle Eastern governments.
 
 Unity between Shi’is and Sunnis was one of his lasting concerns; he was,
 indeed, the first Shi’i authority to declare unconditionally valid
-prayers performed by Shi’is behind a Sunni imam.[^14]  
-    
- It must finally be stressed that despite the amplitude of his political
+prayers performed by Shi’is behind a Sunni imam.[^14]
+
+It must finally be stressed that despite the amplitude of his political
 achievements, Imam Khomeini’s personality was essentially that of a
 gnostic for whom political activity was but the natural outgrowth of an
 intense inner life of devotion. The comprehensive vision of Islam that

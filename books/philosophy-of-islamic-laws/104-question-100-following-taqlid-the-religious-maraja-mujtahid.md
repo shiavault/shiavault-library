@@ -45,8 +45,8 @@ They used to justify their foolish custom (of worshipping wooden and
 stone idols) by saying that their ancestors also did that. They used to
 blindly follow their customs. It is that same type of Taqlid that is
 responsible for the spread of social evils like racing, fashion and
-sexual perversion.  
- Maulana Rumi has indicated this same type of Taqlid: “Their foolish
+sexual perversion.
+Maulana Rumi has indicated this same type of Taqlid: “Their foolish
 Taqlid has destroyed the people”.
 
 As mentioned above most of the objections with regard to Taqlid are
@@ -176,9 +176,9 @@ same days and perform the Hajj rituals and the difference in religious
 decree (Fatwa) does not inconvenience a single man of the caravan.
 
 All these things indicate that the differences in religious decree are
-only in the matters that do not affect Communal unity.  
-    
-  
+only in the matters that do not affect Communal unity.
+
+
 
 [^1]: Surah Zukhruf 43:23
 

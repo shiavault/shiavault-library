@@ -82,14 +82,14 @@ tales…[^1] it will change into disaster. Thus, the scholars of ethics
 advise us to speak only when necessary or else make use of silence.
 
 From the view-points of benefits and losses, language is of four
-forms:  
- One kind of language has absolute benefits. The second type includes
+forms:
+One kind of language has absolute benefits. The second type includes
 absolute losses. In the third type both benefits and losses are mixed.
-And the fourth type is neither useful nor useless.  
- Using silence is necessary in three stages of the above four stages. In
+And the fourth type is neither useful nor useless.
+Using silence is necessary in three stages of the above four stages. In
 that case where we can speak, we should take care not to contaminate
-language with hypocrisy, artificiality, and talkativeness.[^2]  
- It is for this reason that in Islam, emphasis is more on silence. The
+language with hypocrisy, artificiality, and talkativeness.[^2]
+It is for this reason that in Islam, emphasis is more on silence. The
 Prophet (S) is reported to have said:
 
 <blockquote dir="rtl">
@@ -124,8 +124,8 @@ son:
 </blockquote>
 
 *"O my son, if you say that speech is of silver, then silence is of
-gold"*[^5]*.*  
- Imam Reza (as) has said:
+gold"*[^5]*.*
+Imam Reza (as) has said:
 
 <blockquote dir="rtl">
   <p>
@@ -222,34 +222,34 @@ by putting the cover on a bottle you can safeguard its contents.
 This point is depicted in the poems of our poets who are under the
 influence of Imam ‘Ali (as) and other religious leaders.
 
-Amir Khosro, the Iranian poet, says:  
- Any moment you talk, it is pleasant,  
- But sometimes silence is even sweeter;  
- To close the mouth is to close the door of troubles,  
- It is because the world is pregnant with good and bad.  
- I have seen many who regret having spoken  
- But I have seen nobody who regrets having been silent  
- Listening is better than saying if you care,  
- The first will fill us; the second will make us empty,  
- The pearl became very precious because  
- It became ear from top to the toe;  
- The sharp sword became tongue all over,  
- That is because it could shed people’s blood.  
- Sa’di says:  
- Until you know perfectly that your speech is appropriate,  
- You should not open your mouth to talk.  
- Another poet says:  
- Until the time you have not uttered a thing, it is at your disposal,  
- But when it is said, it will dominate you;  
- Do not tell anybody your secrets,  
- Because he will disclose it everywhere;  
- Deposit your treasure to treasure-keepers,  
- Keep your secrets to yourself.  
- But as it is said before, both speech and silence have their own
+Amir Khosro, the Iranian poet, says:
+Any moment you talk, it is pleasant,
+But sometimes silence is even sweeter;
+To close the mouth is to close the door of troubles,
+It is because the world is pregnant with good and bad.
+I have seen many who regret having spoken
+But I have seen nobody who regrets having been silent
+Listening is better than saying if you care,
+The first will fill us; the second will make us empty,
+The pearl became very precious because
+It became ear from top to the toe;
+The sharp sword became tongue all over,
+That is because it could shed people’s blood.
+Sa’di says:
+Until you know perfectly that your speech is appropriate,
+You should not open your mouth to talk.
+Another poet says:
+Until the time you have not uttered a thing, it is at your disposal,
+But when it is said, it will dominate you;
+Do not tell anybody your secrets,
+Because he will disclose it everywhere;
+Deposit your treasure to treasure-keepers,
+Keep your secrets to yourself.
+But as it is said before, both speech and silence have their own
 merits. Wherever you have to talk, being silent is not wise and the
-other way around. The poet says:  
- Two things spoil the wisdom,  
- Being silent when you are supposed to talk, and talking when you are
+other way around. The poet says:
+Two things spoil the wisdom,
+Being silent when you are supposed to talk, and talking when you are
 supposed to be silent.
 
 When Imam Zayn al-‘Abidin (as) was asked which one was better: speech or
@@ -327,8 +327,8 @@ considered to be moderation:
 </blockquote>
 
 ***"And they who when they spend are neither extravagant nor
-parsimonious, and keep between these the just mean."***[^10]  
- Imam ‘Ali (as) talks about this principle of moderation and does not
+parsimonious, and keep between these the just mean."***[^10]
+Imam ‘Ali (as) talks about this principle of moderation and does not
 want us to be misers because by the expression "safeguard what you have
 in your hands" he means safeguarding it in moderation, neither
 parsimoniously nor extravagantly.[^11]
@@ -481,33 +481,33 @@ It is for this reason that Imam ‘Ali (as) states:
 *"An occupation (to earn one’s living) accompanied by chastity is better
 than wealth accompanied by immorality”.*
 
-Sa’di, the Iranian poet, says:  
- If you recognize the pleasure of the abandoning pleasures,  
- Never will you consider as pleasure the pleasure of soul;  
- Your bird of spirit will fly to Heavens,  
- If you free it from the cage of greed;  
- But you lack the patience of the phoenix,  
- You are like a sparrow in the claws of lusts;  
- You are worshipping your surface so much  
- That as far as you are living you will not get to the deep.  
- If an herb grows out of your humane nature  
- The flowers of the garden seems to you as if they were herbs  
- You would never buy the two worlds,  
- If you knew the value of what you have,  
- From the remaining part of life you will get nothing,  
- If you are decided to perform as you do now;  
- Tell me what better-than-life did you get  
- As you spent your life-time;  
- You may not buy one moment of life with a big land  
- Your life was given to you free of charge;  
- You sleep-walker walk as slowly as  
- I fear, you will miss your caravan;  
- My advice to you, brother, is  
- As far as you can, do not waste your time;  
- You should keep your tongue in your mouth like a shell  
- Then you could throw out pearls when time is ripe;  
- All his life, Sa’di underwent hardships  
- Till he got the fame that he enjoys now.
+Sa’di, the Iranian poet, says:
+If you recognize the pleasure of the abandoning pleasures,
+Never will you consider as pleasure the pleasure of soul;
+Your bird of spirit will fly to Heavens,
+If you free it from the cage of greed;
+But you lack the patience of the phoenix,
+You are like a sparrow in the claws of lusts;
+You are worshipping your surface so much
+That as far as you are living you will not get to the deep.
+If an herb grows out of your humane nature
+The flowers of the garden seems to you as if they were herbs
+You would never buy the two worlds,
+If you knew the value of what you have,
+From the remaining part of life you will get nothing,
+If you are decided to perform as you do now;
+Tell me what better-than-life did you get
+As you spent your life-time;
+You may not buy one moment of life with a big land
+Your life was given to you free of charge;
+You sleep-walker walk as slowly as
+I fear, you will miss your caravan;
+My advice to you, brother, is
+As far as you can, do not waste your time;
+You should keep your tongue in your mouth like a shell
+Then you could throw out pearls when time is ripe;
+All his life, Sa’di underwent hardships
+Till he got the fame that he enjoys now.
 
 ### 5. It Is Better For A Man To Keep His Secrets:
 
@@ -576,13 +576,13 @@ your head and hurt you. Imam Sadiq (as) has said:
 
 *"Do not disclose your secret to your friend except that much, which if
 you informed your enemy of it, it would not harm you. For one day your
-friend may become your enemy."*[^20]   
- Regarding this, our Iranian poet has said:  
- Never rely wholly on your friend,  
- Keep hidden your secret from your friend;  
- Some day your friend might turn against you,  
- He might turn and show you his animosity.  
- Naturally, nobody could be a better secret-keeper than a person
+friend may become your enemy."*[^20]
+Regarding this, our Iranian poet has said:
+Never rely wholly on your friend,
+Keep hidden your secret from your friend;
+Some day your friend might turn against you,
+He might turn and show you his animosity.
+Naturally, nobody could be a better secret-keeper than a person
 himself. He is the most reliable person concerning his secret. Imam ‘Ali
 (as) has said regarding this:
 
@@ -594,18 +594,18 @@ himself. He is the most reliable person concerning his secret. Imam ‘Ali
 
 *"Your chest is the widest place to keep your secret".*[^21]
 
-Sa’di, the Persian writer and poet, says:  
- Do not disclose to your friend your secrets. You do not know if he will
+Sa’di, the Persian writer and poet, says:
+Do not disclose to your friend your secrets. You do not know if he will
 turn against you. Do not inflict any damage over your foe; he might
 someday become your friend. If you wish a secret to remain secret, do
 not reveal it, even if he is reliable. Nobody is friendlier to your
-secret than you yourself.  
- It is better for you to remain silent than,  
- Telling a person your secret and asking him not to disclose it;  
- O wise man, block the water from its headspring,  
- Because when the spring over-flows, you cannot stop it;  
- You should not utter anything in private,  
- That cannot be said at any association of people.
+secret than you yourself.
+It is better for you to remain silent than,
+Telling a person your secret and asking him not to disclose it;
+O wise man, block the water from its headspring,
+Because when the spring over-flows, you cannot stop it;
+You should not utter anything in private,
+That cannot be said at any association of people.
 
 ### 6. There Are Many Who Strive For What Is Harmful For Themselves!
 
@@ -617,8 +617,8 @@ perfection:
 ***"And that man shall have nothing but what he strives for".***
 
 Some people struggle in the right direction and in the God's path. And
-some others go astray.  
- They are deviated "Those who go astray" and are not in favor with Allah
+some others go astray.
+They are deviated "Those who go astray" and are not in favor with Allah
 
 ***"Not the path of those upon whom the wrath is brought down" [Qur’an
 1:7]***
@@ -636,8 +636,8 @@ Him unanswered, such a person has gained a lot:
 
 ***"And whoever desires the Hereafter and strives for it as he ought to
 strive and he is a believer; as for these, their striving shall surely
-be accepted."***[^22]  
- But those who go astray and perform evil on the earth and commit
+be accepted."***[^22]
+But those who go astray and perform evil on the earth and commit
 wrong-doings may seem lucky ones in the eyes of some. But they are real
 losers since they have spoiled their Hereafter which is made of the
 actions we perform here. However much they strive, they will lose more.
@@ -741,24 +741,24 @@ He says:
 ### 8. Contemplation Is The Basis Of Insight
 
 Wisdom distinguishes man from the beasts. Man uses wisdom to recognize
-the facts of creation and relations among them.  
- Thus thinking about similar events is to concentrate on a specific
+the facts of creation and relations among them.
+Thus thinking about similar events is to concentrate on a specific
 case. Just as if the conditions for sight are possible and there are no
 obstacles, seeing will naturally take place, in the same way, if the
 conditions for thinking are present and the obstacles are absent,
-insight and the understanding of conditions will naturally occur.[^29]  
- It is for this reason that in the Islamic traditions contemplation is
-considered as an illuminating factor for wisdom.  
- On the other hand, in the Islamic traditions, it is said that we
+insight and the understanding of conditions will naturally occur.[^29]
+It is for this reason that in the Islamic traditions contemplation is
+considered as an illuminating factor for wisdom.
+On the other hand, in the Islamic traditions, it is said that we
 discover the unknown through our wisdom.
 
 > "بِالفِكرِ تَنجَلِي غَياهِبُ الامُور"614
 
 It is also said that contemplation broadens the spirit of realism in a
-man and increases his insight.  
- Finally, contemplation is considered not only as an act of worship but
-also one hour of it is considered equal to years of worship.  
- Imam ‘Ali (as), in his book, points out the role of contemplation in
+man and increases his insight.
+Finally, contemplation is considered not only as an act of worship but
+also one hour of it is considered equal to years of worship.
+Imam ‘Ali (as), in his book, points out the role of contemplation in
 the illumination of facts.
 
 ### 9. The Effects And Role Of Companionship
@@ -766,14 +766,14 @@ the illumination of facts.
 One of the factors which build up one's personality is companionship.
 Since human nature adopts other people's behaviors easily, when he
 accompanies the good ones, he is influenced by them. On the contrary,
-when he accompanies the bad ones, he becomes one of those. It is said:  
- Do not accompany the bad as far as you can,  
- Because human soul adopts other's nature;  
- Noah's son accompanied the bad ones,  
- He lost his Prophethood as a result.  
- The dog of the cave settlers for a few days only  
- Followed the good ones and became good.  
- Because of this characteristic of impressionability, companionship is
+when he accompanies the bad ones, he becomes one of those. It is said:
+Do not accompany the bad as far as you can,
+Because human soul adopts other's nature;
+Noah's son accompanied the bad ones,
+He lost his Prophethood as a result.
+The dog of the cave settlers for a few days only
+Followed the good ones and became good.
+Because of this characteristic of impressionability, companionship is
 emphasized in the Islamic traditions and the Qur’anic verses.
 
 It is narrated from Solomon (as), the Prophet, who said,
@@ -829,9 +829,9 @@ And the Prophet (S) has also said:
 *"A man is of the same religion as his friend. Then every one of you be
 careful with whom you associate".*[^32]
 
-You first tell me who your friends are,  
- Then I'll tell you who you are.  
- This very feature of impressionability and companionship caused ‘Uqbah
+You first tell me who your friends are,
+Then I'll tell you who you are.
+This very feature of impressionability and companionship caused ‘Uqbah
 b. Abi Mu’eet to be influenced by the temptations of his old friend
 Ubayy ibn Khalaf to become infidel to Islam and to pour the intestines
 of an animal over the Prophet's head and to insult him and to spit on
@@ -853,16 +853,16 @@ taken such a one for a friend! Certainly he led me astray from the
 reminder after it had come to me; and the Shaitan fails to aid
 man"***[^33]
 
-Sa’di, concerning companionship, says:  
- In the bath one day I received a piece of fragrant clay from a
-friend,  
- I asked the clay if it was musk or ambergris  
- Because I was drunk with its odor  
- It said it used to be a worthless piece of clay  
- But it was companion to a flower  
- The perfect behavior of the company had influenced it  
- Or else it was still the same piece of clay.  
- It is for this reason that in the Qur’an and in traditions there is
+Sa’di, concerning companionship, says:
+In the bath one day I received a piece of fragrant clay from a
+friend,
+I asked the clay if it was musk or ambergris
+Because I was drunk with its odor
+It said it used to be a worthless piece of clay
+But it was companion to a flower
+The perfect behavior of the company had influenced it
+Or else it was still the same piece of clay.
+It is for this reason that in the Qur’an and in traditions there is
 continuous persuasion over friendship with honest people and genuine
 God-believers. Making friends with unclean people is strictly
 prohibited. Two of these traditions are reported here:
@@ -881,7 +881,7 @@ will destroy his companion and ruin his friend."*[^34]
 
 Secondly, he said,
 
-**  
+**
 **
 
 "جَالِسِ اَهلَ الوَرَعِ والحِكمَةَ واَكثِر مُناقَشَتِهِم فَإنَّكَ اِن
@@ -903,8 +903,8 @@ appropriate shape in the Day of Resurrection.
 Thus, if food is lawful and legally-gained, it will manifest itself as a
 wholesome nutrient and it will bring about comfort and ease. If it is
 gained through illegal means it will bring about fire and will badly
-hurt man.  
- The Holy Qur’an talks about the swallowers of the property of the
+hurt man.
+The Holy Qur’an talks about the swallowers of the property of the
 orphans unjustly in the following manner:
 
 <blockquote dir="rtl">
@@ -947,13 +947,13 @@ and this hurts them in the Hereafter.
   </p>
 </blockquote>
 
-***"And what they had done they shall find present there”.***[^38]   
+***"And what they had done they shall find present there”.***[^38]
 ***“And he who has done an atom's weight of evil shall see it"***[^39]
 
 It is for this reason that the illegally gained property is severely
 reproached in the Islamic traditions, and it is supposed to be an agent
-against the acceptance of worship and prayers:  
- The great Prophet (S) has said:
+against the acceptance of worship and prayers:
+The great Prophet (S) has said:
 
 <blockquote dir="rtl">
   <p>
@@ -1123,8 +1123,8 @@ what others tell us.
 This is because sometimes we behave in contrast to what we generally
 believe: i.e. one who is not considered to be a sincere advisor might be
 benevolent and a well-wisher, and a sincere counselor might deceive us.
-A wise man listens critically to them.  
- It is for this reason that Imam ‘Ali (as) emphasizes:
+A wise man listens critically to them.
+It is for this reason that Imam ‘Ali (as) emphasizes:
 
 <blockquote dir="rtl">
   <p>
@@ -1158,8 +1158,8 @@ not have these wishes, he could not survive.
 But to live in the world of fantasy and to live a life of dreams will
 not do because the materialization of dreams needs hard work and trial.
 They say "Three things wear out the intellect: extensive wishes, giving
-quick replies (without thought) and excessive laughter"[^50]  
- It seems that the topic of Abu Tammam’s poem is related to this part of
+quick replies (without thought) and excessive laughter"[^50]
+It seems that the topic of Abu Tammam’s poem is related to this part of
 Imam ‘Ali’s (as) statement.[^51] Abu Tammam says:
 
 <blockquote dir="rtl">
@@ -1243,14 +1243,14 @@ first meaning is meant:
   </p>
 </blockquote>
 
-***"Deaf, dumb and blind, so they do not understand"***[^56]  
- And wherever man, due to lack of intellect, is not considered to be
+***"Deaf, dumb and blind, so they do not understand"***[^56]
+And wherever man, due to lack of intellect, is not considered to be
 obliged to carry out an action, the second sense is meant.[^57] Al-Kafi
 mentions ‘*aql*, (intellect) as the opposite of *jahl*, (ignorance), and
 "Kitab al-‘aql wa’l jahl" (The book of the intellect and ignorance) is
 the title of one of the sections of the book, where the first sense is
-meant and not ‘*aql* in contrast to *junun* (madness).[^58]  
- Man can comprehend some facts naturally; facts such as the following:
+meant and not ‘*aql* in contrast to *junun* (madness).[^58]
+Man can comprehend some facts naturally; facts such as the following:
 whole is greater than each one of its parts; the combination of two
 contradictory things is impossible; justice is good, and the like. Man
 can also get some facts through experimentation: facts such as the
@@ -1306,8 +1306,8 @@ Samqunia is a laxative, etc.[^62]
 
 As it was discussed previously, experience is one of the ways to gain
 information in this world. Gaining knowledge and experience helps us to
-guide our lives in the right path.  
- Imam ‘Ali (as) says:
+guide our lives in the right path.
+Imam ‘Ali (as) says:
 
 <blockquote dir="rtl">
   <p>
@@ -1318,8 +1318,8 @@ guide our lives in the right path.
 *“The best of your experiences is that which teaches you a lesson.”*
 
 The Prophet (S) also has said: "A believer is not bitten twice from the
-same hole"[^63]  
- It is for this reason that the Holy Qur’an, after narrating the stories
+same hole"[^63]
+It is for this reason that the Holy Qur’an, after narrating the stories
 of the ancient nations, wants us to take our lessons from them: ***"In
 their histories there is certainly a lesson for men of
 understanding"***[^64]
@@ -1458,28 +1458,28 @@ following statement:
 
 *"Hasten to avail of opportunity before it becomes grief."*
 
-Sa’di, the Persian poet, says:  
- O young man obey your God today,  
- Because tomorrow, when you are old, you may not act as a young man;  
- The world stole from me days,  
- Each day of which was followed by a Qadr night,  
- Alas I did not appreciate the value of that day,  
- Now I start realizing, which is too late;  
- Due to my ignorance I lost the clear water,  
- Now I have to carry out Tayamum for my prayers;  
- When you are in the middle part of youth,  
- Your night is over, stop sleeping;  
- Now you try when the water is up to your waist,  
- Not at the time when flood passes over you head;  
- Do not waste your life using words like alas;  
- Because opportunity is dear and time is short.
+Sa’di, the Persian poet, says:
+O young man obey your God today,
+Because tomorrow, when you are old, you may not act as a young man;
+The world stole from me days,
+Each day of which was followed by a Qadr night,
+Alas I did not appreciate the value of that day,
+Now I start realizing, which is too late;
+Due to my ignorance I lost the clear water,
+Now I have to carry out Tayamum for my prayers;
+When you are in the middle part of youth,
+Your night is over, stop sleeping;
+Now you try when the water is up to your waist,
+Not at the time when flood passes over you head;
+Do not waste your life using words like alas;
+Because opportunity is dear and time is short.
 
 ### 19. Not Every Seeker Attains (His Desire) Nor Does Every Absent One Return
 
 Sometime a man notices that he has not reached his goals in life. This
 makes him unhappy. He might even seclude himself from the community. He
-might then become a pessimist.  
- Imam ‘Ali (as) wants to, through examples, show us that this phenomenon
+might then become a pessimist.
+Imam ‘Ali (as) wants to, through examples, show us that this phenomenon
 is very commonplace. It is not you alone who have not reached your
 goals: there are other people like you. Should they be sad and depressed
 like you? Or should they circle the difficulty and find a way out? It is
@@ -1488,8 +1488,8 @@ your objectives. But is the system of the world established in such a
 way that everyone should succeed? Should every traveler return home?
 Since this is the case, you have to be content of your God-given fate
 and avoid being crushed by depression and disappointment. You have to
-use your means to compensate for what you have lost.  
- Regretting the past and worrying about future are two mental
+use your means to compensate for what you have lost.
+Regretting the past and worrying about future are two mental
 disturbances which inflict many people and have put hurdles on their
 right ways of life. This problem will be solved through a right
 planning, however.
@@ -1554,38 +1554,38 @@ It is also said by Imam ‘Ali (as):
 *"Do not impose the anxieties for the year ahead on the anxiety of
 today. What each day holds is sufficient for you".*[^79]
 
-A poet has written:  
- Why should the earth-dwellers,  
- Refer to the past events, always;  
- Why are they sad because of the past events?  
- Why should they cry on the present happenings?  
- They have nothing to do except complaining,  
- They would not take lessons from their past;  
- One, in his heyday of youth,  
- Regrets over his childhood;  
- He is the most handsome,  
- But frowns and gets an angry face;  
- How nice the past childhood was, he says,  
- Be happy that that time has returned;  
- The other has gone through the youth,  
- And has found it extremely rough;  
- He has lost vigor, wisdom and intelligence,  
- And he has made it his motto to talk on youth;  
- Where are the days of strength?  
- So that I could once again engage in love;  
- What I have seem among people,  
- Nobody thinks about now, I found;  
- Everybody is under the influence of illusions,  
- Nobody had anything except sorrow;  
- They don’t know that,  
- The present will become past pretty soon.
+A poet has written:
+Why should the earth-dwellers,
+Refer to the past events, always;
+Why are they sad because of the past events?
+Why should they cry on the present happenings?
+They have nothing to do except complaining,
+They would not take lessons from their past;
+One, in his heyday of youth,
+Regrets over his childhood;
+He is the most handsome,
+But frowns and gets an angry face;
+How nice the past childhood was, he says,
+Be happy that that time has returned;
+The other has gone through the youth,
+And has found it extremely rough;
+He has lost vigor, wisdom and intelligence,
+And he has made it his motto to talk on youth;
+Where are the days of strength?
+So that I could once again engage in love;
+What I have seem among people,
+Nobody thinks about now, I found;
+Everybody is under the influence of illusions,
+Nobody had anything except sorrow;
+They don’t know that,
+The present will become past pretty soon.
 
 ### 20. Destroying the Provisions For The Hereafter And The Resurrection Day Is A Great Loss
 
 Those who envisage life only as it is in this world and do not consider
 the other world, see man’s life and death as these pertain to the world
-of beasts and which are materially determined.[^80]  
- The act of providing for the provisions for the next world might seem
+of beasts and which are materially determined.[^80]
+The act of providing for the provisions for the next world might seem
 vague and at times meaningless to these people.[^81]
 
 But those who do not limit life span only to the life here and are of
@@ -1648,8 +1648,8 @@ Second, select the right path of action since the Holy Qur’an says:
 
 ***"..It is not righteousness that you whould enter houses at their
 backs, but righteousness is this that one should guard against evil; and
-go into the houses by their doors..."***[^85]  
- Jabir has reported from Imam Baqir (as) his saying:
+go into the houses by their doors..."***[^85]
+Jabir has reported from Imam Baqir (as) his saying:
 
 <blockquote dir="rtl">
   <p>
@@ -1692,8 +1692,8 @@ turned into the losers.
 In contrast, there have been people who were wrong-doers throughout
 their life but suddenly, due to the right decision-making, became the
 fortunate ones, such as Hurr b. Yazeed ar-Riyahi, and Zuhayr Ibn
-Qayn.[^94]  
- For this reason, the outcome is of crucial significance. Jesus Christ
+Qayn.[^94]
+For this reason, the outcome is of crucial significance. Jesus Christ
 (as) has said in this connection:
 
 <blockquote dir="rtl">
@@ -1756,11 +1756,11 @@ And Allah will determine each creature's sustenance in accordance with
 its capacities. Since the gaining of livelihood through prohibited ways
 entails mental and spiritual losses, we are not allowed to engage in
 greed, injustice, aggression, theft or the like to achieve our
-objectives.  
- Imam ‘Ali (as) prohibits us from gaining possessions through illegal
+objectives.
+Imam ‘Ali (as) prohibits us from gaining possessions through illegal
 and forbidden means and warns us that the predetermined sustenance will
-keep a person from engaging in unlawful acts.  
- Thus, the traditions and the verses of the Holy Qur’an which deal with
+keep a person from engaging in unlawful acts.
+Thus, the traditions and the verses of the Holy Qur’an which deal with
 the predetermination of livelihood are a hurdle on the way of the greed
 of the world-mongers who do every sort of injustice to attain what they
 wish for. These verses and traditions warn such people not to struggle
@@ -1884,8 +1884,8 @@ sincerity is) suspect.”*
 
 When life conditions are proper for us, we should patiently benefit from
 it and we should not overtax ourselves. Some of the self-satisfied
-individuals would go very fast when they are at the zenith of fame.  
- We may easily find examples in history. The communist government of
+individuals would go very fast when they are at the zenith of fame.
+We may easily find examples in history. The communist government of
 Russia (USSR) and the Baath party and Saddam Hussain in Iraq clearly
 show that exerting pressure on people lead to the poverty and
 wretchedness of people.

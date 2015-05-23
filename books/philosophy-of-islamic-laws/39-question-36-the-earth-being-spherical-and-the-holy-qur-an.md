@@ -38,8 +38,8 @@ Traditions regarding the earth being spherical
 
 From the traditions that have come to us through the sinless Imams
 (a.s.) we can understand that the earth is spherical. One of such
-tradition from Imam as-Sadiq (a.s.) is given below:  
- Imam as-Sadiq (a.s.) said:
+tradition from Imam as-Sadiq (a.s.) is given below:
+Imam as-Sadiq (a.s.) said:
 
 In a journey, a man became a fellow traveler. He was habituated that he
 should pray the Evening Prayer in the darkness of the night, and pray
@@ -59,11 +59,11 @@ other places. Because it is incumbent upon the people of all the places
 that they should offer their Prayers according to dawn and sunset of
 their horizons.[^4]
 
-Imam (a.s.) has described this fact in one more tradition:  
- It is upon you that you should have the foundation of your deeds on
-your logical East and West.  
- And all this is said on the basis of the earth being spherical.  
-   
+Imam (a.s.) has described this fact in one more tradition:
+It is upon you that you should have the foundation of your deeds on
+your logical East and West.
+And all this is said on the basis of the earth being spherical.
+
 
 [^1]: Surah Aaraf 7:137
 

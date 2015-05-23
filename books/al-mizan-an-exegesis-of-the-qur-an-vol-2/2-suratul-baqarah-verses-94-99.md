@@ -230,8 +230,8 @@ Third: The Qur'an is a guidance for those who believe in it.
 
 Fourth: It is also a good news for the believers. How can a sane person
 turn his face away from guidance and good news, even if it is brought to
-him by a supposed enemy of his?  
- So far as their professed enmity towards Gabriel was con­cerned, they
+him by a supposed enemy of his?
+So far as their professed enmity towards Gabriel was con­cerned, they
 were replied as follows:
 
 Gabriel is one of the angels of Allah; he has no authority except to
@@ -346,8 +346,8 @@ manifestly asleep, but those too who are thought to be awake.
 Almost all men have taken shelter under sensual perception; have bound
 themselves to the fetters of materialism. They are in fact asleep, even
 when they think they are awake. 'Ali (a.s.) has said: “The people are
-asleep; when they die they will wake up...”  
- This topic will be further explained in other place; other sentences of
+asleep; when they die they will wake up...”
+This topic will be further explained in other place; other sentences of
 this tradition too will be explained later
 
 [^1]: Sha'n (ضَميرُ الشّأن ) is a personal pronoun (third person,

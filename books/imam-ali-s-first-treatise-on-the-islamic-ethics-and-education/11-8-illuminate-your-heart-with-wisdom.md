@@ -46,8 +46,8 @@ What is Wisdom?
 knowledge and reasoning." In the same way that a horse is made tame by
 giving it a bridle (*hakamah*), man, too, by acquiring wisdom and by
 arriving at the right through knowledge and reasoning, is saved from
-wrong-doing.[^3]  
- Although in some traditions the word wisdom (*hikmah*) is interpreted
+wrong-doing.[^3]
+Although in some traditions the word wisdom (*hikmah*) is interpreted
 to mean "knowledge in religion" and in some other traditions it is taken
 to mean "understanding," and still in others it is taken to mean
 "knowledge about Imams," with regards to the fact that the word
@@ -82,48 +82,48 @@ has such great a capital enjoys the sublime human traits and is a
 perfect human being.
 
 But in the Qur’an and in the Islamic traditions some characteristics are
-emphasized, some of which follow:  
+emphasized, some of which follow:
 **1.** *Hikmah* is the source for salvation, steadiness and
-tranquility.[^7]  
+tranquility.[^7]
 **2.** *Hikmah* is the light for insight, scale for piety, and the
-result of honesty.[^8]  
-**3.** *Hikmah* causes a man to fear God.[^9]  
-**4.** *Hikmah* is a means to take advice from the events.[^10]  
-**5.** *Hikmah* causes us not to have interest in this world.[^11]  
+result of honesty.[^8]
+**3.** *Hikmah* causes a man to fear God.[^9]
+**4.** *Hikmah* is a means to take advice from the events.[^10]
+**5.** *Hikmah* causes us not to have interest in this world.[^11]
 **6.** *Hikmah* is to accompany righteousness and to obey the rightful
-person.[^12]  
+person.[^12]
 **7.** *Hikmah* is a guide to religion, it considers the slave more
 significant than the free one, the poor more excellent than the rich and
 the small more important than the elderly, and the miserable more
-significant than the kings.[^13]  
- 8. *Hikmah* is a means of protecting man from committing sins; it is an
-agent for human salvation.  
+significant than the kings.[^13]
+8. *Hikmah* is a means of protecting man from committing sins; it is an
+agent for human salvation.
 **9.** The *hakim* (the wise man) is a person who is strong in the face
 of events; he is a guide to people. Regarding this the Great Prophet (S)
 tells Imam ‘Ali (as): "If you become a means for God to lead one of His
 obedient believers, then it is better for you than anything on which the
-sun shines from east to west.[^14]  
-**10.** The *hakim* is a dignitary in the eyes of people.[^15]  
-**11.** The *hakim* cures the poor and endows virtues.[^16]  
-**12.** The *hakim* compensates bad behaviors with good ones[^17]  
+sun shines from east to west.[^14]
+**10.** The *hakim* is a dignitary in the eyes of people.[^15]
+**11.** The *hakim* cures the poor and endows virtues.[^16]
+**12.** The *hakim* compensates bad behaviors with good ones[^17]
 **13.** The *hakim* does not quarrel with superiors and does not
 belittle his inferiors; he does not give away what he does not own. His
 tongue is in harmony with his heart, and his speech is not in opposition
 with his action; he does not say anything on the issues which he does
 not have information about. He will not desert his responsibilities when
-he is in a plight.[^18]  
+he is in a plight.[^18]
 **14.** The *hakim* obeys his superiors, respects his equals, and uses
-justice with his inferiors.[^19]  
+justice with his inferiors.[^19]
 **15.** The *hakim* is more elegant than others in personality, more
 patient in forgiveness, and more speedy in pardoning and more open in
-ethics.[^20]  
-**16.** The *hakim* is impatient to add up to his *Hikmah*.[^21]  
-**17.** The *hakim* does not ask ungenerous people for help.[^22]  
+ethics.[^20]
+**16.** The *hakim* is impatient to add up to his *Hikmah*.[^21]
+**17.** The *hakim* does not ask ungenerous people for help.[^22]
 **18.** The *hakim* does not take delight in the praising of an ignorant
-person.[^23]  
+person.[^23]
 **19.** If he has to treat a person he does not like, the *hakim* will
-tolerate him.[^24]  
-**20.** The *hakim* knows himself.[^25]  
+tolerate him.[^24]
+**20.** The *hakim* knows himself.[^25]
 **21.** The *hakim* is near to the position of prophethood.[^26]
 
 The Agents Of The Development Of Wisdom And Its Hindrances
@@ -185,8 +185,8 @@ following words:
 
 “There are two things which have taken milk from one breast: wisdom and
 God-wariness. There are also two things which live in one place, they
-are: wealth and aggression”.[^29]  
- In Bihar al-Anwar, al-Majlisi mentions: "Luqman was asked by somebody
+are: wealth and aggression”.[^29]
+In Bihar al-Anwar, al-Majlisi mentions: "Luqman was asked by somebody
 if he was a slave of such and such a family. He answered that he was.
 Then he was asked what factors gave him the status he had then. He
 answered: “Honesty in speech, returning the deposits people had with me,
@@ -227,8 +227,8 @@ The reason why God-wariness and sincerity increase realism in man and
 let him know the truth behind the affairs is that: A sin acts like dust
 and black smoke. In the same way that in a space full of dirt and smoke
 it is impossible to see properly, the thought space of sinners and
-unbelief acts in the same manner.[^37]  
- As long as this pollution of sins lingers above us, we may not see the
+unbelief acts in the same manner.[^37]
+As long as this pollution of sins lingers above us, we may not see the
 truth. But when, through God-wariness and sincerity, this dust and dirt
 become extinct and thought space become clear, the bride of reality
 manifests herself and man can get the truth and the springs of wisdom
@@ -283,8 +283,8 @@ the world, gluttony, haughtiness, anger and indulging in lust, take away
 man’s ability to enjoy wisdom. Regarding this, Imam ‘Ali (as) has said,
 "Gluttony spoils wisdom and hinders cleverness."[^43] Elsewhere he has
 also said, "Wisdom does not arrive unless man stops committing sins.
-Lust and wisdom do not match."[^44]  
- Elsewhere Imam ‘Ali (as) has said, as well: "A man defeated by anger
+Lust and wisdom do not match."[^44]
+Elsewhere Imam ‘Ali (as) has said, as well: "A man defeated by anger
 and lust will not enjoy wisdom."[^45]
 
 In short: When man's heart is lit with piety and is irrigated by ethical
@@ -373,8 +373,8 @@ As we observe in the above expressions, the leaders of religion have
 interpreted wisdom as "the lost property of a believer." It is clear,
 when a man has lost something, he will look everywhere for it and even
 will endanger his life if that item is worthwhile. Wherever he sees it,
-he will take it.  
- In the same way, *Hikmah* (wisdom) is the reception of truth and
+he will take it.
+In the same way, *Hikmah* (wisdom) is the reception of truth and
 realistic insight. Since this is the most complex issue and the
 dissension of the 72 sects occurs because they have not found out the
 truth, and because of this they are among those who have gone astray, we
@@ -396,18 +396,18 @@ highest degree of wisdom. It is narrated from the Prophet (S) who said,
 obedient servant of God. He had strong faith and certainty. He loved God
 and God loved him, too. That is why he received the asset of wisdom from
 God. Luqman was sleeping when suddenly heard: ‘O Luqman, do you want to
-be God’s representative on earth so that you may judge among people’?  
- Luqman replied: ‘If God gives me option, I will not accept such a huge
+be God’s representative on earth so that you may judge among people’?
+Luqman replied: ‘If God gives me option, I will not accept such a huge
 responsibility. But if He orders me to do so, I will whole-heartedly
 accept because I know if I accept such a task, He will help me not to go
 astray.’
 
-The angels, whom he couldn’t see, asked Luqman: Why?  
- He answered: “It is the most hazardous job to judge between people. For
+The angels, whom he couldn’t see, asked Luqman: Why?
+He answered: “It is the most hazardous job to judge between people. For
 a judge it is a formidable job. If a person is protected by God, he is
 saved and if he does not go the right path, he will lose the way to
-paradise.  
- A person who is ashamed here but raises his head in the Hereafter is
+paradise.
+A person who is ashamed here but raises his head in the Hereafter is
 better than a person who keeps his head high here, but is ashamed in the
 Hereafter. A man who sells the Hereafter for this world will have
 neither here nor there”.
@@ -476,8 +476,8 @@ with one animal to ride on. Luqman rode on the animal leaving his son to
 walk behind him. They passed a group of people who said: “This old man
 is hard-hearted, with little compassion. He rides the animal although he
 is stronger than the boy, and he makes the boy walk behind him! This is
-an evil arrangement!”  
- Luqman told his son: “Did you hear them, and their censure of my riding
+an evil arrangement!”
+Luqman told his son: “Did you hear them, and their censure of my riding
 and your walking”? He said: “Yes, I did”.
 
 Then Luqman told his son: “Now you ride, my son, and I will walk”. So
@@ -486,16 +486,16 @@ people who said: “An evil father and an evil son! The father has not
 trained his son. The son rides while the father walks behind him,
 whereas the father is more worthy of respect and of riding the animal.
 As for the son, he has been disrespectful to his father because of this.
-Therefore, both of them are wrong-doers”!  
- Luqman asked his son: “Did you hear”? He replied: “Yes”.  
- Then Luqman said: “Let us both ride on the animal”. They both mounted
+Therefore, both of them are wrong-doers”!
+Luqman asked his son: “Did you hear”? He replied: “Yes”.
+Then Luqman said: “Let us both ride on the animal”. They both mounted
 the animal and passed by a group of people who said: “There is no mercy
 in the hearts of these two riders and God will not bless them. They are
 breaking the back of the animal by overloading it. It was better for one
 of them to walk and one to ride”.
 
-Luqman asked his son: “Did you hear”? He said: “Yes”.  
- Then Luqman said: "Let us both dismount and let the animal walk without
+Luqman asked his son: “Did you hear”? He said: “Yes”.
+Then Luqman said: "Let us both dismount and let the animal walk without
 a rider”. They drove the animal on before them while they walked. They
 passed a group of people who said: “How strange these two are! They have
 an animal, but they walk”. They blamed these two for that, just as
@@ -531,18 +531,18 @@ such an extent that if you come before Him on the Day of Judgment having
 committed the sins of all jinn and men, you still hope that He will
 forgive you.[^58]
 
-**f)** O my son! Everything has a sign by which it is recognized:  
- For religion there are three signs: knowledge, faith and acting on
-it.  
- For faith there are three signs: faith in God, His Books and His
-Prophets.  
- For a scholar there are three signs: knowledge of God, of what He has
+**f)** O my son! Everything has a sign by which it is recognized:
+For religion there are three signs: knowledge, faith and acting on
+it.
+For faith there are three signs: faith in God, His Books and His
+Prophets.
+For a scholar there are three signs: knowledge of God, of what He has
 made obligatory and what He dislikes.
 
 For one who labours (according to God’s commands) there are three signs:
 prayer, fasting and *zakat* (statutory Islamic levy on specified items
-to be used for Muslims' welfare).  
- For a *Mutakallif* (a person who is not qualified for a job, but
+to be used for Muslims' welfare).
+For a *Mutakallif* (a person who is not qualified for a job, but
 accepts it anyway) there are three signs: he quarrels with his
 superiors: he tells things he does not know; and he tries to do
 something he is not qualified for.
@@ -552,28 +552,28 @@ disobedience; he wrongs his inferiors through overcoming them, and he
 aids other wrongdoers.
 
 For the sinner there are three signs: he is treacherous, he lies, and he
-acts in opposition to his words.  
- For a hypocrite there are three signs: his tongue contradicts his
+acts in opposition to his words.
+For a hypocrite there are three signs: his tongue contradicts his
 heart, his heart contradicts his actions and his outer self contradicts
-his inner self.  
- For an envious person there are three signs: He backbites in one's
+his inner self.
+For an envious person there are three signs: He backbites in one's
 absence, flatters in one's presence and rejoices in the misfortunes of
-others.  
- For a squanderer there are three signs: He sells things that are not
-his; wears what is not his, and eats what is not his.  
- For a lazy person there are three signs: He procrastinates affairs so
+others.
+For a squanderer there are three signs: He sells things that are not
+his; wears what is not his, and eats what is not his.
+For a lazy person there are three signs: He procrastinates affairs so
 much that he is neglectful; he is neglectful until he is wasteful and he
-is wasteful until he sins.  
- For a heedless one there are three signs: negligence, diversion and
+is wasteful until he sins.
+For a heedless one there are three signs: negligence, diversion and
 forgetfulness.[^59]
 
 **g)** My son! Be aware when you are stand before God tomorrow you will
-be asked about three things:  
- About your youth and in what you wore it out;  
- About your life, in what you spent it;  
- About your wealth, how you earned it and in what you spent it. So make
-yourself ready for such a day and prepare yourself for the answers.  
- Do not regret what you have lost in this world, because if you have
+be asked about three things:
+About your youth and in what you wore it out;
+About your life, in what you spent it;
+About your wealth, how you earned it and in what you spent it. So make
+yourself ready for such a day and prepare yourself for the answers.
+Do not regret what you have lost in this world, because if you have
 little, it will not last, and if you have much, it is vulnerable.
 Therefore be vigilant and strive in your work and draw aside the curtain
 of negligence and perform the heavenly duties and renew repentance in
@@ -582,29 +582,29 @@ and before there is a space between you and what you wish to do.[^60]
 
 **h)** My son! Do not postpone repentance because death will arrive
 unexpectedly; Do not rejoice at death; do not make fun of one afflicted,
-and do not refuse to do a good deed.  
- My son! Be trustworthy so that you may live free of need. Adopt
+and do not refuse to do a good deed.
+My son! Be trustworthy so that you may live free of need. Adopt
 God-wariness as a trade, profits will come to you without capital. When
-you sin, pay alms since it purifies the consequences of it.  
- My son! Exhortation is difficult for a foolish person, in the same way
-that mountain-climbing is difficult for the old.  
- My son! Do not be sorry for a person whom you have wronged; but be
+you sin, pay alms since it purifies the consequences of it.
+My son! Exhortation is difficult for a foolish person, in the same way
+that mountain-climbing is difficult for the old.
+My son! Do not be sorry for a person whom you have wronged; but be
 sorry for evil you have commited against yourself. When your power
-induces you to wrong others, do not forget God's power over you.  
- My son! Learn from the learned what you do not know and teach people
-what you know.[^61]  
- My son! Fall on your knees in front of the scholars for the acquisition
+induces you to wrong others, do not forget God's power over you.
+My son! Learn from the learned what you do not know and teach people
+what you know.[^61]
+My son! Fall on your knees in front of the scholars for the acquisition
 of knowledge and learning. Do not quarrel with them. Let your world be a
 means to gain the Hereafter for you. But do not put this world aside
 completely because you will then be dependent on others. And do not care
-for this world to the degree that you ruin the Hereafter.  
- My son! If you get educated in your childhood, you will benefit from it
+for this world to the degree that you ruin the Hereafter.
+My son! If you get educated in your childhood, you will benefit from it
 at adulthood. And anyone who decides to learn will put forth the energy
 necessary. And anybody who wants education will try for it and will
-tolerate the hardships.[^62]  
- My son! Make a thousand friends, and a thousand is little; but do not
-make one enemy, for one is too much.[^63]  
- My son! Avoid being depressed, bad-tempered and impatient, because man
+tolerate the hardships.[^62]
+My son! Make a thousand friends, and a thousand is little; but do not
+make one enemy, for one is too much.[^63]
+My son! Avoid being depressed, bad-tempered and impatient, because man
 can not rely on himself with these traits; be patient in your works; in
 helping your brethren, be strong and treat people amicably.[^64]
 
@@ -616,11 +616,11 @@ Creator].
 
 **j)** Luqman's master told him: “Slaughter a sheep and bring me its two
 best parts”. So he brought him the heart and the tongue (of the
-sheep).  
- Luqman' master told him another day: “Go slaughter a sheep and bring me
+sheep).
+Luqman' master told him another day: “Go slaughter a sheep and bring me
 its two worst parts. Luqman once again brought the tongue and the
-heart.  
- Luqman's master asked: How can the heart and tongue be the best and the
+heart.
+Luqman's master asked: How can the heart and tongue be the best and the
 worst parts at the same time? He answered:
 
 <blockquote dir="rtl">

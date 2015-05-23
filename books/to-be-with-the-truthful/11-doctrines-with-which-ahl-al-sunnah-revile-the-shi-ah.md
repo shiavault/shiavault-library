@@ -110,8 +110,8 @@ people want to prove that ‘Ali contradicted the Messenger of Allah, and
 invented a new religion? What a greatly slandering word coming out from
 their mouths! ‘Ali is verily the very incarnation, interpreter and
 guardian of the Prophetic Sunnah, and in his regard the Messenger of
-Allah (S) said:  
- “The position ‘Ali has to me is the same that I have to my Lord.”[^10]
+Allah (S) said:
+“The position ‘Ali has to me is the same that I have to my Lord.”[^10]
 
 That is, in the same way as Muhammad (S) being the only one propagating
 on behalf of his Lord, so also is ‘Ali, being alone in propagating on
@@ -153,8 +153,8 @@ principles and legislations, inventing another religion.
 
 While any equitable researcher will find in the Shi’ah’s doctrines, a
 firm origin in the Qur’ān and Sunnah, and even in the books of those
-contracting them in these doctrines and vilifying them with.  
- Moreover, those doctrines never contain or imply anything contrary to
+contracting them in these doctrines and vilifying them with.
+Moreover, those doctrines never contain or imply anything contrary to
 reason ('*Aql*), or narration (naql) or morals. For proving to you, dear
 reader, the veracity of my claims, I will review with you those
 doctrines (‘aqā’id).
@@ -183,9 +183,9 @@ Prophet or the Imam?
 Far it be from it and verily it is not so; we never see in this saying
 but a confirmation to the Book of Allah and His Prophet’s Sunnah, and
 that which goes on with the sound reason, without contradicting it, but
-rather that which elevates and honours the Prophet and the Imam.  
- We initiate our discussion with following up the Holy Qur’ān.  
- Allah, the Exalted, said:
+rather that which elevates and honours the Prophet and the Imam.
+We initiate our discussion with following up the Holy Qur’ān.
+Allah, the Exalted, said:
 
 ***“Verily, verily God intendeth but to keep off from you (every kind
 of) uncleanness O’ ye the people of the House, and purify you (with) a
@@ -193,8 +193,8 @@ thorough purification)....” (33:33)***
 
 If removing the uncleanness that includes all kinds of mischiefs, and
 purifying from all sins, do not denote ‘ismah, but what does it mean
-then??  
- The Almighty Allah says:
+then??
+The Almighty Allah says:
 
 ***“Verily those who guard (themselves against evil) when an evil
 thought from the Satan afflicteth them, they become mindful (of God and
@@ -204,8 +204,8 @@ So if the pious believer bring protected by Allah against the stratagems
 of the Satan, when trying to provoking and misleading him, so as to
 become mindful and see the truth and follow it, what to say then
 regarding those whom were chosen by Allah the Glorious, removing
-uncleanness from and purifying them a thorough purification??  
- Allah says in another verse:
+uncleanness from and purifying them a thorough purification??
+Allah says in another verse:
 
 ***“Then made We the inheritors of the Book (Qur’ān) those whom chose We
 from among Our servants ...” (35:32).***
@@ -223,9 +223,9 @@ there indicating infallibility for the Imams, like His saying,
 “....leaders guiding (the people) by Our command”, beside other verses,
 but we suffice with these ones due to brevity.”
 
-After the Holy Qur’ān, we cite some proofs from the Prophetic Sunnah:  
- The Messenger of Allah (S) said:  
- “O people, I am leaving among you that which if you hold on to, you
+After the Holy Qur’ān, we cite some proofs from the Prophetic Sunnah:
+The Messenger of Allah (S) said:
+“O people, I am leaving among you that which if you hold on to, you
 shall never go astray: the Book of Allah and my kindred, my
 household.”[^13]
 
@@ -237,17 +237,17 @@ Due to the fact that the one holding on to them both (the Book and
 ‘Itrah) will be safe against astrayal and misguidance. So this hadith
 indicated clearly that lapse can never be found in the Book and ‘Itrah.
 
-The Messenger of Allah (S) has also said:  
- “Verily, the parable of my ahl al-bayt is that of the boat of Noah;
+The Messenger of Allah (S) has also said:
+“Verily, the parable of my ahl al-bayt is that of the boat of Noah;
 Whoever gets aboard it is saved, and whoever stays away from it is
-drowned.”[^14]  
- As clearly seen, this hadith expressly stating that Ahl al-Bayt Imams
+drowned.”[^14]
+As clearly seen, this hadith expressly stating that Ahl al-Bayt Imams
 (‘a) being infallible against (committing) sins, so anyone getting
 aboard their ark shall be saved, while that staying away from it shall
 be drowned in misguidance (dalālah).
 
-Further, the Messenger of Allah said:  
- “Whoever desires to live my life and dies my death, and enters the
+Further, the Messenger of Allah said:
+“Whoever desires to live my life and dies my death, and enters the
 heavens with which my Lord has promised me, which is the Land of the
 Leal (jannat al-khuld), he should follow the guide of ‘Ali and his
 offspring after him. They shall verily never take you out of the door of
@@ -259,15 +259,15 @@ and his progeny, being infallible against any lapse, since they never
 bring their followers into misguidance. And it is intuitive that anyone
 liable to commit a lapse, can never guide other people.
 
-The Messenger of Allah (S) said:  
- “I am the warner, and ‘Ali is the guide. And the rightly guided will be
+The Messenger of Allah (S) said:
+“I am the warner, and ‘Ali is the guide. And the rightly guided will be
 guided by you O ‘Ali after me.”[^16]
 
 Again this hadith explicitly shows the Imam’s being infallible, as it is
-unhidden for those who have understanding.  
- Al-’Imām ‘Ali himself has proved infallibility to be enjoyed by him and
-the Imams among his sons when he said:  
- “So wither are you going to, and how are you then turned away? Ensigns
+unhidden for those who have understanding.
+Al-’Imām ‘Ali himself has proved infallibility to be enjoyed by him and
+the Imams among his sons when he said:
+“So wither are you going to, and how are you then turned away? Ensigns
 (of guidance) are standing, indications (of virtue) are clear, and the
 miracles (of light) have been fixed. Where are you being taken astray
 and how are you groping while you have among you the descendants of the
@@ -326,8 +326,8 @@ a certain case, might vanish with the loss of the cause originating it,
 that is the taqwā (piety). As when the bondman being distant from piety
 of Allah, he shall never be protected by Allah, while the Imam, who is
 chosen by Allah the Glorified, never deviates or turns aside from taqwā
-and God-fearing.  
- In the Holy Qur’ān a story is cited about our master Yusuf (peace be
+and God-fearing.
+In the Holy Qur’ān a story is cited about our master Yusuf (peace be
 upon him):
 
 ***“And indeed she longed for him, and he (also) would have longed for
@@ -351,18 +351,18 @@ the Prophet (S), being twelve Imams, no more no less. They were
 mentioned by the Messenger of Allah (S) by name and number,[^18] as
 follows:
 
-1. Al-’Imām ‘Ali ibn Abi Tālib.  
- 2. Al-’Imām al-Hasan ibn ‘Ali.  
- 3. Al-’Imām al-Husayn ibn ‘Ali.  
- 4. Al-’Imām ‘Ali ibn al-Husayn (Zayn al-‘Abidin).  
- 5. Al-’Imām Muhammad ibn ‘Ali (al-Bāqir).  
- 6. Al-’Imām Ja’far ibn Muhammad (al-Sādiq).  
- 7. Al-’Imām Musā ibn Ja‘far (al-KāZim)  
- 8. Al-’Imām ‘Ali ibn Musā (al-Ridā).  
- 9. Al-’Imām Muhammad ibn ‘Ali (al-Jawād).  
- 10. Al-’Imām ‘Ali ibn Muhammad (al-Hādi).  
- 11. Al-’Imām al-Hasan ibn ‘Ali (al-‘Askari).  
- 12. Al-’Imām Muhammad ibn al-Hasan (al-Mahdi al-MuntaZar).
+1. Al-’Imām ‘Ali ibn Abi Tālib.
+2. Al-’Imām al-Hasan ibn ‘Ali.
+3. Al-’Imām al-Husayn ibn ‘Ali.
+4. Al-’Imām ‘Ali ibn al-Husayn (Zayn al-‘Abidin).
+5. Al-’Imām Muhammad ibn ‘Ali (al-Bāqir).
+6. Al-’Imām Ja’far ibn Muhammad (al-Sādiq).
+7. Al-’Imām Musā ibn Ja‘far (al-KāZim)
+8. Al-’Imām ‘Ali ibn Musā (al-Ridā).
+9. Al-’Imām Muhammad ibn ‘Ali (al-Jawād).
+10. Al-’Imām ‘Ali ibn Muhammad (al-Hādi).
+11. Al-’Imām al-Hasan ibn ‘Ali (al-‘Askari).
+12. Al-’Imām Muhammad ibn al-Hasan (al-Mahdi al-MuntaZar).
 
 These are the Twelve Imams believed to be infallible by the Shi’ah, so
 as Muslims not to be beguiled and deceived. The Shi’ah, long ago and
@@ -387,11 +387,11 @@ their (Shi’ah’s) saying: “That the Ahl al-Bayt Imams (peace be upon
 them) have been distinguished by Allah the Glorified with a knowledge
 that no one shared them with. And that the Imam being the most
 knowledgeable of his time, with no possibility that he being questioned
-by someone and fails to give a reply!  
- Is there any evidence for this claim?
+by someone and fails to give a reply!
+Is there any evidence for this claim?
 
-Let’s begin our discussion, as usual, by the Holy Qur’ān.  
- Allah, the Glorified and Most High, says in His Book:
+Let’s begin our discussion, as usual, by the Holy Qur’ān.
+Allah, the Glorified and Most High, says in His Book:
 
 ***“Then made We the inheritors of the Book (Quran) those whom chose We
 from among Our servants...” (35:32),***
@@ -410,8 +410,8 @@ dumbfounded them, making them to admit his knowledgeability.[^19][^20]
 If this Imam being only fourteen years during this conversation with the
 fuqahā’, who admitted his knowledgeability, so how would it be strange
 then the Shi’ah’s belief in their knowledgeability, while Ahl al-Sunnah
-‘ulamā’ and leaders acknowledge the same for them.  
- But when intending to interpret the Qur’ān by the Qur’ān, we shall see
+‘ulamā’ and leaders acknowledge the same for them.
+But when intending to interpret the Qur’ān by the Qur’ān, we shall see
 many verses indicating one meaning, stating that Allah, for an extreme
 wisdom, distinguished the Imams of the Prophet’s Household with a given
 knowledge of His own, so as to be leaders of guidance and lights for
@@ -451,8 +451,8 @@ knowledge) but kept them out. With us guidance is to be sought and
 blindness (of misguidance) is to be changed into brightness. Surely
 Imams (divine leaders) will be from the Quraysh. They have been planted
 in this line through Hāshim. It would not suit others nor would others
-be suitable as heads of affairs.”[^22]  
- Allah, the Exalted, said:
+be suitable as heads of affairs.”[^22]
+Allah, the Exalted, said:
 
 ***“Ask the followers of the Remembrance if ye know not.” (16:43).***
 
@@ -510,8 +510,8 @@ recently.
 In his book ‘*Aqa’id al-’Imāmiyyah*, al-Shaykh Muhammad Ridā al-MuZaffar
 says: “Al-Badā’ in this meaning is quite impossible to be ascribed to
 Allah, as it denotes ignorance and incompetence, which can enver be
-possible for the Most High God, and never believed by the Imāmiyyah.”  
- It is reported that Al-’Imām al-Sādiq (‘a) said: “Whoever claims that
+possible for the Most High God, and never believed by the Imāmiyyah.”
+It is reported that Al-’Imām al-Sādiq (‘a) said: “Whoever claims that
 something seemed to be done by Allah in a repentful way (i.e. repented
 for not doing it before), we consider him as disbelieving in Allah the
 Great.” He also said: “Whoever alleges that something appeared newly for
@@ -527,13 +527,13 @@ Glorified and the Most High, in the verse:
 This belief is held by the Sunnis in the same way as held by the Shi‘ah.
 So why the Shi‘ah are vilified while Ahl al-Sunnah are exempted, whereas
 they (Sunnis) claim that Allah, the Glorified, alters the decrees and
-changes the prescribed destinies and sustenances (of mankind).  
- Ibn Mardawayh and Ibn ‘Asākir have reported from ‘Ali (‘a) that he once
+changes the prescribed destinies and sustenances (of mankind).
+Ibn Mardawayh and Ibn ‘Asākir have reported from ‘Ali (‘a) that he once
 inquired the Messenger of Allah (S) about the verse: “Effaceth out God
 whatever He pleaseth and confirmeth He (similarly), and with Him is the
 Mother (Basic Source) of the Book.” In his reply, the Messenger of Allah
-(S) said:  
- “I will verily delight you and also my *Ummah* after me with its
+(S) said:
+“I will verily delight you and also my *Ummah* after me with its
 interpretation. Charity in its due aspect, and to be kind to the
 parents, and doing the good (ma‘ruf), altogether render wretchedness
 (shaqa’) into bliss and increase in life, and safeguard against evil
@@ -543,11 +543,11 @@ In the book al-Shu‘ab, Ibn al-Mundhir, Ibn Abi Hātam and al-Bayhaqi
 reported from Qays ibn ‘Ubbād that he said: On every tenth night of the
 inviolable months, there is a certain thing (amr) for Allah, but on the
 tenth of Rajab, Allah effaces what He will, and establishes He (what He
-will).  
- ‘Abd ibn Hamid, Ibn Jarir and Ibn al-Mundhir have reported that ‘Umar
+will).
+‘Abd ibn Hamid, Ibn Jarir and Ibn al-Mundhir have reported that ‘Umar
 ibn al-Khattāb, while circumambulating round the House (of Allah),
-said:  
- “My God, if You have prescribed upon me a wretchedness (shaqāwah) or a
+said:
+“My God, if You have prescribed upon me a wretchedness (shaqāwah) or a
 sin (I implore you to) efface it, as You efface what You will and
 establish (what You will), and with You is the Mother (Basic Source) of
 the Book. (I beg You to) make it bliss and forgiveness.”[^25]
@@ -555,8 +555,8 @@ the Book. (I beg You to) make it bliss and forgiveness.”[^25]
 In his Sahih,[^26] al-Bukhāri reported an amazing and strange story,
 about the ascension (to heaven) of the Prophet (may God’s peace and
 benediction be upon him and his Progeny), and his meeting with his Lord,
-beside what is said by the Messenger (S):  
- “...Then fifty prayers were prescribed upon me, when I came toward Musā
+beside what is said by the Messenger (S):
+“...Then fifty prayers were prescribed upon me, when I came toward Musā
 (‘a) who said: What have you done? I said: Fifty prayers are prescribed
 upon me. He said: I am better aware of people than you, as I have worked
 with and treated the Children of Israel so strictly, but your *Ummah*
@@ -651,10 +651,10 @@ rumours against him, with exaggerating regarding the simplest issues, in
 more horrible than which he may believe.
 
 This reminds me of what is said by our master Jesus (peace be upon him)
-when addressing the Jews:  
- “You look at the straw in the eyes of people, but you never see the
-wood in your eyes.”  
- Or (reminds of) the proverb saying: “She infected me with her illness
+when addressing the Jews:
+“You look at the straw in the eyes of people, but you never see the
+wood in your eyes.”
+Or (reminds of) the proverb saying: “She infected me with her illness
 and slipped away.” Some may object that the term badā’ was never used by
 Ahl al-Sunnah, and that this story, though giving the meaning of
 changing and altering the judgement, but it never confirms decisively
@@ -693,8 +693,8 @@ his same image. He asked each one of them to give him from what he owns.
 The bald and the leper repelled him (refused to give him), so Allah
 restored them to the same condition they were in. While the blind man
 gave him (of what he owned), as a result of which Allah increased in his
-property, and kept him wont to see. [^29]  
- Therefore I address my brothers with this verse:
+property, and kept him wont to see. [^29]
+Therefore I address my brothers with this verse:
 
 ***“O’ ye who believe! Let not a people laught at (another) people (to
 scorn) who haply may be better than them; nor let women laugh at other
@@ -746,8 +746,8 @@ only through these beliefs.
 What is amazing about Ahl al-Sunnah, being that they disapprove of
 creeds (held by the Shi’ah) in which they themselves believe, and with
 which their books, Sihāh and Musnads are replete, testifying against
-them.  
- We can read together what is said by Ahl al-Sunnah regarding the issue
+them.
+We can read together what is said by Ahl al-Sunnah regarding the issue
 of taqiyyah:
 
 — It is reported that Ibn Jarir and Ibn Abi Hātam, with the chain of
@@ -898,8 +898,8 @@ Ahl al-Bayt Imams themsleves, to safeguard themselves and their
 followers and lovers against all sorts of danger and damage, and sparing
 their lives, and reforming the conditions of the Muslims who were
 afflicted with trial in their Din, as occurred to’Ammar ibn Yāsir (may
-God be pleased with him) or even more.  
- While the Sunnites were far from such a trial since, most the time,
+God be pleased with him) or even more.
+While the Sunnites were far from such a trial since, most the time,
 they were on good terms with the rulers, as a result of which they were
 never subjected to murder, looting and injustice. So it was quite
 natural for them to negate taqiyyah, and vilify those practising it,
@@ -973,13 +973,13 @@ positions. Regarding the former one, i.e. hypocrisy (nifāq), Allah said:
 but when they go apart to their devils, they say, “Surely we are with
 you, verily, we did but mock.” (2:14)***
 
-That means: outward faith + inward kufr = hypocrisy (nifāq).  
- While regarding the second situation, i.e. taqiyyah, Allah, the
+That means: outward faith + inward kufr = hypocrisy (nifāq).
+While regarding the second situation, i.e. taqiyyah, Allah, the
 Glorified and Most High, said: ***“And said a man who was a believer,
 from among the people of Pharaoh; who used to conceal his faith ...”***
 which means: outward disbelief (kufr) + inward faith (imān) =
-taqiyyah.  
- The believing man of the people of Pharaoh used to conceal his faith
+taqiyyah.
+The believing man of the people of Pharaoh used to conceal his faith
 inwardly, with no one being aware of it except Allah, pretending before
 Pharaoh and all people of his being the follower of the din of Pharaoh.
 (Allah referred to him in His Holy Book as a sign of extolness and
@@ -990,8 +990,8 @@ regard of taqiyyah, so as not to be beguiled by what falsely and
 calumniously claimed about them.
 
 In his book ‘Aqa’id al-’Imāmiyyah, al-Shaykh Muhammad Ridā al-Muzaffar
-is quoted to have said:  
- “There are certain rules for taqiyyah, in respect of its obligation and
+is quoted to have said:
+“There are certain rules for taqiyyah, in respect of its obligation and
 non-obligation, in accordance with the difference of situations of fear
 from damage. They are stated classified of fear from damage. They are
 stated classified under their relevant chapters in the fiqhi books sof
@@ -1067,8 +1067,8 @@ ye mutually agree (to vary) after the fixed reward; Verily God is
 All-Knowing, All-Wise.”***
 
 They also concur that the Messenger of Allah (S) has permitted this kind
-of marriage, and the Sahābah exercised it during his lifetime.  
- But they (the Shi’ah and Sunnah) differ regarding its being abrogated
+of marriage, and the Sahābah exercised it during his lifetime.
+But they (the Shi’ah and Sunnah) differ regarding its being abrogated
 or not. Ahl al-Sunnah believe in its being abrogated and forbidden after
 it was halāl (lawful), and that the abrogation was made by the
 (Prophetic) Sunnah not by the Qur’ān. Whereas the Shi’ah believe in its
@@ -1109,8 +1109,8 @@ abrogated afterwards. But they differ concerning who has abrogated it,
 some saying that the Messenger of Allah (S) has forbidden it before his
 death. And some other hold that it was ‘Umar ibn al-Khattāb who forbade
 it, claiming that his words being hujjah (authority) in their view, due
-to the hadith of the Messenger of Allah (S):  
- “Adhere to my sunnah and the Sunnah of the rightly-guided successors
+to the hadith of the Messenger of Allah (S):
+“Adhere to my sunnah and the Sunnah of the rightly-guided successors
 after me. Hold on to it and cling on it stubbornly.”
 
 Concerning those believing in its being unlawful due to its being
@@ -1137,14 +1137,14 @@ similar Qur’ānic verses, that whoever not adhering to the Qur’ān and
 Prophetic Sunnah is verily but a disbeliever and strayed (misled).
 
 Further, many proofs are found in the noble Prophetic Sunnah, of which
-we suffice with this hadith uttered by the Messenger of Allah (S):  
- “Whatever deemed halāl (lawful) by Muhammad is halāl (for you) till the
+we suffice with this hadith uttered by the Messenger of Allah (S):
+“Whatever deemed halāl (lawful) by Muhammad is halāl (for you) till the
 Day of Resurrection and his harām is harām (unlawful) till the Day of
-Resurrection”.  
- So no one is entitled to deem lawful or unlawful regarding any matter
+Resurrection”.
+So no one is entitled to deem lawful or unlawful regarding any matter
 on which a text (nass) and rule is revealed and established by Allah or
-his Messenger (S).  
- Due to all that is mentioned, we tell those trying to convince us that
+his Messenger (S).
+Due to all that is mentioned, we tell those trying to convince us that
 the acts and exertions (ijtihādat) of the Rightly-guided Caliphs are
 binding, i.e. we should follow them, we tell them this verse:
 
@@ -1188,13 +1188,13 @@ revealed in the Book of Allah, and we exercised it during the lifetime
 of the Messenger of Allah (S) with no verse being revealed deeming it
 unlawful or its being forbidden (by anyone) till he (S) died. Then a man
 exerted his opinion, ascribing it to Muhammad, who is said to be
-‘Umar.[^43]  
- It is made quite clear that the Messenger of Allah (S) has never
+‘Umar.[^43]
+It is made quite clear that the Messenger of Allah (S) has never
 forbidden it till the end of his life, as expressed by this Companion
 who ascribed forbiddance to ‘Umar so expressly and with no any
 obscurity, adding that he exerted his opinion in everything, as he
-desired.  
- Also Jābir ibn ‘Abd Allāh al-’Ansari so explicitly says: We used to
+desired.
+Also Jābir ibn ‘Abd Allāh al-’Ansari so explicitly says: We used to
 consummate temporary marriage (mut‘ah) with (only) a handful of dates
 and flour during the lifetime of the Messenger of Allah (S), and era of
 Abu Bakr, until it was forbidden by ‘Umar in the case of ‘Amr ibn
@@ -1216,23 +1216,23 @@ both.[^45]
 
 Therefore I personally believe that some Companions ascribed prohibition
 of mut‘ah to the Messenger of Allah (S), for the sake of justifying the
-position of ‘Umar ibn al-Khattab, and approving of his opinion.  
- Otherwise, how would the Messenger of Allah (S) forbid what is deemed
+position of ‘Umar ibn al-Khattab, and approving of his opinion.
+Otherwise, how would the Messenger of Allah (S) forbid what is deemed
 lawful (halāl) in the Qur’ān, as it is infeasible for us to find any of
 the Islamic rules that being deemed halāl by Allah, the Glorified, while
 being forbidden by His Messenger. Such a claim can never be expressed
 but only by that who being obstinate and fanatic. Even when presuming so
 for argument’s sake that the Messenger (S) has forbidden it, it was not
 for al-’Imām ‘Ali (‘a), the nearest in kinship to the Prophet (S) and
-the most knowledgeable in the (Islamic) rules, to say:  
- “Mut’ah is verily a blessing showered from Allah upon His bondmen, and
+the most knowledgeable in the (Islamic) rules, to say:
+“Mut’ah is verily a blessing showered from Allah upon His bondmen, and
 had not been ‘Umar’s forbiddance no one would have committed fornication
 but the wretched.”[^46]
 
 It is to be known that ‘Umar ibn al-Khattab himself has never ascribed
 the prohibition to the Prophet (S), but rather he uttered his
-widely-known proclamation, so outspokenly:  
- “Two enjoyments were commonly practised during the lifetime of the
+widely-known proclamation, so outspokenly:
+“Two enjoyments were commonly practised during the lifetime of the
 Messenger of Allah (S), from which both I forbid and on which I punish:
 mut‘t al-hajj (pilgrimage) and enjoyment (mut‘ah) with women.”[^47]
 
@@ -1241,8 +1241,8 @@ presence of great differences among the Sunnis concerning this issue, as
 some of them deem it lawful, heeding in this regard to the Messenger’s
 precepts, while some others deeming it harām (unlawful) following the
 opinion of ‘Umar ibn al-Khattab. Al-’Imām Ahmad is reported to have
-said:  
- — Ibn ‘Abbās said: The Prophet (S) practised the Mut‘ah (temporary
+said:
+— Ibn ‘Abbās said: The Prophet (S) practised the Mut‘ah (temporary
 marriage) once, when ‘Urwah ibn al-Zubayr said: Mut’ah is forbidden by
 Abu Bakr and ‘Umar! Thereat Ibn ‘Abbās said: What is that uttered by
 ‘Uryah? (belittlement for ‘Urwah)? He said: He says that mut‘ah was
@@ -1276,8 +1276,8 @@ dowries as a fixed reward...” [^50]
 
 True, such should be the ‘ulamā’, free in their creed, never being
 influenced by any prejudice or bigotry, and never fearing on the way of
-Allah the blame of any blamer.  
- After this brief discussion, no justification or plea is left for Ahl
+Allah the blame of any blamer.
+After this brief discussion, no justification or plea is left for Ahl
 al-Sunnah’s vilification and defamation against the Shi’ah due to their
 permitting the marriage of mut‘ah, beside the fact that the decisive
 proof and evident argument being on the side of the Shi’ah.
@@ -1338,8 +1338,8 @@ we can notice that they unanimously believe in its being guarded against
 any mutilation.
 
 Al-Shaykh al-MuZaffar, the author of the book ‘Aqā’id al-’Imāmiyyah,
-says in this regard:  
- “We believe that the Qur’ān being the Divine revelation (wahy) sent
+says in this regard:
+“We believe that the Qur’ān being the Divine revelation (wahy) sent
 down from Allah, the Exalted, upon His noble Prophet, containing an
 exposition of all things. And also it is His everlasting miracle
 disabling all mankind of keeping pace with it in respect of rhetoric and
@@ -1380,8 +1380,8 @@ sources? [^51]
 Let’s turn aside from this and return good for evil. What an excellent
 words uttered in this regard, those said by the Professor Muhammad
 al-Midyani, Dean of al-Shari‘ah College in al-’Azhar University, when
-writing:  
- “And as regards the claims that the Imāmiyyah believe in presence of
+writing:
+“And as regards the claims that the Imāmiyyah believe in presence of
 loss in the Qur’ān, I seek God’s protection... they are no more than
 narrations reported in their books, the like of which are reported in
 our books. The investigators from among both the sects have refuted
@@ -1401,8 +1401,8 @@ references. Al-’Azhar then asked the Government to stop publication of
 argument the aspects of falsehood and deviation in it.The Government
 responded to this request and confiscated the book. Its author then
 filed a case demanding an indemnity, but the Administrative Judiciary in
-the State Cabinet dismissed the case.  
- “Should we say then that Ahl al-Sunnah deny the sanctity of the Qur’ān?
+the State Cabinet dismissed the case.
+“Should we say then that Ahl al-Sunnah deny the sanctity of the Qur’ān?
 Or believe in presence of loss in the Qur’ān due to a narration reported
 by so and so? Or due to a book compiled by so and so?
 
@@ -1447,8 +1447,8 @@ anything, they would prove their acquittal from it, with attributing it
 to me. Then, with passage of days, and through investigation, I
 recognized the truth of their claims, of which I was convinced, for
 which I praise God. Hereunder I shall present the evidences proving my
-claim in this topic:  
- Al-Tabarrāni and al-Bayhaqi are reported to have said: There are two
+claim in this topic:
+Al-Tabarrāni and al-Bayhaqi are reported to have said: There are two
 surahs (dropped) in the Qur’ān, one being:
 
 <blockquote dir="rtl">
@@ -1485,8 +1485,8 @@ suratay al-Qunut (two surahs of supplication) that were read by ‘Ummar
 ibn al-Khattab during qunut in his prayers, and are found in the mushafs
 of Ibn ‘Abbās and of Zayd ibn Thābit.[^53]
 
-Al-’Imām Ahmad ibn Hanbal in his Musnad, is reported to have said:  
- Ubbay ibn Ka’b asked someone (Zirr ibn Hubaysh) How many verses do you
+Al-’Imām Ahmad ibn Hanbal in his Musnad, is reported to have said:
+Ubbay ibn Ka’b asked someone (Zirr ibn Hubaysh) How many verses do you
 recite in the Surat al-’Ahzāb? He replied: Seventy and a few verses. He
 (Ubayy) said: ‘Never, I read it with the Messenger of Allah (S), and it
 is about the length of the Surat al-Baqarah or lengthier, and in it is
@@ -1524,8 +1524,8 @@ people in salāt al-tarawih, by so saying will verily and undoubtedly
 confuse the readers and create doubts inside their hearts.
 
 Again al-’Imām Ahmad ibn Hanbal reported in his Musnad,[^56] from Ubayy
-ibn Ka’b that he said: The Messenger of Allah (S) said:  
- “Allah, the Glorious and Most High, has commanded me to recite for you
+ibn Ka’b that he said: The Messenger of Allah (S) said:
+“Allah, the Glorious and Most High, has commanded me to recite for you
 the Qur’ān: Those who disbelieve among the people of the Scripture could
 not ..., (Ubayy said:) then he (S) read in it:
 
@@ -1578,8 +1578,8 @@ meetings) and they were absent,and I used to come near while they be
 away. I swear by Allah, if you wish, I will stay home and never talk to
 anyone or teach anyone to read, till my death.” ‘Umar said: “I seek
 God’s forgiveness; you know that Allah has gifted you with knowledge, so
-teach people whatever you know.”  
- He (Ibn ‘Asākir) also said: ‘Umar passed by a youth reading in a
+teach people whatever you know.”
+He (Ibn ‘Asākir) also said: ‘Umar passed by a youth reading in a
 mushaf:
 
 <blockquote dir="rtl">
@@ -1636,8 +1636,8 @@ said: By God, I heard it from the Prophet’s mouth (mouth to mouth).”
 
 In another narration he added: “... and yet they reject my assertion of
 something I heard from the Messenger of Allah, may God’s peace and
-benediction be upon him and his Progeny.[^59]  
- Again, in another report he said:
+benediction be upon him and his Progeny.[^59]
+Again, in another report he said:
 
 <blockquote dir="rtl">
   <p>
@@ -1647,8 +1647,8 @@ benediction be upon him and his Progeny.[^59]
 
 Then he said: “The Prophet (s) has read it to me, from his mouth, and
 yet those people insist till it was about to reject my
-assertion.”[^60]  
- All these narrations indicate that in the Qur’ān we have today the
+assertion.”[^60]
+All these narrations indicate that in the Qur’ān we have today the
 words **"وما خلق"** are added.
 
 Al-Bukhāri, in his Sahih, on the authority of Ibn Abbas reported that
@@ -1677,8 +1677,8 @@ parents).[^61]
 
 In his Sahih,[^62] under the “bāb: Law anna libn Adam wādiyayn labtaghā
 thālithan” (If the son of Adam has two valleys he would ask for a third
-one), Al-’Imām Muslims said:  
- “Abu Musā al-‘Ash’ari sent for the qurrā’ (reciters) of Basrah. Three
+one), Al-’Imām Muslims said:
+“Abu Musā al-‘Ash’ari sent for the qurrā’ (reciters) of Basrah. Three
 hundred qurrā’ of the Qur’ān came to him. He told them: “You are the
 elect of the people of Basrah’. He asked them to recite, which they did.
 (He told them): ‘Do not remain long without reciting the Qur’ān, lest
@@ -1757,8 +1757,8 @@ Performing Two Prayers Together
 The other point which is exploited to revile the Shi’ah with, being
 their performing salāt al-zuhr (noon prayers) and salāt al-’asr
 (afternoon prayers) together, and so also salāt al-maghrib and
-al-’ishā’.  
- While vilifying the Shi’ah (for the alleged defect), Ahl al-Sunnah, in
+al-’ishā’.
+While vilifying the Shi’ah (for the alleged defect), Ahl al-Sunnah, in
 contrast, assert their being adherent to preserving the salāt, complying
 to Allah’s words when saying:
 
@@ -1767,8 +1767,8 @@ Ordinance.” (4:103)***
 
 Before issuing any judgement for or against them, we have to discuss the
 subject from all dimensions and aspects, reviewing what the two sects
-hold in its regard.  
- There is unanimous agreement among Ahl al-Sunnah concerning the
+hold in its regard.
+There is unanimous agreement among Ahl al-Sunnah concerning the
 permissibility of performing salāt al-zuhr and al-‘asr (noon and
 afternoon prayers) together at ‘Arafāt (Mount), which is called jam‘
 taqdim (precedent joining), and also the permissibility of performing
@@ -1781,8 +1781,8 @@ The disagreement between the Shi’ah and Ahl al-Sunnah lies in the
 permissibility of performing together the two obligatory prayers of zuhr
 and ‘asr, and also the maghrib and ‘isha’ prayers, throughout the whole
 days of the year during settlement, without the presence of excuse of
-travel.  
- The Hanafi school believes in its impermissibility even during travel,
+travel.
+The Hanafi school believes in its impermissibility even during travel,
 despite the existence of express texts permitting it (jam‘) especially
 during trave, contradicting thus the unanimity of the *Ummah*: Shi’ah
 and Sunnah.
@@ -1826,16 +1826,16 @@ honorary guest. I availed myself of the opportunity of that meeting, and
 asked him about performing two salāts together, thus:
 
 — O master! Can the Muslim perform two obligatory prayers together in
-case of exigency?  
- He replied: He can do so in all cases with no necessity of presence of
-exigency.  
- I said: What is your proof for this?  
- He said: Since the Messenger of Allah (S) has performed two obligatory
+case of exigency?
+He replied: He can do so in all cases with no necessity of presence of
+exigency.
+I said: What is your proof for this?
+He said: Since the Messenger of Allah (S) has performed two obligatory
 prayers in al-Madinah with no travel, fear, raining or exigency, but
 only for keeping us away from troubles. This fact, thanks to God, is
 confirmed and established for us through the pure Imams, and it is also
-established for you.  
- I said: I wonder how could it be established for us while I have never
+established for you.
+I said: I wonder how could it be established for us while I have never
 heard of it before, nor seen any Sunni applying it. Rather, on the
 contrary, the Sunnis believe in the invalidity of the salāt if performed
 even one minute before the adhān (call for prayer), so what about that
@@ -1856,17 +1856,17 @@ presence (hadar) other than times of fear or raining or travel.
 
 I could not hide my wonder and astonishment, while being doubtful that
 al-Bukhāri and Muslim with them might be falsified, deciding privately
-to review these two books in Tunisia.  
- After that proof, al-Sayyid al-Sadr sought to know my opinion.  
- I said: You are quite right, and what you say is the very truth. I
-would like to put forth another question.  
- He said: Please do.  
- I said: Is it permissible to perform together the four salawāt
+to review these two books in Tunisia.
+After that proof, al-Sayyid al-Sadr sought to know my opinion.
+I said: You are quite right, and what you say is the very truth. I
+would like to put forth another question.
+He said: Please do.
+I said: Is it permissible to perform together the four salawāt
 (prayers), as practised by a lot of people who perform the prayers of
 zuhr, ‘asr, maghrib and ‘isha’ together out of (due) time (qadā’) when
-returning home at night?  
- He said: This is impermissible.  
- I said: You yourself said before that the Messenger of Allah (S) used
+returning home at night?
+He said: This is impermissible.
+I said: You yourself said before that the Messenger of Allah (S) used
 to perform the prayers separately and altogether, the practice through
 which we recognized the due times (mawāqit), approved by Allah the
 Glorified.
@@ -2011,10 +2011,10 @@ All Shi’ah ‘ulamā’ unanimously agree on the preferability of prostrating
 on the earth, in accordance with the tradition they report from the
 Messenger of Allah (S): “The best prostration is on the earth.”
 
-In another narration, he (S) said:  
- “It is not permissible to prostrate but only on the earth, or any plant
-coming out from it, provided it be unedible and unwearable.”  
- The author of Wasā’il al-Shi’ah, reports from Muhammad ibn ‘Ali ibn
+In another narration, he (S) said:
+“It is not permissible to prostrate but only on the earth, or any plant
+coming out from it, provided it be unedible and unwearable.”
+The author of Wasā’il al-Shi’ah, reports from Muhammad ibn ‘Ali ibn
 al-Husayn, with the authority of Hishām ibn al-Hakam, from Abu ‘Abd
 Allāh (‘a) that he said: Prostration on the earth is preferable since it
 is more extremely indicative of modesty, and submission to Allah, the
@@ -2069,17 +2069,17 @@ a handful of stones in the palm of my hand, cooling them and shifting
 them to the other palm, and when prostrating I would place them to put
 my forehand on.[^75]
 
-Added to this, the hadith uttered by the Prophet (S):  
- “The earth is made for me a place for prostration (masjid) and a
-purifier.”[^76]  
- He also said:  
- “The earth as a whole is made to us a place for prostration and its
-soil made a purifier.”[^77]  
- Why are Muslims then be fanatic against the Shi’ah because of their
-prostration on earth instead of zarābi (moquette)?  
- And how dare they to charge them with impiety, reviling and defaming
-them, falsely and calumniously with the charge of being idolaters?  
- Further how do the Saudis beat them (the Shi‘ah) merely for keeping the
+Added to this, the hadith uttered by the Prophet (S):
+“The earth is made for me a place for prostration (masjid) and a
+purifier.”[^76]
+He also said:
+“The earth as a whole is made to us a place for prostration and its
+soil made a purifier.”[^77]
+Why are Muslims then be fanatic against the Shi’ah because of their
+prostration on earth instead of zarābi (moquette)?
+And how dare they to charge them with impiety, reviling and defaming
+them, falsely and calumniously with the charge of being idolaters?
+Further how do the Saudis beat them (the Shi‘ah) merely for keeping the
 turbah (piece of clay on which foreheads are put) in their pockets or
 bags?
 
@@ -2190,8 +2190,8 @@ the same shapes they were before, dignifying some and humiliating some
 others, distinguishing between the rightful from falsifiers and the
 oppressed from the oppressors. This shall occur during the reappearance
 and rise of al-Mahdi of Al Muhammad, upon him and them be the best
-benediction and peace.  
- And no one will be resurrected but whoever attained the extremest
+benediction and peace.
+And no one will be resurrected but whoever attained the extremest
 degree of faith (imān) or the extremest degree of corruption, who all
 shall be caused to die afterwards, and then to nushur (gathering for
 reckoning) and to get the thawāb (reward) and ‘iqāb (punishment)
@@ -2217,8 +2217,8 @@ Christians.
 And there are numerous beliefs and narrations held by the Sunnis
 concerning God’s friends (Awliyā’) and the pious, and followers of the
 Sufi creeds, that seem impossible and abominable, but not calling for
-vilification and exaggeration against the Sunnis’ faith.  
- On the other hand, the doctrine of raj‘ah has a support in the Qur’ān
+vilification and exaggeration against the Sunnis’ faith.
+On the other hand, the doctrine of raj‘ah has a support in the Qur’ān
 and the Prophetic Sunnah, besides its being not imposible for Allah, Who
 cited for us examples about it in the Qur’ān, like His saying:
 
@@ -2277,18 +2277,18 @@ We never mean by ghuluww here to deviate from the path of truth and
 follow the hawā (desire), till the beloved turning to be the worshipped
 god, which is verily a blasphemy and polytheism that can never believed
 by any Muslim having faith in the Islamic message and prophethood of
-Muhammad (S).  
- The Messenger of Allah (S) determined fixed limits for such love, when
-he said to al-’Imām ‘Ali (‘a):  
- “Two categories of people will face ruin on account of you: he who
+Muhammad (S).
+The Messenger of Allah (S) determined fixed limits for such love, when
+he said to al-’Imām ‘Ali (‘a):
+“Two categories of people will face ruin on account of you: he who
 loves you with exaggeration, and he who hates you intensely.”
 
-He (S) also said:  
- “O ‘Ali, in you there is a parable of Jesus, the son of Mary, who was
+He (S) also said:
+“O ‘Ali, in you there is a parable of Jesus, the son of Mary, who was
 detested by the Jews to the extent astonishing his mother, and loved by
 the Christians till imparting upon him the position that he was unfit
-for it.”[^79]  
- This being the negative meaning for ghuluww, when love exceeds the
+for it.”[^79]
+This being the negative meaning for ghuluww, when love exceeds the
 bounds till rendering the beloved as a god, giving him a rank higher
 than his own, or when hatred exceeds the bounds reaching the extent of
 calumny and false accusation.
@@ -2307,20 +2307,20 @@ And what is the fault of the Shi’ah if the Lord of Power and Glory says
 in His Book: “Say (O Muhammad, unto mankind): I demand not of you any
 recompense for it (the toils of the apostleship) save the love of (my)
 kinsfolk.” And the mawaddah (loving kindness), as is known, is greater
-than mere love (hubb). Also the Messenger of Allah (S) says:  
- “None of you will be a (true) believer till loving for his brother (in
+than mere love (hubb). Also the Messenger of Allah (S) says:
+“None of you will be a (true) believer till loving for his brother (in
 Din) what he loves for himself, and mawaddah enjoins on you to deprive
 you of something so as to love with it another one.”
 
-And what fault the Shi’ah have when the Messenger of Allah (S) says:  
- “O ‘Ali, you are a master in this world and a master in the Hereafter.
+And what fault the Shi’ah have when the Messenger of Allah (S) says:
+“O ‘Ali, you are a master in this world and a master in the Hereafter.
 Whoever loves you has loved me and whoever hates you is hating me. Your
 lover is the lover of Allah and your hater is the hater of Allah, and
-woe be unto that who detests you.”[^80]  
- He further says: “To love ‘Ali is faith, and to hate him is
-hypocrisy.”[^81]  
- He also says:  
- “Whoever dies with the love of Al Muhammad be in his heart, his death
+woe be unto that who detests you.”[^80]
+He further says: “To love ‘Ali is faith, and to hate him is
+hypocrisy.”[^81]
+He also says:
+“Whoever dies with the love of Al Muhammad be in his heart, his death
 is that of a martyr. Verily that who dies upon the love of Al Muhammad
 shall die forgiven, and whoever dies upon love of Al Muhammad shall die
 penitent. Whoever dies upon love of Al Muhammad shall die a believer of
@@ -2330,8 +2330,8 @@ death will augur him with heavens...”[^82]
 And why to blame or reproach the Shi’ah if they love a man about whom
 the Messenger of Allah (S) said: “Tomorrow I will give my standard to a
 man loves God and His Messenger, and God and His Messenger love
-him...”[^83]  
- As the lover of ‘Ali is the lover of Allah and His Messenger, with
+him...”[^83]
+As the lover of ‘Ali is the lover of Allah and His Messenger, with
 being a mu’min (true believer), while the hater of ‘Ali is in fact the
 hater of Allah and His Messenger, and being a munāfiq (hypocrite).
 
@@ -2365,9 +2365,9 @@ sake of brevity.
 And when the love for ‘Ali and Ahl al-Bayt represents in general the
 love for the Messenger of Allah (S), we have to know the extent of love
 required from the Muslims so as to learn if there be ghuluww (excess) as
-alleged by some.  
- The Messenger of Allah (S) said:  
- “None of you will be a (true) believer till I become for him more
+alleged by some.
+The Messenger of Allah (S) said:
+“None of you will be a (true) believer till I become for him more
 beloved than his children, and father and all people.”[^84]
 
 On this basis, every Muslim should love ‘Ali and the Pure Imams among
@@ -2446,8 +2446,8 @@ topic remains so ambiguous to many of them, since they never used to
 hear the like of these episodes.
 
 What is then the reality of the Promised al-Mahdi in the Islamic
-creeds?  
- The discussion about the topic is divided into two parts: the first
+creeds?
+The discussion about the topic is divided into two parts: the first
 relates to make a research on al-Mahdi through the Book (Qur’ān) and
 (Prophetic) Sunnah. The second focuses on his life (biography),
 occultation and reappearance.
@@ -2472,10 +2472,10 @@ said:
 prolong that day till He sends a man of my progeny, whose name is like
 mine, and whose father’s name is my father’s, who will fill the earth
 with justice and equity as it had been filled with oppression and
-tyranny.”  
- In Sunan Ibn Mājah, [^87] the following tradition is reported. The
-Messenger of Allah (S) said:  
- “We are the Ahl al-Bayt for whom Allah has chosen the hereafter to this
+tyranny.”
+In Sunan Ibn Mājah, [^87] the following tradition is reported. The
+Messenger of Allah (S) said:
+“We are the Ahl al-Bayt for whom Allah has chosen the hereafter to this
 world. My Ahl al-Bayt will face after me difficulties, hardships and
 persecution in the lands, until a people will come from the east
 (mashriq) bearers of black banners. They will demand the right but it
@@ -2485,22 +2485,22 @@ it (the right to rule) to a man from my Ahl al-Bayt, who would fill it
 (the earth) with justice as it was filled with oppression.”
 
 In his Sunan, Ibn Mājah said: The Messenger of Allah (may God’s peace
-and benediction be upon him and his Progeny) said:  
- “Al-Mahdi is from us, the Ahl al-Bayt. Al-Mahdi is among the children
-of Fātimah.”  
- He said:  
- “Al-Mahdi will verily rule my *Ummah*, for seven years if it (his rule)
+and benediction be upon him and his Progeny) said:
+“Al-Mahdi is from us, the Ahl al-Bayt. Al-Mahdi is among the children
+of Fātimah.”
+He said:
+“Al-Mahdi will verily rule my *Ummah*, for seven years if it (his rule)
 be short, or otherwise it be nine years. During this period my *Ummah*
 will live in an unprecedented bounty, giving its fruit, saying nothing
 of it. Fortunes will be, in that period, accumulated. A man would rise
-and say: O Mahdi, give me. He will say: Take.”[^88]  
- In Sahih al-Tirmidhi,[^89] it is reported that the Messenger of Allah
-(S) said:  
- “A man of my Ahl al-Bayt whose name is like mine, will verily rule (the
+and say: O Mahdi, give me. He will say: Take.”[^88]
+In Sahih al-Tirmidhi,[^89] it is reported that the Messenger of Allah
+(S) said:
+“A man of my Ahl al-Bayt whose name is like mine, will verily rule (the
 world). And if there remained but a single day of the (end of) time,
-Allah would prolong that day till he assumes the rule.  
- Further the Messenger of Allah (S) is reported to have said:  
- “The world shall never end till the Arabs will verily be ruled by a man
+Allah would prolong that day till he assumes the rule.
+Further the Messenger of Allah (S) is reported to have said:
+“The world shall never end till the Arabs will verily be ruled by a man
 of my Ahl al-Bayt, whose name is like mine.”
 
 In his Sahih[^90] al-’Imām al-Bukhāri is reported to have said: Ibn
@@ -2521,8 +2521,8 @@ traditions about al-Mahdi.
 
 Al-Hāfiz, in Fath al-Bāri, says: There are many authentic traditions
 (mutawātir) confirming that al-Mahdi is of this *Ummah*, and that Jesus
-the son of Mary will reappear and perform his prayers behind him.[^91]  
- In al-Sawā‘iq al-muhriqah, Ibn Hajar al-Haythami said: The ahādith
+the son of Mary will reappear and perform his prayers behind him.[^91]
+In al-Sawā‘iq al-muhriqah, Ibn Hajar al-Haythami said: The ahādith
 containing references to the reappearance of al-Mahdi are so many and
 mutawātir (authentic).”[^92]
 
@@ -2534,19 +2534,19 @@ of cognizance.”
 
 In al-Lumu‘āt, al-Shaykh ‘Abd al-Haqq says: “The ahādith reaching the
 extent of tawātur (authentic chains) unanimously confirm that al-Mahdi
-is of Ahl al-Bayt and son of Fātimah.”[^93]  
- Also al-Sabbān, in his book Is‘āf al-rāghibin, says: “Many authentic
+is of Ahl al-Bayt and son of Fātimah.”[^93]
+Also al-Sabbān, in his book Is‘āf al-rāghibin, says: “Many authentic
 (mutawātir) akhbār reported from the Messenger of Allah (may God’s peace
 and benedictions be upon him and his Progeny) confirming his
 (al-Mahdi’s) reappearance, and his being of Ahl al-Bayt, and that he
 will fill the earth with equity and justice.”[^94]
 
-In his book Sabā’ik al-dhahab, al-Suwaydi is reported to have said:  
- “That upon which all the ‘ulamā’ have concurred is al-Mahdi’s being the
+In his book Sabā’ik al-dhahab, al-Suwaydi is reported to have said:
+“That upon which all the ‘ulamā’ have concurred is al-Mahdi’s being the
 one who is to rise (al-qā’im) at the end of the Time (al-zamān), and
 that he will fill the earth with justice. The ahādith that confirm his
-reappearance are so many.”[^95]  
- Ibn Khaldun, in his Muqaddimah, also says: “Know that what is widely
+reappearance are so many.”[^95]
+Ibn Khaldun, in his Muqaddimah, also says: “Know that what is widely
 known among Ahl al-’Islām (‘ulamā’ and people) throughout course of
 time, is that at the end of the Time a man of Ahl al-Bayt should appear,
 who would support the Din, and establish justice. He is called
@@ -2555,8 +2555,8 @@ al-Mahdi.”[^96]
 Moreover, many traditions about al-Mahdi are reported by contemporary
 ‘ulamā’, such as the Mufti of al-’Ikhwān al-Muslimun al-Sayyid Sābiq in
 his book al-‘Aqā’id al-’Islāmiyyah, deeming the idea of al-Mahdi to be
-among the Islamic doctrines (‘aqā’id) in which all should believe.  
- With their multiplicity, the ahādith about al-Mahdi are reported and
+among the Islamic doctrines (‘aqā’id) in which all should believe.
+With their multiplicity, the ahādith about al-Mahdi are reported and
 cited in the Shi’ah books, to the extent it is said that the ahādith
 reported from the Messenger of Allah (S) about al-Mahdi exceed in number
 all his ahādith about other subjects.
@@ -2577,17 +2577,17 @@ Allah will surely make His Din victorious. In this respect they agree
 with the beliefs held by the Imāmiyyah Shi’i. Hereunder some of those
 ‘ulamā’:
 
-1. Muhyi al-Din ibn al-‘Arabi, in al-Futuhāt al-Makkiyyah.  
- 2. Sibt ibn al-Jawzi, in his book Tadhkirat al-khawāss.  
- 3. ‘Abd al-Wahhāb al-Shirāni, in ‘Aqā’id al-’akābir.  
- 4. Ibn al-Khashshāb in Tawarikh mawalid al-’A’immah wa wafayātihim.  
- 5. Muhammad al-Bukhāri al-Hanafi, in Fasl al-khitāb.  
- 6. Ahmad ibn Ibrāhim al-Balādhuri, in al-Hadith al-mutasalsil.  
- 7. Ibn al-Sabbāgh al-Māliki, in al-Fusul al-Muhimmah.  
- 8. Al-‘Arif ‘Abd al-Rahmān, in Mir’āt al-’asrār.  
- 9. Kamāl al-Din ibn Talhah, in Matālib al-sa’ul fi manāqib Al
-al-Rasul.  
- 10. Al-Qunduzi al-Hanafi, in Yanābi‘ al-mawaddah.
+1. Muhyi al-Din ibn al-‘Arabi, in al-Futuhāt al-Makkiyyah.
+2. Sibt ibn al-Jawzi, in his book Tadhkirat al-khawāss.
+3. ‘Abd al-Wahhāb al-Shirāni, in ‘Aqā’id al-’akābir.
+4. Ibn al-Khashshāb in Tawarikh mawalid al-’A’immah wa wafayātihim.
+5. Muhammad al-Bukhāri al-Hanafi, in Fasl al-khitāb.
+6. Ahmad ibn Ibrāhim al-Balādhuri, in al-Hadith al-mutasalsil.
+7. Ibn al-Sabbāgh al-Māliki, in al-Fusul al-Muhimmah.
+8. Al-‘Arif ‘Abd al-Rahmān, in Mir’āt al-’asrār.
+9. Kamāl al-Din ibn Talhah, in Matālib al-sa’ul fi manāqib Al
+al-Rasul.
+10. Al-Qunduzi al-Hanafi, in Yanābi‘ al-mawaddah.
 
 If any researcher pursues the matter, he will verily come across among
 Ahl al-Sunnah ‘ulamā’, in greater number than those we referred to, who
@@ -2597,8 +2597,8 @@ the Most High makes him to reappear.
 Then we are left with only those among Ahl al-Sunnah who deny his birth
 and his being alive, though admitting the veracity of the ahādith about
 him (al-Mahdi). But they can never be considered hujjah (authority) over
-the others believing in such issue.  
- Such assumption is not denied by the Holy Qur’ān, in which Allah coined
+the others believing in such issue.
+Such assumption is not denied by the Holy Qur’ān, in which Allah coined
 many a similitude about this for those having inactive minds, so as to
 be liberated from the fetters and to give the reins to their thoughts
 and intellects to be certain and submit that Allah, Subhanah, is Able to
@@ -2638,8 +2638,8 @@ into blood.
 The Muslim would also never find strange when knowing that our lord
 Solomon used to talk to the birds, and the jinn, and the ants, with his
 throne be carried and flown in the skies place to place, and the throne
-of Balqis be straightened within moments.  
- Even the Muslim would never find strange that Allah caused the fellows
+of Balqis be straightened within moments.
+Even the Muslim would never find strange that Allah caused the fellows
 of the Cave to die for three hundred years, and more other nine (years),
 raising them again to life, when the grandson of the grandson became
 older than the grandfather’s grandfather.
@@ -2697,8 +2697,8 @@ that Jesus (‘a) will perform his prayers behind him.Further they both
 believe that he will fill the earth with equity and justice as it had
 been filled with oppression and tyranny, and the Muslims taking
 possession of the whole earth during his reign, with prevalence of
-welfare and prosperity that no poor shall be there.  
- The only point of controversy between them being that the Shi’ah
+welfare and prosperity that no poor shall be there.
+The only point of controversy between them being that the Shi’ah
 believe that he is born, while the Sunnah hold that he is to be born (in
 future), with concurring both on his reappearance at the end of the
 Time.
@@ -2709,8 +2709,8 @@ eliminate any difference, and gathering it again. Further, all of them
 should sincerely invoke Allah, with good intentions during their
 prayers, to hasten his reappearance in which lies the deliverance, and
 which entails victory for the *Ummah* of Muhammad (may Allah’s peace and
-benediction be upon him and his Progeny).  
- Our last prayer is that all praise belongs to Allah, the Lord of the
+benediction be upon him and his Progeny).
+Our last prayer is that all praise belongs to Allah, the Lord of the
 Worlds, and benediction and peace be upon the most honourable of the
 prophets and apostles, our master and lord Muhammad and his good and
 pure Progeny.

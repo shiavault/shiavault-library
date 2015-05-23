@@ -38,7 +38,7 @@ draw his hand away from food immediately you tell him: “Please continue
 eating”, then he continues. This means that you continue doing that
 work.[^1]
 
- 
+
 
 [^1]: For more information review that Tafsir of Surah Al-Hamd by
 Ayatullah Ozama Al-Khui printed by Jamea-e-Talimat-e-Islami from page

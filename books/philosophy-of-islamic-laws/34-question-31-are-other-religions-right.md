@@ -178,8 +178,8 @@ of conformity to the meaning, which they construe. Its meaning is
 nothing but that Allah on the day of resurrection will decide between
 different communities of the world. This assertion does not bear
 testimony at all that the followers of all the religions will get
-salvation. And that all are moving on the true path.[^8]  
-  
+salvation. And that all are moving on the true path.[^8]
+
 
 [^1]: Surah Baqarah 2:62
 

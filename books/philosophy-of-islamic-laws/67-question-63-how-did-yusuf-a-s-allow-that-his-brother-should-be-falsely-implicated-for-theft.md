@@ -37,9 +37,9 @@ lied nor made false accusation. Rather it was the officials who thought
 that there had been a theft, checked the baggage and accused Yusuf's
 brother and detained him. Since Yusuf's brother had already known the
 plan he remained quiet. The ayat does not speak of anything contrary or
-that this incident was witnessed by Yusuf (a.s.).  
-    
-  
+that this incident was witnessed by Yusuf (a.s.).
+
+
 
 [^1]: Surah Yusuf 12:70
 

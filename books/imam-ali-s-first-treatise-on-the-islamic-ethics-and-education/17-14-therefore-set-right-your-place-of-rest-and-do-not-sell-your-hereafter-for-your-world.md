@@ -30,7 +30,7 @@ and since the Qur’an says:
 
 ***"..and what they had done they shall find present (there)"***[^3] and
 
-**  
+**
 **
 
 "فَمَنْ يَعْمَلْ مِثْقَالَ ذَرَّةٍ خَيْرًا يَرَه وَمَنْ يَعْمَلْ

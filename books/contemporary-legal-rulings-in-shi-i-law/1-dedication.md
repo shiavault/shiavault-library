@@ -14,6 +14,6 @@ gardens (jannat) beneath which rivers flow, therein dwelling forever and
 ever - Allah's promise in truth. And who is truer in speech than
 Allah?***
 
-***(Qur'an, 4:122)***
+(Qur'an, 4:122)
 
 

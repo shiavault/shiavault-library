@@ -14,8 +14,8 @@ sins***.”
 
 Thus every sin that is shunned keeping in view a greater one will be
 forgiven but there is no sin greater than polytheism that if one shuns
-it one could be forgiven his polytheism.  
- On the basis of this one who has not made a partner to Allah will have
+it one could be forgiven his polytheism.
+On the basis of this one who has not made a partner to Allah will have
 all his in forgiven.
 
 **Answer:** In the reply to the previous the reply to this question has
@@ -37,7 +37,7 @@ cannot cause the other greater sins to be forgiven. It can only help in
 forgiveness of smaller sins, (In the background we should also remember
 that repeating smaller sins make them into greater sins).
 
-   
-  
+
+
 
 

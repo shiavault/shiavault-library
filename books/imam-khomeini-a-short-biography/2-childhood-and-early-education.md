@@ -1,8 +1,7 @@
 Childhood And Early Education
 =============================
 
-   
- Ruhullah Musawi Khomeini was born on 20 Jamadi al-Akhir 1320/ 24
+Ruhullah Musawi Khomeini was born on 20 Jamadi al-Akhir 1320/ 24
 September 1902, the anniversary of the birth of Hazrat Fatima, in the
 small town of Khumayn, some 160 kilometers to the southwest of Qum. He
 was the child of a family with a long tradition of religious
@@ -16,9 +15,9 @@ themselves to the religious instruction and guidance of the region’s
 predominantly Shi’i population. The most celebrated member of the family
 was Mir Hamid Husayn (d. 1880), author of *‘Abaqat al-Anwar fi Imamat
 al-A’immat al-Athar*, a voluminous work on the topics traditionally
-disputed by Sunni and Shi’i Muslims. [^1]  
-    
- Imam Khomeini’s grandfather, Sayyid Ahmad, a contemporary of Mir Hamid
+disputed by Sunni and Shi’i Muslims. [^1]
+
+Imam Khomeini’s grandfather, Sayyid Ahmad, a contemporary of Mir Hamid
 Husayn, left Lucknow some time in the middle of the nineteenth century
 on pilgrimage to the tomb of Hazrat ‘Ali in Najaf. [^2]
 
@@ -46,9 +45,9 @@ principal authority of the age in Shi’i jurisprudence. This corresponded
 to a pattern of preliminary study in Iran followed by advanced study in
 the *‘atabat*, the shrine cities of Iraq, which for long remained
 normative; Imam Khomeini was in fact the first religious leader of
-prominence whose formation took place entirely in Iran.  
-    
- In Dhu’l-Hijja 1320/ March 1903, some five months after the Imam’s
+prominence whose formation took place entirely in Iran.
+
+In Dhu’l-Hijja 1320/ March 1903, some five months after the Imam’s
 birth, Sayyid Mustafa was attacked and killed while traveling on the
 road between Khumayn and the neighboring city of Arak. The identity of
 the assassin immediately became known; it was Ja’far-quli Khan, the
@@ -94,9 +93,9 @@ political activity mention may also be made of the arbitrary and
 oppressive deeds of landowners and provincial governors. Thus, he
 recalled in later years how a newly arrived governor had arrested and
 bastinadoed the chief of the merchants’ guild of Gulpaygan for no other
-purpose than the intimidation of its citizens.[^6]  
-    
- Imam Khomeini began his education by memorizing the Qur’an at a maktab
+purpose than the intimidation of its citizens.[^6]
+
+Imam Khomeini began his education by memorizing the Qur’an at a maktab
 operated near his home by a certain Mullah Abu ‘l-Qasim; he became a
 hafiz by the age of seven. He next embarked on the study of Arabic with
 Shaykh Ja’far, one of his mother’s cousins, and took lessons on other
@@ -106,15 +105,15 @@ was Mirza Riza Najafi, his brother-in-law. Finally, among his
 instructors in Khumayn mention may be made of the Imam’s elder brother,
 Murtaza, who taught him Najm al-*Din* Katib Qazvini’s *al-Mutawwal on
 badi’ and ma’ani* and one of the treatises of al-Suyuti on grammar and
-syntax.  
-    
- (Although Sayyid Murtaza - who took the surname Pasandida after the law
+syntax.
+
+(Although Sayyid Murtaza - who took the surname Pasandida after the law
 mandating the choice of a surname in 1928 - studied for a while in
 Isfahan, he never completed the higher levels of religious education;
 after working for a while in the registrar’s office in Khumayn, he moved
-to Qum where he was to spend the rest of his life).  
-    
- In 1339/1920-21, Sayyid Murtaza sent the Imam to the city of Arak (or
+to Qum where he was to spend the rest of his life).
+
+In 1339/1920-21, Sayyid Murtaza sent the Imam to the city of Arak (or
 Sultanabad, as it was then known) in order for him to benefit from the
 more ample educational resources available there. Arak had become an
 important center of religious learning because of the presence of
@@ -150,8 +149,8 @@ city throughout the rest of his life. It is possible, indeed, although
 not in a reductive sense, to describe him as a product of Qum. In 1980,
 when addressing a group of visitors from Qum, he declared, “Wherever I
 may be, I am a citizen of Qum, and take pride in the fact. My heart is
-always with Qum and its people.”[^7]  
-  
+always with Qum and its people.”[^7]
+
 
 [^1]: See Muhammad Riza Hakimi, Mir Hamid Husayn, Qum, 1362 Sh./1983.
 

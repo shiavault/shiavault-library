@@ -94,13 +94,13 @@ apply to those individuals who are given some social tasks. These
 degrees include:
 
 **i.** Those who are happy by nature to do good and unhappy to perform
-the evil.  
-**ii.** Those who verbally enjoin the good and forbid the evil.  
+the evil.
+**ii.** Those who verbally enjoin the good and forbid the evil.
 **iii.** Those who by force implement the principle of enjoing the good
 and forbidding the evil; these may use punishments if felt necessary.
 
-Regarding these, let us observe the following traditions:  
- Imam ‘Ali (as) has stated:
+Regarding these, let us observe the following traditions:
+Imam ‘Ali (as) has stated:
 
 <blockquote dir="rtl">
   <p>
@@ -357,12 +357,12 @@ D. How Does This Principle Cause Man To Become Righteous?
 The Holy Qur’an considers enjoining the good to be among the traits of
 believers, inhabitants of paradise, pious men and the best of the
 nation.[^21] Therefore, anybody who indulges in this principle should be
-pious himself or else:  
- From a physician with a yellow countenance,  
- Do not ask for a rose-colored cheek.  
- Furthermore, such a person uses the approach of self-denial which is
-among great sins.  
- Thus, as Imam ‘Ali (as) has said, a person who carries out the
+pious himself or else:
+From a physician with a yellow countenance,
+Do not ask for a rose-colored cheek.
+Furthermore, such a person uses the approach of self-denial which is
+among great sins.
+Thus, as Imam ‘Ali (as) has said, a person who carries out the
 principle of enjoining the good should be among the pious ones, or else
 such a person is like a physician who cures people but he himself is
 sick.

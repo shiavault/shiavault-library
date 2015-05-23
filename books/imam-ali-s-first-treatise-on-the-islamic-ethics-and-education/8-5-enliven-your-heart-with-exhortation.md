@@ -8,13 +8,13 @@
 </blockquote>
 
 Exhortation is a discourse which gets people emotionally involved and
-guides man by warning him of the consequences of his evil–doing.  
- By listening to preaching, one's heart softens so much that he
+guides man by warning him of the consequences of his evil–doing.
+By listening to preaching, one's heart softens so much that he
 automatically is led towards good deeds.
 
 Ustadh Mutahhari, in his discussion of wisdom and exhortation, has
-defined exhortation clearly.  
- He writes, "As it is written in the Qur’an,[^1] exhortation is one of
+defined exhortation clearly.
+He writes, "As it is written in the Qur’an,[^1] exhortation is one of
 the three ways of calling people to Islam (wisdom, exhortation,
 disputation):
 
@@ -57,8 +57,8 @@ every aspect of our existence:
 ***"Surely Allah admonishes you with what is excellent."***
 
 The Holy Qur’an, which is Allah's discourse, in many cases talks about
-admonishing.  
- For this reason, the Great Prophet (S) calls the Holy Qur’an the most
+admonishing.
+For this reason, the Great Prophet (S) calls the Holy Qur’an the most
 straightforward discourse and the sharpest admonishment and the best
 kind of stories.
 
@@ -71,7 +71,7 @@ Death and what happened to the men in the past are good preachers.
 
 The Prophet (S) has said
 
-**  
+**
 **
 
 :
@@ -84,8 +84,8 @@ The Prophet (S) has said
 
 *"Death is sufficient as an admonisher."*[^5]
 
-Regarding this, Imam ‘Ali (as) emphasizes:  
- "I recommend that you always remember death and lessen your negligence
+Regarding this, Imam ‘Ali (as) emphasizes:
+"I recommend that you always remember death and lessen your negligence
 of it. How can you be heedless of what is not heedless of you, and hope
 from one who will not give you respite? Those dead people you have
 observed would suffice for your taking advice. They were carried to
@@ -118,15 +118,15 @@ mankind was made subservient, together with (his) prophethood and great
 nobility. But when the subsistence assigned to him was finished, and his
 time was complete, the bows of annihilation struck him with the arrows
 of death! Lands became empty of him and (his) houses were unoccupied,
-and another people inherited them.  
- Indeed there is a lesson for you in the previous generations! Where are
+and another people inherited them.
+Indeed there is a lesson for you in the previous generations! Where are
 the Amalekites and the offspring of the Amalekites? Where are the
 Pharaohs and their offspring?
 
 Where are the dwellers of the cities of Rass who killed the Prophets and
 stifled the traditions of the Messengers, and who revived the practices
-of the tyrants?  
- Where are those who went with troops, defeated thousands, mobilized
+of the tyrants?
+Where are those who went with troops, defeated thousands, mobilized
 armies and built cities?”[^7]
 
 ### C) Time
@@ -174,15 +174,15 @@ from the Qur’an which say:
 and noble places! And goodly things wherein they rejoiced; thus it was,
 and We gave them a heritage to another people. So the heaven and the
 earth did not weep for them, nor were they respited. [Qur’an
-44:25-29]***  
+44:25-29]***
 [^10]
 
 ### D) Experiences
 
 As we know, one of the safe ways of acquiring knowledge is to use other
-people's experiences.  
- Concerning this, Imam (as) in his letter says:  
- "Peruse diligently and decidedly those affairs which scholars have
+people's experiences.
+Concerning this, Imam (as) in his letter says:
+"Peruse diligently and decidedly those affairs which scholars have
 painstakingly gathered and have freed you from further attempts."
 
 In ethics and advice as well, our experience is the best friend and
@@ -259,8 +259,8 @@ twos and singly." [^13]
 
 As you will notice, God exhorts people, in this verse, only to one
 thing: that is, rise up only for God's sake, not for other
-considerations, and it is this kind of uprising which is fruitful.  
- Imam Khomeini, (may God bless him) 45 years ago, when a mercenary
+considerations, and it is this kind of uprising which is fruitful.
+Imam Khomeini, (may God bless him) 45 years ago, when a mercenary
 writer insulted the Islamic sanctities, wrote a letter which still
 exists in Yazd's Vaziri library. He has brought up the issue of uprising
 for God's sake:
@@ -280,19 +280,19 @@ It is just this exhortation which is called "a preliminary stage to
 Manazil Al-Sa'irin" by the gnostics and is recommended that every
 gnostic carry it out."[^15]
 
-**b)** Qays Ibn Aasim says:  
- “Some men of Bani Tameem and I went to pay a visit to the Prophet (S)
+**b)** Qays Ibn Aasim says:
+“Some men of Bani Tameem and I went to pay a visit to the Prophet (S)
 and said: O God's Prophet! Since we are not always in your presence and
 since we live in the desert, please exhort us so that we may be on the
 right path.
 
 The Prophet (S) said, "O Qays: There is always wretchedness with glory,
 death with life, and Hereafter with the world. Each one of us is also
-accountable for what we do, either good or bad.  
- "You are inevitably accompanied by a person who is put in grave with
+accountable for what we do, either good or bad.
+"You are inevitably accompanied by a person who is put in grave with
 you: you are dead, but he is alive. If he is generous, he will endear
-you. If he is wretched, he will betray you.  
- Then, you together will be present on the Day of Judgment.
+you. If he is wretched, he will betray you.
+Then, you together will be present on the Day of Judgment.
 
 They will ask you about him. Thus, choose the proper person. That is
 because if he is a good-doer, you will accompany him and if he is
@@ -356,8 +356,8 @@ residences turned into graves.
 O children of Adam! You have been trying to annihilate yourselves ever
 since you were born. Then save from what you have for your future. This
 is because a true believer prepares provisions and an infidel indulges
-in transitory pleasures.  
- Imam Hasan (as) then recited this verse from Surah al-Baqarah, verse
+in transitory pleasures.
+Imam Hasan (as) then recited this verse from Surah al-Baqarah, verse
 197:
 
 <blockquote dir="rtl">
@@ -385,22 +385,22 @@ present. Then do what you wish.
 leave you; then do what you wish.
 
 **(v)** When Malik (the Angel of Hell) wants to throw you in the Fire,
-do not enter the Hell; then, do as you wish.[^19]  
- Of course, this tradition is attributed at the same time to the Prophet
+do not enter the Hell; then, do as you wish.[^19]
+Of course, this tradition is attributed at the same time to the Prophet
 (S), Imam Hasan (as) and Imam Zayn al-‘Abidin (as).
 
 **g)** A man came to Imam ‘Ali Ibn al-Husayn (as) and complained about
 his troubles. Imam (as) told him, "Adam's child is miserable because
 everyday he encounters three calamities, but he does not take a lesson.
-It would be easy for him if he took lessons from his troubles:  
- First, every day his life becomes shorter. He becomes depressed if
+It would be easy for him if he took lessons from his troubles:
+First, every day his life becomes shorter. He becomes depressed if
 there is reduction in his possessions. But he should know that there is
 a substitute for worldly possessions, none for one's life, however.
 
 Secondly, he makes complete use of his daily bread. If it is religiously
 permissive (*halal*), he will be accounted for, and if it is not
-permissible, then he will be punished.  
- Thirdly, and this is graver than the other two: when he brings a day to
+permissible, then he will be punished.
+Thirdly, and this is graver than the other two: when he brings a day to
 the end, he is in fact approaching the Hereafter, still not knowing
 whether he is heading for Heaven or Hell.[^20]
 
@@ -410,17 +410,17 @@ a piece of advice. Imam asked: “Jabir, after eighteen years? You are a
 bottomless ocean of knowledge which is obtainable by nobody”. Then Imam
 said: “Send my regards to my followers and tell them: There is no
 distance between us and God. Nobody may approach Him, but through His
-worship.  
- O Jabir, anybody who obeys God and loves us is considered as our
-friend; anybody who commits sins, our friendship for him is useless.  
- O Jabir, is there anybody who asks God for something, but is denied to
+worship.
+O Jabir, anybody who obeys God and loves us is considered as our
+friend; anybody who commits sins, our friendship for him is useless.
+O Jabir, is there anybody who asks God for something, but is denied to
 receive it? Is there anybody who relies on God, but receives no
-protection? Is there anybody who trusts God, but is betrayed by Him?  
- O Jabir, consider this world as a shelter in which you will stay just
+protection? Is there anybody who trusts God, but is betrayed by Him?
+O Jabir, consider this world as a shelter in which you will stay just
 for a few days and then you will leave it. Isn't the world like a horse
 on which you ride in your dreams but when you wake up there is no trace
-of the horse? This world is comparable to a used garment.  
- O Jabir, for wise people, this world is like a shadow.[^21]
+of the horse? This world is comparable to a used garment.
+O Jabir, for wise people, this world is like a shadow.[^21]
 
 The expression "There is no god but Allah" is a source of magnanimity of
 the speaker of it. Prayer is a means to avoid arrogance, alms will
@@ -434,10 +434,10 @@ Day."[^22]
 (as) and I told him: Give me a piece of advice to keep after you; Imam
 asked: Will you remember it, O Sufyan? I replied: Yes, O son of the
 Prophet's daughter. Then he said: O Sufyan: A liar lacks manliness; a
-liar is not at comfort.  
- There is no brother for kings, no friends for the arrogant, no generous
-person for a bad-tempered person.  
- Then, the Imam (as) was silent. I asked him, O son of the Prophet's
+liar is not at comfort.
+There is no brother for kings, no friends for the arrogant, no generous
+person for a bad-tempered person.
+Then, the Imam (as) was silent. I asked him, O son of the Prophet's
 daughter, please continue. He said: O Sufyan: rely on God to become
 knowledgeable; be content with what God has given you to feel affluent;
 behave with people as they behave with you to increase your faith; do
@@ -446,14 +446,14 @@ wickedness and in your affairs, consult those who are God-fearing.
 
 Then I pleaded once again. He said: O Sufyan, one who wishes for glory
 without power and affluence should prefer God's glorious obedience to
-the wretchedness of committing sins.  
- O Sufyan: My father exhorted me to three things and warned me against
+the wretchedness of committing sins.
+O Sufyan: My father exhorted me to three things and warned me against
 three others: He said, My son: one who accompanies wicked people shall
 not remain intact; one who is not careful in his speech, will be
-regretful; and one who frequents nasty places will be accused.  
- I asked: O son of God’s Prophet: what are those three things which you
-were warned against?  
- He said: My father told me not to accompany one who is jealous towards
+regretful; and one who frequents nasty places will be accused.
+I asked: O son of God’s Prophet: what are those three things which you
+were warned against?
+He said: My father told me not to accompany one who is jealous towards
 one's affluence, the rejoicer at another's misfortune, and a
 talebearer."[^23]
 
@@ -485,35 +485,35 @@ one fourth to earn your sustenance, one fourth to be in the company of
 your brethren and the trustworthy ones who acquaint you with your faults
 and whose hearts are sincere to you, and one fourth in private to engage
 in lawful pleasures. This last part will give you energy to engage in
-the other three portions.*  
+the other three portions.*
 *Do not dwell on thoughts of poverty or long life, for he who occupies
 himself with throughts of poverty becomes stingy, and he who thinks of
 long life becomes greedy. Give your selves a share from this world by
 giving them the lawful things that they desire and that which is in
 keeping with a sense of honor and in which there is no extravangance.
-Seek help through that for the affairs of* *religion, for it is
-narrated: One who abandons his world for his religion or abandons his
-religion for his world is not of us.”*[^24]
+Seek help through that for the affairs of religion, for it is narrated:
+One who abandons his world for his religion or abandons his religion for
+his world is not of us.”*[^24]
 
 **k)** Imam al-Rida (as) has said: Seven things without seven others
-will cause the laughter of the public:  
- First, one who seeks Allah's forgiveness only orally, but is not
+will cause the laughter of the public:
+First, one who seeks Allah's forgiveness only orally, but is not
 regretful deep inside, has made fun of himself.
 
 Second, one who asks for God's help, but shows no effort of himself, has
 made fun of himself.
 
 Third, one who asks God for the paradise, but is not patient enough, has
-also made fun of himself.  
- Fourth, one who asks for God's protection against Hell-fire, but will
+also made fun of himself.
+Fourth, one who asks for God's protection against Hell-fire, but will
 not abandon corrupting and misleading lusts and desires, has made fun of
 himself, as well.
 
 Fifth, one who talks about death but has not prepared himself for it,
-has made fun of himself.  
- Sixth, one who remembers death, but is not willing to face it, has made
-fun of himself.  
- Seventh, one who desires to be cautious, but does not show caution at
+has made fun of himself.
+Sixth, one who remembers death, but is not willing to face it, has made
+fun of himself.
+Seventh, one who desires to be cautious, but does not show caution at
 the proper time, has made fun of himself.[^25]
 
 **l)** A man asked the ninth Imam (as), al-Jawad: Give me some advice.
@@ -556,8 +556,8 @@ Ishaq Ibn Ya'qub and sent it to him through Mohammad b. ‘Uthman b.
 Sa'eed al-‘Amri, stated: “The appearance of deliverance depends on God.
 Those who determine its time are liars. But concerning the occurence of
 events, refer to the narrators of our hadith, since they are my proof to
-you and I am God's proof to them.  
- As for those who are involved in our wealth - those who regard some of
+you and I am God's proof to them.
+As for those who are involved in our wealth - those who regard some of
 it as lawful (for themselves) and consume (it), they are only consuming
 the Fire. But as for Khums (20% Islamic levy on certain things), it is
 paid by our Shi’a followers for their purity. They can enjoy it till we

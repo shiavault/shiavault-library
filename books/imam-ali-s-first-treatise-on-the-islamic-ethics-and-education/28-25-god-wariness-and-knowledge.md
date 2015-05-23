@@ -65,8 +65,8 @@ The Approaches To The Acquisition Of Knowledge
 As we know, man's knowledge, compared with what is unknown to him, is
 like a drop of water in the sea. If man wants to capture this drop of
 knowledge, he has to select the proper method of approach so as not to
-get drowned in the immense sea of what is unknown.  
- In his letter, Imam ‘Ali (as) provides us with three such approaches:
+get drowned in the immense sea of what is unknown.
+In his letter, Imam ‘Ali (as) provides us with three such approaches:
 
 ### 1. Inspiration
 
@@ -102,8 +102,8 @@ felicitous and their knowledge is based on rights and facts.
 
 Do his ‘forefathers’ mean the Prophet (S), Abu Talib, Abd al-Muttalib,
 Hashim…? And do the ‘righteous among the people of your household’ refer
-to Hamza, Ja’far, Abbas, etc?[^3]  
- Of course, this adherence to the practice of the pious ancestors does
+to Hamza, Ja’far, Abbas, etc?[^3]
+Of course, this adherence to the practice of the pious ancestors does
 not clash with blind imitation, which we will study later. This kind of
 adherence is the reference of an ignorant person to a scholar. This is
 because these pious scholars are righteous people and will not misguide
@@ -157,15 +157,15 @@ should use good understanding and reasoning, not baseless assumptions.
 yourself) as they ascertained it, then let your search for that be with
 understanding and study,*
 
-The conditions for the use of this third method include the following:  
-**a)** Asking God for assistance.  
+The conditions for the use of this third method include the following:
+**a)** Asking God for assistance.
 **b)** The intention should be the clarification of the truth, and not
-quarrel or the defeat of the foe.  
+quarrel or the defeat of the foe.
 **c)** Drawing away the prejudice of defending one specific religion,
 the intention being only the clarification of the truth, or else it
-would be of the other type, which leads to misleading.  
+would be of the other type, which leads to misleading.
 **d(** Driving away those factors which make man doubtful, such as:
-megalomania, desire for fame, too much interest in one’s possessions.  
+megalomania, desire for fame, too much interest in one’s possessions.
 **e)** Having a pure heart, away from any kind of doubt and depression
 (such as hunger, too much eating, aggressive lust, anger…) or else he
 would be like an unfettered camel that walks in the dark; he would not
@@ -222,8 +222,8 @@ The Prophet (S), elsewhere, has also said:
 </blockquote>
 
 "I will trample all the superstitious ideas and remnants of the
-pre-Islamic pagans."[^6]  
- Thus, anybody who wishes to find out the truth about religion should
+pre-Islamic pagans."[^6]
+Thus, anybody who wishes to find out the truth about religion should
 find the right methods or at least refrain from accepting the wrong
 ways. He should not resort to the blind imitation which is by itself a
 factor for being misled. He should not carry on with his doubts, either.

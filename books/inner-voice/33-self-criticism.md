@@ -37,7 +37,7 @@ protection in law than their helpless victims, under the disguise of
 ‘liberty of the individual’. And the real tragedy is that all of it is
 done in the name of ‘progress’.
 
-Is the ‘conscience’ of modern nations merely stunned?  
- Or, really dead?
+Is the ‘conscience’ of modern nations merely stunned?
+Or, really dead?
 
 

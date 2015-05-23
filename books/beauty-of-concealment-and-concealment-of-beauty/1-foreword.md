@@ -113,8 +113,8 @@ of a supreme and sublime objective. Such movement may turn you into an
 unparalleled innocent person, in the same way as it did with Fatimah,
 the venerable daughter of the holy Prophet, peace be upon him.
 
-Cultural Consulate,  
- The Islamic Republic of Iran,  
- Islamabad, Pakistan July, 1987
+Cultural Consulate,
+The Islamic Republic of Iran,
+Islamabad, Pakistan July, 1987
 
 

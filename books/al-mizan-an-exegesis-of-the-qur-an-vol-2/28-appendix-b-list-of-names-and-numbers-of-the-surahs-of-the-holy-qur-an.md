@@ -7,8 +7,8 @@ that is followed by the number/s of the Verse/s. The names of the
 chapters have been omitted for the sake of brevity.
 
 The names of the chapters with their serial numbers are given here for
-the guidance of the readers.  
- To find, for instance, the verse 5:67 in the Qur'an, the reader should
+the guidance of the readers.
+To find, for instance, the verse 5:67 in the Qur'an, the reader should
 open the fifth chapter, that its, *al-Ma'idah* (**اَلمَآئِدة** *=* The
 Table) and then find the 67th verse.
 

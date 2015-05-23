@@ -54,8 +54,8 @@ as a world to himself. He was respected by his enemies and admired by
 his friends, and no prophet in history received as much as Muhammad did
 of spontaneous obedience from his companions.
 
-3 . The Strong Faith of the Early Muslims
------------------------------------------
+3. The Strong Faith of the Early Muslims
+----------------------------------------
 
 Due to the complete honesty and the influence of the appealing
 personality of Muhammad, the faith of his companions in him was

@@ -103,10 +103,10 @@ Yes! O People! Do you know that Allah is my master and I am the master
 of the believers? And I have more authority on them than they themselves
 have:”
 
-On this moment the Prophet (S) said:  
- Ali, get up! And I stood up. Then the Holy Prophet (S) turned towards
-the people and said:  
- Of whomsoever I am the master; this Ali is also his master. O Allah!
+On this moment the Prophet (S) said:
+Ali, get up! And I stood up. Then the Holy Prophet (S) turned towards
+the people and said:
+Of whomsoever I am the master; this Ali is also his master. O Allah!
 Love those who love Ali and hate those who hate Ali!
 
 At that moment Salman Farsi asked the Messenger of Allah (S): What type
@@ -129,9 +129,9 @@ stood up and delivered a sermon in which he said:
 
 The Almighty Allah preferred the Ahlul Bayt (a.s.) through the medium of
 Islam. And he selected us and kept us away from every type of
-impurity.  
- Then he said:  
- All the people heard that the Holy Prophet (S) addressed Ali: Your
+impurity.
+Then he said:
+All the people heard that the Holy Prophet (S) addressed Ali: Your
 position to me is as the position of Haroon with Musa (a.s.)
 
 Everyone has heard and seen that on the day of Ghadeer the Holy Prophet
@@ -153,8 +153,8 @@ All the people testified this.
 In addition to this many Companions of the Prophet (S), like Ammar
 Yasir, Zaid bin Arqam, Abdullah bin Ja'far, Asbagh bin Nubata (may Allah
 be pleased with them) and other people used to argue the Caliphate and
-guardianship of Ali (a.s.) with the tradition of Ghadeer.[^5]  
-  
+guardianship of Ali (a.s.) with the tradition of Ghadeer.[^5]
+
 
 [^1]: Manaqib Khwarizmi p. 217 etc.
 

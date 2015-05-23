@@ -1,31 +1,29 @@
 Introduction and Biographical Background
 ========================================
 
- 
-
 ***In the Name of Allah, the Beneficent, the Merciful.***
 
-   
- Praise belongs to Allah, the Lord of the worlds who in His essential
+
+Praise belongs to Allah, the Lord of the worlds who in His essential
 divine substance is before time and ever‑existent, who in His own
 necessary independence is the beginning and the end and whose eternity
-does not admit of end.  
-    
- Praise belongs to Him who by His essence is Him. The Beloved is He who
+does not admit of end.
+
+Praise belongs to Him who by His essence is Him. The Beloved is He who
 is Allah, the Soul Being, the Beloved is Him. He is the Independent, the
 Eternal, who begets no one. The One, who was not begotten, without
 opponent or rival. He is the Possessor of Splendour, the One, the
 Eternal. His Oneness is not, however, of the kind to be counted. He is
 without likeness, existent before creation and time. There has been, nor
-is nothing similar to Him.  
-    
- He is untouched by time and place. The chapter of The Unity (in the
+is nothing similar to Him.
+
+He is untouched by time and place. The chapter of The Unity (in the
 Qur'an) is an indication of this. He is Existence from before time and
 without need. He is the Real and the Creator of the different essences.
 He is without annihilation, subsistent of Himself. He exists by His
-essence, the Source of Outpouring of all essences.  
-    
- May blessings and peace without end be on Muhammad, the first radiant
+essence, the Source of Outpouring of all essences.
+
+May blessings and peace without end be on Muhammad, the first radiant
 manifestation of the Essence, the first of the messen­gers of Allah,
 whose reality is the radiant point of manifestation of the essence of
 the Lord of the Worlds, who is himself also the seal of His prophets,
@@ -34,9 +32,9 @@ excellent of guardians and the seal of spiritual authority from the
 Maker of the heavens and the earth, the Commander of the Faithful and
 the just divider of people between the Fire and the Garden, the *yamin
 of Allah'* ‑ one of Allah's people of the right ‑ as mentioned in the
-Qur'an.[^1]  
-    
- May peace and blessings be also on the family and progeny of Muhammad,
+Qur'an.[^1]
+
+May peace and blessings be also on the family and progeny of Muhammad,
 the purest of the pure who are the joy and gladness of the worlds, and
 in particular on the last of these, the lord of the age and time itself,
 the caliph of the Merciful, the leader of men and jinn ‑ may God grant
@@ -45,40 +43,40 @@ known. It was in their houses that the Book was revealed. They are the
 proofs of Allah for mankind. In them and their forefathers there is no
 doubt. In particular Abu Hasan \`Ali is revered for his high station of
 knowledge. He is the tremendous news, the ark of Noah, the door of Allah
-and the final word in eloquence.  
-    
- He is the first wave from the ocean of Allah's beauty and love.  
- He is of the depths of the sea of nobility, from the Majestic.  
- He is the witness and the witnessed and, by your life, endowed with
-great eloquence,  
- He is the guide of the path leading to the fortunate abode. From God
+and the final word in eloquence.
+
+He is the first wave from the ocean of Allah's beauty and love.
+He is of the depths of the sea of nobility, from the Majestic.
+He is the witness and the witnessed and, by your life, endowed with
+great eloquence,
+He is the guide of the path leading to the fortunate abode. From God
 through him issues the intellect in its entirety. He is the king of the
-gathering of those messengers,  
- The completion of the prophets by the divine overflowing from before
-endless time,  
- The source of light for all the friends of Allah.  
- There is one sole sun which possesses radiance,  
- Although from him many lights of dawn appeared on the horizon.  
- It was that same face of the moon whose light broke though,  
-    
- But it was by him that the twelve came to rejoice in their blessing.  
- The state of Muhammad issues from the outpourings of the essence,  
- And the family of Muhammad are the nobility of creation. The family of
-the Prophet are the lords of the two worlds.  
-    
- The family of the Prophet are the keys to the doors of the gardens.  
- The family of the Prophet are the light of His beauty from before
-time.  
- The family of the Prophet are a source of gnosis which never dries
-up.  
- May the peace and blessings of Allah be upon them  
- Until the moment the trumpet is sounded on the day of rising.  
-  
+gathering of those messengers,
+The completion of the prophets by the divine overflowing from before
+endless time,
+The source of light for all the friends of Allah.
+There is one sole sun which possesses radiance,
+Although from him many lights of dawn appeared on the horizon.
+It was that same face of the moon whose light broke though,
+
+But it was by him that the twelve came to rejoice in their blessing.
+The state of Muhammad issues from the outpourings of the essence,
+And the family of Muhammad are the nobility of creation. The family of
+the Prophet are the lords of the two worlds.
+
+The family of the Prophet are the keys to the doors of the gardens.
+The family of the Prophet are the light of His beauty from before
+time.
+The family of the Prophet are a source of gnosis which never dries
+up.
+May the peace and blessings of Allah be upon them
+Until the moment the trumpet is sounded on the day of rising.
+
 
 \* \* \* \* \* \* \* \*
 
-   
- The divine decrees come into being in a world other than our own and
+
+The divine decrees come into being in a world other than our own and
 they are governed by an order and time which is par­ticular to them ‑
 such that whenever the will of Allah impinges on this world, then the
 decree passes from the Tablet of knowledge in the *malakut* (the
@@ -88,9 +86,9 @@ become visible in this world, we have taken to calling them \`events
 which happen by chance' or \`occurrences.' It is because we interpret
 what happens in relation to ourselves that we react with surprise when
 the decree of Allah causes something to come into being, or not to come
-into being, and we become happy or unhappy accordingly.  
-    
- The work before the reader came about in the following man­ner. One day
+into being, and we become happy or unhappy accordingly.
+
+The work before the reader came about in the following man­ner. One day
 some years ago one of my friends said that he had purchased a modest
 library wherein were several handwritten volumes. He asked me to take a
 look and to choose any book that I found interesting.
@@ -109,9 +107,9 @@ author, attracted my attention. Despite its worn exterior, I purchased
 it at an extravagant price. This book was in fact \`The Mysteries of the
 Revealed Law, the Stations of the Way and the Light of the Truth'
 *(Asrar al‑Shari\`ah)* which the decree of God was now placing before my
-path.  
-    
- By the style of the text I realized that it was the work of the lord of
+path.
+
+By the style of the text I realized that it was the work of the lord of
 gnostics and divines Sayyid Haydar Amuli, an Iranian gnostic of great
 standing of the eighth century AH. His writing is eloquent and he
 fulfils the demand for spiritual knowledge among those persons whose
@@ -129,9 +127,9 @@ in the Islamic Consultative Assembly (previously the National Assembly)
 was half missing and full of defects. I thus made a photocopy of my copy
 and made up for the defects of the Assembly's copy. It was again the
 workings of the divine decree which caused me to then find a copy in the
-library of Ayatullah Mar'ashi of Qum.[^2]  
-    
- Although the copy from the library of Mar'ashi was good, having been
+library of Ayatullah Mar'ashi of Qum.[^2]
+
+Although the copy from the library of Mar'ashi was good, having been
 written during the time of the Qacharis, it was not as correct as the
 copy I myself possessed. For this reason I made a further copy of my
 text and substituted it for the other which had been registered under
@@ -148,9 +146,9 @@ had all but forgotten.[^3]
 Thus I disclosed that a rare text, of which no more than two copies
 existed in the world, lay in my hands ready for printing. Mention of
 this was greeted with great pleasure, and after attending to the
-technical matters of publication, the work was then actually printed.  
-    
- As for the biography and historical importance of this divine prodigy,
+technical matters of publication, the work was then actually printed.
+
+As for the biography and historical importance of this divine prodigy,
 the men with whom he studied and the date of his death, in the majority
 of cases such details are recorded inaccu­rately; biographers have
 plagiarized details from others and in their ignorance some have added
@@ -161,9 +159,9 @@ at what actually happened and to weigh the matters up with precision in
 order to discriminate the chaff from the grain and jumbled invention
 from reality. Most of the books containing such material are sources of
 erroneous data not only with regard to the life of this man but also
-with regard to his works.  
-    
- One such book is *Al‑Kashkul fi* *ma jara li ali'l‑rasul* (Album of
+with regard to his works.
+
+One such book is *Al‑Kashkul fi* *ma jara li ali'l‑rasul* (Album of
 Events concerning the Family of the Prophet) which is attributed to
 Sayyid Amuli but in fact is the work of Haydar ibn 'Ali, a contemporary
 of Fakhr al‑Muhaqqiqin, the teacher of Sayyid Amuli. He is mentioned
@@ -171,9 +169,9 @@ with regard to the strife which broke out between the Sunnis and the
 Shiahs in 735 in Baghdad[^4] when in fact at that time Sayyid Amuli was
 only sixteen years old and had never been in Iraq. The source of this
 and many other pieces of false information is the book *Majalis
-al‑Mu'minin* (The Gather­ings of the Believers).  
-    
- As for the various (dubious) biographies there is that of Sayyid Haydar
+al‑Mu'minin* (The Gather­ings of the Believers).
+
+As for the various (dubious) biographies there is that of Sayyid Haydar
 Tuni. It is significant that it is included in *Rawdat al Jin­nah* (The
 Meadow of Paradise) as an appendix to the biography of Sayyid Amuli
 wherein many miraculous feats are ascribed to him. It is for this reason
@@ -191,9 +189,9 @@ friend of Allah and give a completely distorted picture of the story of
 his life; as a result his way of illumination has become hidden for
 subsequent generations and access to the right path, the path of light
 indicated by him, has been obstructed for the seeker, concealed from the
-sight of man­kind.  
-     
- Until now, no complete biographical commentary on this great gnostic,
+sight of man­kind.
+
+Until now, no complete biographical commentary on this great gnostic,
 which is free from extraneous and erroneous material and which contains
 material written by himself, has been written in Persian.
 
@@ -206,17 +204,17 @@ elucidate those matters about which we are ignorant.
 It was for this reason that I decided to take the task upon myself. It
 was with the help of God that I set about composing this biography,
 using material from within his own works and avoiding any commentary or
-marginal notes.  
-    
- Sayyid Amuli was born in 819 AH. His birth heralded the tremendous
+marginal notes.
+
+Sayyid Amuli was born in 819 AH. His birth heralded the tremendous
 influence of his life. He illumined the world of dark­ness and
 tribulation, and embellished this world, this planting­ ground for the
 next. He says himself at the end of the introduction to *Nass al‑Nusus*
 (The Text of Texts), which is a commentary on the *Fusus* *al‑Hikam*
 (The Bezels of Wisdom) of Shaykh Muhyi al‑Din ibn 'Arabi: \`I completed
-this commentary in 782 AH at the age of sixty three.'  
-    
- A brief genealogy and biography of his life appears in the first volume
+this commentary in 782 AH at the age of sixty three.'
+
+A brief genealogy and biography of his life appears in the first volume
 of his commentary entitled *Al‑Muhit al‑A\`zam* (The Mighty Ocean) M.S.
 301, Mar'ashi Library, Qum. The following is a translation of this: I am
 Rukn al‑Din Haydar, the son of Sayyid Taj al‑Din 'Ali Padashah, the son
@@ -229,20 +227,20 @@ Harun, the son of Hamzah, the son of \`Ubayd ullah al‑\`Araj, the son of
 Husayn Asghar, the son of Imam 'Ali ibn al‑Husayn Zayn al‑\`Abidin, the
 son of Husayn the Shahid ‑ the martyr, the son of the Commander of the
 Faithful 'Ali ibn Abi Talib, may the peace of Allah be upon them
-all.'.  
-    
- In the introduction of *Jami\` al‑Asrar* (The Compendium of Secrets) he
+all.'.
+
+In the introduction of *Jami\` al‑Asrar* (The Compendium of Secrets) he
 further states: \`Know that from the earliest vigour of my youth, namely
 from my childhood to the age of thirty or thereabouts, I was engaged in
-studying the religion of my own forefathers, the *ma'sumin* *‑ the*
+studying the religion of my own forefathers, the *ma'sumin ‑ the*
 infallible ones.
 
 With regard to the outer aspect of the *shari\`ah,* I undertook a study
-of the Im­amiyah sect and their juridical school *(madhhab)* *‑ which*
-is daily practiced amongst the Shiahs; and with regard to the inner,
-namely the study of the truth and reality *(haqiqah), I* devoted my
-attention to the Sufis and the masters of the science of the unity of
-Allah *(tawhid).*
+of the Im­amiyah sect and their juridical school *(madhhab) ‑ which* is
+daily practiced amongst the Shiahs; and with regard to the inner, namely
+the study of the truth and reality *(haqiqah), I* devoted my attention
+to the Sufis and the masters of the science of the unity of Allah
+*(tawhid).*
 
 The two aspects came together and a joining of the outer *shari\`ah* and
 the inner *haqiqah* was effected such that I reached the station of
@@ -290,23 +288,23 @@ of the stations of *tawhid* and the most sublime of positions in the
 world of unveilings.
 
 ***"That is Allah's grace; He grants it to whom He pleases, and Allah is
-the Lord of mighty grace" (62:4).***  
-    
- \`From the poetry of Shaykh Muhyi al‑Din ibn 'Arabi:  
-    
- Before this I used to deny my friend, for my heart could not accept his
-religion.  
- Now my heart has adopted every shape of belief; It has become a pasture
+the Lord of mighty grace" (62:4).***
+
+\`From the poetry of Shaykh Muhyi al‑Din ibn 'Arabi:
+
+Before this I used to deny my friend, for my heart could not accept his
+religion.
+Now my heart has adopted every shape of belief; It has become a pasture
 for the fine‑eyed gazelles and a place of worship for the monk in his
-monastery.  
- It is the temple of idols and also the Ka'bah above which they make the
-rounds.  
- It is the tablets of the Torah and also the book of the Qur'an.  
- I have drawn close to the religion of love and passion such that From
+monastery.
+It is the temple of idols and also the Ka'bah above which they make the
+rounds.
+It is the tablets of the Torah and also the book of the Qur'an.
+I have drawn close to the religion of love and passion such that From
 wherever their caravans leave I set off too ‑ for passion has become my
-way of life and faith.  
-    
- \`After my affirmation of the truth of Sufism, certain persons were
+way of life and faith.
+
+\`After my affirmation of the truth of Sufism, certain persons were
 troubled by some of its more abstruse and esoteric aspects with regard
 to the Real ‑ such people imagined that I was availing myself of invalid
 and other spurious means. May they realize that this was not the case
@@ -324,10 +322,9 @@ are the teachers of the *shari\`ah* and the leaders of the *tariqah* and
 the poles of the *haqiqah;* they are the caliphs and the vicegerents of
 Allah in the heavens and the earth; they are the manifestation of the
 power and majesty of Allah in His *mulk* ‑the earth and heavens ‑ and in
-His *malakut* *‑ the* realm of the spirits and angels. I swear by God
-that if they did not exist, then the heavens would not be standing, the
-earth would not be outspread and the creatures would not be living in
-them.
+His *malakut ‑ the* realm of the spirits and angels. I swear by God that
+if they did not exist, then the heavens would not be standing, the earth
+would not be outspread and the creatures would not be living in them.
 
 This is the meaning of Allah's words to His Prophet, "If you were not,
 then I would not have created the cosmos"; here what is meant is the
@@ -343,9 +340,9 @@ reason of his nobility, sublimity and elevated station.' By the
 consensus of the nation of Muslims, there are none greater than those
 great persons ‑ neither from an intellectual standpoint, nor from
 conclusions drawn from the body of the traditions, nor from the station
-of unveilings.  
-    
- \`It was the Prophet's own successor ('Ali) who proclaimed with pride:
+of unveilings.
+
+\`It was the Prophet's own successor ('Ali) who proclaimed with pride:
 "I am the sign and indication of Allah, the All‑Pow­erful and the
 Conqueror; I am the reality of the secret truths; I am the leader and
 guide of the heavens; I sit with the angels who make praise and with
@@ -353,18 +350,18 @@ Gabriel and I am the friend of Mika'il; I am the guide of the planets; I
 am the tree of Sandalwood of the planets; I am the guardian of the
 thunder and the dazzling lightning; I am the face of Allah, the flank of
 Allah, the hand of Allah; I am the first and the last, the manifest and
-the hidden." '  
-    
- Sayyid Amuli also says in his own commentary: \`After under­standing
+the hidden." '
+
+Sayyid Amuli also says in his own commentary: \`After under­standing
 religion and its associated sciences and after mastering the different
 degrees of knowledge with regard both to the intellect and the related
 body of *ahadith* (traditions of the Prophet) this study being
 undertaken partly in the town of Amul, birth­place and childhood home of
 myself and my forefathers, partly in Khurasan and Astarabad, and partly
 in Isfahan ‑ I con­tinued to strive until I arrived at the core and
-inner meaning of these matters.'  
-    
- These studies lasted for approximately twenty years until for the
+inner meaning of these matters.'
+
+These studies lasted for approximately twenty years until for the
 second time I returned from Isfahan to Amul. Here I took up employment
 in the service of the just and temperate Padshah Fakhr al‑Dawlah, the
 son of Shah Kay‑Khisraw ‑ may Allah grant them both a fair place in the
@@ -377,9 +374,9 @@ this special treatment as he himself was descended from Anusharvan,
 Yazdagird and Perviz, one of his close relatives being a Padshah by the
 name of Ardishir, son of Hasan, the son of Taj al‑Dawlah whom Tahir
 al‑Din Faryabi Sha'ir, Siraj al‑Din Qamari and other poets and reciters
-of *qasidahs* (odes) would honour and praise in their writings.  
-    
- \`After some time, the just padshah, the champion of his time, the
+of *qasidahs* (odes) would honour and praise in their writings.
+
+\`After some time, the just padshah, the champion of his time, the
 living padshah of padshahs, the brave unflinching warrior Fakhr
 al‑Dawlah made a request to me. Thus it was that just as Jalal al‑Dawlah
 Iskandar and the majestic Sultan Gustaham and Tus Malik came to be
@@ -388,9 +385,9 @@ take up duties in his service. It was not long before ‑ by the blessing
 of his company ‑ I acquired such great position and wealth that it is
 impossible to imagine. In this way I came to live a life of luxury,
 prosperity and honour amongst the people, my friends and my fellow
-townsfolk.  
-    
- \`I passed some time in this state until a desire for the truth, a
+townsfolk.
+
+\`I passed some time in this state until a desire for the truth, a
 desire both instinctive and natural, began to flare up within me and
 Allah made me aware of the evil and corruption growing in me as a result
 of my ignorance and forgetfulness of Him. It became clear to me that I
@@ -402,9 +399,9 @@ It was at this moment that I prayed to the Lord from deep within myself.
 I implored him to free me from these actions of mine ‑ all my passion
 and desire was to leave this world and its pleasures. I found within
 myself that I was ready to turn in the direction of the Real and to set
-out on the path of *tawhid* (divine unity).  
-    
- \`It was for this reason that I no longer wished to keep the company of
+out on the path of *tawhid* (divine unity).
+
+\`It was for this reason that I no longer wished to keep the company of
 those padshahs nor to continue living in my own locality and place of
 birth, despite my love of that place; nor too could I continue to sit
 with my friends and brothers. It seemed the best thing to do was to
@@ -420,17 +417,17 @@ out via Ray, Qazvin and Isfahan with the intention of making the
 pilgrimage and visiting the sacred House of Allah and with the intention
 of visiting my forefather, the Messenger of Allah and the infallible
 Imams. In this way I arrived in Qazvin where I had previously spent a
-long period of my youth amidst wealth and honour.  
-    
- \`It was because a contract of brotherhood had been made with the young
+long period of my youth amidst wealth and honour.
+
+\`It was because a contract of brotherhood had been made with the young
 men of that town (and by this I mean with the group of Sufis) that a
 contract was also made between myself and the perfect shaykh, the one of
 arrival, Nur al‑Din Tihrani ‑ Tihran being a village on the way to
 Isfahan in the region of Dardasht and which is pronounced with the open
 \`t' sound by the people in contrast to the Arabic \`t' with which it
-was originally spelt.  
-    
- \`Shaykh Nur al‑Din Tihrani was a gnostic of Allah and an ascetic. All
+was originally spelt.
+
+\`Shaykh Nur al‑Din Tihrani was a gnostic of Allah and an ascetic. All
 the people, both the common and the elite, accepted him and became his
 disciples. I spent a month, or rather, a little less than a month, in
 his company ‑ until he gave me the real patched garment of the Sufis to
@@ -449,9 +446,9 @@ the honour of visiting the sacred site of the martyrdom of the
 Com­mander of the Faithful, the graves of Husayn, Musa and Jawad
 together with the Imams of Samarra. I spent a whole year in these places
 before setting out in the direction of the Ka'bah with the intention of
-performing the pilgrimage. I was alone and destitute when I set out.  
-    
- \`Having visited the tombs of the Messenger and the four Imams in
+performing the pilgrimage. I was alone and destitute when I set out.
+
+\`Having visited the tombs of the Messenger and the four Imams in
 Madinah, I returned to Iraq and in the holy city of Najaf – may Allah
 bless those who visit it ‑ I took up residence and busied myself with
 spiritual exercises, periods of isolation *(Khal­wah),* worship, and the
@@ -478,9 +475,9 @@ Thus it was that I came to write many commentaries, made many notes on
 this subject and then wrote several other books. Twenty years have
 elapsed since that date and the books which I have written now number
 between twenty and twenty‑four; these I catalogued with an index, the
-last of the books being a commentary on the Quran.'  
-    
- Up to this point Sayyid Amuli records in detail the spiritual journey
+last of the books being a commentary on the Quran.'
+
+Up to this point Sayyid Amuli records in detail the spiritual journey
 upwards to his Lord by a process of divine attraction. As for the
 journey through the self and the death of desire, he continues the
 description of his own states in the introduction of his commentary of
@@ -513,9 +510,9 @@ I thanked God for His blessings; it is He who is the cause of eternal
 life and constant prosperity:
 
 ***"Most surely this is the mighty achievement. For the like of this
-then let the workers work). (37:60‑6l )***  
-    
- \`Likewise I saw again on another occasion that I was sitting in the
+then let the workers work). (37:60‑6l )***
+
+\`Likewise I saw again on another occasion that I was sitting in the
 shop of some friends. On my back there was copper recep­tacle ornamented
 with gold, just like those of the water carriers who would tour the
 bazaars pouring water for the people to drink. This receptacle had a
@@ -528,9 +525,9 @@ time as I was standing. Moreover, just as I was giving water to the
 people to drink, I would take a drink myself. Because of this strange
 picture, I would repeatedly burst out laughing at myself and I felt
 great amazement at this state until I finally woke up. This dream was
-instrumental in bringing me many tremendous insights.  
-    
- \`On another occasion, in Isfahan, I saw myself seated holding a
+instrumental in bringing me many tremendous insights.
+
+\`On another occasion, in Isfahan, I saw myself seated holding a
 severed head in my hand; at the same time my own head had been severed,
 although I had no knowledge of this. I was busy turning and playing with
 the head and at any moment would be seized by laughter at this strange
@@ -560,9 +557,9 @@ Such events often occur to myself and our spiritual friends, but despite
 being far‑removed from the state of man, they are not extraordinary for
 God:
 
-***"And this is not difficult for Allah" ' (14:20).***  
-    
- At the end of *Muqaddimah Fusus* (An Introduction to the Bezels), which
+***"And this is not difficult for Allah" ' (14:20).***
+
+At the end of *Muqaddimah Fusus* (An Introduction to the Bezels), which
 is about the meaning for him *of* the unveilings and secrets of the
 *Fusus* *al‑Hikam,* he describes the holy city of Najaf as being the
 cause of openings from the unseen occurring in his heart ‑ just as one
@@ -587,15 +584,15 @@ of Allah were always on my tongue:
 Apostle, and then death overtakes him, his reward is indeed with Allah
 and Allah is Forgiving, Merciful" (4:100),***
 
-and also the lines of that gnostic and lover of the Truth who says:  
-    
- I have left all men for the sake of Your satisfaction.  
- I have abandoned as orphans my own sons for the sake of Your
-witnessing.  
- Even if You cut me to pieces, my heart would still long for no one but
-You.  
-    
- This was my state when I arrived in Makkah and completed the obligatory
+and also the lines of that gnostic and lover of the Truth who says:
+
+I have left all men for the sake of Your satisfaction.
+I have abandoned as orphans my own sons for the sake of Your
+witnessing.
+Even if You cut me to pieces, my heart would still long for no one but
+You.
+
+This was my state when I arrived in Makkah and completed the obligatory
 pilgrimage together with all the necessary and supererogatory rites. It
 was at this point ‑ in 751 AH ‑ that I conceived the desire and
 intention to stay forever in the proxim­ity of that illustrious house.
@@ -606,9 +603,9 @@ and conceived the intention of staying within the confines of his
 splendid grave. At that moment, however, many obstacles were placed in
 my path, the greatest of these being a physical sickness, which made it
 necessary for me to return to Iraq and take up residence in the familiar
-surroundings of Najaf.  
-    
- \`Thus I returned without further trouble to this spiritual city and
+surroundings of Najaf.
+
+\`Thus I returned without further trouble to this spiritual city and
 busied myself with religious exercises, pious seclusion and acts of
 worship ‑ of an intensity and severity never before achieved. By this
 means, throughout all this period, meanings, gnoses, realities and
@@ -638,18 +635,18 @@ Allah).
 With the help of the Lord it was completed in the best and most perfect
 manner and in the finest and most eloquent language such that no one
 surpassed me in this matter, neither in the way it was arranged nor in
-the way it was edited.  
-    
- \`Allah then commanded me to undertake a commentary on the *Fusus*
+the way it was edited.
+
+\`Allah then commanded me to undertake a commentary on the *Fusus*
 *al‑Hikam* which is a work directly inspired by His Messenger ‑ it was
 the latter who gave it to Shaykh Muhyi al‑Din in a dream saying:
 "Communicate it to those slaves who are worthy of it and who are ready
 to receive it". Thus I began this work, some thirty years after first
 taking up residence in Najaf, in 781 AH and completed it in 782 AH, a
 period of one year or less; my age at that time was sixty three
-years.'  
-    
- The rest of what happened to him is described in different places of
+years.'
+
+The rest of what happened to him is described in different places of
 his own commentary; it is thus that he says: \`After this activity I
 began service with the great shaykh of perfection, the sultan of the
 scholars, the Honour of the Truth and the Religion, Abu Mutahhir Hilli.
@@ -662,9 +659,9 @@ behaviour which caused him to believe that my station was only second to
 that of infallibility.
 
 He also issued many other licenses for me ‑ both of a general and
-explicit nature ‑ in all the sciences, one of which I shall now give:  
-    
- The most excellent Sayyid, the great Imam, the worthiest of the
+explicit nature ‑ in all the sciences, one of which I shall now give:
+
+The most excellent Sayyid, the great Imam, the worthiest of the
 scholars of the world and the most knowledgeable of the noble amongst
 men, the guide to those on the spiritual path, the saviour of the souls
 of the gnostics, the renewer of the faith and the giver of life to the
@@ -694,26 +691,26 @@ Moreover, he has permission to transmit the books of Shaykh Mufid (there
 being thus two paths of transmission from himself to Shaykh Mufid)
 together with the books of Shaykh Tusi, Sayyid Murtada and all the
 *ahadith* transmitted from the family of the Prophet (the "Four Books"),
-all with a complete chain of transmission.'  
-    
- This detailed license *(ijazah)* was given in Ramadan, 761 AH in
+all with a complete chain of transmission.'
+
+This detailed license *(ijazah)* was given in Ramadan, 761 AH in
 Hillah; the Arabic text is in my possession, but for reasons of brevity
 I have omitted to mention the full chain of transmission, making do with
-a translation and resume of the whole.  
-    
- After recording this *ijazah* he says: \`This kind of license given to
+a translation and resume of the whole.
+
+After recording this *ijazah* he says: \`This kind of license given to
 me with regard to the sciences based on the *ahadith* (traditions) and
 on reason is well‑known only amongst the Arabs.' In Rajab 753 AH be was
 given a license to teach *Manazil al‑Sa'irin* and *Fusus al‑Hikam,*
 together with their commentaries, by \`Abd al­ Rahman ibn Ahmad
 al‑Muqaddasi; this license is written in much the same manner as that of
 Fakhr al‑Muhaqqiqin and in it we read: \`I have benefited from him more
-than he (Sayyid Amuli) has benefited from me.'  
-    
- He then mentions a method of *dhikr* (remembrance of Allah) from
+than he (Sayyid Amuli) has benefited from me.'
+
+He then mentions a method of *dhikr* (remembrance of Allah) from
 Muhammad ibn Abi Bakr Simnani. It is possible that he was instructed by
 this man himself because he was one his con­temporaries. Sayyid Amuli
-goes on to say: \`Some of the *fuqara'* *‑* the bereft in Allah ‑ have
+goes on to say: \`Some of the *fuqara' ‑* the bereft in Allah ‑ have
 explained their own way of *dhikr',* and the following is quoted:
 
 \`This poor fakir Muhammad ibn Abi Bakr Simnani ‑ may God bestow on him
@@ -743,9 +740,9 @@ Abu \`Abdullah ibn \`Uthman, from Abu Ya'qub Nahrjuri, from Abu Ya'qub
 Susi, from \`Abd al‑Wahid ibn Zayd, from Kamil ibn Ziyad Nakh'i (may God
 be content with them all), from the Commander of the Faithful, from the
 Messenger of Allah, from Gabriel the Guardian of Revelation, from the
-Lord of Power may He be exalted.’[^9]  
-    
- Sayyid Amuli describes the method of instruction of the *dhikr:*
+Lord of Power may He be exalted.’[^9]
+
+Sayyid Amuli describes the method of instruction of the *dhikr:*
 \`Transmission of the *dhikr* takes on a distinct form and order amongst
 the people of this science'; a concise description is con­tained in the
 detailed *ijazah of* the above‑mentioned fakir, namely Muhammad ibn Abi
@@ -776,11 +773,11 @@ Muhammad Suhrawardi Bakari, to Mu'in al‑Din, one of the companions of
 the Shaykh of the Shaykhs of the land of Rum (the west or Byzantine), to
 Ahmad ibn Mas'ud in the town of Konya, one of the shaykhs of my father
 and forefathers, who then transmitted it to myself, the fakir, Muhammad
-ibn Abi Bakr Simnani on the 10 Jumada al‑Ula in 731 AH.'  
-    
- As for the taking on of the patched robe, this has been trans­mitted
+ibn Abi Bakr Simnani on the 10 Jumada al‑Ula in 731 AH.'
+
+As for the taking on of the patched robe, this has been trans­mitted
 from the Commander of the Faithful in various chains of transmission. He
-goes on to say: \`The *kharqah* *‑ the* patched garment ‑ both among the
+goes on to say: \`The *kharqah ‑ the* patched garment ‑ both among the
 common and the elite is an expression of the secret of *wilayah*
 (intimacy with Allah) and the hidden wisdom of *tawhid.*
 
@@ -797,17 +794,17 @@ development and his donning of the outer *kharqah* has already been
 mentioned; he himself says: \`Most of the chains of transmis­sion of the
 *kharqah* come through Junayd al‑Baghdadi, as he was the leader of a
 community, the Shaykh of a spiritual order and lived soon after the time
-of the infallible Imams."[^10]  
-    
- He then relates the chain of transmission of the patched robe of the
+of the infallible Imams."[^10]
+
+He then relates the chain of transmission of the patched robe of the
 perfected shaykh Sa'd al‑Din Hamawi and thereafter the chain of the
 gnostic and *muhaqqiq* (he who has arrived at the station of inner
 truth) Shihab al‑Din Suhrawardi according to the license that he had
 given to some of his own disciples ‑ a chain which stretches back in
 three different paths of transmission to the Commander of the
-Faithful.  
-    
- He quotes this license given by Shaykh Shihab al‑Din to his disciples
+Faithful.
+
+He quotes this license given by Shaykh Shihab al‑Din to his disciples
 saying: \`Know that the way of the Sufis has two aspects: the aspect of
 company and that of the patched robe. As for the aspect of company, I
 trace my relationship to my shaykh, Shaykh al‑Islam Muhammad ibn Hamawi
@@ -815,18 +812,18 @@ who himself held company with Khidr. As for the aspect of my *kharqah,*
 know that Muham­mad ibn Hamawi took it on from his grandfather Imam
 Muham­mad ibn Hamawi... from Ibn 'Ali Farmadi, from the pole of the age
 Abu'l‑Qasim Gargani, from Ma'ruf al‑Karkhi, from 'Ali ibn Musa al‑Rida
-and the latter took it on from the Seal of the Prophets (Muhammad).  
-    
- Shaykh Shihab al‑Din Suhrawardi, known as Abu Hafs says: "My paternal
+and the latter took it on from the Seal of the Prophets (Muhammad).
+
+Shaykh Shihab al‑Din Suhrawardi, known as Abu Hafs says: "My paternal
 uncle Shaykh al‑Islam Abu'1‑Najib Dia' al‑Din \`Abd al‑Qahir \`Abdullah
 ibn Muhammad Suhrawardi invested me with the patched robe and he himself
 was invested with it by his paternal uncle Wajih al‑Din Muhammad known
 as \`Amawiyya... and he, by two great shaykhs, the first Akhi Faraj
 al‑Din... whose chain of transmission reaches to 'Ali ibn Musa al‑Rida
 and the second by his father Muhammad ibn \`Amawiyya from Shaykh Aswad
-Daynuri whose chain also reaches to 'Ali ibn Musa al‑Rida.’[^11]  
-    
- In the same book *Al‑Muhit al‑A\`zam,* he relates how, besides the
+Daynuri whose chain also reaches to 'Ali ibn Musa al‑Rida.’[^11]
+
+In the same book *Al‑Muhit al‑A\`zam,* he relates how, besides the
 chain of transmission of the patched robe of Muhammad ibn Abi Bakr
 Simnani, he also took on another *kharqah* from the hand of Shaykh Nur
 al‑Din Tihrani: \`I (Muhammad ibn Abi Bakr), the shaykh of the shaykhs
@@ -834,27 +831,27 @@ of Abu'l‑Hasan ibn \`Umar ibn Abi l‑Hasan, have been invested with the
 *kharqah* from \`Imad al‑Din \`Umar ibn Abi'l‑Hasan 'Ali ibn Muhammad
 Hamawi and he held company with his grandfather Imam Muhammad ibn Hamawi
 (this being an indication that Sayyid Amuli also took on the *kharqah*
-from the hand of Muhammad ibn Abi Bakr Sim­nani).'  
-    
- In conclusion he says: \`My arriving at the Truth and my unveilings
+from the hand of Muhammad ibn Abi Bakr Sim­nani).'
+
+In conclusion he says: \`My arriving at the Truth and my unveilings
 were not dependent on the above; my arrival was first and foremost
 because of God rather than on account of my own spiritual progress. I
-was a *majdhub* *‑ a* person intoxicated by divine attraction ‑ amongst
+was a *majdhub ‑ a* person intoxicated by divine attraction ‑ amongst
 spiritual travelers: I was of the beloved of Him rather than of those
 who love Him and the former have precedence over the latter ‑ just like
 the prophets, the saints and their followers in the correct path for
 Allah says: "Those who have been recorded with good deeds from Ourselves
 they are far removed from the bad"; I had achieved the desired goal
 through the care and grace of God, not through any action on my part nor
-through any knowledge I possessed.’[^12]  
-    
- Up to this point we have described the life of this great gnostic
+through any knowledge I possessed.’[^12]
+
+Up to this point we have described the life of this great gnostic
 Sayyid Haydar Husayni Amuli, the pole of the gnostic cosmos and the moon
 in the heaven of glory and sublimity up to the year 782 AH, using his
 own words of truth and drawing from different places from a variety of
-his works.  
-    
- Many of the works of this great gnostic resemble the name of the
+his works.
+
+Many of the works of this great gnostic resemble the name of the
 fabulous Simurgh; nothing remains of them but their titles. From 782 AH
 onwards we have no information about the life of this sage. We know
 nothing about when and where he died ‑ except that he wrote a book
@@ -862,19 +859,19 @@ entitled *Risalah fi'l‑\`Ulum il‑\`Aliyya'* (A Treatise concerning the
 Sublime Sciences) in 787 AH, and as Sahib Dhari'ah has noted: \`In it is
 mentioned that it was written after the book *Muntakhab al‑Ta'wil* (An
 Anthology of Hermeneutics),' but other than this we have no other
-information or indication of any date.  
-    
- As for the body of gnostic writings he has left us, it is better that I
+information or indication of any date.
+
+As for the body of gnostic writings he has left us, it is better that I
 describe them by quoting from his own illuminating words which are the
 truest and most appropriate record of the matter; indeed his work is as
 a burning torch in the darkness of history and a shining lamp in the
-darkened hearts of the ignorant.  
-    
- In the introduction of *Nass al‑Nusus* (The Text of Texts) he himself
+darkened hearts of the ignorant.
+
+In the introduction of *Nass al‑Nusus* (The Text of Texts) he himself
 says, after the opening section entitled \`The historical circumstances
-related to the writing of the books':  
-    
- 1. Realize, O seeker of knowledge, that God painted the eye of the
+related to the writing of the books':
+
+1. Realize, O seeker of knowledge, that God painted the eye of the
 heart with the light of guidance and success after I finished writing
 *Majma'al‑Asrar wa Manba'al‑Anwar* (Collection of Secrets and the Source
 of Lights);[^13] this work contains an explanation of *tawhid* (the
@@ -891,9 +888,9 @@ absolute truth; thereafter follows a clarification of these matters with
 respect to prophethood, to the message of prophecy and to *wilayah;* in
 conclusion there is an investigation into the *shari\`ah, tariqah* and
 *haqiqah* together with an investigation into submission, faith and
-certainty accompanied by appropriate examples.  
-    
- 2. I then undertook *Risalat al‑Wujud fi* *Ma\`rifat al‑Ma\`bud*
+certainty accompanied by appropriate examples.
+
+2. I then undertook *Risalat al‑Wujud fi* *Ma\`rifat al‑Ma\`bud*
 (Treatise on Existence; on the Knowledge of the Deity) concern­ing the
 nature of existence ‑ with respect to absolute, acciden­tal and
 necessary existence and also with respect to the oneness of existence,
@@ -904,37 +901,37 @@ have proved that He, that is
 necessarily cannot be conceived as non‑existent; I have also shown that
 that which is in the outward is not other than Him for "He is the First
 and the Last and the Ascendant (over all) and the Knower of hidden
-things, and He is Cognizant of all things" (57:3).***  
-    
- 3. After this I completed *Risalal al‑Ma\`adfi* *Ruju\`il‑\`Ibad*
+things, and He is Cognizant of all things" (57:3).***
+
+3. After this I completed *Risalal al‑Ma\`adfi* *Ruju\`il‑\`Ibad*
 (Treatise of Eschatology, on the Return to the Godhead) together with a
 study of those matters pertaining to the Last Day and the rising from
 the grave, according to its three aspects: the minor day of rising, the
 intermediate day and the major day – and a proof of these according to
 the twelve risings of the outward and inward within the balanced
-framework of the cosmos as a whole and within that of the human self.  
-    
- 4. I then finished *Al‑Usul wa 'l‑Arkan fi* *tahdhibi 'l‑Ashab wa‘l
+framework of the cosmos as a whole and within that of the human self.
+
+4. I then finished *Al‑Usul wa 'l‑Arkan fi* *tahdhibi 'l‑Ashab wa‘l
 Ikhwan* (Principles and Pillars, concerning the Reform of the Companions
 and Brothers). This work describes the five princi­ples of belief, and
 each belief is examined with regard to the three classifications of
 *shari\`ah, tariqah* and *haqiqah,* and the five pillars of the religion
-(prayer, fasting, alms tax, pilgrimage and *jihad ).*  
-* *  
- 5. I then completed *Risalat al‑I1m* (Treatise of Knowledge) which
+(prayer, fasting, alms tax, pilgrimage and *jihad ).*
+* *
+5. I then completed *Risalat al‑I1m* (Treatise of Knowledge) which
 deals with the three groups of men, namely the Sufis, the sages, and the
 scholastic theologians *(mutakallimun);* in it I de­scribe the different
 spheres of knowledge of the three groups, including the principles,
-major subject matters and finer points associated with each.  
-    
- 6. There then followed the *Risalat al‑\`Aql wa 'l‑Nafs* (Treatise on
+major subject matters and finer points associated with each.
+
+6. There then followed the *Risalat al‑\`Aql wa 'l‑Nafs* (Treatise on
 the Intellect and the Soul) which contains an examination of the
 difference between the intellect and the soul ‑ with regard to both the
 particular and the general ‑ together with an inves­tigation into other
-related matters.  
-    
- 7. ... thereafter *Al‑Amanat al‑ilahiyah fi* *tayin al‑khilafat al*
-*­rabaniyyah* (Divine Trusteeship in Man, determining the Divine
+related matters.
+
+7. ... thereafter *Al‑Amanat al‑ilahiyah fi* *tayin al‑khilafat al
+­rabaniyyah* (Divine Trusteeship in Man, determining the Divine
 Caliphate) which is concerned with the *ayah:*
 
 ***"Surely We offered the trust to the heavens and the earth..."
@@ -943,9 +940,9 @@ Caliphate) which is concerned with the *ayah:*
 and offers an explanation of why the mention of the injustice and
 ignorance of man is as a form of praise of the highest order on behalf
 of Allah ‑ in contrast to those shortsighted persons who think that this
-*cyah* refers to the disgrace and ignominy of man.[^14]  
-    
- 8. *... Al‑Hujub wa Khulasatu 'l‑Kutub* (The Veils and Quintessence of
+*cyah* refers to the disgrace and ignominy of man.[^14]
+
+8. *... Al‑Hujub wa Khulasatu 'l‑Kutub* (The Veils and Quintessence of
 Books), containing a study of the *ayah:*
 
 ***"Then thrust him into a chain the length of which is seventy cubits"
@@ -961,21 +958,21 @@ thousand years" and "three hundred thousand years"; such metaphors are
 similar to the statement of one of the great shaykhs: "I am two years
 younger than my Lord", and that of another: "Between myself and my Lord
 there is no differ­ence except that I come first in the state of
-slavery."  
-    
+slavery."
+
 *9. ...Risalat al‑Faqr wa Tahqiq al‑Fakhr* (Treatise on Poverty and the
 Fulfilment of Glory) containing a comparison of the three *ahadith
-related from* the Prophet concerning *faqr* *‑ poverty:* "Poverty is
-*my* honour and by it I gain distinction over the rest of the prophets
-and messengers" and "Poverty means blackness of face in the two worlds"
-and "Poverty brings one almost to a state of unbelief *(kufr)."*[^15]  
-* *  
- 10. *...Risalat al‑Asma'i‑Ilahi wa Ta’yin al‑Mazahiruha min al­-Ashkhas
+related from* the Prophet concerning *faqr ‑ poverty:* "Poverty is *my*
+honour and by it I gain distinction over the rest of the prophets and
+messengers" and "Poverty means blackness of face in the two worlds" and
+"Poverty brings one almost to a state of unbelief *(kufr)."*[^15]
+* *
+10. *...Risalat al‑Asma'i‑Ilahi wa Ta’yin al‑Mazahiruha min al­-Ashkhas
 al‑Insaniyah* (Treatise on the Divine Names and Identifi­cation of their
 Epiphanies among Human Beings) which deals with the prophets from Adam
-to Muhammad ‑ may peace be upon them.  
-    
- 11. * . ...Risalat al‑Nafs fi* *Ma\`rifat al‑Rabb* (Treatise of the
+to Muhammad ‑ may peace be upon them.
+
+11. * . ...Risalat al‑Nafs fi* *Ma\`rifat al‑Rabb* (Treatise of the
 Soul; on the Knowledge of God) which contains the saying of the Prophet:
 "Whoever knows himself knows his Lord" and which is composed in the
 light of the words of Allah:
@@ -984,9 +981,9 @@ light of the words of Allah:
 
 and
 
-***"And in your own souls (too); will you not then see?" (51:21).***  
-    
- 12. *...Asrar al‑Shari\`ati wa Anwar al‑Haqiqah* (Mysteries of the Law
+***"And in your own souls (too); will you not then see?" (51:21).***
+
+12. *...Asrar al‑Shari\`ati wa Anwar al‑Haqiqah* (Mysteries of the Law
 and Lights of the Truth) containing a description of each by the people
 of each group ‑ just as Allah says:
 
@@ -994,45 +991,45 @@ of each group ‑ just as Allah says:
 
 and just as the Prophet has said: "The law *(shari\`ah) is* my speech,
 the spiritual way *(tariqah)* my work and the truth *(tariqah)* my inner
-state.[^16]  
-    
- 13. *...Risalat al-Jadawal* (Treatise of the Diagrams) also entitled
+state.[^16]
+
+13. *...Risalat al-Jadawal* (Treatise of the Diagrams) also entitled
 *Madarij al‑Salikin fi* *Maratib al‑\`Arifin* (Degrees of the pilgrims,
 concerning the Ranks of the Gnostics) describing the hundred basic
 stations of the journeying and the thousand subordinate grades, drawn
-from a cycle ofone hundred divisions each contain­ing ten grades:  
-    
- 14 *. ...Naqd al‑Nuqud fi* *Ma\`rifat al‑Wujud* (Final Examination of
+from a cycle ofone hundred divisions each contain­ing ten grades:
+
+14 *. ...Naqd al‑Nuqud fi* *Ma\`rifat al‑Wujud* (Final Examination of
 the Knowledge of Existence) which is a selection from our *Risalat
-al‑Wujud.*[^17]  
-* *  
+al‑Wujud.*[^17]
+* *
 *15. ...Muntaqa al‑Ma\`ad* fi *Murtada il‑\`Ibad* (A Quintessential
 Es­chatology of the Chosen One amongst the Slaves) which is a selection
-from our work *Al‑Ma\`ad.*  
-* *  
+from our work *Al‑Ma\`ad.*
+* *
 *16. ...Risalat al‑Tanbih fi* *l‑Tanzih* (Treatise of Advice in the *via
 negations) which,* as is clear (by its title), is about Allah ‑ may He
-be exalted.  
-    
- 17 *. ... Amthalat al‑Tawhid wa Abniyat al‑Tajrid* (Examples of Divine
+be exalted.
+
+17 *. ... Amthalat al‑Tawhid wa Abniyat al‑Tajrid* (Examples of Divine
 Unity and the Principles of Divestment) after the manner of the book
-*Lama\`at \`Iraqi.*[^18]   
-* *  
- 18. *... Risalatu Kanz al‑Kanuz wa Kashf al‑Rumuz* (Treatise of the
-Treasure of Treasures and the Unveiling Symbols).  
-    
- 19. *... Nihayat al‑ Tawhid* fi *Bidayat at‑ Tajrid* (The Conclusion of
+*Lama\`at \`Iraqi.*[^18]
+* *
+18. *... Risalatu Kanz al‑Kanuz wa Kashf al‑Rumuz* (Treatise of the
+Treasure of Treasures and the Unveiling Symbols).
+
+19. *... Nihayat al‑ Tawhid* fi *Bidayat at‑ Tajrid* (The Conclusion of
 Divine Unity in the Beginning of Divestiment) which is a selec­tion from
-*Jami \`al‑Asrar* and *Manba \`al‑Anwar.*  
-* *  
- 20. *…. Tayin al‑Aqtab wa 'l‑Awtad* (Identification of the Poles and
+*Jami \`al‑Asrar* and *Manba \`al‑Anwar.*
+* *
+20. *…. Tayin al‑Aqtab wa 'l‑Awtad* (Identification of the Poles and
 Supports) containing mention of nineteen persons (seven great prophets
 and twelve Imams) ‑ no more nor less (neither three hundred nor forty
 nor seven nor three nor one) since the number is nineteen with regard to
 the station of realization; I have also composed a further forty or so
-writings in a similar vein, in both Arabic and Persian.  
-    
- 21*.* ...after completion of the above mentioned works ‑ during a long
+writings in a similar vein, in both Arabic and Persian.
+
+21*.* ...after completion of the above mentioned works ‑ during a long
 period extending over thirty years ‑ I wrote a commen­tary on the Qur'an
 entitled *Al‑Muhit al‑A\`zam wal‑Tawd al­ Ashamm fi* *Ta'wil Kilab
 illahi 'l‑\`Aziz al‑Muhkam* (The Mighty, Ocean and Lofty Mountain;
@@ -1051,29 +1048,29 @@ intimate with these matters affirm that this work has no equal, in
 particu­lar with respect to Qur'anic knowledge. Moreover, this work is
 not a product of any effort of any effort on my part, but rather it is
 the result of the outpourings from the unseen ‑ from the Beneficent
-Himself.[^19]  
-    
- 22. After completion of all these writings a group of persons of
+Himself.[^19]
+
+22. After completion of all these writings a group of persons of
 perspicacity together with a number of eminent men of Allah were
 exceedingly desirous that I write for them a commentary on the *Fusus
 al‑Hikam...* and this work is the same *Nass al‑Nusus fi* *Sharh
 al‑Fusus* (The Text of Texts Elucidating the Bezels) men­tioned at the
-beginning of the introduction.'  
-    
- These are books and essays *(Rasa'il)* written by Sayyid Amuli up to
+beginning of the introduction.'
+
+These are books and essays *(Rasa'il)* written by Sayyid Amuli up to
 *782* AH and which have been described by his own hand in the
-introduction to the *Nass al‑Nusus* *‑ the* commentary on the Fusus
-*al‑Hikam* of Shaykh Muhyi al‑Din Ibn 'Arabi.  
-    
- He has made no reference to any other essays, but other works written
-in his graceful hand have been recorded by the bibliog­raphers:  
-    
- 23. *Risalat al‑Ta'wilat* (Treatise of Spiritual Hermeneutics), a work
+introduction to the *Nass al‑Nusus ‑ the* commentary on the Fusus
+*al‑Hikam* of Shaykh Muhyi al‑Din Ibn 'Arabi.
+
+He has made no reference to any other essays, but other works written
+in his graceful hand have been recorded by the bibliog­raphers:
+
+23. *Risalat al‑Ta'wilat* (Treatise of Spiritual Hermeneutics), a work
 of Qur'anic commentary which is a selection from the book *Al‑Bahr
 al‑Khadm* (The Great Sea) and which is also known as *Muntakhab
-al‑Ta'wil* (Extract of Hermeneutics).  
-    
- 24. *Masa'il al‑Amulial* (Amuli Questions), a copy of which,
+al‑Ta'wil* (Extract of Hermeneutics).
+
+24. *Masa'il al‑Amulial* (Amuli Questions), a copy of which,
 con­sisting of approximately six pages and written in the hand of the
 author, exists in the Central University Library of Tehran (under the
 file no. *1022);* in it he says: \`These treatises are concerned with
@@ -1094,13 +1091,13 @@ the realm of theology and jurisprudence. They, together with the
 accompanying treatises, are all in Arabic and all are written in the
 hand of Sayyid Amuli; the replies in the form of *fatwas* are in the
 hand of Fakhr al‑Muhaqqiqin Hilli; the date of the writing of the
-*Masa'd is 761* and the other *risalahs 762* AH.[^20]  
-    
- 25. *Risalatu fi'l‑\`Ulum al‑\`Aliyah* (Treatise on the Sublime
+*Masa'd is 761* and the other *risalahs 762* AH.[^20]
+
+25. *Risalatu fi'l‑\`Ulum al‑\`Aliyah* (Treatise on the Sublime
 Sci­ences), related by the author of *Al‑Dhari\`ah* and composed and
-written in 787 AH.[^21]  
-    
- As for the other treatise which have been attributed to him in such
+written in 787 AH.[^21]
+
+As for the other treatise which have been attributed to him in such
 bibliographies as *\`Iyan al‑Shi \`ah, Idah al‑Maknun* (The Unveil­ing
 of the Hidden), *Majalis al‑Mu'minin* (The Gatherings of the Believers),
 *Mu\`ajam al‑Mu'alifin* (The Encyclopaedia of Authors), *Fuwa'id
@@ -1110,37 +1107,37 @@ Guidance of the Gnostics), *Rawdat al jannah* (The Meadow of Paradise),
 Courtesy), and others it should be said that it cannot be ascertained
 for certain whether they are actually his works or not; indeed there is
 more evidence to indicate the contrary; the following is a list of such
-works:  
-    
- 26. *Rafi\`at al‑Khilaf \`an Wajh Sukut Amir al‑Mu'minin \`an
+works:
+
+26. *Rafi\`at al‑Khilaf \`an Wajh Sukut Amir al‑Mu'minin \`an
 al‑Ikhtilaf* (Justification for the First Imam's attitude to the three
-first Caliphs).[^22]  
-    
+first Caliphs).[^22]
+
 *27. Risalat al‑Mu\`tamid min al‑Manqul fi‑ma Awha ila al‑Rasul*
 (Treatise of the Trustworthy Narrations concerning the Revela­tions to
-the Messenger).  
-    
- 28. *Risalat al‑Zad al‑Musafirin* (The Treatise of the Travellers'
-Provision).  
-    
+the Messenger).
+
+28. *Risalat al‑Zad al‑Musafirin* (The Treatise of the Travellers'
+Provision).
+
 *29. Lubb al‑Istilahat al‑Sufyah* (Kernel of Sufi Terms) ‑ which is a
 selection of the *Istilahat* of Kamal al‑Din \`Abd al‑Razzaq
-al‑Kashani.  
-    
- 30. *Kitab al‑Kashkul fi‑ma jara li'l Alil‑Rasul* (Album of Events
+al‑Kashani.
+
+30. *Kitab al‑Kashkul fi‑ma jara li'l Alil‑Rasul* (Album of Events
 concerning the Family of the Prophet) which has already been
-mentioned.  
-    
- If these works had actually been written by him, then he would have
-mentioned them in the introduction to *Nass al‑Nusus* *‑ in* particular
+mentioned.
+
+If these works had actually been written by him, then he would have
+mentioned them in the introduction to *Nass al‑Nusus ‑ in* particular
 *al‑Kashkul* which dates from 735 AH. *Nass al‑Nusus* was composed in
 782 AH; if we examine the rest of the books from this perspective, then
 it is clear, just as it is clear at first glance to those who are
 familiar with the style of Sayyid Amuli, which of the works are actually
 his and which are merely attributed to him: \`Whenever we scrutinize a
-particular art, it seems that art belongs to a particular person.'  
-    
- In conclusion we should not forget that *Asrar al‑Shari\`ah is* twice
+particular art, it seems that art belongs to a particular person.'
+
+In conclusion we should not forget that *Asrar al‑Shari\`ah is* twice
 mentioned by Sayyid Amuli in *Jami \`al‑Asrar;* as we have seen from
 above list many of the works of Sayyid Amuli are either shortened
 versions of his own books or ‑ to use the language of the logicians ‑
@@ -1176,9 +1173,9 @@ Names) in an abridged and different form. *Risalat al‑Tanbih* (Treatise
 of Advice) explains the three levels of divine unity, and *Risalat
 al‑Wujud* (Treatise of Existence) ‑ in particular in the introduction ‑
 deals with many of the questions of *tawhid,* albeit in a different
-manner.  
-    
- Thus this precious work contains the subject matter for seven or eight
+manner.
+
+Thus this precious work contains the subject matter for seven or eight
 of his main books of research into the divine truths; it contains the
 finest selection of Sayyid Amuli's ideas, both with regard to the
 Islamic system of belief and to the acts of worship ‑ drawn from the
@@ -1187,16 +1184,16 @@ store‑houses of boundless knowledge, namely the infallible Imams ‑ drawn
 by way of unveilings and witnes­sing after long years of divine
 attraction, spiritual exercises and acts of worship and then set down in
 this book at the command of Allah as if without any effort on his
-part.  
-    
+part.
+
 *Shari'ah, tariqah* and *haqiqah‑are different* names indicating one
 truth ‑ namely the pattern of behaviour of Muhammad. Each, however, has
 its own specific realm of meaning: just as the almond consists of a
 shell, an outer skin and the kernel, so the shell is as the *shari\`ah,*
 the outer skin the *tariqah* and the kernel the *haqiqah* ‑ the inner
-core; the almond as a whole embraces all three.  
-    
- In the *Majallah* (Place of Manifestation) of Ibn Abi Jamhur and *Bahr
+core; the almond as a whole embraces all three.
+
+In the *Majallah* (Place of Manifestation) of Ibn Abi Jamhur and *Bahr
 al‑Ma\`arif* (Sea of Gnosis) by Mulla \`Abd al‑Samad Hamdani prayer is
 treated as consisting of three different levels: *khidmah* (service),
 *qurbah* (a drawing closer through humility) and *wuslah* (union);
@@ -1207,9 +1204,9 @@ the core meaning of prayer; all three are also contained in the word
 prayer. Sayyid Amuli also says in *Jami\` al‑Asrar: \`Shari'ah is* on a
 par with the divine message, *tariqah* with the prophecy and *haqiqah*
 with *wilayah* (intimacy with Allah); all accept these truths: anyone
-who rejects them or who rejects just one of them is an unbeliever.'  
-    
- Therefore, do not deny something simply because you cannot understand
+who rejects them or who rejects just one of them is an unbeliever.'
+
+Therefore, do not deny something simply because you cannot understand
 it. It is by purifying the heart of the impediments and troubles caused
 by this world, and by deep reflection on the words of these great people
 that the outward meaning of what they are saying will become
@@ -1240,22 +1237,22 @@ hear: their very efforts not to understand such matters are all‑powerful
 and all contentment and submission have been extinguished in them. Since
 this group live on the level of the senses, they are incapable of
 understanding anything but tangible things; they are incapable of going
-beyond this level.  
-    
- Since the worm is hidden in the apple, it knows nothing but that as its
-world and heaven.  
-    
- If they were to step out of the prison of the senses into the world of
-the heart, they would perceive that:  
-    
- The heavens are contained in the wali whose divine Inti­macy causes the
-ordering of this world's heaven.  
-    
- Most of mankind is in the station of those who are anxious for their
+beyond this level.
+
+Since the worm is hidden in the apple, it knows nothing but that as its
+world and heaven.
+
+If they were to step out of the prison of the senses into the world of
+the heart, they would perceive that:
+
+The heavens are contained in the wali whose divine Inti­macy causes the
+ordering of this world's heaven.
+
+Most of mankind is in the station of those who are anxious for their
 sustenance, who are greedy and miserly, and who are caught up in all the
-material aspects of the world. Imam Baqir has said:  
-    
- Most men are beasts and *four‑footed animals ... .*
+material aspects of the world. Imam Baqir has said:
+
+Most men are beasts and *four‑footed animals ... .*
 
 Open the eye of your heart that you may see the soul and the unseen.
 
@@ -1284,9 +1281,9 @@ Express your passion for the One from your heart and soul until you see
 Reality with the eye of certainty:
 
 There is only One and nothing but Him, He is Alone and there is no god
-but Him.[^23]  
-    
- It is for this reason that the teaching shaykhs always warn their
+but Him.[^23]
+
+It is for this reason that the teaching shaykhs always warn their
 students and disciples against denying the people of Allah saying: The
 expressions of these people are obscure; it is hard to understand them
 when they talk about their thoughts and intentions because such matters
@@ -1298,9 +1295,9 @@ indications of their inner experiences. When they became aware of the
 parameters of the self, they described both the one who acquires
 knowledge and the source of this knowledge. Since each man's speech is a
 reflection of his station, the common people find it difficult to
-understand this variety of experience.'  
-    
- Shaykh Sa'd al‑Din Hamawi said to some of his own disciples: \`Do not
+understand this variety of experience.'
+
+Shaykh Sa'd al‑Din Hamawi said to some of his own disciples: \`Do not
 be duped by the variety of terms, and do not be negligent of their inner
 meanings, for on the day when the people are raised from their graves
 and when that which was hidden in their breasts becomes known, when the
@@ -1309,9 +1306,9 @@ thousand persons who are raised up, nine hundred and ninety nine of them
 will be killed by the sword of those expressions or by the arrow of
 those indications ‑ blood will be split on the necks of those very
 people who were careless with regard to the meanings, who pursued the
-way of rejection and denial and abandoned the edifice of knowledge.'  
-    
- Allah will forgive the person who desired that his actions be just and
+way of rejection and denial and abandoned the edifice of knowledge.'
+
+Allah will forgive the person who desired that his actions be just and
 who, with the help of his intellect, avoided any dispute because he
 realized that he had no knowledge in these matters; this is the way of
 the spiritually advanced *(salihun)* and the sincere of His slaves. He
@@ -1319,9 +1316,9 @@ says:
 
 ***\`Those who listen to the word, then follow the best of it; those are
 they whom Allah has guided, and those it is who are the men of
-understanding' (39:18)***[^24]  
-    
- It remains to me to thank those at the Cultural Studies and Research
+understanding' (39:18)***[^24]
+
+It remains to me to thank those at the Cultural Studies and Research
 Institute of the Islamic Iranian Academy of Philosophy and all those
 who, whatever the circumstances have a passion for Islamic texts and who
 have a profound love for the truths of gnosis ‑ all those who by the
@@ -1342,23 +1339,23 @@ my efforts nothing but increase in God's grace and generosity, nothing
 but illumination by the lights of the Muhammadi realm and nothing but
 spiritual assistance on the path from Sayyid Haydar \`Alawi. It is thus
 that I present this brief work as a service to Allah who is reward can
-only be received in the next world.  
-    
- This introduction was completed in the evening of the first of Muharram
+only be received in the next world.
+
+This introduction was completed in the evening of the first of Muharram
 1403 after the *hijrah,* lunar dating (26 Mehr 1361 AH, solar dating); I
-ask Allah that He bless all those who under­took that *hijrah.*  
-* *  
- Sing the song of goodness in this echoing dome of the world.  
- For it shall return your song generously after death.  
-    
- Muhammad Khajavi (26/7/1362 AH solar dating)  
-  
+ask Allah that He bless all those who under­took that *hijrah.*
+* *
+Sing the song of goodness in this echoing dome of the world.
+For it shall return your song generously after death.
+
+Muhammad Khajavi (26/7/1362 AH solar dating)
+
 
 Postscript
 ----------
 
-   
- The burial place of Sayyid Amuli is to be found in the town of Amul, at
+
+The burial place of Sayyid Amuli is to be found in the town of Amul, at
 the lower end of the bazaar in a quarter known as Buqayye Mir Haydar
 (\`Say Tan'); the building contained therein dates from the Seljuk
 period and the dome resembles that of Baba Rukn al‑Din Shirazi, the
@@ -1568,7 +1565,7 @@ Risatatu l‑Hudud (The Treatise on the Legal Parameters and Punishments)
 by Ibn Sina.   7. Masa'il Mutafarriqah (Miscellaneous Questions).   8.
 Risalat al‑Tawhid (The Treatise on Divine Unity).   9. Istalahat Hukama
 (The Terminology of the Wise).   10. Risalah Khwajah Nasir al‑Din Tusi.
-  11. Risalat at‑\`Ilm (The Treatise on Knowledge).   12. Questions put
+11. Risalat at‑\`Ilm (The Treatise on Knowledge).   12. Questions put
 by Shaykh Sadr al‑Din Qunyawi to Khwajah Nasir al‑Din Tusi.   13.
 Risalat al‑Qada' wa l‑Qadr (The Treatise of the Decree and
 Predestination) by Hasan Basri.
@@ -1591,7 +1588,7 @@ AH, however, does seem rather late; Sayyid Amuli would describe each
 year of his life in the course of his writings but from 782 AH, the year
 in which he completed the commentary on the Fusus to 787 AH, there is an
 inexplicable gap of five years of which we know nothing; with regard to
-the date of writing of the commentary (in the library of Mar'ashi ‑ 
+the date of writing of the commentary (in the library of Mar'ashi ‑
 written in the graceful hand of the author) the year 777 AH is recorded,
 and it is possible that this treatise, which is part of another volume
 of commentary, has been wrongly dated by the writer or has been misread

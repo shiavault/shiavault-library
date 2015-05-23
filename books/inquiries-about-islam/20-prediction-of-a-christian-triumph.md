@@ -58,8 +58,8 @@ all of the lost ground.
 concerned for the defeat of the Romans at the hand of the Persians. The
 prophecy seems to have been revealed as a condolence to the Muslims,
 since it states that the believers in Islam will rejoice for the victory
-of the Romans.  
- This actually announces a true love on the part of the Muslims towards
+of the Romans.
+This actually announces a true love on the part of the Muslims towards
 the Christians.
 
 **Chirri**: Your statement is true. The Muslims actually were very

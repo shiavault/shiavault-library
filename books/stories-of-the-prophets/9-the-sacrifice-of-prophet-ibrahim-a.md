@@ -151,7 +151,7 @@ They want to remember
 
 what Ibrahim and
 
-Ismail did.  
+Ismail did.
 ![](/sites/default/files/part6d.gif)
 
 In the month of Dhul Hijjah

@@ -1,0 +1,47 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/role-ahl-al-bayt-building-virtuous-community-book-5-muhammad-baqir-al-hakim
+author: Ayatullah Sayyid Muhammad Baqir Al-Hakim
+publisher: ABWA Publishing and Printing Center
+translator: Badr Shahin
+title: 'The Role of the Ahl al-Bayt in Building the Virtuous Community, Book Five:
+  The Economic System of the Virtuous Community'
+slug: the-role-of-the-ahl-al-bayt-in-building-the-virtuous-community-book-five-the-economic-system-of-the-virtuous-community
+uuid: 38ce8728-7c05-4816-aaba-1cf4cbb297f0
+description: |
+  An elaborate thesis on how the purified Ahlul Bayt played their role in
+  the post Prophetic era in building a virtuous Community. The series is
+  comprised of 8 volume set. vol. 1 "Goals and Characteristics", Vol. 2
+  "General rules and Fundamentals" vol. 3 "General System of the virtuous
+  Community" vol. 4 " The Security System of the virtuous Community" vol.
+  5 " The Economic System of the virtuous Community" vol. 6 " The System
+  of Social Relations of the virtuous Community" vol. 7 " The Ritual
+  System of the virtuous Community" vol. 8 "The System of Devotional acts
+  of the virtuous Community"
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/role-ahl-al-bayt-building-virtuous-community-book-5-muhammad-baqir-al-hakim/prelude
+  title: Prelude
+  slug: 1-prelude
+  uuid: 873d10d7-0b6e-46a4-bb64-c07fe1ff5ab8
+- source: :alislam
+  source_url: http://www.al-islam.org/role-ahl-al-bayt-building-virtuous-community-book-5-muhammad-baqir-al-hakim/chapter-1-general
+  title: 'Chapter 1: General Economic Legislation'
+  slug: 2-chapter-1-general-economic-legislation
+  uuid: 70345311-6553-44d1-a578-ea08fc49d914
+- source: :alislam
+  source_url: http://www.al-islam.org/role-ahl-al-bayt-building-virtuous-community-book-5-muhammad-baqir-al-hakim/chapter-2-restricted
+  title: 'Chapter 2: Restricted Economic Legislation'
+  slug: 3-chapter-2-restricted-economic-legislation
+  uuid: f1663308-0fc6-48f1-a2e9-82e334de4455
+- source: :alislam
+  source_url: http://www.al-islam.org/role-ahl-al-bayt-building-virtuous-community-book-5-muhammad-baqir-al-hakim/chapter-3-economic
+  title: 'Chapter 3: Economic Activity'
+  slug: 4-chapter-3-economic-activity
+  uuid: fcbeb780-116e-4b05-80c9-1d0c7de388ec
+- source: :alislam
+  source_url: http://www.al-islam.org/role-ahl-al-bayt-building-virtuous-community-book-5-muhammad-baqir-al-hakim/epilogue
+  title: Epilogue
+  slug: 5-epilogue
+  uuid: 9519d25b-750b-4ea4-89ce-7a801317c53c
+---

@@ -81,8 +81,8 @@ other words, it is just a set of their desires.
 It follows that what the Prophet has got is knowledge, and what they
 hold in their hands is ignorance. Therefore, Allah says to the Prophet:
 “And if you follow their desires after the knowledge that has come to
-you, you shall have no guardian from Allah, nor any helper.”  
- One cannot help admiring this verse:
+you, you shall have no guardian from Allah, nor any helper.”
+One cannot help admiring this verse:
 
 How logical, solid and well-grounded is the argument it offers; how many
 fine points of eloquence it holds, in spite of its brevity; how lovely
@@ -149,8 +149,8 @@ they may ponder over its verses”*** (38:29)***.***
 Allah, *read it as it aught to be read,* that: ”(It is) stopping at (the
 description of) the Garden and the Fire.” (al-'Ayyashi)
 
-The author says: What the Imam means is the meditation on the Qur'an.  
- The same Imam said about the verse, ***Those to whom We have given the
+The author says: What the Imam means is the meditation on the Qur'an.
+The same Imam said about the verse, ***Those to whom We have given the
 Book...**,* that: “They are the Imams.” (*al-Kafi* )
 
 The author says: This explanation is based on the principle of the “flow

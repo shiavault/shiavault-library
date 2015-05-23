@@ -51,10 +51,10 @@ the contents of the book during the process of photographing it.
 
 O Allah (S.w.T.)! Keep the Martyr’s spirit under the shadow of Your
 Munificence and also bless the spirit of his grandson with those of
-other martyrs!  
-    
- Sayyid Muhammad Hashim Dastaghaib  
- 05-12-1360  
- 24-02-1982
+other martyrs!
+
+Sayyid Muhammad Hashim Dastaghaib
+05-12-1360
+24-02-1982
 
 

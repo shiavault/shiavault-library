@@ -69,8 +69,8 @@ It is true that making both the jaws meet is in His Power! The summary
 of this discussion is that in matters man doesn’t have total control and
 in everything the wish of Allah (S.w.T.) is Supreme. The matters that
 are unseen will become visible only with Allah (S.w.T.)’s Wish. To
-understand this phenomenon, it will need deep thinking and wisdom.  
-  
+understand this phenomenon, it will need deep thinking and wisdom.
+
 
 The Importance of Sura Al-Tawhid
 --------------------------------
@@ -79,19 +79,19 @@ About a third of the contents of the Holy Qur’an is about *Tawhid* or
 the Unity of Allah (S.w.T.). This highlights the importance of the verse
 of *Tawhid* that is specifically pertaining to the fact of the Unity of
 Allah (S.w.T.). According to some authentic traditions, the felicity of
-reciting this Sura is equal to reciting a third of the Qur’an.  
-    
- Who deserves this felicity? The person deserving this reward is one who
+reciting this Sura is equal to reciting a third of the Qur’an.
+
+Who deserves this felicity? The person deserving this reward is one who
 practices *Taqwa* or absolute piety. He can recite this verse thrice and
-get felicity equal to the recitation of the complete Book.  
-    
- As we have said earlier, saying *la hawla wa la quwwata illa billah* is
+get felicity equal to the recitation of the complete Book.
+
+As we have said earlier, saying *la hawla wa la quwwata illa billah* is
 like having the key to the Heaven in one’s hands. But this privilege too
 is only for those who are practitioners of true *Taqwa* and have a
 complete understanding of and absolute faith on *Tawhid.* How could an
 ignorant person with aimless recitation of *La hawla* deserve to get the
-key to the Heaven?  
-  
+key to the Heaven?
+
 
 Hadrat Ibrahim (a.s.) is a Source of Pride for Those Who Trust on Allah (S.w.T.)
 --------------------------------------------------------------------------------
@@ -111,8 +111,8 @@ tell me!” Hadrat Ibrahim said, “I do have a requirement, but I will not
 ask it of you!” Jibril asked, “From whom, then?” Hadrat Ibrahim (a.s.)
 replied, “He is aware of all my needs! I need not ask him. He is
 all-wise and He sees everything! Whatever He wishes for me, I too wish
-for the same!”  
-  
+for the same!”
+
 
 Have We Ever Told The Truth
 ---------------------------
@@ -122,8 +122,8 @@ al-Wakil* *(Allah suffices for us and He is best attorney!).* But in
 reality have we ever trusted to Him, wholly or partially, our worldly
 matters or affairs of the Hereafter?
 
-Have we ever acted upon the injunction of the Holy Qur’an -*Fattakhi*
-*dhuhu wakila –* (then take Him (Allah) as an attorney)? If the reply to
+Have we ever acted upon the injunction of the Holy Qur’an -*Fattakhi
+dhuhu wakila –* (then take Him (Allah) as an attorney)? If the reply to
 this question is in the negative, then what is the need of complaining
 and living in doubts and fears? Believe me! There is only one reason for
 all the trouble. That is, paucity of faith and belief.
@@ -183,8 +183,8 @@ You should not depend only on your prayers for deliverance, but also on
 His Munificence and Kindness. Don’t brood too much on your good deeds
 that it gives rise to the instinct of pride that might go against you.
 The best course for you is to implicitly follow the Commands of Allah
-(S.w.T.).  
-  
+(S.w.T.).
+
 
 A Shop Without Goods on Allah (S.w.T.)’s Support
 ------------------------------------------------
@@ -248,8 +248,8 @@ certain worldly affairs, they get dejected. This is a sign that they
 were depending more on worldly concerns than on Allah (S.w.T.). If there
 is total dependence on Allah (S.w.T.), then one would know that whatever
 happened to them is with His express Wish and thank Allah (S.w.T.) under
-all circumstances!  
-  
+all circumstances!
+
 
 Weakness of Faith
 -----------------
@@ -266,9 +266,9 @@ circumstances for his success, then he is a *Mushrik* or polytheist.
 Also, because of the circumstances, if he fails in his efforts, and
 blames the circumstances for his misfortune, then he considers only the
 circumstances as his *Mushkil Kusha* or his trouble-shooter and not the
-Will of Allah (S.w.T.). This is a general failing of the human beings.  
-    
- But one who puts his total trust on Allah (S.w.T.), he doesn’t depend
+Will of Allah (S.w.T.). This is a general failing of the human beings.
+
+But one who puts his total trust on Allah (S.w.T.), he doesn’t depend
 on the circumstances for the success of his tasks. If he fails in his
 efforts after due trials, he resigns himself to the fact that Allah
 (S.w.T.) willed it that way. Although the unfavorable circumstances
@@ -313,8 +313,8 @@ Mudabbir (Wise),* Worthy of Worship and All Pervading is only Allah
 (S.w.T.) and none else. This is the Practical Tawhid (*Tawhid
 al-Af’aali*). Is it possible that even those who do not have faith in
 this might not be questioned for their lack of faith! No! In all
-circumstances firm faith on *Tawhid* is compulsory.  
-  
+circumstances firm faith on *Tawhid* is compulsory.
+
 
 Tawakkul and Counsel
 --------------------
@@ -336,8 +336,8 @@ was Allah (S.w.T.)’s Wish.
 Therefore, whether you acted on your own intuition or the advice of
 others, hope for Allah (S.w.T.)’s Help in your matters. Always ask your
 advisers to give their right suggestions mindful of Allah (S.w.T.)’s
-Wish in the matter.  
-  
+Wish in the matter.
+
 
 If There is no Tawakkul There is no Faith
 -----------------------------------------
@@ -361,8 +361,8 @@ requirement of the Faith is to Trust on Allah (S.w.T.). If you rate your
 own view or the advice of others more than the Will of Allah (S.w.T.)
 then you have distanced yourself from Him. In these circumstances you
 have ceased to be a believer*,* then what is the question of your
-practicing *Tawakkul?*  
-  
+practicing *Tawakkul?*
+
 
 Tall Claims Belittle a Person
 -----------------------------
@@ -380,8 +380,8 @@ cold. He made a self-diagnosis that he was chronic sufferer of
 biliousness, and the yogurt he had eaten was not sufficient to curb the
 bile. He therefore drank some lime- juice. He thought that this
 treatment would give him comfort. But by *Asr* he was really put to
-rest! He had expired!  
-  
+rest! He had expired!
+
 
 Don’t Trust Your Own Intuition
 ------------------------------
@@ -399,8 +399,8 @@ Briefly, if there is no *Tawakkul,* there isn’t Faith. The meaning of
 *Tawakkul* is depending on other. If a person is the practitioner of
 *Tawakkul,* he trusts his matters to Allah (S.w.T.). If he doesn’t Trust
 Allah (S.w.T.) then he depends on others for the solution to his
-problems.  
-  
+problems.
+
 
 The Twentieth Talk
 ------------------
@@ -423,8 +423,8 @@ In the Name of Allah, the Beneficent, the Merciful
 ***Verily, there is no authority for him over those who believe and rely
 on their Lord. (Sura an-Nahl, 16:99)***
 
-* *  
- In the last talk we have discussed the observation of the Researcher
+* *
+In the last talk we have discussed the observation of the Researcher
 Ardabili on the subject of *Tawakkul.* The 158th Verse of Sura Aal Imran
 says:
 
@@ -526,8 +526,8 @@ It is He who gives relief from harm and danger. To face the enemy it is
 necessary to manufacture arms and strengthen oneself. But success in
 defense too is only at His pleasure. Therefore, to protect one’s life,
 property, honor and specially the Faith, your total dependence must be
-on Allah (S.w.T.).  
-    
+on Allah (S.w.T.).
+
 *Tawakkul* doesn’t mean that one need not make efforts to strife for
 material benefits, or to strive to ward off dangers and leave everything
 to the care of Allah (S.w.T.). We have reiterated on the matter several
@@ -561,8 +561,8 @@ As *Tawakkul* is necessary, so is the effort to earn a livelihood is
 necessary. Similarly putting ones conscience in danger too is *Haram*.
 Allah (S.w.T.) issues His Orders through the circumstances. Sometimes He
 does it without any recourse to circumstances to prove His
-Omnipotence!  
-  
+Omnipotence!
+
 
 Imam Ja’far as-Sadiq (a.s.) and the Tiger
 -----------------------------------------
@@ -578,8 +578,8 @@ animal would have obeyed you.”
 The researcher Ardabili says that at such times the Imam, through
 inspiration (*Ilham)* knows that Allah (S.w.T.) will give relief in such
 situations without any reason. He also knows that such acts are
-exceptional. Therefore, they cannot be applied everywhere as a rule.  
-  
+exceptional. Therefore, they cannot be applied everywhere as a rule.
+
 
 Other Meanings Of Tawakkul
 --------------------------
@@ -596,8 +596,8 @@ In another place it is said that a man of *Tawakkul* must know that the
 Master of all gain or loss is none other than Allah (S.w.T.). In another
 place it is said that one should not expect anything from anyone but
 Allah (S.w.T.). The true sense of *Tawakkul* is not derived from these
-statements.  
-  
+statements.
+
 
 The Existence of Cause is Not Permanent
 ---------------------------------------
@@ -614,12 +614,11 @@ These days there is a story taking rounds in Tehran that some people are
 propagating the Wahabi Sect in Tehran. They say that saying “Ya
 Muhammad” and “Ya ‘Ali” is *Shirk.* In support of their claim they quote
 the verse: ***“Lo! those on whom ye call beside Allah are slaves like
-unto you.”*** ***(Sura al-A’raaf, 7:194)***. They also quote:
-***“Therefore call not upon any one with Allah.” (Sura al-Jinn,
-72:18)***
+unto you.” (Sura al-A’raaf, 7:194)***. They also quote: ***“Therefore
+call not upon any one with Allah.” (Sura al-Jinn, 72:18)***
 
 These are ignorant persons who do not seem to know the meaning of prayer
-(*Du’a).*  
+(*Du’a).*
 * *
 
 Calling Someone Other Than Allah (S.w.T.)

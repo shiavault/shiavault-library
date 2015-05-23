@@ -68,8 +68,8 @@ only says to it, “Be”, and it is - without any need of any previous
 model or gradual development.
 
 How can such an Originator be said to take to himself a son? After all,
-begetting a son entails gradual development.  
- These are the two incontestable proofs which expose the fallacy of the
+begetting a son entails gradual development.
+These are the two incontestable proofs which expose the fallacy of the
 belief that God has begotten a son. The verses also prove the following
 two facts:
 

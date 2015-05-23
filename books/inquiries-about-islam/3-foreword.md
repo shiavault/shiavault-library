@@ -41,7 +41,7 @@ historian; Bertrand Russell, philosopher; and George Bernard Shaw,
 playwright. Out of respect for these figures, we will want to know more
 about that which they value so highly.
 
-*Wilson H. Guertin, Ph.D.*  
+*Wilson H. Guertin, Ph.D.*
 *University of Florida*
 
 

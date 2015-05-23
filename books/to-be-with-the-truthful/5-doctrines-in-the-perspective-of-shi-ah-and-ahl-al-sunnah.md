@@ -65,20 +65,20 @@ He further said:
 Countenance of thy Lord...” (55:26,27).***
 
 I said: O brother, all these verses you cited and other ones, are all
-but metaphors and not real meanings!  
- He replied by saying: All the Qur’ān is real and has no metaphor at
+but metaphors and not real meanings!
+He replied by saying: All the Qur’ān is real and has no metaphor at
 all. Thereat I said: How do you interpret then the verse:
 
 ***“Who so is blind here will be blind in the Hereafter...” (17,72),***
 
 Do you conceive it with the real meaning? Is every blind in the world
 will be blind in the Hereafter? The Shaykh replied: We are talking about
-Allah’s hand and eye and face, and have nothing to do with the blind!  
- I said: Forget about the blind. How do you interpret the verse I
+Allah’s hand and eye and face, and have nothing to do with the blind!
+I said: Forget about the blind. How do you interpret the verse I
 mentioned: “Everyone that is thereon will pass away; there remaineth but
 the Countenance of thy Lord...?” He turned his face to the attendants
-saying to them:  
- Is there anyone among you who couldn’t understand this verse? ...It is
+saying to them:
+Is there anyone among you who couldn’t understand this verse? ...It is
 as clear and explicit as the Almighty’s saying:
 
 ***“Everything will perish save His Countenance...” (28:88)***
@@ -136,8 +136,8 @@ observe.
 All this being a decisive evidence proving the veracity of the opinions
 of the Shi‘ah, who derive them from the traditions of Ahl. al-Bayt Imams
 — the source of knowledge and trustees of the Message, and whom Allah
-made to inherit the knowledge of the Scripture.  
- Whoever intends to go into details about this research, has to refer to
+made to inherit the knowledge of the Scripture.
+Whoever intends to go into details about this research, has to refer to
 the books elucidating this topic, like Kalimah hawl al-ru’yah of al—
 Sayyid Sharaf al-Din, the author of al-Murāja‘āt.[^9]
 
@@ -161,8 +161,8 @@ the date-palms, whereat he said to them: “Don’t cut them as they will
 give dates”, but they turned to be shays (unwanted bad dates). Then they
 came to him complaining about the matter, whereat he said to them: “You
 are better aware of your world affairs more than me.” In another
-narration he said:  
- “I am just a human being, if I command you to anything related to your
+narration he said:
+“I am just a human being, if I command you to anything related to your
 religion you take it, and if I order you to do anything according to my
 opinion, I am but a human being.”[^11]
 
@@ -183,8 +183,8 @@ They also report that he once upon a time he was lying in ‘A’ishah’s
 house, with his thighs being uncovered, whereat Abu Bakr and then ‘Umar
 entered upon him, conversing with him while he was on this condition...
 when ‘Uthmān asked permission to enter, he (S) sat and made up his
-clothes. When asked by ‘A’ishah about the reason, he said to her:  
- “Shouldn’t I be ashamed of a man of whom the angels are ashamed.”[^17]
+clothes. When asked by ‘A’ishah about the reason, he said to her:
+“Shouldn’t I be ashamed of a man of whom the angels are ashamed.”[^17]
 
 They further claim that he sometimes would enter upon the morning
 ritually impure in the Month of Ramadān,[^18] missing the dawn prayer...
@@ -282,14 +282,14 @@ alone. Among them there was a professor from Tozad (region of
 al-Jarid),[^24] and they were known for wittiness, knowledge and crack
 jokes. He contemplated for a while and said: “O company I have an
 opinion regarding this issue,” we all exclaimed: Please give us what you
-have! He said:  
- -What our brother al-Tijani says, as the Shi‘ah hold, is the very
+have! He said:
+-What our brother al-Tijani says, as the Shi‘ah hold, is the very
 truth, and we should believe in the Messenger’s absolute ‘ismah,
 otherwise suspicion will find its way into our hearts in the Qur’ān
-itself!  
- —They asked: What for?  
- He immediately replied:  
- — Have you seen any of the Qur’ānic verses with Allah’s signature
+itself!
+—They asked: What for?
+He immediately replied:
+— Have you seen any of the Qur’ānic verses with Allah’s signature
 underneath??
 
 By the signature he meant: The stamping with which the contracts and

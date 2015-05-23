@@ -18,8 +18,8 @@ related subject which must be explored simultaneously.
 Historical evolution is interpreted in two different ways. One method is
 known as the materialistic or dialectic and the other is called human or
 natural. In other words, in respect of historical evolution there exist
-two different approaches and two different ways of thinking.  
- According to each of them the great expectation assumes a different
+two different approaches and two different ways of thinking.
+According to each of them the great expectation assumes a different
 form and a distinctive nature. We propose to explain these two ways of
 thinking, but only to the extent that they are related to the question
 of the expectation and hope for the future.
@@ -273,8 +273,8 @@ thinking.
 Another group, which is somewhat acquainted with Islamic teachings,
 presume that Islamic thinking, not being metaphysical, must be
 dialectic. As this group recognizes no third alternative, naturally it
-comes to this conclusion.  
- All this misunderstanding and confusion is the result of undue reliance
+comes to this conclusion.
+All this misunderstanding and confusion is the result of undue reliance
 on what the supporters of dialectic materialism attribute to others.
 Anyhow, as already mentioned, truth is quite different.
 

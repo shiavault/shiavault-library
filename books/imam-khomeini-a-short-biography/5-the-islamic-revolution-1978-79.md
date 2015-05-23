@@ -1,8 +1,7 @@
 The Islamic Revolution, 1978-79
 ===============================
 
-   
- The chain of events that ended in February 1979 with the overthrow of
+The chain of events that ended in February 1979 with the overthrow of
 the Pahlavi regime and the foundation of the Islamic Republic began with
 the death in Najaf on October 23, 1977 of Hajj Sayyid Mustafa Khomeini,
 unexpectedly and under mysterious circumstances. This death was widely
@@ -11,9 +10,9 @@ took place in Qum, Tehran, Yazd, Mashhad, Shiraz, and Tabriz. Imam
 Khomeini himself, with the equanimity he customarily displayed in the
 face of personal loss, described the death of his son as one of the
 “hidden favors” (*altaf-i khafiya*) of God, and advised the Muslims of
-Iran to show fortitude and hope.[^1]  
-    
- The esteem in which Imam Khomeini was held and the reckless
+Iran to show fortitude and hope.[^1]
+
+The esteem in which Imam Khomeini was held and the reckless
 determination of the Shah’s regime to undermine that esteem were
 demonstrated once again on January 7, 1978 when an article appeared in
 the semi-official newspaper *Ittila’at* attacking him in scurrilous
@@ -24,9 +23,9 @@ by the security forces with heavy loss of life. This was the first in a
 series of popular confrontations that, gathering momentum throughout
 1978, soon turned into a vast revolutionary movement, demanding the
 overthrow of the Pahlavi regime and the installation of an Islamic
-government.  
-    
- The martyrs of Qum were commemorated forty days later with
+government.
+
+The martyrs of Qum were commemorated forty days later with
 demonstrations and shop closures in every major city of Iran.
 Particularly grave were the disturbances in Tabriz, which ended only
 after more than 100 people had been killed by the Shah’s troops. On
@@ -36,9 +35,9 @@ time the heaviest casualties occurred in Yazd, where security forces
 opened fire on a gathering in the main mosque. In early May, it was
 Tehran itself that saw the principal violence; armored columns appeared
 on the streets for the first time since June 1963 in order to contain
-the trend to revolution.  
-    
- In June, the Shah found it politic to make a number of superficial
+the trend to revolution.
+
+In June, the Shah found it politic to make a number of superficial
 concessions - such as the repeal of the “imperial calendar” -to the
 forces opposing him, but repression also continued. When the government
 lost control of Isfahan on August 17, the army assaulted the city and
@@ -60,9 +59,9 @@ this location alone. Another 2000 were killed elsewhere in Tehran by
 American-supplied military helicopters hovering overhead. This day of
 massacre, which came to be known as Black Friday, marked the point of no
 return. Too much blood had been spilt for the Shah to have any hope of
-survival, and the army itself began to tire of the task of slaughter.  
-    
- As these events were unfolding in Iran, Imam Khomeini delivered a whole
+survival, and the army itself began to tire of the task of slaughter.
+
+As these events were unfolding in Iran, Imam Khomeini delivered a whole
 series of messages and speeches, which reached his homeland not only in
 printed form but also increasingly on tape cassettes. His voice could be
 heard congratulating the people for their sacrifices, denouncing the
@@ -70,9 +69,9 @@ Shah in categorical fashion as a criminal, and underlining the
 responsibility of the United States for the killings and the repression.
 (Ironically, US President Carter had visited Tehran on New Year’s Eve
 1977 and lauded the Shah for creating “an island of stability in one of
-the more troubled areas of the world.”)[^2]  
-    
- As the façade of stability dissolved, the United States continued its
+the more troubled areas of the world.”)[^2]
+
+As the façade of stability dissolved, the United States continued its
 military and political support of the Shah uninterrupted by anything but
 the most superficial hesitation). Most importantly, the Imam recognized
 that a unique juncture had been reached in Iranian history, that a
@@ -90,9 +89,9 @@ have changed. These demonstrations that break down tyranny and advance
 the goals of Islam are a form of worship that is not confined to certain
 months or days, for the aim is to save the nation, to enact Islamic
 justice, and to establish a form of divine government based on
-justice.”[^3]  
-    
- In one of the numerous miscalculations that marked his attempts to
+justice.”[^3]
+
+In one of the numerous miscalculations that marked his attempts to
 destroy the revolution, the Shah decided to seek the deportation of Imam
 Khomeini from Iraq, on the assumption, no doubt, that once removed from
 the prestigious location of Najaf and its proximity to Iran, his voice
@@ -109,9 +108,9 @@ considered as possible destinations, Imam Khomeini embarked for Paris,
 on the advice of his second son, Hajj Sayyid Ahmad Khomeini, who by now
 had joined him. Once arrived in Paris, the Imam took up residence in the
 suburb of Neauphle-le-Chateau in a house that had been rented for him by
-Iranian exiles in France.  
-    
- Residence in a non-Muslim land was no doubt experienced by Imam
+Iranian exiles in France.
+
+Residence in a non-Muslim land was no doubt experienced by Imam
 Khomeini as irksome, and in the declaration he issued from
 Neauphle-le-Chateau on October 11, 1978, the fortieth day after the
 massacres of Black Friday, he announced his intention of moving to any
@@ -127,9 +126,9 @@ instructions the Imam issued flowed forth uninterrupted from the modest
 command center he established in a small house opposite his residence.
 Moreover, a host of journalists from across the world now made their way
 to France, and the image and the words of the Imam soon became a daily
-feature in the world’s media.  
-    
- In Iran meanwhile, the Shah was continuously reshaping his government.
+feature in the world’s media.
+
+In Iran meanwhile, the Shah was continuously reshaping his government.
 First he brought in as prime minister Sharif-Imami, an individual
 supposedly close to conservative elements among the ‘*ulama*. Then, on
 November 6, he formed a military government under General Ghulam-Riza
@@ -144,9 +143,9 @@ respected preachers, and all the followers of Imam Husayn, Sayyid
 al-shuhada’.” They must, he continued, “make maximum use of it; trusting
 in the power of God, they must tear out the remaining roots of this tree
 of oppression and treachery.” As for the military government, it was
-contrary to the *Shari’ah* and opposition to it a religious duty.[^5]  
-    
- Vast demonstrations unfurled across Iran as soon as Muharram began.
+contrary to the *Shari’ah* and opposition to it a religious duty.[^5]
+
+Vast demonstrations unfurled across Iran as soon as Muharram began.
 Thousands of people donned white shrouds as a token of readiness for
 martyrdom and were cut down as they defied the nightly curfew. On
 Muharram 9, a million people marched in Tehran demanding the overthrow
@@ -177,9 +176,9 @@ proclaimed from Neauphle-le-Chateau the formation of the Council of the
 Islamic Revolution (*Shaura-yi Inqilab-i Islami*), a body entrusted with
 establishing a transitional government to replace the Bakhtiyar
 administration. On January 16, amid scenes of feverish popular
-rejoicing, the Shah left Iran for exile and death.  
-    
- What remained now was to remove Bakhtiyar and prevent a military coup
+rejoicing, the Shah left Iran for exile and death.
+
+What remained now was to remove Bakhtiyar and prevent a military coup
 d’état enabling the Shah to return. The first of these aims came closer
 to realization when Sayyid Jalal al-*Din* Tihrani came to Paris in order
 to seek a compromise with Imam Khomeini. He refused to see him until he
@@ -190,9 +189,9 @@ loyal to the Shah, and the growing number of officers and recruits
 sympathetic to the revolution, was constantly growing. When the United
 States dispatched General Huyser, commander of NATO land forces in
 Europe, to investigate the possibility of a military coup, he was
-obliged to report that it was pointless even to consider such a step.  
-    
- Conditions now seemed appropriate for Imam Khomeini to return to Iran
+obliged to report that it was pointless even to consider such a step.
+
+Conditions now seemed appropriate for Imam Khomeini to return to Iran
 and preside over the final stages of the revolution. After a series of
 delays, including the military occupation of Mehrabad airport from
 January 24 to 30, the Imam embarked on a chartered airliner of Air
@@ -225,9 +224,9 @@ the people, he would issue a formal *fatwa* for jihad.[^7] The following
 day the Supreme Military Council withdrew its support from Bakhtiyar,
 and on February 12, 1979, all organs of the regime, political,
 administrative, and military, finally collapsed. The revolution had
-triumphed.  
-    
- Clearly no revolution can be regarded as the work of a single man, nor
+triumphed.
+
+Clearly no revolution can be regarded as the work of a single man, nor
 can its causes be interpreted in purely ideological terms; economic and
 social developments had helped to prepare the ground for the
 revolutionary movement of 1978-79. There was also marginal involvement
@@ -249,8 +248,8 @@ persons in Iran, but he took all key decisions himself, silencing early
 on all advocates of compromise with the Shah. It was the mosques that
 were the organizational units of the revolution and mass prayers,
 demonstrations and martyrdom that were - until the very last stage - its
-principal weapons.  
-  
+principal weapons.
+
 
 [^1]: Shahidi digar az ruhaniyat, Najaf, n.d., p. 27.
 

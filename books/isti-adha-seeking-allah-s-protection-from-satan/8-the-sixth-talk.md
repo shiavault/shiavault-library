@@ -17,8 +17,8 @@ In the Name of Allah, the Beneficent, the Merciful
 </blockquote>
 
 ***Verily those who guard (themselves against evil) when an evil thought
-from Satan afflicts them,*** ***they become mindful (of God and get
-awakened) then lo! They see (aright). (Sura al-A’raaf, 7:201)***
+from Satan afflicts them, they become mindful (of God and get awakened)
+then lo! They see (aright). (Sura al-A’raaf, 7:201)***
 
 A summary of the discussions of the previous evenings is that the main
 purpose is to escape from the clutches of Satan and attain the
@@ -35,7 +35,7 @@ refuge with Allah from the cursed satan*”, but if you are unaware of the
 aspects of *Isti’adha,* and therefore are not complying with them, then
 the entire exercise will be futile.
 
-*Innal ladhina-ttaqu (Surely those who are* *God-conscious):* The people
+*Innal ladhina-ttaqu (Surely those who are God-conscious):* The people
 who are in the process of escaping from sinful acts, and Satan tries to
 overwhelm them, they instantaneously busy themselves in the remembrance
 of Allah (S.w.T.). With the felicity (*baraka)* of this act, the
@@ -63,7 +63,7 @@ We are helpless and powerless
 -----------------------------
 
 If someone gives a serious thought to the facts he would cry out (the
-verse of the Qur’an), “*Amman* *yujeebul mudtarra… -* *Who is there to
+verse of the Qur’an), “*Amman yujeebul mudtarra… - Who is there to
 answer the distressed…”* The foods we consume take us to darkness. There
 is no light in them that can give nourishment to our spirits. Our
 tongues too are influenced by these foods that we utter falsehoods and
@@ -71,8 +71,8 @@ abusive language. We indulge in misguiding games and play. Backbiting
 has become our habit. All our limbs and organs have been exposed to the
 effects of *Haram* and unsavory (*makrūh)* foods. The body has therefore
 become insensitive to the instinct of remembrance of Allah (S.w.T.). The
-limbs and organs have thus turned into the playthings of Satan.  
-  
+limbs and organs have thus turned into the playthings of Satan.
+
 
 The purity or otherwise of food
 -------------------------------
@@ -90,8 +90,8 @@ be borne in minds that only animals can take *Najis* food*.*
 
 The occasion when one is required to abstain even from *Halal* food is
 when he is fully sated and can eat no more at that moment. Over-eating
-is a prohibited and a satanic trait.  
-  
+is a prohibited and a satanic trait.
+
 
 Identify the Haram morsel of food
 ---------------------------------
@@ -127,8 +127,8 @@ although the verse pertains only to animal foods. Sayyid Tawus says,”
 All the eatables that are prepared without taking the name of Allah
 (S.w.T.) before commencing the preparation, I don’t partake of! How can
 a *mu’min* eat the bread that has been cooked by the baker without
-taking the name of Allah (S.w.T.).”  
-  
+taking the name of Allah (S.w.T.).”
+
 
 The baker’s oven and the satanic tune
 -------------------------------------
@@ -139,7 +139,7 @@ the *Hadith al-Kisa* and offer prayer before commencing his work.
 
 Today the bread is baked listening to blaring music! They cook the bread
 accompanied by satanic music. We consume those morsels infused with
-satanic temperament!  
-  
+satanic temperament!
+
 
 

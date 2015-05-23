@@ -11,19 +11,19 @@ away from humanity. Regarding this, Sa'di from Shiraz (the famous poet)
 says:
 
 What makes a human body honorable is his soul; beautiful garment does
-not make a man;  
- If eyes, tongues, ears and noses made a man;  
- Then what would the difference be between a man and a painting on the
-wall;  
- Be truly a man, or else you would be  
- A bird talking human language;  
- If you could eliminate your fierce nature you would live a human life
+not make a man;
+If eyes, tongues, ears and noses made a man;
+Then what would the difference be between a man and a painting on the
+wall;
+Be truly a man, or else you would be
+A bird talking human language;
+If you could eliminate your fierce nature you would live a human life
 all life-long.
 
 For this very reason the significant portions of the agenda of the
 Prophets and divine Messengers include education and the enhancement of
-ethical considerations and well-adjusted conduct.  
- These dignitaries, in accordance with the prevailing situations, have
+ethical considerations and well-adjusted conduct.
+These dignitaries, in accordance with the prevailing situations, have
 made use of either practical means and suitable behavior, or sermons and
 maxims, or treatises.[^1]
 
@@ -78,8 +78,8 @@ themselves as constant, occurring without thought or consideration.[^6]
 
 But this does not contradict the optional nature of these traits since
 man is capable of either carrying them out or avoiding them as a
-whole,[^7] although it is hard to stop doing habitual things.[^8]  
- Furthermore, as it is proven elsewhere, since from the beginning he
+whole,[^7] although it is hard to stop doing habitual things.[^8]
+Furthermore, as it is proven elsewhere, since from the beginning he
 could either form habits or abandon them, thus he has been free from the
 beginning to make the choices he likes.[^9]
 
@@ -115,8 +115,8 @@ of ethical corruptions and the wretched is one who corrupts his soul:
 </blockquote>
 
 ***“He will indeed be successful who purifies it (the soul) and he will
-indeed fail who corrupts it”.***[^11]  
- The Prophet (S) was appreciated by God for holding the highest degree
+indeed fail who corrupts it”.***[^11]
+The Prophet (S) was appreciated by God for holding the highest degree
 of ethical codes:
 
 <blockquote dir="rtl">
@@ -128,8 +128,8 @@ of ethical codes:
 ***“And most surely you conform (yourself) to sublime morality.”***[^12]
 
 And the secret for his appointment to the prophetic mission was his
-attainment of highest degree of sublime morality.  
- But unfortunately, the present world, especially the West, has turned
+attainment of highest degree of sublime morality.
+But unfortunately, the present world, especially the West, has turned
 into robots lacking souls and morality codes.
 
 Alexis Carrel, the renowned French scholar, writes in this regard, "As
@@ -142,15 +142,15 @@ contemptuous smile from the young”.
 
 ""For modern man, the only rule of conduct is his own good pleasure.
 Everyone is enclosed in his own egoism like the crab in its shell and,
-again like the crab, seeks to devour his neighbor.  
- "Elementary social relations have changed profoundly; everywhere,
+again like the crab, seeks to devour his neighbor.
+"Elementary social relations have changed profoundly; everywhere,
 division reigns. Marriage has ceased to be a permanent bond between man
 and woman.
 
 "Both the material and the psychological conditions of modern existence
 have created a propitious climate for the breaking up of family life.
-Children are now considered a nuisance, if not a calamity.  
- "This is the final result of having abandoned those rules which, in the
+Children are now considered a nuisance, if not a calamity.
+"This is the final result of having abandoned those rules which, in the
 past, Western man had the courage and wisdom to impose on his individual
 and social conduct”"[^13]
 
@@ -160,8 +160,8 @@ Good Actions And Noble Moral Traits
 In the ethical guide-lines of Islam, praiseworthy temperaments have two
 aspects: good actions and noble moral traits.
 
-Among the good actions are the following:  
- The cleanliness of body and dress, good humor and smile, respect for
+Among the good actions are the following:
+The cleanliness of body and dress, good humor and smile, respect for
 others, politeness of speech, visiting the sick, avoidance of
 haughtiness, and suspicion.
 
@@ -192,8 +192,8 @@ Great Messenger of Islam (S) has said
 moral traits.”*[^14]
 
 On the other hand, the Great Messenger of Allah has mentioned that the
-reason of his prophetic mission was to perfect the ethical training.  
- Imam ‘Ali has said:
+reason of his prophetic mission was to perfect the ethical training.
+Imam ‘Ali has said:
 
 <blockquote dir="rtl">
   <p>
@@ -214,8 +214,8 @@ was. He answered:
 </blockquote>
 
 *"You should be gentle, speak pleasantly and meet your brethren with a
-cheerful face".*[^16]  
- A man came to Imam Sadiq (as) and said: “O son of God's Messenger, let
+cheerful face".*[^16]
+A man came to Imam Sadiq (as) and said: “O son of God's Messenger, let
 me know what the noble moral traits are”. Imam as-Sadiq (as) replied to
 him,
 
@@ -253,17 +253,17 @@ oppose with excellent mention whoever slanders me, so that I may give
 thanks for good, and so that I may shut my eyes to evil.*"[^18]
 
 The Great Messenger (S), who had been badly hurt by the Quraysh, forgave
-them when he conquered Mecca.  
- He allowed Abu Sufyan’s house to be a shelter for people.  
- In the Siffin war, when Mu’awiya had so inhumanly denied Imam ‘Ali’s
+them when he conquered Mecca.
+He allowed Abu Sufyan’s house to be a shelter for people.
+In the Siffin war, when Mu’awiya had so inhumanly denied Imam ‘Ali’s
 army the water of the Euphrates, someone asked Imam ‘Ali to do the same
 to Mu'awiya’s army. But he answered, "We will not retaliate for a wrong;
 we will not deny them the use of water."
 
 When an impolite shopkeeper poured trash over the head of malik
 al-Ashtar, an important officer in Imam ‘Ali’s army, Malik went to the
-mosque and prayed for him and forgave him.  
- When Imam Zayn al-‘Abidin (as) was insulted by a relative, he went to
+mosque and prayed for him and forgave him.
+When Imam Zayn al-‘Abidin (as) was insulted by a relative, he went to
 his house telling him:
 
 <blockquote dir="rtl">
@@ -278,14 +278,14 @@ is not true, then I ask God to forgive you."*
 
 The above-mentioned cases and similar events which are recorded from the
 Prophet and the Imams of Islam in their diaries are among the noble
-moral traits.  
- Thus, there are differences between good actions and noble moral
-traits.  
- Good actions are usually a means for material welfare, but noble moral
+moral traits.
+Thus, there are differences between good actions and noble moral
+traits.
+Good actions are usually a means for material welfare, but noble moral
 traits are a way to the attainment of spiritual advancement. The former
 provides our lives with discipline; whereas the latter satisfies human
-sublime tendencies.  
- The former are in harmony with personal desires and legitimate self
+sublime tendencies.
+The former are in harmony with personal desires and legitimate self
 interest, but the latter deal with interest in others.
 
 All Messengers and Imams of Islam completely enjoyed noble moral traits.
@@ -324,12 +324,12 @@ for some help, but he is turned down.*
 "*Even if he did not expect reward and did not fear the punishment, it
 would have been proper for him to hasten towards noble moral traits for
 they are of those things that lead toward the path of
-salvation.*"[^20]  
- A man from desert came up to the Messenger of God asking him, "O
+salvation.*"[^20]
+A man from desert came up to the Messenger of God asking him, "O
 Messenger of God, sometimes a man fights for booty, sometimes for fame
 and sometimes for the recognition of his bravery; which one of these
-ways is right?"  
- The Prophet (S) answered:
+ways is right?"
+The Prophet (S) answered:
 
 <blockquote dir="rtl">
   <p>
@@ -388,8 +388,8 @@ teach, and the term "*tarbiyah*" is derived from "*rabw*" meaning
 nurture.
 
 Animals, when born, know their duties and plans of life through their
-instincts. They would need no instructors.  
- The young fish, after being hatched, know how to swim, breathe, feed,
+instincts. They would need no instructors.
+The young fish, after being hatched, know how to swim, breathe, feed,
 protect themselves against enemies, and how to reproduce. They do not
 need to be taught.
 
@@ -397,8 +397,8 @@ need to be taught.
 should feed on worms, the mother hunts a special worm, stings it so that
 it is paralysed. In this way, the mother provides its new-born with
 fresh meat. The mother does it through her instinct; not through
-training.  
- The bee sucks the sweet nectar, turns it into honey, makes symmetrical
+training.
+The bee sucks the sweet nectar, turns it into honey, makes symmetrical
 shelters and divides the affairs of the hive among individual bees all
 because of divine inspiration and natural instincts.
 
@@ -426,17 +426,17 @@ brother when they introduced their God to Pharaoh:
 Who gave to everything its creation, then guided it (to its
 goal).***[^25]
 
-The Giver who provided the flower with nectar and the clay with soul;  
- Gave each one what He deemed necessary.  
- But man, in carrying out his daily duties and arriving at perfection
+The Giver who provided the flower with nectar and the clay with soul;
+Gave each one what He deemed necessary.
+But man, in carrying out his daily duties and arriving at perfection
 needs more than instincts and innate inspiration: besides being equipped
-with wisdom, he needs instructors.  
- He would perhaps walk like animals if he were not helped. He would most
+with wisdom, he needs instructors.
+He would perhaps walk like animals if he were not helped. He would most
 probably be dumb if words were not put in his mouth. Mawlawi says:
 
 A deaf person cannot speak; the speaker is the one who has heard from
-the mother.  
- Thus, in order to recognize facts of the world and to appreciate the
+the mother.
+Thus, in order to recognize facts of the world and to appreciate the
 secrets of creation, man needs a teacher. Without an instructor, man is
 unable to grasp such secrets.
 
@@ -601,8 +601,8 @@ through education and experience:
 
 ***“And Allah has brought you forth from the wombs of your mothers – you
 did not know anything – and He gave you hearing and sight and hearts
-that you may give thanks.”***[^30]  
- In order for man's skills and capabilities to flourish in diverse
+that you may give thanks.”***[^30]
+In order for man's skills and capabilities to flourish in diverse
 dimensions such as talking, having high morals, walking, living
 honestly, and loving justice, he needs instructors. Thus, education
 helps him improve his knowledge and culture; whereas training is
@@ -694,8 +694,8 @@ and guide our rational judgments and did not try to evaluate our acts,
 man could not personally perceive the good and bad nature of such acts.
 This is because, on the one hand, his knowledge is limited, and on the
 other hand, factors such as environment, faulty education, unfounded
-prejudice and the like may influence his judgments.[^36]  
- We will find this out in the discussion of the philosophy of ethics.
+prejudice and the like may influence his judgments.[^36]
+We will find this out in the discussion of the philosophy of ethics.
 
 Education Or Training, Which One Should Precede?
 ------------------------------------------------
@@ -716,10 +716,10 @@ deprivation of the related knowledge.”*
 
 In this way, we notice that those born deaf are deprived of speech. This
 is because they have not received the speech signals from others to be
-able to use them. Concerning this Mawlawi has said,  
- “One born deaf is definitely dumb.  
- A speaker is the one who heard the words from his mother.”  
- Elsewhere Mawlawi says, "Man is made more capable through his ears".
+able to use them. Concerning this Mawlawi has said,
+“One born deaf is definitely dumb.
+A speaker is the one who heard the words from his mother.”
+Elsewhere Mawlawi says, "Man is made more capable through his ears".
 This is why those born blind can not perceive colors.
 
 Thus, the first things which relate a man to his environment are his
@@ -733,8 +733,8 @@ purification is a means for the control of our vicious, unyielding self
 (soul) and for shaping our personalities.
 
 No doubt, if our souls are not controlled, then science will be used for
-the destruction of the world.  
- It would be better to leave a drunkard with a sword than let an
+the destruction of the world.
+It would be better to leave a drunkard with a sword than let an
 ill-intentioned person have science at his disposal. There is a maxim
 which says:
 
@@ -744,8 +744,8 @@ which says:
   </p>
 </blockquote>
 
-"When a scholar becomes corrupt, the whole world becomes corrupt."  
- As we saw in the three verses of the Holy Qur’an which dealt with
+"When a scholar becomes corrupt, the whole world becomes corrupt."
+As we saw in the three verses of the Holy Qur’an which dealt with
 purification and education, purification was stated prior to the term
 "education".
 
@@ -836,8 +836,8 @@ prayers and the Qur'an is just narrating it, therefore, it is man's talk
 and for this reason may not be a criterion. They continue to assume that
 because the other three verses are truly God's speech and since
 purification has preceded education, therefore, it is true. Thus,
-training and purification should precede education.  
- But this statement is improper in that a Messenger like Ibrahim would
+training and purification should precede education.
+But this statement is improper in that a Messenger like Ibrahim would
 not perform a prayer without considering the right method used by other
 Messengers. He would not act immaturely. He is one of the prominent
 Messengers whose statements are verified by God. Leveling such
@@ -846,8 +846,8 @@ true when we observe that the narrated words are in the Qur'an.
 Therefore, what is said does not include any contradiction.
 
 The arrangement of words therefore, is definitely based on some
-philosophical considerations.  
- Thus, in answer to the question: which one should precede: training
+philosophical considerations.
+Thus, in answer to the question: which one should precede: training
 (purification) or education? We should answer "education" naturally
 precedes training, but education is higher than training in rank. That
 is why the above-mentioned verses have used one prior to the other.
@@ -869,8 +869,8 @@ believe in nothing except pleasures of life. They say, "The future is
 uncertain; death might arrive at any moment and may destroy our life.
 Therefore, we should make best out of our time."
 
-The forerunner of this school was Socrates’ student named Aristocles.  
- According to this school, any action which satisfies man's temporary
+The forerunner of this school was Socrates’ student named Aristocles.
+According to this school, any action which satisfies man's temporary
 pleasures is considered an ethical action albeit in its satisfaction
 some other people get hurt.
 
@@ -891,25 +891,25 @@ pleasures, however. He is after a pleasure which either lacks later
 suffering or involves little amount of suffering. He believes man should
 shun a suffering which does not contain pleasure either now or later.
 
-Epicure has divided pleasures into three groups:  
+Epicure has divided pleasures into three groups:
 **a)** Natural and necessary pleasures, such as eating, drinking and
-sleep;  
-**b)** Unnatural but unnecessary pleasures, such as sexual drive;  
+sleep;
+**b)** Unnatural but unnecessary pleasures, such as sexual drive;
 **c)** Natural but unnecessary pleasures, such as desire for fame and
 money.
 
-Epicure, then, goes on to say that the first type of pleasures should  
- be fulfilled to a rational degree. The means to these ends should also
-be employed.  
- But, according to Epicure, the second type of pleasures should also be
+Epicure, then, goes on to say that the first type of pleasures should
+be fulfilled to a rational degree. The means to these ends should also
+be employed.
+But, according to Epicure, the second type of pleasures should also be
 satisfied normally. Going to extremes in this regard will lead to
 troubles.
 
 But, the third type of pleasures which are neither natural nor necessary
-should be avoided altogether.  
- As you will see, the last hypothesis is more moderate, well-founded and
+should be avoided altogether.
+As you will see, the last hypothesis is more moderate, well-founded and
 wise than the previous one. However, it suffers from the following
-defects:  
+defects:
 **a)** In this notion all aims are directed toward personal worldly
 interests. Whereas, according to the premises of the notion of the
 abstractness of self, the avoidance of the integument into material
@@ -925,8 +925,8 @@ into the heavens and make the impossible seem attainable.
 
 **c)** In this notion, the ethical goodness is defined only in the
 fulfillment of personal interests ignoring common interests as a
-whole.  
- The unnaturalness of this view is clear when we observe that others
+whole.
+The unnaturalness of this view is clear when we observe that others
 have a right to live like ourselves, too. How is it feasible to enjoy
 one's interests by destroying other people's rights?
 
@@ -952,7 +952,7 @@ rich and on the annihilation of the poor. This is, in his view, a sample
 of ethical act.
 
 This school suffers from a series of serious defects, among which are
-the following:  
+the following:
 **a)** If the notion of God and the world Hereafter is put aside, then
 what does ethical act mean? Then who would guarantee the fulfillment of
 moral and individual obligations?
@@ -985,8 +985,8 @@ me affection."[^44]
 
 In contrast to the previous views and what we will see later, the
 affection view is based on the premise that an ethical act relies
-heavily on doing good to other people.  
- This view, which is known as the Indian-Eastern school, considers an
+heavily on doing good to other people.
+This view, which is known as the Indian-Eastern school, considers an
 act as ethical only when it is employed to do affection towards others.
 If, however, we perform our duties daily, such actions are not termed
 ethical. Thus, we will consider an act as ethical if it is rooted in
@@ -994,7 +994,7 @@ feelings more sublime than individual feelings. The end of an ethical
 act is to make others benefit from it, and not just the individual.
 
 This view, however, is significant and is contained in most religions.
-Two points should not be neglected, however.  
+Two points should not be neglected, however.
 **a)** Not every ethical act is in the interest of everybody. There
 exist many ethical principles which provide for the individual's
 exultation. They do not of necessity lead to the interests of others.
@@ -1070,13 +1070,13 @@ Some scholars from the East or West, including Kant, contend that man is
 created in such a way as to come across with good ethical acts or bad
 ones through the guidance of his innate powers; and in practice he finds
 himself in a position as to either carry them out or stop doing them
-altogether.  
- The criterion for judgments of this sort is referred to as "ethical
+altogether.
+The criterion for judgments of this sort is referred to as "ethical
 conscience."
 
 Kant, the German philosopher, who died in 1804, accounts for this in the
-following way:  
- Speculative intelligence, i.e., the agent inside the mechanism is not
+following way:
+Speculative intelligence, i.e., the agent inside the mechanism is not
 of high value; but the practical intelligence, i.e., the agent for
 carrying out the practical affairs, which is also referred to as
 "ethical conscience" has a definite practicality and its commands are
@@ -1088,19 +1088,19 @@ responsible to carry out the commands issued by it. An act is considered
 to be ethical when it has the following characteristics:
 
 **a)** It is voluntary. An act which is carried out compulsorily can not
-be ethical.  
+be ethical.
 **b)** The carrying out of the act should only be for the sake of duty
 and nothing else. For instance, a person's act is not considered ethical
 if he carries it out for a friend, for social acceptance, for material
 benefits, or for the world hereafter. He has to carry it out only for
-its own sake. An act may be good but unethical;  
+its own sake. An act may be good but unethical;
 **c)** It should be all-inclusive so that it may include the acts of all
-of those who want to carry out such acts;  
+of those who want to carry out such acts;
 **d)** The ultimate goal for that act should be man himself, not other
-minor objectives;  
+minor objectives;
 **e)** It should include man's prosperity although not for his
-delight.  
- Of course, this hypothesis has the following positive aspects:  
+delight.
+Of course, this hypothesis has the following positive aspects:
 **a)** There exists in man an agent which, with the help of heavenly
 inspiration, can distinguish good deeds;
 
@@ -1126,12 +1126,12 @@ driving him crazy:
 self-accusing soul”.***[^51]
 
 **b)** Man knows, through his conscience, that he is not forced to do an
-act.  
- Mawlawi says:  
- When you say should I do this or that;  
- My friend, this shows you are free.  
+act.
+Mawlawi says:
+When you say should I do this or that;
+My friend, this shows you are free.
 **c)** The best sort of prayers is to carry out a task as thanks to
-God.  
+God.
 **d)** Man's status and his magnanimity are higher than for him to fall
 prey to other desires. Every thing is created for his use. Nothing
 equals him.
@@ -1157,10 +1157,10 @@ human rights.
 ***“Love for others what you love for yourself, and dislike for others
 what you dislike for yourself.”***[^53]
 
-Kant's hypothesis suffers from the following defects, however:  
+Kant's hypothesis suffers from the following defects, however:
 **a)** Our conscience is not strong enough for its recognition to be
-flawless.  
- As the speculative intelligence needs guidance and protection,
+flawless.
+As the speculative intelligence needs guidance and protection,
 practical intelligence too should be guided and protected. The latter,
 too, might be unable to distinguish facts, or due to practice and
 repetition of wrong deeds, might lose its sensitivity.
@@ -1192,8 +1192,8 @@ spirit, then this will lead to his prosperity as well. Separating these
 two is not right unless we translate prosperity as sensual
 pleasure.[^56]
 
-**d)** Kant considers goodness subordinate to duty.  
- But the reverse is true when we see that Allah orders the doing of
+**d)** Kant considers goodness subordinate to duty.
+But the reverse is true when we see that Allah orders the doing of
 justice and the doing of good and forbids evil:
 
 <blockquote dir="rtl">
@@ -1241,10 +1241,10 @@ keeping of others' interests. In other words, it means to bring man's
 selfish desires under the control of education.[^61]
 
 This notion, however, entails many defects among which are the
-following:  
+following:
 **a)** It takes away the ethics from its innate sacredness and surrounds
-it with individual's interests.  
- But as we have seen before, the spiritual characteristics are beyond
+it with individual's interests.
+But as we have seen before, the spiritual characteristics are beyond
 this kind of considerations.
 
 **b)** According to this view, if a person had such a power as to be
@@ -1265,8 +1265,8 @@ the life hereafter is not included.
 
 **d)** What is the criterion for the ethical act which satisfies the
 interests of both individual and the community? Neither is wisdom to
-recognize the ethical act, nor conscience can do this job.  
- In this view, then, the ethical act does not have any reliable
+recognize the ethical act, nor conscience can do this job.
+In this view, then, the ethical act does not have any reliable
 criterion.
 
 ### 8- The philosophy of Ethics in the viewpoint of Freud:
@@ -1280,8 +1280,8 @@ perceptions and human character. He writes, "The child imitates the
 parents' ethical criteria, such as the dichotomy of bad/ good and piety/
 wrong–doing.
 
-The superego[^63] is the result of this absorption.  
- It represents values, tribal beliefs and social ideals which the child
+The superego[^63] is the result of this absorption.
+It represents values, tribal beliefs and social ideals which the child
 has received from its parents. Other social factors which influence the
 superego include teachers, priests, police or whoever stands above the
 child in the society. These factors, however, influence the child much
@@ -1304,8 +1304,8 @@ social prohibition."[^66]
 
 In Freud's view, neither in man's history nor in the individual's
 history has there been the primitive concept of good or bad. These
-concepts stem soly from outside of man, i.e., in his social context."  
- The important criticism, which can be leveled at Freud's ideas, is that
+concepts stem soly from outside of man, i.e., in his social context."
+The important criticism, which can be leveled at Freud's ideas, is that
 the good actions and noble moral traits are not based on a reliable and
 sacred principle. How is a child expected to do right when it is offered
 unfounded and improper education?
@@ -1333,8 +1333,8 @@ society. For instance, extortion, hegemony, theft, confiscation and
 hurting people all belong to the era of agriculture, feudalism and
 capitalism. All these are done away with at the time of proletariat and
 communism, Then it is claimed that these are substituted for by justice,
-equality and freedom.  
- However, in the communist system, an act is considered ethical if it
+equality and freedom.
+However, in the communist system, an act is considered ethical if it
 can boost the development of the society and can advance the society
 from the agricultural, feudalistic and capitalistic stage towards the
 communist state.
@@ -1356,14 +1356,14 @@ The communists believe that
 
 "The objective justifies the means"
 
-Since communism relies on principles such as the following:  
-**a)** The principles of dialectic materialism.  
-**b)** Historical materialism.  
-**c)** Historical determinism.  
-**d)** Economics as the underlying structure.  
-**e)** The notion that all revolutions are heading toward socialism.  
+Since communism relies on principles such as the following:
+**a)** The principles of dialectic materialism.
+**b)** Historical materialism.
+**c)** Historical determinism.
+**d)** Economics as the underlying structure.
+**e)** The notion that all revolutions are heading toward socialism.
 **f)** The idea that the society is the base and everything should be
-sacrificed.  
+sacrificed.
 **g)** The notion that everything is dependant upon the production means
 even beliefs and moral affairs.
 
@@ -1389,13 +1389,13 @@ relations of men and women could be considered good at a specific era of
 time, such as at the agricultural age, but may be considered improper at
 another age, such as the age of automation.
 
-Of course, this notion suffers from other drawbacks as well:  
+Of course, this notion suffers from other drawbacks as well:
 **a)** Is every society heading towards perfection? Societies, like
-vegetation, sometimes progress and at times deteriorate.  
+vegetation, sometimes progress and at times deteriorate.
 **b)** What is meant by "the spirit of time"? Who has discovered it? How
 do we know that these changing features are caused by the spirit of
-time?  
-**c)** Who has said that chastity was good at one time but bad now?  
+time?
+**c)** Who has said that chastity was good at one time but bad now?
 **d)** Who can consider some human traits such as justice, sacrifice and
 generosity good at one time but bad at other time?[^69]
 
@@ -1416,10 +1416,10 @@ chooses and nothing else.
 
 This view is wrong, however, since the one who chooses has selected an
 act because he has preferred it over other acts But do other people also
-believe that his choice was the best?  
- A murderer, a thief and a tormenter have, in fact, some rationale for
-their actions.  
- But having these preferences will not justify their wrong-doings.[^70]
+believe that his choice was the best?
+A murderer, a thief and a tormenter have, in fact, some rationale for
+their actions.
+But having these preferences will not justify their wrong-doings.[^70]
 
 A Summary of the 10 views: A conclusion:
 ----------------------------------------
@@ -1445,28 +1445,28 @@ ethics.
 Some time ago Reagan, the previous president of the United States, in a
 conference, talked about the horrible increase in murders in the United
 States: he said the number of victims of murder is beyond 23,000 a
-year.  
- Reagan added crimes hurt one third of the families in the United States
+year.
+Reagan added crimes hurt one third of the families in the United States
 and the loss in money is about eight billion and eight million
-dollars.  
- Reagan confessed that in the United States one person is killed every
-30 minutes and nine women are sexually assaulted.  
- In the same amount of time 67 persons fall prey to theft, 97 persons
-are subject to assault and 389 houses are prone to the armed robbery.  
- He said: syndicated crimes done by corrupt statesmen are scandalous for
+dollars.
+Reagan confessed that in the United States one person is killed every
+30 minutes and nine women are sexually assaulted.
+In the same amount of time 67 persons fall prey to theft, 97 persons
+are subject to assault and 389 houses are prone to the armed robbery.
+He said: syndicated crimes done by corrupt statesmen are scandalous for
 the United States.[^71]
 
 More recently, the newspaper France ce soir in Paris has reported the
 number of crimes in France during the year 1989 as four million, 297
 thousand and 123, which shows an increase of 7 percent over the previous
-year (1988).  
- The same newspaper reports the number of crimes during the first
+year (1988).
+The same newspaper reports the number of crimes during the first
 quarter of 1989 has been more than 580,000.
 
 Now more than one billion of the world populations suffer from poverty
 and malnutrition and shortage of medicines. There are, however, billions
-of dollars spent for military purposes.  
- These are just small samples of disorders which are inflicted upon
+of dollars spent for military purposes.
+These are just small samples of disorders which are inflicted upon
 those layers of the world population who are exposed to corrupt schools
 of thought either in ethics, or in education, or in politics, or in
 economics or in other social affairs. For a complete picture of the
@@ -1584,11 +1584,11 @@ treatise on the return from Siffin. He wrote it for his son Imam Hasan
 (as). Our scholars have narrated it through different media. Among these
 scholars are Kulayni, who has reported it in his book called Al-Rasa’il
 and Sharif al-Radi, who has reported it in his book Nahj
-al-Balaghah".[^79]  
- For this reason we have called the present book "The first treatise on
+al-Balaghah".[^79]
+For this reason we have called the present book "The first treatise on
 Islamic Ethics and Education" and have selected it as the best Islamic
-principle on education and the best source for Islamic ethics.  
- As it is understood from the text and will be clear in the subsequent
+principle on education and the best source for Islamic ethics.
+As it is understood from the text and will be clear in the subsequent
 chapters, Imam ‘Ali (as) does not only have his son in view, but he
 considers the parents' duties as a whole and a man's duties at different
 walks of life.[^80]
@@ -1607,103 +1607,103 @@ politico-social phase, it cannot be studied only from one angle. The
 principles included in this treatise are:
 
 **1)** Only man has the ability to acquire complete education; beasts
-have this ability to a limited degree.  
-**2)** The best time for education is the childhood.  
+have this ability to a limited degree.
+**2)** The best time for education is the childhood.
 **3)** The father's responsibility in educating the children is more
-than anybody else.  
-**4)** There are clear reasons which prove monotheism and God's power.  
+than anybody else.
+**4)** There are clear reasons which prove monotheism and God's power.
 **5)** Life does not depend on this world alone; the hereafter exists
-and we should prepare provisions for that day.  
+and we should prepare provisions for that day.
 **6)** Islam is based on the interests and losses of the society and is
-the most inclusive religion.  
+the most inclusive religion.
 **7)** The best capital is piety and carrying on the ways of the pious
-ancestors, i.e., the Prophets and Imams.  
-**8)** The best shelter in the ups and downs of life is Allah.  
-**9)** Saying prayers and being penitent are significant.  
+ancestors, i.e., the Prophets and Imams.
+**8)** The best shelter in the ups and downs of life is Allah.
+**9)** Saying prayers and being penitent are significant.
 **10)** Man is created free; he is not allowed to make a slave out of
-himself; he should keep his magnanimity at all times.  
+himself; he should keep his magnanimity at all times.
 **11)** Not every wish can be granted; thus, we should engage ourselves
-with the noblest ones.  
+with the noblest ones.
 **12)** One of the factors which build up a man's personality is the
-study of good and bad fates of nations of the past.  
+study of good and bad fates of nations of the past.
 **13)** A man should make his soul (self) a criterion between he himself
 and others; what he considers improper he should not consider proper for
-others.  
+others.
 **14)** The relation of man with his family, government, and his
-responsibilities and tasks bestowed upon him.  
-**15)** The ways of self-construction.  
-**16)** The principles of friendship and its limits.  
+responsibilities and tasks bestowed upon him.
+**15)** The ways of self-construction.
+**16)** The principles of friendship and its limits.
 **17)** In order to guide the society and to stop deviations, a man
-should make use of giving advice.  
-**18)** Women's rights and status, without going to extremes.  
+should make use of giving advice.
+**18)** Women's rights and status, without going to extremes.
 **19)** Accepting responsibilities and observing the principle of
-management.  
-**20)** This world is the home of pain and torment.  
-**21)** Thinking in religion and making use of useful knowledge.  
-**22)** Experiencing and making use of the good experiences.  
-**23)** Being kind to friends and tolerating foes.  
+management.
+**20)** This world is the home of pain and torment.
+**21)** Thinking in religion and making use of useful knowledge.
+**22)** Experiencing and making use of the good experiences.
+**23)** Being kind to friends and tolerating foes.
 **24)** More than one hundred other useful pieces of advice.
 
 Documents for this treatise
 ---------------------------
 
 Many Islamic scholars, prior to Seyyid ar-Radi, have reported this
-treatise in their books.  
- Among these books are the following:  
+treatise in their books.
+Among these books are the following:
 **1.** Muhammad Ibn Ya'qub al-Kulayni in his book al-Rasa'il (died 328
-AH).  
+AH).
 **2.** Hasan Ibn Abdullah Ibn Sa'eed al-Askari, the teacher of Shaykh
 as-Saduq, in the book Al-Zawajir wa’l-Mawa’iz (died in 3rd century
-AH).  
+AH).
 **3.** Ibn Abd Rabbih in the book al-‘Iqd al-Farid, vol. 3, pp.155-156
-(d.328 AH).  
+(d.328 AH).
 **4.** Shaykh al-Saduq in the book called Man la yahdaruhu’l faqih, vol.
-3, p.362, vol. 4, p.275 (d. 380 AH).  
+3, p.362, vol. 4, p.275 (d. 380 AH).
 **5.** Ibn Shu'bah al-Harrani in the book called Tuhaf al-‘Uqul,
-pp.52-96 (d. 380 AH).  
-**6.** Allama al-Barqi in the book al-Mahasin (d. 274 AH).  
-**7.** Ibn Maskawayh in the book Al-Hikmah al-Khalidah (d. 421 AH).  
-**8.** Shaykh al-Mufid in the book al-Amali and al-Irshad (d. 413 AH).  
- After Sayyid al-Radi, many scholars have reported either the treatise
+pp.52-96 (d. 380 AH).
+**6.** Allama al-Barqi in the book al-Mahasin (d. 274 AH).
+**7.** Ibn Maskawayh in the book Al-Hikmah al-Khalidah (d. 421 AH).
+**8.** Shaykh al-Mufid in the book al-Amali and al-Irshad (d. 413 AH).
+After Sayyid al-Radi, many scholars have reported either the treatise
 in its entirety or parts of it in their books.
 
-Among these scholars are:  
-**1.** Sayyid Ibn Tawus, in the book Kashf al-Mahajjah (d. 664 AH).  
-**2.** Mada’ini in the book Majma’ al-Amthal, Vol.1 (d. 518 AH).  
+Among these scholars are:
+**1.** Sayyid Ibn Tawus, in the book Kashf al-Mahajjah (d. 664 AH).
+**2.** Mada’ini in the book Majma’ al-Amthal, Vol.1 (d. 518 AH).
 **3.** Mohammad Ibn Yusuf az-Zarandi in the book Durar al-Simtayn (d.750
-AH).  
-**4.** Qazi Qaza'i in the book Dastur Ma'alim al-Hikam (d.454 AH).  
-**5.** Mulla Muhsin Fayz in the book Wafi, vol..1 (d.1091 AH).  
-**6.** Al-Muttaqi al-Hindi in Kanz al-Ummal, vol. 8.  
-**7.** Shaykh Hurr al-Amili in al-Wasa’il, vol. 8, (d.1104 AH).  
-**8.** Sheikh Warram in Tanbih al-Khawatir (d.605 AH).  
-**9.** Al-Karajiki in Kanz al-Fawa’id (d.449 AH).  
-**10.** Al-Aamidi in Ghurar al-Hikam (d.588 AH).  
+AH).
+**4.** Qazi Qaza'i in the book Dastur Ma'alim al-Hikam (d.454 AH).
+**5.** Mulla Muhsin Fayz in the book Wafi, vol..1 (d.1091 AH).
+**6.** Al-Muttaqi al-Hindi in Kanz al-Ummal, vol. 8.
+**7.** Shaykh Hurr al-Amili in al-Wasa’il, vol. 8, (d.1104 AH).
+**8.** Sheikh Warram in Tanbih al-Khawatir (d.605 AH).
+**9.** Al-Karajiki in Kanz al-Fawa’id (d.449 AH).
+**10.** Al-Aamidi in Ghurar al-Hikam (d.588 AH).
 **11.** Al-Majlisi in Bihar al-Anwar vol.74 pp.1- 4.[^81]
 
 Translations and commentaries Used in this Book
 -----------------------------------------------
 
 As we know, scholars have reported a lot of translations and
-commentaries for Nahj al-Balaghah.  
- The number varies from 100 to 200 books which refer specifically to
-this letter.[^82]  
- I have made the best use out of the following translations and
-commentaries:  
-**1.** Sharh Nahj al-Balaghah by Ibn Maytham;  
-**2.** Sharh Nahj al-Balaghah by Ibn Abi al-Hadid;  
-**3.** Sharh Nahj al-Balaghah by Muhammad Abduh;  
-**4.** Sharh Nahj al-Balaghah by al-Rawandi.  
-**5.** Masadir Nahj al-Balaghah by Sayyid Abd al-Zahra Husayni.  
-**6.** Sharh Nahj al-Balaghah by Mirza Muhammad Baqir Nawab Lahiji.  
-**7.** Nahj al-Balaghah by Dr. Subhi al-Salih.  
+commentaries for Nahj al-Balaghah.
+The number varies from 100 to 200 books which refer specifically to
+this letter.[^82]
+I have made the best use out of the following translations and
+commentaries:
+**1.** Sharh Nahj al-Balaghah by Ibn Maytham;
+**2.** Sharh Nahj al-Balaghah by Ibn Abi al-Hadid;
+**3.** Sharh Nahj al-Balaghah by Muhammad Abduh;
+**4.** Sharh Nahj al-Balaghah by al-Rawandi.
+**5.** Masadir Nahj al-Balaghah by Sayyid Abd al-Zahra Husayni.
+**6.** Sharh Nahj al-Balaghah by Mirza Muhammad Baqir Nawab Lahiji.
+**7.** Nahj al-Balaghah by Dr. Subhi al-Salih.
 **8.** The Translation and Commentary of Nahj al-Balaghah by Muhammad
 Ja'far Imami and Mohammad Rida Ashtyani, supervised by Ayatullah Makarim
-Shirazi.  
+Shirazi.
 **9.** The Translation and Commentary of Nahj al-Balaghah by Sayyid ‘Ali
-Naqi, Fayz al-Islam.  
+Naqi, Fayz al-Islam.
 **10.** The translation of Nahj al-Balaghah by Dr. Sayyid Ja'far
-Shahidi.  
+Shahidi.
 **11.** A Complementizer of Sharh Nahj al-Balaghah by Allama al-Khu'i,
 written by Allama Kamar'ee.
 
@@ -1721,8 +1721,8 @@ lot.
 But after the revolution, our scholars became involved in the
 administrative activities and our revolutionary children were engaged in
 the struggle against our internal and external enemies and could not
-carry on their main tasks, which were cultural activities.  
- However, our enemies spread corruption and this led to the worries of
+carry on their main tasks, which were cultural activities.
+However, our enemies spread corruption and this led to the worries of
 our leader, Ayatollah Khamenei. He continuously warned people against
 these dormant dangers.
 
@@ -1750,11 +1750,11 @@ we enriched the camp greatly."
 Among those lessons, was the present historic letter by Imam ‘Ali (as)
 to his son Imam Hasan (as), one portion of which was published in the
 magazine "The growth of the teaching of Islamic knowledge" and other
-publications. Then it was edited and became the present book.  
- I hope it will be satisfactory to Amir al-Mu'minin Imam ‘Ali (as) and
+publications. Then it was edited and became the present book.
+I hope it will be satisfactory to Amir al-Mu'minin Imam ‘Ali (as) and
 through his blessings it will be an asset for me in the Hereafter,
-Amen.  
- Farwardin 1371, Lahijan – Zeinolabedin Ghorbani
+Amen.
+Farwardin 1371, Lahijan – Zeinolabedin Ghorbani
 
 [^1]: On the letters and treatises of the great Imams, peace be upon
 them, see the book Mada’in al-Hikmah fi Makatib al-A’immah, peace be

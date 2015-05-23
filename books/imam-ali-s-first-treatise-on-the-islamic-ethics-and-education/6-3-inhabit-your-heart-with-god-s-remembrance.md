@@ -36,7 +36,7 @@ temptations. "God's remembrance is a believer's capital and its benefit
 is protection against the Satan."
 
 On the other hand, stopping God's remembrance and forgetting Him entails
-the following consequences:  
+the following consequences:
 **i.** Turning away from God's remembrance results in one's life
 becoming straitened:
 
@@ -237,9 +237,9 @@ disobedience.
 Fortunately, in our Islamic traditions, there is a lot of emphasis on
 this point: Some of these will follow:
 
-**a)** The Great Prophet, in his will to Imam ‘Ali (as), stated:  
- "O ‘Ali, a person cannot do justice in three things:  
- In sharing his possessions with his brother in faith, in carrying out
+**a)** The Great Prophet, in his will to Imam ‘Ali (as), stated:
+"O ‘Ali, a person cannot do justice in three things:
+In sharing his possessions with his brother in faith, in carrying out
 justice towards others, and in remembering God at all times. God’s
 remembrance does not only include saying “glory be to Allah, praise be
 to Allah, there is no god but Allah and Allah is great”. Rather, it
@@ -256,8 +256,8 @@ God's remembrance or negligence of His remembrance."[^20]
 time, neither forget Him when you are busy.
 
 Remember Him when your tongue and your heart are in harmony. You will
-remember Him truly only when you forget yourself entirely”.[^21]  
- Clearly, this kind of remembrance of God will stop man from commiting
+remember Him truly only when you forget yourself entirely”.[^21]
+Clearly, this kind of remembrance of God will stop man from commiting
 sins and will force him to carry out prayers. Such remembrance will
 enlighten and construct your hearts.
 

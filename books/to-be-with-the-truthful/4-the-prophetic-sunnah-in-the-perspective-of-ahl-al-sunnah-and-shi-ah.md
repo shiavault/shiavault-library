@@ -9,8 +9,8 @@ their rulings, rituals (‘ibādāt) and doctrines (‘aqā’id).
 But Ahl al-Sunnah wa al-Jamā‘ah add to it another source, which being
 the sunnah (conduct) of the four Rightly — Guided Caliphs (al-Khulafā’
 al-Rāshidun) who are Abu Bakr, ‘Umar, ‘Uthmān and ‘Ali, according to a
-hadith narrated by them as follows:  
- “Adhere to my sunnah and the sunnah of the rightly — guided successors
+hadith narrated by them as follows:
+“Adhere to my sunnah and the sunnah of the rightly — guided successors
 after me. Hold on to it and cling to it stubbornly.”[^1]
 
 The clearest evidence for this lies in their following of ‘Umar ibn
@@ -50,8 +50,8 @@ murdered the innocent, for the sake of supporting the rule of the
 Umayyads? You also, the intelligent reader, when reading the hadith ‘my
 companions are like the stars’, you will come to realize that it is
 fabricated, since it is addressed to the Companions, so is it reasonable
-that the Messenger(S) says:  
- “O my Companions follow the guide of my Companions"?
+that the Messenger(S) says:
+“O my Companions follow the guide of my Companions"?
 
 Whereas the hadith "O my Companions, adhere to the Imams from among my
 household, since they guide you after me" is nearer to truth, due to
@@ -99,8 +99,8 @@ whom he (S) commanded to follow, like the following hadith uttered by
 him (S):
 
 "The ‘ulamā’ of my *Ummah* are superior to the prophets of Banu Israel,"
-or "The ‘ulamā’ are the inheritors of the prophets."[^11]  
- Ahl al-Sunnah wa al-Jamā‘ah take this tradition to include all the
+or "The ‘ulamā’ are the inheritors of the prophets."[^11]
+Ahl al-Sunnah wa al-Jamā‘ah take this tradition to include all the
 *Ummah* ‘ulamā’ as a whole, while the Shiah specify it to the Twelve
 Imams, the reason making them to prefer them (‘a) over the prophets,
 with the exception of Ulu al-'Azm (of resolution) among the messengers.
@@ -276,8 +276,8 @@ fall short of them, for then you shall perish. Don’t teach them for they
 are more knowledgeable than you.”[^15]
 
 Also al-’Imām ‘Ali (‘a) said the truth when he uttered the following
-statement:  
- “Look at the people of the Prophet’s family. Adhere to their direction
+statement:
+“Look at the people of the Prophet’s family. Adhere to their direction
 and follow their footsteps, because they would never let you out of
 guidance, and never throw you into destruction. If they sit down you sit
 down, and if they rise up you rise up. Do not go ahead of them, as you
@@ -285,8 +285,8 @@ would thereby go astray, and do not lag behind of them as you would
 thereby be ruined.”[^16]
 
 In another sermon, he (‘a) describes the position and worth of Ahl
-al-Bayt (‘a) by saying:  
- “They are life for knowledge and death for ignorance. Their forbearance
+al-Bayt (‘a) by saying:
+“They are life for knowledge and death for ignorance. Their forbearance
 tells you of their knowledge, and their outward of their inward, and
 their silence of the wisdom of their speaking. They do not go against
 right nor do they differ (among themselves) about it. They are the
@@ -295,8 +295,8 @@ has returned to its position and wrong has left its place, and its
 tongue is severed from its root. They have understood the religion
 attentively and carefully, not by mere heresy or from relaters, because
 the relaters of knowledge are many but its understanders are
-few.”[^17]  
- Al-’Imām ‘Ali has verily said the truth, as he is the gate of the city
+few.”[^17]
+Al-’Imām ‘Ali has verily said the truth, as he is the gate of the city
 of knowledge. And there is a great difference between that who
 comprehends religion with consciousness and observance, and that who
 comprehends it through hearing and narrations.

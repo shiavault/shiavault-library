@@ -92,8 +92,8 @@ This was the summary of those different interpretations, which our
 scholars and writers of exegeses have presented about seven heavens and
 earths. Especially the last Tafseer, which seems to be more acceptable
 compared to all others and the narrations of those exegeses is in need
-of further explanation.  
-   
+of further explanation.
+
 
 [^1]: Surah Luqman 31:27
 

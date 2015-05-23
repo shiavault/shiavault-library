@@ -51,7 +51,7 @@ the Well of Zamzam,
 
 the most sacred place
 
-on earth.  
+on earth.
 ![](/sites/default/files/part7a.gif)
 
 The foundation stone

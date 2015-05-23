@@ -17,8 +17,8 @@ between the dictations of my reason and conscience, of the justice of
 Allah, the Glorified and Exalted, and negation of His oppression toward
 His creatures, as how can it be imagined that He forces them to do
 certain acts, and then calls them to account for them, or to chastise
-them for a sin He determined upon them and compelled them to do.  
- So, I, like many of all other Muslim youths, was experiencing those
+them for a sin He determined upon them and compelled them to do.
+So, I, like many of all other Muslim youths, was experiencing those
 thought contrarieties, in my belief that Allah, the Glorified, being the
 Omnipotent and the Compeller,
 
@@ -119,8 +119,8 @@ and also said:
 be Hell, he shall abide therein and God’s wrath shall be on him and His
 curse and (there) is prepared for him a great torment.” (4:93)***
 
-which all indicate free will in killing.  
- And even in relation to eating and drinking, He has designated for us
+which all indicate free will in killing.
+And even in relation to eating and drinking, He has designated for us
 certain limits when saying:
 
 ***“... and eat ye and drink ye and commit ye not excesses; Verily He
@@ -130,8 +130,8 @@ that indicates free will too.
 
 After all these explicit Qur’ānic evidences, how do you, my master,
 claim that everything is destined by Allah, and man is compelled in all
-of his acts??  
- He replied: Allah, the Glorified, is administering the universe alone.
+of his acts??
+He replied: Allah, the Glorified, is administering the universe alone.
 He mentioned as an evidence the verse:
 
 ***"Say (O Apostle Muhammad!) “O’ God! Master of the kingdom, Thou
@@ -157,15 +157,15 @@ whatever He will and chooses the best (of His bondmen)?
 He said: Yes, I hold this view, as Allah, the Glorified, Himself has
 elected Abu Bakr, and after him ‘Umar, then ‘Uthmān, and then ‘Ali (as
 caliphs), and if He willed that ‘Ali be the first caliph, neither jinn
-nor mankind could be able to prevent this.  
- I said: Now you are trapped.  
- He said: How is that I am trapped?  
- I said: Either you believe that Allah has elected the Four
+nor mankind could be able to prevent this.
+I said: Now you are trapped.
+He said: How is that I am trapped?
+I said: Either you believe that Allah has elected the Four
 Rightly-guided Caliphs, leaving to people then free to choose whomever
 they like. Or you should believe that Allah has never given free will to
 choose to people, but He Himself elects all the caliphs after the demise
-of the Messenger till the Doomsday?  
- He replied: I hold the second opinion, according to the verse: “Say (O
+of the Messenger till the Doomsday?
+He replied: I hold the second opinion, according to the verse: “Say (O
 Apostle Muhammad!) “O’ God! Master of the Kingdom, Thou givest the
 kingdom unto whomsoever Thou likest and takest away the kingdom from
 whomsoever Thou likest...”
@@ -180,10 +180,10 @@ people,” i.e We made them emirs.”
 
 With astonishment I said: Do you mean that slaying of ‘Ali at the hand
 of Ibn Muljam and murdering of al-Husayn ibn ‘Ali being intended by
-Allah??  
- Triumphantly he said: Yes, of course. Haven’t you heard the Messenger’s
-addressing ‘Ali, by saying:  
- “The most wicked of the latters will smite you on this (referring to
+Allah??
+Triumphantly he said: Yes, of course. Haven’t you heard the Messenger’s
+addressing ‘Ali, by saying:
+“The most wicked of the latters will smite you on this (referring to
 his head) till this (pointing at his beard) will be wet.”
 
 So also in respect of our master al-Husayn, as the Messenger of Allah
@@ -202,33 +202,33 @@ never comprehend such a theory.
 
 I again asked him: So you hold that all the heads of state and kings, in
 the past and at present, who fight Islam and Muslims, have been
-appointed by Allah? He said: Yes, certainly.  
- I said: Do you mean that even the French colonialism over Tunisia,
-Algeria and Morocco being destined by Allah?  
- He said: Yea, and when the destined time was due, France went out from
+appointed by Allah? He said: Yes, certainly.
+I said: Do you mean that even the French colonialism over Tunisia,
+Algeria and Morocco being destined by Allah?
+He said: Yea, and when the destined time was due, France went out from
 those countries.
 
 I said: Glorified is Allah! But how were you previously defending the
 Ahl al-Sunnah’s belief that the Messenger of Allah (may God’s peace and
 benediction be upon him and his Progeny), died away and left the matter
 (successorship) to be determined through consultation (shurā) among
-Muslims, so as to elect whom they like?  
- He replied: Yes it is true, and I still hold the same belief, and will
-maintain this God-willing!  
- I said: How do you make concurrence then between the two beliefs:
-Allah’s election and people’s election by shurā?  
- He said: When the Muslims elected Abu Bakr, it necessarily means that
+Muslims, so as to elect whom they like?
+He replied: Yes it is true, and I still hold the same belief, and will
+maintain this God-willing!
+I said: How do you make concurrence then between the two beliefs:
+Allah’s election and people’s election by shurā?
+He said: When the Muslims elected Abu Bakr, it necessarily means that
 Allah elected him!
 
-I said: Has God revealed to them in the Saqifah to choose the caliph?  
- He said: I seek God’s forgiveness, no revelation (wahy) is there after
+I said: Has God revealed to them in the Saqifah to choose the caliph?
+He said: I seek God’s forgiveness, no revelation (wahy) is there after
 Muhammad (his demise), as held by the Shi’ah! (The Shi’ah, as is known,
 never hold such a belief, but it is merely a charge ascribed to them by
-their foes).  
- I said: Let the Shi’ah and their superstitions alone, and convince us
+their foes).
+I said: Let the Shi’ah and their superstitions alone, and convince us
 with what you have (of your own)! How came you to know that Allah has
-chosen Abu Bakr?  
- He said: If Allah intended other than this, neither the Muslims, nor
+chosen Abu Bakr?
+He said: If Allah intended other than this, neither the Muslims, nor
 all the worlds could ever contradict the will of Allah, the Exalted.
 
 Only then I realized that such people never meditate nor ponder upon the
@@ -238,8 +238,8 @@ theory will be established with evidence.
 This recalls to my mind another story, when I was wandering with a
 friend in a palmy garden, and as I was telling him about fate and
 destiny (al-qadā’ wa al-qadar), a ripe fruit fell on my head. I picked
-it from over the grass in order to eat it, so I put it in my mouth.  
- My friend wondered saying: You can never eat but only that which Allah
+it from over the grass in order to eat it, so I put it in my mouth.
+My friend wondered saying: You can never eat but only that which Allah
 has prescribed for you! This fruit fell down in your name. I said: Since
 you believe that it is destined for me, I shall never eat it ... and I
 threw it away.
@@ -303,21 +303,21 @@ made his son Yazid his successor, as a caliph over people. It was
 reported so by the historians, that he sent letters everywhere demanding
 swear of allegiance to Yazid, when Marwān ibn al-Hakam was his ruler
 over al-Madinah. So he wrote him a letter mentioning that allegiance to
-Yazid was decreed by Allah.[^5]  
- Such was done also by the debauchee Ibn Ziyād, when Zayn al-’Abidin was
+Yazid was decreed by Allah.[^5]
+Such was done also by the debauchee Ibn Ziyād, when Zayn al-’Abidin was
 brought to him fettered in chains, he inquired: Who is that? They
 replied: He is ‘Ali ibn al-Husayn! He said: Hasn’t Allah killed ‘Ali ibn
 al-Husayn? Zaynab (‘a) answered: Nevertheless, the enemies of Allah and
-His Messenger killed him.  
- Ibn Ziyād said to her: How did you view Allah’s making regarding your
+His Messenger killed him.
+Ibn Ziyād said to her: How did you view Allah’s making regarding your
 household?
 
 She said: I never saw but good. These are people upon whom murder was
 prescribed, so they came forth toward their (destined) beds. And Allah
 will gather you with them, and you will be argued and disputed. At that
 day, you shall verily find out who is victorious, May your mother be
-bereaved of you, O Ibn Marjānah.[^6]  
- In this way, this belief was spread abroad through the Umayyads and
+bereaved of you, O Ibn Marjānah.[^6]
+In this way, this belief was spread abroad through the Umayyads and
 their stooges, coming into force among the Islamic *Ummah*, except the
 followers of Ahl al-Bayt (the Shi’ah).
 
@@ -325,8 +325,8 @@ Shi’ah’s Belief in Fate and Destiny
 -----------------------------------
 
 As soon as I became acquainted with the Shi’ah ‘ulamā’,[^7] reading
-their books, I became aware of a new science called fate and destiny.  
- Al-’Imām ‘Ali (peace be upon him) has elucidated this, through the most
+their books, I became aware of a new science called fate and destiny.
+Al-’Imām ‘Ali (peace be upon him) has elucidated this, through the most
 express statement, when giving a reply to someone who asked him about
 fate and destiny (al-qadā’ wa al-qadar), saying:
 
@@ -486,8 +486,8 @@ him to do this (act) and forbade him of doing that one.”)
 
 By my life, it is verily a sufficient and convincing statement that to
 be conceived by all minds, and can be comprehended by all people: the
-educated and uneducated.)  
- The Messenger of Allah (S) disclosed the truth when saying in their
+educated and uneducated.)
+The Messenger of Allah (S) disclosed the truth when saying in their
 regard:)
 
 “Do not outstrip them, for then you shall perish, and do not fall short
@@ -507,8 +507,8 @@ people, to elect someone for them.)
 
 Whereas the Shi’ah hold exactly the opposite opinion, as though
 believing that man has option in his acts, and that Allah’s bondmen can
-do whatever they like (within the framework of the hadith:)  
- Neither determinism nor free will but a state in between the two), but
+do whatever they like (within the framework of the hadith:)
+Neither determinism nor free will but a state in between the two), but
 when it comes to caliphate they hold that no one has any right of
 option!)
 
@@ -517,8 +517,8 @@ Shi’ah at first blush, but this being untrue. As when the Sunnah hold
 that Allah, the Glorified, compels His bondmen in all of their acts,
 they in fact contradict the matter of fact, as they believe in Allah’s
 being the real owner of free will, but what He leaves for them being
-only imaginary option. Since Abu Bakr was elected, on the day  
- of Saqifah, by ‘Umar and then by some of the Companions, who being in
+only imaginary option. Since Abu Bakr was elected, on the day
+of Saqifah, by ‘Umar and then by some of the Companions, who being in
 fact executors of the order of Allah, Who has made them only a medium,
 according to this allegation.)
 

@@ -1,0 +1,76 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/introduction-islam-maqbul-hussein-rahim
+author: Maqbul Hussein Rahim
+title: An Introduction to Islam
+slug: an-introduction-to-islam
+uuid: b72b0bc2-f5c2-44a9-adbb-958997e841dc
+description: |
+  An introductory text describing the basic tenets of the Islamic faith
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-islam-maqbul-hussein-rahim/articles-faith
+  title: Articles of Faith
+  slug: 1-articles-of-faith
+  uuid: d2a8e1c8-dec2-4513-8ef1-2c45dd7f310d
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-islam-maqbul-hussein-rahim/development-jurisprudence-and-theology
+  title: Development of Jurisprudence and Theology
+  slug: 2-development-of-jurisprudence-and-theology
+  uuid: 8f8e9967-0b4b-400f-b866-713b2f41ae34
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-islam-maqbul-hussein-rahim/acts-worship
+  title: Acts of Worship
+  slug: 3-acts-of-worship
+  uuid: f4621745-a153-463c-a537-c2672ca731fb
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-islam-maqbul-hussein-rahim/doctrine-five-pillars
+  title: The Doctrine of Five Pillars
+  slug: 4-the-doctrine-of-five-pillars
+  uuid: 9e50ec58-f9ba-4baf-b93a-3dcfc0970c2b
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-islam-maqbul-hussein-rahim/other-acts-piety
+  title: Other Acts of Piety
+  slug: 5-other-acts-of-piety
+  uuid: 77f9cabf-73ec-4710-a844-552adb3780e7
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-islam-maqbul-hussein-rahim/other-good-deeds
+  title: Other Good Deeds
+  slug: 6-other-good-deeds
+  uuid: e2c6affb-69fd-4382-81ea-7ea2b8abddd4
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-islam-maqbul-hussein-rahim/women-islam
+  title: Women in Islam
+  slug: 7-women-in-islam
+  uuid: 691cced9-7da3-433e-82d5-8a17a5fc3a22
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-islam-maqbul-hussein-rahim/marriage
+  title: Marriage
+  slug: 8-marriage
+  uuid: be3d9d23-1838-4f35-b0f8-c028860bf7a9
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-islam-maqbul-hussein-rahim/political-science
+  title: Political Science
+  slug: 9-political-science
+  uuid: 3293ace6-90d9-41b1-9851-c209faf1be8b
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-islam-maqbul-hussein-rahim/quran-modern-science
+  title: The Qur’an & Modern Science
+  slug: 10-the-qur-an-modern-science
+  uuid: 6fb9046b-1974-48a5-ba98-b6fcf3c27def
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-islam-maqbul-hussein-rahim/islamic-jurisprudence
+  title: Islamic Jurisprudence
+  slug: 11-islamic-jurisprudence
+  uuid: 05dd9b93-400f-4161-af5c-5bbfb322b628
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-islam-maqbul-hussein-rahim/islamic-culture
+  title: Islamic Culture?
+  slug: 12-islamic-culture
+  uuid: c09e2042-131d-40c4-85c6-d19b1e08cb88
+- source: :alislam
+  source_url: http://www.al-islam.org/introduction-islam-maqbul-hussein-rahim/muslims-great-britain
+  title: Muslims in Great Britain
+  slug: 13-muslims-in-great-britain
+  uuid: 03d1aad4-37eb-470f-8d58-6da80283458d
+---

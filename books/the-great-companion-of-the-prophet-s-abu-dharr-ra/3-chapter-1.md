@@ -40,9 +40,9 @@ has now come to a close. There is not a trace of cloud in the sky. There
 has been no thunder and no shower this time, not even a drop of rain or
 a drizzle. What do you think? Have we turned perverts that the wrath of
 our god has befallen us? Why should it feel offended with us when we
-have made so many sacrifices for its pleasure”?  
-    
- People began to ponder over the matter and exchanged views. They
+have made so many sacrifices for its pleasure”?
+
+People began to ponder over the matter and exchanged views. They
 thought to themselves: "Man cannot interfere with heavenly arrangement.
 No one can bring clouds and rains from the sky.
 
@@ -63,29 +63,29 @@ sit, ran towards the house. He entered the house calling "Jundab"!
 "Jundab"! When he saw that Jundab was lying in his bed comfortably, he
 said;
 
-Unais: Did you not hear the “call” to come out for the journey?  
- Abu Dharr: Yes, I did. But what should I do when I feel weary, and also
+Unais: Did you not hear the “call” to come out for the journey?
+Abu Dharr: Yes, I did. But what should I do when I feel weary, and also
 I do not want to go on a pilgrimage to Manat either.
 
 Unais: Shut up! Ask the god for mercy. Do you not fear lest the god
 should hear you and send torment on you?
 
-Jundab: Are you convinced that (Manat) hears our voice and sees us?  
- Unais: What has happened to you today? Has any genie overpowered you,
+Jundab: Are you convinced that (Manat) hears our voice and sees us?
+Unais: What has happened to you today? Has any genie overpowered you,
 or have you contracted a disease? Come, feel sorry. It may, perhaps,
-accept your remorse.  
- When Abu Dharr started rolling in his bed, his brother said, "Rise! The
+accept your remorse.
+When Abu Dharr started rolling in his bed, his brother said, "Rise! The
 caravan has moved, and off goes the tribe".
 
 The brothers were busy talking when their mother dropped in and they
-kept quiet.  
- Mother: My sons! What is your opinion?  
- Unais: About what, mother?
+kept quiet.
+Mother: My sons! What is your opinion?
+Unais: About what, mother?
 
-Mother: About the rain.  
- Unais: We agree to your proposal.  
- Mother: I propose to go to your maternal uncle who is a rich man.  
- Unais: All right! As you please. May god improve our condition.
+Mother: About the rain.
+Unais: We agree to your proposal.
+Mother: I propose to go to your maternal uncle who is a rich man.
+Unais: All right! As you please. May god improve our condition.
 
 Abu Dharr and Unais along with their mother came to their uncle's house.
 Their uncle entertained them with great hospitality. They stayed there
@@ -126,71 +126,71 @@ having bitten him like a serpent. Unais's uncle felt convinced about it.
 He made constant efforts to regain his peace of mind, but he could not
 do so. He was very sad and felt anguish and agony day and night.
 Whenever his nephews happened to come before him he turned his face
-away. Stillness pervaded the whole house.  
-    
- When Abu Dharr saw signs of grief on the face of his uncle he asked,
+away. Stillness pervaded the whole house.
+
+When Abu Dharr saw signs of grief on the face of his uncle he asked,
 "Dear uncle! What has happened to you? I have been observing your
 changed state for some days. You talk to us very little unusually and
-remain very thoughtful and depressed”.  
- The uncle answered, "There is nothing unusual".
+remain very thoughtful and depressed”.
+The uncle answered, "There is nothing unusual".
 
 Abu Dharr said, "No, there is certainly some reason behind it. Please
 tell me. Perhaps, I may relieve you of your worries or I may share some
-of your troubles".  
- He said, "I cannot describe what my tribesmen have told me".  
- Abu Dharr said, “Please let me know. What have the tribesmen told
-you?”  
- His uncle replied. "They say that Unais goes to my wife when I am away
-from home".  
-    
- Hearing this Abu Dharr flushed crimson with anger and said, "You have
+of your troubles".
+He said, "I cannot describe what my tribesmen have told me".
+Abu Dharr said, “Please let me know. What have the tribesmen told
+you?”
+His uncle replied. "They say that Unais goes to my wife when I am away
+from home".
+
+Hearing this Abu Dharr flushed crimson with anger and said, "You have
 spoiled the favours that you have done us. Now we leave, and will not
-see you again".  
-    
- At last they set off from there and took their dwelling at "Batn Marv"
+see you again".
+
+At last they set off from there and took their dwelling at "Batn Marv"
 which was situated near Mecca. Here, Abu Dharr came to know that a
 prophet had appeared at Mecca. He became anxious to know about it. He,
 at once, called his brother Unais and asked him to go to Mecca and find
-out the particulars of the Prophet.  
-    
- Unais had not yet set out for Mecca when a man was seen coming from
+out the particulars of the Prophet.
+
+Unais had not yet set out for Mecca when a man was seen coming from
 there and he went straight away to join the company at Abu Dharr's
 house. Abu Dharr asked him, "Where are you coming from?" He answered, "I
-am coming from Mecca".  
-    
- Abu Dharr asked, "What is the situation over there? He replied: "A man
-says that he is a prophet and he gets revelation from the heavens".  
- Abu Dharr said: "What did the Meccans do with him?" The man said: "They
+am coming from Mecca".
+
+Abu Dharr asked, "What is the situation over there? He replied: "A man
+says that he is a prophet and he gets revelation from the heavens".
+Abu Dharr said: "What did the Meccans do with him?" The man said: "They
 falsified him, tortured him, and prevented the people from going to him.
 They frighten and threaten everyone who goes to him".
 
 Abu Dharr asked: "Why do the people not believe him?" "How can they
 believe him", he said, "who vilifies their gods, calls them foolish and
-their forefathers perverts".  
- Abu Dharr said: "Does he really say so?"  
- "Yes, he says that God is one. Just see! What a strange thing it is!"
-said he.  
- Abu Dharr started thinking about the man who said that God is One. He
+their forefathers perverts".
+Abu Dharr said: "Does he really say so?"
+"Yes, he says that God is one. Just see! What a strange thing it is!"
+said he.
+Abu Dharr started thinking about the man who said that God is One. He
 kept on thinking quietly for quite some time. The new comer looked at
-him and found him thoughtful. He begged leave of him and departed.  
-    
- After his departure Abu Dharr addressing his brother Unais, said, "Just
+him and found him thoughtful. He begged leave of him and departed.
+
+After his departure Abu Dharr addressing his brother Unais, said, "Just
 go to Mecca and find out who this man is. He says that he receives
 revelation from the heavens. What is the mode of his conversation? See
-if there is any sincerity in his talk or not".  
-    
- Unais set off on the journey. After crossing different stations he
+if there is any sincerity in his talk or not".
+
+Unais set off on the journey. After crossing different stations he
 reached Mecca and went to Ka 'bah for circumambulation. When he came out
 from there, he saw a crowd of people. He asked a man who was coming
 towards him, "What is going on here?" He replied, "An apostate is
-inviting the people to a new faith".  
-    
- As soon as Unais heard it, he ran to that place. On reaching there he
+inviting the people to a new faith".
+
+As soon as Unais heard it, he ran to that place. On reaching there he
 saw that a man was saying, "Praise belongs to Allah. I praise Him and
 seek help from Him. I believe in Him, depend on Him and testify that
-there is no God except He and He has no partner”.  
-    
- To quote Subaiti, Unais heard that man proclaiming, "O people! I have
+there is no God except He and He has no partner”.
+
+To quote Subaiti, Unais heard that man proclaiming, "O people! I have
 brought for you the blessings of the world and the hereafter. Say that
 there is no god except Allah, so that you may get deliverance. I am a
 messenger of Allah and have come to you. I warn you of the punishment of
@@ -203,45 +203,45 @@ be kind to you. O people! Listen to me! I say clearly that your
 forefathers had deviated from the right path in worshipping these idols
 and you are also following in their footsteps. Remember that these idols
 can neither harm you, nor can they benefit you. They can neither stop
-you, nor guide you".  
-    
- When Unais listened to this eloquent address he got astonished. But in
+you, nor guide you".
+
+When Unais listened to this eloquent address he got astonished. But in
 his astonishment he saw that people were talking different things
-against him.  
-    
- Hearing this, the Prophet said, “Prophets do not tell lies. I swear by
+against him.
+
+Hearing this, the Prophet said, “Prophets do not tell lies. I swear by
 Allah other than whom there is no god that I have been sent to you as a
 messenger. By Allah you will die as you sleep and will rise as you wake
 up. You will be called to account for your deeds. Then you will get
-eternal Heaven or Hell”.  
-    
- On saying this people asked the Prophet, how they would rise after
+eternal Heaven or Hell”.
+
+On saying this people asked the Prophet, how they would rise after
 becoming dust. At that time Allah revealed the following verses:
 
 ***"Muhammad, say: Yes, even if you become rocks, iron or anything that
 you think is harder to be brought to life. They will soon ask: Who will
 bring us back to life? Say: The One who created you for the first time:
 They will shake their heads and say: When will He bring us back to life?
-Say: Perhaps very soon". (Surah Isra, 17:50- 51)***  
-    
- As soon as the Prophet finished his speech people got up. While they
+Say: Perhaps very soon". (Surah Isra, 17:50- 51)***
+
+As soon as the Prophet finished his speech people got up. While they
 were dispersing from there, one of them said, "He is a soothsayer".
 Another said, "No, he is a poet". The third one remarked, "He is a
-magician".  
-    
- Unais listened to the Prophet and the people. He kept his head down for
+magician".
+
+Unais listened to the Prophet and the people. He kept his head down for
 some time and murmured; "By Allah, his words are sweet. What he has said
-is true and those people are undoubtedly foolish".  
-    
- Then he rode his camel and set off. He kept on thinking about Muhammad,
+is true and those people are undoubtedly foolish".
+
+Then he rode his camel and set off. He kept on thinking about Muhammad,
 the Prophet of Allah, throughout the journey, and was wondering at his
-talk, till he joined Abu Dharr.  
-    
- As soon as Abu Dharr looked at Unais, he asked him eagerly, "What is
-the news? What did you see at Mecca?"  
- Unais; I am coming after seeing a man who says that God is One. I saw
-that he orders the people to do good and refrain from evil.  
- Abu Dharr: What do people say about him?
+talk, till he joined Abu Dharr.
+
+As soon as Abu Dharr looked at Unais, he asked him eagerly, "What is
+the news? What did you see at Mecca?"
+Unais; I am coming after seeing a man who says that God is One. I saw
+that he orders the people to do good and refrain from evil.
+Abu Dharr: What do people say about him?
 
 Unais: They say that he is a poet, a magician and a soothsayer. But when
 I examined his talk from the point of view of poetry I found that it is
@@ -249,9 +249,9 @@ not poetry. He is neither a magician because I have seen magicians, nor
 is he a soothsayer as I have met many soothsayers, and his talk is not
 like that of the soothsayers.
 
-Abu Dharr: What does he do and what does he say?  
- Unais: He says wonderful things.  
- Abu Dharr: Can you not recall anything which he talked of?
+Abu Dharr: What does he do and what does he say?
+Unais: He says wonderful things.
+Abu Dharr: Can you not recall anything which he talked of?
 
 Unais: By Allah! His speech was very sweet, but I do not remember
 anything more than that which I told you, but I have seen him offering

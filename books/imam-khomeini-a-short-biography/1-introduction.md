@@ -1,9 +1,10 @@
 Introduction
 ============
 
-By Hamid Algar [^1]  
-** **  
- It is in many ways remarkable that ten years after his death and twenty
+By Hamid Algar [^1]
+
+** **
+It is in many ways remarkable that ten years after his death and twenty
 years after the triumph of the revolution that he led no serious,
 comprehensive biography of Imam Ruhullah al-Musawi al-Khomeini has yet
 been written, whether in Persian or any other language. He was, after
@@ -20,8 +21,8 @@ accomplishments were varied, and the present writer hopes to take up the
 challenge in the near future. What follows is therefore nothing more
 than a preliminary sketch, intended to acquaint the reader with the
 outlines of the Imam’s life and the main aspects of his person as an
-Islamic leader of exceptional stature.  
-  
+Islamic leader of exceptional stature.
+
 
 [^1]: English-born Hamid Algar received his Ph.D. in oriental studies
 from Cambridge. Since 1965, he has served on the faculty of the

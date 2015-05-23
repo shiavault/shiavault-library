@@ -1,0 +1,95 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/a-journey-to-the-fact-fakhri-mashkoor
+author: Dr. Fakhri Mashkoor
+publisher: Ansariyan Publications - Qum
+translator: Majeed Muhammad
+title: A Journey To The Fact
+slug: a-journey-to-the-fact
+uuid: b072fe27-10ca-4512-b567-bb5e67840db2
+description: |
+  This book tries to answer some serious questions and respond to related
+  doubts concerning faith and belief in God. It also discusses the reasons
+  why some religious people let others go astray.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/a-journey-to-the-fact-fakhri-mashkoor/translators-preface
+  title: Translator’s Preface
+  slug: 1-translator-s-preface
+  uuid: 080bdfb4-e9c7-442b-9d57-d88ec8fd9e3e
+- source: :alislam
+  source_url: http://www.al-islam.org/a-journey-to-the-fact-fakhri-mashkoor/obligation-doubt-who-god
+  title: Obligation.. Doubt.. Who Is God?!
+  slug: 2-obligation-doubt-who-is-god
+  uuid: d745fc3a-4ed2-45a4-8fcb-989901d95fbc
+- source: :alislam
+  source_url: http://www.al-islam.org/a-journey-to-the-fact-fakhri-mashkoor/anxiety-and-prayer
+  title: Anxiety And Prayer
+  slug: 3-anxiety-and-prayer
+  uuid: 85b5556e-c19d-4905-bf43-2b172b1cfddd
+- source: :alislam
+  source_url: http://www.al-islam.org/a-journey-to-the-fact-fakhri-mashkoor/conscientious-reason
+  title: The Conscientious Reason
+  slug: 4-the-conscientious-reason
+  uuid: a74efae7-f6de-4e32-8bdb-8c5a26da9188
+- source: :alislam
+  source_url: http://www.al-islam.org/a-journey-to-the-fact-fakhri-mashkoor/doubt-certainty
+  title: Doubt… Certainty
+  slug: 5-doubt-certainty
+  uuid: 36f31476-8f5d-48c2-b94e-d1d35d50627b
+- source: :alislam
+  source_url: http://www.al-islam.org/a-journey-to-the-fact-fakhri-mashkoor/god-or-nature
+  title: God Or Nature
+  slug: 6-god-or-nature
+  uuid: 625f8f1d-a4bf-484f-b401-ce2a57dd57cc
+- source: :alislam
+  source_url: http://www.al-islam.org/a-journey-to-the-fact-fakhri-mashkoor/organization-proof
+  title: Organization Proof
+  slug: 7-organization-proof
+  uuid: b05b7901-7f84-422b-a470-adcec2b79ae6
+- source: :alislam
+  source_url: http://www.al-islam.org/a-journey-to-the-fact-fakhri-mashkoor/can-chance-be-considered-proof
+  title: Can Chance Be Considered A Proof?
+  slug: 8-can-chance-be-considered-a-proof
+  uuid: 6d9db7f4-ab28-487a-9dcf-3af5563beee7
+- source: :alislam
+  source_url: http://www.al-islam.org/a-journey-to-the-fact-fakhri-mashkoor/monotheistic-proof
+  title: Monotheistic Proof
+  slug: 9-monotheistic-proof
+  uuid: 54c27ea9-d109-48b5-9280-5f19dd22fd5b
+- source: :alislam
+  source_url: http://www.al-islam.org/a-journey-to-the-fact-fakhri-mashkoor/accidentagain
+  title: Accident…Again
+  slug: 10-accident-again
+  uuid: c495bdb2-d661-4a3d-bb89-7af8bbfdedd0
+- source: :alislam
+  source_url: http://www.al-islam.org/a-journey-to-the-fact-fakhri-mashkoor/rational-and-evaluation-reasoning
+  title: Rational And Evaluation Reasoning
+  slug: 11-rational-and-evaluation-reasoning
+  uuid: a0f67695-c258-47bf-a19e-c29602571218
+- source: :alislam
+  source_url: http://www.al-islam.org/a-journey-to-the-fact-fakhri-mashkoor/mind-and-freedom
+  title: Mind and Freedom
+  slug: 12-mind-and-freedom
+  uuid: ad60f591-4ff1-4b4f-b6bb-aea2fa964e3f
+- source: :alislam
+  source_url: http://www.al-islam.org/a-journey-to-the-fact-fakhri-mashkoor/impossibility-succession
+  title: The Impossibility of Succession
+  slug: 13-the-impossibility-of-succession
+  uuid: fa79f405-9d11-40a8-b7af-42dcfd0fc683
+- source: :alislam
+  source_url: http://www.al-islam.org/a-journey-to-the-fact-fakhri-mashkoor/evidence-intention
+  title: The Evidence of Intention
+  slug: 14-the-evidence-of-intention
+  uuid: ee3620dd-721c-44ac-9516-179ba094b1bc
+- source: :alislam
+  source_url: http://www.al-islam.org/a-journey-to-the-fact-fakhri-mashkoor/philosophy-contradiction
+  title: The Philosophy of Contradiction
+  slug: 15-the-philosophy-of-contradiction
+  uuid: 3600ea1e-f578-462d-b6ac-b3c1d9dcc6f9
+- source: :alislam
+  source_url: http://www.al-islam.org/a-journey-to-the-fact-fakhri-mashkoor/end
+  title: The End
+  slug: 16-the-end
+  uuid: 9c096c2e-9e45-44cf-ae27-7a2e55e727dc
+---

@@ -65,8 +65,8 @@ oppression completely.
 
 Although this Awaited Saviour is living among us, waiting for the
 appointed moment for his advent, yet he is ordained not to proclaim
-himself nor to disclose his identity.  
- It is evident that the concept of the Mahdi, with its Islamic features,
+himself nor to disclose his identity.
+It is evident that the concept of the Mahdi, with its Islamic features,
 shortens the gap between the oppressed and the expected saviour. It
 spans the bridge between them, howsoever long the period of waiting may
 be.

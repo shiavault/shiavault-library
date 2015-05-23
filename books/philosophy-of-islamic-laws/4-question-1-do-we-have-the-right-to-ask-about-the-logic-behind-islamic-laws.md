@@ -18,14 +18,14 @@ the Islamic Laws and others think the opposite of this; that it is
 necessary to understand the logic behind the Islamic laws.
 
 Keeping in mind the views of these scholars, we present our views on the
-subject:  
- You may be astonished that both the groups are right. We have this
+subject:
+You may be astonished that both the groups are right. We have this
 right to ask and we also don't have this right. We mean that while idea
 of each group is not accepted, but only the special part of it is
 accepted.
 
-It can be explained in this way:  
- From the holy Qur’an, Holy Prophet (s.a.w.a.) and the traditions of
+It can be explained in this way:
+From the holy Qur’an, Holy Prophet (s.a.w.a.) and the traditions of
 Holy Imams (a.s.) and from the sayings of the companions and friends we
 come to know that there was always a tradition of discussing the
 philosophy of Islamic laws among themselves and it should also be like
@@ -35,8 +35,8 @@ should discuss the Islamic laws in a logical way and ask questions about
 its philosophy.
 
 According to the principles of Islam, which introduces Allah in this
-way:  
- He is such an existence, which has infinite knowledge and wisdom and He
+way:
+He is such an existence, which has infinite knowledge and wisdom and He
 is independent from all things and persons. All His acts are based on
 wisdom, whether we understand it or not. His acts never include any
 foolishness or meaninglessness and He has sent the Prophets for
@@ -85,8 +85,8 @@ of the entering of the infidels in the mosque of Mecca that:
 shall not approach the Sacred Mosque after this year…***[^3]
 
 The infidels are impure and that is why they are not allowed to enter
-the holy mosque.  
- The Qur’an says about the public property and its one part should be
+the holy mosque.
+The Qur’an says about the public property and its one part should be
 spent on the poor people that:
 
 ***Whatever Allah has restored to His Apostle from the people of the
@@ -115,8 +115,8 @@ the situation were opposite they would have refrained us from
 contemplation and research in the Islamic Laws.
 
 From whatever is said above we conclude that it is allowed to do
-research and find the reasons behind Islamic laws.  
- And in this way the style and explanation of the Holy Prophet
+research and find the reasons behind Islamic laws.
+And in this way the style and explanation of the Holy Prophet
 (s.a.w.a.) and the Holy Imams (a.s.) has given us the right to know the
 secrets of Islamic laws.
 

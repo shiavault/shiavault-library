@@ -1,8 +1,8 @@
 The sun
 =======
 
-![](/sites/default/files/sun.gif)  
- Look at
+![](/sites/default/files/sun.gif)
+Look at
 
 **the sun** and the moon,
 

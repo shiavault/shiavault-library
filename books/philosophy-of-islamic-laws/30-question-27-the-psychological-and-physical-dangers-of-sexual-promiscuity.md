@@ -139,16 +139,16 @@ failed in their act after marriage or do not get pleasure in sexual
 intercourse with the wife or they are cool in the approach to their
 wives and are prey to weakness in sexuality.
 
-A married youth has this to say:  
- “I love my wife to the extent of worshipping her, but I don't get
+A married youth has this to say:
+“I love my wife to the extent of worshipping her, but I don't get
 pleasure while having intercourse with her, and this pains me.”
 
-A lady says:  
- “Three months have passed since my marriage, but I don't understand why
+A lady says:
+“Three months have passed since my marriage, but I don't understand why
 in the eyes of my husband I am just a log (of dried wood).”
 
-A youthful man says:  
- Since I became balig (mature physically), I used to perform this
+A youthful man says:
+Since I became balig (mature physically), I used to perform this
 shameful act repeatedly. After that I did not get success in intercourse
 with my wife, but when I am alone, just at the thought if it I get an
 erection (movement).
@@ -157,8 +157,8 @@ When two other youths were contacted, they said that because of doing
 this act repeatedly we are not in a position to do intercourse with our
 wives, and we are very ashamed because of this.
 
-One more youth said:  
- “I married six months ago, but unfortunately, because of being in the
+One more youth said:
+“I married six months ago, but unfortunately, because of being in the
 habit of this (masturbation), I just could not succeed in my duty
 towards of wife (consummation of marriage)”
 
@@ -212,9 +212,9 @@ habit.
 
 They should never get deceived by poisonous writings of half trained
 quacks and foolish psychologists who try to justify and assure him about
-this contemptible act.  
-    
-    
-  
+this contemptible act.
+
+
+
 
 

@@ -17,8 +17,8 @@ In the Name of Allah, the Beneficent, the Merciful
 </blockquote>
 
 ***He said: ‘Then by Thy Might I will surely make them live an evil
-life, all, Except Thy servants*** ***from among them, the purified
-ones.’*** ***(Sura Sad, 38:82-83)***
+life, all, Except Thy servants from among them, the purified ones.’***
+***(Sura Sad, 38:82-83)***
 
 Actions Depends on the Niyyah or Intention
 ------------------------------------------
@@ -230,8 +230,8 @@ May Allah (S.w.T.) Give us True Intent
 We seek from Allah (S.w.T.) the truthfulness of intent. We follow our
 Imam az-Zaman (a.j.) and say in our supplication:
 
-*“O Allah (S.w.T.)!* *Give us the will for Your Obedience and endow us
-with the blessing of keeping* *distance from sins and have the right
+*“O Allah (S.w.T.)! Give us the will for Your Obedience and endow us
+with the blessing of keeping distance from sins and have the right
 intents”.*
 
 Sometimes it happens that man busies himself in the obedience of Allah

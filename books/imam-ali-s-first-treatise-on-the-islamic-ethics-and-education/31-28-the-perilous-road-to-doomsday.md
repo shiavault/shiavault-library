@@ -57,8 +57,8 @@ road to Doomsday, and the hardships which exist there. He says no
 excuses are accepted and a return to the world is impossible. Whatever
 we are able to do, we should do here. Imam ‘Ali (as) has invited his son
 and all of his other spiritual sons to prepare provisions for
-Doomsday.  
- The following points in Imam ‘Ali’s letter are worth considering:
+Doomsday.
+The following points in Imam ‘Ali’s letter are worth considering:
 
 ### A. Sufficient Provisions And Light-Load Of Possessions
 

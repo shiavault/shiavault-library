@@ -92,8 +92,8 @@ existence causes for the forgiveness of the past and future sins and
 this sentence could bear these meanings only. That due to this victory
 all the allegations and accusations that had been heaped were now
 rendered ineffective. But if you take it in the sense of actual sins you
-cannot explain how the future sins could be forgiven in advance.  
-   
+cannot explain how the future sins could be forgiven in advance.
+
 
 [^1]: Surah Fath 48:1-2
 

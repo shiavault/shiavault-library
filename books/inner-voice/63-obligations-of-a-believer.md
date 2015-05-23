@@ -5,8 +5,8 @@ Obligations of a Believer
 the life hereafter”. (Qur’an, 48:3).***
 
 These attributes of the believers refer to the three main aspects of
-religious obligation is Islam.  
- A Muslim must fulfill his obligations towards God, toward fellow human
+religious obligation is Islam.
+A Muslim must fulfill his obligations towards God, toward fellow human
 beings and towards himself.
 
 In this ‘ayat’, prayer is the symbol of the obligations towards God. It

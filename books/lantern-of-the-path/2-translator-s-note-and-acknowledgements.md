@@ -20,6 +20,6 @@ the process, especially from my father.
 I sincerely hope that those who learn “The Lantern of the Path” it will
 open up inner delights, as it has done for me.
 
-Muna H. Bilgrami
+**Muna H. Bilgrami**
 
 

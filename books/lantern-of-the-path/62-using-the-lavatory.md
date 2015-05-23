@@ -1,8 +1,7 @@
 Using the Lavatory
 ==================
 
-   
- The lavatory is called in Arabic 'the place of rest', because there
+The lavatory is called in Arabic 'the place of rest', because there
 people may find rest from the burden of impurities and empty themselves
 of grossness and filth. There the believer may reflect on how he is
 cleansing himself from the food and perishable matter of this world, and
@@ -12,9 +11,9 @@ heart from its distractions. He should be averse to taking and gathering
 this world just as he loathes impurity, the lavatory and filth,
 reflecting on how something good in one state becomes so base in
 another. He knows that holding onto contentment and precaution will
-bring him ease in the two abodes.  
-    
- Thus ease comes from considering this world to be insignificant, giving
+bring him ease in the two abodes.
+
+Thus ease comes from considering this world to be insignificant, giving
 up one's enjoyment of it, and removing the impurity of what is forbidden
 or doubtful. A person closes the door of pride on himself once he
 recognizes this; he flees from wrong actions and opens the door of

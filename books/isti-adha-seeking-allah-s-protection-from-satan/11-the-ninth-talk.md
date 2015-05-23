@@ -32,8 +32,8 @@ billahi min al-Shaitanir rajeem* is effective. Otherwise reiterating
 these words a thousand times over will not bring any results.
 
 Today I shall tell you about another meaning derived from the verse that
-I have mentioned above and also at a few places in my previous talks.  
-  
+I have mentioned above and also at a few places in my previous talks.
+
 
 A Heart Without Piety is The Abode Of Satan
 -------------------------------------------
@@ -48,8 +48,8 @@ worldly glitter and show. These hearts are also the shelter for Satan
 and the sources of his evil designs. Unless the heart cures itself of
 these satanic instincts and withdraws from supporting and advancing
 Satan’s foul schemes, it is impossible that the environment for
-*Isti’adha* takes shape in it.  
-  
+*Isti’adha* takes shape in it.
+
 
 Sumptuous Food & Hungry Dog
 ---------------------------
@@ -61,8 +61,8 @@ chase it away, it will stubbornly stay on. If you don’t have any food
 with you, and a dog chances to come near you, then it will run away if
 you chase but once. The reason for this lack of interest is that the
 dogs have a very strong sense of smell and they would know where there
-is a bone for them!  
-  
+is a bone for them!
+
 
 A Sick Heart is The Eating Place For Satan
 ------------------------------------------
@@ -86,8 +86,8 @@ tenaciously stay on!
 
 The only remedy is that you should dispel from your heart all the
 thoughts of things that attract him. Then with one utterance of the
-words *‘audhu billahi* Satan will run away.  
-  
+words *‘audhu billahi* Satan will run away.
+
 
 The Majority are Entrapped
 --------------------------
@@ -107,8 +107,8 @@ These form the vast majority of people.
 
 O believers! Do such acts that Satan is unable to find an entry into
 your hearts! Otherwise, mere utterance of the words of *Isti’adha* will
-not be of any use.  
-  
+not be of any use.
+
 
 The Thief on the Look Out For Breaking into the House
 -----------------------------------------------------
@@ -145,25 +145,117 @@ Iblīs Around The Heart
 from Satan afflicts them, they become mindful (of God and get awakened)
 then lo! They see (aright). (Sura al-A’raaf, 7:201)***
 
- **إِنَّ الَّذِينَ اتَّقَواْ** ***Verily those who guard (themselves
-against evil)*** *-* This is said about those whose hearts are free of
-the thoughts of sin. When the heart is pure and clean, then
-automatically all other organs get into sound repair. Therefore, the
-tongue, the eyes, the ears and the limbs do not get associated with any
-wrong act.
+**
+**
+إِنَّ الَّذِينَ اتَّقَواْ
 
-**إِذَا مَسَّهُمْ طَائِفٌ** ***when an evil thought*** *-* *Taa-if* is a
-person who does *tawaaf* or circumambulates. Here it is meant Satan
-going round the heart in search of a hole to break in.
+***
+***
+Verily those who guard (themselves against evil)
 
-**مِّنَ الشَّيْطَانِ** ***from Satan*** *-* it is the mention of the
-retainers of Satan who go round the heart in search of an opening to
-barge in. But **تَذَكَّرُواْ** **(t*****hey become mindful)*** *-* The
-owner of the heart, a *mu’min,* is busy in Remembrance of Allah (S.w.T.)
-and says, “*Ya Allah, astaghfirullah- ‘audhu billahi min ash-shaitanir
-rajeem* *- O Allah! Protect me from the harm that Satan can cause me!”*
+*
+*
+) -
 
-Hence, **فَإِذَا هُم مُّبْصِرُونَ** ***then lo! They see (aright)*** *-*
+
+This is said about those whose hearts are free of the thoughts of sin.
+When the heart is pure and clean, then automatically all other organs
+get into sound repair. Therefore, the tongue, the eyes, the ears and the
+limbs do not get associated with any wrong act.
+
+**
+**
+إِذَا مَسَّهُمْ طَائِفٌ
+
+***
+***
+when an evil thought
+
+*
+*
+- Taa-if
+
+
+is a person who does
+
+*
+*
+
+tawaaf
+
+
+or circumambulates. Here it is meant Satan going round the heart in
+search of a hole to break in.
+
+**
+**
+مِّنَ الشَّيْطَانِ
+
+***
+***
+from Satan
+
+*
+*
+-
+
+
+it is the mention of the retainers of Satan who go round the heart in
+search of an opening to barge in. But
+
+**
+**
+
+تَذَكَّرُواْ
+
+**
+**
+(t
+
+***
+***
+hey become mindful)
+
+*
+*
+-
+
+
+The owner of the heart, a
+
+*
+*
+
+mu’min,
+
+
+is busy in Remembrance of Allah (S.w.T.) and says, “
+
+*
+*
+
+Ya Allah, astaghfirullah- ‘audhu billahi min ash-shaitanir rajeem - O
+Allah! Protect me from the harm that Satan can cause me!”
+
+Hence,
+
+**
+**
+
+فَإِذَا هُم مُّبْصِرُونَ
+
+*
+*
+
+***
+***
+then lo! They see (aright)
+
+*
+*
+-
+
+
 Their eyes instantaneously illuminate with the light of vision and they
 get warned of the thief in their environs.
 
@@ -175,8 +267,8 @@ Remember! If there is piety (*Taqwa)* for Allah (S.w.T.) in the heart,
 then it will be pure and clean. The bright light of piety will put the
 thief to shame and he escapes from there. Pity the heart that is devoid
 of piety and full of worldly desires. Such a person will fall into the
-clutches of Satan and meet a sad end.  
-  
+clutches of Satan and meet a sad end.
+
 
 Why the Suicide?
 ----------------
@@ -190,8 +282,8 @@ big gain. He started crying and was restless during the day and in the
 nights. He was so upset that at last he consumed lime mixed with sulfur
 and committed suicide. The sole reason for the tragedy is that the
 person was wedded only to worldly gains and was devoid of Allah
-(S.w.T.)’s fear.  
-  
+(S.w.T.)’s fear.
+
 
 Why Isti’adha is not Effective?
 -------------------------------
@@ -256,8 +348,8 @@ fears and carelessness.
 
 When I am not sure whether I will be alive till tomorrow or not, then
 what is the use of avarice and unnecessarily displeasing others with my
-actions?  
-  
+actions?
+
 
 Flies Buzz Around Honey
 -----------------------
@@ -268,16 +360,16 @@ chase them away, they return to pester you. The only way to get rid of
 them is to remove the things that attract them.
 
 O Mu’min! Clean your heart of all impurities that Satan runs away with
-one *Isti’adha* from you.  
-    
- Hadrat Imam as-Sajjad (a.s.) used to recite *Du’a al-Hazeen* after the
+one *Isti’adha* from you.
+
+Hadrat Imam as-Sajjad (a.s.) used to recite *Du’a al-Hazeen* after the
 nightly prayer (*Salat al-Layl, Namaz-e-Shab*). He supplicates to Allah
 (S.w.T.) thus, *“O Allah help me! Satan is attacking my heart!”*
 
 When a *mu’min* has nothing in his heart that interests Satan, and he
 remembers Allah (S.w.T.), then only one *Isti’adha* would suffice to
-chase the accursed enemy away.  
-  
+chase the accursed enemy away.
+
 
 Satan, a Stumbling Block in the Way of Penitence
 ------------------------------------------------
@@ -304,8 +396,8 @@ Every individual from his retainers gave his own advice on the matter.
 But Satan was not satisfied with any of those. Then someone said, “The
 only way will be to prevent man from reaching the threshold of the door
 of penitence!” Satan said, “Your suggestion is right! If there is any
-way for us, this is the way!”  
-  
+way for us, this is the way!”
+
 
 The Practice of Imam as-Sajjad (a.s.)
 -------------------------------------
@@ -316,14 +408,14 @@ enemy who is after my life! O Helper of all the helpless! I am forlorn
 and supportless! Come to my rescue. From one side this dog is attacking
 me and on the other is the world tempting me with all its glitter and
 attractions! There is pressure of avarice and greed on my heart! I seek
-your help against all these!*”  
-  
+your help against all these!*”
+
 
 The Supplication of Ghareeq during the Absence of Imam al-Mahdi (a.j.)
 ----------------------------------------------------------------------
 
-   
- Imam Ja’far as-Sadiq (a.s.), while predicting the period of the absence
+
+Imam Ja’far as-Sadiq (a.s.), while predicting the period of the absence
 of the Last Imam (a.j.), says, “During that troublesome period there
 will be so much of sedition that the angels would be astonished at the
 very few deaths of men of piety!” The narrator asked the Imam (a.s.),”
@@ -335,8 +427,8 @@ hearts! Keep my heart steadfast on Your religion!”*
 
 Man should think that he is really helpless in times when Satan’s
 retainers are roaming free. No heart is safe from their onslaught. O
-Allah (S.w.T.)! Guard our hearts from the effects of these Shayateen!  
-    
-  
+Allah (S.w.T.)! Guard our hearts from the effects of these Shayateen!
+
+
 
 

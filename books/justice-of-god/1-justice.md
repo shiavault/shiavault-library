@@ -485,8 +485,8 @@ health care for their children. Such unpleasant events are plentiful and
 have been seen by all.
 
 Instead of complaining about God in such situations, we should reproach
-ourselves.  
- We have to tell oppression not to be oppressive! And we have to tell
+ourselves.
+We have to tell oppression not to be oppressive! And we have to tell
 the oppressed not to bear oppression!
 
 We must make efforts so that all individuals of a society have at least

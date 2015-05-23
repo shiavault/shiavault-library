@@ -16,7 +16,7 @@ As far as the mention in the middle of Surah Naml is concerned it is the
 beginning of the letter that Sulaiman (a.s.) had written to the Queen of
 Saba. And since the full text of this letter is quoted in the Qur’an,
 the Bismillah is also mentioned because this letter began with this
-sentence.  
-  
+sentence.
+
 
 

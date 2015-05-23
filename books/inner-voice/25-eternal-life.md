@@ -10,8 +10,8 @@ has been offered. If the purpose of the sacrifice is, for instance,
 wealth or political power, it is just a waste of life and nothing more.
 How can a life be immortal if it is worthless enough to be bartered for
 some precious stones or glittering minerals. Gold and Silver are not
-immortal; they cannot make a life immortal.  
- A life spent in their pursuit cannot be eternal; it is just one more
+immortal; they cannot make a life immortal.
+A life spent in their pursuit cannot be eternal; it is just one more
 tragic death.
 
 But if the purpose of the sacrifice is to please God; the man becomes

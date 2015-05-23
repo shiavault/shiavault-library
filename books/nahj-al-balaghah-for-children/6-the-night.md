@@ -1,8 +1,8 @@
 The night
 =========
 
-![](/sites/default/files/night.gif)  
- Praise be to Allah
+![](/sites/default/files/night.gif)
+Praise be to Allah
 
 when **the night** falls
 

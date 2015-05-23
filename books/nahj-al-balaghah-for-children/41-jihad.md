@@ -1,7 +1,7 @@
 Jihad
 =====
 
-![](/sites/default/files/jihad.gif)  
+![](/sites/default/files/jihad.gif)
 **Jihad**
 
 is one of the gateways of Paradise

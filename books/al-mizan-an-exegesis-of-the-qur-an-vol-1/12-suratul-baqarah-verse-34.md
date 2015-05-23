@@ -174,8 +174,8 @@ hearts the idea of their supremacy.
 
 A third, group of Tradition says that the said clause refers to Iblīs
 and his hidden thought that he would not make obeisance to Adam and
-would not prostrate before him if asked to do so.  
- There is no contradiction between these various explanations, because
+would not prostrate before him if asked to do so.
+There is no contradiction between these various explanations, because
 all the meanings may be inferred from the Qur'anic verses. They are all
 true and based on fact. Various Tradition throw light on various facets
 of the same fact.
@@ -232,8 +232,8 @@ And he said about the words of Allah:
 
 ***so their nakedness appeared unto them*** **(20:121):**
 
-“Their nakedness was not seen before, then it was uncovered.”  
- Also he said: “The tree from which Adam was forbidden (to eat) was the
+“Their nakedness was not seen before, then it was uncovered.”
+Also he said: “The tree from which Adam was forbidden (to eat) was the
 spikenard.”
 
 The author says: The Tradition - and there are many - support what we

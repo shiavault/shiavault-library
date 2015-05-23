@@ -20,8 +20,8 @@ In the Name of Allah, the Beneficent, the Merciful
 from Satan afflicts them, they become mindful (of God and get awakened)
 then lo! They see (aright). (Sura al-A’raaf, 7:201)***
 
-* *  
- Last evening our talk dwelt on the second aspect of *Isti’adha,
+* *
+Last evening our talk dwelt on the second aspect of *Isti’adha,
 Tadhakkur.* Today we shall discuss some more meanings of *Tadhakkur* in
 respect of the fears created by Satan.
 
@@ -29,13 +29,13 @@ There is a tradition of the Prophet (S), the authenticity of which is
 universally accepted by all the schools of thought. The tradition has
 also been quoted very much. The Prophet (S) has said, “*Actions are of
 three types: the actions of righteous guidance, the misleading actions
-and the actions that are mid way between the first two categories.”*  
+and the actions that are mid way between the first two categories.”*
 * *
 
 The Things That Are Definitely Good: The Actions of Righteous Guidance
 ----------------------------------------------------------------------
 
- Whatever thoughts come to the mind of a person whether to perform an
+Whatever thoughts come to the mind of a person whether to perform an
 action or not, depend on the consideration of the three categories of
 actions mentioned above. If it is sure that the action that a person is
 about to perform is certainly good, and to his righteous advantage, then
@@ -56,8 +56,8 @@ cause unrest, despite the urge to go ahead with it, you must have access
 to *Tadhakkur* and abstain from doing it. Because of your awareness of
 Allah (S.w.T.)’s Commandments, if you consider doing such acts as
 prohibited, it will be a befitting precept in total consonance with the
-words “*…fa idha hum mubseroon”* *(…then lo! They see aright)* *(Sura
-al-A’raaf,* *7:201).*
+words “*…fa idha hum mubseroon” (…then lo! They see aright) (Sura
+al-A’raaf, 7:201).*
 
 * *
 
@@ -73,8 +73,8 @@ Those who are perfect in piety, are the choicest in the reckoning of
 Allah (S.w.T.). Their intuition tells them whether an act is really good
 or not. Their vision is so powerful that they have a clear understanding
 of what act is *Rahmani* and which is *Satanic.* But such men of high
-piety are few and far between.  
-  
+piety are few and far between.
+
 
 Care is the Guarantee of Deliverance
 ------------------------------------
@@ -87,87 +87,87 @@ to them. They are conscious that performing the act, ignorantly, might
 harm their faith. Therefore it is said, “*Qif indash Shubh - When you
 have a doubt about an act being Rahmani or Satanic, better wait!”* The
 morsel about which one has doubt whether it is *halal* or *Haram,* he
-should rather wait till he makes it sure.  
-  
+should rather wait till he makes it sure.
+
 
 The Touchstone
 --------------
 
-   
- In the *Islamic Shari’ah* there are clear-cut norms for removing doubts
+
+In the *Islamic Shari’ah* there are clear-cut norms for removing doubts
 and fears and for arriving at the righteousness or otherwise of acts.
 These norms must be brought to the knowledge of people of piety that
 they can abide by them. The standard set by the revered and Infallible
 personalities is: Every act that is to satisfy the psyche of the person
 will be Satanic. And the act that is contrary to his desire will be
-righteous and *Rahmani*.  
-    
- There are certain acts towards which the psyche is attracted. For
+righteous and *Rahmani*.
+
+There are certain acts towards which the psyche is attracted. For
 example: A person has to go on a journey that is not against his liking,
 but he doesn’t know if the action has the approval of Allah (S.w.T.) or
 not. Or perhaps Satan is instigating him to go on the trip. Sometimes
 the man is inordinately attracted to take a journey. In such a situation
 he should realize that the initiator of the idea is definitely some
 satanic thought that wishes to involve him in some *Haram* act or at
-least to deprive him of a legitimate act.  
-    
- When you feel that your conscience is not willing to perform some act,
-then it is a *Rahmani* instinct, you must go ahead in performing it.  
-    
- Another thing should not remain hidden that this standard is not for
+least to deprive him of a legitimate act.
+
+When you feel that your conscience is not willing to perform some act,
+then it is a *Rahmani* instinct, you must go ahead in performing it.
+
+Another thing should not remain hidden that this standard is not for
 everyone. Because mostly people are inclined towards human desires and
-these realities have nothing to do with them.  
-  
+these realities have nothing to do with them.
+
 
 Istikhara, Or Augury, Guides in Situations of Doubt
 ---------------------------------------------------
 
-   
- It has been narrated that when you are at the cross-roads, and do not
+
+It has been narrated that when you are at the cross-roads, and do not
 know which is the righteous (*Rahmani)* way and which is the wrong one
 (*Shaitani),* then doing *Istikhara* (augury) with Allah (S.w.T.) that
-the righteous path can be determined.  
-    
+the righteous path can be determined.
+
 *Istikhara,* or augury, is *talab al-khair min Allah (S.w.T.)* (Seeking
 good from Allah (S.w.T.)) saying, “O Allah (S.w.T.)! I am in doubt. I
 don’t know if there is Your approval for my doing this task or not. With
-Your Munificence make evident Your guidance in the matter.”  
-    
- This is a situation of prayer, and in *Istikhara* always there is a
-strong element of prayer to Allah (S.w.T.).  
-  
+Your Munificence make evident Your guidance in the matter.”
+
+This is a situation of prayer, and in *Istikhara* always there is a
+strong element of prayer to Allah (S.w.T.).
+
 
 Some People Misunderstand Istikhara
 -----------------------------------
 
-   
- Muslims have adopted a bad habit that they started using *Istikhara*
+
+Muslims have adopted a bad habit that they started using *Istikhara*
 for matters connected with monetary benefit. This, truly, is not
 *istikhara. Istikhara,* in fact, is a prayer by virtue of which a person
 seeks Allah (S.w.T.)’s wish if performance of a particular act would be
-in his best interest or not.  
-  
+in his best interest or not.
+
 
 Imam Husayn (a.s.) does Istikhara at the Mausoleum of The Prophet (S)
 ---------------------------------------------------------------------
 
-   
- Imam Husayn (a.s.) went to the mausoleum of his grand father, the
+
+Imam Husayn (a.s.) went to the mausoleum of his grand father, the
 Prophet (S) and after much grieving entreated Allah (S.w.T.), “O my
 Sustainer! You know I am practicing, *amr bil ma’ruf* and *nahi ‘anil
 munkar*, treading on the righteous path and denying the prohibited. In
 this matter kindly give me guidance.” Then the Prophet (S), with Allah
 (S.w.T.)’s orders, informed Imam Husayn (a.s.) that he had to proceed
-towards Karbala.  
-    
- It is better we quote here Imam *Zayn* al-’Abidin (a.s.). He says in
+towards Karbala.
+
+It is better we quote here Imam *Zayn* al-’Abidin (a.s.). He says in
 one of the supplications in *Sahifa as-Sajjadiya:*
 
 *“O Allah! Whenever my heart is confused with two thoughts. One thought
 for performance of an act that might be approved by You and the other,
 perhaps, not to Your liking and instigated by Satan.* *Then O Allah!*
-*Mould my determination and decision the way You approve of!”*  
-  
+*Mould my determination and decision the way You approve of!”*
+
 
 Istikhara With the Sibha or Through the Holy Qur’an
 ---------------------------------------------------
@@ -179,8 +179,8 @@ doing this. One is that you must be in a state of supplication while
 doing the augury (*Istikhara).* The other condition is that you can
 correctly understand the meanings of the verses of the Qur’an when doing
 *Istikhara* through its pages. One should also be in a position to
-interpret the correct purport from the meanings.  
-  
+interpret the correct purport from the meanings.
+
 
 Strange Stories About Istikhara
 -------------------------------
@@ -215,18 +215,18 @@ After this event when there was a discussion about *Istikhara,* one
 scholar said, “The verse seen during the *Istikhara* pertains to the
 honeybees that pick up a little nectar from each flower. If the person
 had also tasted a little from each of the dishes served, and not eaten
-like a glutton, he would have suffered no harm.”  
-    
- The purpose of relating this tale is to impress on people that doing
+like a glutton, he would have suffered no harm.”
+
+The purpose of relating this tale is to impress on people that doing
 *Istikhara* and interpreting the meaning and purport from the verses is
-not easy. This can be done only by the learned.  
-  
+not easy. This can be done only by the learned.
+
 
 The Purpose of Revelation of the Holy Qur’an is not for Istikhara
 -----------------------------------------------------------------
 
-   
- The Holy Qur’an is not revealed for the purpose of *Istikhara* but for
+
+The Holy Qur’an is not revealed for the purpose of *Istikhara* but for
 the understanding of Allah (S.w.T.) by His creatures and for inculcating
 the high moral values. Its purpose is not to show to the reader whether
 any worldly actions are beneficial to him or not. Such reference to the
@@ -237,9 +237,9 @@ acts has to be understood properly and to be acted upon implicitly.
 Every matter that appears burdensome on the baser instincts of a person
 is *Rahmani,* legitimate. Spending in the way of Allah (S.w.T.) doesn’t
 make a person poor, although his instinct asks him to take care while
-making such expense!  
-    
- With the compliance of aforementioned conditions, we are not in
+making such expense!
+
+With the compliance of aforementioned conditions, we are not in
 opposition to access to *Istikhara.* After every compulsory prayer we
 supplicate, “O Allah (S.w.T.)! With your Munificence and Grace guide
 me!” This supplication should be made with the single purpose of asking
@@ -250,8 +250,8 @@ influence of evil thoughts and keep me under Your protection”.
 Doing Soothsaying from The Holy Qur’an is Not Proper
 ----------------------------------------------------
 
-   
- Such *Istikhara* and soothsaying from the Qur’an that is for the
+
+Such *Istikhara* and soothsaying from the Qur’an that is for the
 purpose of predicting the future are not permissible. For example: When
 a mother has to get her daughter wedded, gets an *Istikhara* to
 ascertain how the girl’s future will be. For this purpose she goes to a
@@ -269,8 +269,8 @@ such a prediction. She should seek the answer from the sacred
 Publications about Istikhara
 ----------------------------
 
-   
- Allama Majlisi has written a treatise “*Mafatīh al-Ghaib”* in which he
+
+Allama Majlisi has written a treatise “*Mafatīh al-Ghaib”* in which he
 has entered a collection of traditions about *Istikhara.* Other scholars
 too have published essays. Even then people are ignorant about the true
 facts.
@@ -301,15 +301,15 @@ Mufīd, Allama Tūsi and Ibn Idrīs are hesitant about the fourth type of
 *Istikhara.* But, since there are traditions in support of all the four
 types of *Istikhara,* we cannot reject any of the four methods. Any way,
 the first three ways of doing the *Istikhara* are very appropriate,
-which in our times are almost defunct.”  
-    
- Several youths came during their examination times and want a
+which in our times are almost defunct.”
+
+Several youths came during their examination times and want a
 *Istikhara* to be done whether they stand a chance of passing the
 examination or not. In brief, we want to mention about the edict of
 *Shari’ah* in such matters. We request you to communicate these words to
 others in your circle that people better shun their wrong ways and do
-not pollute their faith with silly habits.  
-  
+not pollute their faith with silly habits.
+
 
 Clear Warnings about Istikhara
 ------------------------------
@@ -339,26 +339,26 @@ For important matters like travel, business deals or surgeries repeat
 the same words a hundred and one times. If the words are said in a state
 of prostration, it would be better. And if the words are repeated in the
 prostration after a optional prayer, and better after the optional
-prayer following the mandatory morning prayer (*Fajr).*  
-* *  
- In another tradition it is narrated from Imam *Zayn* al-’Abidin (a.s.)
+prayer following the mandatory morning prayer (*Fajr).*
+* *
+In another tradition it is narrated from Imam *Zayn* al-’Abidin (a.s.)
 that the words of *Istikhara* should be repeated ten times for routine
 matters and two hundred times for important matters like journeys,
-*Umrah* etc.  
-    
- People have been very strongly advised to seek help in their matters
+*Umrah* etc.
+
+People have been very strongly advised to seek help in their matters
 from Allah (S.w.T.) in a state of prostration. That is the time when one
 is nearest to Allah (S.w.T.). If men make this their habit and practice,
 and never divert from it, then all actions will be felicitous. If a
 person has any doubt about this, he should study in depth the methods
-for removing the doubts recorded in the pure *Shari’ah*.  
-  
+for removing the doubts recorded in the pure *Shari’ah*.
+
 
 Suggestions for Removing Doubts
 -------------------------------
 
-   
- The best suggestion is that which is in according to the *Nass
+
+The best suggestion is that which is in according to the *Nass
 (categorical order)* of the Qur’an, and that is not to take advise from
 any person other than one falling in the four following categories:
 
@@ -376,18 +376,18 @@ adversary cannot give advice in your interest.
 4. A person who is your confidante and will not disclose about your
 matters to others.
 
-   
- If any person has all the four qualities, he can always be consulted on
+
+If any person has all the four qualities, he can always be consulted on
 important matters. Allah (S.w.T.), from whom you have sought help in
 your matters, will convey to you through the advice of the person of
-your choice about the best course you must adopt in your matters.  
-  
+your choice about the best course you must adopt in your matters.
+
 
 The Holy Imams (a.s.) Used to Take Advice
 -----------------------------------------
 
-   
- Allama Majlisi quotes from Imam Ridha (a.s.) that he said, “My revered
+
+Allama Majlisi quotes from Imam Ridha (a.s.) that he said, “My revered
 father, Imam Mūsa Ibn Ja’far as-Sadiq (a.s.), despite being of the
 highest intellect, used to consult with his slave occasionally. For
 example: Whenever he embarked on some important task, he used to seek
@@ -398,18 +398,18 @@ advisable, he would go ahead with it.”
 times, you are taking advice from a slave! Being the Imam you should
 have knowledge of everything.’ He replied, ‘what do you know? Is it not
 possible that Allah wishes to enlighten me about certain matters through
-his mouth?’”  
-    
- Whenever one is in a doubt and confusion about matters, he should act
+his mouth?’”
+
+Whenever one is in a doubt and confusion about matters, he should act
 in accordance with Allah (S.w.T.)’s injunction in the Holy Qur’an and
-the sayings of the Prophet and the Imams (a.s.).  
-  
+the sayings of the Prophet and the Imams (a.s.).
+
 
 Istikhara Through Chits
 -----------------------
 
-   
- At times when no advice is available or the available advice doesn’t
+
+At times when no advice is available or the available advice doesn’t
 agree with that given by other equally competent persons, For example:
 you have taken the advice of a person keeping in mind the four
 established norms and he approved of your contention. The same matter,
@@ -482,8 +482,8 @@ is no need to do the *Istikhara* and one must act and trust his affairs
 to the Will of Allah (S.w.T.).
 
 The conclusion is that we shall seek good (*khair)* from Allah (S.w.T.)
-in our affairs and that is the crux of *Istikhara.*  
-* *  
+in our affairs and that is the crux of *Istikhara.*
+* *
 * *
 
 

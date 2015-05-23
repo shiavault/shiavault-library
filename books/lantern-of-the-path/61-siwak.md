@@ -1,13 +1,12 @@
 Siwak
 =====
 
-   
- The Messenger of Allah said, 'Using the siwak' purifies the mouth and
+The Messenger of Allah said, 'Using the siwak' purifies the mouth and
 is pleasing to the Lord,' and he made it one of the confirmed practices.
 It has benefits for both the outward and the inward being which even men
-of intelligence cannot count.  
-    
- As you remove the stains caused by food and drink from your teeth with
+of intelligence cannot count.
+
+As you remove the stains caused by food and drink from your teeth with
 the siwak, so remove the impurity of your wrong actions by humble
 entreaty, humility, night prayers, and asking for forgiveness before
 dawn. Purify your outer being from impurities, and your inner being from
@@ -22,14 +21,14 @@ present when food is chewed, leading to a deterioration in the way the
 mouth smells, and decay in the gums. When the intelligent believer
 cleans with the soft plant and wipes it on these pure jewels, he removes
 the decay and adulteration from them and they then revert to their
-original state.  
-    
- Similarly Allah created the heart pure and clean, and made its food
+original state.
+
+Similarly Allah created the heart pure and clean, and made its food
 remembrance, reflection, awe and respect. When the pure heart turns grey
 by being fed on heedlessness and vexation, it is polished by the burnish
 of repentance and cleaned by the water of regret, so that it reverts to
-its primal state and its basic essence. As Allah said,  
-  
+its primal state and its basic essence. As Allah said,
+
 
 <blockquote dir="rtl">
   <p>
@@ -37,13 +36,13 @@ its primal state and its basic essence. As Allah said,
   </p>
 </blockquote>
 
- 
+
 
 ***Surely Allah loves those who turn [in repentance] to Him, and He
 loves those who purify themselves.*** (2:222)
 
-   
- In recommending the use of the siwak the Holy Prophet was advocating
+
+In recommending the use of the siwak the Holy Prophet was advocating
 that it be used on the teeth themselves; but he also implied the meaning
 and example we have referred to above, that for anyone who empties his
 faculty of reflection for the purpose of drawing inward lessons from the

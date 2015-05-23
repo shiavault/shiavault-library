@@ -30,8 +30,8 @@ The Islamic Seminary is a world organization endeavouring for Islamic
 fraternity. It enjoys the contributions of the best brains, in addition
 to having an international support for the fulfilment of its great
 objective. It has centres in Asia, Africa, Europe, America, Canada and
-Far East.  
- A list of addresses appears in the closing pages of this book. Readers
+Far East.
+A list of addresses appears in the closing pages of this book. Readers
 can write to any of these centres for our publications.
 
 Islamic Seminary Publications
@@ -45,17 +45,17 @@ authoritative and authentic in Islam.
 
 You are requested to kindly go through this book in the spirit in which
 it is intended. You are also requested to communicate to us your free
-comments on our publication, which will be highly appreciated.  
-    
- Propagating the message of Islam is a task which calls for the
+comments on our publication, which will be highly appreciated.
+
+Propagating the message of Islam is a task which calls for the
 co-operation of all. The Seminary invites you to join it in this task
 complying cordially with the verse of the holy Qur'an:
 
 ***"Say: I give you but one admonition, that you stand for Allah's sake
 jointly and singly"*****. (34:46)**
 
-May Allah bless you!  
- Yours in Islam,  
- Publication Secretary.
+May Allah bless you!
+Yours in Islam,
+Publication Secretary.
 
 

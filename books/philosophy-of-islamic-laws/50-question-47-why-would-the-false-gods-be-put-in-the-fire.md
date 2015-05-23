@@ -31,8 +31,8 @@ may know that those false gods who were sacred in their eyes in the end
 became fire for their own lives and they became the cause of their
 misfortune and wretchedness. And they get to know that these false gods
 whom the foolish man considered to be powerful do not even have a little
-power to defend themselves.  
-    
-  
+power to defend themselves.
+
+
 
 

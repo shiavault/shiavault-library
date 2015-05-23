@@ -8,7 +8,7 @@ oneness of God); and that professing His oneness is the first phrase in
 the Declaration of the Faith:
 
 *“I bear witness that there is no god but the Almighty God and that
-Muhammad is a messenger of* *God.”*
+Muhammad is a messenger of God.”*
 
 Does Islam offer any evidence on this important principle?
 
@@ -70,8 +70,8 @@ if fatherhood is used for its true meaning. If the word is used in its
 figurative sense, to mean that God is as compassionate to His living
 creature as a father, then He will not only be the father of one person
 but the father of all mankind. And this is what can be understood from
-the Christian prayer, *“Our father, Thou art in Heaven…”* But even this
-figurative usage of the word is repugnant to Islam because it is
+the Christian prayer, *“Our father, Thou art in* *Heaven…”* But even
+this figurative usage of the word is repugnant to Islam because it is
 misleading and confusing to the people. Muslims, therefore, do not use
 it.
 
@@ -128,8 +128,8 @@ mother, and that did not make him more than a human. From the Holy
 Qur'an:
 
 ***“Certainly the status of Jesus in the eyes of God is like the status
-of Adam. He created him from dust. He said to him:*** ***‘Be’, and so he
-was.” 3:59***
+of Adam. He created him from dust. He said to him: ‘Be’, and so he was.”
+3:59***
 
 Neither Jesus nor Adam is a god because neither of them is the Creator
 of the universe.

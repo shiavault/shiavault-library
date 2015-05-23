@@ -6,8 +6,8 @@ of the new faith and of its followers was very doubtful at the time of
 the revelation. The success of Islam afterwards and the growth of the
 numbers of its followers were unexpected. I often wondered if the
 unexpected success and rapid growth of Islam were foreseen by the
-Prophet and forecast by the Qur'an.  
- The forecast of this would be an impressive evidence on the
+Prophet and forecast by the Qur'an.
+The forecast of this would be an impressive evidence on the
 truthfulness of Muhammad, because the future of the whole faith and its
 followers seemed to be very dark at the time of revelation.
 

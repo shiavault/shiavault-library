@@ -1,7 +1,7 @@
 The First Talk
 ==============
 
-The Importance of Isti’adha in the Qur’an and the Traditions 
+The Importance of Isti’adha in the Qur’an and the Traditions
 -------------------------------------------------------------
 
 The topic that has received the maximum attention in the Holy Qur’an and
@@ -71,8 +71,8 @@ example, at the time of wearing the clothes one should recite:
 *(O Allah!* *Keep my private parts hidden and save them from the
 interference of shaitan)*
 
-   
- In every situation, however lowly and futile, or elevated and likeable,
+
+In every situation, however lowly and futile, or elevated and likeable,
 one should seek protection from Satan. While entering into the mosque,
 one should do the *Isti’adha* lest the persistent Satan chases you even
 at that threshold! Even while going to a washroom it is required to do
@@ -87,7 +87,7 @@ impurities)*
 Satan at the Threshold of the Mosque
 ------------------------------------
 
- One pious person said that he noticed Satan, in apocalyptic revelation,
+One pious person said that he noticed Satan, in apocalyptic revelation,
 standing at the threshold of the mosque. He asked him “O accursed one!
 What are you doing here?” Satan replied, “Some of my associates have
 been missed in these environs and I am waiting for them!” The pious
@@ -105,7 +105,7 @@ do the *Isti’adha* and recite the following supplication at the moment
 of emerging out of the house:
 
 *Bismillahi wa billahi aamantu billahi tawakkaltu ‘alal laahi wa la
-hawla wa la quwawata illa billaah*  
+hawla wa la quwawata illa billaah*
 *(In the name of Allah (S.w.T.) and with His Help; I believe in Allah
 and place my trust in Him. And there is no power besides Him)*
 
@@ -133,8 +133,8 @@ Man wishes to have access to the Presence of Allah (S.w.T.), but Satan
 tries his best to prevent him from achieving this end. He puts so many
 hurdles and impediments in the way of men that it becomes impossible to
 reach the desired destination. The one and only way of precluding this
-risk is to seek Allah (S.w.T.)’s protection against Satan.  
- Allah (S.w.T.) has ordered the Prophet (S):
+risk is to seek Allah (S.w.T.)’s protection against Satan.
+Allah (S.w.T.) has ordered the Prophet (S):
 
 <blockquote dir="rtl">
   <p>
@@ -156,7 +156,7 @@ Similarly elsewhere in the Qur’an, Allah (S.w.T.) says:
 </blockquote>
 
 ***Say I seek refuge from the evil of the whisperings of the slinking
-(Shaitan). (Sura an-Naas, 114:4)***
+(Shaitan). (Sura an-Naas,*** ***114:4)***
 
 Therefore when the enemy is so powerful and strong, we should not be
 complacent and unmindful of him. We should gather all our faculties and
@@ -198,8 +198,8 @@ underestimate your enemy, Satan! Don’t be under the illusion that only
 repeating the words ‘*Audhu billahi minash-shaitanir rajeem’* is
 sufficient. Remember! Unless you understand the purport of these words
 and mould your actions as per the Commandments of Allah (S.w.T.), the
-*Isti’adha* will not be of any utility.  
-  
+*Isti’adha* will not be of any utility.
+
 
 Isti’adha during the execution of Justice (Qadhawat), when in privacy with non-Mahram and while in a frenzy of anger
 --------------------------------------------------------------------------------------------------------------------
@@ -227,7 +227,7 @@ men in frenzy of anger and makes them commit prohibited (*Haram*) acts.
 There is no wonder if Satan makes persons commit acts of *kufr*
 (*infidelity)* in a frenzy of anger! Only those lucky persons escape
 from such situations that have Allah (S.w.T.)’s particular Blessing
-because they say the *Isti’adha* in such situations.  
+because they say the *Isti’adha* in such situations.
 * *
 
 

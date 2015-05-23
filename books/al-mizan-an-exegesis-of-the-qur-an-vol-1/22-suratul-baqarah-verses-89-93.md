@@ -192,7 +192,7 @@ out from our town and prop­erties.'
 
 But when Muhammad (s.a.w.a.) was sent as Prophet, it was the Helpers
 (the Aws and the Khazraj) who believed in him and the very Jews denied
-him! This is the meaning of the words of Allah,  
+him! This is the meaning of the words of Allah,
 ***and aforetime they used to pray for victory against those who
 disbelieved. . .*** *”*[^4]
 

@@ -31,7 +31,7 @@ definitely be accepted by Allah. And as much the heart and conscience of
 man are clean and as much he refrains from oppression and injustice, the
 grade of its acceptance would be proportionate to this. Because the
 value of each deed depends on the mentality and condition of the person
-who is performing it.  
-  
+who is performing it.
+
 
 

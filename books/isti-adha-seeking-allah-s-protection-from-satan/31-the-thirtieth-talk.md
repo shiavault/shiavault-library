@@ -56,16 +56,16 @@ Iblis (Dua for Protection from the Evil of Satan)* that runs like this:
 
 *“O Allah!* *Iblis* *is one of your creatures who is focusing his sights
 on me from such a place that I cannot see him. But You see him very
-well, while he is not empowered to see you! You have control over all
+well, while he is not empowered to see you! You have control* *over all
 his faculties. While he cannot interfere with what Your Wish and Will!*
 *O Allah (S.w.T.)!* *I, therefore, plead with You and seek Your help
 against him. O Sustainer! I don't have the capability to ward him off
 other than Your Help!* *O Allah (S.w.T.)!* *If Iblis sets his sights on
-me, You must take* *care of him! If he plans to cause me harm, You
-inflict Your curse on him! Save me from his plots. Make the burden of
-his enmity fall on his own neck! I am seeking Your munificence! O most*
-*Beneficent of those who do kindnesses! And the blessings of Allah be on
-Muhammad and his purified progeny.”*
+me, You must take care of him! If he plans to cause me harm, You inflict
+Your curse on him! Save me from his plots. Make the burden of his enmity
+fall on his own neck! I am seeking Your munificence! O most Beneficent
+of those who do kindnesses! And the blessings of Allah be on Muhammad
+and his purified progeny.”*
 
 Allah (S.w.T.) is Sufficient for His Creatures
 ----------------------------------------------
@@ -506,7 +506,7 @@ these activities in the minds of men.
 promised you the promise of truth, and I gave you promises, then failed
 to keep them to you, and I had no authority over you, except that I
 called you and you obeyed me, therefore do not blame me but blame
-yourselves: I*** ***cannot be your aider (now) nor can you be my aiders;
+yourselves: I cannot be your aider (now) nor can you be my aiders;
 surely I disbelieved in your associating me with Allah before; surely it
 is the unjust that shall have the painful punishment.’ (Sura Ibrahim,
 14:22)***
@@ -542,7 +542,7 @@ humility and lamentations would come to my rescue.”*
 In another supplication the Imam (a.s.) says:
 
 *“We are those defenseless people whose protection You have made
-imperative on Yourself. We are the victims whom You have promised to
+imperative on Yourself. We are* *the victims whom You have promised to
 relieve of their hardships.”*
 
 Another supplication of the Imam (a.s.) goes like this:

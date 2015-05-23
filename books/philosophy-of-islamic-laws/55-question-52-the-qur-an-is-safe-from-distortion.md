@@ -169,7 +169,7 @@ elucidation, which he had heard from the Holy Prophet (s.a.w.a.). And
 its difference with other editions of the Holy Qur’an was not regarding
 the original text of the Qur’an, but it was only regarding this.
 
- 
+
 
 [^1]: Ref. Qamus-e-Maqaddas and Al-hoda Eladdinil Mustafa
 

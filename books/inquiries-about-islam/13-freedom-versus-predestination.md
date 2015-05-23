@@ -123,9 +123,8 @@ action is controlled by God. Of these verses are the following:
 may take a path to his Lord. And you do not will unless God will…”
 76:29-30***
 
-***“It is naught but thy trial.*** ***Thou causest to err thereby
-whomever Thou pleasest and guidest*** ***whomever Thou pleasest…”
-7:155***
+***“It is naught but thy trial. Thou causest to err thereby whomever
+Thou pleasest and guidest whomever Thou pleasest…” 7:155***
 
 These verses indicate the opposite of what the verses which you quoted
 indicate. This leads to confusion and creates a dilemma.

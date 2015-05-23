@@ -23,8 +23,8 @@ truth, goodness and faith he becomes worse than animals.
 This is the reason that we read in the Qur’an that when the Almighty
 Allah created Adam (a.s.). He commanded all the angels to prostrate
 before him and ordered Adam (a.s.) to tell the angels what he knew and
-in other words Allah made Adam (a.s.) the teacher of the angels.  
-    
-  
+in other words Allah made Adam (a.s.) the teacher of the angels.
+
+
 
 

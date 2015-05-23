@@ -1,8 +1,8 @@
 The creation
 ============
 
-![](/sites/default/files/creation.gif)  
- He made **the creation**
+![](/sites/default/files/creation.gif)
+He made **the creation**
 
 without any example and without the
 

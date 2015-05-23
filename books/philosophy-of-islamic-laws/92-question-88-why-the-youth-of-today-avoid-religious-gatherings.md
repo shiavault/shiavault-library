@@ -32,7 +32,7 @@ Regarding the second factor of repulsion of the youth steps have been
 devised and no there is no lack of people who keep the changing times in
 view and through Islamic logic can solve the mental confusion of the
 young Muslims. Though we agree that their number is not as required by
-the present circumstances.  
-  
+the present circumstances.
+
 
 

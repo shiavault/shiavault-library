@@ -20,20 +20,20 @@ Action & Sincerity of Purpose
 
 If there is value for anything in the consideration of Allah (S.w.T.),
 it is the sincerity of purpose of His creatures. The Prophet (S) said:
-‘Actions are judged by their intentions’ (*Innamal ‘amaalu*
-*bin-niyaat)* If the purpose is to acquire the Wish of Allah (S.w.T.),
-and the actions too are in accord with His wish, and then it will make
-the person achieve great heights. But if the purpose is selfish, or not
-totally legitimate, although the person always utters, “*Qurbatan
-ilalllah*, and gives the impression of piety, there will be no use. Such
-a person will rise empty handed from his grave and his *Nama-e-Aamāl*
-(The Record of Deeds) will be blank. But if there is sincerity of
-purpose in a man, then everything falls in the proper place for him.
+‘Actions are judged by their intentions’ (*Innamal ‘amaalu bin-niyaat)*
+If the purpose is to acquire the Wish of Allah (S.w.T.), and the actions
+too are in accord with His wish, and then it will make the person
+achieve great heights. But if the purpose is selfish, or not totally
+legitimate, although the person always utters, “*Qurbatan ilalllah*, and
+gives the impression of piety, there will be no use. Such a person will
+rise empty handed from his grave and his *Nama-e-Aamāl* (The Record of
+Deeds) will be blank. But if there is sincerity of purpose in a man,
+then everything falls in the proper place for him.
 
-The Verse that we have referred to in this context says: “*Say* *(O our
-beloved messenger!): Every one acts according to his* *nature
-(shaakila); but your Lord best knows who is best guided in the path.”*
-*(Sura Banu Israel, 17:84)*
+The Verse that we have referred to in this context says: “*Say (O our
+beloved messenger!): Every one acts according to his nature (shaakila);
+but your Lord best knows who is best guided in the path.”* *(Sura Banu
+Israel, 17:84)*
 
 Now consider the meaning of the word *Shaakila*. If its meaning is
 nature or bent of mind, then the purport of the Holy Ayah will be that

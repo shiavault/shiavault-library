@@ -249,8 +249,8 @@ meets death in accordance with the natural laws related to life or is
 martyred.
 
 In this connection we are usually confronted with the following
-questions.  
- How can a natural law be suspended and the compulsory relationship
+questions.
+How can a natural law be suspended and the compulsory relationship
 existing between the various phenomena be severed?
 
 Will such a suspension not be in contradiction with science which has
@@ -313,14 +313,14 @@ expected to be brought about by the Mahdi.
 
 Hence, we leave aside for the time being the qualifications we believe
 the infallible Imams to have possessed and take up instead the following
-question:  
- Is it likely, in the light of the past experience, that such a long
+question:
+Is it likely, in the light of the past experience, that such a long
 life of the leader-designate will contribute to his success and will
 enable him to play his role better?
 
 Our reply to this question is in the affirmative. Some of the reasons
-are given below:  
- The proposed great revolutionary change requires that its leader should
+are given below:
+The proposed great revolutionary change requires that its leader should
 possess a unique mental calibre. He should be conscious of his own
 superiority and the insignificance of the knotty system he has to
 overthrow. The more conscious he is of the insignificance of the corrupt
@@ -366,8 +366,8 @@ lived under the shadow of monarchy. But the man having a long historical
 background and being fully aware of the historical factors knows
 perfectly well how and when the prevailing culture and the prevailing
 system came into being and developed. He knows that the historical age
-of the cultures and systems, howsoever long, is very limited.  
- Have you read the Surah al-Kahf (Chapter 18 of the holy Qur'an) and
+of the cultures and systems, howsoever long, is very limited.
+Have you read the Surah al-Kahf (Chapter 18 of the holy Qur'an) and
 have you gone through the story of the youths who believed in Allah and
 were virtuous, but had to face an idolatrous system which was dominant
 at that time and which ruthlessly crushed every idea of Monotheism? They
@@ -729,8 +729,8 @@ start his work forcefully because he already had contact with the people
 through the organization which existed during the period of the minor
 occultation. Moreover, at that time the ruling powers were not so
 powerful as they subsequently. became as a result of the scientific and
-industrial development.  
- The successful execution of a revolutionary order depends on certain
+industrial development.
+The successful execution of a revolutionary order depends on certain
 pre-requisites and on the existence of a particular atmosphere. Unless
 these conditions are fulfilled and that atmosphere is created, it cannot
 achieve its object.

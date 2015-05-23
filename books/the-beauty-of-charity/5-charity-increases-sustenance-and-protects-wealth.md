@@ -66,7 +66,7 @@ and well to do. [^4]
 Indeed the Qur’an says that:
 
 ***“The person who lends to Allah, a good lending will receive many
-times more”.*** ***(Sura al-Baqara, 2:245 )***
+times more”. (Sura al-Baqara, 2:245 )***
 
 Help according to your capability!
 ----------------------------------

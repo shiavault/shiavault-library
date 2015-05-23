@@ -505,8 +505,8 @@ It follows from the above discourse that:‑
 
 **First:** The Imam must be *al-ma'sum* **اَلمَعْصُوْم** ) *=* sinless;
 protected from error and sin). Otherwise, he would not be rightly guided
-by himself, as explained above. Also, the following verse  
- proves their *al-'ismah* **اَلعِصْمَة** ) *=* sinlessness):
+by himself, as explained above. Also, the following verse
+proves their *al-'ismah* **اَلعِصْمَة** ) *=* sinlessness):
 
 ***And We made them Imams to guide*** (people) ***by Our command, and We
 revealed to them the doing of good*** (deeds) ***and the establishing of
@@ -529,8 +529,8 @@ whatever they did was good and it was by Divine inspiration and heavenly
 help.
 
 **Second:** Conversely, whoever is not *ma'sum,* can never be an Imam, a
-guide to the truth.  
- Now, it is clear that the adjective, “the unjust”, (in the Divine
+guide to the truth.
+Now, it is clear that the adjective, “the unjust”, (in the Divine
 declaration, “My covenant will not include the unjust”) covers everyone
 who might have done any injustice, for example, polytheism, idol-worship
 or any other sin, in any period of his life, even if he may have
@@ -541,8 +541,8 @@ this verse could prove that the Imam must be *ma'sum.* He replied:
 
 Logically, we may divide mankind into four groups: (1) One who remains
 unjust throughout his life; (2) One who was never unjust in any period
-of his life; (3) One who was unjust  
- in the beginning, but became just later on; and (4) One who was just in
+of his life; (3) One who was unjust
+in the beginning, but became just later on; and (4) One who was just in
 the beginning, but became unjust afterwards, Ibrahim was too sublime in
 position to ask for the *Imamah* for the first or the fourth group.
 
@@ -570,8 +570,8 @@ Sixth: The Imam must have knowledge of all that is needed by the people
 for their good in this world and the next.
 
 Seventh: It is impossible for any other person to surpass the Imam in
-any virtue.  
- These seven are among the basic factors of the *Imamah,* and this
+any virtue.
+These seven are among the basic factors of the *Imamah,* and this
 verse, read with other relevant verses, leads us to them, and Allah is
 our Guide.
 
@@ -843,8 +843,8 @@ offspirng?”*** Then Allah, Blessed and High is He, said: **“My**
 ***covenant will not include the unjust.”*** Whoever had (ever)
 worshipped an idol or a sculpture or an image, cannot be an Imam.”
 
-The author says: Its meaning is clear from the above explanations.  
- It is narrated in *al-Amali of* at-Tusi (with complete chain of
+The author says: Its meaning is clear from the above explanations.
+It is narrated in *al-Amali of* at-Tusi (with complete chain of
 narrators) and in *al-Manaqib* of Ibn al-Maghazili (as *a marfu'*
 tradition) from Ibn Mas'ud from the Prophet that he said (ex­plaining
 the words of Allah to Ibrahim in this verse):

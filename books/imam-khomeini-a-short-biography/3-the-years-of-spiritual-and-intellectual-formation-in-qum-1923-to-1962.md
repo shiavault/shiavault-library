@@ -1,8 +1,7 @@
 The Years of Spiritual and Intellectual Formation in Qum, 1923 to 1962
 ======================================================================
 
-   
- After his arrival in Qum in 1922 or 1923, the Imam first devoted
+After his arrival in Qum in 1922 or 1923, the Imam first devoted
 himself to completing the preliminary stage of madrasa education known
 as *sutuh*; this he did by studying with teachers such as Shaykh
 Muhammad Riza Najafi Masjid-i Shahi, Mirza Muhammad Taqi Khwansari, and
@@ -27,9 +26,9 @@ great master Mullah Hadi Sabzavari (d.1295/1878), for Yazdi passed away
 in 1305/1926. Another of the Imam’s early instructors in philosophy was
 Sayyid Abu ‘l-Hasan Qazvini (d. 1355/1976), a scholar of both
 peripatetic and illuminationist philosophy; the Imam attended his circle
-until Qazvini’s departure from Qum in 1310/1931.  
-    
- The teacher who had the most profound influence on Imam Khomeini’s
+until Qazvini’s departure from Qum in 1310/1931.
+
+The teacher who had the most profound influence on Imam Khomeini’s
 spiritual development was, however, Mirza Muhammad ‘Ali Shahabadi (d.
 1328 Sh. /1950); to him the Imam refers in a number of his works as
 shaykhuna and ‘*arif*-I kamil, and his relationship with him was that of
@@ -45,17 +44,17 @@ on the text. Among the other texts that Imam Khomeini studied with
 Shahabadi were the *Manazil al-Sa’irin* of the Hanbali Sufi, Khwaja
 ‘Abdullah Ansari (d.482/1089), and the *Misbah al-Uns* of Muhammad b.
 Hamza Fanari (d. 834/1431), a commentary on the *Mafatih al-Ghayb* of
-Sadr al-*Din* Qunavi (d. 673/1274).  
-    
- It is conceivable that the Imam derived from Shahabadi, at least in
+Sadr al-*Din* Qunavi (d. 673/1274).
+
+It is conceivable that the Imam derived from Shahabadi, at least in
 part, whether consciously or not, the fusion of gnostic and political
 concerns that came to characterize his life. For this spiritual master
 of the Imam was one of the relatively few *ulama* in the time of Riza
 Shah to preach publicly against the misdeeds of the regime, and in his
 *Shadharat al-Ma’arif*, a work primarily gnostic in character, described
-Islam as “most certainly a political religion.”[^1]  
-    
- Gnosis and ethics were also the subject of the first classes taught by
+Islam as “most certainly a political religion.”[^1]
+
+Gnosis and ethics were also the subject of the first classes taught by
 the Imam. The class on ethics taught by Hajji Javad Aqa Maliki Tabrizi
 were resumed, three years after his death, by Shahabadi, and when
 Shahabadi left for Tehran in 1936, he assigned the class to Imam
@@ -77,17 +76,17 @@ regained their former popularity. The ability to address the people at
 large, not simply his own colleagues within the religious institution,
 which the Imam displayed for the first time in these lectures on ethics,
 was to play an important role in the political struggles he led in later
-years.  
-    
- While teaching ethics to a wide and diverse audience, Imam Khomeini
+years.
+
+While teaching ethics to a wide and diverse audience, Imam Khomeini
 began teaching important texts of gnosis, such as the section on the
 soul in *al-Asfar al-Arba’a* of Mullah Sadra (d. 1050/1640) and
 Sabzavari’s Sharh-I Manzuma, to a select group of young scholars that
 included Murtaza Mutahhari and Husayn ‘Ali Muntaziri, who subsequently
 became two of his principal collaborators in the revolutionary movement
-he launched some three decades later.  
-    
- As for the earliest writings of the Imam, they also indicate that his
+he launched some three decades later.
+
+As for the earliest writings of the Imam, they also indicate that his
 primary interest during his early years in Qum was gnosis. In 1928, for
 example, he completed the *Sharh Du’a’ al-Sahar*, a detailed commentary
 on the supplicatory prayers recited throughout Ramadan by Imam Muhammad
@@ -96,22 +95,22 @@ of Ibn ‘Arabi is frequently encountered in this book. Two years later,
 he completed *Misbah al-Hidaya ila ‘l-Khilafa wa ‘l-Wilaya*, a dense and
 systematic treatise on the main topics of gnosis. Another product of the
 same years of concentration on gnosis was a series of glosses on
-Qaysari’s commentary on the Fusus.  
-    
- In a brief autobiography written for inclusion in a book published in
+Qaysari’s commentary on the Fusus.
+
+In a brief autobiography written for inclusion in a book published in
 1934, the Imam wrote that he spent most of his time studying and
 teaching the works of Mullah Sadra; that he had for several years been
 studying gnosis with Shahabadi; and that at the same time he was
-attending the classes of Ayatullah Ha’iri on *fiqh*.[^2]  
-    
- The sequence of these statements suggests that *fiqh* was as yet
+attending the classes of Ayatullah Ha’iri on *fiqh*.[^2]
+
+The sequence of these statements suggests that *fiqh* was as yet
 secondary among his concerns. This situation was to change, but gnosis
 was for the Imam never simply a topic for study, teaching, and writing.
 It remained an integral part of his intellectual and spiritual
 personality, and as such infused many of his ostensibly political
-activities in later years with an unmistakably gnostic element.  
-    
- The Imam did not engage in any overt political activities during the
+activities in later years with an unmistakably gnostic element.
+
+The Imam did not engage in any overt political activities during the
 1930’s. He always believed that the leadership of political activities
 should be in the hands of the foremost religious scholars, and he was
 therefore obliged to accept the decision of Ha’iri to remain relatively
@@ -126,9 +125,9 @@ Hajji Nurullah Isfahani, Mirza Sadiq Aqa Tabrizi, Aqazada Kifai, and
 Sayyid Hasan Mudarris. He expressed his own opinions of the Pahlavi
 regime, the leading characteristics of which he identified as oppression
 and hostility to religion, as yet only allusively, in privately
-circulated poems.[^3]  
-    
- He assumed a public political stance for the first time in a
+circulated poems.[^3]
+
+He assumed a public political stance for the first time in a
 proclamation dated 15 Urdibihisht 1323/ 4 May 1944 that called for
 action to deliver the Muslims of Iran and the entire Islamic world from
 the tyranny of foreign powers and their domestic accomplices. The Imam
@@ -142,9 +141,9 @@ al-yaqza) at the very beginning of Ansari’s Manazil al-Sa’irin, the
 handbook of spiritual wayfaring first taught to the Imam by Shahabadi.
 The Imam’s interpretation of “rising up” is, however, both spiritual and
 political, both individual and collective, a rebellion against lassitude
-in the self and corruption in society.  
-    
- The same spirit of comprehensive revolt inspires the first work written
+in the self and corruption in society.
+
+The same spirit of comprehensive revolt inspires the first work written
 by the Imam for publication, Kashf al-Asrar (Tehran, 1324 Sh. /1945). He
 is said to have completed the book in forty-eight days from a sense of
 urgency, and that it indeed met a need is proven by the fact that it
@@ -168,19 +167,19 @@ He stopped short, however, of demanding the abolition of the monarchy,
 proposing instead that an assembly of competent mujtahids should choose
 “a just monarch who will not violate God’s laws and will shun oppression
 and wrongdoing, who will not transgress against men’s property, lives,
-and honor.”[^4]  
-    
- Even this conditional legitimacy of monarchy was to last “only so long
+and honor.”[^4]
+
+Even this conditional legitimacy of monarchy was to last “only so long
 as a better system could not be established.”[^5] There can be no doubt
 that the “better system” already envisaged by Imam Khomeini in 1944 was
 *vilayat-i faqih*, which became the constitutional cornerstone of the
-Islamic Republic of Iran established in 1979.  
-    
- When Shaykh ‘Abd al-Karim Ha’iri died in 1936, the supervision of the
+Islamic Republic of Iran established in 1979.
+
+When Shaykh ‘Abd al-Karim Ha’iri died in 1936, the supervision of the
 religious institution in Qum had been jointly assumed by Ayatullah
 Khwansari, Ayatullah Sadr, and Ayatullah Hujjat. A sense of lack was
 nonetheless felt. When Ayatullah Abu ‘l-Hasan Isfahani, the principal
-*marja’-i taqlid* of the age residing in Najaf, died in 1946, the need
+*marja’-i* *taqlid* of the age residing in Najaf, died in 1946, the need
 for a centralized leadership of Shi’i Muslims became more felt more
 acutely, and a search began for a single individual capable of
 fulfilling the duties and functions of both Ha’iri and Isfahani.
@@ -207,9 +206,9 @@ probably due to his belief that any movement for radical change ought to
 be led by the senior echelons of the religious establishment. In
 addition, the most influential personage on the crowded and confused
 political scene of the day was the secular nationalist, Dr. Muhammad
-Musaddiq.  
-    
- Imam Khomeini therefore concentrated during the years of Burujirdi’s
+Musaddiq.
+
+Imam Khomeini therefore concentrated during the years of Burujirdi’s
 leadership in Qum on giving instruction in *fiqh* and gathering round
 him students who later became his associates in the movement that led to
 the overthrow of the Pahlavi regime, not only Mutahhari and Muntaziri,
@@ -225,8 +224,8 @@ was offered. According to the reminiscences of some of those who took
 the class, it was distinguished from other classes taught in Qum on the
 same subject by the critical spirit the Imam instilled in his students,
 as well as his ability to connect *fiqh* with all the other dimensions
-of Islam - ethical, gnostic, philosophical, political, and social.  
-  
+of Islam - ethical, gnostic, philosophical, political, and social.
+
 
 [^1]: Shadharat al-Ma’arif, Tehran, 1360 Sh./1982, pp. 6-7.
 

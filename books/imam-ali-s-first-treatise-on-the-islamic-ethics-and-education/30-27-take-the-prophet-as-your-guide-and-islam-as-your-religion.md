@@ -12,8 +12,8 @@
 
 *“Know, my son, that no one has told us of Allah like the Prophet (S)
 has. Thus, be content with him as a leader and as a guide to salvation.
-Indeed, I have not fallen short in advice to you, and, however much you
-may strive, you will never attain that degree of concern for your
+Indeed, I have not fallen short in advice to you, and,* *however much
+you may strive, you will never attain that degree of concern for your
 welfare that I have for you”.*
 
 Commentary
@@ -28,8 +28,8 @@ and under different conditions. The more backward the people, the
 simpler was the prophets' training and educating people. Their schedules
 were like those of present-day schools where in elementary schools
 simpler books and methods are used whereas in the high schools we have
-more complicated programs.  
- Since the more ancient Prophets were sent to people who had not
+more complicated programs.
+Since the more ancient Prophets were sent to people who had not
 progressed enough, their methods of educating people were more
 elementary, but since the Prophet of Islam was the last of the
 Prophets,[^1] and his religion is eternally the way of life for all

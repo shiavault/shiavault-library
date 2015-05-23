@@ -148,11 +148,11 @@ says:
 
 ***Allah has promised the righteously striving believers to appoint them
 as His deputies on earth, as He had appointed those who lived before. He
-will make the religion that He has*** ***chosen for them to stand
-supreme. He will replace their fear with peace and security. They will
-worship their Lord without fear and will not submit to anyone other than
-Him and will associate nothing with His worship and obedience.***
-**(Surah al-Nur, 24:55)**
+will make the religion that He has chosen for them to stand supreme. He
+will replace their fear with peace and security. They will worship their
+Lord without fear and will not submit to anyone other than Him and will
+associate nothing with His worship and obedience.*** **(Surah al-Nur,
+24:55)**
 
 The appearance of the Mahdi is Allah's favour for the oppressed and the
 weak and is a means of their coming to power and gaining the promised

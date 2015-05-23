@@ -148,8 +148,8 @@ initiative, and pray to Allah Subhanahu wa Ta'ala to give them more
 *tawfiq* and make this booklet a means of guidance for the Muslims and
 non-Muslims alike. Amen
 
-Sayyid Sa’eed Akhtar Rizvi,  
- Dar-es-Salaam  
- 31st October, 1998
+Sayyid Sa’eed Akhtar Rizvi,
+Dar-es-Salaam
+31st October, 1998
 
 

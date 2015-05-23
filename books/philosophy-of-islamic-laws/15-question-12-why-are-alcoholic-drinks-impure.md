@@ -39,8 +39,8 @@ It is correct that alcoholic drinks clean the contagious effect, but
 alcoholic drinks cause many evils. To stop those evils Islam has
 declared it impure. People would thus remain away from it, because it is
 natural that by not using something made from alcohol will creates hate
-towards it and this itself is war against alcoholic drinks.[^2]  
-  
+towards it and this itself is war against alcoholic drinks.[^2]
+
 
 [^1]: Very soon we will discuss about the impurity of infidels
 

@@ -1,8 +1,8 @@
 The earth
 =========
 
-![](/sites/default/files/earth.gif)  
- He created **the earth** and
+![](/sites/default/files/earth.gif)
+He created **the earth** and
 
 suspended it,
 

@@ -45,7 +45,7 @@ the man. For example, if Satan is unable to turn a person into an
 infidel or hypocrite, he will satisfy himself with making the person
 commit lesser sins.
 
- 
+
 
 Jealousy and pride have nothing to do with Heaven
 -------------------------------------------------
@@ -59,7 +59,7 @@ Satan. Allah (S.w.T.) banished Satan from the Heaven because of his
 jealousy. He earned the displeasure and ire of Allah (S.w.T.) because of
 his pride and jealousy. How will you expect to achieve Heaven if you too
 are proud and jealous! When the mentor of the angels, Iblīs, was sent
-out of the Heaven because of his pride and jealousy, how can ordinary
+out of the Heaven because of his pride and jealousy, how* *can ordinary
 mortals like you dream of entering the Heaven if they practice these
 undesirable traits.”*
 
@@ -77,8 +77,8 @@ If man becomes proud and conceited, he will become a partner of Satan!
 The Wish of Iblis Fulfilled
 ---------------------------
 
-   
- It is narrated that when Satan was ordered out of the Heaven, he
+
+It is narrated that when Satan was ordered out of the Heaven, he
 submitted to Allah (S.w.T.) in the following manner:
 
 ‘O Allah (S.w.T.)! What has happened to my supplications offered over a
@@ -106,14 +106,14 @@ mercy of Satan!
 
 Allah (S.w.T.) said, ‘O Adam (a.s.)! Don’t be disturbed! With every
 Satan there will be an angel created by us. These angels will help your
-progeny to guard against the trap set by Satan.’  
-  
+progeny to guard against the trap set by Satan.’
+
 
 Angels too have Power of Inspiration (Ilhām)
 --------------------------------------------
 
-   
- Whenever Satan creates doubts in the hearts of men, the angels inspire
+
+Whenever Satan creates doubts in the hearts of men, the angels inspire
 virtue in their heart. Satan says, ‘Don’t go to the mosque!’ The angel
 encourages the person to go there. Satan encourages the person to commit
 certain sins that he can make reparation later on. The angel says that
@@ -179,8 +179,8 @@ become the dear ones of Allah (S.w.T.). Allah (S.w.T.), as such says:
   </p>
 </blockquote>
 
-***…surely Allah loves the penitent. (Sura al-Baqara, 2:222)***  
-  
+***…surely Allah loves the penitent. (Sura al-Baqara, 2:222)***
+
 
 Allah (S.w.T.)’s blessing is for men till the end
 -------------------------------------------------
@@ -215,10 +215,10 @@ unfathomable!
 Hasan Basri asks a question and Imam Zayn al-Abidīn (a.s.) replies
 ------------------------------------------------------------------
 
-   
- It is narrated that once during the Hajj Hasan Basri said:
 
-*Al-‘ajab kul al-ajab, man najaa kaifa najaa?*  
+It is narrated that once during the Hajj Hasan Basri said:
+
+*Al-‘ajab kul al-ajab, man najaa kaifa najaa?*
 *The most amazing thing is the one who gets saved; how does he get
 saved?*
 
@@ -227,14 +227,14 @@ Iblīs.
 
 This talk of Hasan Basri reached Imam Zayn al-Abidīn (a.s.) He said:
 
-*Al-‘ajab kul al-ajab, man halaka kaifa halaka?*  
+*Al-‘ajab kul al-ajab, man halaka kaifa halaka?*
 *The most amazing thing is the one who gets ruined; how does he get
 ruined?*
 
 It is surprising that the unlucky person was deprived of the all
 pervading Blessing of Allah (S.w.T.) that spreads over the entire
-Universe.”  
-  
+Universe.”
+
 
 Illness before death is a blessing
 ----------------------------------

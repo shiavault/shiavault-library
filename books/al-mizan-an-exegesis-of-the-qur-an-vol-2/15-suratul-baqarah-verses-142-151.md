@@ -275,8 +275,8 @@ of the Jews?”
 
 **Qur’an:** ***Say: “The East and the West belong only to Allah”**:*
 Only these two directions were mentioned, because it is through them
-that all other cardinal and compound directions are fixed,  
- like the North, the South and all the intermediate directions between
+that all other cardinal and compound directions are fixed,
+like the North, the South and all the intermediate directions between
 any two cardinal ones.
 
 The East and the West are relative directions which are fixed by the
@@ -567,8 +567,8 @@ the other.
 
 There are many associations at the beginning and the end of the verse
 which point to this meaning; one may understand them on meditation; and
-we shall further explain it in a proper place, Allah willing.  
- However, the foregoing explanation shows that:
+we shall further explain it in a proper place, Allah willing.
+However, the foregoing explanation shows that:
 
 **First:** The fact that they have been made a medium *ummah* has a
 direct bearing on the two objectives. In other words, the facts that
@@ -636,8 +636,8 @@ Also, it is clear that “the *qiblah* which you had” refers to
 Baytu'l-Maqdis, and not to the Ka'bah (as someone has said). If his
 explanation is accepted, it would imply that both Baytu '1-Maqdis and
 Ka'bah were prescribed as *qiblah* twice, not once. But there is nothing
-to support this suggestion.  
- However, it was but natural that the believers should feel some
+to support this suggestion.
+However, it was but natural that the believers should feel some
 uneasiness because of this change.
 
 First of all, as Allah had already decided that He would ultimately make
@@ -917,8 +917,8 @@ the verse:
 
 **Third:** There is the hope that through this rule the Muslims will be
 guided to the straight path. We have explained the meaning of guidance
-under the verse: *Guide us to the straight path* (1:5)*.*  
- An exegete has written:
+under the verse: *Guide us to the straight path* (1:5)*.*
+An exegete has written:
 
 “The verse of *qiblah* contains the words, 'and so that I may complete
 My favour on you and that you may walk on the right course'. Similar
@@ -1549,8 +1549,8 @@ unity shall manifest itself in the Muslim society.
 Allah has especially bestowed this favour on His Muslim servants. By
 this favour He has protected their religious unity - even now when they
 have fallen apart in so many groups, have been divided into so many
-sects and are following so many diverse ideologies.  
- We are thankful to Allah for His favours.
+sects and are following so many diverse ideologies.
+We are thankful to Allah for His favours.
 
 [^1]: The Prophet emigrated to Medina in the month of Rabi'u1-awwal. The
 nineteenth month after hijrah was Ramadan of the second year. (tr.)

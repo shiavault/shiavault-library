@@ -1,0 +1,42 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/role-ahl-al-bayt-building-virtuous-community-book-4-muhammad-baqir-al-hakim
+author: Ayatullah Sayyid Muhammad Baqir Al-Hakim
+publisher: ABWA Publishing and Printing Center
+translator: Badr Shahin
+title: 'The Role of the Ahl al-Bayt in Building the Virtuous Community, Book Four:
+  The Security System of the Virtuous Community'
+slug: the-role-of-the-ahl-al-bayt-in-building-the-virtuous-community-book-four-the-security-system-of-the-virtuous-community
+uuid: 90a1414c-127b-4369-99a4-de2bbbdb19ec
+description: |
+  An elaborate thesis on how the purified Ahlul Bayt played their role in
+  the post Prophetic era in building a virtuous Community. The series is
+  comprised of 8 volume set. vol. 1 "Goals and Characteristics", Vol. 2
+  "General rules and Fundamentals" vol. 3 "General System of the virtuous
+  Community" vol. 4 " The Security System of the virtuous Community" vol.
+  5 " The Economic System of the virtuous Community" vol. 6 " The System
+  of Social Relations of the virtuous Community" vol. 7 " The Ritual
+  System of the virtuous Community" vol. 8 "The System of Devotional acts
+  of the virtuous Community"
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/role-ahl-al-bayt-building-virtuous-community-book-4-muhammad-baqir-al-hakim/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 36b40142-fd38-4571-b5a1-a76cd5ea2667
+- source: :alislam
+  source_url: http://www.al-islam.org/role-ahl-al-bayt-building-virtuous-community-book-4-muhammad-baqir-al-hakim/prelude
+  title: Prelude
+  slug: 2-prelude
+  uuid: 9d62fc7e-51f7-4ec4-8a40-6cb99c8e4f16
+- source: :alislam
+  source_url: http://www.al-islam.org/role-ahl-al-bayt-building-virtuous-community-book-4-muhammad-baqir-al-hakim/chapter-one-general
+  title: 'Chapter One: General Measures Of The Security System'
+  slug: 3-chapter-one-general-measures-of-the-security-system
+  uuid: 07917683-641f-4869-9a13-3aeea3ce5853
+- source: :alislam
+  source_url: http://www.al-islam.org/role-ahl-al-bayt-building-virtuous-community-book-4-muhammad-baqir-al-hakim/chapter-2-policies
+  title: 'Chapter 2: Policies of General Security'
+  slug: 4-chapter-2-policies-of-general-security
+  uuid: be571605-1029-4a8a-a653-0ea254b4a922
+---

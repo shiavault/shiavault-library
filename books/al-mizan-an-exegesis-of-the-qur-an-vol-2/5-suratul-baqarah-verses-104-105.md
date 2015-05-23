@@ -47,7 +47,7 @@ therefore, a mark of honour awarded to the believers of this *ummah.*
 
 It appears from deep meditation of the Qur'an that the import of the
 words, “those who believe”, is somewhat differ­ent from that of the
-words, “the believers”. (For an example of the latter, see the verse:  
+words, “the believers”. (For an example of the latter, see the verse:
 ***and turn to Allah all of you, O be­lievers!*** **[24:31]**).
 
 Allah says in the Qur'an:
@@ -72,8 +72,8 @@ If the epithet, “those who believe”, were to include all those who
 believed in the Apostle of Allah (S) irrespective of the quality of
 their belief, then it would have covered their fathers, wives and
 children as well (who do good); and there would have been no need to
-mention  
- them separately; all would have equally benefited from the prayer for
+mention
+them separately; all would have equally benefited from the prayer for
 those who believe.
 
 Also, have a look at the verse:
@@ -213,8 +213,8 @@ with what the tradition says: When the Prophet talked with the Muslims,
 they used to tell him: *“Ra'ina* (have *regard for us*)
 
 O Apostle of Allah!” - that is, wait for us, so that we may properly
-understand what you are saying.[^2]  
- But this word carried a connotation of abuse in the Jews' language. The
+understand what you are saying.[^2]
+But this word carried a connotation of abuse in the Jews' language. The
 Jews seized upon this opportunity, addressing the Prophet with this
 phrase, pretending to show respect to him while their intention was
 nothing short of abuse. And in their usage it meant, “Hear, may you not

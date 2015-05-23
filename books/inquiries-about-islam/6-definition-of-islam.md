@@ -130,8 +130,8 @@ It is natural to accept a teaching that calls upon us to believe that
 the Creator of the universe is Absolutely Fair, Just, and Merciful, and
 that such a Just and Merciful Creator does not burden any soul with the
 sin of another; and that He does not require any person to pay for the
-sins of others.  
- The teaching of Islam seems to be acceptable to the human mind, unless
+sins of others.
+The teaching of Islam seems to be acceptable to the human mind, unless
 the human mind has been exposed to illogical teaching. This is the
 reason why Islam is called the religion of nature.
 

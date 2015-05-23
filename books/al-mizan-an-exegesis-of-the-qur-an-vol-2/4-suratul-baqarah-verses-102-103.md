@@ -681,8 +681,8 @@ Taking this principle a step further, if someone's will-power is
 extraordinarily strong, it might create an impression on other's psyche
 too - as it had created on his own self in the foregoing example. That
 impression might, or might not, depend on fulfillment of some
-conditions, as indicated earlier.  
- From the above discourse, we may deduce the following three principles:
+conditions, as indicated earlier.
+From the above discourse, we may deduce the following three principles:
 
 **First:** The appearance of such extraordinary events depends on the
 firm “knowledge” and strong conviction of the doer. But it is irrelevant
@@ -784,8 +784,8 @@ commonly used branches of this art:
 as-Simiya': It deals with the ways of combining the will-power with
 particular physical and material forces for ma­nipulating the natural
 order and, thus, producing extraordinary effects. Under this head comes
-the manipulation of thought, also known as the eye-enchantment.  
- It is the most deserving candidate for the title of magic.
+the manipulation of thought, also known as the eye-enchantment.
+It is the most deserving candidate for the title of magic.
 
 **al-Limiya':** It teaches how one may establish a connec­tion between
 his psyche and the higher and stronger spirits, in order that one may
@@ -824,8 +824,8 @@ that is, *al-Kimiya', al Limiya', al-Himiya', as-Simiya'* and
 The- standard books of these subjects are the epitome of the books of
 Minds, *Rasa'il,* al-Khusraw Shahi, *adh-Dhakhirah,* al-Iskandariyyah,
 *as-Sirru 'l-maktum* (by ar-Razi), *at-Taskhirat* (by as-Sakkaki) and
-*A'malu 'l-kawakib as-Sab'ah* (by al-Hakim Tamtam al-Hindi).  
- Supplementary to the above are the following subjects:
+*A'malu 'l-kawakib as-Sab'ah* (by al-Hakim Tamtam al-Hindi).
+Supplementary to the above are the following subjects:
 
 The knowledge of numbers (numerology): It shows the relation of numbers
 and letters with the desired effect. The relevant letters or numbers are

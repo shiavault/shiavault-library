@@ -65,7 +65,7 @@ over what has slipped out of your hands, then grieve (as well) over all
 that which has not come to you. Seek an indication for what has not yet
 occurred through that which has already occurred, for affairs are
 similar (to each other). Do not be of those whom advice does not benefit
-unless you inflict suffering on them, for the intelligent one learns
+unless you inflict suffering on them, for the* *intelligent one learns
 through good discipline and education, while animals only learn by being
 beaten.*
 
@@ -82,7 +82,7 @@ transgresses the truth becomes narrow. One who restricts himself to his
 own capacity retains it. The firmest cord that you take hold of is the
 cord between you and Allah, the Exalted. One who has no concern for you
 is your enemy. When greed is destruction, then giving up hope (of what
-one desires) is an attainment.*  
+one desires) is an attainment.*
 *Not every hidden defect becomes apparent nor is every opportunity
 seized. Sometimes a person possessing sight misses his objective, while
 a blind person attains the right path. Put off doing evil because you
@@ -129,8 +129,8 @@ It is a fact that sustenance is predetermined, but since the world is
 governed by laws and for every action there are some means and agents
 and man's choices are among these means and agents[^2], therefore man's
 struggle[^3] to get the sustenance is as sacred as the religious holy
-wars**.**[^4]  
- But since the distribution of sustenance is both qualitatively and
+wars**.**[^4]
+But since the distribution of sustenance is both qualitatively and
 quantitatively determined by God's special reasoning, sometimes some
 creatures receive so much sustenance that "a hundred wise men are
 puzzled at the rationale behind such distribution"[^5]
@@ -197,7 +197,7 @@ it will come to you."*
 
 There are many cases where sustenance has been after specific
 individuals. Here we will introduce the examples mentioned under this
-portion of Imam ‘Ali's letter by Ibn Abi al-Hadid:  
+portion of Imam ‘Ali's letter by Ibn Abi al-Hadid:
 **a)** ‘Imad al-Dawlah Abu al-Hassan ‘Ali b.Buwayh after defeating Ibn
 Yaqut entered Shiraz. He was a poor man with no wealth. On the way, his
 horse's leg was caught in a hole. He had to dismount and his servants
@@ -287,8 +287,8 @@ front of God when in need but become stubborn when they are free from
 want, they are good examples for Imam ‘Ali's statements. Such people are
 aggressive not only in front of God, but also in their dealing with
 people, as well. Imam ‘Ali's reproach in his letter includes these
-people.  
- In other words, Imam ‘Ali's statement is general. It includes
+people.
+In other words, Imam ‘Ali's statement is general. It includes
 everybody, both high-standing people and common ones. The poet says:
 
 <blockquote dir="rtl">
@@ -409,14 +409,14 @@ because firstly, everything is fatal: only Allah is everlasting:
 > "كُلُّ شَيْءٍ هَالِكٌ إِلَّا وَجْهَهُ788 ـ كُلُّ مَنْ عَلَيْهَا فَانٍ
 > وَيَبْقَى وَجْهُ رَبِّكَ ذُو الْجَلَالِ وَالْإِكْرَامِ"789
 
-***“Everything is perishable but Him”.***  
+***“Everything is perishable but Him”.***
 ***“Every one of it must pass away; and there will endure for ever the
 person of your Lord, the Lord of glory and honor."***
 
-Regarding this, a poet says:  
- Do not get hurt with the presence or absence of any goods;  
- Since any existing thing is perishable at the end.  
- Secondly, with a simple calculation, the elite calm themselves over
+Regarding this, a poet says:
+Do not get hurt with the presence or absence of any goods;
+Since any existing thing is perishable at the end.
+Secondly, with a simple calculation, the elite calm themselves over
 lost or unattainable desires. They think these lost assets are like
 other lost ones or they are similar to thousand other desires which will
 never materialize. Since they do not worry over what is unattainable,
@@ -522,8 +522,8 @@ graves”.*[^19]
 of the world will not benefit from any admonition, either”.*[^20]
 
 **e)** "Only one who has taken lessons from his past will take lessons
-from his remaining life span."[^21]  
- It is for this reason that Imam ‘Ali (as) in his honorable letter
+from his remaining life span."[^21]
+It is for this reason that Imam ‘Ali (as) in his honorable letter
 writes:
 
 <blockquote dir="rtl">
@@ -574,8 +574,8 @@ Elsewhere, Imam ‘Ali (as) has stated:
 </blockquote>
 
 *"The punishment of the wise is through a hint but that of the ignorant
-is through explicit speech".*[^23]  
- However, there are some who will never take advice. This is not because
+is through explicit speech".*[^23]
+However, there are some who will never take advice. This is not because
 they are not created as such; rather, this indifference of theirs toward
 taking advice is due to their wrong education or their getting
 accustomed to bad habits and performing sins so much so that they are
@@ -597,12 +597,12 @@ The Holy Qur’an talks about these people as creatures worse than
 beasts.[^25] They are also likened to salty land where nothing can grow
 but inferior herbage.[^26] Our poets have said:
 
-Education to an unworthy person is like a nut on the dome.  
- Another poem depicts the same thing:  
- The rain which is unanimously believed to be delicate  
- In the garden it causes tulips to grow, but in the salt marsh it causes
-thorns to grow.  
- All of the above cases depend upon these people's capability for
+Education to an unworthy person is like a nut on the dome.
+Another poem depicts the same thing:
+The rain which is unanimously believed to be delicate
+In the garden it causes tulips to grow, but in the salt marsh it causes
+thorns to grow.
+All of the above cases depend upon these people's capability for
 performing vice. This is not taken to mean that they lack the necessary
 will to adopt the right way.[^27]
 
@@ -612,23 +612,23 @@ If we believe that God performs everything based on wisdom and
 expedience and also contend that what He does is either pure benevolence
 or its goodness exceeds its badness, then we, as true believers, will
 anticipate all miseries willingly and will never show signs of
-impatience.  
- Of course, there are some calamities which are created due to people's
-mismanagement. In these cases they are to be blamed. Examples are:  
- One who has been careless in driving his car and has caused the death
-and injuries of others.  
- One who has lost his life through addiction; and one who has lost his
+impatience.
+Of course, there are some calamities which are created due to people's
+mismanagement. In these cases they are to be blamed. Examples are:
+One who has been careless in driving his car and has caused the death
+and injuries of others.
+One who has lost his life through addiction; and one who has lost his
 wealth because of gambling or extravagance.
 
 These people should not blame the others because they deserve the
-hardships they are facing.  
- But sometimes some events occur which are beyond our control, such as
-the following:  
- A strong earthquake might destroy his life and his building despite the
+hardships they are facing.
+But sometimes some events occur which are beyond our control, such as
+the following:
+A strong earthquake might destroy his life and his building despite the
 fact that the building was designed in accordance with safety codes;
 some type of cancer might kill a friend or a relative of theirs;
-sometimes a flood or a tornado could bring about irreparable damages.  
- These extraordinary events, which are beyond our control and are among
+sometimes a flood or a tornado could bring about irreparable damages.
+These extraordinary events, which are beyond our control and are among
 the general principles of this world are based on some valid divine
 wisdom. We might assume these happenings are harmful for us. But if our
 conviction is that God will not carry out a useless act and that these
@@ -699,14 +699,14 @@ path is meant moderation; any deviation of it brings about injustice and
 the subsequent descent to hell. This right path is narrower than a hair
 and sharper than a sword.[^31]
 
-Our poets have written:  
- Do not resort to gluttony to the extent that it is poured out of your
-mouth,  
- Nor eat too little so that you lack the needed energy.  
- A true walker is not the one who speeds up at one moment and gets tired
-the other moment;  
- Rather, a good walker is the one who goes slowly but steadily.  
- Imam ‘Ali (as) in his letter emphasizes:
+Our poets have written:
+Do not resort to gluttony to the extent that it is poured out of your
+mouth,
+Nor eat too little so that you lack the needed energy.
+A true walker is not the one who speeds up at one moment and gets tired
+the other moment;
+Rather, a good walker is the one who goes slowly but steadily.
+Imam ‘Ali (as) in his letter emphasizes:
 
 <blockquote dir="rtl">
   <p>
@@ -896,7 +896,7 @@ not establish a credible relationship. For this reason God did not
 consider Noah's son as one of his family since his ideas were different
 from those of his father.
 
-**  
+**
 **
 
 "إِنَّهُ لَيْسَ مِنْ أَهْلِكَ"
@@ -929,13 +929,13 @@ and in practice they do not look like the Prophet (S) or his household.
 They are expelled from the Muslim ranks, however. Examples are the
 following:
 
-**a)** The Great Prophet (S) says:  
-**  
+**a)** The Great Prophet (S) says:
+**
 **
 
 "مَن غَشَّ مُسلِمَاً فَلَيس منّا"
 
-  
+
 *“He who deceives a Muslim is not of us.”*
 **b)** Imam Sadiq (as) says:
 
@@ -1122,8 +1122,8 @@ and fantasy, God's religion and his Commandments are true and not
 satanic and absurd concepts. Thus, if anybody goes the right path in
 life, all the world rise in his support and will help him and will make
 him prosper. On the contrary, if anybody goes the opposite direction of
-the flowing river he will meet obstacles and will get destroyed.  
- This is an issue which is confirmed by both science and experience and
+the flowing river he will meet obstacles and will get destroyed.
+This is an issue which is confirmed by both science and experience and
 by the Book (Qur’an), Traditions, and the lives of the Prophets and
 God's men.
 
@@ -1237,20 +1237,20 @@ On the basis of this issue, Imam ‘Ali (as) in his letter says:
 
 This is because this world, which is based on truth and justice,
 predisposes us to go the right path. Or else encountering hurdles and
-hardships is inevitable.  
- The result is one's destruction. Baba Tahir Oryan, the Iranian poet,
-writes:  
- Don't engage in a work which entails hurdles,  
- And because of it the world looks a place of torture;  
- This is because after you, the readers will read your account,  
- And you'll become ashamed when they read yours.
+hardships is inevitable.
+The result is one's destruction. Baba Tahir Oryan, the Iranian poet,
+writes:
+Don't engage in a work which entails hurdles,
+And because of it the world looks a place of torture;
+This is because after you, the readers will read your account,
+And you'll become ashamed when they read yours.
 
 ### 14. Appreciation And Demanding In Accordance With One's Capabilities Are Two Potent Agents Of Success And Eternity:
 
 There are two factors which determine one's success in life and his
 freedom. The first one is one's evaluation to find out his real position
-in the community and his self-esteem.  
- Second, upon having evaluated himself and having found his real status,
+in the community and his self-esteem.
+Second, upon having evaluated himself and having found his real status,
 he should try to accept responsibilities based on his innate capacities
 and not to exceed his limits: for instance, if he is not a philosopher,
 he should not pretend to be able to solve the problems of creation, or
@@ -1346,8 +1346,8 @@ belief (the unity of Allah and the prophethood of the Muhammad (as)),
 for it is the original* *nature (on which Allah has created mankind),
 the establishment of prayer for it is (the basis of) religion, giving
 the Zakat for it is an obligatory duty, fasting in the month of Ramadan
-for it is a shield from Allah’s punishment, Hajj of the House (of Allah)
-and its ‘Umrah, for they both repel poverty and wash away sins,
+for it is a* *shield from Allah’s punishment, Hajj of the House (of
+Allah) and its ‘Umrah, for they both repel poverty and wash away sins,
 establishing the ties of kinship for it increases wealth and defers
 death, giving charity secretly for it effaces sins, giving charity
 openly for it repels an evil death, and good deeds for they protect from
@@ -1475,17 +1475,17 @@ circumstances and not be full of sorrows.
 
 ### 18. Not Every Hidden Defect Becomes Apparent Nor Is Every Opportunity Seized:
 
-For this sentence of Imam ‘Ali's there are two interpretations:  
+For this sentence of Imam ‘Ali's there are two interpretations:
 **a)** Since not every hidden defect is revealed and not every
 opportunity is attainable, we should not be sorry for people's hidden
 defects not having been revealed; neither should we be sorry for not
 having taken the lost chances. This is because the option is not always
-at our disposal.  
+at our disposal.
 **b)** Since this is the case, we should never try to reveal people's
 hidden defects; rather, we should always try to keep them hidden because
 Allah loves people's secrets not to be revealed. And we should not miss
-our chances because we might not get them any more.[^58]  
- Although both interpretations are possible, the second one is more
+our chances because we might not get them any more.[^58]
+Although both interpretations are possible, the second one is more
 inclusive.
 
 ### 19. Sometimes a person possessing sight misses his objective, while a blind person attains the right path.
@@ -1494,8 +1494,8 @@ It is assumed that reasoning and sight lead to realism and blindness and
 ignorance deprives one of the comprehension of the truth. But this is
 not always true. Sometimes a wise and seeing man might not be able to
 recognize the truth but an ignorant and blind person reaches his goal.
-It is said:  
- "A good trained horse sometimes trots and a sword might be blunt." It
+It is said:
+"A good trained horse sometimes trots and a sword might be blunt." It
 is also said: “The arrow hit the target in the darkness”.
 
 Imam ‘Ali (as) wants to generalize this fact that we should not
@@ -1682,11 +1682,11 @@ It is now clear because cutting off relations with an ignorant person
 and establishing relations with a wise one makes a man safe from
 subsequent calamities.
 
-An Iranian Poet says:  
- It is good to be a friend of the good,  
- The wise enemy is better than a foolish friend;  
- A wise enemy makes you flourish, but,  
- An unwise friend will destroy you.
+An Iranian Poet says:
+It is good to be a friend of the good,
+The wise enemy is better than a foolish friend;
+A wise enemy makes you flourish, but,
+An unwise friend will destroy you.
 
 ### 22. Do Not Disregard The Deception Of Time:
 
@@ -1737,34 +1737,34 @@ children, I am ready to give you all my wealth." The vizier’s son is
 reported to have said: "I should live unknown, because if they know me
 they might assassinate me."[^71]
 
-The poet says:  
- Since the world does not turn in anybody’s favor,  
- Suppose the sun were yours and the moon mine;  
- A partridge told a nightingale that the spring is not for ever,  
- Why are you happy or sad, flowers be yours and the herbs be mine,  
- There is not trace of either Kyani’s or Sassanid’s crown  
- What are you complaining of, Afsar, let the crown be yours and the hat
-mine.  
- Parvin E’tesami, the Iranian poetess says:  
- Many a harvest of hopes in an instant,  
- May change into ash by the burning lightning;  
- Do not rely on the victorious star,  
- Don’t feel secure against the conspiracy of the time.  
- Another poet says:  
- My dear! Think about the ups and downs of days,  
- When affluent, think about the days you lack everything;  
- A breeze may disturb your book of Time,  
- Think about the leaf of your time book being turned over.
+The poet says:
+Since the world does not turn in anybody’s favor,
+Suppose the sun were yours and the moon mine;
+A partridge told a nightingale that the spring is not for ever,
+Why are you happy or sad, flowers be yours and the herbs be mine,
+There is not trace of either Kyani’s or Sassanid’s crown
+What are you complaining of, Afsar, let the crown be yours and the hat
+mine.
+Parvin E’tesami, the Iranian poetess says:
+Many a harvest of hopes in an instant,
+May change into ash by the burning lightning;
+Do not rely on the victorious star,
+Don’t feel secure against the conspiracy of the time.
+Another poet says:
+My dear! Think about the ups and downs of days,
+When affluent, think about the days you lack everything;
+A breeze may disturb your book of Time,
+Think about the leaf of your time book being turned over.
 
 It is on the basis of this observation that Imam ‘Ali (as) in his letter
 writes:
 
-**  
+**
 **
 
 "مَن آمَنَ الزَّمانَ خَانَه
 
-**  
+**
 **
 "
 
@@ -1796,8 +1796,8 @@ not worth while considering and it is in contrast with human virtues.
 Magnifying time causes a man to perform actions which would bring about
 God’s anger. It is for this reason that in the instructions of the
 prophets and God’s men the world and its manifestations are
-humiliated.  
- Imam ‘Ali (as) says:
+humiliated.
+Imam ‘Ali (as) says:
 
 <blockquote dir="rtl">
   <p>
@@ -1810,8 +1810,8 @@ humiliated.
 view than a pig’s bone in the hand of a leper."*[^73]
 
 Imam ‘Ali (as) elsewhere considers this world more worthless than mucus
-from a sheep’s nose.  
- Imam ‘Ali (as) considers this world of less value than a chewed leaf in
+from a sheep’s nose.
+Imam ‘Ali (as) considers this world of less value than a chewed leaf in
 the mouth of a grasshopper:
 
 <blockquote dir="rtl">
@@ -1847,9 +1847,9 @@ have forgotten that such is the nature of life in this world. They
 should not get hopeless and should first of all continue with their
 trial and stick to the maxim:
 
-Said the Prophet if you knock at a door,  
- Ultimately there is some one who will answer it.  
- Secondly, perhaps at that moment it was not to his best interest to
+Said the Prophet if you knock at a door,
+Ultimately there is some one who will answer it.
+Secondly, perhaps at that moment it was not to his best interest to
 have his desires fulfilled. It is for this reason that Imam ‘Ali (as) in
 his book emphasizes:
 
@@ -2111,8 +2111,8 @@ On the basis of this issue, Imam ‘Ali (as) in his letter emphasizes:
 </blockquote>
 
 " *Beware of uttering speech that causes laughter even though you report
-it from someone else”.*  
- Avoid meaningless sentences and jokes, even if you report them from the
+it from someone else”.*
+Avoid meaningless sentences and jokes, even if you report them from the
 others.[^89]
 
 [^1]: . Nahj al-Balaghah, Sermon 91.

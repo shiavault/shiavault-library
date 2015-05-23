@@ -595,8 +595,8 @@ this), Isma'il said to her: 'That was Ibrahim.'' *”*(*Majma'u 'l-bayan*
 )
 
 **The author says:** al-Qummi has narrated in his *at-Tafsir a* nearly
-similar tradition.  
- as-Sadiq (a.s.) said: “Verily, Ibrahim settled in a valley of Syria.
+similar tradition.
+as-Sadiq (a.s.) said: “Verily, Ibrahim settled in a valley of Syria.
 When he got his son Isma'il from Hajar, Sarah was extreme­ly grieved
 because she hereself had no child. And she used to hurt Ibrahim and make
 him unhappy with respect to Hajar.
@@ -724,8 +724,8 @@ Allah took that dome up; and its site was not submerged, that is why the
 Ka'bah is called the Ancient House.
 
 Other traditions say that Allah sent the foundation of the House down
-from the Garden.  
- Yet others say that the Black Stone came down from the Garden - and it
+from the Garden.
+Yet others say that the Black Stone came down from the Garden - and it
 was whiter than snow - then it turned black when it was touched by the
 unbelievers.
 

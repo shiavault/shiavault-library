@@ -1,0 +1,47 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/role-ahl-al-bayt-building-virtuous-community-book-7-muhammad-baqir-al-hakim
+author: Ayatullah Sayyid Muhammad Baqir Al-Hakim
+publisher: ABWA Publishing and Printing Center
+translator: Badr Shahin
+title: 'The Role of the Ahl al-Bayt in Building the Virtuous Community Book Seven:
+  The Ritual System of the Virtuous Community'
+slug: the-role-of-the-ahl-al-bayt-in-building-the-virtuous-community-book-seven-the-ritual-system-of-the-virtuous-community
+uuid: f23be987-3be3-41b2-a8b3-13d94d24f620
+description: |
+  An elaborate thesis on how the purified Ahlul Bayt played their role in
+  the post Prophetic era in building a virtuous Community. The series is
+  comprised of 8 volume set. vol. 1 "Goals and Characteristics", Vol. 2
+  "General rules and Fundamentals" vol. 3 "General System of the virtuous
+  Community" vol. 4 " The Security System of the virtuous Community" vol.
+  5 " The Economic System of the virtuous Community" vol. 6 " The System
+  of Social Relations of the virtuous Community" vol. 7 " The Ritual
+  System of the virtuous Community" vol. 8 "The System of Devotional acts
+  of the virtuous Community"
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/role-ahl-al-bayt-building-virtuous-community-book-7-muhammad-baqir-al-hakim/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 15c6bc0b-32a6-4d4f-93c5-71a0fc305112
+- source: :alislam
+  source_url: http://www.al-islam.org/role-ahl-al-bayt-building-virtuous-community-book-7-muhammad-baqir-al-hakim/prelude
+  title: Prelude
+  slug: 2-prelude
+  uuid: b2fa2532-f05d-4022-b4bb-ce6ad3648670
+- source: :alislam
+  source_url: http://www.al-islam.org/role-ahl-al-bayt-building-virtuous-community-book-7-muhammad-baqir-al-hakim/chapter-1-rituals-ahl-al
+  title: 'Chapter 1: Rituals of The Ahl Al-Bayt'
+  slug: 3-chapter-1-rituals-of-the-ahl-al-bayt
+  uuid: 47b49ace-e22d-4c50-804d-a3709b40a8c1
+- source: :alislam
+  source_url: http://www.al-islam.org/role-ahl-al-bayt-building-virtuous-community-book-7-muhammad-baqir-al-hakim/chapter-2-general
+  title: 'Chapter 2: The General Rituals Of Islam Rituals Of Specific Days And Nights'
+  slug: 4-chapter-2-the-general-rituals-of-islam-rituals-of-specific-days-and-nights
+  uuid: 9e784441-716c-463f-97d8-d7fd85888261
+- source: :alislam
+  source_url: http://www.al-islam.org/role-ahl-al-bayt-building-virtuous-community-book-7-muhammad-baqir-al-hakim/chapter-3-mosques-and
+  title: 'Chapter 3: Mosques And Holy Places'
+  slug: 5-chapter-3-mosques-and-holy-places
+  uuid: e36ee2c2-836a-42e8-b133-e5895691a364
+---

@@ -98,13 +98,13 @@ Palaces and the dirty organization of Uthman and announcing in public.
 
 ***Those who hoard up gold and silver and do not spend it for the cause
 of Allah, should know that their recompense will be a painful
-torment.*** **(Surah al-Tawbah, 9: 34) **  
-    
- “O Mu 'awiyah! If you are constructing this palace with your own money
+torment.*** **(Surah al-Tawbah, 9: 34) **
+
+“O Mu 'awiyah! If you are constructing this palace with your own money
 it is extravagance, and, if you are constructing it with the public
-funds, it is misappropriation".  
- “O Uthman! The poor have been made poorer by you and the rich have been
-made richer by you".  
- Publishers
+funds, it is misappropriation".
+“O Uthman! The poor have been made poorer by you and the rich have been
+made richer by you".
+Publishers
 
 

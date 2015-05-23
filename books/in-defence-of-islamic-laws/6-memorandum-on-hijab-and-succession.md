@@ -124,8 +124,8 @@ from the West is good for us, while our own values are "barbaric."?
 10. In view of the above facts, we humbly request Your Excellency to
 direct the Ministry of Education to prescribe such a uniform for school
 girls as covers their heads and whole body, leaving open their faces and
-hands. It may be simplified to consist of:  
- scarf, frock, trousers and socks.
+hands. It may be simplified to consist of:
+scarf, frock, trousers and socks.
 
 We believe that it will be a more dignified uniform, and will even allow
 the girls to participate in athletics and sports freely without fear of

@@ -55,26 +55,26 @@ earthquakes, famine, disease and harmful and ugly creatures was Ahriman
 or Devil.[^1]
 
 Allamah Hilli, in his commentary on “Tajrid”, talks about the ideology
-of the magi (Plural of magus) in the following way:  
- "The magi believe that good stems from God and evil stems from the
+of the magi (Plural of magus) in the following way:
+"The magi believe that good stems from God and evil stems from the
 Satan. This is because God is the Absolute good and the doer of evil
 should be vicious".
 
 But as it is proven, anything which exists in this world is either the
 absolute good or its goodness is more than its badness. This is because
-the absolute evil does not exist. Mawlawi has said:  
- Thus the absolute evil does not exist,  
- Know that evil is relative;  
- There is no poison or sugar,  
- Which is not related to the other;  
- One is free, the other is fettered,  
- One is poison, the other one is sugar;  
- The snake poison is the life for the snake,  
- But its relation to man is that of death.[^2]
+the absolute evil does not exist. Mawlawi has said:
+Thus the absolute evil does not exist,
+Know that evil is relative;
+There is no poison or sugar,
+Which is not related to the other;
+One is free, the other is fettered,
+One is poison, the other one is sugar;
+The snake poison is the life for the snake,
+But its relation to man is that of death.[^2]
 
 Thus, the absolute good is in harmony with God, and God is its creator;
-but absolute evil does not exist.  
- As we saw before, Imam ‘Ali (as) said, "the Owner of death is the Owner
+but absolute evil does not exist.
+As we saw before, Imam ‘Ali (as) said, "the Owner of death is the Owner
 of life as well; the Creator is also the One Who causes our death; and
 the Destroyer is the same as the Restorer (to life), and finally the One
 who afflicts is the same as the One Who grants soundness." Some of these
@@ -130,43 +130,43 @@ distress.
 
 Mawlawi, in different places of Mathnawi, has explained this fact
 through interesting allegories. One of these parables is the story of
-prison and Joseph's well:  
- Although they ground the pearl in the mortar,  
- It enlightened the eyes and cured the calamity;  
- They put a wheat seed under the ground,  
- Then they harvested a lot of clusters;  
- Then they ground it in the mill,  
- Its value and its product (bread) became precious;  
- Then they ground the bread under the teeth,  
- It turned into wisdom, soul, and cognition;  
- The soul became enchanted in love,  
- Then the harvester came to harvest again.  
- To elaborate on this issue, Mawlawi tells of an animal which becomes
+prison and Joseph's well:
+Although they ground the pearl in the mortar,
+It enlightened the eyes and cured the calamity;
+They put a wheat seed under the ground,
+Then they harvested a lot of clusters;
+Then they ground it in the mill,
+Its value and its product (bread) became precious;
+Then they ground the bread under the teeth,
+It turned into wisdom, soul, and cognition;
+The soul became enchanted in love,
+Then the harvester came to harvest again.
+To elaborate on this issue, Mawlawi tells of an animal which becomes
 fatter the more it is beaten. At the end, Mawlawi mentions the multitude
-of distresses of the believers and the Prophets:  
- There is an animal called Osqor,  
- Which becomes fatter when beaten;  
- When you beat it, it will become fatter,  
- It becomes fatter through the wounds it gets;  
- A believer's self is like Osqor,  
- Which becomes fatter through the wounds;  
- Because of this, for the Prophets,  
- There are lots of sufferings and failures.  
- Elsewhere, Mawlawi likens the effects of sufferings in the cleansing of
+of distresses of the believers and the Prophets:
+There is an animal called Osqor,
+Which becomes fatter when beaten;
+When you beat it, it will become fatter,
+It becomes fatter through the wounds it gets;
+A believer's self is like Osqor,
+Which becomes fatter through the wounds;
+Because of this, for the Prophets,
+There are lots of sufferings and failures.
+Elsewhere, Mawlawi likens the effects of sufferings in the cleansing of
 the soul to the effects of a drug used in tanning for cleansing the
-hides (skins):  
- The hide suffers the wounds of the drug,  
- Then it becomes as fresh as Adim Taefi;  
- But if you rub something else on it,  
- It would become big, ugly and bad-smelling;  
- Now man is like that hide,  
- From different moistures, it has become ugly and fat;  
- Now you should rub it hard,  
- Till it becomes clean and thin;  
- If you can't, let it be,  
- Then God will make you suffer a lot;  
- God's hurting is your cleansing,  
- His knowledge is above yours.
+hides (skins):
+The hide suffers the wounds of the drug,
+Then it becomes as fresh as Adim Taefi;
+But if you rub something else on it,
+It would become big, ugly and bad-smelling;
+Now man is like that hide,
+From different moistures, it has become ugly and fat;
+Now you should rub it hard,
+Till it becomes clean and thin;
+If you can't, let it be,
+Then God will make you suffer a lot;
+God's hurting is your cleansing,
+His knowledge is above yours.
 
 3. If You Do Not Know The Philosophy Of Something, Do Not Deny It
 -----------------------------------------------------------------
@@ -189,8 +189,8 @@ It is always possible that, on the one hand, our so-called knowledge
 might turn out to be wrong, and on the other hand, it might happen that
 others, through better instruments and means might have found the truth.
 It might happen, as well, that nobody yet has access to the right means,
-and such means might be found in the future. Thus, Avicenna has said:  
- "Whatever strange thing strikes your ears, while incisive reasoning can
+and such means might be found in the future. Thus, Avicenna has said:
+"Whatever strange thing strikes your ears, while incisive reasoning can
 not reject it, assume that it might materialize."[^5]
 
 It is for this reason that Imam ‘Ali (as) has said that whenever you are
@@ -277,8 +277,8 @@ initiates creation and resurrection, and mixes sorrow with happiness,
 ugliness with beauty, assets with miseries and has made this principle
 of juxtaposition as the basis for perfection, “you have to resort only
 to Him and devote your worship just to Him and have your love only for
-Him and fear Him solely”.  
- It is because this exclusive devotion is a sign of your gratitude and
+Him and fear Him solely”.
+It is because this exclusive devotion is a sign of your gratitude and
 of your perfect monotheistic belief, which is not given to everybody.
 God in His Qur’an has trained the Prophet in this manner:
 

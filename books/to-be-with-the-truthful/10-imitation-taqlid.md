@@ -28,14 +28,14 @@ and striving hard, spending his life in investigation and seeking
 knowledge.
 
 Ijtihād can never be acquired and attained but only by that who is lord
-of rare good fortune.  
- The Prophet (S) said:  
- “When Allah intends good for anyone, He shall make him learned in
-religion.”  
- There is no difference between this opinion of the Shi’ah and that of
+of rare good fortune.
+The Prophet (S) said:
+“When Allah intends good for anyone, He shall make him learned in
+religion.”
+There is no difference between this opinion of the Shi’ah and that of
 the Sunnah, except in respect of the condition of the mujtahid’s being
-alive.  
- But the manifest disagreement between them lies in applying taqlid. The
+alive.
+But the manifest disagreement between them lies in applying taqlid. The
 Shi’ah believe that the qualified mujtahid being the viceroy of the
 (12th) Imam (‘a) during his occultation, and he shall be the ruler and
 absolute chief, entitled to whatever be in the capacity of the Imam, in
@@ -64,8 +64,8 @@ leaders.
 And since the Sunnis believe that blessing lies in their disagreement,
 so the Māliki is entitled, for instance, to refer to Abu Hanifah when
 finding near him the solution for the problem he has, that may not be
-found near Mālik.  
- I will cite an example to demonstrate for the reader so as to be able
+found near Mālik.
+I will cite an example to demonstrate for the reader so as to be able
 to conceive the meaning.
 
 In Tunisia (during the epoch of judicial courts) there was a mature girl

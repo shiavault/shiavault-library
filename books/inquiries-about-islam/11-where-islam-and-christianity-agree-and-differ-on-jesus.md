@@ -23,32 +23,31 @@ accepted by God.’” 3:45***
 can doubt the decency and purity of Mary. She, according to the Qur'an,
 had been the most noble among the women of the nations:
 
-***“And when the angels said:*** ***‘O Mary! Certainly God has chosen
-thee and made thee pure and has preferred thee above the women of all
-nations.*** ***O Mary! Be obedient to thy Lord, prostrate thyself and
-bow with those who bow (in worship).’”*** ***3:42-43***
+***“And when the angels said: ‘O Mary! Certainly God has chosen thee and
+made thee pure and has preferred thee above the women of all nations. O
+Mary! Be obedient to thy Lord, prostrate thyself and bow with those who
+bow (in worship).’” 3:42-43***
 
 3. Islam declares that Jesus was miraculously born from a virgin mother
 with no father. From the Holy Qur'an:
 
 ***“And mention Mary in the book. When she withdrew to a place east of
 her family. She screened herself from them; then We sent to her Our
-angel, and he appeared to her as a man in all respects. She said:***
-***‘I seek refuge in God against you if you are righteous.’*** ***He
-said:*** ***‘I am only a Messenger of Thy Lord to grant to you a pure
-boy.’*** ***She said:*** ***‘How can I have a son, and no mortal has yet
-touched me, nor have I been unchaste?’*** ***He said:*** ***‘So (it will
-be).*** ***Thy Lord says:*** ***‘It is easy for Me; and that We may make
-him a sign to men and a mercy from Us. And it is a matter decreed.’’***
-***Then she conceived him; and withdrew with him to a remote place. And
-the throes of childbirth drove her to the trunk of the palm-tree. She
-said:*** ***‘Oh, would that I had died*** ***before this, and had been a
-thing quite forgotten.’*** ***So a voice came to her from beneath
-her:*** ***‘Grieve not, surely thy Lord has provided a stream beneath
-thee. And shake towards thee the trunk of the palm-tree, it will drop on
-thee fresh ripe dates. So eat and drink and be pleased. Then if thou
+angel, and he appeared to her as a man in all respects. She said: ‘I
+seek refuge in God against you if you are righteous.’ He said: ‘I am
+only a Messenger of Thy Lord to grant to you a pure boy.’ She said: ‘How
+can I have a son, and no mortal has yet touched me, nor have I been
+unchaste?’ He said: ‘So (it will be). Thy Lord says: ‘It is easy for Me;
+and that We may make him a sign to men and a mercy from Us. And it is a
+matter decreed.’’ Then she conceived him; and withdrew with him to a
+remote place. And the throes of childbirth drove her to the trunk of the
+palm-tree. She said: ‘Oh, would that I had died before this, and had
+been a thing quite forgotten.’ So a voice came to her from beneath her:
+‘Grieve not, surely thy Lord has provided a stream beneath thee. And
+shake towards thee the trunk of the palm-tree, it will drop on thee
+fresh ripe dates. So eat and drink and be pleased.*** ***Then if thou
 seest any human, say: “Surely I have vowed a fasting for the sake of the
-Beneficent, so I will not speak to any human today.”’*** ***19:16-26***
+Beneficent, so I will not speak to any human today.”’ 19:16-26***
 
 4. The Qur'an attributes to Jesus many of the miracles which are
 mentioned in the Gospel. According to the Holy Qur'an, Jesus was
@@ -56,29 +55,27 @@ empowered by God to cure the sick, revive the dead, and make the blind
 see:
 
 ***“…and He (God) will make him (Jesus) a messenger to the children of
-Israel (saying):*** ***‘I have come to you with a sign from your Lord
-that I fashion for you, out of clay, the likeness of a bird, and I
-breathe into it, and it becomes a bird by permission of God. I heal him
-who was born blind, and the leper, and I raise the dead by permission of
-God. And I announce unto you what ye eat and what ye store in your
-houses.*** ***Lo! Herein verily is a sign for you, if ye are to be
-believers.’” 3:49***
+Israel (saying): ‘I have come to you with a sign from your Lord that I
+fashion for you, out of clay, the likeness of a bird, and I breathe into
+it, and it becomes a bird by permission of God. I heal him who was born
+blind, and the leper, and I raise the dead by permission of God. And I
+announce unto you what ye eat and what ye store in your houses. Lo!
+Herein verily is a sign for you, if ye are to be believers.’” 3:49***
 
 In addition to this, the Holy Qur'an ascribes to Jesus a miracle that is
 not recorded in the gospels: Jesus spoke clearly while he was in the
 cradle:
 
-***“Then she came to her people with him, carrying him. They said:***
-***‘O Mary, thou hast indeed brought a strange thing. O sister of Aaron,
-thy father was not a wicked man, nor was thy mother an unchaste
-woman.’*** ***But she pointed to him. They said:*** ***‘How should we
-speak to a one who is a child in the cradle?’*** ***He said:*** ***‘I am
-indeed a servant of God. He has given me the Book and made me a prophet;
-and He has made me blessed wherever I may be, and He has enjoined on me
-prayer and purity so long as I live. And to be kind to my mother; and He
-has not made me insolent, un-blessed. And Peace be on me the day I was
-born, and the day I die, and the day I am raised to life (in the
-Hereafter).’” 19:27-33***
+***“Then she came to her people with him, carrying him. They said: ‘O
+Mary, thou hast indeed brought a strange thing. O sister of Aaron, thy
+father was not a wicked man, nor was thy mother an unchaste woman.’ But
+she pointed to him. They said: ‘How should we speak to a one who is a
+child in the cradle?’ He said: ‘I am indeed a servant of God. He has
+given me the Book and made me a prophet; and He has made me blessed
+wherever I may be, and He has enjoined on me prayer and purity so long
+as I live. And to be kind to my mother; and He has not made me insolent,
+un-blessed. And Peace be on me the day I was born, and the day I die,
+and the day I am raised to life (in the Hereafter).’” 19:27-33***
 
 **Wilson**: The points of agreement, by your explanations, have become
 clear. I know that the followers of various religions have differed on
@@ -131,12 +128,12 @@ all things.” 6:100-102***
 3. Islam denies the crucifixion of Jesus. Jesus did not die on the
 cross. The Holy Qur'an is clear on this point.
 
-***“And because of their saying:*** ***‘We slew the Messiah Jesus Son of
-Mary, the Messenger of God.’*** ***They slew him not nor crucified him,
-but appeared so unto them; and lo! Those who disagree concerning it are
-in doubt thereof; they have no knowledge thereof but the pursuit of a
-conjecture; for certain they slew him not, but God took him up to
-Himself. God is Ever-Mighty, Wise.” 4:157-158***
+***“And because of their saying: ‘We slew the Messiah Jesus Son of Mary,
+the Messenger of God.’ They slew him not nor crucified him, but appeared
+so unto them; and lo! Those who disagree concerning it are in doubt
+thereof; they have no knowledge thereof but the pursuit of a conjecture;
+for certain they slew him not, but God took him up to Himself. God is
+Ever-Mighty, Wise.” 4:157-158***
 
 **Wilson**: This view is in a sharp contrast with the statements of all
 the gospels. The four gospels clearly state that Jesus died on the

@@ -24,13 +24,13 @@ on their Lord. (Sura An-Nahl, 16:99)***
 Tawakkul or Trust in Allah (S.w.T.) Essential Part of Practicing Monotheism
 ---------------------------------------------------------------------------
 
-   
- The topic of *Tawakkul* is one of the most important of the aspects of
+
+The topic of *Tawakkul* is one of the most important of the aspects of
 the religion of Islam because the essential part of monotheism is
 absolute trust in Allah (S.w.T.). In other words a Muslim is one who
 seeks succor only from Allah (S.w.T.) for deriving benefits and warding
 off of losses. In fact this is the meaning and purport of *la ilaaha
-illallah* *(S.w.T.) wa laa hawla wa laa quwwata illa billaahil ‘Alliyil
+illallah (S.w.T.) wa laa hawla wa laa quwwata illa billaahil ‘Alliyil
 Adheem.* *Hawqala* or saying *laa hawla wa laa quwwata illa billah* is
 the key to the Heaven and the practical expression of monotheism by the
 believer. Thus it is the expression by the person that he is not an
@@ -43,8 +43,8 @@ single word, “*Kun”,* became the cause of creation of the creatures in
 the Universe. He should also have belief in the fact that the very
 existence of the universe is the miraculous phenomenon of the *Musabbib
 al-Haqeeqi* or the real doer of things and the absolute Creator, that is
-Allah (S.w.T.) and not something that evolved by itself.  
-  
+Allah (S.w.T.) and not something that evolved by itself.
+
 
 Dependence on Allah (S.w.T.) for the Success of the Tasks That One Strives to Do
 --------------------------------------------------------------------------------
@@ -65,8 +65,8 @@ prohibited things. When a person’s attorney wants him to bring all his
 documents to the court, can he refuse to do that? When he has thought
 that he is incapable of handling his case himself, he has retained the
 attorney. Then he has to trust him and proceed according to the advice
-tendered by him.  
-  
+tendered by him.
+
 
 Essential to Have a Wakil or Attorney
 -------------------------------------
@@ -74,24 +74,24 @@ Essential to Have a Wakil or Attorney
 O man! You are helpless and cannot be successful in this world nor in
 the hereafter on your own! If you have trust in a power, then in times
 of trouble you will not be shaky because your Wakil is there to help
-you.  
-    
- Don’t you recite in a supplication after your daily prayers (*Ta’qeeb*)
+you.
+
+Don’t you recite in a supplication after your daily prayers (*Ta’qeeb*)
 the following words: “*Tawakkaltu ‘alal hayyil ladhi la yamoot” (I trust
 my affairs to the Ever Living and Undying Allah).*
 
 He is the Greatest Wakil and the best help - *Ni’m al-Wakil, ni’m
-al-Mawla wa ni’m an-Naseer.*  
+al-Mawla wa ni’m an-Naseer.*
 * *
 
 Satan Runs Away From The Mutawakkil or the One Resigned to the Will of Allah (S.w.T.)
 -------------------------------------------------------------------------------------
 
-   
- It has been narrated that when a person stirs out of his house in the
+
+It has been narrated that when a person stirs out of his house in the
 morning, the satans will be waiting for him at the threshold. But when
 he steps out of the house and says, “*Aamantu billahi tawakkaltu ‘alal
-laahi* *–* *I believe in Allah and I place my trust on Allah.”* Then the
+laahi – I believe in Allah and I place my trust on Allah.”* Then the
 satans will slink away.
 
 These words can be said in any language, it doesn’t matter. The words
@@ -99,8 +99,8 @@ are a support for the heart and surety for the life of the person. It is
 a fact that if you trust your Wakil, He is Omnipotent and can keep away
 from you all difficulties and hardships. He will help you get all the
 profits that He deems are legitimate. There is none more generous and
-powerful than Allah (S.w.T.).  
-  
+powerful than Allah (S.w.T.).
+
 
 Ibn Zubair’s Rebellion After the Event of Karbala
 -------------------------------------------------
@@ -121,17 +121,17 @@ his strength.
 The accursed Yazid, who was looking for an opportunity that some one
 raised his voice to give a justification for his harassing the people
 with an iron fist. Abdullah bin Zubair gave him this opportunity by
-claiming control over the Hijaz.  
-    
- Yazid then sent Muslim bin Uqba and Haseen bin Namīr with a huge force
+claiming control over the Hijaz.
+
+Yazid then sent Muslim bin Uqba and Haseen bin Namīr with a huge force
 towards Hijaz and asked them to go via Madina al-Munawwara and make a
 general massacre there to the maximum possible extent.
 
 Imam Zayn Al-’Abidin and a Saintly Personality
 ----------------------------------------------
 
-   
- On one hand there was the scheming of Ibn Zubair and on the other
+
+On one hand there was the scheming of Ibn Zubair and on the other
 Yazid’s hordes. It was only after a few days of the tragic events of
 Karbala that Sayyid as-Sajjad (a.s.) had returned home to Madina. He was
 very worried of the developments and expressed his fears to Abu Hamza on
@@ -170,14 +170,14 @@ The Imam (a.s.) said, “No!”
 And the person disappeared from the view!
 
 About this event Allama Majlisi says, “It was either a saintly
-personality, an angel or Hadrat Khidr (a.s.)”  
-  
+personality, an angel or Hadrat Khidr (a.s.)”
+
 
 Speaking for the Tranquility of the Heart
 -----------------------------------------
 
-   
- Allama Majlisi says that such conversations are in no way a remark on
+
+Allama Majlisi says that such conversations are in no way a remark on
 the high status of the Imams (a.s.) but are manifestations of
 *Tadhakkur* and spiritual reminder of Allah (S.w.T.)’s Wish to put the
 Imam (a.s.)’s heart at ease.
@@ -194,17 +194,17 @@ says something and an old and learned person draws benefit from the
 Imam Husayn (a.s.) Talks to ‘Ali Akbar
 --------------------------------------
 
-   
- You must have heard that Hadrat Imam Husayn (a.s.), at one of the
+
+You must have heard that Hadrat Imam Husayn (a.s.), at one of the
 stages on the journey to Karbala woke up uneasily from his sleep. ‘Ali
 Akbar said, “O father! What is the reason that you are disturbed?” The
 Imam (a.s.) replied, “I heard a herald announce that this group is
 advancing towards their death! This journey is for martyrdom and
 killings.” ‘Ali Akbar asked, “O father! Are we on the side of
 righteousness?” The Imam (a.s.) replied, “Definitely! We are on the side
-of the right!”  
-    
- ‘Ali Akbar rejoined, “If we are the travelers on the path of
+of the right!”
+
+‘Ali Akbar rejoined, “If we are the travelers on the path of
 righteousness, then how good it will be that we sacrifice our lives in
 the cause of Truth!”
 
@@ -212,6 +212,6 @@ Such words of wisdom from the mouth of the young son soothed the nerves
 of the Imam (a.s.) and he prayed to Allah (S.w.T.) to enable the youth
 to be Righteous!
 
- 
+
 
 

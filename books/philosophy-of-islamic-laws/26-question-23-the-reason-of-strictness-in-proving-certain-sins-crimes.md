@@ -51,8 +51,8 @@ prescribed to effectively prevent crimes and sins and along with that it
 does not entangle too many people in its grip. As a result death penalty
 may be given to only one or a few persons, but it causes great effect in
 the minds of other potential criminals and this fear is enough that one
-day they might also get caught.  
-    
-  
+day they might also get caught.
+
+
 
 

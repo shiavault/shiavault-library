@@ -30,30 +30,30 @@ after me.”[^1]
 
 This hadith is sahih (correct) and authentic, and was reported by both
 the sects Sunnah and Shi‘ah. It was narrated in the Musnads and Sahihs
-of Ahl al-Sunnah, through more than thirty Companions.  
- Since I, as usual, never argue by the books of the Shi‘ah or sayings of
+of Ahl al-Sunnah, through more than thirty Companions.
+Since I, as usual, never argue by the books of the Shi‘ah or sayings of
 their ‘ulamā’, who have reported the Hadith al-Thaqalayn, acknowledging
 its veracity, so that the discussion be objective, fair and square
 (though fairness and equity necessitating that a reference should be
 made too to the Shi‘ah). Hereinafter a brief list of the narrators of
 this hadith from among the Sunni ‘ulamā’.
 
-1. Sahih Muslim: "kitāb fadā’il ‘Ali ibn Abi Tālib". Vol. VII P.122  
- 2. Sahih al-Tirmidhi, Vol.V.P.328  
- 3. Al-’Imām al-Nasā’i in his book al-Khasā’is. p.21  
- 4. Al-’Imām Ahmād ibn Hanbal. in his Musnad, Vol.III,P.17  
- 5. Mustadrak al-Hākim, vol.III, P.109  
- 6. Kanz al-’ummāl, vol.I, p.154  
- 7. Ibn Sa’d in al-Tabaqāt al-kubrā, vol. II, p.194  
- 8. Ibn al-’Athir in Jāmi‘ al-’usul, vol.I, p.187  
- 9. Al-Suyuti in al-Jāmi‘ al-saghir, vol.I, p.353  
- 10. Al-Haythami in Majma‘ al-Zawā’id, vol.IX, p.163  
- 11. Al-Nabhāni in al-Fath al-kabir, vol.I, p.451  
- 12. Ibn al-’Athir in Usd al-ghābah fi ma‘rifat al-Sahābah, vol.II,
-p.12  
- 13. Ta’rikh Ibn ‘Asākir vol.V, p.436  
- 14. Tafsir Ibn Kathir, vol.IV,p.113  
- 15. Al-Tāj al-Jāmi‘ li al-’usul, vol.III,p.308
+1. Sahih Muslim: "kitāb fadā’il ‘Ali ibn Abi Tālib". Vol. VII P.122
+2. Sahih al-Tirmidhi, Vol.V.P.328
+3. Al-’Imām al-Nasā’i in his book al-Khasā’is. p.21
+4. Al-’Imām Ahmād ibn Hanbal. in his Musnad, Vol.III,P.17
+5. Mustadrak al-Hākim, vol.III, P.109
+6. Kanz al-’ummāl, vol.I, p.154
+7. Ibn Sa’d in al-Tabaqāt al-kubrā, vol. II, p.194
+8. Ibn al-’Athir in Jāmi‘ al-’usul, vol.I, p.187
+9. Al-Suyuti in al-Jāmi‘ al-saghir, vol.I, p.353
+10. Al-Haythami in Majma‘ al-Zawā’id, vol.IX, p.163
+11. Al-Nabhāni in al-Fath al-kabir, vol.I, p.451
+12. Ibn al-’Athir in Usd al-ghābah fi ma‘rifat al-Sahābah, vol.II,
+p.12
+13. Ta’rikh Ibn ‘Asākir vol.V, p.436
+14. Tafsir Ibn Kathir, vol.IV,p.113
+15. Al-Tāj al-Jāmi‘ li al-’usul, vol.III,p.308
 
 Added to these, Ibn Hajar who mentioned it in his book al-Sawā‘iq
 al-muhriqah, acknowledging its veracity, beside al-Dhahabi in his
@@ -84,8 +84,8 @@ titled “Kitāb al-’i‘tisām bi al-Kitāb wa al-Sunnah,”[^2] but you neve
 find such a hadith at all.
 
 That which can be found in Sahih al-Bukhāri and the aforementioned books
-being a hadith saying:  
- “Talhah ibn Musarraf is reported to have said: I asked ‘Abd Allāh ibn
+being a hadith saying:
+“Talhah ibn Musarraf is reported to have said: I asked ‘Abd Allāh ibn
 Ubayy Awfā (may God be pleased with them): Has the Prophet (may God’s
 peace and benediction be upon him and his Progeny) committed to anyone’s
 charge? He replied: No. I said then: So how was bequest (wasiyyah)
@@ -145,11 +145,11 @@ Messenger of Allah (S).
 during the first days of his caliphate, was his decision to fight those
 refusing to pay the zakāt (poor-due), despite opposition on the part of
 ‘Umar ibn al-Khattāb, beside quoting the Messenger’s hadith (as an
-evidence):  
- "Whoever says, there is no god but Allah and Muhammad is the Messenger
+evidence):
+"Whoever says, there is no god but Allah and Muhammad is the Messenger
 of Allah, his property and blood will be immune against me except when
-it is due, and his accountability is with Allah."  
- Hence, if the Messenger’s Sunnah was publicly known, it was not to be
+it is due, and his accountability is with Allah."
+Hence, if the Messenger’s Sunnah was publicly known, it was not to be
 ignored by Abu Bakr while he was supposed to be the most entitled to
 recognize it.
 
@@ -262,8 +262,8 @@ weakening the hadith, or because of interpreting and comprehending it.
 For elucidation, I supply the dear reader with some examples in this
 regard:
 
-1) Disagreement among Sahābah about Veracity or Fabrication of hadith:  
- This case has actually happened for Abu Bakr during the first days of
+1) Disagreement among Sahābah about Veracity or Fabrication of hadith:
+This case has actually happened for Abu Bakr during the first days of
 his caliphate, when Fātimah al-Zahrā’ came toward him demanding to hand
 her Fadak, which he seized from her after the demise of her father. But
 he denied her claim that her father the Messenger of Allah donated it to
@@ -413,8 +413,8 @@ opponents, to which reference was made before.
 The second reason for disagreement betwen them stems from the concept
 meant by the hadith itself, as it may be interpreted by Ahl al-Sunnah
 contrarily to the interpretation of the Shi‘ah, as in the case of the
-afore-mentioned hadith, uttered by the Prophet (S) thus:  
- "Difference of my *Ummah* is a blessing."
+afore-mentioned hadith, uttered by the Prophet (S) thus:
+"Difference of my *Ummah* is a blessing."
 
 Ahl al-Sunnah interpret it to mean that difference among the four
 schools of thought in respect of fiqhi affairs being a blessing for the
@@ -459,12 +459,12 @@ trying to deviate or go astray. And he has actually prepared for his
 educating and teaching him all kinds of knowledge, from, birth till
 attaining perfection and gaining near him a position which being the
 same as Aaron had to Moses. So he entrusted him the following mission by
-saying:  
- “I fight them regarding revelation of the Qur’ān and you fight them
+saying:
+“I fight them regarding revelation of the Qur’ān and you fight them
 regarding its interpretation.”[^19]
 
-And also his saying:  
- “O ‘Ali, you will verily demonstrate for my *Ummah* all that they
+And also his saying:
+“O ‘Ali, you will verily demonstrate for my *Ummah* all that they
 differed about after me.”[^20]
 
 So, when the Qur’ān, Allah’s noble book, requires someone to fight for
@@ -627,8 +627,8 @@ cleansing, making them to inherit the knowledge of the Book, in a way
 that they neither contradict it nor differ regarding its interpretation,
 and rather never separate from it till the Doomsday.
 
-The Messenger of Allah (S) said:  
- “I am leaving behind among you two successors the Book of Allah a rope
+The Messenger of Allah (S) said:
+“I am leaving behind among you two successors the Book of Allah a rope
 extended from the heaven to the earth, and my kindred (‘Itrah) my Ahl
 al-Bayt. They will never separate till coming unto me at the Pond
 (hawd).”[^21]

@@ -850,13 +850,13 @@ It will not be out of place to compare the beauty, glory and
 spirituality of this chapter, used in the Muslims' prayers, with the
 Lord's prayer, used by the Christians in their prayer:
 
-Our Father which art in heaven Hallowed be thy name.  
- Thy kingdom come. Thy will be done in earth as it is in heaven.  
- Give us this day our daily bread.  
- And forgive us our debts as we forgive our debtors.  
- And lead us not into temptation, but deliver us from evil:  
- For thine is the kingdom, and the power, and the glory,  
- for ever. Amen. *(Matthews 6: 9 -13)*
+Our Father which art in heaven Hallowed be thy name.
+Thy kingdom come. Thy will be done in earth as it is in heaven.
+Give us this day our daily bread.
+And forgive us our debts as we forgive our debtors.
+And lead us not into temptation, but deliver us from evil:
+For thine is the kingdom, and the power, and the glory,
+for ever. Amen. *(Matthews 6: 9 -13)*
 
 Ponder deeply on the teachings contained in these sentences, supposed to
 be of divine revelation, and see what manners of servitude does this

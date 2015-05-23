@@ -16,10 +16,10 @@ of the Imams of Ahl al-Bayt (peace be upon them), Ahl al-Sunnah wa
 al-Jamā‘ah refer too to the Prophet’s traditions, but they depend on the
 Sahābah (Companions) — without any distinction — or anyone of the four
 imāms, the leaders of the known four Islamic schools of thought, in
-reporting and exposing and interpreting the traditions.  
- Naturally, this led to the emergence of dispute and disagreement in
-opinions concerning so many Islamic — particularly fiqhi — issues.  
- And when we can clearly find difference among the four Islamic schools
+reporting and exposing and interpreting the traditions.
+Naturally, this led to the emergence of dispute and disagreement in
+opinions concerning so many Islamic — particularly fiqhi — issues.
+And when we can clearly find difference among the four Islamic schools
 of thought of Ahl al-Sunnah, it is not strange in any way to see the
 disagreement be more explicit between them and the school of Ahl al-Bayt
 (peace be upon them).
@@ -55,22 +55,22 @@ among Our servants;…” (Sura Fatir, 35:32).***
 Based on this, the Messenger of Allah (Allah’s peace and benediction be
 upon him and his Progeny) has counted them the equal of the Qur’ān, and
 the second thaql (precious asset) of which he (S) ordered the Muslims to
-get hold, when he said:  
+get hold, when he said:
 *“I am leaving behind among you two precious things. The Book of Allah
 and my kindred (‘Itrah), as long as you hold on to them you shall never
 go astray.*”[^2]
 
-In another narration reported by Muslim, he (S) said:  
- “*... The Book of Allah and my Household (Ahl al-Bayt), I urge you to
+In another narration reported by Muslim, he (S) said:
+“*... The Book of Allah and my Household (Ahl al-Bayt), I urge you to
 remember Allah regarding my Ahl al-Bayt (He repeated the last statement
 three times)*”.[^3]
 
 It is commonly known that Ahl al-Bayt (peace be upon them) were the most
 knowledgeable, piousl, godliest and best of people, in whose regard
-al-Farazdaq has said:  
- When enumerating men of piety they be their leaders,  
- Or said who are the best of people, is replied they be.  
- I cite here one example just to show the nature of association between
+al-Farazdaq has said:
+When enumerating men of piety they be their leaders,
+Or said who are the best of people, is replied they be.
+I cite here one example just to show the nature of association between
 Ahl al-Bayt (peace be upon them) and the Holy Qur’ān, in which Allah—
 the Exalted — said:
 
@@ -86,9 +86,9 @@ sworn by the Exalted and Glorious Lord, we will face this fact: When
 Allah — the Exalted — swears by the declining day, the pen, the fig and
 the olive, then the greatness of taking oath by the places of the stars
 shall be manifested due to the secrets and influence on the universe it
-implies, with Allah’s permission.  
- Confirming the oath in the negative and affirmative forms is explicitly
-observed, as after the oath the Almighty affirms by saying:  
+implies, with Allah’s permission.
+Confirming the oath in the negative and affirmative forms is explicitly
+observed, as after the oath the Almighty affirms by saying:
 ***"That (this) is a noble Qur’ān. In a Book kept hidden.”*** And what
 is hidden here means that which is internal and concealed, then Allah —
 the Mighty and Glorious — says: "***none shall touch it save the
@@ -128,8 +128,8 @@ al-Ahzab, 33:33)***
 The Almighty’s saying: "***none shall touch it save the purified
 ones***,"indicates that the Qur’ān’s reality can never be realized but
 only by the Messenger of Allah (s) and his Ahl al-Bayt (peace be upon
-them), so the Messenger (S) said in their regard:  
- *“The stars are safety for inhabitants of the earth against drowning,
+them), so the Messenger (S) said in their regard:
+*“The stars are safety for inhabitants of the earth against drowning,
 and my Ahl al-Bayt are safety for my Ummah against disagreement,
 whenever being opposed by any Arab tribe, disagreement will prevail
 amongst them, after which they will turn to be party of Iblis

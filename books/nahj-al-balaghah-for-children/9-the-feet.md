@@ -1,8 +1,8 @@
 The Feet
 ========
 
-![](/sites/default/files/feet.gif)  
- Glorified is Allah
+![](/sites/default/files/feet.gif)
+Glorified is Allah
 
 who has given **feet**
 

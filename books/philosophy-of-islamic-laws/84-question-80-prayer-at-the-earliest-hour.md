@@ -24,7 +24,7 @@ This is in no way connected to the matter of time zones etc. In other
 words it does not mean that prayers have to be performed at one single
 time. Rather it denotes the fact that all the Prayers have been
 performed at their respective earliest hours, which every person
-performs according to his time zone.  
-  
+performs according to his time zone.
+
 
 

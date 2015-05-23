@@ -1,8 +1,6 @@
 The Tenth Talk
 ==============
 
- 
-
 <blockquote dir="rtl">
   <p>
 بِسْمِ اللهِ الرَّحْمنِ الرَّحِيمِ
@@ -22,12 +20,12 @@ In the Name of Allah, the Beneficent, the Merciful
 from Satan afflicts them, they become mindful (of God and get awakened)
 then lo! They see (aright). (Sura al-A’raaf, 7:201)***
 
-* *  
- It is proved from the previous talk that the most important aspect of
+* *
+It is proved from the previous talk that the most important aspect of
 *Isti’adha* is *Taqwa* or piety. If a person is devoid of antagonism of
 Satan and doesn’t submit himself to Rahman, then he is in the trap of
-Satan and his *Isti’adha* is of no use.  
-  
+Satan and his *Isti’adha* is of no use.
+
 
 Why Isti’adha
 -------------
@@ -49,8 +47,8 @@ time in prayer and supplication to Allah (S.w.T.), should necessarily
 seek Allah (S.w.T.)’s protection against the fears and temptations of
 Satan, and his ilk, because they are always on the lookout for the
 slightest opportunity to subdue him. A *mu’min* has to exercise utmost
-care in this matter.  
-  
+care in this matter.
+
 
 Good Deeds or Guidance For Evil
 -------------------------------
@@ -68,8 +66,8 @@ narrow and one must take great care not to falter towards evil.
 Therefore the Imams (a.s.) supplicate to Allah (S.w.T.) thus, *“O
 sustainer, give me vision in the matter of Faith! That during
 performance of good deeds Satan doesn’t involve me in fears and
-misapprehensions and thus push me into the morass of evil.”*  
-  
+misapprehensions and thus push me into the morass of evil.”*
+
 
 Evil Through Good
 -----------------
@@ -98,8 +96,8 @@ mandatory duty of providing for his old parents and family and proceeds
 on the pilgrimage.
 
 Satan thus makes people overlook mandatory duties in the performance of
-the optional.  
-  
+the optional.
+
 
 Losing Interest in Prayers
 --------------------------
@@ -115,8 +113,8 @@ gets caught for making an illegal entry and is put in jail. Then he
 curses himself why his legs were not fractured to prevent him from going
 there. Imagine, how Satan tempted the person to go in a hurry for
 performance of an optional act and as a result made him lose interest in
-the pilgrimage of great felicity!  
-  
+the pilgrimage of great felicity!
+
 
 O Allah! Give Us Vision in the Matters of Faith
 -----------------------------------------------
@@ -127,9 +125,9 @@ divert them from worship of Allah (S.w.T.). May Allah (S.w.T.) give the
 vision to people that they are able to understand if the acts they are
 doing are really good or are evil acts that Satan has tempted them to
 perform. It is the common observation that an act appears good and
-harmless but in reality it turns out to be otherwise.  
- To illustrate the point a tradition is mentioned here.  
-  
+harmless but in reality it turns out to be otherwise.
+To illustrate the point a tradition is mentioned here.
+
 
 Satan Praying Suspended in the Sky
 ----------------------------------

@@ -24,7 +24,7 @@ Especially when a person prostrate on a tablet of the soil of Kerbala,
 it renews for him the remembrance of the sacrifice of Imam Husain Ibn
 Ali Ibn Abi Talib (a.s). And it invites the pure souls to follow the
 lofty exemplar and makes their feelings of sacrifice and faith
-stronger.  
-   
+stronger.
+
 
 

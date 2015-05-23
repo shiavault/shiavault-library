@@ -66,10 +66,10 @@ know-how and potentialities. As it is stated:
 
 ***“O assembly of the jinn and the men! If you are able to pass through
 the regions of the heavens and the earth, then pass through; you cannot
-pass through but with authority.”***[^5]   
-    
-    
-  
+pass through but with authority.”***[^5]
+
+
+
 
 [^1]: Surah Jathiyah 45:13
 

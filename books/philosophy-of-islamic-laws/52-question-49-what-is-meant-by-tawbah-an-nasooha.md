@@ -28,8 +28,8 @@ The servant of Allah repents on his sin and does not return to the same
 again.[^2]
 
 In another tradition from Imam Hadi (a.s.) it is related that he
-replied:  
- “Tawbah an-Nasooh” is this that while repenting for forgiveness man's
+replied:
+“Tawbah an-Nasooh” is this that while repenting for forgiveness man's
 apparent (outward behavior) should be exactly to his inner feelings
 (inner self).[^3]
 
@@ -37,8 +37,8 @@ Many other traditions are narrated on the subject and all of them
 support that “Tawbah an-Nasooh” means pure repentance in which there is
 no going to the sin again. And in which the man's apparent self and the
 inner-self should be the same. His actions should conform to his
-intentions.  
-  
+intentions.
+
 
 [^1]: Surah Tahreem 66:8
 

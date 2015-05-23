@@ -16,8 +16,8 @@ knowledge and the human capability of writing, which is the foundation
 of the world civilization. From the Holy Qur'an:
 
 ***“Read in the name of thy Lord Who creates, Who created man out of
-clay. Read and thy Lord is the Most Generous,*** ***–*** ***Who taught
-by the pen. Who taught man what he knew not.” 96:1-5***
+clay. Read and thy Lord is the Most Generous, – Who taught by the pen.
+Who taught man what he knew not.” 96:1-5***
 
 **Wilson**: How does Muhammad stand among the prophets?
 
@@ -111,8 +111,8 @@ disciples.
 
 People, in general, never were induced by those wonders to adhere to the
 heavenly teachings. When they witnessed supernatural performances, the
-majority of them called their performers magicians and impostors.  
- Had the same kind of miracles been repeated at the time of Muhammad, it
+majority of them called their performers magicians and impostors.
+Had the same kind of miracles been repeated at the time of Muhammad, it
 would not have produced better results than it did before. For this, the
 type of miracles had to be changed .
 

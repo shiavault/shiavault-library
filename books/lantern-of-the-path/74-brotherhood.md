@@ -1,8 +1,7 @@
 Brotherhood
 ===========
 
-   
- Three things are rare in every age: brotherhood in Allah; a devout,
+Three things are rare in every age: brotherhood in Allah; a devout,
 affectionate wife who helps you in Allah's faith; and a rightly guided
 son. Whoever finds these three things has obtained the good of both
 abodes and the fullest portion of this world and the next. Beware of
@@ -12,8 +11,8 @@ Allah-fearing, even to the ends of the earth, and even if you spend your
 entire life seeking them. Allah has not left anyone better than them
 after the Prophets on the face of the earth, nor has He given a bondsman
 any blessing like that of success in finding their company. Allah has
-said,  
-  
+said,
+
 
 <blockquote dir="rtl">
   <p>
@@ -25,8 +24,8 @@ said,
 ***The friends shall on that day be enemies to one another except those
 who guard [against evil].*** (43:67)
 
-   
- I believe that anyone who looks for a friend without fault in these
+
+I believe that anyone who looks for a friend without fault in these
 times will remain without a friend. Do you not see that the first mark
 of honour which Allah bestowed on His Prophets when their call to faith
 became known was a trusty friend or helper. Similarly, the most sublime

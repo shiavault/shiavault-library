@@ -206,8 +206,8 @@ them, they take this person to court and do not rest at ease until that
 person is punished.
 
 Well, if it is really true that a person has no choice or free will,
-what is all of this commotion and court and trial about?  
- At any rate, this common conscience of the intelligent beings of the
+what is all of this commotion and court and trial about?
+At any rate, this common conscience of the intelligent beings of the
 world is a living idea for the reality that human beings have accepted
 the existence of free will in the depths of their being and have always
 been loyal to that. They cannot live without the belief in free will for

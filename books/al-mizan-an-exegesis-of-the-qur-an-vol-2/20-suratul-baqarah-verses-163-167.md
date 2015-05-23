@@ -1218,8 +1218,8 @@ between the lover and the loved, there exists a positive con­nection
 between them. Now, if an effect (which has the relation of love with its
 cause) is a conscious being and has got sense and feeling, it would find
 that love within its soul - if it has a soul and independent
-existence.  
- The above discourse leads us to the following conclusions:-
+existence.
+The above discourse leads us to the following conclusions:-
 
 First: Love is a subsistent relationship, a special attraction between
 perfecting cause (or things like that) and perfection-seeking effect (or
@@ -1393,8 +1393,8 @@ thrown into perpetual punishment?
 
 Fifth Objection: It is a revenge to punish someone who dis­obeys the
 commandments of Allah. As a rule revenge is taken be-cause the unjust
-and disobedient person makes the wronged party  
- suffer some loss; and that party, if powerful enough, avenges itself to
+and disobedient person makes the wronged party
+suffer some loss; and that party, if powerful enough, avenges itself to
 make up that loss.
 
 But this rule cannot apply to Allah, because He is Self-sufficient and

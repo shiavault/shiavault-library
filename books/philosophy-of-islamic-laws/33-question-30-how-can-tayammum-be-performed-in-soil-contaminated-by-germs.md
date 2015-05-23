@@ -33,15 +33,15 @@ wipe your faces and your hands…***[^1]
 
 With regard to this religious command, the traditions of Holy Imams
 (a.s.) state that soil should be pure, clean and clear. In the book
-*Wasaelush Shia* Imam as-Sadiq (a.s.) has been quoted thus:  
- “Do not take the soil for Tayammum from such places, which are
+*Wasaelush Shia* Imam as-Sadiq (a.s.) has been quoted thus:
+“Do not take the soil for Tayammum from such places, which are
 thoroughfares, and people are passing through it.”
 
 This emphasis is there because generally the chance of such places being
 polluted is more, but those places where people do not passing through
-generally remains clean and pure.  
-    
-  
+generally remains clean and pure.
+
+
 
 [^1]: Surah Nisa 4:43
 

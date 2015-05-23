@@ -18,8 +18,8 @@ In this respect, wherever in the words of Allah plural noun is used it
 reminds us about His greatness and magnificence and we start thinking
 about those apparent and hidden powers of the universe, which are
 subordinate to Him. In this way our belief in *Tawhid* become stronger
-and our attention towards the sanctified self becomes more.  
-    
-  
+and our attention towards the sanctified self becomes more.
+
+
 
 

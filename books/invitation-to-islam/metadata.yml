@@ -1,44 +1,44 @@
 ---
 source: :alislam
-source_url: http://www.al-islam.org/invitation-to-islam-moustafa-al-qazwini
-author: Moustafa al-Qazwini
-publisher: Islamic Educational Center of Orange County
+source_url: http://www.al-islam.org/invitation-islam-sayyid-moustafa-al-qazwini
+author: Sayyid Moustafa Al-Qazwini
+publisher: The Islamic Educational Center of Orange County
 title: Invitation to Islam
 slug: invitation-to-islam
-uuid: c10e306c-7b37-4001-8ed2-73801ac8acea
+uuid: 70428863-80c6-443f-9cb2-9631266b900a
 description: |
   An excellent introduction to 'What is Islam?', the main Islamic beliefs
   and practices, religious texts, as well as other Islamic issues such as
   marriage, social life, women and law.
 chapters:
 - source: :alislam
-  source_url: http://www.al-islam.org/invitation-to-islam-moustafa-al-qazwini/preface
+  source_url: http://www.al-islam.org/invitation-islam-sayyid-moustafa-al-qazwini/preface
   title: Preface
   slug: 1-preface
-  uuid: 5ea1e5aa-ea23-44cd-8f77-8dd58f9189ce
+  uuid: 25c6db27-b90f-40ed-a787-e24d02af4fb2
 - source: :alislam
-  source_url: http://www.al-islam.org/invitation-to-islam-moustafa-al-qazwini/introduction
+  source_url: http://www.al-islam.org/invitation-islam-sayyid-moustafa-al-qazwini/introduction
   title: Introduction
   slug: 2-introduction
-  uuid: 266d8847-bbbf-409e-b94e-a5444bb7c77e
+  uuid: 65949e24-134c-4aa9-b89c-fd1d8c66217b
 - source: :alislam
-  source_url: http://www.al-islam.org/invitation-to-islam-moustafa-al-qazwini/part-1-islamic-beliefs-pillars-islam
+  source_url: http://www.al-islam.org/invitation-islam-sayyid-moustafa-al-qazwini/part-1-islamic-beliefs-pillars-islam
   title: 'Part 1: Islamic Beliefs (the Pillars of Islam)'
   slug: 3-part-1-islamic-beliefs-the-pillars-of-islam
-  uuid: 52c8ff3a-78b2-4641-9e49-7d11232419d9
+  uuid: 181d1cb2-7b2a-40ca-b386-c57aa957aa26
 - source: :alislam
-  source_url: http://www.al-islam.org/invitation-to-islam-moustafa-al-qazwini/part-2-islamic-practices
+  source_url: http://www.al-islam.org/invitation-islam-sayyid-moustafa-al-qazwini/part-2-islamic-practices
   title: 'Part 2: Islamic Practices'
   slug: 4-part-2-islamic-practices
-  uuid: ab7f4d60-3e0e-4ac7-9fd5-baec7528536d
+  uuid: 1c8fb1f3-4d99-4a4a-91fb-751919f6f96a
 - source: :alislam
-  source_url: http://www.al-islam.org/invitation-to-islam-moustafa-al-qazwini/part-3-religious-texts
+  source_url: http://www.al-islam.org/invitation-islam-sayyid-moustafa-al-qazwini/part-3-religious-texts
   title: 'Part 3: Religious Texts'
   slug: 5-part-3-religious-texts
-  uuid: 2814d130-a6c3-40f7-8a69-ea2a77010c01
+  uuid: 6d7536a7-7302-4d49-a1ce-2fcd4086e6eb
 - source: :alislam
-  source_url: http://www.al-islam.org/invitation-to-islam-moustafa-al-qazwini/part-4-other-islamic-issues
+  source_url: http://www.al-islam.org/invitation-islam-sayyid-moustafa-al-qazwini/part-4-other-islamic-issues
   title: 'Part 4: Other Islamic Issues'
   slug: 6-part-4-other-islamic-issues
-  uuid: 2a9e0a75-14be-4054-b9bf-fa3ee09253f5
+  uuid: 8d1f4dcd-a55d-463b-a80b-a0f7911576af
 ---

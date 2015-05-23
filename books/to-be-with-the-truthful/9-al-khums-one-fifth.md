@@ -10,8 +10,8 @@ the Holy Qur’ān; Allah, the Exalted said:
 fifth of it is for God, and for the Apostle and for the (Apostle’s) near
 relatives and the orphans and the needy and the wayfarer ...” (8:41)***
 
-The Messenger of Allah (S) said:  
- “I order you to do four things: To have faith in Allah, to establish
+The Messenger of Allah (S) said:
+“I order you to do four things: To have faith in Allah, to establish
 prayers, to pay zakāt, and to fast the month of Ramadān, and to pay for
 Allah the fifth of whatever you acquire.”[^1]
 
@@ -95,8 +95,8 @@ the spoils of war, since rikāz is a treasure extracted from the earth,
 and it becomes the property of that who extracted it.But he is obliged
 to pay its khums because it is a ghanimah. Moreover anyone extracting
 ambergris and pearls from the sea is liable to take out the khums since
-it is a ghanimah.  
- According to what is reported by al-Bukhāri in his Sahih it becomes
+it is a ghanimah.
+According to what is reported by al-Bukhāri in his Sahih it becomes
 clear that khums is not confined to the spoils of war.
 
 While the Shi’ah’s opinion remains always to represent the truth that

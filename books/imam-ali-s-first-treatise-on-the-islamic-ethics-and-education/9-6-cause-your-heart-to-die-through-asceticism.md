@@ -14,8 +14,8 @@ have these innate drives, he would not attain perfection.
 
 But if these desires go beyond the status of means and justice and
 become aims by themselves, they would, no doubt, bring about irreparable
-losses and lead us toward the lowest of the low.[^1]\*  
- Although Islam considers one's beloved affairs as *hasanah*[^2] (good)
+losses and lead us toward the lowest of the low.[^1]\*
+Although Islam considers one's beloved affairs as *hasanah*[^2] (good)
 and embellishment of Allah,[^3] it blames too much enchantment with the
 world.[^4]
 
@@ -78,8 +78,8 @@ monasticism, and recognizes it as one of the innovations of Christian
 monks, who erroneously put forward the existence of badness in the
 creation, and the conflict between this world and the Hereafter, and
 entered these issues into the religion of Jesus Christ (as).[^7] The
-prophet of Islam, too, has explicitly, rejected monasticism.[^8]  
- The Prophet of Islam prohibited any kind of these deviations when he
+prophet of Islam, too, has explicitly, rejected monasticism.[^8]
+The Prophet of Islam prohibited any kind of these deviations when he
 saw them among Muslims. The following two samples would suffice:
 
 **a)** One day, the wife of ‘Uthman Ibn Ma’dhun went to the Prophet (S),
@@ -122,8 +122,8 @@ you? You are too insignificant before God for that!”
 Asim said to Imam ‘Ali (as): “You (too) put on rough garments and eat
 coarse food”. Imam (as) answered: “I am not like you. God has made it
 obligatory for the just leaders to make themselves like the indigent, so
-that the poor man’s burden of poverty is not unbearable for him.”  
- As we see from these texts: Islam opposes monasticism and the shunning
+that the poor man’s burden of poverty is not unbearable for him.”
+As we see from these texts: Islam opposes monasticism and the shunning
 of social responsibilities. Islam does not allow us to forget our social
 tasks; neither does it permit us to put on rough garments and abandon
 material pleasures altogether to engage in worship and asceticism.
@@ -136,8 +136,8 @@ It is obvious that "Islamic asceticism" only makes a man do his social
 duties in proper ways and it is not to be taken to mean an approach
 which considers this world nasty or to suppose a contrast between this
 world and Hereafter or to shun responsibilities as is the principle of
-the monasticism.  
- Thus, Islamic asceticism is not inconsistent with being rich or having
+the monasticism.
+Thus, Islamic asceticism is not inconsistent with being rich or having
 social positions. The point that a God-wary person should consider is
 that he should not love this life more than God or truthfulness. He
 should not sacrifice Divine aims for personal interests.[^12]
@@ -147,7 +147,7 @@ Some Examples Of Traditions
 
 What we said above on Islamic asceticism is not a haphazard
 interpretation. It is a synopsis of different explanations given by
-books on tradition: Here are some of them:  
+books on tradition: Here are some of them:
 **a)** The Prophet (S), in one of his maxims says:
 
 <blockquote dir="rtl">
@@ -198,13 +198,13 @@ unlawful”.*[^15]
 
 As you will notice, in each one of the three statements narrated from
 the Prophet (S) and Imam ‘Ali (as), one of the complex meanings of
-asceticism is brought up.  
- In the first sentence, after scolding the monks and hermits, who make
+asceticism is brought up.
+In the first sentence, after scolding the monks and hermits, who make
 God’s lawful blessings unlawful, and in this way, waste wealth, the
 great Prophet (S) mentions the spirit of asceticism as not to be a slave
 in the hands of social positions and lusts; rather, to prefer God over
-anything else.  
- In the second sentence, it is implied that from an ascetic’s point of
+anything else.
+In the second sentence, it is implied that from an ascetic’s point of
 view the world is a means and not an aim in itself. Thus, a truly
 ascetic man does not slit his shirt if he loses what he possesses and
 will not feel proud for what he has.
@@ -215,11 +215,11 @@ that one has everything, but loves none of in. In contrast, one is
 deprived of everything, but is fond of his walking stick, for instance.
 
 In the third and last sentence, Imam (as) refers to three signs of
-asceticism:  
+asceticism:
 **1)** To limit far-fetched hopes; this will lead to remember
-truthfulness and to forget one’s transitory interests.  
+truthfulness and to forget one’s transitory interests.
 **2)** To use God’s blessings in the right way; this will lead to the
-employment of all material and spiritual forces for God.  
+employment of all material and spiritual forces for God.
 **3)** To avoid committing the Islamically unlawful affairs which hinder
 man to achieve perfection and which cause man and society to fall.
 
@@ -247,8 +247,8 @@ you,"*
 and also based on the fact that for a ascetic person this world is a
 means and not an objective, Naraqi asked the dervish what kind of life
 he preferred. He replied, "I prefer my own way of life which is freedom
-from possessing anything and involvement in journeys and worship"  
- In order for the dervish to realize that to own something does not
+from possessing anything and involvement in journeys and worship"
+In order for the dervish to realize that to own something does not
 imply being a slave to it, Naraqi asked him to accompany him on a long
 excursion. On the way, they sat besides a brook to take some rest. They
 took some loaves of bread, and then continued with their journey. Having
@@ -256,21 +256,21 @@ traveled a little, Naraqi observed that the dervish was extremely upset.
 
 Naraqi inquired about his uneasiness. The dervish said he had an ebony
 walking-stick, which he liked very much, but he had left it beside the
-brook.  
- Naraqi replied: “Look, I left all my possessions behind, and came on
+brook.
+Naraqi replied: “Look, I left all my possessions behind, and came on
 this trip with you. How do you make such a noise over a stick”? He then
-said**:** “Let us separate and each one go on his way”.  
- Naraqi left him, heading for his house.[^16]  
- Although this event might not have happened in Naraqi’s life, it
+said**:** “Let us separate and each one go on his way”.
+Naraqi left him, heading for his house.[^16]
+Although this event might not have happened in Naraqi’s life, it
 clearly shows one fact: it is not asceticism for a man not to possess
 anything, but asceticism relies in the fact that nothing in this world
 should own and enchant us.
 
-**2.** The Advice of Sayyid Ibn Tawus to his son:  
- In chapter 14 of his book Kashf al-Mahajjah, which is written for the
+**2.** The Advice of Sayyid Ibn Tawus to his son:
+In chapter 14 of his book Kashf al-Mahajjah, which is written for the
 education of his son, Sayyid Ibn Tawus has brought out the issue that
-being wealthy and ascetic are not contradictory. He writes:  
- "Muhammad, my son: May God make you aware of what you need, and make
+being wealthy and ascetic are not contradictory. He writes:
+"Muhammad, my son: May God make you aware of what you need, and make
 you turn your attention towards Him. Some people believe that your
 grandfather Muhammad (as) and your father, Imam ‘Ali (as) were poor.
 These people assume that these great men gave away their sustenance to
@@ -320,8 +320,8 @@ God's men.
 
 If your father had the control over the entire world, he would
 definitely divide it among the needy. But God had decided to give him by
-piecemeal.  
- Thus, Muhammad, my son, you and your brothers and your offspring,
+piecemeal.
+Thus, Muhammad, my son, you and your brothers and your offspring,
 follow the way of your fathers who have gone the right way and God, as
 He has said, is the greatest Giver.
 
@@ -331,17 +331,17 @@ away he owed 800.000 dirhams. Then, Imam Hassan (as) sold one of the
 properties of Imam ‘Ali (as) for 500.000 dirhams and another piece of
 property for 300.000 dirhams to pay his debt. Imam ‘Ali (as) had run up
 into this debt because he did not leave anything from khums (statutory
-20% Islamic levy on things) for himself and gave it all to the needy.  
- And I saw in Abdullah Ibn Beker's book that he had narrated from Imam
+20% Islamic levy on things) for himself and gave it all to the needy.
+And I saw in Abdullah Ibn Beker's book that he had narrated from Imam
 Baqir (as): Husayn (as) was martyred while he was in debt and Imam ‘Ali
 Ibn al-Husayn (as) sold a piece of land to clear his debts.
 
 And your ancestor Imam ‘Ali (as) left some endowed properties for his
 children from Fatima (as) and put the superintendence among his
-children.[^18]  
- Thus, how do some foolish people assume that Imam ‘Ali (as) was poor or
-erroneously think that God's men can not be affluent?[^19]  
- Has God created this world and Hereafter for people whom He does not
+children.[^18]
+Thus, how do some foolish people assume that Imam ‘Ali (as) was poor or
+erroneously think that God's men can not be affluent?[^19]
+Has God created this world and Hereafter for people whom He does not
 love?”[^20]
 
 The Philosophy Of Islamic Asceticism
@@ -352,8 +352,8 @@ monasticism, we should recognize the philosophy of Islamic asceticism.
 How come Islam has allowed us to use all sorts of blessings including
 sustenance and livelihood and ornaments, but under the title of Islamic
 asceticism recommend to us not to use them excessively and advises us to
-have a simple life?  
- Definitely, Islamic asceticism is based on some valid reasons. And for
+have a simple life?
+Definitely, Islamic asceticism is based on some valid reasons. And for
 these reasons it can rely on Islamic justice. Those reasons are the
 following:
 
@@ -417,13 +417,13 @@ Another symptom of the philosophy of the Islamic asceticism is showing
 sympathy towards the deprived layers of society. In a society where
 people are practically in two differing strata: the rich and the
 deprived, the poor suffer in two ways: they suffer their poverty; they
-also feel backward.  
- In such a society a responsible man is obliged, first of all, not to
+also feel backward.
+In such a society a responsible man is obliged, first of all, not to
 stay away and be an on-looker. He should try to improve the society in
 such a way as to establish social justice. Secondly, he should bridge
 this gap by sacrifice and by tolerating hardships in order to provide
-others with comfort.  
- When such a responsible man observes that the number of the deprived is
+others with comfort.
+When such a responsible man observes that the number of the deprived is
 so great that he can do nothing to provide them with financial help, he
 at least can do his best by sympathizing with them. In this way he can
 alleviate some of their sufferings. Of course, the necessity of such an
@@ -460,7 +460,7 @@ Imam ‘Ali (as) has stated somewhere else:
 
 *"Should I be content to be called Amir al-Mu'minin, but not share with
 them (the deprived) in the adversities of time or be an example for them
-to follow in the difficulties of life?*  
+to follow in the difficulties of life?*
 *…But it is impossible that my whims and desires should overcome me and
 my greed should lead me to select the best kinds of foods, when perhaps
 in Hijaz or Yamamah there is one who has no hope of getting a loaf of
@@ -480,20 +480,20 @@ vulnerable.
 
 Some people fall prey to these luxuries to the extent that if they do
 not attain certain food, shelter, clothing, cosmetics, cars, positions,
-and women, life would be hell for them.  
- Therefore, to get these luxuries, such people would not stop committing
+and women, life would be hell for them.
+Therefore, to get these luxuries, such people would not stop committing
 any kind of mischievous affairs. These are slaves to their luxurious
 lives.
 
 They would be impatient if they do not get what they wish for. They feel
 defeated if their wishes are not taken care of. They feel they are not
-natural human beings.  
- Thus, asceticism is to break these chains, to revolt against these
+natural human beings.
+Thus, asceticism is to break these chains, to revolt against these
 whims and desires and to defeat these hurdles. Adopting a simple life,
-an ascetic releases himself from these shackles.  
- He is content with meager food and worn out clothes. He is not a slave
-in the hands of luxury. Hafiz [the Persian poet] says:  
- I am a slave to the manliness of that one who under this blue dome, is
+an ascetic releases himself from these shackles.
+He is content with meager food and worn out clothes. He is not a slave
+in the hands of luxury. Hafiz [the Persian poet] says:
+I am a slave to the manliness of that one who under this blue dome, is
 free from anything possessible.
 
 Revolutions and constant struggles are always initiated by those who are
@@ -506,9 +506,9 @@ content with a fistful of rice for consecutive days, taking refuge in
 the fields. When we see Arabs suffered a great blow from Israelis in the
 third Israeli war against Arabs, we will not be surprised because the
 Egyptian planes took ice-creams from Cairo to the battle field for the
-Egyptian officers! A poet says:  
- In this world, a nation would become miserable,  
- If it gets used to the pleasures of life.
+Egyptian officers! A poet says:
+In this world, a nation would become miserable,
+If it gets used to the pleasures of life.
 
 #### Imam ‘Ali (as), Broadmindedness, And Struggle Against Luxuries
 
@@ -516,13 +516,13 @@ One of the reasons for Imam ‘Ali's ascetic approach to life was his
 broadmindedness. He did not wish to get used to luxurious life which
 gradually weakens human spirit. He used to put on rugged cotton
 garments, eat barley bread and drink sour milk. His caliphate position
-was to him less important than his patched shoes.[^26]  
- Once a butcher proposed to him that he had good meat for sale and asked
+was to him less important than his patched shoes.[^26]
+Once a butcher proposed to him that he had good meat for sale and asked
 Imam ‘Ali (as) if he would buy some. Imam ‘Ali (as) replied he did not
 have money. The butcher said that Imam ‘Ali (as) could pay later. But
 Imam ‘Ali (as) replied: It is better that I owe to my soul (self) than
-owe to you.  
- In Nahj al-Balaghah, Imam (as) emphasized the motto of leaving this
+owe to you.
+In Nahj al-Balaghah, Imam (as) emphasized the motto of leaving this
 world, i.e., leaving pleasure-taking a lot.
 
 Imam ‘Ali (as) says:
@@ -548,8 +548,8 @@ escaped your snares; and I have avoided entering your slippery places….
 that you may abase me. I will not become submissive to you so that you
 may lead me (wherever you wish). By God…I have disciplined my soul to
 such an extent that it is pleased with a loaf of bread with salt as its
-stew."[^28]  
- Of course, asceticism in sympathy, sacrifice, manliness, and other
+stew."[^28]
+Of course, asceticism in sympathy, sacrifice, manliness, and other
 aspects does not merely belong to Imam ‘Ali (as) alone. All Prophets,
 Imams, and true believers share this human trait. Through these
 characteristics, all of them have struggled with unjust social systems
@@ -592,22 +592,22 @@ pleasures, houris or nymphs of paradise, and castles in the Hereafter:
 in fact, they are bargaining. But there are those who adopt an ascetic
 life just for God's sake and in this process they are "enchanted by Him"
 and they do not think of anything but "Allah". Sa'di, the great Persian
-poet says in this regard:  
- When I breathe my last breath I’m wishing to meet you,  
- I give up my life in the hope of becoming the earth of your abode;  
- When, on Doom’s Day, I raise my head,  
- I rise for Your discourse, I rise to look for You;  
- At a location where people gather from the two worlds,  
- I am looking for You, I’ll be Your slave;  
- If I sleep on the bedroom of nonexistence for a thousand years,  
- I’ll wake up to the odor of Your hair;  
- I’ll not describe the Garden, nor will I smell paradise flowers,  
- I won’t go after Houris, I’ll run to meet You;  
- I won’t drink paradise wine from the hand of Heaven’s cupbearer,  
- I won’t need wine, because I’m drunk with Your face;  
- I’d go to a thousand deserts with You,  
- And if you, Sa’adi, choose the wrong path,  
- You will still be heading for Him, anyway.[^32]
+poet says in this regard:
+When I breathe my last breath I’m wishing to meet you,
+I give up my life in the hope of becoming the earth of your abode;
+When, on Doom’s Day, I raise my head,
+I rise for Your discourse, I rise to look for You;
+At a location where people gather from the two worlds,
+I am looking for You, I’ll be Your slave;
+If I sleep on the bedroom of nonexistence for a thousand years,
+I’ll wake up to the odor of Your hair;
+I’ll not describe the Garden, nor will I smell paradise flowers,
+I won’t go after Houris, I’ll run to meet You;
+I won’t drink paradise wine from the hand of Heaven’s cupbearer,
+I won’t need wine, because I’m drunk with Your face;
+I’d go to a thousand deserts with You,
+And if you, Sa’adi, choose the wrong path,
+You will still be heading for Him, anyway.[^32]
 
 Imam Sadiq (as) emphasizes this stage of asceticism in the following
 words:
@@ -720,14 +720,14 @@ The fact is that the words "soul", "heart", "self", "breast", "*fu’ad*"
 exists a truth which is neither matter nor does it have the properties
 of the matter. During seven years all the material molecules and
 particles of man completely change, but nevertheless, he carries on his
-duties all his life.[^37]  
- The same truth takes on different titles in different conditions: the
+duties all his life.[^37]
+The same truth takes on different titles in different conditions: the
 words heart, breast (*sadr*) and wisdom are the titles used when this
 truth is taken to be abstract, not relying on matter. It is called
 *Nafs* (self) on the basis of the fact that to be realized it needs some
 means; it has different phases: commanding (*Ammarah*), blaming
-(*lawwamah*), satisfied (*raziyah*) and the like.[^38]  
- Thus, the pronoun “it” in the phrase “cause it to die” refers to the
+(*lawwamah*), satisfied (*raziyah*) and the like.[^38]
+Thus, the pronoun “it” in the phrase “cause it to die” refers to the
 heart itself; it is because it wishes for a lot of things and should be
 controlled and its excesses should be hindered, or else it leads man to
 the lowest of the low.[^39]

@@ -34,9 +34,9 @@ avoid pregnancy.
 Though we should remember that all this is permitted when the conception
 has not yet taken place. But conception has already taken place its
 abortion is absolutely haraam. That is after the conception. (Even if it
-is one day old.), abortion is not allowed.  
-    
-    
-  
+is one day old.), abortion is not allowed.
+
+
+
 
 

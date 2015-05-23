@@ -1229,8 +1229,8 @@ words, the scholars of ethics call the people to the sociological truth;
 the prophets call mankind to the actual truth and real perfection by
 which it may get the eternal bliss in the life hereafter; but the Islam
 invites the people to the Absolute Reality, that is, Allah Himself, and
-teaches them ethical values by reminding them that  
- Allah is One, and there is no partner in His divinity; this belief
+teaches them ethical values by reminding them that
+Allah is One, and there is no partner in His divinity; this belief
 produces in man the purest servitude.
 
 Now you see how dis­similar are the systems employed by the three
@@ -2018,15 +2018,15 @@ every thing and rises above them. Now, his destination is his Lord; his
 provision, his humility of servitude; and his guide, his love. As a poet
 has said:
 
-***Love narrated to me the traditions of amour,***  
-***Through its chain of narrators, from neighbourhood***  
-***of a distinguished personality,***  
-***And narrated to me the breath of fresh breeze,***  
-***From the branching trees, from the valley of euphorbia***  
-***from the heights of Najd,***  
-***From the tear, from my sour eye, from passion,***  
-***From sorrow, from my wounded heart, from ecstasy of love,***  
-***That my ardor and love have sworn together,***  
+***Love narrated to me the traditions of amour,***
+***Through its chain of narrators, from neighbourhood***
+***of a distinguished personality,***
+***And narrated to me the breath of fresh breeze,***
+***From the branching trees, from the valley of euphorbia***
+***from the heights of Najd,***
+***From the tear, from my sour eye, from passion,***
+***From sorrow, from my wounded heart, from ecstasy of love,***
+***That my ardor and love have sworn together,***
 ***To my destruction till I am laid down in my grave.***
 
 This discourse, although short and concise, explains our theme (if you
@@ -2331,8 +2331,8 @@ the roots.
 
 They too are absolute and unchanging - although there may occur some
 differences sometimes in their applications, as we shall mention
-afterwards.  
- Now it is clear that what they have said concerning relativity in
+afterwards.
+Now it is clear that what they have said concerning relativity in
 morality is not correct:
 
 They said: “Absolute virtue and vice do not exist. What exists is the
@@ -2583,8 +2583,8 @@ Then Abu 'Abdillah (a.s.) said: “It is for the man from whom Allah takes
 something forcibly.” (*al-Kafi*)
 
 The author says: This tradition is narrated by other chains, all having
-nearly the same theme.  
- Imam as-Sadiq (a.s.) said: ”*as-Salah* ( **اَلصَّلٰوةُ** ) from Allah
+nearly the same theme.
+Imam as-Sadiq (a.s.) said: ”*as-Salah* ( **اَلصَّلٰوةُ** ) from Allah
 is mercy, and from the angels is purification, and from the people is
 prayer.” (*Ma'ani* ***'**1-akhbar*)
 

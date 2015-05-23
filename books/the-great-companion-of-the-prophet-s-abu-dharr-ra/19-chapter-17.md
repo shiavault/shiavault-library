@@ -1,8 +1,7 @@
 Chapter 17
 ==========
 
-   
- It is an established fact that Abu Dharr had seen the Holy Prophet and
+It is an established fact that Abu Dharr had seen the Holy Prophet and
 his Ahlul Bayt from very close quarters and remained in very intimate
 company with them. He had seen very carefully every aspect of their
 life, and had learnt much from it. He has seen with his own eyes not
@@ -23,23 +22,23 @@ on his back to the houses of the poor widows and orphans. He had also
 seen Ali saying to the world. "O World! Go and deceive others. I have
 divorced you". He had also witnessed with his eyes that the progeny of
 Muhammad used to take food along with their servants and slaves at the
-same dining-cloth.  
-    
- He remembered well that once when four dirhams were left over after the
+same dining-cloth.
+
+He remembered well that once when four dirhams were left over after the
 Prophet had distributed the money that was with him and this amount
 could not reach the deserving person, he felt very much grieved. He
 still recollected these words of the Prophet addressed to him, "O Abu
 Dharr! Even if I have gold equal to the Mount Uhud I do not like the
-least of it to be left over with fie".  
-    
- Under these circumstances how could it be possible for Abu Dharr to
+least of it to be left over with fie".
+
+Under these circumstances how could it be possible for Abu Dharr to
 observe silence when Islam was metamorphosed and the teachings of the
 guardians of Islam were being neglected? As soon as the Holy Prophet
 died everything was changed. Injustice and tyranny were rampant, forced
 allegiance was demanded, the house of the Ahlul Bayt burnt, and the door
-was felled upon Fatimah, the daughter of the Holy Prophet[^3].  
-    
- Ali was tied by the neck with a rope and the great companions lived in
+was felled upon Fatimah, the daughter of the Holy Prophet[^3].
+
+Ali was tied by the neck with a rope and the great companions lived in
 the seclusion of their homes. Being forced by circumstances Abu Dharr
 observed patience for some time. At last he left Medina for Syria and
 settled there. After some time when he came back to Medina he saw that
@@ -51,9 +50,9 @@ being squandered away. The wealth of Muslims was being used for personal
 needs. Every relative and well wisher of the Caliph had become a
 millionaire. Capitalism had expanded. There was an abundance of wealth.
 Nobody bothered about zakat. Nobody thought of helping the poor. Nobody
-cared for orphans and widows.  
-    
- Seeing innumerable things of this kind, Abu Dharr tried to admonish the
+cared for orphans and widows.
+
+Seeing innumerable things of this kind, Abu Dharr tried to admonish the
 Caliph Uthman for the protection of Islamic ummah and Islamic State, and
 advised him as much as he could, but the Caliph did not pay heed to him.
 At last in view of the promise which he had given to the Holy Prophet
@@ -61,16 +60,16 @@ and with that intensity of faith which Allah had preserved in his heart
 he came out on the scene and started publicizing the shortcomings of
 Uthman. In this connection he also censured hoarding of wealth and
 capitalism and initiated his speech with those Qur'anic verses which
-criticize the hoarding of wealth.  
-    
- As Abu Dharr could not tolerate that the wealth of the public property
+criticize the hoarding of wealth.
+
+As Abu Dharr could not tolerate that the wealth of the public property
 be spent only upon the Caliph's relatives, and the orphans and widows
 die of starvation, he accelerated his preaching, and consequently he had
 to go from place to place. He was exiled again and again sometimes he
 was banished from Medina and sent to Syria and sometimes he was forced
-to lead his life in a deserted place like Rabzah.  
-    
- It is quite obvious that the distribution of wealth is essential among
+to lead his life in a deserted place like Rabzah.
+
+It is quite obvious that the distribution of wealth is essential among
 the needy, but it is also worth considering on what principle the wealth
 is to be distributed among the poor and other entitled people. It was a
 principle with the Prophet that he distributed the wealth equally. For
@@ -80,9 +79,9 @@ warriors are equal share-holders. None is entitled to get more than the
 other. (Sunan Baihaqi). It is learnt from the books on tradition that he
 distributed the amount of tribute among the Muslims the same day on
 which he received it. He gave double share to the married people and a
-single share to a bachelor[^4].  
-    
- The same procedure was followed by Imam Ali. Hafiz Baihaqi says that
+single share to a bachelor[^4].
+
+The same procedure was followed by Imam Ali. Hafiz Baihaqi says that
 once he got some money and property from Isfahan. He divided them into
 seven equal shares. One loaf of bread was left over; but he divided it
 also into seven pieces and put one piece with every share. Then he drew
@@ -93,9 +92,9 @@ slave went away with her share but the free woman said, "You gave me as
 much as you gave to the slave, although I am a free Arab woman whereas
 she is a slave and not an Arab". The Commander of the Faithful said, “I
 have thoroughly consulted the Divine Book but could not find any reason
-for your superiority".  
-    
- Muhammad Razi Zangipuri writes that during the reign of Ali when the
+for your superiority".
+
+Muhammad Razi Zangipuri writes that during the reign of Ali when the
 procedure of the Prophet was followed, and the money was distributed on
 the basis of equality, there spread dissatisfaction and resentment
 against this method among the high class companions of the Prophet. Ali
@@ -110,15 +109,15 @@ have divided it equally among the people, but now when it is the
 property of Allah why should I not observe equality .You should know
 that grant of money and generosity without right is squandering and
 extravagance which raises the giver high in the world but makes him low
-and disgraced in the hereafter"[^6].  
-    
- It becomes evident from the above-mentioned principle of the
+and disgraced in the hereafter"[^6].
+
+It becomes evident from the above-mentioned principle of the
 distribution of wealth that the properties will be distributed equally
 among the poor, the needy and all kinds of deserving people. As soon as
 Ali assumed Caliphate he declared, “You are the slaves of Allah and the
 wealth belongs to Allah, This wealth will be distributed equally among
-you without discrimination or distinction"[^7].  
- If the Muslims follow the Islamic ways, the life of the poor will not
+you without discrimination or distinction"[^7].
+If the Muslims follow the Islamic ways, the life of the poor will not
 be a burden to them.
 
 [^1]: Ali'imun Nubuwwah, al-Mawardi, p.146, printed Egypt

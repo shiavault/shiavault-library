@@ -197,13 +197,13 @@ lodge the believers in encampments for war***”[^11]
 
 (Either it denoted the preparation of places for them to fight).[^12]
 
-Thus the correct meaning of this ayat is:  
- One who interprets the Qur’an from his personal view he should select a
+Thus the correct meaning of this ayat is:
+One who interprets the Qur’an from his personal view he should select a
 place for himself in the Hell or prepare for himself a place in Fire.
 (And those who have construed some other meaning of the hadith it shows
 their ignorance of Arabic literature).
 
- 
+
 
 [^1]: These traditions are quoted from the Prophet (s.a.) in many
 scholarly books.

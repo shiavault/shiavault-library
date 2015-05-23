@@ -1,37 +1,36 @@
 Chapter 9
 =========
 
-   
- Historians and traditionists of both the sects (Shi'ah and Sunni) agree
+Historians and traditionists of both the sects (Shi'ah and Sunni) agree
 that when the Holy Prophet was to start for the last pilgrimage, he
 proclaimed far and wide that all the companions should accompany him for
 pilgrimage. After this proclamation the companions of the Prophet
 started reaching Medina from all quarters. He had also made it known to
 the people that those who could not come to Medina, should reach Mecca
-directly and perform the rites of the pilgrimage with him.  
-    
- The Prophet left Medina on 25th of Ziq'adah l0th A.H.[^1] Innumerable
+directly and perform the rites of the pilgrimage with him.
+
+The Prophet left Medina on 25th of Ziq'adah l0th A.H.[^1] Innumerable
 companions started with him from Medina, including Salman, Miqdad, Abu
-Dharr and Ammar.  
-    
- On reaching Mecca he performed the ceremonies of the pilgrimage. All
+Dharr and Ammar.
+
+On reaching Mecca he performed the ceremonies of the pilgrimage. All
 his Ahlul Bayt, wives and companions joined him in the pilgrimage. He
 delivered a sermon also at the time of Hajj in which he enumerated the
 bright points of the well-being of his followers and explained the means
-through which the ummah could get salvation.  
-    
- Having finished pilgrimage he left Mecca for Medina. At that time with
+through which the ummah could get salvation.
+
+Having finished pilgrimage he left Mecca for Medina. At that time with
 him were (according to Muhaddis Dehlavi) 1, 25,000 or (according to
-Khawand Shah) 1, 24,000 companions[^2].   
- When he reached a place called Ghadir Khum with his companions Jibrail
+Khawand Shah) 1, 24,000 companions[^2].
+When he reached a place called Ghadir Khum with his companions Jibrail
 brought the Divine message to him:
 
 ***"O My Messenger! Deliver what has been revealed to you from your
 Lord, and if you do not do it, then you have not delivered His message,
 (convey my message without fear), and Allah will save you from the
-mischief of the people".*** **(Surah al-Ma'idah, 5:67)** [^3]  
-    
- After this clear command there was no alternative left for him except
+mischief of the people".*** **(Surah al-Ma'idah, 5:67)** [^3]
+
+After this clear command there was no alternative left for him except
 to convey the message to the people. Accordingly he ordered a pulpit to
 be raised with the pack-saddles of the camel. After that he said to
 Bilal of Africa, "O Bilal! Call the people and tell my companions that
@@ -46,18 +45,18 @@ that the whiteness of his armpit became completely visible. Then he
 said, “Whoever considers me to be his master and patron he should
 consider Ali also to be his master and patron. O Allah! Be the friend of
 him who is the friend of Ali and be the enemy of him who is the enemy of
-Ali".  
-    
- As soon as the people heard it, they raised their supporting voices.
+Ali".
+
+As soon as the people heard it, they raised their supporting voices.
 The Holy Prophet (s) came down from the pulpit and ordered Ali to accept
 the congratulations of the companions in a green tent. Accordingly, Ali
 received the congratulations for the succession of the Holy Prophet (s)
 and thanked the people for the same. It is written in Ma'arijun Nubuwwah
 that besides the companions the wives of the Prophet (s) also
 congratulated Ali for becoming the master and guardian of the Muslim
-ummah.  
-    
- According to Tarikh ibn Khalqan the Prophet in his address of Ghadir
+ummah.
+
+According to Tarikh ibn Khalqan the Prophet in his address of Ghadir
 threw light on the pre-eminence and status of Ali and said that Ali had
 the same relationship with him as Harun had with Musa. According to
 Mustadrak, al-Hakim he said, "I leave behind two valuable things amongst
@@ -72,17 +71,17 @@ Fatahul Bayan by Siddiq Hasan, that this verse "Balligh" has been
 revealed only about Ali. It is written in Sharh Bukhari Aini, Tafsir
 Ghara'ibul Qur'an of Naishapuri, Tarikh ibnul Wazih, Kanzul 'ummal etc.,
 that the verse "Balligh" has been revealed about the dignity and
-superiority of Ali.  
-    
- It is given in Tarikh Abul Fida that after his retum from Ghadir
+superiority of Ali.
+
+It is given in Tarikh Abul Fida that after his retum from Ghadir
 al-Khum, the Holy Prophet (s)  fell ill in the last days of Safar, 11
 A.H. According to Mishkat Sharif the cause of his illness was the same
 poison which was given to him in Khaybar and which showed its effect at
 times. It is given in Tarikh ibn Alwardi that he asked all the
 companions to go with the army of Usamah bin Zayd and said that he had
-appointed Usamah the commander of the army.  
-    
- Muhaddith Dehlavi writes in Madarij that the next day the Holy Prophet
+appointed Usamah the commander of the army.
+
+Muhaddith Dehlavi writes in Madarij that the next day the Holy Prophet
 in the severity of his illness handed to Usamah a flag of war and asked
 him to leave and fight the unbelievers for the sake of Allah. Usamah
 gave that flag to Buraydah ibn Khazib outside the city, and appointed
@@ -100,9 +99,9 @@ addressed the people, "O people! What are these talks that you are
 indulged in at Usamah's appointment as the commander of the army, just
 as you had done at the time of the Battle of Motah when Usamah's father
 was appointed the army commander. By Allah Usamah deserves command just
-as his father deserved to be the army commander".  
-    
- It is in al-Milal wan Nahl by Shahristani and Hujajul Karamah by Siddiq
+as his father deserved to be the army commander".
+
+It is in al-Milal wan Nahl by Shahristani and Hujajul Karamah by Siddiq
 Hasan that the Holy Prophet (s) asked the companions to make immediate
 preparations for the army of Usamah. Cursed be the man who opposes
 Usamah's army! According to Madarijun Nubuwwah Abu Bakr and Umar
@@ -115,9 +114,9 @@ for Ali. ‘Ayesha suggested him to call her father (Abu Bakr) instead,
 and Hafsa suggested the name of her father (Umar) in place of Ali. In
 the meantime these people gathered there. But the Prophet said, "You
 should go back. I will call you myself if I need you at all", Hearing
-this, those people went away.  
-    
- In Sahih Muslim it is reported from Ibn Abbas that when the Holy
+this, those people went away.
+
+In Sahih Muslim it is reported from Ibn Abbas that when the Holy
 Prophet was about to die on his death bed Umar ibn Khattab and other
 companions were present in the house of the Prophet. The Holy Prophet
 said, "Bring me a piece of paper and pen so that I may write something
@@ -130,9 +129,9 @@ Some sided with Umar. When there, arose a great noise over this matter,
 the Prophet said, "Be off from me". It was for this reason that Ibn
 Abbas used to say, "It was a great tragedy and disaster that the Prophet
 could not write anything because of the noise and dissension among the
-people”.  
-    
- Abdullah ibn Abbas is quoted as saying through the narration of Sa'id
+people”.
+
+Abdullah ibn Abbas is quoted as saying through the narration of Sa'id
 bin Jubayr related in Sahih Bukhari, "What a calamitous day was the day
 of Thursday!" After having said this he wept and then said, "When, on
 Thursday, the illness of the Prophet (s) grew serious he said, bring me
@@ -145,18 +144,18 @@ condition I am. It is wrong whatever you say. Leave me alone. Get away
 from me". After that the Holy Prophet made his three wills, firstly to
 turn out all the polytheists from the Arabian Peninsula and secondly to
 entertain the deputations which came from far off places. The narrator
-did not narrate the third one or he forgot it".  
-    
- It is narrated from Sa'id bin Jubayr in Musnad Ahmad bin Hanbal and
+did not narrate the third one or he forgot it".
+
+It is narrated from Sa'id bin Jubayr in Musnad Ahmad bin Hanbal and
 Sahib Muslim that Abdullah ibn Abbas having said, "What a day it was of
 Thursday; wept so much that tears rolled down his cheeks like the pearl
 strings. After that he explained that Thursday was the day when the Holy
 Prophet said, "Give me the writing articles so that I may write
 something for you (by way of my will) in order that you may never go
 astray after me", But, alas! The people said, "He is speaking in
-delirium".  
-    
- Shahabuddin Khafaji writes in Nasimur-Riyaz Sharah Shafa Qazi 'Ayaz
+delirium".
+
+Shahabuddin Khafaji writes in Nasimur-Riyaz Sharah Shafa Qazi 'Ayaz
 that according to some versions of this hadith Umar said, "The Prophet
 is speaking in delirium", Shahristani writes in his book al-Milal wan
 Nahl that the first dispute and difference that arose during the illness
@@ -172,25 +171,25 @@ arose a squabble at it the Prophet said, "Get away from me and do not
 dispute and argue before me". That was the reason why Abdullah ibn Abbas
 used to say afterwards, "What a great calamity that dispute was! It came
 in between ourselves and the writing of the Prophet and kept him from
-writing".  
-    
- Allamah Shibli No'mani writes, "There is a word of Hajr in the
+writing".
+
+Allamah Shibli No'mani writes, "There is a word of Hajr in the
 tradition which means delirium. Umar had interpreted the speech of the
 Holy Prophet as delirium". (Al-Faruq, p.61) In the dictionary the
-meaning of Hizyan is given as nonsensical talk[^4].  
-    
- Nazir Ahmad Dehlavi writes, "Those who were cherishing the hope of
+meaning of Hizyan is given as nonsensical talk[^4].
+
+Nazir Ahmad Dehlavi writes, "Those who were cherishing the hope of
 Caliphate in their minds turned off the plan through scuffling and
 justified their opposition by saying that Qur'an was sufficient for them
 and as the Prophet (s) was not in his senses there was no need to bring
-the paper and inkpot or else he would dictate irrelevant matters"[^5].  
-    
- Imam Ghizali writes that before his death the Prophet of Allah asked
+the paper and inkpot or else he would dictate irrelevant matters"[^5].
+
+Imam Ghizali writes that before his death the Prophet of Allah asked
 his companions to bring for him pen, paper and ink so that he might
 write as to who deserved to be their Imam and Caliph. But at that time
-Umar asked people to leave that man as he was talking nonsense[^6].  
-    
- In short, when the Prophet was not given pen and ink there arose a row
+Umar asked people to leave that man as he was talking nonsense[^6].
+
+In short, when the Prophet was not given pen and ink there arose a row
 among those who were present there. My historical inference says that at
 that time Abu Dharr, Salman, Miqdad and Ibn Abbas etc. opposed the
 refusal and the ladies admonished them from behind the curtain, "What
@@ -199,9 +198,9 @@ For Allah's sake give him what he wants". Hearing this Umar said "Keep
 quiet! You are like the ladies of Yusuf. You weep during the Prophet's
 illness and get on his nerves when he is healthy". When his voice
 reached the ears of the Prophet he said, "Do not scold them as they are
-better than you". (Tabrani)  
-    
- According to Rauzatul Ahbab the Prophet at the time of his death asked
+better than you". (Tabrani)
+
+According to Rauzatul Ahbab the Prophet at the time of his death asked
 his daughter Fatimah Zahra to call her sons. She brought them to him.
 The two grandsons after paying respect to the grandfather set by his
 side and finding him in the agony of the illness wept so bitterly that
@@ -219,32 +218,32 @@ have borrowed this much loan from a certain Jew for the equipment of the
 army of Usamah. Pay him back the same. O Ali! You will be the first to
 come to me at the Cistern of Kauthar, and you will suffer great troubles
 after me. Face them with patience and when you see that the people have
-chosen the world you should care for the hereafter"[^7]  
-    
- It is also recorded in Madarijun Nubuwwah that Fatimah Zahra was
+chosen the world you should care for the hereafter"[^7]
+
+It is also recorded in Madarijun Nubuwwah that Fatimah Zahra was
 extremely shocked at the death of the Prophet and wept bitterly and
 excessively with painful cries. Muhaddith Dehlavi writes in the book
 "Mathabata bis Sunnah" that many tragic events happened to her after the
 death of the Prophet. She has mentioned them in a couplet saying that if
 the hardships which she had to face, had befallen the day, it would have
 turned into dark night. The writer of Rauzatul Ahbab says that after the
-demise of the Prophet nobody saw her laughing.  
-    
- Tabaqat ibn Sa'd writes that the Prophet's head was in Ali's lap at the
+demise of the Prophet nobody saw her laughing.
+
+Tabaqat ibn Sa'd writes that the Prophet's head was in Ali's lap at the
 time of his death. Hakim says in Mustadrak that the Prophet before
 breathing his last passed on secrets to Ali and solved mysteries for
-him.  
-    
- Abdul Barr in his book Isti'ab quotes Abdullah ibn Abbas as saying,
+him.
+
+Abdul Barr in his book Isti'ab quotes Abdullah ibn Abbas as saying,
 “Ali possesses four such distinctions as none of us has. Firstly, Ali
 was the first person to have earned the honour of offering prayers with
 the Holy Prophet. Secondly, he was the only standard bearer of the
 Prophet in every battle. Thirdly, when in the holy wars people fled away
 leaving the Prophet behind, Ali remained steadfast in the company of the
 Prophet. Fourthly, Ali is that person who gave funeral bath to the
-Prophet and laid him into the grave".  
-    
- According to Shi 'ah Muslim belief, the Holy Prophet died on Monday,
+Prophet and laid him into the grave".
+
+According to Shi 'ah Muslim belief, the Holy Prophet died on Monday,
 the 28th of Safar, 11 A.H.[^8] Following his death there were
 lamentations and wailings among the members of his household and his
 revered companions. Abu Dharr, Salman, Miqdad, Ammar, and other sincere
@@ -254,9 +253,9 @@ had a lasting impression of this tragedy. Manazir Ahsan Gilani writes,
 "In most descriptions of Abu Dharr's life, though clear signs are found
 of that pain without which a believer is not a believer, yet there are
 some inspiring events which present a beautiful portrait of the mutual
-relationship of the lover and the beloved before our mind's eye"[^9]  
-    
- At the time of the death of the Holy Prophet Abu Bakr was at his home
+relationship of the lover and the beloved before our mind's eye"[^9]
+
+At the time of the death of the Holy Prophet Abu Bakr was at his home
 at Sakh, at a distance of one mile from Medina. Umar prevented the death
 news from being publicized and when Abu Bakr arrived both of them went
 to Saqifah Bani Sa'dah which was at a distance of three miles from

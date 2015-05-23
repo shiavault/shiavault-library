@@ -135,7 +135,7 @@ and all the bad people.
 
 If they had listened to Salih
 
-they would have been saved.  
+they would have been saved.
 ![](/sites/default/files/part3c.gif)
 
 

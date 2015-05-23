@@ -41,10 +41,10 @@ doubt the way of this capricious travel has some logic which is beyond
 our comprehension at present).
 
 Anyhow, these are the same wandering stars, whose special behavior makes
-them distinct.  
-  
+them distinct.
 
- 
+
+
 
 [^1]: Surah Takweer 81:15-16
 

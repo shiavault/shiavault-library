@@ -1,0 +1,107 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/al-ilahiyyat-vol-1-hassan-muhammad-makki-al-amili
+author: Sheikh Hassan Muhammad Makki al-Amili
+translator: Yasin T. Al-Jibouri
+title: Al-Ilahiyyat Volume 1
+slug: al-ilahiyyat-volume-1
+uuid: 5646f920-6829-4e4f-bc48-2156a7925b54
+description: |
+  This book elaborates on concepts such as recognition of Allah (SwT), His
+  names, and operative and descriptive attributes. On each of these
+  topics, it rebuttals views held by other schools of thought within
+  Islam, both historic and contemporary, and provides evidence from the
+  Holy Quran, the Sunnah and traditions from the Holy Household to support
+  its position.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/al-ilahiyyat-vol-1-hassan-muhammad-makki-al-amili/authors-foreword
+  title: Author's Foreword
+  slug: 1-author-s-foreword
+  uuid: bb34c6a4-48ca-41c3-80a9-77922e22091c
+- source: :alislam
+  source_url: http://www.al-islam.org/al-ilahiyyat-vol-1-hassan-muhammad-makki-al-amili/authors-foreword-new-edition
+  title: Author's Foreword For The New Edition
+  slug: 2-author-s-foreword-for-the-new-edition
+  uuid: ca847431-8767-46e8-923c-78eb3c2c9ed4
+- source: :alislam
+  source_url: http://www.al-islam.org/al-ilahiyyat-vol-1-hassan-muhammad-makki-al-amili/chapter-1-general-principle-precepts
+  title: 'Chapter 1: General Principle Precepts'
+  slug: 3-chapter-1-general-principle-precepts
+  uuid: f8f73307-2634-40a8-91ec-940e39d8029f
+- source: :alislam
+  source_url: http://www.al-islam.org/al-ilahiyyat-vol-1-hassan-muhammad-makki-al-amili/chapter-2-ways-knowing-allah
+  title: 'Chapter 2: Ways To Knowing Allah'
+  slug: 4-chapter-2-ways-to-knowing-allah
+  uuid: 2429ecc0-df64-40c1-b28d-4cdc9a4b88f5
+- source: :alislam
+  source_url: http://www.al-islam.org/al-ilahiyyat-vol-1-hassan-muhammad-makki-al-amili/chapter-3-names-and-attributes
+  title: 'Chapter 3:  Names And Attributes'
+  slug: 5-chapter-3-names-and-attributes
+  uuid: 72a810b5-8bc7-478f-9290-51357c5fce1d
+- source: :alislam
+  source_url: http://www.al-islam.org/al-ilahiyyat-vol-1-hassan-muhammad-makki-al-amili/chapter-4-self-positive-attributes
+  title: 'Chapter 4: Self-Positive Attributes'
+  slug: 6-chapter-4-self-positive-attributes
+  uuid: 6c5614bf-c088-40d9-8ad1-908de3fdcddd
+- source: :alislam
+  source_url: http://www.al-islam.org/al-ilahiyyat-vol-1-hassan-muhammad-makki-al-amili/knowledge
+  title: Knowledge
+  slug: 7-knowledge
+  uuid: 6cb3beef-85cb-4ead-9eb1-df4ea1b76a7f
+- source: :alislam
+  source_url: http://www.al-islam.org/al-ilahiyyat-vol-1-hassan-muhammad-makki-al-amili/potence
+  title: Potence
+  slug: 8-potence
+  uuid: ca10ef97-956c-44b0-86f3-ca83741394f0
+- source: :alislam
+  source_url: http://www.al-islam.org/al-ilahiyyat-vol-1-hassan-muhammad-makki-al-amili/life
+  title: Life
+  slug: 9-life
+  uuid: 7f41d662-5ee0-4f5a-b7bf-20bc9a216e6c
+- source: :alislam
+  source_url: http://www.al-islam.org/al-ilahiyyat-vol-1-hassan-muhammad-makki-al-amili/hearing-and-seeing
+  title: Hearing and Seeing
+  slug: 10-hearing-and-seeing
+  uuid: 050b763f-40b7-4360-96ee-5d043b19b2b5
+- source: :alislam
+  source_url: http://www.al-islam.org/al-ilahiyyat-vol-1-hassan-muhammad-makki-al-amili/realization
+  title: Realization
+  slug: 11-realization
+  uuid: 8f26400a-d37a-41e3-a300-ec8c1fcad465
+- source: :alislam
+  source_url: http://www.al-islam.org/al-ilahiyyat-vol-1-hassan-muhammad-makki-al-amili/freewill
+  title: Freewill
+  slug: 12-freewill
+  uuid: fdb93fb3-d9f7-452c-88e6-fedef7262925
+- source: :alislam
+  source_url: http://www.al-islam.org/al-ilahiyyat-vol-1-hassan-muhammad-makki-al-amili/perpetuity-and-eternity
+  title: Perpetuity and Eternity
+  slug: 13-perpetuity-and-eternity
+  uuid: 936fe0ca-c456-4ba5-bb21-889d67506e0f
+- source: :alislam
+  source_url: http://www.al-islam.org/al-ilahiyyat-vol-1-hassan-muhammad-makki-al-amili/chapter-5-operative-positive-attributes
+  title: 'Chapter 5: Operative Positive Attributes'
+  slug: 14-chapter-5-operative-positive-attributes
+  uuid: d9280f6f-dc31-4caa-b5b7-fcf64960c60c
+- source: :alislam
+  source_url: http://www.al-islam.org/al-ilahiyyat-vol-1-hassan-muhammad-makki-al-amili/speech
+  title: Speech
+  slug: 15-speech
+  uuid: 1b2e9053-8869-4b2b-bebf-576f8ebbe787
+- source: :alislam
+  source_url: http://www.al-islam.org/al-ilahiyyat-vol-1-hassan-muhammad-makki-al-amili/truthfulness
+  title: Truthfulness
+  slug: 16-truthfulness
+  uuid: 612c51a7-3b72-4944-bd81-e1858ba511c9
+- source: :alislam
+  source_url: http://www.al-islam.org/al-ilahiyyat-vol-1-hassan-muhammad-makki-al-amili/wisdom
+  title: Wisdom
+  slug: 17-wisdom
+  uuid: 2ea39b49-e4de-45e9-b5db-17c02dde797e
+- source: :alislam
+  source_url: http://www.al-islam.org/al-ilahiyyat-vol-1-hassan-muhammad-makki-al-amili/chapter-6-descriptive-attributes
+  title: 'Chapter 6: Descriptive Attributes'
+  slug: 18-chapter-6-descriptive-attributes
+  uuid: b3386f6e-1cfe-499b-ba1e-847ee9c1d282
+---

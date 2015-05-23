@@ -1,11 +1,11 @@
 ---
 source: :alislam
-source_url: http://www.al-islam.org/justice-of-god-ayatullah-makarem-shirazi
-author: Ayatullah al-`Uzma al-Hajj ash-Shaykh Nasir Makarim Shirazi
+source_url: http://www.al-islam.org/justice-of-god-ayatullah-makarim-shirazi
+author: Ayatullah al-Uzma Nasir Makarim Shirazi
 publisher: Bilal Muslim Mission of Tanzania
 title: Justice of God
 slug: justice-of-god
-uuid: e487b91b-8169-4924-baf2-543b93b92080
+uuid: 9e4aa352-88ca-45f3-8b76-2ebce31e4b6c
 description: |
   A short text on the nature of Allah's attribute of \`Adl (Justice) where
   the author discusses philosophical issues about its seeming
@@ -13,13 +13,13 @@ description: |
   Allah's own Divine Will.
 chapters:
 - source: :alislam
-  source_url: http://www.al-islam.org/justice-of-god-ayatullah-makarem-shirazi/justice
+  source_url: http://www.al-islam.org/justice-of-god-ayatullah-makarim-shirazi/justice
   title: Justice
   slug: 1-justice
-  uuid: 86fad06c-33bb-448d-8e35-dd0af041f669
+  uuid: e08ee237-3f7d-48b1-adbf-7b6d3ff85d2e
 - source: :alislam
-  source_url: http://www.al-islam.org/justice-of-god-ayatullah-makarem-shirazi/issue-predestination-and-free-will
+  source_url: http://www.al-islam.org/justice-of-god-ayatullah-makarim-shirazi/issue-predestination-and-free-will
   title: The Issue of Predestination and Free Will
   slug: 2-the-issue-of-predestination-and-free-will
-  uuid: cec5a886-71ac-4b71-bcd0-8437b68e9eb0
+  uuid: 9513c621-0996-479c-83dd-7c463f511bd8
 ---

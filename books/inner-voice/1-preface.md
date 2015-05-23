@@ -28,11 +28,11 @@ for.
 The Mission commends the elders to give this booklet its widest possible
 circulation.
 
-Ahmed H. Shariff  
- President  
- Bilal Muslim Misson,  
- P.O.Box 313  
- MOSHI (Tanzania)
+Ahmed H. Shariff
+President
+Bilal Muslim Misson,
+P.O.Box 313
+MOSHI (Tanzania)
 
 Preface of the Second Edition
 -----------------------------
@@ -42,9 +42,9 @@ This book was published in March 1969. Some time later, the column
 time, more articles were published, which has been added in this
 edition.
 
-12 th April 1975  
- Ahmed H. Shariff  
- Chairman Bilal Muslim Mission,  
- Dar-es-Salaam
+12 th April 1975
+Ahmed H. Shariff
+Chairman Bilal Muslim Mission,
+Dar-es-Salaam
 
 

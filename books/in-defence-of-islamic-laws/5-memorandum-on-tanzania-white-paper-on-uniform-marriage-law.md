@@ -206,7 +206,7 @@ first wife (or wives) before marrying another one.
 Divorce
 -------
 
- There is no need to emphasize that in certain conditions divorce is the
+There is no need to emphasize that in certain conditions divorce is the
 only remedy left to a couple. The usefulness of the divorce system can
 be seen from the fact that even Hindus and many Christians have been
 compelled by sheer force of necessity to enact divorce laws.

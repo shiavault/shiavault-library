@@ -60,7 +60,7 @@ Israel because they bore up sufferings patiently"***[^3]
 In another connection, where the Qur’an mentions divine help for the
 holy war fighters, the issue of patience once more is raised:
 
-**  
+**
 **
 
 "بَلَى إِنْ تَصْبِرُوا وَتَتَّقُوا وَيَأْتُوكُمْ مِنْ فَوْرِهِمْ هَذَا
@@ -75,7 +75,7 @@ The Qur’an in one occasion praises the truth-seekers and believers and
 mentions that these people's success is due to the fact they were
 patient:
 
-**  
+**
 **
 
 "أُوْلَئِكَ يُؤْتَوْنَ أَجْرَهُمْ مَرَّتَيْنِ بِمَا صَبَرُوا
@@ -204,12 +204,12 @@ It is because of this constructive role of patience that Imam ‘Ali
 orders his son "Habituate yourself to patient endurance in afflictions;
 the best of moral traits is to constrain yourself to patience".
 
-The poet says:  
- Patience is bitter, but later  
- Will give you the fruit of importance.  
- In this nature, any nation will be miser,  
- Which gets used to the act of pleasure-taking.  
- In his letter to ‘Uthman b. Hunayf, Imam ‘Ali emphasizes this fact:
+The poet says:
+Patience is bitter, but later
+Will give you the fruit of importance.
+In this nature, any nation will be miser,
+Which gets used to the act of pleasure-taking.
+In his letter to ‘Uthman b. Hunayf, Imam ‘Ali emphasizes this fact:
 
 <blockquote dir="rtl">
   <p>

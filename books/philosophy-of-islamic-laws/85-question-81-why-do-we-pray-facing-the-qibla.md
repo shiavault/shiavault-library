@@ -43,8 +43,8 @@ Islam to the world in the form of the Unity of belief and views.
 If a person looks from on outside the earth the arrangement of the rows
 of Muslims in prayer he would see that all their rows are in form of
 circles whose center is one and the same and in the heart of those
-circles is the Ka'ba and it is an indication of the Unity of Muslims.  
-   
+circles is the Ka'ba and it is an indication of the Unity of Muslims.
+
 
 [^1]: Surah Baqarah 2:115
 

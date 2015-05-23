@@ -1,227 +1,227 @@
 ---
 source: :alislam
-source_url: http://www.al-islam.org/nahj-al-balaghah-children
+source_url: http://www.al-islam.org/nahj-al-balaghah-for-children
 publisher: Ahlul Bayt World Assembly
 title: Nahj al-Balaghah for Children
 slug: nahj-al-balaghah-for-children
-uuid: 2f7c2a20-e05c-4c01-8d17-5cbd0c6d1126
+uuid: 1e161bf6-f0fe-4732-848d-194572736814
 description: |
   A small selection from the great collection of speeches, sermons,
   letters, and sayings of Imam Ali (a). Short passages with pictures.
 chapters:
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/introduction
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/introduction
   title: Introduction
   slug: 1-introduction
-  uuid: c01d3a73-7a22-4aa1-9b84-25def2b50bfd
+  uuid: 648b419d-14b8-416c-91c7-c1d1eecbcd2b
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/creation
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/creation
   title: The creation
   slug: 2-the-creation
-  uuid: 9fbd17ee-3556-44e9-829e-0a6febc7aeaa
+  uuid: 5f79f2c5-a33a-42a9-97d4-63c415554275
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/earth
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/earth
   title: The earth
   slug: 3-the-earth
-  uuid: e187ec99-3c3f-4fae-a623-7284dd86f5b4
+  uuid: 15321c7d-1e94-4828-b7fd-f687506e5fbf
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/winds
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/winds
   title: The winds
   slug: 4-the-winds
-  uuid: 0a03ac5c-dbd5-4934-a42c-04956a49cc87
+  uuid: 0ff18d6a-56a0-4436-bc1a-6a96ece2f41f
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/moon
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/moon
   title: The moon
   slug: 5-the-moon
-  uuid: 8c9ac728-83f4-4604-a899-143840727f37
+  uuid: e6276303-eff9-4ef0-8660-61d57a5385c1
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/night
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/night
   title: The night
   slug: 6-the-night
-  uuid: 3c6f8a6d-e375-4aac-bc50-d4812d313548
+  uuid: b9924006-f73e-45bc-ba2a-a5b71f46f2db
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/sun
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/sun
   title: The sun
   slug: 7-the-sun
-  uuid: 4ee2caca-eb15-4650-80e2-7409fe731c3c
+  uuid: 044bb8a7-c2da-472d-9067-74099f8d5193
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/ant
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/ant
   title: The Ant
   slug: 8-the-ant
-  uuid: dfbbb433-8ff8-4345-8beb-6774dc54dc42
+  uuid: 950f8961-639f-43a6-ad70-b141dedfb124
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/feet
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/feet
   title: The Feet
   slug: 9-the-feet
-  uuid: cf2e4033-f2d9-4aeb-b564-44ea9581e696
+  uuid: 0665a506-7140-4780-bd5c-b39106b004e3
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/locust
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/locust
   title: The Locust
   slug: 10-the-locust
-  uuid: 71a0676a-cf53-443b-b2b3-160e4cce2ea2
+  uuid: 2ccfa8d2-c75f-4eac-9f2d-f30175e169db
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/birds
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/birds
   title: The Birds
   slug: 11-the-birds
-  uuid: 562eb2cd-e808-421f-8621-e89e6388b189
+  uuid: 1952d23c-d4b9-4d9c-b45e-d0ccdfe457c5
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/peacock
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/peacock
   title: The Peacock
   slug: 12-the-peacock
-  uuid: 7bd70daf-9a61-4c9b-bfb7-33b3ea4b9097
+  uuid: 35cd2864-d64e-48fe-aaf6-29efd94f350d
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/bat
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/bat
   title: The Bat
   slug: 13-the-bat
-  uuid: 3bdc8d08-83fb-49e0-befe-2566654c7472
+  uuid: 84c7eda7-67fc-4c4e-adf6-6a3618df1092
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/fishes
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/fishes
   title: The Fishes
   slug: 14-the-fishes
-  uuid: 7fc224e9-ffb1-4d49-ab9b-d84c129a1735
+  uuid: 0a7c9db6-0b8e-42ca-b647-dbec35bf129a
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/livelihood
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/livelihood
   title: Livelihood
   slug: 15-livelihood
-  uuid: 42270199-95c3-4070-b6f3-bd876119d34e
+  uuid: aa43b884-4f13-40c4-852f-4ba4009bf47b
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/david
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/david
   title: David
   slug: 16-david
-  uuid: 25f084a4-8976-407a-9947-3905025da21f
+  uuid: c37a9c6f-3f49-4135-b0aa-2573c2f1147f
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/herbs
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/herbs
   title: Herbs
   slug: 17-herbs
-  uuid: 86447c23-f1b7-4afd-93c7-5149d1d0134b
+  uuid: 30108050-76ef-4a59-807a-c776ce50c0f8
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/winter
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/winter
   title: Winter
   slug: 18-winter
-  uuid: bed859c0-bdf3-426b-8266-2978a1c02aeb
+  uuid: 29c3967a-b89f-469f-8786-27dc7a36e81e
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/good-tidings
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/good-tidings
   title: Good Tidings
   slug: 19-good-tidings
-  uuid: 613da14b-0125-47a2-bd71-548d18c03c29
+  uuid: 7aaf2cdf-7df3-47d3-a28d-10a87d73184a
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/people-arabia
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/people-arabia
   title: The People of Arabia
   slug: 20-the-people-of-arabia
-  uuid: 748102ee-7fff-489b-b501-05b31e0a2247
+  uuid: 41559888-ae15-4310-a2f3-a06473f49f9f
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/idols
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/idols
   title: Idols
   slug: 21-idols
-  uuid: cc54dc49-6291-435b-b5eb-5182ecdae3cd
+  uuid: bb545ff1-3d51-409b-9fb6-f2f73ceb5d67
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/holy-prophet
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/holy-prophet
   title: The Holy Prophet
   slug: 22-the-holy-prophet
-  uuid: 6a3ce688-802e-4a1b-b326-20bba5eea7b9
+  uuid: 72497b2c-b1e4-408f-86ef-72ed8a98a135
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/revelation
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/revelation
   title: The Revelation
   slug: 23-the-revelation
-  uuid: 556cc403-cc8e-4b0b-ab4d-392f426544e8
+  uuid: 0c8fe22a-80ce-4052-9c59-7962a2d9a918
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/stars
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/stars
   title: The Stars
   slug: 24-the-stars
-  uuid: 92c37616-a1d8-4a6e-989e-0df07bb3f775
+  uuid: 5dbcb243-cca9-4f1d-b90d-b94efe1a3db2
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/rain
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/rain
   title: The Rain
   slug: 25-the-rain
-  uuid: 3871114b-92df-41c6-beaa-d2c9aa915615
+  uuid: 132d8421-9398-42fb-a783-3fa9c1cffcb1
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/quran
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/quran
   title: The Qur'an
   slug: 26-the-qur-an
-  uuid: de999891-ab36-4313-9c5c-7e14cd18a7f2
+  uuid: 96793507-c75b-44b9-a56c-6338c8a75cc8
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/leader
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/leader
   title: Leader
   slug: 27-leader
-  uuid: 5e5671dc-9bcd-41d4-a809-caf4758d3e30
+  uuid: 28bd6287-12b5-46ae-8adb-f4c103437c99
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/tree-prophethood
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/tree-prophethood
   title: The Tree of Prophethood
   slug: 28-the-tree-of-prophethood
-  uuid: 4a7c7356-6157-4cc9-bcc3-c98f85e69dd5
+  uuid: 64ddb8d4-dac8-4e3e-a069-2670275cfdbd
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/lamp-darkness
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/lamp-darkness
   title: A Lamp in the Darkness
   slug: 29-a-lamp-in-the-darkness
-  uuid: 86a7947b-6522-4c0d-9afc-e9f15fccc4f3
+  uuid: 2b060c72-4ce9-4203-a1e2-c013c5d7b945
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/grain-barley
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/grain-barley
   title: A Grain of Barley
   slug: 30-a-grain-of-barley
-  uuid: a774b586-490b-4549-b049-841698d5bb5e
+  uuid: 4a03803f-ebc6-4acc-becf-6094ef65ad47
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/two-loaves-bread
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/two-loaves-bread
   title: Two Loaves of Bread
   slug: 31-two-loaves-of-bread
-  uuid: 48bf4313-b8c5-4025-a610-ae467501f571
+  uuid: 3e864a8b-fac7-4b0b-a7c0-f345d25dd3d9
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/mosquito
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/mosquito
   title: Mosquito
   slug: 32-mosquito
-  uuid: f29af293-a4ee-4918-b85d-3069b37be3ab
+  uuid: cb0262c5-e1dd-42ba-b29f-2e2449f01919
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/paradise
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/paradise
   title: Paradise
   slug: 33-paradise
-  uuid: f7defc92-6a4a-466e-9e22-83c766d836e6
+  uuid: 14645983-b38e-42f8-b430-ca271ccc5957
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/earths-produce
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/earths-produce
   title: The Earth's Produce
   slug: 34-the-earth-s-produce
-  uuid: ce6681ba-bbeb-4a53-8772-e9ec1d19d27f
+  uuid: 5c9a15de-3e54-4178-92f3-4efd4a5c3004
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/water
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/water
   title: Water
   slug: 35-water
-  uuid: 2b9abe46-eb7c-4c67-9db1-f97d8e8598a2
+  uuid: 5c733ccd-2207-47dd-905e-55d5e211eba1
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/insight
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/insight
   title: With Insight
   slug: 36-with-insight
-  uuid: 4773df05-d7af-44e0-acda-637ff9283ae8
+  uuid: edd7bedc-2b89-40cd-a79a-2e85e512d0e6
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/road
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/road
   title: Off The Road
   slug: 37-off-the-road
-  uuid: 2d368f27-3956-430d-af66-83fe610b48e7
+  uuid: c2a30b29-6fda-423a-aa31-f7076c5b8560
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/spring-hearts
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/spring-hearts
   title: The Spring Of Hearts
   slug: 38-the-spring-of-hearts
-  uuid: 229ff9f6-5975-4c08-9153-a7d7d01371a2
+  uuid: b87400ad-db66-463c-95ca-adce04d48cc3
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/prayer
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/prayer
   title: Prayer
   slug: 39-prayer
-  uuid: dd057f53-137b-4a6a-bc9d-4c682eaa5dc0
+  uuid: 72eab8f1-8ffc-4333-9153-f41cb9bb7421
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/sacred-house
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/sacred-house
   title: The Sacred House
   slug: 40-the-sacred-house
-  uuid: 9d8a505e-8491-46f8-8285-aaaf18538709
+  uuid: 781051e9-19a4-49a8-b628-8e29b1bce340
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/jihad
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/jihad
   title: Jihad
   slug: 41-jihad
-  uuid: 7ca19a2c-0745-45c9-bf08-9ed89777717b
+  uuid: e884a735-40c1-42e5-ae85-7768a7bb6724
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/strongest
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/strongest
   title: The Strongest
   slug: 42-the-strongest
-  uuid: 09cb8c3f-c0dc-45ab-ac6d-aec219adce81
+  uuid: 2a21ef07-1a96-43c6-9539-66950d1902ab
 - source: :alislam
-  source_url: http://www.al-islam.org/nahj-al-balaghah-children/life
+  source_url: http://www.al-islam.org/nahj-al-balaghah-for-children/life
   title: Life
   slug: 43-life
-  uuid: 221a0eab-b389-4419-9857-e2c4808d59f5
+  uuid: 8c072aa9-5005-4310-ac1b-f1223b7afb6f
 ---

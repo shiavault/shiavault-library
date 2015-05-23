@@ -16,10 +16,9 @@
 them responsible, for it is more appropriate so that they do not pass on
 their responsibilities to one another. Respect your relatives because
 they are your wings through which you fly and your roots to which you
-return and* *your hands through which you attack. I entrust your
-religion and your world to Allah, and I ask Him the best decree for you,
-now and in the future, in this world and the next, and peace (be on
-you).”*
+return and your hands through which you attack. I entrust your religion
+and your world to Allah, and I ask Him the best decree for you, now and
+in the future, in this world and the next, and peace (be on you).”*
 
 Commentary
 ----------
@@ -37,13 +36,13 @@ and chaos will reign over such societies.
 
 It is for this reason that in the sacred faith of Islam for each motion
 there is a task appointed to the believers and the imam is responsible
-to see that these tasks are carried out.  
- Based on this belief, Islam contends that if there were only two
+to see that these tasks are carried out.
+Based on this belief, Islam contends that if there were only two
 persons on the earth, one of them should be either a prophet or an imam
 so that he could establish the tasks for the other one and see that they
 were acted out. For this reason, the Great Prophet of Islam says:
 
-**  
+**
 **
 
 "اِذا كَانَ ثَلاثَةٌ في سَفَرٍ فَليُؤمِّروا اَحَدَهُم"
@@ -147,9 +146,9 @@ an imperative, rather than as a supplication and statement. They have
 written, for instance: "Entrust your faith and world to God and ask Him
 for better future."
 
-Lahijan, 25th Farvardin 1371,  
- 10th Shawwal 1412,  
- Zainol Abedin Qorbani
+Lahijan, 25th Farvardin 1371,
+10th Shawwal 1412,
+Zainol Abedin Qorbani
 
 [^1]: . Kanz al-‘Ummal, vol.6, p.717.
 

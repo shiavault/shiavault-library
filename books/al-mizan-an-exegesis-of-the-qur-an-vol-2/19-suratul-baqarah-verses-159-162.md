@@ -288,8 +288,8 @@ authority (or, choice) but to make it clear for the men who will be
 (Imam) after him.' ” (al- 'Ayyashi)
 
 Al-Baqir (a.s.) said about this verse: ”(Allah) means us by it, and to
-Allah is the resort for help.”  
- Muhammad ibn Muslim said: ”(The Imam) said: 'These are the People of
+Allah is the resort for help.”
+Muhammad ibn Muslim said: ”(The Imam) said: 'These are the People of
 the Book.' ”
 
 The author says: All these traditions are based on the prin­ciple of the

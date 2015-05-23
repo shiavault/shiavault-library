@@ -31,7 +31,7 @@ lightning of Allah (S.w.T.)’s Blessing and the net spread by Satan
 becomes visible to them in the momentary illumination. This puts the
 pious persons out of harms way.
 
- Now, let us consider what is Allah (S.w.T.)’s intent about *Tadhakkur*
+Now, let us consider what is Allah (S.w.T.)’s intent about *Tadhakkur*
 in the oft-quoted verse during our discussions.
 
 The Thought of Sin and Remembrance of Allah (S.w.T.)
@@ -43,9 +43,9 @@ summarizing here. When a *mu’min* suddenly gets the thought of crime in
 his mind, Satan and his retainers make their maximum efforts to make the
 person put his thought to action. But in that moment the pious person
 remembers Allah (S.w.T.) and he abandons the thought of committing the
-sin.  
-    
- There are also stages of Remembrance of Allah (S.w.T.) that are
+sin.
+
+There are also stages of Remembrance of Allah (S.w.T.) that are
 different according to the place and the situation. One of those
 situations is that when the thought of sin comes in the mind of the
 person, the instigator and prompter is Satan and the opposition of this
@@ -65,7 +65,7 @@ only bring destruction and perfidy.
 </blockquote>
 
 ***Did I not charge you, O children of Adam ! that you should not serve
-the Shaitan? Surely he is your open enemy.*** ***(Sura Ya Sin, 36:60)***
+the Shaitan? Surely he is your open enemy. (Sura Ya Sin, 36:60)***
 
 <blockquote dir="rtl">
   <p>
@@ -90,9 +90,9 @@ Remembrance of Allah (S.w.T.) Relieves From Satanic Fears
 Whenever satanic fears start getting into the heart, the man of piety
 busies himself in remembering Allah (S.w.T.). He thinks that if he
 committed the sin, he will be pushed away from Allah (S.w.T.)’s
-Blessing. What use will be the wretched life then!  
-    
- It is quite possible that Satan, in his renewed attempt, puts a thought
+Blessing. What use will be the wretched life then!
+
+It is quite possible that Satan, in his renewed attempt, puts a thought
 in the heart of the person that he was depriving himself of the pleasure
 of sin. The door of repentance was always open for him. The man of piety
 will then reply to Satan that what is the guarantee that he will get the
@@ -131,15 +131,15 @@ only Allah (S.w.T.). Allah (S.w.T.) says at the end of the Verse:
 Being Proud of One’s Prayers and Supplications
 ----------------------------------------------
 
-   
- Sometimes Satan tricks men into becoming proud of their prayers and the
+
+Sometimes Satan tricks men into becoming proud of their prayers and the
 love for the Ahl al-Bayt (a.s.). For example, he says, “How nice! You
 have gone on several pilgrimages to *Karbala al-Mu’alla!* You must have
 done innumerable good deeds during the visits to the Holy place. Husayn
 (a.s.) will certainly intercede on your behalf. Now, no sin can bring
-retribution to you.”  
-    
- But the *mu’min* instead of becoming proud and conceited with such
+retribution to you.”
+
+But the *mu’min* instead of becoming proud and conceited with such
 praises, should reply, “If I commit any sins, my intercessors {the Ahl
 al-Bayt (a.s.)} will be upset with me. This sin will become a curtain
 between me and Imam Husayn (a.s.). Allah (S.w.T.) only knows how far I
@@ -158,8 +158,8 @@ person is one who is the preacher and sermonizer for himself!”
 Satanic Fears in a State of Anger
 ---------------------------------
 
-   
- It happens that people sometimes become angry while they have a heated
+
+It happens that people sometimes become angry while they have a heated
 exchange of words. As a result of the altercation one might use abusive
 language. Satan tempts the other party to reciprocate in the same
 language and tenor. But if he is a man of *Taqwa*, he immediately
@@ -186,14 +186,14 @@ able to dispel the fear and confusion from his mind. Otherwise, the
 dispute can become a haranguing contest, each flinging foul-words on the
 other and might even result in physical assault. If, at the rudimentary
 stage of the dispute, effort was made to cool down the other party, the
-matter could have been sorted out without much ado!  
-    
- Now we can see at length how people get entangled in the web of Satan.
+matter could have been sorted out without much ado!
+
+Now we can see at length how people get entangled in the web of Satan.
 Even those who call themselves men of *taqwa* are not immune from this.
 If they don’t busy themselves in *Tadhakkur,* they most likely would
-fall in the trap sometime or other.  
-    
- Presence of a moralizer and preacher is absolutely necessary for the
+fall in the trap sometime or other.
+
+Presence of a moralizer and preacher is absolutely necessary for the
 heart of every person to keep him warned not to become a victim of false
 pride and abstain from childish actions. Remember! A real man is one who
 always keeps the end in view. For example, when one keeps his cool
@@ -201,9 +201,9 @@ during a heated argument with another person, the matter can be sorted
 out amicably. If this amicable nature is not there, how many persons
 would suffer tremendous losses fighting over trivial things with a sense
 of false pride. In such disputes Satan plays a very crucial role to
-create rifts and commission of sins by the litigants.  
-    
- It is necessary for every *mu’min* to keep the intercession of
+create rifts and commission of sins by the litigants.
+
+It is necessary for every *mu’min* to keep the intercession of
 *Tadhakkur* in his daily life. In the past there were such *Mu’minīn*
 who dug their own graves during their life times and used to recite the
 Holy Qur’an sitting inside these trenches. They did this to remind
@@ -228,9 +228,9 @@ Dawood (a.s.) reached the entrance of the cave and called, “O Hizqeel
 sent a Revelation to him, “Because of Dawood (a.s.)’s first sin, don’t
 reprimand him. To the contrary pray to Us for his pardon and well being!
 Whenever we leave anyone to his own scruples, he might commit a
-mistake!”  
-    
- Now Hadrat Hizqeel (a.s.) caught hold of Hadrat Dawood (a.s.)’s hand
+mistake!”
+
+Now Hadrat Hizqeel (a.s.) caught hold of Hadrat Dawood (a.s.)’s hand
 and guided him inside the cave.
 
 Hadrat Dawood (a.s.) asked Hadrat Hizqeel (a.s.), “O Hizqeel (a.s.)!
@@ -288,7 +288,7 @@ which was inscribed:
 
 *With worldly attractions!*”[^1]
 
- 
+
 
 A Bed of Two Hands Full of Dust
 -------------------------------
@@ -310,8 +310,8 @@ nowhere (like a rudder less ship). Man should strive to be like a
 mountain in his moral behavior. One who is vulnerable to the wave of
 doubts created by Satan, He should ensure that the glitter of the world
 doesn’t overwhelm him. This is possible if he keeps in mind the
-inevitable end that every mortal being is destined to!  
-  
+inevitable end that every mortal being is destined to!
+
 
 Visit the Cemeteries is a Must
 ------------------------------

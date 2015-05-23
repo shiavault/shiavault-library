@@ -35,8 +35,8 @@ Allah (S.w.T.)’s sanctuary. Those in whose hearts Satan doesn’t live,
 whenever he hovers around their heart for a chance to enslave them, they
 busy themselves in the Remembrance of Allah (S.w.T.). Thus their hearts
 are illumined, they become aware of Satan’s trickery and with the power
-of *Isti’adha* chase him away.  
-  
+of *Isti’adha* chase him away.
+
 
 The Supplication of Imam Sajjad (a.s.)
 --------------------------------------
@@ -73,8 +73,8 @@ light.
 
 The foolish house owner couldn’t realize there was someone there who was
 playing a trick on him. Hence, he gave up his efforts and retired to
-sleep again. The thief then did his work and departed.  
-  
+sleep again. The thief then did his work and departed.
+
 
 A Thief in the Heart
 --------------------
@@ -89,8 +89,8 @@ of Allah (S.w.T.), man doesn’t realize that he is completely in the
 clutches of Satan. In such a situation, however much one sermonizes
 about Allah (S.w.T.), the Prophet and the Imams (a.s.) he will not see
 any reason. Satan will not allow the litigant to mend his attitude more
-because he is not a man of piety.  
-  
+because he is not a man of piety.
+
 
 Refrain from Fights Even if you Are Right
 -----------------------------------------
@@ -109,8 +109,8 @@ the mosque, under the control of Satan. Do these persons really come to
 the mosque in obedience to Allah (S.w.T.)? If they have come with Allah
 (S.w.T.)’s call, then why are they so self-conscious? If they refrain
 from fights and adopt piety, then only they will have vision and get
-deliverance.  
-  
+deliverance.
+
 
 The Patience Of Hadrat Dhul Kifl (a.s.)
 ---------------------------------------
@@ -137,8 +137,8 @@ One should know that when a person is steadfast in his resolve to keep
 on the right path, Satan strives with equal tenacity to break his
 resolve. Hadrat Dhul Kifl (a.s.) was resolved to prevent the thought of
 anger ever crossing his mind. He stood like a mountain against all the
-efforts of Satan to provoke anger in him.  
-  
+efforts of Satan to provoke anger in him.
+
 
 Satan Seeks Help
 ----------------
@@ -152,8 +152,8 @@ Dhul Kifl (a.s.) was that he used to be praying and supplicating the
 whole night. During the day he kept himself busy attending to the tasks
 of people till *Dhuhr* prayer. He used to sleep at this time and awake
 at the time of *Asr.* Thereafter he used to busy himself in the service
-of people.  
-  
+of people.
+
 
 Satan Knocks At The Door
 ------------------------
@@ -177,8 +177,8 @@ the previous day. Again he cried, shouted and disturbed Hadrat Dhul Kifl
 him and gave a letter in the name of the respondent.
 
 Abyad went away and Hadrat Dhul Kifl (a.s.) was unable to sleep even on
-that day.  
-  
+that day.
+
 
 Satan Gets Frustrated
 ---------------------
@@ -221,8 +221,8 @@ head immediately!” Then he sent Zaid out of the court.
 It is not only Ibn Ziyad who perpetrated such foul behavior. Anyone
 whose heart is blind and deaf will have such tendencies. Any talk of
 remembrance of Allah (S.w.T.) will fall on the flat ears of such
-persons.  
-    
-  
+persons.
+
+
 
 

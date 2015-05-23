@@ -1,15 +1,14 @@
 Patience
 ========
 
-   
- Patience reveals whatever light and purity there is in the innermost
+Patience reveals whatever light and purity there is in the innermost
 being of Allah's servants, while anxiety shows up the darkness and
 bereftness inside them. Everyone claims to be patient, but only the
 humble are firm in it. Everyone denies his anxiety, although it is quite
 obvious in a hypocrite because the onset of trials and afflictions tells
-you who is truthful and who is a liar.  
-    
- Patience is a sensation that continuously prevails in one's
+you who is truthful and who is a liar.
+
+Patience is a sensation that continuously prevails in one's
 consciousness, but what occurs upon a sudden upset cannot be called
 patience. Anxiety is what disturbs the heart and brings the person
 sorrow, changing his complexion and his state. Every event whose
@@ -19,10 +18,10 @@ beginning of patience is bitter, but its end is sweet for some people;
 but for others both its beginning and end are bitter. Whoever enters it
 at its end has entered it. Whoever enters it from its beginning has left
 it. A person who knows the value of patience cannot bear to be without
-it.  
-    
- In the story of Moses and Khidr Allah said,  
-  
+it.
+
+In the story of Moses and Khidr Allah said,
+
 
 <blockquote dir="rtl">
   <p>
@@ -33,11 +32,11 @@ it.
 ***How can you have patience in that of which you have no comprehensive
 knowledge?*** (18:68)
 
-   
- Whoever is unwillingly patient, who does not complain to people and
+
+Whoever is unwillingly patient, who does not complain to people and
 does not become anxious when his veil is rent, is counted among the
-common people. His share is as Allah said,  
-  
+common people. His share is as Allah said,
+
 
 <blockquote dir="rtl">
   <p>
@@ -47,11 +46,11 @@ common people. His share is as Allah said,
 
 ***Give good news to the patient,*** (2:155)
 
-   
- That is, good news of the Garden and forgiveness. Whoever meets
+
+That is, good news of the Garden and forgiveness. Whoever meets
 affliction with an open heart, showing patience with tranquility and
-dignity, is counted among the elite and his portion is as Allah said,  
-  
+dignity, is counted among the elite and his portion is as Allah said,
+
 
 <blockquote dir="rtl">
   <p>

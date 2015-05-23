@@ -26,8 +26,8 @@ is saved.
 
 **Sile-rahm -** so that the number of Muslims increase in the world.
 
-**Qisas -** so that the lives of the people are protected.  
-    
-  
+**Qisas -** so that the lives of the people are protected.
+
+
 
 

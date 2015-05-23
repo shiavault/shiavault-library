@@ -124,8 +124,8 @@ Commentary
 Apostle...:*** It appears from this sentence that some of the Muslims –
 although believing in the Prophet (S) - had put some questions to him
 not unlike the questions put to Musa (a.s.) by the Jews. That is why
-they have been placed here in line with the Jews for admonition.  
- The tradition too supports this interpretation.
+they have been placed here in line with the Jews for admonition.
+The tradition too supports this interpretation.
 
 **Qur’an:** ***the right way:*** that is, the straight path.
 
@@ -303,8 +303,8 @@ the cases of disliked and forbidden things. And so on.
 
 The above is a key factor in understanding the traditions narrated from
 the Imams; and on it depends the knowledge of a multitude of their
-traditions.  
- You may infer from it two important principles of the Qur'anic
+traditions.
+You may infer from it two important principles of the Qur'anic
 knowledge:
 
 **First:** Every Qur'anic clause or sentence, taken alone, describes an
@@ -323,8 +323,8 @@ then leave them sporting in their vain discourses”. Many such examples
 may be found in the Qur'an.
 
 Second: If two stories or two themes are joined in one sentence or
-clause, both of them must be having a common base.  
- These two esoteric principles of exegesis open the way to many Qur'anic
+clause, both of them must be having a common base.
+These two esoteric principles of exegesis open the way to many Qur'anic
 secrets - and Allah is the true Guide.
 
 

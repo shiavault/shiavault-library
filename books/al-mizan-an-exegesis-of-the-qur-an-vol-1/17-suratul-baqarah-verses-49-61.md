@@ -108,7 +108,7 @@ Suratul Baqarah: Verses 49-61
 
 ***And when We delivered you from Pharaoh's people, who subjected you to
 severe torment, killing your sons and sparing your women, and in this
-there was a great trial from your Lord (49).***  
+there was a great trial from your Lord (49).***
 ***And when We parted the sea for you, so We saved you and drowned the
 followers of Pharaoh while you watched by (50).***
 

@@ -1,11 +1,12 @@
 ---
 source: :alislam
-source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji
+source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji
 author: Zainol Aabideen Qorbani Lahiji
 publisher: Ansariyan Publications - Qum
-title: Imam 'Ali's First Treatise on The Islamic Ethics and Education
+translator: Mahmud Farrokhpey
+title: Imam ‘Ali’s First Treatise On The Islamic Ethics And Education
 slug: imam-ali-s-first-treatise-on-the-islamic-ethics-and-education
-uuid: 5cd71964-dd82-41a4-9804-fde8a4056cb4
+uuid: db995bea-ca2d-480f-be74-9d1d00f646b2
 description: |
   In this book, the author first discusses what ethics essentially is, and
   the views of various philosophers and schools of thought on it. After
@@ -14,208 +15,208 @@ description: |
   composed.
 chapters:
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/preface
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/preface
   title: Preface
   slug: 1-preface
-  uuid: 1130f08f-28df-46d7-b6cf-074db3c2af27
+  uuid: 756eac28-13a4-4c19-82b2-6d4aafb57666
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/commentary
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/commentary-imam-alis-will-his-son
   title: A Commentary On Imam ‘Ali's Will To His Son Imam Hasan (as)
   slug: 2-a-commentary-on-imam-ali-s-will-to-his-son-imam-hasan-as
-  uuid: 55b7f333-8c81-466d-92d2-271e9983f8a0
+  uuid: dc43c253-941d-4f07-98ed-a8f3a93f0add
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/fourteen
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/fourteen-attributes-imam-alis-son
   title: The Fourteen Attributes of Imam ‘Ali's Son
   slug: 3-the-fourteen-attributes-of-imam-ali-s-son
-  uuid: 2a7d3d16-6607-4d60-9474-499e86edf8c5
+  uuid: e41ffabc-11a1-4e01-a3d6-b23822b6f43e
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/1-my-son-i
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/1-my-son-i-recommend-you-god
   title: 1) My Son, I recommend you to God-wariness
   slug: 4-1-my-son-i-recommend-you-to-god-wariness
-  uuid: b1eee4a5-855d-4db7-96ce-b138d2bdac90
+  uuid: 62f6c61b-cd7f-4f59-af32-f7e07fe13bc0
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/2-fulfilment
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/2-fulfilment-gods-commands
   title: 2) Fulfilment of God's Commands
   slug: 5-2-fulfilment-of-god-s-commands
-  uuid: 64b14006-1805-4e4b-886e-80f1f5b56aa9
+  uuid: 2c0467f2-1dab-4301-b902-4759419a0aa4
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/3-inhabit-your
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/3-inhabit-your-heart-gods
   title: 3) Inhabit your Heart with God's Remembrance
   slug: 6-3-inhabit-your-heart-with-god-s-remembrance
-  uuid: 313ac8a3-20a4-4ee1-a7c2-c0929581a33a
+  uuid: d9c47108-2419-4e0b-aa0d-e5bccd6a3282
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/4-adherence
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/4-adherence-his-cord
   title: 4) Adherence to His Cord
   slug: 7-4-adherence-to-his-cord
-  uuid: 153ddd87-6019-4232-a948-99b9107931b5
+  uuid: d6c0a30d-a5a9-47a7-bf88-4787bdcdfec9
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/5-enliven-your
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/5-enliven-your-heart-exhortation
   title: 5) Enliven Your Heart with Exhortation
   slug: 8-5-enliven-your-heart-with-exhortation
-  uuid: 237a7a5c-2be7-4495-a76a-fbd1f94301c4
+  uuid: 10e7d5d1-111d-41fb-becf-11fde760ce5a
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/6-cause-your
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/6-cause-your-heart-die-through
   title: 6) Cause your heart to die through asceticism
   slug: 9-6-cause-your-heart-to-die-through-asceticism
-  uuid: 64415675-375b-4c67-b26e-5d6c4d7fc697
+  uuid: 3a2025c5-d767-4fab-ac58-e11f9c0bafa7
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/7-strengthen
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/7-strengthen-your-heart-certainty
   title: 7)  Strengthen Your Heart With Certainty
   slug: 10-7-strengthen-your-heart-with-certainty
-  uuid: f057c947-4378-46bd-a48e-6232d898e9e3
+  uuid: fefee7f5-b619-4e67-9c0c-62f91e4681a9
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/8-illuminate
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/8-illuminate-your-heart-wisdom
   title: 8) Illuminate your heart with Wisdom
   slug: 11-8-illuminate-your-heart-with-wisdom
-  uuid: 89ccde8b-540d-4952-b708-19217e192f76
+  uuid: 7e105071-39e5-431b-9c5f-2101e2e15d57
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/9-make-your
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/9-make-your-heart-submissive
   title: 9) Make your heart submissive with the remembrance of Death
   slug: 12-9-make-your-heart-submissive-with-the-remembrance-of-death
-  uuid: 0984ca0d-0820-4b19-a468-fa18cc43fa6a
+  uuid: b91cc3e8-bf1b-45c3-8bfc-ed98963963d7
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/10-make-your
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/10-make-your-heart-acknowledge-its
   title: 10) Make your heart acknowledge its mortality
   slug: 13-10-make-your-heart-acknowledge-its-mortality
-  uuid: 0c4a5d12-39c4-450d-a810-8e30424ba932
+  uuid: 1467fd64-9cc0-49a4-8dba-bd3f2271cfba
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/11-cause-your
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/11-cause-your-heart-perceive
   title: 11) Cause your heart to perceive the calamities of this world
   slug: 14-11-cause-your-heart-to-perceive-the-calamities-of-this-world
-  uuid: b343adb0-2461-49ac-9793-33c7cc81c686
+  uuid: 93336806-4d6d-423b-9fef-742c2c9a82ce
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/12-warn-your
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/12-warn-your-heart-assault-time
   title: 12) Warn your heart of the assault of time and the evil inconstancy of the
     nights and days
   slug: 15-12-warn-your-heart-of-the-assault-of-time-and-the-evil-inconstancy-of-the-nights-and-days
-  uuid: 7e3fae7f-d815-4baf-928a-37b1aeb93fc1
+  uuid: a3bc817f-fbb7-459b-9408-5f19b8ad5028
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/13-present
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/13-present-your-heart-reports-past
   title: 13) Present to your heart the reports of the past ones, and remember that
     you will soon become one of them
   slug: 16-13-present-to-your-heart-the-reports-of-the-past-ones-and-remember-that-you-will-soon-become-one-of-them
-  uuid: da28f6b3-f0cd-4ece-bc35-fabd1564f0a6
+  uuid: ed7318f1-756d-42f1-ab30-b9c9cb74da76
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/14-therefore
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/14-therefore-set-right-your-place
   title: 14) Therefore, set right your place of rest and do not sell your Hereafter
     for your world.
   slug: 17-14-therefore-set-right-your-place-of-rest-and-do-not-sell-your-hereafter-for-your-world
-  uuid: 5f519941-0ac1-4899-a7ac-428a78992c00
+  uuid: 2a3ca50a-dbc7-4da5-9d75-6048ddfffa5a
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/15-do-not-talk
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/15-do-not-talk-about-what-you-do
   title: 15) Do not talk about what you do not know or speak about what is not required
     of you.
   slug: 18-15-do-not-talk-about-what-you-do-not-know-or-speak-about-what-is-not-required-of-you
-  uuid: 0a76ba4c-5ece-4a30-a577-3d3b4b4a540c
+  uuid: 0d009d6e-4bf4-4a43-9a04-fc8160e9c087
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/16-keep-away
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/16-keep-away-path-if-you-fear-it
   title: 16) Keep away from a path if you fear it will lead you astray, for holding
     back from the perplexity of misguidance is better than encountering terrifying
     events
-  slug: 19-16-keep-away-from-a-path-if-you-fear-it-will-lead-you-astray-for-holding-back-from-the-perplexity-of-misguidance-is-better-than-encountering-terrifying-events
-  uuid: 43607d10-7b27-434f-99c1-01c7de5f0cc4
+  slug: 19-16-keep-away-from-a-path-if-you-fear-it-will-lead-you-astray-for-holding-back-from-the-perplexity-of-misguidance-is-b
+  uuid: 7ad4cc00-b8e9-4591-b0f9-57ec95dbf99c
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/17-bid-others
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/17-bid-others-do-good-and-reject
   title: 17. Bid Others to do Good and Reject Evil
   slug: 20-17-bid-others-to-do-good-and-reject-evil
-  uuid: 72421c3e-d1f4-4d89-ae10-ecd13e5ed2e5
+  uuid: b3a6cbe4-6969-43b5-812c-4babb3519509
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/18-become
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/18-become-learned-religion
   title: 18) Become Learned in Religion
   slug: 21-18-become-learned-in-religion
-  uuid: 2dce1423-37b3-428d-b3c4-2479ebea9d94
+  uuid: b9c099d8-e017-44a8-b66d-7731593e7ccb
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/19-habituate
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/19-habituate-yourself-patient
   title: 19) Habituate yourself to patient endurance in afflictions
   slug: 22-19-habituate-yourself-to-patient-endurance-in-afflictions
-  uuid: 6254cd4c-b305-4dd5-9959-c76b3270a33c
+  uuid: 3cecac32-9c41-4fa9-95bf-c4fa70944424
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/20-commit-your
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/20-commit-your-self-all-your
   title: 20) Commit your self in all your affairs to your God, for you will thus be
     committing it to a secure Cave and a mighty Protector.
-  slug: 23-20-commit-your-self-in-all-your-affairs-to-your-god-for-you-will-thus-be-committing-it-to-a-secure-cave-and-a-mighty-protector
-  uuid: 6b6e23ae-108d-4b7f-97d6-6a6c9c01e0d9
+  slug: 23-20-commit-your-self-in-all-your-affairs-to-your-god-for-you-will-thus-be-committing-it-to-a-secure-cave-and-a-mighty-
+  uuid: fb19d166-f9d2-4209-8819-4f963f01740b
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/21-be-sincere
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/21-be-sincere-your-asking-your
   title: 21. Be sincere in your asking from your Lord, for in His hand is the bestowal
     and refusal, and ask God frequently for the best.
-  slug: 24-21-be-sincere-in-your-asking-from-your-lord-for-in-his-hand-is-the-bestowal-and-refusal-and-ask-god-frequently-for-the-best
-  uuid: fe8358ea-05c3-4ed4-b489-6bfc902db4cf
+  slug: 24-21-be-sincere-in-your-asking-from-your-lord-for-in-his-hand-is-the-bestowal-and-refusal-and-ask-god-frequently-for-th
+  uuid: 01c261b9-3245-46a5-a273-c94294d96d6b
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/22-understand
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/22-understand-my-testament-and-do
   title: 22)  Understand my testament and do not disregard it, for indeed the best
     speech is that which is is beneficial.
   slug: 25-22-understand-my-testament-and-do-not-disregard-it-for-indeed-the-best-speech-is-that-which-is-is-beneficial
-  uuid: 6ddb9d16-7a53-4c76-9a7f-d95930ca5b5a
+  uuid: 071c607d-16c2-4cfb-ab58-3ba8820c4145
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/23-know-there
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/23-know-there-no-good-knowledge
   title: 23) Know that there is no good in knowledge that is not beneficial, and knowledge
     that is not worthy of acquisition is not beneficial
-  slug: 26-23-know-that-there-is-no-good-in-knowledge-that-is-not-beneficial-and-knowledge-that-is-not-worthy-of-acquisition-is-not-beneficial
-  uuid: 31ede9dc-5bf9-40ec-8e48-dad17a2b040e
+  slug: 26-23-know-that-there-is-no-good-in-knowledge-that-is-not-beneficial-and-knowledge-that-is-not-worthy-of-acquisition-is-
+  uuid: 9468cc71-01be-4acd-b271-47278b9f33b9
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/24
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/24-contemplation-past-nations-and
   title: 24) Contemplation of Past Nations and Their Actions
   slug: 27-24-contemplation-of-past-nations-and-their-actions
-  uuid: 0b3f1623-7d24-40c9-9216-ee924607872a
+  uuid: 5e08beb6-dcc4-46a1-b17b-ed42e7c38965
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/25-god
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/25-god-wariness-and-knowledge
   title: 25) God Wariness And Knowledge
   slug: 28-25-god-wariness-and-knowledge
-  uuid: 6c84f733-c922-4f3c-9f63-b07a4bc7468b
+  uuid: b010870c-fa7d-410a-9adf-4528fbacabfc
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/26-everything
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/26-everything-allah-and-allah-will
   title: 26) Everything is From Allah And Allah Will Return
   slug: 29-26-everything-is-from-allah-and-allah-will-return
-  uuid: 8d2025a7-f726-4fe5-b59b-8bb11c351724
+  uuid: 877a9eae-b397-4ca9-ae18-b408c08b6b04
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/27-take
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/27-take-prophet-your-guide-and
   title: 27) Take the Prophet as your Guide and Islam as your Religion
   slug: 30-27-take-the-prophet-as-your-guide-and-islam-as-your-religion
-  uuid: 221e975f-63c6-4600-8392-7786cbc17eb2
+  uuid: 4616cdbd-b389-441e-bce5-6f68c8efe79d
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/28-perilous
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/28-perilous-road-doomsday
   title: 28) The Perilous Road to Doomsday
   slug: 31-28-the-perilous-road-to-doomsday
-  uuid: dad9cb33-56dc-497e-9fc3-11842c08309f
+  uuid: 732c7f2a-2e56-4731-97ba-1ed5b7b12fb6
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/29
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/29-supplication-and-its-importance
   title: 29) Supplication and Its Importance
   slug: 32-29-supplication-and-its-importance
-  uuid: b11c6777-27d9-4c2f-b79d-82380755622e
+  uuid: b0eebfb0-b220-4e53-ac7a-14bcbefcd746
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/30-world-only
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/30-world-only-path-hereafter-so
   title: 30) This World is only the path for the Hereafter, so remember Death frequently
   slug: 33-30-this-world-is-only-the-path-for-the-hereafter-so-remember-death-frequently
-  uuid: cadc2be7-05da-4f69-8d9c-05f7cfa75351
+  uuid: b7f77eff-311b-4374-97b3-8f5f344883c4
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/31-preserve
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/31-preserve-yourself-greedness
   title: 31) Preserve Yourself from the Greedness of this World and remain Free
   slug: 34-31-preserve-yourself-from-the-greedness-of-this-world-and-remain-free
-  uuid: 5e968403-4d3d-473c-9bbe-ef895481c16c
+  uuid: 19d29082-eb10-4622-be54-898903c91343
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/32-silence-and
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/32-silence-and-moderation
   title: 32) Silence and Moderation
   slug: 35-32-silence-and-moderation
-  uuid: f7911044-bbaa-49f8-ac92-252680f343f6
+  uuid: b91e6b4d-801b-4877-8cd8-2567090083a3
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/33-delicate
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/33-delicate-tasks-man-towards-his
   title: 33) The Delicate Tasks of a Man towards His Friend
   slug: 36-33-the-delicate-tasks-of-a-man-towards-his-friend
-  uuid: f4005aa8-d085-4dc2-ae74-979d4ce177c3
+  uuid: 1fdc3bdf-9878-4e00-83d2-f873b7fb4c01
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/34-kinds
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/34-kinds-sustenance
   title: 34)  Kinds of Sustenance
   slug: 37-34-kinds-of-sustenance
-  uuid: 38884c43-9543-428f-85e3-24ac85c0a16e
+  uuid: 45d89a43-84bd-48d0-b3d8-4e0b3b6d3473
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/35-beware-who
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/35-beware-who-you-consult
   title: 35) Beware of who you consult with
   slug: 38-35-beware-of-who-you-consult-with
-  uuid: b323aa09-c8ee-4544-b450-6b393cf0eb1e
+  uuid: 6d2ab18a-4b61-46a5-bd76-a0722aef15dd
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-and-education-zainol-aabideen-qorbani-lahiji/36-last-three
+  source_url: http://www.al-islam.org/imam-ali-s-first-treatise-islamic-ethics-education-qorbani-lahiji/36-last-three-advices-imam-alis
   title: 36) The Last Three Advices of Imam ‘Ali’s Letter
   slug: 39-36-the-last-three-advices-of-imam-ali-s-letter
-  uuid: 187685a0-284b-4f2f-94c5-a6bfffbaef8f
+  uuid: b1ed4cbb-292a-4391-9691-c9672cebb9c7
 ---

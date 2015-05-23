@@ -25,9 +25,9 @@ earned***.”[^2]
 
 Therefore if in the captioned ayat it is said they shall not be
 questioned, it means that there will not be oral interrogation. But
-other witnesses that are the physical parts will give the replies.  
-     
-  
+other witnesses that are the physical parts will give the replies.
+
+
 
 [^1]: Surah Rahman 55:39
 

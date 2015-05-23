@@ -58,8 +58,8 @@ Imam al-Baqir (a.s.) addresses one of his friends in this way:
 “Always remember Allah, because His remembrance is a hindrance between a
 person and unlawful deed.”[^4]
 
-Asbagh ibn Nubata says the Amir al-Mu’mineen (a.s.) said:  
- “Remember Allah on two places, one at the time of distress and when you
+Asbagh ibn Nubata says the Amir al-Mu’mineen (a.s.) said:
+“Remember Allah on two places, one at the time of distress and when you
 are about to commit a small sin, and to remember Allah at the time of
 sin is more important because His remembrance is a hindrance between the
 person and the sin.”

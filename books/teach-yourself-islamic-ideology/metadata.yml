@@ -1,0 +1,86 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/teach-yourself-islamic-ideology
+publisher: Foreign Department of Bethat Foundation
+translator: Laleh Bakhliar
+title: Teach Yourself Islamic Ideology
+slug: teach-yourself-islamic-ideology
+uuid: 581f3825-be94-437d-9114-ae0da4250630
+description: |
+  Teach Yourself Islamic Ideology contains various lessons with the aim of
+  getting a better and thorough understanding of Islamic Ideology at 360°
+  degrees. The Lessons presented in Teach Yourself lslamic Ideology were
+  prepared in Persian by Mahmud Rajavi, Mahmud Muhammadi and Akbar Mirsiah
+  from the Dar Rah Haqq Organization in Qum.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/teach-yourself-islamic-ideology/translators-preface
+  title: Translator's Preface
+  slug: 1-translator-s-preface
+  uuid: cade58fe-4de0-4290-a11d-2b91cd1cc801
+- source: :alislam
+  source_url: http://www.al-islam.org/teach-yourself-islamic-ideology/lesson-1-human-beings-world-and-ideology
+  title: 'Lesson 1: Human Beings, the World and Ideology'
+  slug: 2-lesson-1-human-beings-the-world-and-ideology
+  uuid: a532d7dd-45e6-43c3-98f5-88d829b37d81
+- source: :alislam
+  source_url: http://www.al-islam.org/teach-yourself-islamic-ideology/lesson-2-humanology-anthropology-part-1
+  title: 'Lesson 2: Humanology (Anthropology) Part 1'
+  slug: 3-lesson-2-humanology-anthropology-part-1
+  uuid: 5b446ee7-ee3f-4a6f-b930-70bffe47d45a
+- source: :alislam
+  source_url: http://www.al-islam.org/teach-yourself-islamic-ideology/lesson-3-humanology-anthropology-part-2
+  title: 'Lesson 3: Humanology (Anthropology) Part 2'
+  slug: 4-lesson-3-humanology-anthropology-part-2
+  uuid: dd784a78-4ca2-47ba-82b3-cd68e117d8e7
+- source: :alislam
+  source_url: http://www.al-islam.org/teach-yourself-islamic-ideology/lesson-4-humanology-anthropology-part-3
+  title: 'Lesson 4: Humanology (Anthropology) Part 3'
+  slug: 5-lesson-4-humanology-anthropology-part-3
+  uuid: 8532da8b-2e3a-443a-b0a3-d9deddfab463
+- source: :alislam
+  source_url: http://www.al-islam.org/teach-yourself-islamic-ideology/lesson-5-world-view
+  title: 'Lesson 5: World View'
+  slug: 6-lesson-5-world-view
+  uuid: 575ede83-d142-43b1-8885-4523abd2375f
+- source: :alislam
+  source_url: http://www.al-islam.org/teach-yourself-islamic-ideology/lesson-6-monotheism-part-1
+  title: 'Lesson 6: Monotheism: Part 1'
+  slug: 7-lesson-6-monotheism-part-1
+  uuid: 44385d58-8b22-4dc4-baf5-dd729789168b
+- source: :alislam
+  source_url: http://www.al-islam.org/teach-yourself-islamic-ideology/lesson-7-monotheism-part-2
+  title: 'Lesson 7: Monotheism Part 2'
+  slug: 8-lesson-7-monotheism-part-2
+  uuid: ea7b9516-39dc-4fb6-8ef7-45dfaf32ed8f
+- source: :alislam
+  source_url: http://www.al-islam.org/teach-yourself-islamic-ideology/lesson-8-revelation-and-prophethood-part-1
+  title: 'Lesson 8: Revelation and Prophethood Part 1'
+  slug: 9-lesson-8-revelation-and-prophethood-part-1
+  uuid: 0ac2100b-9be5-4445-9ae0-1b66080e100f
+- source: :alislam
+  source_url: http://www.al-islam.org/teach-yourself-islamic-ideology/lesson-9-revelation-and-prophethood-part-2
+  title: 'Lesson 9: Revelation and Prophethood Part 2'
+  slug: 10-lesson-9-revelation-and-prophethood-part-2
+  uuid: ead95cca-69c5-4578-9745-2cd6cc74c21f
+- source: :alislam
+  source_url: http://www.al-islam.org/teach-yourself-islamic-ideology/lesson-10-another-look-prophethood-based-monotheism
+  title: 'Lesson 10: Another Look at Prophethood based on Monotheism'
+  slug: 11-lesson-10-another-look-at-prophethood-based-on-monotheism
+  uuid: 4d1ee61a-5c23-4ec7-9047-43ba5e397158
+- source: :alislam
+  source_url: http://www.al-islam.org/teach-yourself-islamic-ideology/lesson-11-resurrection-part-1
+  title: 'Lesson 11: Resurrection Part 1'
+  slug: 12-lesson-11-resurrection-part-1
+  uuid: 6979e97b-62cb-4204-9ad8-b08525a37b62
+- source: :alislam
+  source_url: http://www.al-islam.org/teach-yourself-islamic-ideology/lesson-12-resurrection-part-2
+  title: 'Lesson 12: The Resurrection Part 2'
+  slug: 13-lesson-12-the-resurrection-part-2
+  uuid: 8e71b129-6455-49ff-a3e1-15c37487383b
+- source: :alislam
+  source_url: http://www.al-islam.org/teach-yourself-islamic-ideology/lesson-13-resurrection-part-3
+  title: 'Lesson 13: Resurrection Part 3'
+  slug: 14-lesson-13-resurrection-part-3
+  uuid: c2207b29-4fe8-4385-bc11-2dff6f259e51
+---

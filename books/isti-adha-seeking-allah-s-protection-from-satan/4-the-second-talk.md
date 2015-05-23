@@ -38,8 +38,8 @@ Satan’s Trap or Bait
 This evening we shall consider three good deeds of men that Satan makes
 the best efforts to nullify. They are:
 
-*Ahad :* Promises or resolutions  
-*Nadhr :* Or offerings  
+*Ahad :* Promises or resolutions
+*Nadhr :* Or offerings
 *Sadaqa :* Or charity
 
 When a person resolves to Allah (S.w.T.) for performing a certain act
@@ -80,8 +80,8 @@ brag about his charitable act. For example, Satan will put in the mind
 of the person to tell to the beneficiary of the charity, ‘It was I who
 came to your rescue in time of need! None else would have helped you!’
 Or Satan would make him belittle the receiver of the charity by saying,
-‘Take this money now. But please don’t come to me for help again!”  
- Therefore, Allah (S.w.T.) categorically says in the Holy Qur’an:
+‘Take this money now. But please don’t come to me for help again!”
+Therefore, Allah (S.w.T.) categorically says in the Holy Qur’an:
 
 <blockquote dir="rtl">
   <p>
@@ -94,8 +94,8 @@ al-Baqara, 2:264)***
 
 In a nutshell, Satan is a mortal enemy of men and always schemes to make
 their good turns go in vain. Therefore, they too have to render Satan’s
-mean efforts ineffective!  
-  
+mean efforts ineffective!
+
 
 Satan sets his sight on the hearts of people
 --------------------------------------------
@@ -274,8 +274,8 @@ Retribution for the evil deeds committed under the spell of Satan!
 </blockquote>
 
 ***And he has no authority over them, but that We may distinguish him
-who believes in the hereafter from him who is in doubt concerning it;
-and your Lord is the Preserver of all things. (Sura Saba, 34:21)***
+who believes in the*** ***hereafter from him who is in doubt concerning
+it; and your Lord is the Preserver of all things. (Sura Saba, 34:21)***
 
 You see that a particular lady has claims of piety. Satan approaches her
 in the garb of a human being and says, ‘Madam! You have become
@@ -288,9 +288,9 @@ Definitely, the purpose of the creation of Satan is to test the human
 beings as to their determination to be steadfast on the right path.
 Those who are fickle minded and susceptible to be led astray by Satan
 are also tested by Satan! Thus Allah (S.w.T.) gets a proof of who is
-*mu’min* (believer) and who is *fajir* (immoral).  
-    
-  
+*mu’min* (believer) and who is *fajir* (immoral).
+
+
 
 ### Allah (S.w.T.)’s promise and Satan’s promise
 
@@ -325,8 +325,8 @@ of each other to test the people as to who are righteous and who are
 going astray!
 
 Who knows The Day of Reckoning might be tomorrow! For that Day the right
-to get Reward and Retribution is being earned by men today!  
-  
+to get Reward and Retribution is being earned by men today!
+
 
 ### Satan never thrusts his will on people forcibly
 
@@ -363,6 +363,6 @@ themselves rather than cursing him!
 obeyed me, therefore do not blame me but blame yourselves. (Sura
 Ibrahim, 14:22)***
 
- 
+
 
 

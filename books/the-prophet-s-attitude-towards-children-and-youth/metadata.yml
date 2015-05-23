@@ -1,0 +1,37 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/prophets-attitude-towards-children-and-youth-muhammad-ali-chenarani
+author: Muhammad Ali Chenarani
+publisher: ABWA Publishing and Printing Center
+translator: Mahdi Azadi
+title: The Prophet’s Attitude towards Children and Youth
+slug: the-prophet-s-attitude-towards-children-and-youth
+uuid: f4dfc2dd-03ce-4e62-82d0-39de96478a13
+description: |
+  A text on Prophet Muhammad’s (S) attitude towards children and youth.
+  The book is divided into two distinct parts, dealing with the Prophet’s
+  attitude towards children and towards youth separately. The subject is
+  presented using sayings from the Infallibles, historical accounts and
+  the occasional findings from scientific research.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/prophets-attitude-towards-children-and-youth-muhammad-ali-chenarani/preface
+  title: Preface
+  slug: 1-preface
+  uuid: fbcb7b40-6c7d-45a8-bc59-678b08a3dcf4
+- source: :alislam
+  source_url: http://www.al-islam.org/prophets-attitude-towards-children-and-youth-muhammad-ali-chenarani/foreword
+  title: Foreword
+  slug: 2-foreword
+  uuid: 4389fa1a-7955-46c0-b0a3-a21ea4557920
+- source: :alislam
+  source_url: http://www.al-islam.org/prophets-attitude-towards-children-and-youth-muhammad-ali-chenarani/part-1-prophets-attitude-towards
+  title: 'Part 1: The Prophet’s Attitude towards Children'
+  slug: 3-part-1-the-prophet-s-attitude-towards-children
+  uuid: 0b2d2355-e5cb-4464-b14b-a231bdd8e871
+- source: :alislam
+  source_url: http://www.al-islam.org/prophets-attitude-towards-children-and-youth-muhammad-ali-chenarani/part-2-prophets-attitude-towards
+  title: 'Part 2: The Prophet’s Attitude Towards Youth'
+  slug: 4-part-2-the-prophet-s-attitude-towards-youth
+  uuid: 2e1b1049-6195-4fa0-b5a3-41d4576d876a
+---

@@ -3,10 +3,10 @@ On Righteousness
 
 ***“Righteousness is not just to turn your faces towards the East or the
 West (in prayers). But the true righteous is he who believes in Allah
-and the Last Day and the angels and the Book*** ***(Qur’an) and the
-prophets; and gives his wealth, for love of Allah, to the kindred and
-the orphan and the poor and the traveler and to those who ask (for
-help), and for ransoming the captives;” (Qur’an 2: 178).***
+and the Last Day and the angels and the Book (Qur’an) and the prophets;
+and gives his wealth, for love of Allah, to the kindred and the orphan
+and the poor and the traveler and to those who ask (for help), and for
+ransoming the captives;” (Qur’an 2: 178).***
 
 Just to observe some external rites is not Islam. True faith and good
 actions are the primary requisite of a Muslim. Faith is the seed which

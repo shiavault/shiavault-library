@@ -1,8 +1,8 @@
 The Ant
 =======
 
-![](/sites/default/files/ant.gif)  
- Look at **the ant**
+![](/sites/default/files/ant.gif)
+Look at **the ant**
 
 with its small body
 

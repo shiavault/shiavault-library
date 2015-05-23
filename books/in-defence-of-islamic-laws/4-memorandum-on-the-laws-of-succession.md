@@ -9,20 +9,20 @@ to and recommend a uniform law applicable to all persons in Kenya paying
 particular attention to the status of women in relation to marriage and
 divorce in a free democratic society.*
 
-*The Secretariat is indebted to Maulana Syed* *Sa’eed* *Akhtar Rizvi,
-the resident priest of Dar es Salaam and Chief Missionary of Bilal
-Muslim Mission for his great efforts in preparing this memorandum. We
-are also indebted to Mulla Hussein A. Rahim, M. B.E.*, *of Zanzibar, for
-his valued guidance.*
+*The Secretariat is indebted to Maulana Syed Sa’eed Akhtar Rizvi, the
+resident priest of Dar es Salaam and Chief Missionary of Bilal Muslim
+Mission for his great efforts in preparing this memorandum. We are also
+indebted to Mulla Hussein A. Rahim, M. B.E.*, *of Zanzibar, for his
+valued guidance.*
 
 *We pray that God may reward them in plenty in this world and the world
 hereafter.*
 
-*ASGHARAL1 M. M. JAFFAR,*  
-*Hon. Gen. Secretary,*  
- *K.S.1THNA-ASHER1 SUPREME COUNCIL*  
-*P.O. Box No., 1085, Mombasa.*  
- \*\*\*\*\*
+*ASGHARAL1 M. M. JAFFAR,*
+*Hon. Gen. Secretary,*
+*K.S.1THNA-ASHER1 SUPREME COUNCIL*
+*P.O. Box No., 1085, Mombasa.*
+\*\*\*\*\*
 
 1. On behalf of the Shi’a Ithna-’Ashari Community of Kenya, we beg
 permission to make this submission for the consideration of the
@@ -123,15 +123,15 @@ of which is Matrimony. Both groups inherit side by side.
 The First Group, i.e the relations who are entitled to inherit by virtue
 of consanguinity are divided into three Classes:
 
-(a) First Class:  
- (i) Parents and  
- (ii) Children (or in their absence grand-children, how low-so-ever).
+(a) First Class:
+(i) Parents and
+(ii) Children (or in their absence grand-children, how low-so-ever).
 
 (b) Second Class: If there is no heir at all in the First Class, then
 the Ascendants and Descendants of the parents of the deceased will
-inherit. It means:  
- (i) the deceased's grand-parents (how high-so-ever) and  
- (ii) brothers and sisters (or in their absence the descendants of the
+inherit. It means:
+(i) the deceased's grand-parents (how high-so-ever) and
+(ii) brothers and sisters (or in their absence the descendants of the
 brothers and sisters).
 
 (c) Third Class: If there is no heir existing either in the First or the
@@ -150,20 +150,20 @@ entitles them to participate in the inheritance:
 (1) Dhul-Fardh**:** Those who have right to a specified share in the
 inheritance. They are:
 
-(a) The Mother  
- (b) The Husband  
- (c) The widow or widows  
- (d) The person or persons related through the same mother only.
+(a) The Mother
+(b) The Husband
+(c) The widow or widows
+(d) The person or persons related through the same mother only.
 
 (2) Dhul-Qarabat: Those who take the inheritance by virtue of their
 relationship with the deceased, but whose share fluctuates according to
 the number of heirs and circumstances. They are:
 
-(a) The son or sons  
- (b) Full brothers, or in their absence half brothers on father’s side  
- (c) Grand-parents  
- (d) Paternal uncle and aunts  
- (e) Maternal uncles or aunts.
+(a) The son or sons
+(b) Full brothers, or in their absence half brothers on father’s side
+(c) Grand-parents
+(d) Paternal uncle and aunts
+(e) Maternal uncles or aunts.
 
 (3) Dhul-Fardh Wal-Qarabat: These are the heirs who inherit some times
 by virtue of their relationship and at other times according to their
@@ -193,29 +193,29 @@ excepting a husband, who is entitled to succeed by virtue of the
 matrimony, he takes the entire inheritance, first his specific share,
 and the remainder by Return.
 
-**9.** **Shares**: As far a shares are concerned they are six in number,
+**9. Shares**: As far a shares are concerned they are six in number,
 viz.:
 
-(1) One-half,  
- (2) One-Fourth,  
- (3) One-eighth,  
- (4) One-third  
- (5) Two-thirds  
- (6) One-sixth.
+(1) One-half,
+(2) One-Fourth,
+(3) One-eighth,
+(4) One-third
+(5) Two-thirds
+(6) One-sixth.
 
 (1) **One-half:** The following are entitled to one-half of the
 inheritance:
 
-(a) The husband, when wife leaves no descendant;  
- (b) A daughter, when there is no son;  
- (c) A full sister in default of other heirs who have been mentioned
-earlier;  
- (d) A consanguine sister when there is no brother and no full sister.
+(a) The husband, when wife leaves no descendant;
+(b) A daughter, when there is no son;
+(c) A full sister in default of other heirs who have been mentioned
+earlier;
+(d) A consanguine sister when there is no brother and no full sister.
 
 (2) **One-fourth:** The following are entitled to one-fourth:
 
-(a) The husband, when there is a lineal descendant of the wife;  
- (b) The wife, when there is no Lineal descendant of the husband.
+(a) The husband, when there is a lineal descendant of the wife;
+(b) The wife, when there is no Lineal descendant of the husband.
 
 (3) **One-eighth:** This is taken by the widow or widows when there is a
 lineal descendant of the husband.
@@ -223,23 +223,23 @@ lineal descendant of the husband.
 (4) **One-third:** The following are entitled to One-third:
 
 (a) Mother, when there is no lineal descendant of the deceased, nor has
-he left two brothers, or four sisters or one brother and two sisters.  
- (b) Uterine brothers and sisters, when two or more in number.
+he left two brothers, or four sisters or one brother and two sisters.
+(b) Uterine brothers and sisters, when two or more in number.
 
 (5) **Two-Thirds:** The following are entitled to Two-thirds:
 
-(a) Two or more daughters when there is no son;  
- (b) Two or more full sisters when there is no full brother or when
+(a) Two or more daughters when there is no son;
+(b) Two or more full sisters when there is no full brother or when
 there are no half-brothers (on father's side)
 
 (6) **One-sixth:** One-sixth is taken by the following
 
 (a) Both father and mother when the deceased has left lineal
-descendant  
- (b) The mother, when there exists with her two or more brothers of the
+descendant
+(b) The mother, when there exists with her two or more brothers of the
 full blood, or one brother and two sisters or four sisters of full blood
-(or by the same father only the father being in existence).  
- (c) A single uterine brother or sister.
+(or by the same father only the father being in existence).
+(c) A single uterine brother or sister.
 
 **10. Division of Estate:** When there is only one of the
 above-mentioned heirs he or she gets the full estate If he is a
@@ -262,8 +262,8 @@ second class) and the aunts (who belong to the third class) will be
 excluded from the inheritance.
 
 Likewise, the grandchildren will be excluded because of the presence of
-the children, on the basis of the nearer excluding the more remote.  
- This system of eliminating leaves us with the following heirs: Wife,
+the children, on the basis of the nearer excluding the more remote.
+This system of eliminating leaves us with the following heirs: Wife,
 Father, Mother, the four sons and five daughters
 
 The wife will get 1/8 of the estate, because the deceased has left

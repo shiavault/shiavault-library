@@ -18,8 +18,8 @@ Niloufer grows up faster than the Chinar tree.
 The gist of this discussion is that the weaker is the creature the
 faster is its growth. This is the reason that many girls of 13 or 14
 years are capable of motherhood while most of the boys generally haven’t
-reach puberty yet at this age.   
-    
-  
+reach puberty yet at this age.
+
+
 
 

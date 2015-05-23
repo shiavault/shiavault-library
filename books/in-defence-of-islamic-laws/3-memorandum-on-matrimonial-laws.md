@@ -50,8 +50,8 @@ He also replied to the questions put forward by the Commission, and
 clarified several points relevant to the laws of marriage, divorce etc.
 according to Shi’a school.*
 
-*Mohamedau Meghjl,*  
-*President,* *Shi’a* *Ithna-’Ashari* *Supreme Council,*  
+*Mohamedau Meghjl,*
+*President, Shi’a Ithna-’Ashari Supreme Council,*
 *P.O. Box 1085, Mombasa.*
 
 *\*\*\*\*\**
@@ -137,8 +137,8 @@ interference in our religion.
 
 6. With regards to the Commission's desire "to pay particular attention
 to the status of women in relation to marriage and divorce in a free
-democratic society" we wish to submit as under:-  
- (a) In our School of Law a women have such rights, privileges and
+democratic society" we wish to submit as under:-
+(a) In our School of Law a women have such rights, privileges and
 safeguards since Fourteen Centuries, most of which were unimaginable in
 non-Islamic Societies up to the last century and some of which are ahead
 of the so-called modern time.
@@ -228,8 +228,8 @@ gives three divorces, even one will not be valid.
 
 (g) In most cases, the divorce is revocable and the husband is bound to
 maintain the divorced wife during the period of "Iddat" (normally three
-months) in his house unless she opts to leave.  
- (h) During the said period of "Iddat", the husband has right to revoke
+months) in his house unless she opts to leave.
+(h) During the said period of "Iddat", the husband has right to revoke
 the divorce by words or action and there will be no need for any
 formality.
 
@@ -244,8 +244,8 @@ family also must have a supreme head. Islamic Law has given that place
 to the husband, and the husband has been given the right to give
 divorce.
 
-But the wife is entitled to ask for divorce in many cases: e.g.  
- (1) She can ask for a Khula which can be agreed upon by the husband;
+But the wife is entitled to ask for divorce in many cases: e.g.
+(1) She can ask for a Khula which can be agreed upon by the husband;
 
 (2) She can request the Mujtahid to grant her divorce in cases where the
 husband has disappeared, or neglects to maintain her.

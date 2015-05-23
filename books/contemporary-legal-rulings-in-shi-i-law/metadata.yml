@@ -1,111 +1,40 @@
 ---
 source: :alislam
-source_url: http://www.al-islam.org/contemporary-legal-rulings-in-shii-law-ayatullah-ali-al-husayni-as-seestani
-author: Ayatullah al-'Uzma al-Sayyid 'Ali al-Husayni al-Seestani
-publisher: Organization for the Advancement of Islamic Knowledge and Humanitarian
-  Services
-translator: Hamid Mavani
+source_url: http://www.al-islam.org/contemporary-legal-rulings-shii-law-ayatullah-ali-al-sistani
+author: Ayatullah Ali Al-Husayni Al-Sistani
 title: Contemporary Legal Rulings In Shi'i Law
+subtitle: In accordance with the rulings (fatawa) of Ayatullah al-'Uzma al-Sayyid
+  'Ali al-Husayni al-Seestani
 slug: contemporary-legal-rulings-in-shi-i-law
-uuid: e623a9dc-2085-4bc0-a189-78e5f70b182e
+uuid: b407b32e-a431-45a9-bcb9-663d9b74e14f
 description: |
   In accordance with the rulings (fatwa) of Ayatullah Seestani. Includes
   rulings on new and contemporary issues such as organ donation, genetics
   and magic.
 chapters:
 - source: :alislam
-  source_url: http://www.al-islam.org/contemporary-legal-rulings-in-shii-law-ayatullah-ali-al-husayni-as-seestani/dedication
+  source_url: http://www.al-islam.org/contemporary-legal-rulings-shii-law-ayatullah-ali-al-sistani/dedication
   title: Dedication
   slug: 1-dedication
-  uuid: 2cd8822f-bab0-4851-803a-c814e6624059
+  uuid: 863a1dc7-c129-4640-82ae-1a89e76bc483
 - source: :alislam
-  source_url: http://www.al-islam.org/contemporary-legal-rulings-in-shii-law-ayatullah-ali-al-husayni-as-seestani/translators-preface
+  source_url: http://www.al-islam.org/contemporary-legal-rulings-shii-law-ayatullah-ali-al-sistani/translators-preface
   title: Translator's Preface
   slug: 2-translator-s-preface
-  uuid: ae82add9-2f0e-4162-bb55-063ede55b957
+  uuid: 4e7e7710-2817-427d-9a8c-c77d5cffbe80
 - source: :alislam
-  source_url: http://www.al-islam.org/contemporary-legal-rulings-in-shii-law-ayatullah-ali-al-husayni-as-seestani/i-ibadat
-  title: I - 'Ibadat
-  slug: 3-i-ibadat
-  uuid: b3514ff8-325f-4289-91bd-9a999639a6eb
+  source_url: http://www.al-islam.org/contemporary-legal-rulings-shii-law-ayatullah-ali-al-sistani/ibadat
+  title: A- 'Ibadat
+  slug: 3-a-ibadat
+  uuid: 7c8e5180-96ef-4278-bbf6-ec80a5418e9c
 - source: :alislam
-  source_url: http://www.al-islam.org/contemporary-legal-rulings-in-shii-law-ayatullah-ali-al-husayni-as-seestani/ritual-purity-taharah
-  title: Ritual Purity (taharah)
-  slug: 4-ritual-purity-taharah
-  uuid: 28ccae56-4ba7-4167-90d6-74302541bb1b
+  source_url: http://www.al-islam.org/contemporary-legal-rulings-shii-law-ayatullah-ali-al-sistani/b-muamalat
+  title: B - Mu'amalat
+  slug: 4-b-mu-amalat
+  uuid: eddffbeb-8a79-47c7-824b-755b34dccad4
 - source: :alislam
-  source_url: http://www.al-islam.org/contemporary-legal-rulings-in-shii-law-ayatullah-ali-al-husayni-as-seestani/ritual-prayers-and-fasts
-  title: Ritual Prayers and Fasts
-  slug: 5-ritual-prayers-and-fasts
-  uuid: f500f079-4cb3-43b8-9241-6b06332b64f7
-- source: :alislam
-  source_url: http://www.al-islam.org/contemporary-legal-rulings-in-shii-law-ayatullah-ali-al-husayni-as-seestani/exhumation-grave
-  title: Exhumation of Grave
-  slug: 6-exhumation-of-grave
-  uuid: 87dc9eab-2516-487a-92a0-8c84ac3179c0
-- source: :alislam
-  source_url: http://www.al-islam.org/contemporary-legal-rulings-in-shii-law-ayatullah-ali-al-husayni-as-seestani/khums
-  title: Khums
-  slug: 7-khums
-  uuid: 3199cf9d-9b57-41bb-aa46-5ec9806afa49
-- source: :alislam
-  source_url: http://www.al-islam.org/contemporary-legal-rulings-in-shii-law-ayatullah-ali-al-husayni-as-seestani/charity
-  title: Charity
-  slug: 8-charity
-  uuid: 66bd0885-5677-4098-8e37-d75d26cb068e
-- source: :alislam
-  source_url: http://www.al-islam.org/contemporary-legal-rulings-in-shii-law-ayatullah-ali-al-husayni-as-seestani/hajj
-  title: Hajj
-  slug: 9-hajj
-  uuid: c2b204f0-0ff4-4095-8548-d44b59a66d32
-- source: :alislam
-  source_url: http://www.al-islam.org/contemporary-legal-rulings-in-shii-law-ayatullah-ali-al-husayni-as-seestani/ii-muamalat
-  title: II - Mu'amalat
-  slug: 10-ii-mu-amalat
-  uuid: 86b7578f-26c7-45c2-9fae-70fe86c46481
-- source: :alislam
-  source_url: http://www.al-islam.org/contemporary-legal-rulings-in-shii-law-ayatullah-ali-al-husayni-as-seestani/1-interest-riba
-  title: 1. Interest (Riba)
-  slug: 11-1-interest-riba
-  uuid: 96613f2c-32c4-46fb-82e7-4d221d1c4d5b
-- source: :alislam
-  source_url: http://www.al-islam.org/contemporary-legal-rulings-in-shii-law-ayatullah-ali-al-husayni-as-seestani/2-marriage-and-divorce
-  title: 2. Marriage And Divorce
-  slug: 12-2-marriage-and-divorce
-  uuid: bad2a74b-7aee-4181-819d-105c33f3e2d2
-- source: :alislam
-  source_url: http://www.al-islam.org/contemporary-legal-rulings-in-shii-law-ayatullah-ali-al-husayni-as-seestani/3-rights-parents
-  title: 3. Rights Of Parents
-  slug: 13-3-rights-of-parents
-  uuid: b4a99999-ffd9-45cd-868c-cc2645125bd9
-- source: :alislam
-  source_url: http://www.al-islam.org/contemporary-legal-rulings-in-shii-law-ayatullah-ali-al-husayni-as-seestani/4-organ-donation
-  title: 4. Organ Donation
-  slug: 14-4-organ-donation
-  uuid: 2d0f4e26-bca2-4d8e-a6a7-671f0bb1d76d
-- source: :alislam
-  source_url: http://www.al-islam.org/contemporary-legal-rulings-in-shii-law-ayatullah-ali-al-husayni-as-seestani/5-music
-  title: 5. Music
-  slug: 15-5-music
-  uuid: f7958107-a182-4ca8-af0c-a339ff214221
-- source: :alislam
-  source_url: http://www.al-islam.org/contemporary-legal-rulings-in-shii-law-ayatullah-ali-al-husayni-as-seestani/6-lottery
-  title: 6. Lottery
-  slug: 16-6-lottery
-  uuid: a358a63e-a36c-4521-a340-43fd9314f4a0
-- source: :alislam
-  source_url: http://www.al-islam.org/contemporary-legal-rulings-in-shii-law-ayatullah-ali-al-husayni-as-seestani/7-magic
-  title: 7. Magic
-  slug: 17-7-magic
-  uuid: e423deed-90e8-451d-9449-cf926a2327a2
-- source: :alislam
-  source_url: http://www.al-islam.org/contemporary-legal-rulings-in-shii-law-ayatullah-ali-al-husayni-as-seestani/8-slandering-allah-swt
-  title: 8. Slandering Allah (S.W.T.), Prophet (S) Or Imams (A.S.)
-  slug: 18-8-slandering-allah-s-w-t-prophet-s-or-imams-a-s
-  uuid: 38875be4-b4c7-4472-9f77-98cd8522c64d
-- source: :alislam
-  source_url: http://www.al-islam.org/contemporary-legal-rulings-in-shii-law-ayatullah-ali-al-husayni-as-seestani/glossary
+  source_url: http://www.al-islam.org/contemporary-legal-rulings-shii-law-ayatullah-ali-al-sistani/glossary
   title: Glossary
-  slug: 19-glossary
-  uuid: f057f6a3-7575-474e-8d1d-9b70f0e44efd
+  slug: 5-glossary
+  uuid: 74373eaa-0842-40b3-ad7b-a72ae8bad9c6
 ---

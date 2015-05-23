@@ -29,9 +29,9 @@ singular.
 It is true that voices are also of many varieties, but not that much as
 those things, which can be seen with the eyes. In the same way those
 things are also exceptionally various and diverse, whom man imagines and
-understands.  
-    
-  
+understands.
+
+
 
 [^1]: Surah Baqarah 2:7
 

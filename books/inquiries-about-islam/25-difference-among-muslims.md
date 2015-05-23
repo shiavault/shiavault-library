@@ -190,7 +190,7 @@ are equal in the eyes of God. The Holy Qur'an declares the following:
 ***“O mankind, certainly We created you from a male and a female and
 made you nations and clans, that you may recognize one another. Surely
 the Most noble among you in the eyes of God is the most righteous of
-you.”*** ***49:13***
+you.” 49:13***
 
 The Prophet himself declared:
 
@@ -266,7 +266,7 @@ right to administer their public affairs more than they have the right
 to do it on their own:
 
 ***“The Prophet has the right over the believers more than they have the
-right over their own selves…”*** ***33:6***
+right over their own selves…” 33:6***
 
 The decision of the Prophet in all affairs of the Muslim State is
 binding on all Muslims. They have no right to reverse it or change it.
@@ -275,8 +275,8 @@ From the Holy Qur'an:
 ***“And it becometh not a believing man or a believing woman, when God
 and His Messenger have decided an affair (for them), that they should
 (after that) claim any say in their affairs; and whoever is rebellious
-to God and His Messenger, he verily goeth astray in error manifest.”***
-***33:36***
+to God and His Messenger, he verily goeth astray in error manifest.”
+33:36***
 
 Thus, when the Prophet appoints or nominates a successor to rule the
 Muslim State after him, his choice is to be followed and his decision is
@@ -491,21 +491,21 @@ multitude of pilgrims who were accompanying him, to hear an important
 declaration. (This declaration was delivered at a place called "Ghadir
 Khumm."):
 
-*“O People,”* *the Prophet exclaimed,* *“The time is drawing nigh when I
+*“O People,” the Prophet exclaimed, “The time is drawing nigh when I
 receive a Divine call to* *which I will respond (by departing from this
 world); I shall be questioned, and ye will be questioned. What will be
-your answer?”* *The multitude replied: We bear witness that you have
+your answer?” The multitude replied: We bear witness that you have
 conveyed the message (of God) and endeavored (in His way) and that your
-endeavor was sincere, unselfish. The Prophet said:* *“Is it not true
-that you bear witness that there is no god but the* *Almighty; that
-Muhammad is His servant and messenger; that His paradise is a reality;
-that His hell is reality; that death is right; that resurrection after
-death is truth; that the Day of Judgment is truth; and that God shall
-bring back to life those who are in the graves?”*
+endeavor was sincere, unselfish. The Prophet said: “Is it not true that
+you bear witness that there is no god but the Almighty; that Muhammad is
+His servant and messenger; that His paradise is a reality; that His hell
+is reality; that death is right; that resurrection after death is truth;
+that the Day of Judgment is truth; and that God shall bring back to life
+those who are in the graves?”*
 
-*The multitude replied:* *“Yea, we bear witness unto that.”*
+*The multitude replied: “Yea, we bear witness unto that.”*
 
-*The Prophet said:* *“O God, bear witness.”*
+*The Prophet said: “O God, bear witness.”*
 
 Following this, the Prophet announced the appointment of Ali for the
 high office. Such an appointment on his part requires a constitutional
@@ -513,9 +513,9 @@ authority. Therefore, he reminded them of the fact that the Holy Qur'an
 vested in him this authority by declaring him the guardian of the
 believers:
 
-*“O people,”* *he said,* *“God is my* *‘Moula’* *(guardian), and I am
-the Moula of the believers, and I have the right over the believers more
-than they have the right over their own selves.*
+*“O people,” he said, “God is my ‘Moula’ (guardian), and I am the Moula
+of the believers, and I have the right over the believers more than they
+have the right over their own selves.*
 
 *Whoever I am his Moula, this Ali (He was holding Ali's hand) is his
 Moula.*
@@ -644,7 +644,7 @@ interpreting the following verse:
 
 ***“And if ye be ill, or on a journey, or one of you cometh from the
 toilet, or ye have touched women, and ye find no water, then go to high
-clean soil and rub your faces…”*** ***4:43***
+clean soil and rub your faces…” 4:43***
 
 Some schools take the word "touch" literally and think that touch in any
 way would undo the ablution. Other schools understand from the word

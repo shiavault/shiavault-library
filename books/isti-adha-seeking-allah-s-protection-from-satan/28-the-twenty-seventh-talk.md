@@ -17,8 +17,8 @@ In the Name of Allah, the Beneficent, the Merciful
 </blockquote>
 
 ***He said: Then by Thy Might I will surely make them live an evil life,
-all, Except Thy servants*** ***from among them, the purified ones.***
-***(Sura Sad, 38:82-83)***
+all, Except Thy servants from among them, the purified ones.*** ***(Sura
+Sad, 38:82-83)***
 
 Sincerity and Good Deeds
 ------------------------
@@ -66,13 +66,13 @@ About Malik Dinar
 
 In his early days Malik Dinar was a bullion merchant. He had made good
 progress in the profession. Then avarice got better of him and he
-thought ways of becoming the trustee of the *Jami’i* *al-Umaww*i
-*Masjid* (Umayyad Mosque) in Damascus. He was desirous of this position
-because lots of funds would be at his disposal as the trustee. In this
-greed Malik disposed all his assets and distributed the money in
-charity. Since the trustee is expected to be extremely pious and simple,
-he went and stayed in the mosque. Whenever he found any person entering
-the mosque, he would stand up and start praying.
+thought ways of becoming the trustee of the *Jami’i al-Umaww*i *Masjid*
+(Umayyad Mosque) in Damascus. He was desirous of this position because
+lots of funds would be at his disposal as the trustee. In this greed
+Malik disposed all his assets and distributed the money in charity.
+Since the trustee is expected to be extremely pious and simple, he went
+and stayed in the mosque. Whenever he found any person entering the
+mosque, he would stand up and start praying.
 
 The purpose was to attract the attention of the people to his piety so
 that his candidature for the trusteeship could be clinched. But in

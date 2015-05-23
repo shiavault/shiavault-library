@@ -87,8 +87,8 @@ that he has prevented his wife from social activities.
 
 We are first indebted to our Leader for the Islamic Revolution, and then
 to the mothers who have produced men who laid down their lives for the
-sake of the Revolution. The Leader of the Community has also said:  
- "It is the lap of the mother from where man ascends the highest peaks
+sake of the Revolution. The Leader of the Community has also said:
+"It is the lap of the mother from where man ascends the highest peaks
 of glory."
 
 This is the great role of mothers which is acknowledged by all the

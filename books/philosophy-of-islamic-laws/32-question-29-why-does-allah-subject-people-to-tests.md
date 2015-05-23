@@ -50,8 +50,8 @@ from You from such trials which may cause me to go astray (means those
 trials, in which I may not come out successful and through it I may not
 be able to make myself perfect (accomplished)…
 
-After that Imam Ali (a.s.) explains:  
- The objective of the test and trials is not to gain information and
+After that Imam Ali (a.s.) explains:
+The objective of the test and trials is not to gain information and
 insight, because in the universe there is not a thing which is hidden
 from or unseen by Allah. The intention is that those hidden qualities
 say like, happiness and pleasure and anger or the portion of rage and
@@ -130,9 +130,9 @@ Allah may be considered unjust, but the tests tear the curtain from
 reality and the fact of their existence their real self becomes evident
 to themselves as well as to others.
 
-This is the logic behind the tests from Allah  
-    
-   
+This is the logic behind the tests from Allah
+
+
 
 [^1]: Surah Mulk 67:2
 

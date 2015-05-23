@@ -15,10 +15,10 @@ To a son who hopes for what is unattainable
 
 God has equipped man with instincts and desires to be able to sustain
 life. If these instincts and desires are employed in the right
-situations, they will add up to our vigor and satisfaction.  
- Our wishes, too, are among these means:  
- If man lacked these wishes, life would be impossible.  
- Regarding this, the Great Prophet (S) has stated:
+situations, they will add up to our vigor and satisfaction.
+Our wishes, too, are among these means:
+If man lacked these wishes, life would be impossible.
+Regarding this, the Great Prophet (S) has stated:
 
 <blockquote dir="rtl">
   <p>
@@ -40,8 +40,8 @@ stand up and start working. Jesus asked the old man the secret behind
 this. The old man answered. "When I was working, I told myself: How long
 do you have to work when you are so old. Then I threw the spade down and
 started resting. Then I told myself: I swear to God that as long as I am
-alive, I need life equipments. Then I rose and started working."[^2]  
- These two traditions clearly show the dynamic role of wishes in our
+alive, I need life equipments. Then I rose and started working."[^2]
+These two traditions clearly show the dynamic role of wishes in our
 lives. But, as it was stated earlier, wishes are good if they are
 fulfilled with care or else they will destroy the community if they go
 on extremes.
@@ -61,9 +61,9 @@ Imam ‘Ali (as) in the sermon 42 of Nahj al-Balaghah states:
 </blockquote>
 
 *“O people! The greatest things that I fear for you are two: following
-(your) desires and farfetched hopes.*  
+(your) desires and farfetched hopes.*
 *Following desires prevents the attainment of the truth, and far-fetched
-hopes cause forgetfulness of the Hereafter.*  
+hopes cause forgetfulness of the Hereafter.*
 *Indeed, the world has passed swiftly by, and only a small portion of it
 remains like the remnants poured out of a water vessel; and indeed, the
 Hereafter has approached. Each of them (the world and the Hereafter) has
@@ -78,16 +78,16 @@ the hazards of far-fetched hopes, which is to forget about the
 Hereafter, but also shows us how to struggle against these hopes by
 paying attention to the Hereafter. He states that the results of our
 wrong-doings beget dangerous consequences in the other world, and there
-will be no way to compensate for them at that time.  
- Of course, we should be aware that not all our hopes can be
-fulfilled.  
- By drawing a square on the ground and by passing a line in the middle
+will be no way to compensate for them at that time.
+Of course, we should be aware that not all our hopes can be
+fulfilled.
+By drawing a square on the ground and by passing a line in the middle
 of it the Great Prophet (S) depicted this fact.[^4]
 
 Imam ‘Ali (as) mentions the same idea in the expression he uses
 **"المؤمِّل ما لا يدرك"** (hoping for what is unattainable). He warns us
-not to follow all of our desires; he says this is impossible.[^5]  
- Thus, it is better for us to limit our hopes and only make use of them
+not to follow all of our desires; he says this is impossible.[^5]
+Thus, it is better for us to limit our hopes and only make use of them
 rationally, Imam ‘Ali (as) has said in this regard:
 
 <blockquote dir="rtl">
@@ -101,8 +101,8 @@ rationally, Imam ‘Ali (as) has said in this regard:
 *"It is appropriate for a person who is certain that he will part from
 loved ones, dwell within the earth, confront the reckoning, and have no
 need of what he has left behind while being in need of what he has sent
-forward, to curtail his hopes and add to his (good) deeds"*[^6]  
- But for the Gnostics the ultimate for their desires is Allah; they only
+forward, to curtail his hopes and add to his (good) deeds"*[^6]
+But for the Gnostics the ultimate for their desires is Allah; they only
 think about God’s consent.
 
 2. The Follower of the path of those who have perished
@@ -118,16 +118,16 @@ What is meant by this expression is that the child from the day it is
 born is on the scale of growth and it develops: It finishes infancy and
 then arrives at the youth and then reaches old age and finally passes
 away. This process includes everybody: both our ancestors and our
-descendants.  
- Thus, my son! You, too, are going to go through this stage. Never
-remain ignorant of this fact, or else, the Satan will mislead you.  
- The above expression might convey the following concept depicted in the
-following piece of poetry:  
- These roads on the desert,  
- Are drawn by pen in the past by Friends;  
- The transcripts on the graves are unopened letters,  
- Which have come to us from the people of the Hereafter.  
- This means that the road on which you and I are walking is the road
+descendants.
+Thus, my son! You, too, are going to go through this stage. Never
+remain ignorant of this fact, or else, the Satan will mislead you.
+The above expression might convey the following concept depicted in the
+following piece of poetry:
+These roads on the desert,
+Are drawn by pen in the past by Friends;
+The transcripts on the graves are unopened letters,
+Which have come to us from the people of the Hereafter.
+This means that the road on which you and I are walking is the road
 prepared by people in the past. Be aware, we too are preparing the road
 for future walkers!!
 
@@ -141,13 +141,13 @@ for future walkers!!
 </blockquote>
 
 Material life entails complexities and clashes. If one is weaker, these
-clashes take on a strong side.  
- Man is no exception to this universal rule. He is always struggling
+clashes take on a strong side.
+Man is no exception to this universal rule. He is always struggling
 against different agents and destructive factors. He is at the mercy of
 all sorts of diseases, calamities, disasters and hardships. Every moment
 he might get disintegrated: a stroke, cancer, TB, smallpox, ulcers, and
-the like.  
- Imam ‘Ali (as), in the sermon 217 of Nahj al-Balaghah, concerning this,
+the like.
+Imam ‘Ali (as), in the sermon 217 of Nahj al-Balaghah, concerning this,
 states:
 
 <blockquote dir="rtl">
@@ -164,8 +164,8 @@ states:
 treachery. Its states do not last and its inhabitants do not remain
 sound. Its states vary and its times change. Life in it is reprehensible
 and safety is non-existent. Its inhabitants are only targets; it strikes
-them with its arrows and destroys them with death”.*  
- Thus, man is subject to both diseases and disasters and misfortunes.
+them with its arrows and destroys them with death”.*
+Thus, man is subject to both diseases and disasters and misfortunes.
 Man struggles with these till he passes away and gets to safety.
 
 <blockquote dir="rtl">
@@ -176,9 +176,9 @@ Man struggles with these till he passes away and gets to safety.
 
 ***“Certainly we have created man to be in distress”.***[^7]
 
-The poet says:  
- Thus more bitter than poison the world will pass,  
- Once again there will be a day as sweet as sugar.
+The poet says:
+Thus more bitter than poison the world will pass,
+Once again there will be a day as sweet as sugar.
 
 4. A pawn in the hands of time
 ------------------------------
@@ -198,8 +198,8 @@ And it is assumed that it is the world which brings about either
 prosperity or misery, youth or age, power or feebleness, wealth or
 poverty, health or sickness, happiness or sorrow. When the time comes,
 his mortgage time is over and it will be turned over to his real
-owner.  
- Thus, man is extremely miserable and vulnerable. With this amount of
+owner.
+Thus, man is extremely miserable and vulnerable. With this amount of
 misery and vulnerability, he should not be left ignorant and proud. The
 Imam (as) guides us in the following manner:
 
@@ -239,8 +239,8 @@ whereas No 3 refers to bodily afflictions.
 
 A person, who can not resist the world's transitory materialistic
 manifestations and easily yields to them, is a slave to the world, to
-dirhams and to dinars and to social positions.  
- Many people, when confronted with material things and justice, prefer
+dirhams and to dinars and to social positions.
+Many people, when confronted with material things and justice, prefer
 the worldly affairs and yield to its luxuries. Imam Husayn (as),
 describing such people, states:
 
@@ -380,16 +380,16 @@ price for your self!”*[^17]
   </p>
 </blockquote>
 
-"*Manaya*" is the plural for "*maniya*", meaning death or decree.  
- The reason the plural word "manaya" is used is that there are different
+"*Manaya*" is the plural for "*maniya*", meaning death or decree.
+The reason the plural word "manaya" is used is that there are different
 ways to die: one dies in accidents, the other dies by drowning, the
 other one through shocks and the other one by cancer, and the like.
 
 In this sentence, the Imam (as) compares a man to a debtor who is asked
-to return his debts.  
- Divine decrees, too, are creditors who are after their credits, which
-is man's departure towards the Hereafter.  
- Elsewhere, the Imam (as) refers to this fact in the following words:
+to return his debts.
+Divine decrees, too, are creditors who are after their credits, which
+is man's departure towards the Hereafter.
+Elsewhere, the Imam (as) refers to this fact in the following words:
 
 <blockquote dir="rtl">
   <p>
@@ -472,8 +472,8 @@ that
 </blockquote>
 
 "If you compare the world's pleasures with the world's calamities, you
-will find the ratio is one drop of water to the sea at large."[^22]  
- It is because of these facts that the Imam (as) considers his own son
+will find the ratio is one drop of water to the sea at large."[^22]
+It is because of these facts that the Imam (as) considers his own son
 like other human beings, an ally of anxieties, a companion of sorrows
 and the target of calamities. He warns us that this world, with all
 these hardships, cannot be the final objective for man. We should make a
@@ -491,11 +491,11 @@ provision for the other world:
 
 The source for man's sorrows is sometimes materialistic and related to
 this world: distresses such as poverty, the death of one's child,
-suffering a loss, deprivation of wife and children.  
- But sometimes the source for these griefs might be spiritual and
+suffering a loss, deprivation of wife and children.
+But sometimes the source for these griefs might be spiritual and
 related to the Hereafter, for instance, the feeling of guilt or the
-observation of committing guilt by others.  
- A wise and true believer, from the viewpoint of the principle of
+observation of committing guilt by others.
+A wise and true believer, from the viewpoint of the principle of
 patience, has to make himself content and patient. He has to cope with
 these sufferings or else, as the Imam (as) has stated,
 
@@ -509,8 +509,8 @@ these sufferings or else, as the Imam (as) has stated,
 
 Zaynab (as) in answering ‘Ubaydullah b. Ziyad said: "We consider
 martyrdom and captivity, which are given to us by Allah, as a
-blessing."[^25]  
- And the Great Prophet (S) has said:
+blessing."[^25]
+And the Great Prophet (S) has said:
 
 <blockquote dir="rtl">
   <p>
@@ -524,8 +524,8 @@ that can expiate it, then Allah afflicts him with sorrow in order to
 expiate them through it."*[^26]
 
 As the above two statements show, sufferings will make a man improve in
-life.  
- Imam as-Sadiq (as) has said:
+life.
+Imam as-Sadiq (as) has said:
 
 <blockquote dir="rtl">
   <p>
@@ -660,13 +660,13 @@ me, restrains me from remembrance of anyone other than me or concern
 with what is beyond me. Although concern for myself occupied me to the
 exclusion of concern for others, my judgment proved to be true and it
 turned me away from my desires and the true nature of my affair became
-clear to me. This led me to an earnestness devoid* *of diversion and
-truth unsullied by falsehood. I found you a part of myself; rather I
-found you all of myself, until it was such that if something befell you
-it befell me, and if death came to you it came to me; thus whatever
-concerned me about myself, concerned me about you. Therefore I have
-written a treatise for you so that it may be an aid (to you) whether I
-live or die”.*
+clear to me. This led me to an earnestness devoid of diversion and truth
+unsullied by falsehood. I found you a part of myself; rather I found you
+all of myself, until it was such that if something befell you it befell
+me, and if death came to you it came to me; thus whatever concerned me
+about myself, concerned me about you. Therefore I have written a
+treatise for you so that it may be an aid (to you) whether I live or
+die”.*
 
 Commentary
 ----------
@@ -690,19 +690,19 @@ After having passed over the age of sixty and having felt the signs of
 old age, amassed a pack of experiences, and seen the disloyalty of
 people, now Imam (as) clearly feels the approaching of death and his
 departure from this world. Under these situations, a man has to leave
-the others and to concentrate on himself.  
- The night is dark, the waves are frightening and the whirlpool is
+the others and to concentrate on himself.
+The night is dark, the waves are frightening and the whirlpool is
 horrifying; how could those on the shore realize our plight?
 
 **2.** How is self-correction compatible with the writing of such a
-treatise?  
- To answer this question, we could say:  
- The conditions under which Imam (as) was living could make him think
+treatise?
+To answer this question, we could say:
+The conditions under which Imam (as) was living could make him think
 about nobody except God, but he himself has said that his son is a part
 of him: because his son's existence depends on his existence, or his son
 is the whole of him because after the father, the son will be his
-substitute and an heir of his knowledge and virtues:  
- Thus the Imam's attention to his son equals his attention to himself
+substitute and an heir of his knowledge and virtues:
+Thus the Imam's attention to his son equals his attention to himself
 and damage to his son is damage to himself.
 
 **3.** Concerning the above points, the significance of the present
@@ -715,45 +715,45 @@ to his arrival at the caliphate center (i.e., Kufa), Imam (as) started
 writing it. This makes the task of parents and leaders in constructing
 the family and society even harder.[^39]
 
-The poet says:  
- What are you fighting for, the contenders have all gone,  
- Prepare yourself for the voyage, friends have all gone,  
- That wandering dust in the desert,
+The poet says:
+What are you fighting for, the contenders have all gone,
+Prepare yourself for the voyage, friends have all gone,
+That wandering dust in the desert,
 
-Tells you to depart, since all the jockeys have gone.  
- Alas, the story tellers have all departed;  
- Alas, all the sorrow-filled people have gone.  
- We regret that the holders of spiritual treasures,  
- They left their treasures to friends and have gone.  
- The spring's eyelashes are stained with blood for the departure of
-friends.  
- They left you in front of your eyes, like the spring clouds.
+Tells you to depart, since all the jockeys have gone.
+Alas, the story tellers have all departed;
+Alas, all the sorrow-filled people have gone.
+We regret that the holders of spiritual treasures,
+They left their treasures to friends and have gone.
+The spring's eyelashes are stained with blood for the departure of
+friends.
+They left you in front of your eyes, like the spring clouds.
 
-Another poet says:  
- Each moment a breath passes by,  
- When I see, there is not much left of it.  
- You have been unaware even if you are fifty,  
- You have five days left; see what you can do with it.  
- Ashamed will be the man, who left without having done any good deeds,
+Another poet says:
+Each moment a breath passes by,
+When I see, there is not much left of it.
+You have been unaware even if you are fifty,
+You have five days left; see what you can do with it.
+Ashamed will be the man, who left without having done any good deeds,
 
-The horn of departure was rung, but he prepared nothing.  
- The sweet sleep and the morning  
- Will hinder the walker from going.  
- Anybody who arrived on the scene built a building,  
- And then left, leaving his building to others,  
- And the other had whims of his own,  
- And this building was not ever-lasting.
+The horn of departure was rung, but he prepared nothing.
+The sweet sleep and the morning
+Will hinder the walker from going.
+Anybody who arrived on the scene built a building,
+And then left, leaving his building to others,
+And the other had whims of his own,
+And this building was not ever-lasting.
 
-Do not make friends with an unstable thing,  
- This cruel one does not deserve your friendship.  
- Every body, both good and bad, should die,  
- Blessed is he who does good deeds in the world.  
- Send in advance a record of good deeds to your grave,  
- Nobody will bring it, you send it in advance.  
- Life is short and like snow in the summer heat,  
- There is only a little left, but we are still haughty.  
- Diligently listen to Sa'di's advice,  
- The way is like this, be a man, be prepared.
+Do not make friends with an unstable thing,
+This cruel one does not deserve your friendship.
+Every body, both good and bad, should die,
+Blessed is he who does good deeds in the world.
+Send in advance a record of good deeds to your grave,
+Nobody will bring it, you send it in advance.
+Life is short and like snow in the summer heat,
+There is only a little left, but we are still haughty.
+Diligently listen to Sa'di's advice,
+The way is like this, be a man, be prepared.
 
 <blockquote dir="rtl">
   <p>

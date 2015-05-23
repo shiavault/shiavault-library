@@ -165,9 +165,9 @@ established around it, and since then the call of Abraham is annually
 responded to by a large number of pilgrims who visit the Sacred House
 and worship God at His temple. From the Holy Qur'an:
 
-***“And when We pointed to Abraham the place of the House, saying:***
-***‘Associate naught with Me, and purify My House for those who make
-circuits and stand to pray and bow and prostrate themselves.’*** ***And
+***“And when We pointed to Abraham the place of the House, saying:
+‘Associate naught with Me, and purify My House for those who make
+circuits and stand to pray and bow and prostrate themselves.’ And
 proclaim to men the pilgrimage; they will come to thee on foot and every
 lean camel, coming from every remote path; that they may witness
 benefits (provided) for them, and mention the name of God on appointed
@@ -213,14 +213,14 @@ receive his great message and spread the word of God throughout the
 world. From the Qur'an:
 
 ***“And when Abraham and Ishmael raised the foundations of the House
-(with this prayer):*** ***‘Our Lord, accept (this service) from us;
-surely Thou art the All-Hearing, the All-Knowing. Our Lord, and make us
-both submissive to Thee, and (raise) from our offspring, a nation
-submissive to Thee, and show us our way of devotion and turn to us
-(mercifully); surely Thou art the oft-returning (to mercy) the Merciful.
-Our Lord, and raise up in them a messenger from among them who shall
-recite to them Thy messages and teach them the Book and the Wisdom, and
-purify them. Surely Thou art the Mighty, the Wise.’” 2:127-129***
+(with this prayer): ‘Our Lord, accept (this service) from us; surely
+Thou art the All-Hearing, the All-Knowing. Our Lord, and make us both
+submissive to Thee, and (raise) from our offspring, a nation submissive
+to Thee, and show us our way of devotion and turn to us (mercifully);
+surely Thou art the oft-returning (to mercy) the Merciful. Our Lord, and
+raise up in them a messenger from among them who shall recite to them
+Thy messages and teach them the Book and the Wisdom, and purify them.
+Surely Thou art the Mighty, the Wise.’” 2:127-129***
 
 The prayer of the Prophet Abraham was graciously answered in the seventh
 century AD. The anticipated Prophet had arrived with an unprecedented

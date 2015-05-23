@@ -1,19 +1,18 @@
 The Tashahhud
 =============
 
-   
- The tashahhud is praise of Allah. Be a slave to Him in your innermost
+The tashahhud is praise of Allah. Be a slave to Him in your innermost
 being, fearful and humble to Him in action as you are His bondsman by
 word and claim. Join the truthfulness of your tongue to the pure
-truthfulness of your innermost being.  
-    
- He created you a slave and commanded you to worship Him with your
+truthfulness of your innermost being.
+
+He created you a slave and commanded you to worship Him with your
 heart, your tongue and your limbs. Realise your enslavement to Him by
 His lordship over you. Know that the forelocks of creation are all in
 His hand. Creatures possess neither breath nor sight except by His power
 and will: they are incapable of bringing forth the least thing in His
-kingdom, unless it is by His permission and will. Allah said,  
-  
+kingdom, unless it is by His permission and will. Allah said,
+
 
 <blockquote dir="rtl">
   <p>
@@ -26,15 +25,15 @@ kingdom, unless it is by His permission and will. Allah said,
 theirs. Glory be to Allah, and exalted be He above what they associate
 [with Him].*** (28:68)
 
-   
- Therefore be a slave to Allah, remembering Him by speech and
+
+Therefore be a slave to Allah, remembering Him by speech and
 proclamations, and join the truthfulness of your tongue to the purity of
 your innermost being, for He created you. He is too mighty and majestic
 for anyone to have will or volition except by His earlier will and
 volition. Fulfill the state of enslavement by being content with His
-wisdom, and by worshipping in order to carry out His commands.  
-    
- He commanded you to send blessings upon His beloved Muhammad, may Allah
+wisdom, and by worshipping in order to carry out His commands.
+
+He commanded you to send blessings upon His beloved Muhammad, may Allah
 bless him and his family and grant them peace. Therefore join your
 prayer to Muhammad with your prayer to Allah, obedience to Muhammad to
 obedience to Allah, and your witnessing of Muhammad to your witnessing

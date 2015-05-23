@@ -130,8 +130,8 @@ good and what it has done of evil . . .*** **(3:30)*****;***
 • ***. . . surely they only swallow fire into their bellies . . .***
 **(4:10)*****.***
 
-There are many verses of the same import.  
- Then there is the verse 50:22*,* which by itself is enough to convince
+There are many verses of the same import.
+Then there is the verse 50:22*,* which by itself is enough to convince
 one of this principle:
 
 ***Certainly you were heedless, of it, but now We have removed from you
@@ -264,8 +264,8 @@ questioned*****(21:23).**
 
 Allah disposes and manages His property in any way He pleases; no one
 can use any other thing except with His permission, because He is the
-real Owner and Sustainer of everything.  
- Now we come to the rules and laws which Allah ordains for His
+real Owner and Sustainer of everything.
+Now we come to the rules and laws which Allah ordains for His
 creatures. He uses the same method which has been adopted by the human
 society - ordaining what is good and praising and rewarding its doers;
 forbidding what is bad and condemning and punishing its doers. For
@@ -373,8 +373,8 @@ does not cause to err by it*** **(any)*****except the transgressors***
 
 Third: The divine decree does not cover the actions of the man inasmuch
 as they are attributed to him - they are done by the doer, although not
-created by him. We shall further explain it later.  
- Fourth: Now that it has been seen that the divine law is not based on
+created by him. We shall further explain it later.
+Fourth: Now that it has been seen that the divine law is not based on
 compulsion, it should be clearly understood that it is not based on
 delegation of power either.
 
@@ -388,8 +388,8 @@ Tradition
 
 A great number of Tradition (narrated from the Imams of *Ahlu 'l-bayt -
 a*.s.) says: “There is neither compulsion nor delegation (of power), but
-(there is) a position between these two (extremes).”  
- It is reported in '*Uyūnu '1-akhbar,* through several chains:
+(there is) a position between these two (extremes).”
+It is reported in '*Uyūnu '1-akhbar,* through several chains:
 
 When the Leader of the faithful, 'Alī ibn Abī Talib (a.s.) returned from
 Siffīn, an old man (who has participated in that battle) stood up and
@@ -735,8 +735,8 @@ the man who loses an existing bounty because of it.
 
 Likewise, every sin is a negative factor, and as such, it is not to be
 attributed to Allah at all; though it may be attributed to Him from
-another angle, inasmuch as it happens by permission of Allah.  
- al-Bazanti said:
+another angle, inasmuch as it happens by permission of Allah.
+al-Bazanti said:
 
 I told ar-Rida (a.s.) that some of our fellows believe in compulsion and
 some of them advocate the (belief of) capability. Thereupon he told me:
@@ -1004,8 +1004,8 @@ actions follows without any delay.
 
 The first type of activities is called involuntary, like natural
 reactions; the second type is called voluntary, or intentional, like
-walking or talking.  
- The intentional actions, emanating from man's knowledge and will, are
+walking or talking.
+The intentional actions, emanating from man's knowledge and will, are
 again divided into two categories:
 
 First: When the man decides to do - or, not to do - a certain work, he
@@ -1089,8 +1089,8 @@ words, not a single existing thing could be called a transient, so long
 as it exists.
 
 But this “essential - ness” comes to it only when it is looked at in
-relation to its sufficient cause.  
- The sufficient cause may be a single thing or a compound of various
+relation to its sufficient cause.
+The sufficient cause may be a single thing or a compound of various
 causes - the material, the formal, the efficient and the final causes,
 plus the necessary conditions of time and space as well as other
 preliminaries.
@@ -1127,8 +1127,8 @@ conclusions:
 
 First: The need of an effect for its cause does not end on its being
 related to its transient cause. The need continues until it reaches the
-Final Cause, the Essential Being.  
- Second: This need emanates from its transient nature. It needs a cause
+Final Cause, the Essential Being.
+Second: This need emanates from its transient nature. It needs a cause
 to bring it into existence with all its character­istics and traits,
 including its relationship with its various causes, fulfilling all the
 conditions of its existence.

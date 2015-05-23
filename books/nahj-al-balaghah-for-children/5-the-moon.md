@@ -1,8 +1,8 @@
 The moon
 ========
 
-![](/sites/default/files/moon.gif)  
- Then He decorated the heavens
+![](/sites/default/files/moon.gif)
+Then He decorated the heavens
 
 with the stars and the light of the
 

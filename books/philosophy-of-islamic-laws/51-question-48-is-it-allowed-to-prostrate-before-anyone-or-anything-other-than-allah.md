@@ -38,8 +38,8 @@ concerned, it has the same meaning i.e. prostration was actually for
 Allah and Hazrat Adam's (a.s.) position was that of Qibla.
 
 In view of this narration in the mentioned Ayat, there is no dispute in
-the historical meaning is related by Imam Ali (a.s.).  
-    
-  
+the historical meaning is related by Imam Ali (a.s.).
+
+
 
 

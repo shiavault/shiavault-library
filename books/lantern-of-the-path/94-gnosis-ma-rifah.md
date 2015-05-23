@@ -1,8 +1,7 @@
 Gnosis (ma 'rifah)
 ==================
 
-   
- The person of the gnostic ('arif) is with the people, while his heart
+The person of the gnostic ('arif) is with the people, while his heart
 is with Allah. If his heart were to forget Allah for the time it takes
 to blink an eye, he would die of yearning for Him. The gnostic is the
 trustee over the happenings of Allah, the treasury of His secrets, the

@@ -146,14 +146,14 @@ hearing through which he hears, his sight through which he sees, his
 tongue through which he speaks and his hand through which he strikes. If
 he calls on me I answer him, and if he asks me I give him.”*
 
-Fayd Kashani has told the following poem regarding this issue:  
- You were with me. I did not consider you as I myself,  
- Or perhaps you were me and I didn't know;  
- When I departed, I recognized you,  
- As far as you were me, I didn't know.  
- Another poet has said, regarding this:  
- So much I thought about you, I became entirely you,  
- You came gradually, and I slowly departed.
+Fayd Kashani has told the following poem regarding this issue:
+You were with me. I did not consider you as I myself,
+Or perhaps you were me and I didn't know;
+When I departed, I recognized you,
+As far as you were me, I didn't know.
+Another poet has said, regarding this:
+So much I thought about you, I became entirely you,
+You came gradually, and I slowly departed.
 
 The Effects and Signs of certainty
 ----------------------------------
@@ -169,12 +169,12 @@ The writer of “Misbah al-Shari’ah” writes, Imam Sadiq (as) has said:
 “Certainty raises the status of the man to a lofty one, and the Great
 Prophet of Islam (S), hearing that Jesus Christ (as) had walked over
 water, replied: ‘If Jesus enjoyed greater certainty, he would have
-walked on air as well’”.  
- This statement depicts the lofty degree of certainty.
+walked on air as well’”.
+This statement depicts the lofty degree of certainty.
 
 All Prophets are not on the same footing. Some who have more certainty
-are of higher status.  
- As the Prophets enjoy different degrees of certainty, so do the
+are of higher status.
+As the Prophets enjoy different degrees of certainty, so do the
 believers. A man who enjoys a better degree of certainty, naturally sees
 power and might only in the hands of Allah and insists on worshipping
 Him both publicly and in private. Existence or lack of it, more or less,
@@ -193,11 +193,11 @@ significance of the issue, both are given here:
 (S) performed the Morning Prayer with people. He saw among the crowd a
 young man who was dozing off and his head was leaning towards his
 breast. His skin was yellow, his body thin, and his eyes deep in his
-skull.  
- The Prophet (S) asked him: “O young man, how did you spend last night”?
+skull.
+The Prophet (S) asked him: “O young man, how did you spend last night”?
 He replied: “O Messenger of Allah, I spent it with certainty”. The
-Prophet (S) was surprised at his reply.  
- Then, he told the youth: “For each certainty, there is a truth. What is
+Prophet (S) was surprised at his reply.
+Then, he told the youth: “For each certainty, there is a truth. What is
 the truth behind your certainty”?
 
 He answered: “These are the effects and consequences of my certainty: It
@@ -212,30 +212,30 @@ heard the noise of the people of Hell”.
 
 Then the Prophet (S), hearing these statements, told his followers: “God
 has illuminated this man's heart with light”. Then he told the youth:
-“Continue with this state of mind."  
- Then the youth said, "O Messenger of Allah, ask God to make me a martyr
+“Continue with this state of mind."
+Then the youth said, "O Messenger of Allah, ask God to make me a martyr
 in your holy wars. The Prophet (S) prayed for him. Some time later, he
 joined one of the prophet's holy wars and was the ninth martyr in that
 war."[^7]
 
 **2.** Abu Basir narrates from Imam Sadiq (as) who said, ‘The Prophet
 (S) saw Harith Ibn Malik Ibn Nu'man al-Ansari, and asked him: “How are
-you, Harith”?  
- He replied: “I am a true believer”. The Prophet (S) said. "For
-everything there is a truth. What is the truth beyond your speech”?  
- He answered, "O Messenger of Allah, I lack interest in this world. At
+you, Harith”?
+He replied: “I am a true believer”. The Prophet (S) said. "For
+everything there is a truth. What is the truth beyond your speech”?
+He answered, "O Messenger of Allah, I lack interest in this world. At
 night, I am awake for prayers, during the days, due to fasting and the
 heat, I am extremely thirsty. It is as if I saw my God in the Heaven. He
 is there to keep people accountable for what they do. I see the people
 of paradise meeting each other. It seems as if I heard the groans of the
-people of Hell."  
- The Prophet (S) said, regarding this youth: "He is God's servant whose
+people of Hell."
+The Prophet (S) said, regarding this youth: "He is God's servant whose
 heart has become illuminated by Him". Then, he told the youth: "You have
-got the insight. Be steady and firm."  
- The youth told the Prophet (S): “Please ask God to make me one of the
+got the insight. Be steady and firm."
+The youth told the Prophet (S): “Please ask God to make me one of the
 martyrs among your army”. The Prophet (S) asked God to provide Harith
-with martyrdom.  
- Some time later Harith was among the army dispatched for war. He killed
+with martyrdom.
+Some time later Harith was among the army dispatched for war. He killed
 8 persons and then was martyred."[^8]
 
 Some Other Examples Of The Signs Of The Effects Of Certainty
@@ -251,12 +251,12 @@ mentioned here:
 The people of certainty enjoy Godwariness about which Imam ‘Ali (as) has
 said:
 
-**  
+**
 **
 
 التَقوَى ثَمَرَةُ الدِّينِ وَاَمارَةُ اليَقِينِ
 
-**  
+**
 **
 
 "Godwariness is the fruit of religion and the sign of certainty."[^9]
@@ -341,8 +341,8 @@ Imam ‘Ali (as) has stated: "Anybody who is satisfied with Divine Fate,
 will definitely enjoy good certainty.[^17]
 
 He has said, as well: "Being happy with God is the result of
-certainty."[^18]  
- Imam Sadiq (as), as well, has said, "Being satisfied with affairs which
+certainty."[^18]
+Imam Sadiq (as), as well, has said, "Being satisfied with affairs which
 seems to be troublesome, is of the highest degree of certainty."[^19]
 
 ### E) Sincerity
@@ -351,30 +351,30 @@ One who believes and has certainty in the origin of the creation,
 Resurrection, and Islamic education, naturally can not perform his
 affairs and actions for anybody else except God. Thus, regarding this,
 Imam ‘Ali (as) has said, "The sincerity of your intention is based on
-the strength of certainty and on the soundness of the intention"[^20]  
- He has also said, "The reason behind sincerity is certainty."[^21] He
+the strength of certainty and on the soundness of the intention"[^20]
+He has also said, "The reason behind sincerity is certainty."[^21] He
 has also said, "The sincerity in actions is the result of the strength
-of certainty."[^22] He as well has mentioned:  
- "The people of certainty are the people of sincerity."[^23]
+of certainty."[^22] He as well has mentioned:
+"The people of certainty are the people of sincerity."[^23]
 
 ### F) Piety
 
 As certainty includes a lot of advantages, the lack of interest in the
 world, too, is the result of certainty. This is clear from a look at
-Imam ‘Ali's statements which follow:  
- "Certainty has piety as a result"  
- "Piety is the basis of certainty"  
- "One who is sure of the Doom's Day, will not be greedy for this
-world"  
- "Certainty is the best agent for lack of interest in this world"[^24]
+Imam ‘Ali's statements which follow:
+"Certainty has piety as a result"
+"Piety is the basis of certainty"
+"One who is sure of the Doom's Day, will not be greedy for this
+world"
+"Certainty is the best agent for lack of interest in this world"[^24]
 
 ### G) Trust and Reliance on Allah
 
 One other result of certainty is the trust and reliance on Allah.
 Regarding this, Imam ‘Ali (as) says: "With trust in Allah we reach
 certainty." He also says: "Trust in God stems from the strength of
-certainty."  
- That also has said, "The truth of belief exists in the trust in
+certainty."
+That also has said, "The truth of belief exists in the trust in
 God."[^25]
 
 [^1]: . Jami’ al-Sa’adat, vol.1, p.119.

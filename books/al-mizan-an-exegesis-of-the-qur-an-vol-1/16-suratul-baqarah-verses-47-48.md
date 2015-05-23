@@ -244,8 +244,8 @@ of Allah's authority; while the ones proving it, prove it basically for
 Allah and then, depending on His pleasure, for others.
 
 Thus the intercession is proved for other than Allah with His
-permission.  
- Now we should see what is the meaning of intercession? Who may
+permission.
+Now we should see what is the meaning of intercession? Who may
 intercede? On behalf of whom? And when? How is it related to the divine
 forgiveness?
 
@@ -493,8 +493,8 @@ all-encompassing intercessor:
 Him*** **(6:51).**
 
 The intercessors, other than Allah, get that right by His permission, by
-His authority.  
- In short, intercession with Him is a confirmed reality - in cases where
+His authority.
+In short, intercession with Him is a confirmed reality - in cases where
 it does not go against the divine glory and honour.
 
 2. The Objections Against Intercession
@@ -1221,8 +1221,8 @@ intercede except for him whom He approves*****. (21:26-28).**
 Those who were called 'son' of God, are in fact His honoured servants
 and they do intercede for him whom He approves. Among them is \`Isa, son
 of Maryam, and he was a prophet. It means that the prophets do intercede
-for approved persons.  
- Again Allah says:
+for approved persons.
+Again Allah says:
 
 ***And those whom they call upon besides Him have no authority for***
 **(or, do not own)** ***intercession, but he who bears witness of the
@@ -1270,8 +1270,8 @@ these it is that are the truthful and the witnesses with their Lord . .
 ----------------------------
 
 The intercession in creation is related to every cause in this world of
-the cause and effect.  
- As for the intercession in matters of legislation and judge­ment, some
+the cause and effect.
+As for the intercession in matters of legislation and judge­ment, some
 of them wipe out every sin and its punishment, right from polytheism to
 the smallest one. For example, repentance done, and true faith acquired,
 before the Day of Resurrection.
@@ -1746,7 +1746,7 @@ said:
 once return, we would be of the believers*** **(26:100-102)** ***.'***
 
 Then Abu Ja'far (a.s.) said: \`But oh! how preposterous! They shall be
-denied what they asked for;  
+denied what they asked for;
 ***and if they were ,sent back they would certainly return to what they
 were forbidden, and most certainly they are liars*** **(6:28***)* .'
 ”[^9]

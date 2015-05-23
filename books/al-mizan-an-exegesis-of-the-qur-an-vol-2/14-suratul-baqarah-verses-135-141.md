@@ -321,8 +321,8 @@ are your deeds”.
 
 Coming to the third cause, the Muslims are sincere in their devotion to
 Allah. So why should the People of the Book dispute with them, when they
-have got no reason at all.  
- In this way, Allah first rebuked them for their disputation with the
+have got no reason at all.
+In this way, Allah first rebuked them for their disputation with the
 Muslims, and then dismisses all three causes of dispu­tation one by one.
 
 **Qur’an:** ***“Or, do you say that Ibrahim... were Jews or
@@ -422,8 +422,8 @@ and as-Saduq narrates in *Ma'ani 'l-akhbar* from as-Sadiq (a.s.) that he
 said explaining the words of Allah, ***the dyeing of Allah...**:* “The
 dyeing is the Islam**.”**
 
-The author says: It is clear from the context of the verses.  
- as-Sadiq (a.s.) said: ”(Allah) dyed the believers with *al­wilayah*
+The author says: It is clear from the context of the verses.
+as-Sadiq (a.s.) said: ”(Allah) dyed the believers with *al­wilayah*
 **اَلوِلايـَةُ** ) = love and obedience of the Prophet and his *Ahlu
 '1-bayt*) in (i.e., at the time of) *al-mithaq* **اَلميْثاقُ**) = the
 covenant taken from the souls).” (*al-Kafi; Ma'ani 'l-akhbar*)

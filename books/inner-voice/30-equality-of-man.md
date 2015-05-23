@@ -1,8 +1,8 @@
 Equality of Man
 ===============
 
-Thought for the Week:
----------------------
+Thought for the Week
+--------------------
 
 ***“O People, verily we created you of a male and a female; and We made
 you in clans and tribes so that you may recognize Each other: but the

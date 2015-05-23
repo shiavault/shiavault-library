@@ -41,8 +41,8 @@ what were the signs of their weakness and strength.
 
 In those ayat the Holy Qur’an has invited the attention of the people
 towards those laws and in this same way indicated the consequence of the
-disobedience of the sinful and oppressive people.  
- The same fact became the cause that the Holy Qur’an should analyze the
+disobedience of the sinful and oppressive people.
+The same fact became the cause that the Holy Qur’an should analyze the
 past societies and indicate towards their different aspects.
 
 Therefore the Holy Qur’an mentions for example the Bani Israel and the

@@ -1,11 +1,12 @@
 ---
 source: :alislam
-source_url: http://www.al-islam.org/defence-islamic-laws-allamah-sayyid-saeed-akhtar-rizvi
+source_url: http://www.al-islam.org/defence-islamic-laws-sayyid-saeed-akhtar-rizvi
 author: Allamah Sayyid Sa'eed Akhtar Rizvi
 publisher: Bilal Muslim Mission of Tanzania
 title: In Defence of Islamic Laws
+subtitle: Four Memoranda on Various Personal Laws of Islam
 slug: in-defence-of-islamic-laws
-uuid: 5fca518c-8468-4f33-8dcd-90632113581a
+uuid: 5d4726a5-dc15-4ec9-8241-3878fc6b9883
 description: |
   This book contains the text of three memoranda submitted by the author
   to the Kenyan government in response to a request by the government
@@ -13,34 +14,34 @@ description: |
   hijab in the Shi'a faith.
 chapters:
 - source: :alislam
-  source_url: http://www.al-islam.org/defence-islamic-laws-allamah-sayyid-saeed-akhtar-rizvi/preface
+  source_url: http://www.al-islam.org/defence-islamic-laws-sayyid-saeed-akhtar-rizvi/preface
   title: Preface
   slug: 1-preface
-  uuid: 5e41ea28-1385-4385-a20e-d84591c64a41
+  uuid: eeebe81a-6daf-43b5-8463-fa7c02810a46
 - source: :alislam
-  source_url: http://www.al-islam.org/defence-islamic-laws-allamah-sayyid-saeed-akhtar-rizvi/ministry-education-and-cultures-circular-no
+  source_url: http://www.al-islam.org/defence-islamic-laws-sayyid-saeed-akhtar-rizvi/ministry-education-and-cultures-circular-no
   title: Ministry  of  Education  and  Culture's Circular  No. EDC/10/62/voI.1I417  dated   28
     August,   1995
   slug: 2-ministry-of-education-and-culture-s-circular-no-edc-10-62-voi-1i417-dated-28-august-1995
-  uuid: 31f6f244-302d-4a00-a693-532cd994180f
+  uuid: db1762bd-a4f7-4b17-86c5-047e199dc5ec
 - source: :alislam
-  source_url: http://www.al-islam.org/defence-islamic-laws-allamah-sayyid-saeed-akhtar-rizvi/memorandum-matrimonial-laws
+  source_url: http://www.al-islam.org/defence-islamic-laws-sayyid-saeed-akhtar-rizvi/memorandum-matrimonial-laws
   title: Memorandum on Matrimonial Laws
   slug: 3-memorandum-on-matrimonial-laws
-  uuid: f6684faa-4e7b-4979-961b-31ae0cdaec03
+  uuid: 5f1ebbdd-932f-41bc-84ee-e9ee6dc12da0
 - source: :alislam
-  source_url: http://www.al-islam.org/defence-islamic-laws-allamah-sayyid-saeed-akhtar-rizvi/memorandum-laws-succession
+  source_url: http://www.al-islam.org/defence-islamic-laws-sayyid-saeed-akhtar-rizvi/memorandum-laws-succession
   title: Memorandum on the Laws of Succession
   slug: 4-memorandum-on-the-laws-of-succession
-  uuid: fef50a91-8c16-4f7a-826e-d0e7ad387488
+  uuid: c1f8e0fb-0ab5-4a71-8c0b-39d367117d36
 - source: :alislam
-  source_url: http://www.al-islam.org/defence-islamic-laws-allamah-sayyid-saeed-akhtar-rizvi/memorandum-tanzania-white-paper-uniform
+  source_url: http://www.al-islam.org/defence-islamic-laws-sayyid-saeed-akhtar-rizvi/memorandum-tanzania-white-paper-uniform-marriage-law
   title: Memorandum on Tanzania White Paper on Uniform Marriage Law
   slug: 5-memorandum-on-tanzania-white-paper-on-uniform-marriage-law
-  uuid: 2d799adc-e6a7-4c0e-9461-938f5fb7ede6
+  uuid: ec3b74a8-c19d-4e57-8209-340265b5ff7e
 - source: :alislam
-  source_url: http://www.al-islam.org/defence-islamic-laws-allamah-sayyid-saeed-akhtar-rizvi/memorandum-hijab-and-succession
+  source_url: http://www.al-islam.org/defence-islamic-laws-sayyid-saeed-akhtar-rizvi/memorandum-hijab-and-succession
   title: Memorandum on Hijab and Succession
   slug: 6-memorandum-on-hijab-and-succession
-  uuid: a405bca1-4944-4638-bf62-e6c59128729b
+  uuid: 711a127b-4df9-4976-8f09-a4c016cf9990
 ---

@@ -26,8 +26,8 @@ of other the followers of his religion must take him as an exemplar and
 act in the same way for solving difficulties. And they must not decide
 according to their personal whims and fancies. (It is obvious that
 consultation can only be in the matters regarding whom no absolute
-command is issued from the Almighty).  
-  
+command is issued from the Almighty).
+
 
 [^1]: Surah Ahzab 33:21
 

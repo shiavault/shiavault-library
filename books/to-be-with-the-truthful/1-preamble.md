@@ -26,8 +26,8 @@ those who kindly followed their guide, from among the earlier and latter
 (people) till the Day of Resurrection.
 
 My Lord! Dilate my bosom, ease my affair, and untie a knot of my tongue
-so that my words will be comprehended.  
- My Lord! Make the truth, with which you guide Your faithful bondmen, be
+so that my words will be comprehended.
+My Lord! Make the truth, with which you guide Your faithful bondmen, be
 revealed for whoever reads my book, and open his insight.
 
 In the beginning, my book, “Then I was Guided” was encountered with good
@@ -97,8 +97,8 @@ order to obtain the right Islamic trend and plain course, that leads us
 toward the straightforward path, as commented by some readers, then let
 it be so. This is the abstract truth that some fear facing it with a
 constructive sport spirit, and creative objective breath... and whose
-conception goes in line with the Messenger’s (S) saying:  
- “*I am leaving behind among you two precious things (Thaqalayn): the
+conception goes in line with the Messenger’s (S) saying:
+“*I am leaving behind among you two precious things (Thaqalayn): the
 Book of Allah and my Kindred (‘Itrah) my Ahl al-Bayt. As long as you
 adhere to them you will never go astray after me.*”
 

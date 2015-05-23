@@ -1,576 +1,572 @@
 ---
 source: :alislam
-source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani
+source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani
 author: Ayatullah al-`Uzma al-Hajj ash-Shaykh Nasir Makarim ShiraziAyatullah Ja'far
   Subhani
 publisher: The Islamic Seminary Publications
 translator: Syed Athar Husain S.H. Rizvi
 title: Philosophy of Islamic Laws
 slug: philosophy-of-islamic-laws
-uuid: 88e03ce4-6a18-4c55-984f-ab40a8abe2f3
+uuid: 38f74ff0-50e8-42de-adc0-6ea21ec21717
 description: |
   In this book, the authors have endeavored to reply to over a hundred
   commonly asked questions about Islamic laws and practices and have also
   explained the reasons being various Islamic directives.
 chapters:
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-0
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/presentation
   title: Presentation
   slug: 1-presentation
-  uuid: bc00059e-e457-4ed9-af3c-f298204fcfcc
+  uuid: 4d4940a2-e3e7-42f3-bb14-47aa4c9706ba
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-1
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/extract-sermon-hazrat-fatima-princess
   title: The Extract of a Sermon of Hazrat Fatima (a.s.) the Princess of Islam
   slug: 2-the-extract-of-a-sermon-of-hazrat-fatima-a-s-the-princess-of-islam
-  uuid: 3bd32060-8617-4ba2-bb99-d3ccb6cef670
+  uuid: f5ab847d-8b17-4c92-86a8-c56cb9ac5be8
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani/
-  author: Ayatullah al-`Uzma al-Hajj ash-Shaykh Nasir Makarim ShiraziAyatullah Ja'far
-    Subhani
-  publisher: The Islamic Seminary Publications
-  translator: Syed Athar Husain S.H. Rizvi
-  title: Philosophy of Islamic Laws
-  slug: 3-philosophy-of-islamic-laws
-  uuid: 25bee311-77c7-4f3c-9206-d9842fc68c85
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/%C2%A0preface
+  title: " Preface"
+  slug: 3-preface
+  uuid: d0ecda58-32a4-4cd4-b3ea-173d92f61b35
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-2
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-1-do-we-have-right-ask-about
   title: 'Question 1: Do we have the right to ask about the Logic behind Islamic Laws?'
   slug: 4-question-1-do-we-have-the-right-to-ask-about-the-logic-behind-islamic-laws
-  uuid: 6fe91ce3-3773-49ef-abbc-c67a5386e7c1
+  uuid: 5f8d4cd4-2235-4e82-8c9b-c9009c8ad339
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-3
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-2-how-ponder-philosophy-islamic
   title: 'Question 2: How to ponder on the Philosophy of Islamic Laws?'
   slug: 5-question-2-how-to-ponder-on-the-philosophy-of-islamic-laws
-  uuid: e18fecc2-ec0c-4b99-91ca-bcf2f70dd1bc
+  uuid: d7fffc2b-30e5-48d6-bd48-5ed1c68ccfd7
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-4
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-3-why-should-we-do-taqlid
   title: 'Question 3: Why Should We Do Taqlid (Follow A Mujtahid) In Religious Problems?'
   slug: 6-question-3-why-should-we-do-taqlid-follow-a-mujtahid-in-religious-problems
-  uuid: a965744d-150c-4d2f-ad17-bc13c797677e
+  uuid: 73ebfc7d-9bf7-487f-bff3-c12f7d4e48aa
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-5
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-4-why-should-we-worship-allah
   title: 'Question 4: Why Should We Worship Allah? What Is The Philosophy of Prayers,
     Fasting And Hajj?'
   slug: 7-question-4-why-should-we-worship-allah-what-is-the-philosophy-of-prayers-fasting-and-hajj
-  uuid: 1bffd3fd-222d-4981-9a0a-d5e409dae3cf
+  uuid: 5605f7cb-8a6e-4fac-8a99-bbc43a5e71d0
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-6
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-5-why-should-we-do-taqlid-most
   title: 'Question 5: Why Should We Do Taqlid of The Most Learned Scholar?'
   slug: 8-question-5-why-should-we-do-taqlid-of-the-most-learned-scholar
-  uuid: 090be125-56c7-4b7d-9323-37685b932fab
+  uuid: a9c1d813-e514-4a53-8be4-eb8124f82e85
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-7
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-6-why-pray-arabic
   title: 'Question 6: Why Pray In Arabic?'
   slug: 9-question-6-why-pray-in-arabic
-  uuid: 2dffced1-b614-484b-ad4c-181221c0349c
+  uuid: cb6dc258-c505-4436-9fb3-9ce24256a6b2
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-8
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-7-why-face-qibla-prayers
   title: 'Question 7: Why To Face The Qibla In Prayers?'
   slug: 10-question-7-why-to-face-the-qibla-in-prayers
-  uuid: 7247734f-896a-47ff-a5b1-214906529170
+  uuid: d8bcc1b2-a63d-4784-94e0-8cda2fa64e41
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-9
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-8-why-do-we-pray-five-prayers
   title: 'Question 8: Why Do We Pray Five Prayers In Three Times?'
   slug: 11-question-8-why-do-we-pray-five-prayers-in-three-times
-  uuid: b183e1ee-4d94-4406-886c-1863848582f8
+  uuid: 7b1f20af-f53a-414b-9c6b-076c5766b554
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-10
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-9-how-does-prayers-keep-person
   title: 'Question 9: How Does Prayers Keep a Person Away From Sin?'
   slug: 12-question-9-how-does-prayers-keep-a-person-away-from-sin
-  uuid: 61919a37-2b93-4fe7-86ed-c8d01db434aa
+  uuid: 186ec31d-db55-462c-ba81-8931f171eaaa
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-11
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-10-what-purpose-prayers-ayaat
   title: 'Question 10: What is The Purpose of Prayers of Ayaat?'
   slug: 13-question-10-what-is-the-purpose-of-prayers-of-ayaat
-  uuid: 696f5459-4bcb-4e72-a144-2f41b2a2265f
+  uuid: 146876fe-f85c-485a-884e-8d5593c70b7b
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-12
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-11-why-should-women-cover
   title: 'Question 11: Why Should Women Cover Themselves In Prayers?'
   slug: 14-question-11-why-should-women-cover-themselves-in-prayers
-  uuid: d285f41e-43fd-42b7-8017-965585c456a0
+  uuid: 130e19c6-83f1-4c89-8459-67a4a913766c
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-13
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-12-why-are-alcoholic-drinks
   title: 'Question 12: Why Are Alcoholic Drinks Impure?'
   slug: 15-question-12-why-are-alcoholic-drinks-impure
-  uuid: 9612b66d-2998-423e-9647-b16d52fab648
+  uuid: c2459a96-d6fc-4071-808d-5d0048e0bc35
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-14
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-13-what-difference-between
   title: 'Question 13: What Is The Difference Between Perspiration And Urine?'
   slug: 16-question-13-what-is-the-difference-between-perspiration-and-urine
-  uuid: 1e25d53b-a5e5-4ef3-96be-1a63472a3b85
+  uuid: 4421da7e-bfdb-48a2-8cef-8a7279975ce5
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-15
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-14-what-philosophy-bathing-dead
   title: 'Question 14: What Is The Philosophy of Bathing The Dead Body And Bath     For
     Touching The Dead Body?'
   slug: 17-question-14-what-is-the-philosophy-of-bathing-the-dead-body-and-bath-for-touching-the-dead-body
-  uuid: 1e1e5d64-e1dd-463a-8831-6f359bf6e429
+  uuid: 780cd1c1-dc06-4153-a0a9-f889b326bf53
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-16
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-15-why-illegitimate-children
   title: 'Question 15: Why Illegitimate Children Are Kept Away From Some Posts?'
   slug: 18-question-15-why-illegitimate-children-are-kept-away-from-some-posts
-  uuid: 4217c4b3-f585-4127-915f-8aeb596e9cf1
+  uuid: 7adb42b0-b4ef-44ac-a182-da903c8b1c13
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-17
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-16-harmful-effects-pork-health
   title: 'Question 16: The Harmful Effects of Pork on the Health of a Person'
   slug: 19-question-16-the-harmful-effects-of-pork-on-the-health-of-a-person
-  uuid: f86dad85-3fcc-4f36-b769-1183f47c7466
+  uuid: 407719ab-10f1-43a3-80f5-c2d262c441d0
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-18
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-17-why-unbeliever-impure
   title: 'Question 17: Why An Unbeliever Is Impure?'
   slug: 20-question-17-why-an-unbeliever-is-impure
-  uuid: c4a9b642-a6cc-4387-8dc1-9dec0f7006ce
+  uuid: df26171b-2a61-4b27-a3c1-8d1f31f18898
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-19
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-18-what-purpose-jizya
   title: 'Question 18: What Is The Purpose of Jizya?'
   slug: 21-question-18-what-is-the-purpose-of-jizya
-  uuid: 14095cc8-26d6-410d-a69a-7027e5b76081
+  uuid: 23f6a5a2-59bb-45cb-bac9-55617c8bf651
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-20
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-19-dress-ihram
   title: 'Question 19: The Dress of Ihram'
   slug: 22-question-19-the-dress-of-ihram
-  uuid: f0d53d31-dd3e-42bb-8c33-b643b5e784ab
+  uuid: 8b849e0b-0eca-4909-8217-cac3cd71a96b
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-21
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-20-why-meat-sacrifice-wasted
   title: 'Question 20: Why Is The Meat of Sacrifice Wasted?'
   slug: 23-question-20-why-is-the-meat-of-sacrifice-wasted
-  uuid: 4f28dbf8-bc2c-415c-90bc-a5695bb2bb36
+  uuid: fdfe92db-0864-47e1-b7dc-af35c503dee4
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-22
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-21-why-it-forbidden-read
   title: 'Question 21: Why It Is Forbidden To Read The Deviated Books?'
   slug: 24-question-21-why-it-is-forbidden-to-read-the-deviated-books
-  uuid: 19fdb5e9-d4e2-46a5-98ee-1b1f309e69e6
+  uuid: f61a5201-670e-43db-a5b6-f4286c51e47b
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-23
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-22-why-holy-quran-cannot-be
   title: 'Question 22: Why The Holy Qur’an Cannot Be Given To Any Non-Muslim?'
   slug: 25-question-22-why-the-holy-qur-an-cannot-be-given-to-any-non-muslim
-  uuid: ec7f9027-b054-46ee-aba0-69ee56db5dc6
+  uuid: 004e3ce7-ba64-48ea-8864-e03e73e199c3
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-24
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-23-reason-strictness-proving
   title: 'Question 23: The Reason of Strictness In Proving Certain Sins (Crimes)'
   slug: 26-question-23-the-reason-of-strictness-in-proving-certain-sins-crimes
-  uuid: cf903636-8c2c-4fd9-84ec-dbfe53e427e3
+  uuid: b28685d1-29d0-45c8-949b-2b1148ee7d48
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-25
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-24-why-animals-should-be
   title: 'Question 24: Why The Animals Should Be Slaughtered In A Particular Way?'
   slug: 27-question-24-why-the-animals-should-be-slaughtered-in-a-particular-way
-  uuid: 4f069e71-b61a-4fc2-9bc1-8f57a2915d85
+  uuid: f34e6e9b-f08c-4933-bcf0-9eb9cad6c516
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-26
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-25-circumcision
   title: 'Question 25: Circumcision'
   slug: 28-question-25-circumcision
-  uuid: 2da504c8-2a04-4982-b735-a399a69deb2c
+  uuid: 703f8abf-80a5-476c-a928-414d9420a732
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-27
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-26-philosophy-halalah
   title: 'Question 26: Philosophy of Halalah'
   slug: 29-question-26-philosophy-of-halalah
-  uuid: 08a759bf-eed1-40bd-afbb-df8226237ed4
+  uuid: 2e9dd41f-12b6-46a2-b1c9-f4cf815c9690
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-28
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-27-psychological-and-physical
   title: 'Question 27: The Psychological And Physical Dangers of Sexual Promiscuity'
   slug: 30-question-27-the-psychological-and-physical-dangers-of-sexual-promiscuity
-  uuid: 624b1b6e-3f27-47c9-ba33-f30a2a934cb5
+  uuid: 2b1b1bfa-c816-4b6e-8e7f-7a8ae9d4cd8b
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-29
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-28-music-islamic-point-view
   title: 'Question 28: Music From The Islamic Point of View'
   slug: 31-question-28-music-from-the-islamic-point-of-view
-  uuid: d5e6042a-9d43-410f-ab9a-4348c3c42b8b
+  uuid: 7de9486d-5f29-42c5-b230-da02dba502a1
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-30
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-29-why-does-allah-subject
   title: 'Question 29: Why Does Allah Subject People To Tests?'
   slug: 32-question-29-why-does-allah-subject-people-to-tests
-  uuid: b4fe49ba-6d8f-47df-b491-26fb097f40be
+  uuid: 3513a372-ef2e-4ed0-992c-11decc3cb148
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-31
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-30-how-can-tayammum-be
   title: 'Question 30: How Can Tayammum be Performed in Soil Contaminated by  Germs?'
   slug: 33-question-30-how-can-tayammum-be-performed-in-soil-contaminated-by-germs
-  uuid: 385a9fd2-9864-4d3b-a6f8-4982fbc5fd01
+  uuid: 96d4e699-1d6a-41ca-8729-250e755be361
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-32
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-31-are-other-religions-right
   title: 'Question 31: Are Other Religions Right?'
   slug: 34-question-31-are-other-religions-right
-  uuid: 913e972f-e2ab-488d-8f99-62bfb8a0df95
+  uuid: e3591b24-3a0a-4165-8155-1ce93d3d5a49
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-33
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-32-prayer-correct-guidance
   title: 'Question 32: Prayer For Correct Guidance To The Right Path (Siraatul Mustaqeem)'
   slug: 35-question-32-prayer-for-correct-guidance-to-the-right-path-siraatul-mustaqeem
-  uuid: 9526b017-5e5c-4085-bd10-1d1098b986a6
+  uuid: 8b0f23ba-3bc3-43db-8ab0-ce8e4334d5fb
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-34
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-33-what-purpose-creating
   title: 'Question 33: What Is The Purpose Of Creating The Heavens And The Earth In
     Six Days?'
   slug: 36-question-33-what-is-the-purpose-of-creating-the-heavens-and-the-earth-in-six-days
-  uuid: f5463bb3-46a6-442e-bf52-4003a9b06373
+  uuid: b7680640-cfd0-4ca7-9661-b12655090ba1
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-35
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-34-what-meant-seven-heavens
   title: 'Question 34: What Is Meant By ‘Seven Heavens’?'
   slug: 37-question-34-what-is-meant-by-seven-heavens
-  uuid: 04ae7f4c-0fe0-4690-8038-bb19d5f124fa
+  uuid: 44048af4-4d72-4ce5-a413-495d615f3b70
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-36
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-35-where-are-two-easts-and-two
   title: 'Question 35: Where Are Two Easts And Two Wests?'
   slug: 38-question-35-where-are-two-easts-and-two-wests
-  uuid: 0e4ca416-358f-4d02-8c92-86695564372c
+  uuid: d43c362c-adf9-46d4-86fa-6bb3f5e9a8de
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-37
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-36-earth-being-spherical-and
   title: 'Question 36: The Earth Being Spherical And The Holy Qur’an'
   slug: 39-question-36-the-earth-being-spherical-and-the-holy-qur-an
-  uuid: 2e459f5a-c4ed-4e62-b37b-7bc967923f3e
+  uuid: 4d228720-b3e9-4fb7-bd13-b80808702037
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-38
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-37-rotation-earth
   title: 'Question 37: Rotation of  The Earth'
   slug: 40-question-37-rotation-of-the-earth
-  uuid: ce6be80d-790a-4c0b-a310-935f73eb6a94
+  uuid: 40749fb8-8a18-46e4-b1cb-017f8afaf996
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-39
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-38-what-exegesis-verse
   title: 'Question 38: What Is The Exegesis of  This Verse?'
   slug: 41-question-38-what-is-the-exegesis-of-this-verse
-  uuid: 41a4981e-0af5-46d5-8264-7b162bd47733
+  uuid: 6fb85d1b-af3a-4397-a23e-7d6b2255dba6
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-40
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-39-importance-laylatul-qadr
   title: 'Question 39: Importance of  Laylat’ul-Qadr'
   slug: 42-question-39-importance-of-laylat-ul-qadr
-  uuid: e4451214-b05d-4ee0-8195-95d711f06751
+  uuid: 0c16f9fc-dfb5-48f2-9496-808bdcc6e045
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-41
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-40-how-zulqarnain-saw-sun-sets
   title: 'Question 40: How Zulqarnain Saw That The Sun Sets In Dark Water?'
   slug: 43-question-40-how-zulqarnain-saw-that-the-sun-sets-in-dark-water
-  uuid: 37d7cc21-8192-4555-aee4-111e94b27482
+  uuid: a0055ad1-5177-4aa1-bd5f-7ed4844140fe
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-42
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-41-holy-quran-and-control-over
   title: 'Question 41: Holy Qur’an And Control Over Planets'
   slug: 44-question-41-holy-qur-an-and-control-over-planets
-  uuid: 25e73f56-0750-4986-b83a-7f1a6178f997
+  uuid: 302f901c-7e1c-4433-832d-0a50ed69b591
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-43
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-42-does-verse-point-towards
   title: 'Question 42: Does This Verse Point Towards The Artificial Means of  The
     Present World?'
   slug: 45-question-42-does-this-verse-point-towards-the-artificial-means-of-the-present-world
-  uuid: ccab7bd7-7408-498e-b238-0ed2c08e0f16
+  uuid: 94b7ed70-be0c-4093-a13e-ca2765ab8c38
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-44
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-43-do-these-verses-support
   title: 'Question 43: Do These Verses Support The Theory of  Evolution?'
   slug: 46-question-43-do-these-verses-support-the-theory-of-evolution
-  uuid: bee4efdb-6c39-4b98-8b3f-9ff04d2bd881
+  uuid: 7877ccba-ec9c-483d-a687-4a9401fac61d
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-45
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-44-ayat-contrary-islam-being
   title: 'Question 44: Is This Ayat Contrary To Islam Being Universal?'
   slug: 47-question-44-is-this-ayat-contrary-to-islam-being-universal
-  uuid: fed78283-fc0e-46d4-b92f-caf134b8c16c
+  uuid: 68cef1e0-b749-40bc-ac66-6745565787a4
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-46
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-45-why-allah-has-used-plural
   title: 'Question 45: Why Allah Has Used Plural Pronouns For Himself?'
   slug: 48-question-45-why-allah-has-used-plural-pronouns-for-himself
-  uuid: f217284e-c136-41a2-bb07-95db962a5e81
+  uuid: b05ac768-4ecb-4978-8542-eb8f4cb2d0d5
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-47
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-46-hearing-and-sight-holy-quran
   title: 'Question 46: Hearing And Sight In The Holy Qur’an'
   slug: 49-question-46-hearing-and-sight-in-the-holy-qur-an
-  uuid: 2664d954-69ed-4bb5-93c7-5249ef46c44f
+  uuid: 3fa7dbf2-3d20-4bce-a4c0-ddc2a0c40733
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-48
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-47-why-would-false-gods-be-put
   title: 'Question 47: Why Would The False Gods Be Put In The Fire?'
   slug: 50-question-47-why-would-the-false-gods-be-put-in-the-fire
-  uuid: 1bce9c06-2ca0-430e-b781-2da34e67381d
+  uuid: 3ededac3-2154-4d96-b6b3-7b44de17b146
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-49
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-48-it-allowed-prostrate-anyone
   title: 'Question 48: Is It Allowed To Prostrate Before Anyone Or Anything Other
     Than Allah?'
   slug: 51-question-48-is-it-allowed-to-prostrate-before-anyone-or-anything-other-than-allah
-  uuid: 6b568423-2941-4f45-9f4b-f30e641e3263
+  uuid: f93905a3-5d3f-4755-a9bb-b92cb5a3ac4d
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-50
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-49-what-meant-tawbah-nasooha
   title: 'Question 49: What Is Meant By Tawbah an-Nasooha?'
   slug: 52-question-49-what-is-meant-by-tawbah-an-nasooha
-  uuid: 1fee9be1-21b5-4a41-8a0c-b3e76aa9fcdf
+  uuid: ad1ce05a-0c8f-451f-bc74-0cc5c02987a7
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-51
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-50-ayat-contrary-issue-abiding
   title: 'Question 50: Is This Ayat Contrary To The Issue of “Abiding Forever”?'
   slug: 53-question-50-is-this-ayat-contrary-to-the-issue-of-abiding-forever
-  uuid: 00182488-9d38-4b9b-a0e4-915fb5fd4f06
+  uuid: 2d73cf45-31be-4599-ba8e-342f2befabcd
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-52
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-51-what-benefit-uttering-allahs
   title: 'Question 51: What is the Benefit of Uttering Allah’s Name Before Starting
     Anything?'
   slug: 54-question-51-what-is-the-benefit-of-uttering-allah-s-name-before-starting-anything
-  uuid: 12191ea4-dc08-4c16-9ec2-0772d0d5453f
+  uuid: f7d4dc50-29f0-4678-a2fc-e084d0a1d8f9
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-53
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-52-quran-safe-distortion
   title: 'Question 52: The Qur’an is safe from distortion'
   slug: 55-question-52-the-qur-an-is-safe-from-distortion
-  uuid: b2b4ef9f-a6c0-4226-9d7c-c726e6c26950
+  uuid: 052b6c44-772e-4e19-b58d-1daabc1e8c42
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-54
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-53-order-revelation-surahs-holy
   title: 'Question 53: The Order of Revelation of Surahs of The Holy Qur’an And The
     Scribes of Revelation'
   slug: 56-question-53-the-order-of-revelation-of-surahs-of-the-holy-qur-an-and-the-scribes-of-revelation
-  uuid: 06ff9ee5-87d3-4dec-a4af-9898b8c2fa47
+  uuid: e6708785-45b8-435e-8f04-4c6a3489c960
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-55
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-54-interpretation-quran-based
   title: 'Question 54: Interpretation of Qur’an Based On Personal Views'
   slug: 57-question-54-interpretation-of-qur-an-based-on-personal-views
-  uuid: e2710f19-6e3b-4c2a-a25f-ff9ddc1b3cc4
+  uuid: e1589dc1-9fc8-48ad-b66a-85e5f216057d
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-56
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-55-what-aim-repetitions-quran
   title: 'Question 55: What Is The Aim of Repetitions In The Qur’an?'
   slug: 58-question-55-what-is-the-aim-of-repetitions-in-the-qur-an
-  uuid: 983089f5-09f4-4213-b7ba-312f7e29e216
+  uuid: c6523187-80e2-4e71-8cf7-7886b874b829
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani/%C2%A0
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/%C2%A0
   title: " "
-  slug: 59-
-  uuid: f6308dc4-2b76-4a44-b263-fbeedafd1cfd
+  slug: '59'
+  uuid: c3593511-a5bd-4fee-8f52-be476561c05c
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-57
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-56-prohibited-tree-tree
   title: 'Question 56: Is The Prohibited Tree The Tree of Knowledge?'
   slug: 60-question-56-is-the-prohibited-tree-the-tree-of-knowledge
-  uuid: a549266a-f829-41da-b625-179ea377fc4b
+  uuid: ceb19339-4aaa-4138-94dd-c520a8aafe18
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-58
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-57-why-there-no-bismillah
   title: 'Question 57: Why Is There No ‘Bismillah’ In The Beginning of ‘Surah Baraat’?'
   slug: 61-question-57-why-is-there-no-bismillah-in-the-beginning-of-surah-baraat
-  uuid: 02d7c07f-3588-48bf-979e-550bf5398715
+  uuid: 9cf66c47-f001-4d70-aaa3-82b9b2891238
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-59
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-58-are-there-more-one-creator
   title: 'Question 58: Are There More Than One Creator?'
   slug: 62-question-58-are-there-more-than-one-creator
-  uuid: 6cd39f45-1962-4cfc-9434-ec7ca6ddac75
+  uuid: d43fc864-80e7-445f-aea5-22a1fc511a20
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-60
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-59-why-charity-compared-ear
   title: 'Question 59: Why is Charity Compared To An Ear Having 700 Grains?'
   slug: 63-question-59-why-is-charity-compared-to-an-ear-having-700-grains
-  uuid: f125b0ce-e02d-4986-8014-1c1ddc8b584b
+  uuid: 8136f344-1416-416e-bb98-c733a27f0fe7
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-61
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-60-son-nuh-holy-quran
   title: 'Question 60: Son of Nuh (a.s.) In The Holy Qur’an'
   slug: 64-question-60-son-of-nuh-a-s-in-the-holy-qur-an
-  uuid: bd5fa90c-c207-4b69-8263-692fea3192a8
+  uuid: a68a44d1-adb0-430a-a1f7-902bd5980f55
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-62
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-61-following-ayat-contravention
   title: 'Question 61: Is The Following Ayat In Contravention of The Infallibility
     of The Holy Prophet (S)?'
   slug: 65-question-61-is-the-following-ayat-in-contravention-of-the-infallibility-of-the-holy-prophet-s
-  uuid: d0a91207-702e-4bb4-a6cc-e4c9072e048d
+  uuid: 8875eaa2-69be-4c2e-b61b-bd9fef936a47
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-63
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-62-what-meaning-words
   title: 'Question 62: What Is The Meaning of The Words: Everything Will Be Destroyed
     Except His Face?'
   slug: 66-question-62-what-is-the-meaning-of-the-words-everything-will-be-destroyed-except-his-face
-  uuid: e489891f-1127-45bb-80d7-a4cf306cb8e1
+  uuid: d2235200-1733-43ec-94cb-a807c4957b3d
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-64
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-63-how-did-yusuf-allow-his
   title: 'Question 63: How Did Yusuf (a.s.) Allow That His Brother Should Be Falsely
     Implicated For Theft?'
   slug: 67-question-63-how-did-yusuf-a-s-allow-that-his-brother-should-be-falsely-implicated-for-theft
-  uuid: 07f49997-c746-4f3d-9a5d-33b526dda738
+  uuid: 5fde717d-82e7-4ba9-93e2-1861c0a6806b
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-65
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-64-should-we-laugh-less-and
   title: 'Question 64: Should We Laugh Less And Weep More?'
   slug: 68-question-64-should-we-laugh-less-and-weep-more
-  uuid: 2e17eaf5-590d-4d01-878a-8f249eacf66b
+  uuid: 0df57e81-1554-4791-b7ad-20487128fea5
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-66
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-65-would-there-be-interrogation
   title: 'Question 65: Would There Be Interrogation On The Day of Qiyamat?'
   slug: 69-question-65-would-there-be-interrogation-on-the-day-of-qiyamat
-  uuid: 277cf229-838f-4bbb-b57a-333e0040066b
+  uuid: d5e86b4b-60a4-41cb-b9fc-4327610ee016
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-67
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-66-does-prophet-also-seek
   title: 'Question 66: Does The Prophet Also Seek Counsel?'
   slug: 70-question-66-does-the-prophet-also-seek-counsel
-  uuid: 2c65768f-085b-40b5-af6c-fc2a23d3ad9d
+  uuid: 2a39de50-7eb4-4883-8876-4cf441f5abc9
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-68
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-67-what-are-smaller-and-greater
   title: 'Question 67: What Are ‘Smaller’ And ‘Greater Sins’?'
   slug: 71-question-67-what-are-smaller-and-greater-sins
-  uuid: d49041b3-a311-4223-b432-1b865f03ee66
+  uuid: 00238d9e-463f-44f4-8a33-481f8546aea3
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani/-0
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/%C2%A0question-68-are-greater-and-smaller
   title: " Question 68: Are Greater And Smaller Relative Terms?"
   slug: 72-question-68-are-greater-and-smaller-relative-terms
-  uuid: 763a6790-3d23-4b72-af64-f0c8ddf77629
+  uuid: fcd9672c-db03-4c74-a7f2-2ecc85d78cdd
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-69
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-69-how-many-greater-sins-are
   title: 'Question 69: How Many Greater Sins Are There?'
   slug: 73-question-69-how-many-greater-sins-are-there
-  uuid: 41942f07-cff5-4c29-bf0c-0567bb5af411
+  uuid: 91c247f8-31b3-4763-bd79-75ca098efe34
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-70
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-70-what-lying-hidden-wisdom
   title: 'Question 70: What Is Lying For A Hidden Wisdom?'
   slug: 74-question-70-what-is-lying-for-a-hidden-wisdom
-  uuid: 13426e75-678d-4dfe-be71-c7af1557a469
+  uuid: dbfb140b-e14c-4249-8c50-4934b92d8257
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-71
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-71-it-allowed-give-physical
   title: 'Question 71: Is It Allowed To Give Physical Punishment For Women?'
   slug: 75-question-71-is-it-allowed-to-give-physical-punishment-for-women
-  uuid: 205c9072-fe24-4993-b8ff-4f44997ba29b
+  uuid: d762f711-424a-4aff-8698-44c696501c29
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-72
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-72-islamic-view-artificial
   title: 'Question 72: Islamic View on Artificial Insemination'
   slug: 76-question-72-islamic-view-on-artificial-insemination
-  uuid: 95c97e81-25b7-4a4c-938b-e8fdc6dc5be6
+  uuid: 41ad88af-358b-4eff-b57b-9d421f9fbaa4
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-73
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-73-what-command-regarding
   title: 'Question 73: What Is The Command Regarding Contraception?'
   slug: 77-question-73-what-is-the-command-regarding-contraception
-  uuid: bd3cf0f5-884d-495b-9144-e6252bb2aabb
+  uuid: c2183468-91b7-4113-9ff9-d4f842230c14
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-74
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-74-what-legal-position
   title: 'Question 74: What Is The Legal Position Regarding Abortion of Illegitimate
     Fetus?'
   slug: 78-question-74-what-is-the-legal-position-regarding-abortion-of-illegitimate-fetus
-  uuid: ae7ef4eb-11ae-4100-9dde-73e6edb1aef0
+  uuid: d7b01d33-5412-41b5-a6b1-99356540b07f
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-75
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-75-blood-transfusion
   title: 'Question 75: Blood Transfusion'
   slug: 79-question-75-blood-transfusion
-  uuid: 68c2d515-74a3-45fe-a6cd-329bdf63e077
+  uuid: d49445c8-ddad-4a75-8139-5e77557dcc6a
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-76
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-76-sincerity-intention
   title: 'Question 76: Is The Sincerity of Intention Beneficial To The Deed?'
   slug: 80-question-76-is-the-sincerity-of-intention-beneficial-to-the-deed
-  uuid: cfe2424f-ed4c-4880-b0ad-a7673e667093
+  uuid: 3d9097c7-9e3d-4518-b29a-97fa7cb74062
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-77
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-77-why-do-we-sometimes-recite
   title: 'Question 77: Why Do We Sometimes Recite The Afternoon Prayers Prayers At
     The Time of Noon Prayers Prayer?'
   slug: 81-question-77-why-do-we-sometimes-recite-the-afternoon-prayers-prayers-at-the-time-of-noon-prayers-prayer
-  uuid: 45378be3-3619-4ee8-adcf-ffe8013783c9
+  uuid: 81461922-254d-4edc-8680-844665c59702
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-78
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-78-does-prayer-have-role
   title: 'Question 78: Does Prayer Have A Role In Acceptance of All Deeds?'
   slug: 82-question-78-does-prayer-have-a-role-in-acceptance-of-all-deeds
-  uuid: f48e4094-13bc-46f0-8aa1-ae49c6d1a263
+  uuid: 388e80d7-a4fc-4316-9a4e-941787e605ed
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-79
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-79-how-pray-and-fast-polar
   title: 'Question 79: How To Pray And Fast In The Polar Regions?'
   slug: 83-question-79-how-to-pray-and-fast-in-the-polar-regions
-  uuid: 336f3cb9-08d0-4586-9001-da64cb555c44
+  uuid: e625b386-a669-4040-9ed6-c92455a4ce5c
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-80
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-80-prayer-earliest-hour
   title: 'Question 80: Prayer At The Earliest Hour'
   slug: 84-question-80-prayer-at-the-earliest-hour
-  uuid: 03718812-efca-498c-a2be-d6aa2e40ac87
+  uuid: b2770cb3-cefb-45b5-95b3-328436e2eccf
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-81
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-81-why-do-we-pray-facing-qibla
   title: 'Question 81: Why Do We Pray Facing The Qibla?'
   slug: 85-question-81-why-do-we-pray-facing-the-qibla
-  uuid: 08857c60-3e08-4b62-b999-ae4b0b85e4bb
+  uuid: 60d686c1-7007-49a0-8f4d-619ee9d40872
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-82
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-82-what-decree-regarding-game
   title: 'Question 82: What Is The Decree Regarding The Game of Chess?'
   slug: 86-question-82-what-is-the-decree-regarding-the-game-of-chess
-  uuid: 3db125d3-5a8f-4206-afd4-40f8ea7d692d
+  uuid: 3aa6a5a4-479b-41a6-980a-d7ea756bf6b8
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-83
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-83-how-can-latin-speaking
   title: 'Question 83:  How Can Latin Speaking People Perform Prayers?'
   slug: 87-question-83-how-can-latin-speaking-people-perform-prayers
-  uuid: 48b7637c-420f-4a9a-b5a1-23a07bb0f789
+  uuid: a5292086-c25d-423b-8699-142ee070478c
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-84
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-84-prostrating-imams-tomb
   title: 'Question 84: Prostrating To The Imam’s Tomb?'
   slug: 88-question-84-prostrating-to-the-imam-s-tomb
-  uuid: 733bb3f7-a620-4863-8f1c-8e7ecb383e2e
+  uuid: 8eaf5133-10c0-4547-bc55-7370ed7dd34f
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-85
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-85-what-ruling-about-sports
   title: 'Question 85: What is The Ruling about Sports like Boxing?'
   slug: 89-question-85-what-is-the-ruling-about-sports-like-boxing
-  uuid: 60898575-2194-4830-983e-9cf1d88ff8c5
+  uuid: 52d66e99-ef41-400e-8c30-6ca58c0e1b82
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-86
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-86-questions-american-muslim
   title: 'Question 86: Questions of An American Muslim'
   slug: 90-question-86-questions-of-an-american-muslim
-  uuid: 2cd69d6c-e569-47a4-8293-0f96ba9cc58a
+  uuid: f716c0dd-b1a9-4ee4-9ac1-6fc6a40b2725
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-87
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-87-what-are-causes-advancement
   title: 'Question 87: What Are The Causes of Advancement of The Muslims In The Past
     Ages And Their Downfall In The Modern Era?'
   slug: 91-question-87-what-are-the-causes-of-advancement-of-the-muslims-in-the-past-ages-and-their-downfall-in-the-modern-era
-  uuid: 4c057369-7e92-4fa3-b639-eeb026749eac
+  uuid: aaccb929-7780-428f-a602-0c76a443e297
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-88
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-88-why-youth-today-avoid
   title: 'Question 88: Why The Youth of Today Avoid Religious Gatherings?'
   slug: 92-question-88-why-the-youth-of-today-avoid-religious-gatherings
-  uuid: 4106a1c3-0deb-423f-8ca4-5b7a31b1e8b4
+  uuid: 16881cc1-7c51-4a1f-b5ab-00311906a619
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-89
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-89-how-can-we-control-misuse
   title: 'Question 89: How Can We Control The Misuse of Polygamy?'
   slug: 93-question-89-how-can-we-control-the-misuse-of-polygamy
-  uuid: 31c4bc45-486d-45b7-aca9-8dd6c5e179d9
+  uuid: c3cfee00-6790-4828-ae04-5f370585c46b
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-90
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-90-has-islam-prescribed-duties
   title: 'Question 90: Has Islam Prescribed The Duties of Woman?'
   slug: 94-question-90-has-islam-prescribed-the-duties-of-woman
-  uuid: 22e8b48b-f592-4d5a-b8ea-720bfaeb3acf
+  uuid: 70578b95-6a1a-4f29-8311-c8b76ab11a0b
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-91
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-91-universe-dependent-upon
   title: 'Question 91: Is The Universe Dependent Upon Allah For Its Continued Existence?'
   slug: 95-question-91-is-the-universe-dependent-upon-allah-for-its-continued-existence
-  uuid: c6b4763a-c014-47af-8b84-b0da2553a1e8
+  uuid: 760a5f33-cc81-4c8e-ad0f-71e18bd1a24e
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-92
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-92-what-islamic-view-regarding
   title: 'Question 92: What Is The Islamic View Regarding The Sneeze?'
   slug: 96-question-92-what-is-the-islamic-view-regarding-the-sneeze
-  uuid: 487180b9-d5e9-4dc2-bdeb-6225fbb989df
+  uuid: 78834295-44be-4459-9e47-af9793f174b5
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-93
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-93-do-dreams-have-any-truth
   title: 'Question 93: Do Dreams Have Any Truth?'
   slug: 97-question-93-do-dreams-have-any-truth
-  uuid: 7abdf8d1-ba49-46e5-a041-915f5f300a7e
+  uuid: 7e856cff-150d-4560-85e4-ff97789597c3
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-94
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-94-khums-recompense-prophethood
   title: 'Question 94: Is Khums The Recompense of Prophethood?'
   slug: 98-question-94-is-khums-the-recompense-of-prophethood
-  uuid: 72b0d6be-5842-4a53-a1c7-7d002c0e1a14
+  uuid: efe8c0fd-cf02-4114-aeb7-844dafaf6a10
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-95
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-95-not-khums-cause-social
   title: 'Question 95: Is Not Khums a Cause For Social Difference?'
   slug: 99-question-95-is-not-khums-a-cause-for-social-difference
-  uuid: 8a3b8249-4d61-44f5-9689-19999a31c4d1
+  uuid: af91ca55-840e-45e8-a4d8-62da4f12bbdb
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-96
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-96-why-there-still-ignorance
   title: 'Question 96: Why Is There Still Ignorance Despite So Many Efforts For Popularizing
     Knowledge?'
   slug: 100-question-96-why-is-there-still-ignorance-despite-so-many-efforts-for-popularizing-knowledge
-  uuid: ed7b2201-afed-4c06-b138-a20a24d5bad1
+  uuid: e3059ca2-e3c9-4db0-bbbb-986cb2797589
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-97
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-97-should-good-people-also-pray
   title: 'Question 97: Should The Good People Also Pray?'
   slug: 101-question-97-should-the-good-people-also-pray
-  uuid: b45fc2ac-69c0-4aec-9761-6c5b44d42879
+  uuid: c2ae7690-c018-4cbd-9d68-73c4c21c2b87
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-98
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-98-man-superior-angels
   title: 'Question 98: Is Man Superior To Angels?'
   slug: 102-question-98-is-man-superior-to-angels
-  uuid: 3e136c54-b6bb-49f4-8c03-69412211f781
+  uuid: c53a8838-efdd-4522-bbf3-0c7d00874140
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-99
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-99-maturity-boys-and-girls
   title: 'Question 99: Maturity of Boys And Girls'
   slug: 103-question-99-maturity-of-boys-and-girls
-  uuid: a2f5b12c-2282-4bc5-92c8-526853474b5b
+  uuid: baf74cd8-3fe6-4bcb-a5e6-3c3d56435293
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-100
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-100-following-taqlid-religious
   title: 'Question 100: Following (Taqlid) The Religious Maraja (Mujtahid)'
   slug: 104-question-100-following-taqlid-the-religious-maraja-mujtahid
-  uuid: f59cd79f-864e-4f5b-a310-566f23b07ced
+  uuid: decf5acf-a66c-40f7-9ff9-5384cce336d3
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-101
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-101-tawalla-and-tabarra
   title: 'Question 101: Tawalla And Tabarra'
   slug: 105-question-101-tawalla-and-tabarra
-  uuid: 4815e1b8-fedf-44a5-9692-88c8c2d7a648
+  uuid: 1d289136-cc40-442f-a819-15ba4cb1cca6
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-102
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-102-did-amir-al-mumineen-ali
   title: 'Question 102: Did Amir al-Mu’mineen Ali (a.s.) Ever Depend On The Tradition
     of Ghadeer To Prove His Caliphate?'
   slug: 106-question-102-did-amir-al-mu-mineen-ali-a-s-ever-depend-on-the-tradition-of-ghadeer-to-prove-his-caliphate
-  uuid: d8d4e229-5ec0-49dc-a235-e7d26f67968b
+  uuid: decceaae-2081-4b91-b5a1-0589d0bc0209
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-103
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-103-sacrifice-and-offering
   title: 'Question 103: Is Sacrifice And Offering Possible?'
   slug: 107-question-103-is-sacrifice-and-offering-possible
-  uuid: f34aa27d-8688-4576-ba2c-4996984ce025
+  uuid: 6dfe483a-fcbd-48f8-a3f9-db4315407ef8
 - source: :alislam
-  source_url: http://www.al-islam.org/philosophy-islamic-laws-ayatullah-al-uzma-shaykh-nasir-makarim-shirazi-ayatullah-jafar-subhani-104
+  source_url: http://www.al-islam.org/philosophy-islamic-laws-nasir-makarim-shirazi-jafar-subhani/question-104-what-aim-verse-he-deviates
   title: 'Question 104: What is The Aim of the Verse: He Deviates Whomsoever He Likes
     And Guides Whomsoever He Likes?'
   slug: 108-question-104-what-is-the-aim-of-the-verse-he-deviates-whomsoever-he-likes-and-guides-whomsoever-he-likes
-  uuid: ca91997b-7f10-4885-a7ca-d3e985e6254a
+  uuid: 23d91494-c12d-474d-b06a-d0efd7ae9268
 ---

@@ -26,8 +26,8 @@ have become old. Although these three periods are connected (linked)
 with each other like the links of a chain that is why he interprets
 those three different periods of his life with the word 'day'.
 
-Imam Ali (a.s.) says,  
- Age is not more than two days. One day it gives you benefit and the
+Imam Ali (a.s.) says,
+Age is not more than two days. One day it gives you benefit and the
 next day it is piercing loss on you.
 
 It means that there are two periods in the life of man. One day he is on

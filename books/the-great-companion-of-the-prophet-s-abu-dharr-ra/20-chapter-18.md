@@ -1,8 +1,7 @@
 Chapter 18
 ==========
 
-   
- Abu Dharr having returned to Medina from Syria was busy in his
+Abu Dharr having returned to Medina from Syria was busy in his
 preachings when one more heart rending incident came to pass and that
 was the burning of the Holy Qur'an. He was already grieved to see that
 the Islamic State was being ruined. The wealth of Muslim ummah was being
@@ -14,9 +13,9 @@ houses, gardens and lands. All of a sudden he got the news that the
 Caliph got different copies of the Qur'an collected from a far and wide,
 and put them to flames. Therefore, this important incident became the
 target of his preaching. The historian Abul Fida writes that this
-happened in 30 A.H[^1].  
-    
- The historian Ya'qubi (died 278 A.H.) writes in his book that Uthman
+happened in 30 A.H[^1].
+
+The historian Ya'qubi (died 278 A.H.) writes in his book that Uthman
 collected the Qur'an arid arranged it in such a way that he placed big
 surahs (chapters) together and the small surahs together separately, and
 sending for copies from all sides, got them washed with hot water and
@@ -29,9 +28,9 @@ masjid, Uthman was busy delivering his speech. Seeing Ibn Mas'ud he
 said, "An ugly and ill-natured animal has come". Ibn Mas'ud also
 strongly retorted in response. Hearing it Uthman ordered people to beat
 him. So the people beat him and dragged him in such a way that two of
-his ribs got fractured.  
-    
- It is written in the Persian translation of Tarikh A'tham Kufi (printed
+his ribs got fractured.
+
+It is written in the Persian translation of Tarikh A'tham Kufi (printed
 in Bombay vide page 147 line 8) that Uthman tore off the Qur'an and got
 it burnt. The same is given in the book "Successors of Muhammad". (W.
 Irving p.160 printed in London, 1850 A.D.). According to "Najatul
@@ -57,9 +56,9 @@ copy of the Qur'an prepared by Uthman remained in existence and all the
 other copies were got burnt. According to Fathul Bari of Ibn Hajar
 'Asqalani vol. 4, p. 226, Uthman sent back the Qur'an of Hafsah but
 Marwan snatched it forcibly from her and burnt it. According to Tarikh
-Khamis p. 270, Isti'ab p. 373 and Sawa'iq Muhriqah p. 68  
-    
- Uthman got all the copies of the Qur'an burnt except his own and got
+Khamis p. 270, Isti'ab p. 373 and Sawa'iq Muhriqah p. 68
+
+Uthman got all the copies of the Qur'an burnt except his own and got
 Abdullah Ibn Mas'ud beaten so much that he developed the disease of
 hernia. Then he sent him to prison where he died. According to Tuhfah
 lthna ' Ashariyah of Abdul Aziz, Ubayy bin Ka'b gave his Qur'an to
@@ -69,7 +68,7 @@ It is however recorded in innumerable books that Uthman got the Divine
 Scriptures burnt. These were the Qur'ans which were compiled in the days
 of Abu Bakr. When Ummul Mu'minin 'Ayesha got the news of the burning of
 Qur'ans she became restless. She said, "O Muslims! Kill this man who has
-burnt the Qur'an. He has committed a great oppression"[^2]. 
+burnt the Qur'an. He has committed a great oppression"[^2].
 
 Ayesha was not content with this much, but she constantly expressed her
 displeasure against Uthman. She said again and again "Kill this jew,
@@ -80,13 +79,13 @@ Uthman. Then Ibn Athir explains why she called Uthman Na'thal. The
 reason that Na'thal was ajew in Egypt and his beard resembled that of
 Uthman. Again he says that according to a statement by Shaykh it meant a
 fool. He further says that after that 'Ayesha went to Mecca. (Nihayah
-Ibn Athir)  
-    
- The historian Ibn Taqtaqi writes that Uthman was killed in consequence
+Ibn Athir)
+
+The historian Ibn Taqtaqi writes that Uthman was killed in consequence
 of 'Ayesha 's order "Kill this Na'thal". The very day his house was
-surrounded 'Ayesha went to Mecca[^4].  
-    
- It is obvious that when 'Ayesha, being a woman was so much shocked by
+surrounded 'Ayesha went to Mecca[^4].
+
+It is obvious that when 'Ayesha, being a woman was so much shocked by
 this incident, why should Ali not have been shocked by this horrible
 event? It is learnt from the writings of authentic scholars that Ali got
 highly shocked by the incident of burning of the Qur'an. Consequently he
@@ -99,9 +98,9 @@ upon him with iron". Abu Dharr said, "O Ali I have heard the Prophet of
 Allah saying, that the tyrant kings would kill the members of his
 house". Ali said, "O Abu Dharr! Are you drawing my attention to my being
 murdered, Abu Dharr said, "No doubt, this will happen and you will be
-the first out of the progeny of the Prophet to be assassinated"[^5].  
-    
- In short, it becomes evident that Abu Dharr was deeply affected by this
+the first out of the progeny of the Prophet to be assassinated"[^5].
+
+In short, it becomes evident that Abu Dharr was deeply affected by this
 terrible event. He also added one more theme to his speeches and called
 it an un-Islamic way. Let it be known that as the burning of the Qur'an
 injures the Islamic spirit so some modern writers have changed the word

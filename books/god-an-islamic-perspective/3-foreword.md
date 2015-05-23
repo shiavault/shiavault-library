@@ -13,14 +13,14 @@ large quantities for mass circulation.
 
 Now, in this reprinted edition, the author has completely revised the
 booklet and has added more facts and information to support his
-theory.  
- Finally, we invoke the Almighty Allah for guidance and success in our
+theory.
+Finally, we invoke the Almighty Allah for guidance and success in our
 work.
 
-World Organization for Islamic Services ( WOFIS)  
- (Board of Writing, Translation and Publication)  
- Dhi'l-hijjah, 1398,  
- November, 1978.  
- Tehran - IRAN.
+World Organization for Islamic Services ( WOFIS)
+(Board of Writing, Translation and Publication)
+Dhi'l-hijjah, 1398,
+November, 1978.
+Tehran - IRAN.
 
 

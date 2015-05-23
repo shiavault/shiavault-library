@@ -1,0 +1,68 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/shared-religious-foundations-education-islam-christianity-hamid-reza-alavi
+author: Hamid Reza Alavi
+publisher: Ansariyan Publications - Qum
+title: 'Shared Religious Foundations of Education: Islam & Christianity'
+slug: shared-religious-foundations-of-education-islam-christianity
+uuid: f538197b-5c50-4cc6-a0a1-85c1aed522d8
+description: |
+  This book explores the religious foundations of educational system found
+  in Islam & Christianity and the relation between each other.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/shared-religious-foundations-education-islam-christianity-hamid-reza-alavi/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: d586c325-5e9d-4156-900c-4b75e311751a
+- source: :alislam
+  source_url: http://www.al-islam.org/shared-religious-foundations-education-islam-christianity-hamid-reza-alavi/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 3d5deee2-d841-4214-b569-48d3e1d2f4d7
+- source: :alislam
+  source_url: http://www.al-islam.org/shared-religious-foundations-education-islam-christianity-hamid-reza-alavi/ontology
+  title: Ontology
+  slug: 3-ontology
+  uuid: 0deadb86-0b57-468c-ba09-326043349eee
+- source: :alislam
+  source_url: http://www.al-islam.org/shared-religious-foundations-education-islam-christianity-hamid-reza-alavi/anthropology
+  title: Anthropology
+  slug: 4-anthropology
+  uuid: fd525f15-c1d3-427b-9d07-2b4d8c453bc2
+- source: :alislam
+  source_url: http://www.al-islam.org/shared-religious-foundations-education-islam-christianity-hamid-reza-alavi/effect-ontology-education
+  title: Effect of Ontology on Education
+  slug: 5-effect-of-ontology-on-education
+  uuid: de8ce875-4250-4cc4-90c9-c7718690c623
+- source: :alislam
+  source_url: http://www.al-islam.org/shared-religious-foundations-education-islam-christianity-hamid-reza-alavi/epistemology
+  title: Epistemology
+  slug: 6-epistemology
+  uuid: 36599115-68d6-4c7c-99e1-e82231b80210
+- source: :alislam
+  source_url: http://www.al-islam.org/shared-religious-foundations-education-islam-christianity-hamid-reza-alavi/effect-epistemology
+  title: Effect of Epistemology on Education
+  slug: 7-effect-of-epistemology-on-education
+  uuid: cae0a6f6-d450-4672-939c-d001462b5d9d
+- source: :alislam
+  source_url: http://www.al-islam.org/shared-religious-foundations-education-islam-christianity-hamid-reza-alavi/axiology
+  title: Axiology
+  slug: 8-axiology
+  uuid: 8a871646-4e6e-44f7-a146-7bedfeca7a3b
+- source: :alislam
+  source_url: http://www.al-islam.org/shared-religious-foundations-education-islam-christianity-hamid-reza-alavi/effect-axiology-education
+  title: Effect of Axiology on Education
+  slug: 9-effect-of-axiology-on-education
+  uuid: 03284100-ece5-442e-8e68-d1b331e76930
+- source: :alislam
+  source_url: http://www.al-islam.org/shared-religious-foundations-education-islam-christianity-hamid-reza-alavi/conclusion
+  title: Conclusion
+  slug: 10-conclusion
+  uuid: b71e1687-f1c5-4865-9047-72f78cd6f380
+- source: :alislam
+  source_url: http://www.al-islam.org/shared-religious-foundations-education-islam-christianity-hamid-reza-alavi/references
+  title: References
+  slug: 11-references
+  uuid: 5e762b2b-b8ad-44ce-aabe-ff6d687aed09
+---

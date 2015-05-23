@@ -37,8 +37,8 @@ modern theory which says that the celestial bodies were built out of
 hydrogen gas. From the Holy Qur'an:
 
 ***“Then He directed Himself to the heaven, and it was a vapor, so He
-said to it and to the earth:*** ***‘Come both of you, willingly or
-unwillingly.’*** ***They both said:*** ***‘We come willingly.’” 41:11***
+said to it and to the earth: ‘Come both of you, willingly or
+unwillingly.’ They both said: ‘We come willingly.’” 41:11***
 
 **Wilson**: Does the Holy Qur'an contain any statement about the first
 material thing that was created?
@@ -95,8 +95,8 @@ two great lights, the greater light to rule the day, and the lesser
 light to rule the night; He made the stars also. And God set them in the
 firmament of the heavens to give light upon the earth, to rule over the
 day and over night, and to separate the light from the darkness. And God
-saw that it was good. And there was evening, and there was morning.**
-**A fourth day.”** **Genesis** **1:14-19**
+saw that it was good. And there was evening, and there was morning. A
+fourth day.” Genesis 1:14-19**
 
 This statement indicates that the sun was created on the fourth day, and
 from here the days should start. This, of course, disagrees with verse 3
@@ -106,13 +106,13 @@ formation of the sun.
 2. The same chapter states that the vegetation, plants yielding seed,
 and the fruit trees were created and grown on the third day:
 
-**“And God said,** **‘Let the Earth put forth vegetables and plant
-yielding seed and the fruit trees bearing fruit in which is their seed,
-each according to its kind, upon the Earth.’** **And it was so. The
-Earth brought forth vegetation, plants, yielding seed according to their
-own kinds, and the trees bearing fruit in which is their seed, each
-according to its kind. And God saw that it was good. And there was
-evening and there was morning, a third day.”** **Genesis** **1:11-13**
+**“And God said, ‘Let the Earth put forth vegetables and plant yielding
+seed and the fruit trees bearing fruit in which is their seed, each
+according to its kind, upon the Earth.’ And it was so. The Earth brought
+forth vegetation, plants, yielding seed according to their own kinds,
+and the trees bearing fruit in which is their seed, each according to
+its kind. And God saw that it was good. And there was evening and there
+was morning, a third day.” Genesis 1:11-13**
 
 But we know that none of these vegetation and plants could grow without
 sun, while the same chapter tells us that the sun was created on the
@@ -121,10 +121,9 @@ fourth day as mentioned before.
 3. The same chapter states that God, on the sixth day, created man in
 His own image:
 
-**“Then God said,** **‘Let Us make man in Our own image, after Our
-likeness;…’** **So God created man in His own image, in the image of God
-He created him; male and female He created them.”** **Genesis**
-**1:26-27**
+**“Then God said, ‘Let Us make man in Our own image, after Our
+likeness;…’ So God created man in His own image, in the image of God He
+created him; male and female He created them.” Genesis 1:26-27**
 
 Muslims believe that God has no image and no form. He is the Infinite
 Who encompasses the whole universe. He has neither a body, nor is He
@@ -139,17 +138,17 @@ vegetation and plants:
 
 **“These are the generations of the heavens and the Earth when they were
 created. In the day that the Lord God made the earth and the
-heavens…when no plant of the field was yet in the Earth and no herb of
-the field had yet sprung up** **–** **for the Lord God had not caused it
-to rain upon the Earth, and there was no man to till the ground…but a
-mist went up from the Earth and watered the whole face of the
-ground...then the Lord God formed man of dust from the ground, and
-breathed into his nostrils the breath of life; and man became a living
-being…** **And the Lord God planted a garden in Eden, in the East; and
-there He put the man whom He had formed…** **And out of the ground the
-Lord God made to grow every tree that is pleasant to the sight and good
-for food, the tree of life also in the midst of the garden, and the tree
-of the knowledge of good and evil.” Genesis 2:4-9**
+heavens…when no plant of the field was yet in the** **Earth and no herb
+of the field had yet sprung up – for the Lord God had not caused it to
+rain upon the Earth, and there was no man to till the ground…but a mist
+went up from the Earth and watered the whole face of the ground...then
+the Lord God formed man of dust from the ground, and breathed into his
+nostrils the breath of life; and man became a living being… And the Lord
+God planted a garden in Eden, in the East; and there He put the man whom
+He had formed… And out of the ground the Lord God made to grow every
+tree that is pleasant to the sight and good for food, the tree of life
+also in the midst of the garden, and the tree of the knowledge of good
+and evil.” Genesis 2:4-9**
 
 This statement clearly indicates that there was no plant before the
 creation of man.
@@ -161,34 +160,33 @@ on trees; it comes through experience and learning.
 5. The first chapter has stated that the animal kingdom was created on
 the fifth day:
 
-**“And God said,** **‘Let the waters bring forth swarms of living
-creatures, and let the birds fly above the Earth across the firmament of
-the heavens.’** **So God created the great sea monsters and every living
+**“And God said, ‘Let the waters bring forth swarms of living creatures,
+and let the birds fly above the Earth across the firmament of the
+heavens.’ So God created the great sea monsters and every living
 creature that moves, with which the waters swarm, according to their
-kind, and every winged bird according to its kind; and God blessed
-them…** **And there was evening, and there was morning, a fifth day…**
-**And God made the beasts of the Earth according to their kinds and the
-cattle according to their kinds, and everything that creeps upon the
-ground according to its kind…** **Then God said,** **‘Let us make man in
-Our image…’”** **Genesis** **1:20-23**
+kind, and every winged bird according to its kind; and God blessed them…
+And there was evening, and there was morning, a fifth day… And God made
+the beasts of the Earth according to their kinds and the cattle
+according to their kinds, and everything that creeps upon the ground
+according to its kind… Then God said, ‘Let us make man in Our image…’”
+Genesis 1:20-23**
 
 This statement clearly indicates that man was created after the creation
 of fish, birds, beasts and cattle, but the second chapter indicates that
 man was created before any of these things:
 
-**“Then the Lord God said,** **‘It is not good that man should be alone;
-I will make him a helper fit for him.’** **So out of the ground the Lord
+**“Then the Lord God said, ‘It is not good that man should be alone; I
+will make him a helper fit for him.’ So out of the ground the Lord
 formed every beast of the field and every bird of the air, and brought
-them to the man to see what he would call them…”** **Genesis**
-**2:18-19**
+them to the man to see what he would call them…” Genesis 2:18-19**
 
 6. We find in the third chapter of the Genesis that Eve was deceived by
 the serpent which persuaded her to eat from the prohibited tree:
 
-**“He (the serpent) said to the woman,** **“Did God say,** **‘You shall
-not eat of any tree of the garden?’”…** **But the serpent said to the
-woman,** **‘You will not die. For God knows that when you eat of it your
-eyes will be open…’”** **Genesis** **3:1-5**
+**“He (the serpent) said to the woman, “Did God say, ‘You shall not eat
+of any tree of the garden?’”… But the serpent said to the woman, ‘You
+will not die. For God knows that when you eat of it your eyes will be
+open…’” Genesis 3:1-5**
 
 But we know that a serpent is not capable of speaking, deceiving or
 persuading. A serpent is not endowed with a mental capacity or ability
@@ -199,13 +197,13 @@ knowledge of God, and that He is a walking body, and that Adam and Eve
 were able to hide themselves from Him:
 
 **“And they heard the sound of the Lord God walking in the garden in the
-cool of the day,** **and the man and his wife hid themselves from the
+cool of the day, and the man and his wife hid themselves from the
 presence of the Lord God among the trees of the garden. But the Lord God
-called to the man, and said to him,** **‘Where are you?’** **and he
-said,** **‘I** **heard the sound of Thee in the garden, and I was
-afraid, because I was naked;** **and I hid** **myself.’** **He said,**
-**‘Who told you that you were naked? Have you eaten of the tree of which
-I commanded you not to eat?’...”** **Genesis** **3:8-1 1**
+called to the man, and said to him, ‘Where are you?’ and he said, ‘I
+heard the sound of Thee in the garden, and I was afraid, because I was
+naked; and I hid myself.’ He said, ‘Who told you that you were naked?
+Have you eaten of the tree of which I commanded you not to eat?’...”
+Genesis 3:8-1 1**
 
 No one can hide himself from God Who is Ever-Present and Who knows
 everything. God does not need to ask Adam where he is, nor does He need

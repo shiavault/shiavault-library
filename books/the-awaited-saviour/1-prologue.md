@@ -51,8 +51,8 @@ His appearance will mean not only the materialization of an Islamic
 aspiration, but will also be the realization of a hope cherished by the
 entire humanity.
 
-Prof. Henry Corbin of Sorbonne University, says:  
- "To my mind the Shi'ite is the only sect which has preserved and
+Prof. Henry Corbin of Sorbonne University, says:
+"To my mind the Shi'ite is the only sect which has preserved and
 perpetuated the link of Divine guidance between man and God through its
 belief in the Imamate. According to the Jews the Prophethood, a real
 link between man and God, came to an end with Moses. They do not believe
@@ -152,8 +152,8 @@ him.
 
 According to a tradition recorded in the celebrated books of the
 tradition, including the Sahih Bukhari and the Sahih Muslim, the Prophet
-is reported to have said:  
- "How about you, when Mary's son will descend into your midst, while
+is reported to have said:
+"How about you, when Mary's son will descend into your midst, while
 your Imam will be from among you?".
 
 Here the word Imam refers to Imam Mahdi. This tradition clearly shows
@@ -177,8 +177,8 @@ During this period the people could refer their problems to him and
 receive his replies through his vicegerents. The minor occultation was
 followed by *al-Ghaybat al-Kubra,* the major occultation which still
 continues. During this period direct contact with him had been
-severed.  
- Anyhow, those who are aware of the historical conditions prevailing at
+severed.
+Anyhow, those who are aware of the historical conditions prevailing at
 the time of his occultation know well that the Abbasid rulers regarded
 the Mahdi as the biggest potential threat to themselves and their
 dynasty and were determined to remove him from their way. at any cost.
@@ -240,7 +240,7 @@ intellectual curiosity.
 
 **Publishers**
 
- 
+
 
 [^1]: Sahih Bukhari, p.175, Egypt; Sahih Tirmizy, vol.2, p.45, Dehli.
 

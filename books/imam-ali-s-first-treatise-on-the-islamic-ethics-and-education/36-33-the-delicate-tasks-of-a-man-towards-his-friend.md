@@ -39,7 +39,7 @@ towards him. When he commits an offense, forgive him. Treat him so until
 it is as if you are his slave and he is your benefactor. But take care
 not to do this where it is inappropriate or to one who is not worthy of
 it. Never take the enemy of your friend as your friend, for in this way
-you will incur the hostility of your friend. Be sincere in your advice
+you will incur the hostility of your friend. Be sincere in* *your advice
 to your brother whether this advice is good or ugly (in his opinion).
 Swallow your anger, for I have not seen a draught sweeter in outcome
 than it, or with a more pleasant result. Be gentle to one who treats you
@@ -53,7 +53,7 @@ you, confirm his opinion of you. Never neglect your brother’s right by
 relying on the friendship that is between you and him, because one whose
 rights you neglect is not your brother. Do not let your family be the
 most wretched of people because of you. Do not desire (the friendship
-of) one who shuns you.*  
+of) one who shuns you.*
 *Your brother should not be more powerful in severing relations with you
 than you are in establishing relations with him, and he should not be
 stronger in ill-treatment of you than you are in doing good to him. Do
@@ -74,14 +74,14 @@ Although some of these points have already been dealt with sporadically
 in this book, a compact summary of them is in order here.
 
 As we know, a man needs a genuine friend and companion for the following
-reasons:  
+reasons:
 **1.** Man is a sociable creature by nature. He may not carry on living
-without a companion.  
- Thus, Raghib, under the item "insan" (man) writes:  
- "Man is called (man) because he is created in such a way that he can
+without a companion.
+Thus, Raghib, under the item "insan" (man) writes:
+"Man is called (man) because he is created in such a way that he can
 not continue his life without others. Thus, it is said that man is
 sociable by nature. This is because he may not solve his problems
-without others’ cooperation"[^1]  
+without others’ cooperation"[^1]
 **2.** One of the ways a man’s personality takes form is his association
 with his fellow-creatures. This is because, due to his trait of forming
 habits, he learns from others. It is said,
@@ -104,8 +104,8 @@ this respect:
 (for you) in this world and in the Hereafter."*[^2]
 
 However, firstly in selecting friends we should take care. The person
-might tarn out to be a thief.  
- Imam ‘Ali (as) has said in this respect:
+might tarn out to be a thief.
+Imam ‘Ali (as) has said in this respect:
 
 <blockquote dir="rtl">
   <p>
@@ -169,8 +169,8 @@ rights for a Muslim's bond of friendship.[^6]
 Now what should one do if his partner sold this valuable item for
 nothing? Should he stay indifferent towards the other person's
 indignation, or should he do his best to establish his friendship once
-again?  
- In books of traditions there are many cases on friendship. We will
+again?
+In books of traditions there are many cases on friendship. We will
 discuss two of them here:
 
 **a)** The great Prophet (S) has said:
@@ -560,9 +560,9 @@ on a new topic and the like. The great Prophet (S) says:
 
 *"Anger is a piece of fire which is kindled in man's heart. Can't you
 see how your veins are swollen and your eyes are red? If one of you
-experiences something of that, then sit down if you are standing, or lie
-down if you are sitting. If you are still angry, then wash your face or
-carry out ablution with cold water, and bathe, for fire is only
+experiences something of that, then sit down if you are* *standing, or
+lie down if you are sitting. If you are still angry, then wash your face
+or carry out ablution with cold water, and bathe, for fire is only
 extinguished with water."*[^22]
 
 **b)** Restrain your anger. The Holy Qur’an mentions the restraint of
@@ -791,8 +791,8 @@ each another. Imam ‘Ali (as) says regarding this issue:
 *"Regard your brother’s affair in the most favorable way until you hear
 of something that overcomes your good opinion of him. Never think evil
 of any word uttered by your brother when you can take it as good."*[^35]
-  
- But if corruption reigns in a community and individuals commit sins and
+
+But if corruption reigns in a community and individuals commit sins and
 wrong-doing, a bad opinion of others would be inevitable. Thus, Imam
 ‘Ali (as) in his Nahj al-Balaghah, considers optimism in such conditions
 as self-deception:
@@ -841,8 +841,8 @@ The Emphasis Of Leaders Of Religion
 -----------------------------------
 
 In our Islamic traditions, fortunately all the above issues are dealt
-with:  
- The great Prophet (S) has said:
+with:
+The great Prophet (S) has said:
 
 <blockquote dir="rtl">
   <p>
@@ -972,8 +972,8 @@ Sometimes due to too much engagements, or because of his confidence in
 family relations, or because he has got a social status, a man might
 think that he no longer needs his family or relatives and might forget
 their rights. This act of his is hazardous both here and in the
-hereafter.  
- On the disadvantages of this breaking off ties of relationship there
+hereafter.
+On the disadvantages of this breaking off ties of relationship there
 are some traditions to the effect that those who break off ties are
 deprived of paradise:
 
@@ -988,8 +988,8 @@ The Holy Prophet (S) has said:
 
 *"There are three groups who will not enter paradise: A chronic
 wine-drinker, a believer in witchcraft and one who severs the ties of
-kinship."*[^47]  
- The Prophet (S) has said:
+kinship."*[^47]
+The Prophet (S) has said:
 
 <blockquote dir="rtl">
   <p>
@@ -1026,8 +1026,8 @@ reckoning***”.[^49]’
 
 Its worldly disadvantage is that the breaking off ties of relationship
 shortens one's life and might end in sudden death and deprives a person
-of his relative's help in time of distress.  
- It is for this reason that Imam ‘Ali (as) has said:
+of his relative's help in time of distress.
+It is for this reason that Imam ‘Ali (as) has said:
 
 <blockquote dir="rtl">
   <p>
@@ -1048,7 +1048,7 @@ of his relative's help in time of distress.
 relatives and their defence of him with their hands and tongues. They
 are the greatest of people in protection behind him, the best ones to
 consolidate his affairs, and the kindest to him in any trial that
-befalls him.*  
+befalls him.*
 *A good name which God gives a person among people is better for him
 than (his) wealth which someone else will inherit.*
 
@@ -1056,8 +1056,8 @@ than (his) wealth which someone else will inherit.*
 relatives whom you see in poverty with that which will neither increase
 if you withhold it nor decrease if you spend it (on them). He who
 refrains from giving his relatives has withheld only one (helping) hand
-from them, while (their)* *many hands have been withheld from him. He
-who is gentle to his dependants will continually receive the love of his
+from them, while (their) many hands have been withheld from him. He who
+is gentle to his dependants will continually receive the love of his
 people”.*[^50]
 
 It is for this reason that Imam ‘Ali (as) writes in this letter:
@@ -1116,10 +1116,10 @@ It is for this reason that Imam ‘Ali (as) has ordered us in his letter:
 
 *"Do not desire (the friendship of) one who shuns you”.*
 
-A poet says in this connection:  
- It is good for love to be mutual,  
- Or else affection is a heck on the neck.  
- Of course this is when the relationship has not yet been created.
+A poet says in this connection:
+It is good for love to be mutual,
+Or else affection is a heck on the neck.
+Of course this is when the relationship has not yet been created.
 Otherwise, we have to establish our relations with our relatives and
 friends. Imam ‘Ali (as) said he had seen the following on one of the
 swords of the Prophet (S):

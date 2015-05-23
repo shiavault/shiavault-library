@@ -30,8 +30,8 @@ Why stories of people who sacrifice?
 When the people who sacrifice and the charitable, answer the call of the
 Qur’an which says:
 
-***“and spend out of which He has made you to be successors of ….***
-***(Sura Al-Hadid , 57:7)”,***
+***“and spend out of which He has made you to be successors of …. (Sura
+Al-Hadid , 57:7)”,***
 
 and the call of the Holy Masum’in (a.s.) who said that:
 

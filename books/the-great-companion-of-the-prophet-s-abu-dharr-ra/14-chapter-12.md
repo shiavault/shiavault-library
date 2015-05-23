@@ -1,8 +1,7 @@
 Chapter 12
 ==========
 
-   
- Abdul Hamid of Egypt and Allamah Abdullah Subaiti write that Abu Dharr
+Abdul Hamid of Egypt and Allamah Abdullah Subaiti write that Abu Dharr
 stayed in Medina after the death of Umar. He saw that Uthman was
 favourably inclined towards Bani Umayyah whose influence had grown deep
 into the Islamic State which had assumed the magnificence of a kingdom.
@@ -14,20 +13,20 @@ Abi Waqqas had agates fixed in his palace, had raised it very high,
 broadened the  courtyard and made turrets on it. Therefore, Abu Dharr
 stood up and came out openly. He was not to be deterred by any commander
 or caliph. He started inviting people to austerity and attacking Uthman
-in his speeches.  
-    
- One day he came to know that Uthman had given the fifth part of the
+in his speeches.
+
+One day he came to know that Uthman had given the fifth part of the
 tribute from Africa to Marwan bin Hakam, 300,000 dirhams to Harith bin
 al 'As, 100,000 dirhams to Zayd bin Thabit, immeasurable wealth from the
 booties of Africa to his foster brother, Abdullah bin Ali Sarah and the
 land of Fadak to Marwan which had been snatched from Fatimah, the
 daughter of the Holy Prophet. He started to recite this verse in the
-masjid.  
-* *  
+masjid.
+* *
 *“Announce a painful torture to those who amass gold and silver and do
-not spend them in the way of Allah".*  (Surah Taubah, 9: 34)  
-    
- Marwan came to know that Abu Dharr attacked him and Uthman, he
+not spend them in the way of Allah".*  (Surah Taubah, 9: 34)
+
+Marwan came to know that Abu Dharr attacked him and Uthman, he
 complained to Uthman, who ordered his slave to call Abu Dharr to him.
 Abu Dharr went to him. At sight of him Uthman said: “Abu Dharr ! Desist
 from what I am hearing, otherwise you will not find anybody more
@@ -39,30 +38,30 @@ Dharr said, "O Commander! Do you stop me from reciting the Book of Allah
 and from disclosing the short-comings of those who have abandoned the
 commands of Allah! By Allah, I cannot offend Allah for the sake of
 Uthman. The displeasure of Uthman is better for me than the displeasure
-of Allah".  
-    
- Hearing this Uthman frowned at Abu Dharr but could not decide how to
+of Allah".
+
+Hearing this Uthman frowned at Abu Dharr but could not decide how to
 refute the charge. Therefore, he did not say anything and kept quiet for
 some time. Abu Dharr rose and went away from there, with a firm
 determination to criticise those who worked against the commands of
-Allah more than ever.  
-    
- Abu Dharr attacked Uthman more frequently. So he got very angry and
+Allah more than ever.
+
+Abu Dharr attacked Uthman more frequently. So he got very angry and
 waited for an opportunity to exile Abu Dharr. One day he got the chance
-and availed himself of it.  
-    
- According to Ibn Wazih the author of ‘Tarikh Ya'qubi’ people informed
+and availed himself of it.
+
+According to Ibn Wazih the author of ‘Tarikh Ya'qubi’ people informed
 Uthman that Abu Dharr Ghifari taunted him in the masjid and had
-delivered a speech at the gate of the masjid thus:  
- "O people! He who knows me knows me, but let him, who does not
+delivered a speech at the gate of the masjid thus:
+"O people! He who knows me knows me, but let him, who does not
 recognize me know that I am Abu Dharr Ghifari. My name is Jundab bin
 Junadah Rabazi. Allah elevated Adam, Nuh, the progeny of Ibrahim and the
 children of Imran, out of the people of the world. The Prophet Muhammad
 is the heir to Adam's knowledge and to all virtues which had
 distinguished the Prophets, and Ali ibn Abi Talib is the successor of
-the Prophet and heir to his knowledge".  
-    
- "O bewildered people! If after your Prophet you had preferred one whom
+the Prophet and heir to his knowledge".
+
+"O bewildered people! If after your Prophet you had preferred one whom
 Allah has preferred, and had put him last whom Allah has placed last,
 and had confined the governance and inheritance among the Ahlul Bayt,
 you would have got countless blessings from above your heads and from
@@ -83,8 +82,8 @@ edifice of his Caliphate was raised, and that Abu Dharr placed that
 complaint before the public.
 
 On hearing these things Uthman sent Abu Dharr to Mu'awiyah, Governor of
-Syria. According to Tarikh Abul Fida, this thing happened in 30 AH.  
- Scholars say that as Abu Dharr continuously criticized Uthman's actions
+Syria. According to Tarikh Abul Fida, this thing happened in 30 AH.
+Scholars say that as Abu Dharr continuously criticized Uthman's actions
 which violated the religious laws, Uthman imposed severe restrictions on
 him. It was his directive that nobody should talk to Abu Dharr, or go
 near him or sit with him. Public meetings were held again and again to
@@ -94,20 +93,20 @@ According to the version of Allamah Majlisi and Allamah Subaiti, Ahnaf
 bin Qays often used to come to the masjid and sit there. One day he
 prayed to Allah "O Lord! Replace my unsociability with love and my
 loneliness with company and grant me such a worthy companion as has no
-peer".  
-    
- After finishing this prayer he saw a man sitting and worshipping in a
+peer".
+
+After finishing this prayer he saw a man sitting and worshipping in a
 corner of the masjid. He rose from his seat, approached him and sat down
 by his side. Then he said to him, "Who are you gentleman and what is
 your name?" He answered, "Jundab bin Junadah". On hearing this he said,
-"Allah is great, Allah is great".  
-    
- Abu Dharr said, why did you recite Takbir. He answered, "When I entered
+"Allah is great, Allah is great".
+
+Abu Dharr said, why did you recite Takbir. He answered, "When I entered
 the masjid today I prayed to Allah to grant me the best companion. He
 fulfilled my wish very soon and granted me the honour of meeting with
-you".  
-    
- Abu Dharr said, "I awe it to Allah, more than you, to glorify Him
+you".
+
+Abu Dharr said, "I awe it to Allah, more than you, to glorify Him
 because I was adjudged to be a suitable companion. O Man! Listen to me.
 The Holy Prophet has told me that you and I will be on a very high place
 and will remain there till all are free from reckoning". Abu Dharr
@@ -116,9 +115,9 @@ trouble". He asked, "How is that, friend?” Abu Dharr replied, “Uthman
 bin Affan has forbidden people to sit with me and has ordered that
 whosoever meets me, talks to me and sits with me, will be punished".
 (Hayat ul-Qulub, by Allamah Majlisi vol. 2. and Abu Dharr al-Ghifari, by
-Allamah Subaiti).  
-    
- In short, Uthman became disgusted with Abu Dharr's truthfulness. He
+Allamah Subaiti).
+
+In short, Uthman became disgusted with Abu Dharr's truthfulness. He
 carried on his work despite the restrictions and Uthman got regular
 information about it. At last, being tired of Abu Dharr he decided to
 send him to Syria.

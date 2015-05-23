@@ -99,57 +99,57 @@ left this land.
 The Poem of Khaqani
 -------------------
 
-O heart that learns out of others' examples see through your eyes,  
- Use the veranda of Ctesiphon as an example;  
- Go once from the Tigris River towards Ctesiphon,  
- Once in a while call the veranda with the tears language,
+O heart that learns out of others' examples see through your eyes,
+Use the veranda of Ctesiphon as an example;
+Go once from the Tigris River towards Ctesiphon,
+Once in a while call the veranda with the tears language,
 
-Perhaps you will listen to the veranda saying:  
- The dent of each will give you new advice,  
- Listen to the end-point of the dent for advice;  
- It says you are from the earth, now we are earth-ridden for you;
+Perhaps you will listen to the veranda saying:
+The dent of each will give you new advice,
+Listen to the end-point of the dent for advice;
+It says you are from the earth, now we are earth-ridden for you;
 
-Put two or three steps over us, weep two or three drops;  
- We are in trouble from the songs of the owl,  
- Pour out flower-water to cure our headaches;  
- We were court of justice, see what tyranny has gone to us,
+Put two or three steps over us, weep two or three drops;
+We are in trouble from the songs of the owl,
+Pour out flower-water to cure our headaches;
+We were court of justice, see what tyranny has gone to us,
 
-See what will happen to the court of the tyrants;  
- You will laugh at me, wondering what is of fun,  
- They will laugh at those eyes which do not weep here;  
- This is the same veranda in which the colors of the people,  
- In the earth its doorsills were like the picture-gallery;
+See what will happen to the court of the tyrants;
+You will laugh at me, wondering what is of fun,
+They will laugh at those eyes which do not weep here;
+This is the same veranda in which the colors of the people,
+In the earth its doorsills were like the picture-gallery;
 
-This is the same castle which kings frequented,  
- Deylam, Babylon’s king, Hindu, Turkistan’s king;  
- The earth is drunk, because instead of wine,  
- It has drunk Nowshirvan’s blood in Hormoz’s scalp as a cup,
+This is the same castle which kings frequented,
+Deylam, Babylon’s king, Hindu, Turkistan’s king;
+The earth is drunk, because instead of wine,
+It has drunk Nowshirvan’s blood in Hormoz’s scalp as a cup,
 
-Many pieces of advice were seen then on his crown,  
- A hundred new pieces of advice are hidden in his brain;  
- Kesra and the golden lemon, Parviz and golden vegetable,  
- All have gone with the wind and have been leveled out with the ground;
+Many pieces of advice were seen then on his crown,
+A hundred new pieces of advice are hidden in his brain;
+Kesra and the golden lemon, Parviz and golden vegetable,
+All have gone with the wind and have been leveled out with the ground;
 
-Parviz brought golden vegetable to every feast,  
- So many vegetables he made an orchard out of it;  
- Parviz is lost now, don’t mention his name,  
- Where is the golden vegetable, go and read *kam taraku*[^4] from the
+Parviz brought golden vegetable to every feast,
+So many vegetables he made an orchard out of it;
+Parviz is lost now, don’t mention his name,
+Where is the golden vegetable, go and read *kam taraku*[^4] from the
 Qur’an;
 
-You asked where those crown-bearers are,  
- The belly of the earth is eternally pregnant with them;  
- It will take time for the earth to give birth,  
- Giving birth is hard, getting sperm easy;  
- This wine which is distributed among men by the gardener is Shirin’s
+You asked where those crown-bearers are,
+The belly of the earth is eternally pregnant with them;
+It will take time for the earth to give birth,
+Giving birth is hard, getting sperm easy;
+This wine which is distributed among men by the gardener is Shirin’s
 blood,
 
-And the container of the wine is made out of the earth of Parviz;  
- The tyrants have drunk the water of their lives,  
- The greedy ones are not satiated yet;  
- The redness of the red river is the blood of the children,  
- Of this black-eyebrow old man, of that black-breasted woman,  
- Khaqani, take lessons from this castle,  
- Till Khaqan, later on, takes lessons from your case.
+And the container of the wine is made out of the earth of Parviz;
+The tyrants have drunk the water of their lives,
+The greedy ones are not satiated yet;
+The redness of the red river is the blood of the children,
+Of this black-eyebrow old man, of that black-breasted woman,
+Khaqani, take lessons from this castle,
+Till Khaqan, later on, takes lessons from your case.
 
 [^1]: . Qur’an 3:137.
 

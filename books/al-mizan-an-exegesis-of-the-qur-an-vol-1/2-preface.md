@@ -577,7 +577,7 @@ premises, without going in too much detail.
 We pray to Allah, High is He, to guide us and keep our talk to the
 point; He is the Best Helper and the Best Guide.
 
-*Dependent on Allah,*  
- Muhammad Husayn at-Tabataba'i
+*Dependent on Allah,*
+Muhammad Husayn at-Tabataba'i
 
 

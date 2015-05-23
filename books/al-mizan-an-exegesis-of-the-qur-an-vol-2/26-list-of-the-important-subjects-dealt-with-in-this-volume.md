@@ -2,9 +2,9 @@ List of the Important Subjects Dealt With in this Volume
 ========================================================
 
 |---------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------|----------|
-| **No/s of**   
- **Verse/s**    | **Subject**                                                                                                                                               | **Nature of**                
-                                                                                                                                                                             **Discussion**                | **Page** |
+| **No/s of**
+**Verse/s**    | **Subject**                                                                                                                                               | **Nature of**
+**Discussion**                | **Page** |
 |               | **Chapter of “The Cow”**                                                                                                                                  |                              |          |
 |               |                                                                                                                                                           |                              |          |
 | **102-103**   | **The Story of sorcery attributed to Sulayman (a.s.) and Harut and Marut.**                                                                               | **Qur'anic**                 | **15**   |
@@ -18,8 +18,8 @@ List of the Important Subjects Dealt With in this Volume
 | **125-129**   | **The story of the construction of the Ka'bah by Ibrahim and the matters related to it; his prayer for the Prophet and his** *ummah.*                     | **Qur'anic**                 | **97**   |
 | **-**         | **On the same subject.**                                                                                                                                  | **Traditional**              | **104**  |
 | **-**         | **Objections on the traditions showing the excellence of the Ka'bah; replies thereto.**                                                                   | **-**                        | **111**  |
-| **-**         | **Significance of the story**                                                                                                                             
-                 **of Ibrahim; philosophy of the** *hajj.*                                                                                                                  | **Academic**                 | **119**  |
+| **-**         | **Significance of the story**
+**of Ibrahim; philosophy of the** *hajj.*                                                                                                                  | **Academic**                 | **119**  |
 | **130-134**   | **Meaning of Islam; stages of Islam and** *iman.*                                                                                                         | **Qur'anic**                 | **125**  |
 | **142-151**   | **Relationship between prescription of** *Qiblah* **and the** *ummah* **being witnesses for the people and the Messenger being witness for the** *ummah.* | *-*                          | **153**  |
 | **-**         | **On the same subject.**                                                                                                                                  | **Traditional**              | **170**  |

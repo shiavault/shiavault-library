@@ -14,11 +14,11 @@ which is absent in perspiration. We shall explain it as follows:
 
 The following things are present in Urine:
 
-Urea                           Calcium  
- Uric acid                    Potassium  
- Creatinine                Phosphate  
- Ammonia                  Sulphates  
- Sodium Chloride
+Urea                           Calcium
+Uric acid                    Potassium
+Creatinine                Phosphate
+Ammonia                  Sulphates
+Sodium Chloride
 
 Whereas the components of perspiration are much less:
 
@@ -44,7 +44,7 @@ reason that one is harmful and the other harmless.
 
 It is very difficult to avoid perspiration and it will create a lot of
 difficulties, whereas it is not difficult to control urinating, and this
-itself is a difference between them.  
-  
+itself is a difference between them.
+
 
 

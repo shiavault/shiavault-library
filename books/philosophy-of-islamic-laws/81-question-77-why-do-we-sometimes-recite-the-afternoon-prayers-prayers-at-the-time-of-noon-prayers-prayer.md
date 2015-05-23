@@ -40,8 +40,8 @@ Noon Prayers prayer at the end of the day then he has prayed in the
 common time of prayers and his making an intention for Noon Prayers
 means that its best time is Noon Prayers and from the aspect of the
 specified time, the common time and the best time the same is true for
-Evening and Night prayers.  
-    
-  
+Evening and Night prayers.
+
+
 
 

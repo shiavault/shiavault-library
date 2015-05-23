@@ -13,20 +13,20 @@ keep your boat afloat?” The answer was \`Yes'. Then Imam asked: “And
 sometimes perhaps even that leaking boat went down leaving you exhausted
 and helpless on the mercy of raging waves?”
 
-The answer was again \`Yes'.  
- Then Imam asked: “Was not there, in all that black despair, a glimmer
+The answer was again \`Yes'.
+Then Imam asked: “Was not there, in all that black despair, a glimmer
 of hope in your heart that some unnamed and unknown power could still
-save you?” When he agreed, Imam said: “That power is God.”  
- That atheist was intelligent. He knew the truth when he saw it.
+save you?” When he agreed, Imam said: “That power is God.”
+That atheist was intelligent. He knew the truth when he saw it.
 
 2) To Be or Not To Be
 ---------------------
 
 We think about thousands and thousands of things. We imagine a horse, a
 man, an aeroplane, the earth, a train and a book. We see the pictures of
-these things displayed on the screen of our imagination.  
- This is called \`the existence in imagination' (wujud-i dhihni)  
- And also a horse, a man, an aeroplane, the earth, a train or a book has
+these things displayed on the screen of our imagination.
+This is called \`the existence in imagination' (wujud-i dhihni)
+And also a horse, a man, an aeroplane, the earth, a train or a book has
 its own existence outside our imagination. That is called 'existence
 outside imagination.' This is the real existence (wujud-i khariji)
 
@@ -36,8 +36,8 @@ existence? No. We may imagine that a thing exists and also does not
 exist at the same place at the same time. But can this happen in the
 world of reality? Certainly not.
 
-Such imagined ideas which can never exist wujud -  
- Also we imagine a man walking at a certain time. Can this happen in
+Such imagined ideas which can never exist wujud -
+Also we imagine a man walking at a certain time. Can this happen in
 reality? Remove all other ideas from your mind. Just look at the
 imagined picture of that man walking at a particular time. Now say., is
 it necessary that that man in reality are called \`impossible'
@@ -54,8 +54,8 @@ Such imagined ideas which have equal relation called
 \`mumkinul-wujud' -Possible, or Transient. They may exist in reality;
 they may not exist. There is nothing in their nature to demand this or
 that. So far as their nature is concerned, \`To be' and \`Not to be'
-both are equal to them.  
- So far we have seen two categories of relationship between an imagined
+both are equal to them.
+So far we have seen two categories of relationship between an imagined
 idea and its existence in reality with existence and non-existence, are
 
 1. Where that idea has equal relation with existence and non-existence.
@@ -72,8 +72,8 @@ mentioned in (2) above.
 This third category is of the idea which can have absolutely no relation
 with non-existence. By its very definition, it is self-existent. Such an
 idea is called (*wajibu'l wujud*) \`Essential Existence' or 'Absolute
-Existence'.  
- Now the picture is complete.
+Existence'.
+Now the picture is complete.
 
 3) Beginning Point of the World
 -------------------------------
@@ -218,13 +218,13 @@ imagination that we can understand the conception of surface, line and
 point.
 
 Still students of geometry are taught as though these things have real
-physical existence.  
- It is done not to deceive the student, but to make it easier for him to
-understand geometry.  
- Likewise, in chemistry, the student is taught that matter can neither
+physical existence.
+It is done not to deceive the student, but to make it easier for him to
+understand geometry.
+Likewise, in chemistry, the student is taught that matter can neither
 be created nor destroyed. But it is just a stepping stone so that
-student can understand further arguments.  
- Also, it is for this reason that chemistry students are taught separate
+student can understand further arguments.
+Also, it is for this reason that chemistry students are taught separate
 conservation of matter and energy.
 
 But read the following quotation carefully: “In classical mechanics,
@@ -302,8 +302,8 @@ already accepted the atheists' notion that nothing comes out of nothing.
 Now, we see in the universe a most intelligent design and pattern and a
 most perfect coordination in this unparalleled system. And we see it
 teeming with life. And, admittedly, matter has no life, and hence no
-power or knowledge.  
- Had the matter been the cause or source of the universe, the universe
+power or knowledge.
+Had the matter been the cause or source of the universe, the universe
 would have been without life; it would have been without system and
 coordination, because it could not give to universe what it did not
 possess itself. Is there still need to emphasize in so many words that
@@ -322,10 +322,10 @@ has always existed, and as we have not seen its extinction, we say that
 it will remain for ever.”
 
 Holy Prophet: “Well, have you seen that the universe is without
-beginning and without end?”  
- Atheists: “No, we have not seen its being without beginning nor have we
-seen its being without end.”  
- Holy Prophet: “Then how do you believe in its eternity? And why should
+beginning and without end?”
+Atheists: “No, we have not seen its being without beginning nor have we
+seen its being without end.”
+Holy Prophet: “Then how do you believe in its eternity? And why should
 your view be preferred to the view of that person who believes the
 universe to be transient because he has not seen it being without
 beginning or without end?”
@@ -337,9 +337,9 @@ passed so far was limitless, then how the later time came in if the
 former did not pass away?
 
 “And if you say that the time is finite (limited) then you will have to
-admit that it is not eternal.”  
- Atheists: “Yes, it is finite.”  
- Holy Prophet: “Well, you were saying that universe is eternal, not
+admit that it is not eternal.”
+Atheists: “Yes, it is finite.”
+Holy Prophet: “Well, you were saying that universe is eternal, not
 created nor finite. Do you realize what is the implication of your
 admission that time is finite? What were you denying? What have you
 admitted? ” Atheists accepted that their belief was not correct.
@@ -664,10 +664,10 @@ always”.
 
 The reader should read Chapter 7 again, where he will find that whatever
 view one takes, matter cannot be proved to be eternal (without beginning
-and without end).  
- Again he says: “There is no reason why the world could not have come
-into being without a cause.”  
- Before commenting further on this sentence, let me quote his words
+and without end).
+Again he says: “There is no reason why the world could not have come
+into being without a cause.”
+Before commenting further on this sentence, let me quote his words
 (from the same article) where he refutes the idea that there is any
 “natural law”.
 
@@ -1163,8 +1163,8 @@ from a Creative Intelligence – no other hypothesis will serve.
 
 **Sixth:** By the economy of nature, we are forced to realize that only
 infinite wisdom could have foreseen and prepared with such astute
-husbandry.  
- Many years ago a species of cactus was planted in Australia as a
+husbandry.
+Many years ago a species of cactus was planted in Australia as a
 protective fence. Having no insect enemies in Australia the cactus soon
 begun a prodigious growth; the alarming abundance persisted until the
 plants covered an area as long and wide as England, crowding inhabitants
@@ -1181,8 +1181,8 @@ earth? Because they have no lungs such as man possesses; they breathe
 through tubes. But when insects grow large, their tubes do not grow in
 ratio to the increasing size of the body. Hence there has never been an
 insect of great size; this limitation on growth has held them all in
-check.  
- If this physical check had not been provided, man could not exist.
+check.
+If this physical check had not been provided, man could not exist.
 Imagine meeting a hornet as big as a lion!
 
 **Seventh:** The fact that man conceive the idea of God is in itself a

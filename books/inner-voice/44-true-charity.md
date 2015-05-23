@@ -21,7 +21,7 @@ any shade of worldly motive. Islam condemns
 Such baseless charity has been described to be
 
 ***“like a hard barren rook on which is a little soil; on it falls heavy
-rain and leaves it just a bare*** ***stone” (Qur’an, 2:264)!***
+rain and leaves it just a bare stone” (Qur’an, 2:264)!***
 
 The second condition to remember is that a charity must be of such a
 thing which we have earned lawfully. Qur’an says: “Give of the good

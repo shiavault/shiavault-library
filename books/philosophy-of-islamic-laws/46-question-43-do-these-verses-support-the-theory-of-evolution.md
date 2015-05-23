@@ -38,8 +38,8 @@ the meaning of these verses?
 
 **Answer:** According our point of view the above-mentioned verses have
 no connection with evolution. These verses have other meanings, the
-explanation of which is given below:  
- Tafseer of the first Ayat:
+explanation of which is given below:
+Tafseer of the first Ayat:
 
 One of the issues which are difficult for man to believe and satisfy
 himself easily is the hereafter i.e. man will be transferred to live in
@@ -117,9 +117,9 @@ these blessings and favors and accepted the way of rebellion and
 ingratitude?
 
 Thus this Ayat also has no connection, whatsoever to the theory of
-evolution.  
-    
-  
+evolution.
+
+
 
 [^1]: Surah Maryam 19:67
 

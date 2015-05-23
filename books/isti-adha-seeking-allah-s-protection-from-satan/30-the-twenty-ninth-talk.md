@@ -16,15 +16,15 @@ In the Name of Allah, the Beneficent, the Merciful
   </p>
 </blockquote>
 
-***  
+***
 ***
 He said: ‘Then by Thy Might I will surely make them live an evil life,
 all, Except Thy servants from among them, the purified ones.’
 
-***  
+***
 ***
 
-***  
+***
 ***
 (Sura Sad, 38:82-83)
 

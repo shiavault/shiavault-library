@@ -33,8 +33,8 @@ unfathomable power that He is “*’Ala kulli shayyin Qadeer* (all things
 are in His power) and “*Qaadir ‘ala kulli shayy”* (wields power over all
 things). The most difficult tasks that man is unable to perform with all
 his capabilities, are very easy of accomplishment by Allah (S.w.T.).
-Nothing is there that is not in His Reach.  
-  
+Nothing is there that is not in His Reach.
+
 
 Wisdom and Kindness on Men
 --------------------------
@@ -51,9 +51,9 @@ love for His creatures is thousands of times more than a mother’s love
 for her child. In fact, his love for the creatures is unfathomable. He
 is the Sustainer; He creates, trains, and loves those He has brought up
 with care. Many examples can be cited about this. But now we are quoting
-one narration from *Hayat al-Qulub* of Allama Majlisi:  
-    
- Hadrat Nuh (a.s.) cursed his disobedient people. As a result of this
+one narration from *Hayat al-Qulub* of Allama Majlisi:
+
+Hadrat Nuh (a.s.) cursed his disobedient people. As a result of this
 curse, all the infidels got drowned in the flood. One angel came to
 Hadrat Nuh (a.s.). Hadrat Nuh (a.s.) was a potter. At the time when the
 angel came to him, he was busy on the potters-wheel making goblets and
@@ -68,20 +68,20 @@ breaking them. When you got so many creatures drowned in the floods,
 would not Allah (S.w.T.), the Creator, have felt upset and sad!” At
 this, as is quoted in *‘Ilall ash-Sharay’i,* Hadrat Nuh bowed down his
 head and wept so much that he was given the name of Nuh (one who wails)
-because of this.  
-  
+because of this.
+
 
 The Prophet (S) Never Cursed Anyone
 -----------------------------------
 
-   
- Allah (S.w.T.), therefore, is very kind on His creatures because, one
+
+Allah (S.w.T.), therefore, is very kind on His creatures because, one
 who is the provider of sustenance has lots of love for those whom He
 brings up. Allah (S.w.T.) expresses His displeasure on one of His
 closest Prophets (a.s.) as to why he had cursed his people and caused
-their destruction.  
-    
- The greatness of the Last of the Prophets, Hadrat Muhammad (S.), can be
+their destruction.
+
+The greatness of the Last of the Prophets, Hadrat Muhammad (S.), can be
 judged from the fact that he never cursed anyone throughout his life. He
 is therefore, *Rahmatan lil ‘Aalameen* or Blessing for all the Worlds!
 If he had cursed the infidels and polytheists, they would have all
@@ -100,14 +100,14 @@ the worlds, did not ask for the punishment of the infidels but, to the
 contrary, he prayed for them in the following words: “O Allah (S.w.T.)!
 Guide my people aright!” In addition to this, the Prophet (S) advocated
 for them that, “They are not aware that I am Your Annunciated Prophet.
-They are ignorant and I plead not to punish them!”  
-  
+They are ignorant and I plead not to punish them!”
+
 
 People Themselves Seek a Place in Hell
 --------------------------------------
 
-   
- Don’t say that when the Prophet (S) is so forgiving, then why Allah
+
+Don’t say that when the Prophet (S) is so forgiving, then why Allah
 (S.w.T.) had to create the Hell. The creation of the Hell is not
 contrary to *Ash-shafaqat ‘alal ‘ibaad (compassion on the creation).*
 Man himself flies away from the way of Allah (S.w.T.)’s love
@@ -126,18 +126,18 @@ themselves. (Sura Yunus, 10:44)***
 Allah (S.w.T.) loves them very much and keeps them warned repeatedly
 about the Hell through the verses of the Qur’an. He exhorts them to keep
 away from it. He also warns them against Satan’s tricks and that he is
-the open enemy of men.  
-    
- In a nutshell, unless you realize that Allah (S.w.T.) is Omnipotent and
+the open enemy of men.
+
+In a nutshell, unless you realize that Allah (S.w.T.) is Omnipotent and
 Beneficent and has kindness and love for his creatures, you cannot
-achieve the state of *Tawakkul.*  
-   
+achieve the state of *Tawakkul.*
+
 
 Affection on a Kitten
 ---------------------
 
-   
- In the Commentary, *Ruh al-Bayan,* it is said that someone dreamed of a
+
+In the Commentary, *Ruh al-Bayan,* it is said that someone dreamed of a
 pious person after his death and inquired about his condition. He said
 that one good turn had helped him very much. It was winter. In addition
 to extreme cold it was raining cats and dogs. In the state of extreme
@@ -146,9 +146,9 @@ hungry and weak. He took pity on the kitten and picked it up and hid it
 in his coat of leather and took it home. There he fed the kitten and
 protected it from cold. When the weather improved, he freed the kitten.
 Allah (S.w.T.) had forgiven all his sins because of this good turn of
-his.  
-    
- How much Allah (S.w.T.) must be getting pleased if one did such a good
+his.
+
+How much Allah (S.w.T.) must be getting pleased if one did such a good
 turn to a human being. There is another love much more superior
 mentioned in the Qur’an. That is the love for Allah (S.w.T.). Allah
 (S.w.T.) terms such persons His *mahboob* or the Beloved.
@@ -168,7 +168,7 @@ we make only you the focus of our expectations! Call only you in times
 of trouble and whenever Satan creates fears in our heart, we seek your
 protection! We keep trust only on Your support at every step in our
 lives. We mould ourselves into total *Mu’minīn* following the dictum of
-“*if you are a mu’min do Tawakkul on Allah (S.w.T.)!”*  
+“*if you are a mu’min do Tawakkul on Allah (S.w.T.)!”*
 * *
 
 What Satan Has To Do With Those Who Have Tawakkul Or Dependence On Allah (S.w.T.)!
@@ -193,28 +193,28 @@ oppose them. Confronting so many strong enemies is not easy. There is
 only one way of subduing them. That is *Tawakkul (Dependence)* on Allah
 (S.w.T.). When one depends totally on Allah (S.w.T.), then Satan’s fears
 and temptations would mean trifling to him. “*The friends of Allah
-neither fear anyone nor do they face any sadness or misery”.*  
-  
+neither fear anyone nor do they face any sadness or misery”.*
+
 
 Blade of Dried Grass or Straw
 -----------------------------
 
-   
- Unfortunate are those hapless persons who have no place of succor. They
+
+Unfortunate are those hapless persons who have no place of succor. They
 are just like the blades of straw that fly around with the gusts of the
 wind. Satan will rest only after destroying such persons. In contrast to
 these, the one who is powerful has access to the Omnipotent Allah
 (S.w.T.), and only Allah (S.w.T.) is his succor.
 
 Our lives are fast running out of time. We should not remain deprived of
-*Tawakkul* on Allah (S.w.T.).  
+*Tawakkul* on Allah (S.w.T.).
 * *
 
 Tawakkul on Allah (S.w.T.) is Necessary in the Hereafter Too
 ------------------------------------------------------------
 
-   
- As it is necessary to Trust on Allah (S.w.T.) during our worldly lives,
+
+As it is necessary to Trust on Allah (S.w.T.) during our worldly lives,
 then, whatever is in store for us in the Hereafter too we shall have to
 depend on Allah (S.w.T.) for his Beneficence. For this *Tawakkul* is
 most important. Allah (S.w.T.) is the Master of all our affairs - in the

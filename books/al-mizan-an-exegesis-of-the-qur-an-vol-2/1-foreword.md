@@ -43,9 +43,9 @@ help us to complete this work which we have started. May Allah guide us
 in this step which we have taken and in the future steps, for He is the
 best Master and the best Helper.
 
-World Organization For Islamic Services  
- (Board of Writing, Translation and Publication)  
- 20/6/1404 24/3/1984  
- Tehran - IRAN.
+World Organization For Islamic Services
+(Board of Writing, Translation and Publication)
+20/6/1404 24/3/1984
+Tehran - IRAN.
 
 

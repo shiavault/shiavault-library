@@ -46,8 +46,8 @@ And the Almighty Allah had informed him of this. It was that he was
 thinking that the Almighty had promised that He would save his son
 unconditionally but later he realized that this promise was for those
 people who had not severed their spiritual relationship with Nuh
-(a.s.).  
-  
+(a.s.).
+
 
 [^1]: Surah Hud 11:45
 

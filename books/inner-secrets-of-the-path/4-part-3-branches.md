@@ -1,24 +1,22 @@
 Part 3: Branches
 ================
 
- 
-
 1) Minor Ritual Ablution (wudhu’)
 ---------------------------------
 
- 
+
 
 ### i) According to the people 'of shari\`ah
 
-* *  
- All, both the common and the elite, are familiar with the meaning of
+* *
+All, both the common and the elite, are familiar with the meaning of
 *wudhu’*. It may be classified in three ways: obligatory, recom­mended,
 and meritorious. We have no need here to refer to the last two, but
 rather we shall consider the first, namely the obligat­ory, which may be
 divided into two aspects: the actions performed and the manner in which
-they are performed.  
-    
- There are five obligatory actions: intention, washing of the face,
+they are performed.
+
+There are five obligatory actions: intention, washing of the face,
 washing of the hands, wiping over the head, and wiping over the feet.
 There are ten obligations with regard to the manner of their
 performance: the making of the intention at the time of the *wudhu’* ;
@@ -40,13 +38,13 @@ head and both feet using the wetness and drops of water which remain
 people of the House of the Prophet. There are many differences of manner
 with regard to the *wudhu’* of other groups, besides the Shi'ahs, but
 this is not the appropriate moment to enter upon a discussion of them;
-and Allah is more Knowing and more Wise.  
-  
+and Allah is more Knowing and more Wise.
+
 
 ### ii) According to the people of tariqah
 
-   
- The purification of this group occurs after their performance of the
+
+The purification of this group occurs after their performance of the
 above‑mentioned ablution; it is an expression for the purifi­cation of
 the self from any base aspects of behaviour, the purifi­cation of the
 intellect from the impurity of wicked thoughts or ideas of a dubious
@@ -59,9 +57,9 @@ in any way with the plea­sure of Allah and to make all his acts of
 worship purely for Allah and no other; this is referred to in His words,
 \`Say surely my prayer and my sacrifice and my life and my death are
 (all) for Allah, the Lord of the worlds; no associate has He; and this
-am I commanded, and I am the first of those who submit.'  
-    
- As for the washing of the face, it is that the person washes the face
+am I commanded, and I am the first of those who submit.'
+
+As for the washing of the face, it is that the person washes the face
 of his heart clean of any impurity connected to the world and that
 contained therein, for \`Surely the world is carrion and those who seek
 it are dogs.' It is for this reason that the Prophet has also said,
@@ -97,13 +95,13 @@ by Allah when He says, \`Allah confirms those who believe with the sure
 word in this world's life and in the hereafter;' may Allah bestow on us
 the (station of) joining between them and our firm establishment in
 both; He it is whose help is sought and it is on Him that we place our
-trust.  
-  
+trust.
+
 
 ### iii) According to the people of haqiqah
 
-* *  
- The *wudhu’* of these people, which is expressed as a purification,
+* *
+The *wudhu’* of these people, which is expressed as a purification,
 refers to the purification of one's inner secret from the witnessing of
 other‑than‑Him ‑ under any circumstances. As for the intention of this
 *wudhu’*, it is that the spiritual traveler makes the intention in his
@@ -116,9 +114,9 @@ for his god' and His words, \`And most of them do not believe in Allah
 without associating others (with Him).' The *mushrik is* ritually impure
 as attested by Allah's words, \`The idolaters are nothing but unclean;'
 thus their purification can only come about with this intention, an
-intention which rejects all kinds of *shirk.*  
-* *  
- It is evident that freeing oneself of idolatry, be it manifest or
+intention which rejects all kinds of *shirk.*
+* *
+It is evident that freeing oneself of idolatry, be it manifest or
 hidden, is only possible by means of a divine or existential unity
 *(tawhid).* The washing of the face symbolises the purification of the
 face of reality and the cleansing of the inner heart from the vision of
@@ -129,9 +127,9 @@ His encompassing Essence, in­dicated in His words, \`Now surely He
 encompasses all things.' Allah has also referred to this kind of turning
 to Him when He inspired Abraham to say, \`Surely I have turned myself,
 being upright, wholly to Him Who originated the heavens and the earth,
-and I am not of the polytheists.'  
-    
- As for the washing of the hands, it symbolizes one's lack of concern
+and I am not of the polytheists.'
+
+As for the washing of the hands, it symbolizes one's lack of concern
 for any of the comforts of this world or the next which are at the
 disposal of one's hands ‑ such as wealth, position, family and children
 which are of this world and knowledge, doing without, and obedience
@@ -147,26 +145,26 @@ for forgiveness and the worst of actions is an act of obedience which
 results in conceit.' The Prophet has also referred to this when he says:
 \`This world is forbidden the people of the hereafter and the hereafter
 is forbidden the people of this world and both are forbidden the people
-of Allah.'  
-    
- As for the wiping over the head, it symbolizes the elevation of one's
+of Allah.'
+
+As for the wiping over the head, it symbolizes the elevation of one's
 secret and innermost heart ‑ that it is the \`real' head ‑ above the
 impurity of egotism and otherness, which acts as a barrier between him
 and his Beloved. One of the gnostics refers to this matter in the
-following verse:  
-    
- Between me and You is individual existence conflicting with me,  
- So remove individual existence by Your grace from bet­ween us.  
-    
- It has also been said: \`Your very existence is a wrong action which is
+following verse:
+
+Between me and You is individual existence conflicting with me,
+So remove individual existence by Your grace from bet­ween us.
+
+It has also been said: \`Your very existence is a wrong action which is
 greater than any other wrong actions.' We have already established that
 anyone who sees other than Him is an idolater and that all idolaters are
 unclean; that for such people there is no access to the world of
 sanctity and the divine presence is testified by the words of Allah,
 \`Surely Allah does not forgive that anything should be associated with
-Him, and forgives what is besides that to whomsoever He pleases.'  
-    
- As for the wiping over the feet, it symbolizes the elevation of the two
+Him, and forgives what is besides that to whomsoever He pleases.'
+
+As for the wiping over the feet, it symbolizes the elevation of the two
 powers of action and knowledge above any undertaking other than by
 Allah, for Allah and in Allah. This is because they are as the two legs
 and feet of the outer: it is by means of them that one strives in search
@@ -193,27 +191,27 @@ the station of perfection just below that indicated by His words, \`Why
 should not then a company from every party from among them go forth that
 they may apply themselves to obtain an understanding in religion, and
 that they may warn their people when they come back to them to be
-cautious?'  
-    
- As to the washing of the hands and arms, it expresses the station
+cautious?'
+
+As to the washing of the hands and arms, it expresses the station
 described in His words, \`And you did not smite when you smote (the
 enemy), but it was Allah Who smote.' There are other studies on this
 subject and secrets too numerous to mention, but this present
 investigation will be enough for the man of intellect and perception;
-and Allah says the truth and guides to the correct path.  
-  
+and Allah says the truth and guides to the correct path.
 
- 
+
+
 
 2) Major Ritual Purification (ghusl)
 ------------------------------------
 
- 
+
 
 ### i) According to the people of shari\`ah
 
-* *  
- The *ghusl* of the people of this group is defined by the various
+* *
+The *ghusl* of the people of this group is defined by the various
 degrees of the legal code, that is, the obligatory, the recom­mended,
 the forbidden and the disliked actions. A description of all these would
 be very lengthy so we shall confine ourselves to the obligations, the
@@ -235,13 +233,13 @@ aspects: the intention should be made immediately before the *ghusl is*
 performed; the intention should remain in force throughout the *ghusl;*
 and the appropriate order of performance should be respected, that is,
 one must begin with the head and then with the right side of the body
-and then with the left.  
-  
+and then with the left.
+
 
 ### ii) According to the people of tariqah
 
-* *  
- The *ghusl* of this group refers to their performance of the
+* *
+The *ghusl* of this group refers to their performance of the
 above­mentioned *ghusl* in order to purify themselves from the real
 state of ritual impurity, namely that state which distances one from
 Allah (rather than from the superficial state of ritual impurity, namely
@@ -249,9 +247,9 @@ that arising from any of the legally specified physical causes of
 pollution). The real state of ritual impurity may be divided into two
 parts: the first relates to the people of this group and the second to
 the people of *haqiqah.* An explanation of the second will follow
-immediately after this section.  
-    
- As for the first, it refers to the impurity which arises from love of
+immediately after this section.
+
+As for the first, it refers to the impurity which arises from love of
 this world: truly the world is like a woman who takes another husband
 every hour, as the Imam has indicated in his words, \`I have pronounced
 divorce on you three times and so there is no possibility of
@@ -283,9 +281,9 @@ prescribed *ghusl,* then the whole *ghusl is* invalidated. Thus
 attachment to the world, however little, has the same effect, namely the
 invalidation of one's *ghusl.* This same notion is expressed in the
 phrase: \`Whoever is veiled is veiled, whether it be by one or a
-thousand veils.'  
-    
- The manner in which this particular *ghusl is* performed is that the
+thousand veils.'
+
+The manner in which this particular *ghusl is* performed is that the
 spiritual traveler washes first his \`real' or \`true' head, that is his
 heart in this instance, with the water of the gnosis of reality, which
 descends from the ocean of sanctity; he washes it clean of the
@@ -326,9 +324,9 @@ mind or honour; Allah says of them: \`like him whom the devils have made
 to fall down perplexed to the ground.' The reply to all questions
 related this subject may be found in Allah's words, \`And as for him who
 fears to stand in the presence of his Lord and forbids the soul from low
-desires, then surely the Garden is his abode.'  
-    
- Thus the people of this station to this goal by constantly for­bidding
+desires, then surely the Garden is his abode.'
+
+Thus the people of this station to this goal by constantly for­bidding
 their soul from low desires and by always urging their souls to that
 which will bring them into the Garden, the true abode and the final
 refuge. \`All, may pace be upon him, has indicated the people of this
@@ -338,17 +336,17 @@ world, and you will reach (the Real and the Garden), for surely the last
 of you will arrive by the example of the first.' Attainment of the Real
 and the Garden is dependent upon the disencumberance or removal of wrong
 actions. Allah refers to this in His words, \`Most surely this is the
-mighty achievement, for the like of this then let the workers work.'  
-    
- Then he washes his right side, that is, he purifies his spirit and
+mighty achievement, for the like of this then let the workers work.'
+
+Then he washes his right side, that is, he purifies his spirit and
 innermost secret, his love of the higher manifestations of the hereafter
 and the Garden, for the people of the hereafter are characterized as the
 people of the right and of the higher realities. This is indicated in
 Allah's words, \`And the companions of the right hand; how happy are the
 companions of the right hand! Amid thornless Tote‑trees and banana trees
-(with fruits), one above the other... and water flowing constantly.'  
-    
- Thereafter follows the washing of the left side, that is, he purifies
+(with fruits), one above the other... and water flowing constantly.'
+
+Thereafter follows the washing of the left side, that is, he purifies
 his soul and body (which are contained in the left side and are referred
 to as the physical realities) from love of base objects and selfish
 desires expressed as a totality by the term \`the world'; he performs
@@ -363,12 +361,12 @@ His Power.' This is indicated in his words, \`Surely those who guard
 (against evil) shall be in gardens and rivers, in the seat of honour
 with the most Powerful King.' May Allah grant us attainment of these
 stations for surely that is a grace from Allah, He gives it to whom He
-wishes and Allah is of mighty grace.  
-  
+wishes and Allah is of mighty grace.
+
 
 ### iii) According to the people of haqiqah
 
-   
+
 *Ghusl* for the people of this group represents their purification from
 the real ritual impurity, that is, the witnessing of other than­ Allah
 in an absolute sense. As we have explained above, this impurity is the
@@ -379,9 +377,9 @@ indicates this when He says, \`Allah bears witness that there is no god
 but He, and (so do) the angels and those possessed of knowledge,
 maintaining His creation with justice; there is no god but He, the
 Mighty the Wise.' We have already commented upon this kind of unified
-vision *(tawhid)* on several occasions.  
-    
- The order of performance of this *ghusl is* that he washes his \`real'
+vision *(tawhid)* on several occasions.
+
+The order of performance of this *ghusl is* that he washes his \`real'
 or \`true' head, that is his spirit, alone and stripped of all else,
 with the water of the *tawhid* of essence; he washes it clean of the
 witnessing of other‑than‑Him. Just as love of Allah is the duty of the
@@ -407,9 +405,9 @@ but He; His is the judgment, and to Him you shall be brought back;'
 \`And there will endure for ever the person of your Lord, the Lord of
 glory and honour.' (We have already investigated these two *ayat* on
 more than one occasion and it would not be appropriate to discuss them
-again here).  
-    
- As we have already established, this kind of *tawhid is* the true and
+again here).
+
+As we have already established, this kind of *tawhid is* the true and
 straight path which man has been commanded to in the words of the
 Prophet, \`Continue then in the right way as you are commanded;' it is
 the middle way, referred to by Allah in His words, \`And (know that)
@@ -434,37 +432,37 @@ sword' and \`finer than a hair;' Allah has also referred to it in His
 words, \`The eye did not turn aside, nor did it exceed the limit' and
 also \`So he was the measure of two bows or closer still;' these words
 indicate the gathered *tawhid* of Muhammad, a *tawhid* which encompasses
-all the other kinds of *tawhid.*  
-* *  
- In short, ritual impurity in the spiritual realm is nothing but the
+all the other kinds of *tawhid.*
+* *
+In short, ritual impurity in the spiritual realm is nothing but the
 witnessing of other‑than‑Him, in whatever form this takes; thus
 attainment of purification in the spiritual realm can only occur after
 freeing oneself from this vision of otherness. Thus it is that the poet
-has said:  
-    
- I was content with the whim of fancy that you evoked in me;  
- But I was not content when I joined with you,  
- For when a glace of Laylah fell from afar,  
- It seized my inside from the heart to the bowels.  
- Women say that the living .yearn to see.  
- O Laylah, your eyes have caused me to die from the sickness of
-yearning  
- And how can you see Laylah when your eye sees  
- Other than her and you have not cleansed it with tears?  
-    
- There are numerous examples of this kind and the reader is advised to
+has said:
+
+I was content with the whim of fancy that you evoked in me;
+But I was not content when I joined with you,
+For when a glace of Laylah fell from afar,
+It seized my inside from the heart to the bowels.
+Women say that the living .yearn to see.
+O Laylah, your eyes have caused me to die from the sickness of
+yearning
+And how can you see Laylah when your eye sees
+Other than her and you have not cleansed it with tears?
+
+There are numerous examples of this kind and the reader is advised to
 seek them in the appropriate places; and Allah is more Knowing and more
-Wise and He it is that says the truth and guides to the correct path.  
-  
+Wise and He it is that says the truth and guides to the correct path.
+
 
 3) Purification with Earth (tayammum)
 -------------------------------------
 
- 
+
 
 ### i) According to the people of shari\`ah
 
-* *  
+* *
 *Tayammum* for the people of this group is purification by means of
 dust; this is used when water is absent or when one is excused its use.
 *Tayammum* takes the place of *wudhu’* or the *ghusl* and is only
@@ -475,9 +473,9 @@ bucket, rope or the like), or because one fears for one's health or
 one's wealth (because of its excessive price) if one were to use it.
 *Tayammum* is not correct unless done with earth or whatever is commonly
 called earth (thus it includes the natural forms of dust, clay and
-stone).  
-    
- As to the manner of its performance it is that the person strikes the
+stone).
+
+As to the manner of its performance it is that the person strikes the
 earth once with both hands. If it is being done instead of the *wudhu’*,
 he should then brush off the excess dust and wipe his face with both
 hands from the point where the hair begins to grow at the top of the
@@ -493,23 +491,23 @@ essential difference between the two being the capacity to use water or
 not); likewise all acts of worship permitted with *wudhu’* are also
 permitted by means of layammum, the two being exactly equal as to their
 validity ‑ and Allah is more Knowing and more Wise and He it is Who says
-the truth and guides to the correct path.  
-  
+the truth and guides to the correct path.
+
 
 ### ii) According to the people of tariqah
 
-* *  
- Before beginning this section in detail we should first define the
-meaning of the water of reality and the earth of reality.  
-    
- According to the judgment of the intellect and the judgment contained
+* *
+Before beginning this section in detail we should first define the
+meaning of the water of reality and the earth of reality.
+
+According to the judgment of the intellect and the judgment contained
 in the narrated sources (of the Qur'an and the tradi­tions), the water
 of reality symbolizes the divine knowledge and gnosis or \`the life of
 reality.' This is explained on examination of the words of Allah which
 affirm that the life of everything issues from water, \`And We have made
-from water every living things.’[^1]  
-    
- It is evident that the life of every thing does not come from the water
+from water every living things.’[^1]
+
+It is evident that the life of every thing does not come from the water
 of the form (with which we are familiar): the angels, the jinn, the
 celestial spheres and planets are all recognized as things although
 their life does not issue from water, that is, they are not made up of
@@ -519,9 +517,9 @@ same may not be said about many other existent beings, like, for
 example, the simple elements and the higher, sublime realities. What in
 fact is being said is that just as the degree of perfection in knowledge
 differs in rank and quality, so too water varies in its degrees of
-saltiness and sweet­ness and in other specific qualities.  
-    
- We have already mentioned in our investigation of tawhid that every
+saltiness and sweet­ness and in other specific qualities.
+
+We have already mentioned in our investigation of tawhid that every
 existent being has speech, life and knowledge. What is meant by
 knowledge is knowledge of Allah, His Names, His Attributes and His
 Actions; indeed there is no existent being that is devoid of these
@@ -558,9 +556,9 @@ in Allah's words, \`The Beneficent Who ascended the Throne (and
 established His power);' by His Power over the mightiest of things He of
 necessity has dominion over everything below. There are numerous studies
 of a rational and logical nature on the subject but it would be
-inappropriate to include them here.  
-    
- The \`real' or \`true' earth is the antithesis of this water according
+inappropriate to include them here.
+
+The \`real' or \`true' earth is the antithesis of this water according
 to both the judgment of the intellect and that contained in the narrated
 sources: the \`real water' is spiritual knowledge and sacred gnosis and
 the \`real earth' tangible, acquired knowledge and speculative and
@@ -607,9 +605,9 @@ who abide by the Torah, the Gospel and the Qur'an but also by all other
 men and animals as well. Thus to infer that the obtaining of these two
 types of food is conditional upon the keeping up of the Torah, the
 Gospel and the Qur'an is rationally untenable to anyone who reflects
-upon this matter.  
-    
- If the people of *tariqah* are not able to purify the inner with the
+upon this matter.
+
+If the people of *tariqah* are not able to purify the inner with the
 water of the gnosis of reality (because of the existence of some kind of
 obstacle), then it is permissible for them to use the above‑mentioned
 knowledge of the outer in order to purify their inner self ‑ in a
@@ -627,9 +625,9 @@ of you come from the privy or you have touched the women, and you cannot
 find water, betake yourselves to pure earth, then wipe your faces, and
 your hands therewith. Allah does not desire to put on you any
 difficulty, but He wishes to purify you and that He may complete His
-favour on you, so that you may be grateful.'  
-    
- Allah also refers to another aspect of this matter by His com­manding
+favour on you, so that you may be grateful.'
+
+Allah also refers to another aspect of this matter by His com­manding
 the slave to purify the self by means of the element of pure earth; in
 doing so He is commanding the person who is unable to purify the self by
 means of the intellect to fulfill the duties of the *shari\`ah,* since
@@ -661,9 +659,9 @@ Allah.' This station may also be expressed as a submersion in the ocean
 of the water of eternal life, whereby true purity is attained together
 with entry into the House of Allah, the al‑Aqsa Mosque and Masjid
 al‑Haram which are all forbidden of access to other than those in this
-state of purity.  
-    
- Shaykh Muhyi al‑Din has indicated the aspect connected to dust, poverty
+state of purity.
+
+Shaykh Muhyi al‑Din has indicated the aspect connected to dust, poverty
 and humility in a section devoted to this topic in his *Futuhat:* \`The
 earth becomes the goal because by its nature it is in a state of
 humility. In an absolute sense it is this humility which is the aim of
@@ -675,9 +673,9 @@ that *tayammum* can only be done with the dust which is a part of this
 earth, that man and his progeny is from earth and that he remains close
 to it of necessity by his poverty and neediness. This notion is
 re­flected in the saying of the Arabs, "The hand of the man becomes
-dusty when he is in need." '  
-    
- When the slave of Allah recognizes that dust is the lowest of the
+dusty when he is in need." '
+
+When the slave of Allah recognizes that dust is the lowest of the
 elements and that it is part of his own origins, then he is purified of
 any impurity which might cause him to leave this station. But this only
 applies in the case when water cannot be found. Water, as we have said,
@@ -693,15 +691,15 @@ intellect is unable to find a sufficient proof it is the intellect
 itself which demands that one turn back to the legal code for
 affirma­tion. In this case the intellect and the legal code work in
 harmony; when this is realized, then one benefits greatly with respect
-to one's understanding of the secrets of worship.  
-    
- Shaykh Muhyi al‑Din has also indicated how water may be sub‑divided
+to one's understanding of the secrets of worship.
+
+Shaykh Muhyi al‑Din has also indicated how water may be sub‑divided
 according to the various levels of knowledge of truth and reality. We
 shall not discuss this matter here for fear of making this section too
 lengthy and of incommodating the reader. The overall purpose of this
-discussion, however, is as we have outlined above.  
-    
- It is obligatory for the spiritual traveler to do *tayammum* (as we
+discussion, however, is as we have outlined above.
+
+It is obligatory for the spiritual traveler to do *tayammum* (as we
 have mentioned above) in order that he may be able to use the
 above‑mentioned water, that is, attain to the knowledge of truth and
 reality. The manner of this *tayammum* is that the person first wipes
@@ -720,13 +718,13 @@ explained above). It is for this reason that we must wipe over the back
 of the right hand with the palm of the left and the back of the left
 with the palm of the right ‑ such that the person does not oppose or
 contradict his outer with his inner and his inner with his outer. Thus
-purification of the one is achieved by means of the other.  
-  
+purification of the one is achieved by means of the other.
+
 
 ### iii) According to the people of haqiqah
 
-* *  
- The *tayammum* of this group refers to their annihilation from the
+* *
+The *tayammum* of this group refers to their annihilation from the
 world itself and all contained therein, including all the simple
 elements and compounds; in this way they are purified from egotism and
 otherness, which of necessity accompanies their attachment to the world
@@ -742,9 +740,9 @@ The sky is related to water by the subtleness and lightness of its
 nature, indeed the sky is composed of water itself, this is con­firmed
 by the consensus of the people of *shari\`ah* and by a com­parison of
 the cosmic and the individual dimensions. We shall now enlarge on this
-in more detail.  
-    
- The difference between the people of *tariqah* and the people of
+in more detail.
+
+The difference between the people of *tariqah* and the people of
 *haqiqah* with respect to this purification is that the former purify
 themselves from blameworthy behaviour and from base charac­teristics by
 taking upon themselves praiseworthy characteristics and good qualities;
@@ -767,9 +765,9 @@ indication of this state. The Prophet's saying \`I have times with Allah
 that I do not share even with the most intimate angel or prophet'
 demonstrates that he was in the world of arrival at Allah and total
 intimacy; it is the station of abiding after annihi­lation, expressed in
-His words, \`Two bows' lengths or closer still.'  
-    
- The shaking off of the excess dust from one's hands after striking them
+His words, \`Two bows' lengths or closer still.'
+
+The shaking off of the excess dust from one's hands after striking them
 on the ground during performance of the *tayammum* is an indication of
 one's hands shaking off their attachment to the two worlds. This kind of
 purification is performed by the gnostic striking his hands ‑ which here
@@ -790,9 +788,9 @@ at the time of their annihilation in order to see if there remains any
 trace in them of attachment to the two worlds. This notion is supported
 by the words of the Prophet, \`This world is forbidden to the people of
 the hereafter and the hereafter is forbidden to the people of this and
-both are forbidden to the people of Allah.  
-    
- Love of this world and the next is a veil and is a kind of *shirk* of
+both are forbidden to the people of Allah.
+
+Love of this world and the next is a veil and is a kind of *shirk* of
 something else with Allah. The existence of a veil, or of *shirk,*
 renders attainment of purification impossible, since the person who is
 veiled or quality of *shirk is* unclean, according to Allah's judgment:
@@ -805,22 +803,22 @@ Arise and warn, and magnify your Lord, and purify your garments and shun
 unclean­liness.' The words \`and purify your garments' refer to the
 purifi­cation of the outer; the words \`and shun uncleanliness' refer to
 the purification of the inner by distancing oneself from the
-un­cleanliness of idolatry, veiling and seeing other‑than‑Him.  
-    
- There are many other examples of a similar nature in the Qur'an and the
+un­cleanliness of idolatry, veiling and seeing other‑than‑Him.
+
+There are many other examples of a similar nature in the Qur'an and the
 body of *ahadith,* and the reader is advised to investigate them in the
 appropriate sources. At this point we shall conclude our study of the
-three types of purification, namely *wudhu’,* *‑ghusl* and *tayammum,*
-in the light of this particular station; and Allah says the truth and
-guides to the correct path.  
-    
- Knowledge of the *qiblah* (direction of prayer) and the time and place
+three types of purification, namely *wudhu’, ‑ghusl* and *tayammum,* in
+the light of this particular station; and Allah says the truth and
+guides to the correct path.
+
+Knowledge of the *qiblah* (direction of prayer) and the time and place
 of the prayer should be sought in the appropriate books off
 juris­prudence, as it would not be fitting to continue the study thereof
 in a work of this kind (although we shall be obliged to discuss the
 matter in due course, as the reader shall see). We shall now begin a
-study of the nature of prayer.  
-  
+study of the nature of prayer.
+
 
 4) The Nature of Prayer
 -----------------------
@@ -829,8 +827,8 @@ study of the nature of prayer.
 
 ### In the light of the intellect, the Prophetic traditions and the unveilings of the heart
 
-   
- The reader should realize that all divine laws 'at& based upon a
+
+The reader should realize that all divine laws 'at& based upon a
 consideration of time, place and the duty to the brotherhood of Muslims,
 be it in the realm of form or of inner reality. Examples of time‑related
 events are the prayers, the fasting, *zakat* (the alms tax), *hajj*, the
@@ -846,9 +844,9 @@ messengers \`endowed with constancy', the Imams of guidance and the
 caliphs of Allah in both worlds and all the companions and followers may
 Allah be content with them all, the angels and in particular Gabriel,
 Michael, Isra'fil and \`Izra'il and their like from amongst the angels
-and the righteous slaves of Allah.  
-    
- Time, when measured in respect to itself is one single entity; however
+and the righteous slaves of Allah.
+
+Time, when measured in respect to itself is one single entity; however
 time becomes particularized with respect to the above­mentioned acts of
 worship ‑ such that the latter cannot be performed except in relation to
 a particular time. This particular time possesses superiority over the
@@ -866,22 +864,22 @@ order to find their treasure, they must respect the number indicated.
 The same is true for the various acts of worship and the times
 pre­scribed for them. If they are performed outside their times, then
 they are not accepted and the person who offers them will in no way be
-rewarded.  
-    
- The same principle may be applied to the notion of place: with respect
+rewarded.
+
+The same principle may be applied to the notion of place: with respect
 to itself, place is one single entity, but from another aspect, each
 locality possesses certain features which distinguish it from other
 places. Certain acts of worship are only acceptable when performed in a
 certain place. The Ka'bah, the Masjid al‑Haram and the al‑Aqsa mosques
-are examples of these special places.  
-    
- The same principle applies with respect to the concept of brotherhood:
+are examples of these special places.
+
+The same principle applies with respect to the concept of brotherhood:
 with respect to itself, the notion of brotherhood is an all‑encompassing
 entity; from another aspect, however, cer­tain brothers of the
 brotherhood are distinct from the rest. The prophets, messengers,
-saints, spiritual inheritors and the like are examples of this.  
-    
- On investigation we see that the daily prayers, the Friday prayers, the
+saints, spiritual inheritors and the like are examples of this.
+
+On investigation we see that the daily prayers, the Friday prayers, the
 \`Id (feast‑day) prayers and the *hajj* have been pre­scribed in order
 that these three aspects be joined. The daily prayers are undertake by a
 group of people in a particular locality, the Friday and congregational
@@ -918,9 +916,9 @@ revelation, inspiration and unveiling.'
 There are also other examples which demonstrate this same symbolic
 pattern, such as his love of perfume, women and prayer, as we know from
 his words, \`I love three things of your world; perfume, women and the
-coolness of the eye in prayer.'  
-    
- The nature of the essence of the prophet requires this gathering
+coolness of the eye in prayer.'
+
+The nature of the essence of the prophet requires this gathering
 together of things and the establishment of intimacy and friendship
 between the various existent beings ‑ in particular with respect to
 mankind as a whole. It is for this reason he established certain places
@@ -948,25 +946,25 @@ commercial and marriage contracts which are undertaken during these
 gatherings. These social gatherings and events contain matters of hidden
 wisdom which are worthy of investigation; suffice it to say that they
 are all based on this triad of realities, namely time, place and the
-brotherhood of Muslims.  
-    
- We shall now discuss the ascent of the Prophet (*mi\`raj*), which
+brotherhood of Muslims.
+
+We shall now discuss the ascent of the Prophet (*mi\`raj*), which
 expresses these above‑mentioned realities; we shall examine this subject
 first in relation to the world of form and then in relation to the world
 of inner reality. It should be noted that there are many differences of
 opinion among the scholars, the common people and the philosophers
-concerning the matter.  
-  
+concerning the matter.
+
 
 5) The Ascent of the Prophet (mi\`raj)
 --------------------------------------
 
- 
+
 
 ### i) In the realm of form
 
-   
- The title of this section refers to the Prophet's will and intent to
+
+The title of this section refers to the Prophet's will and intent to
 attain to this triad of gatherings in the realm of form ‑ just as he
 attains to them in the realm of inner meaning (in the various stations
 of sublimity between the heavens and the earth). Thus his movement in
@@ -977,9 +975,9 @@ for the three above­mentioned gatherings. Such gatherings are a means
 whereby the Prophet's perfections may flow out to the people. The
 Prophet in fact draws them out of their state of imperfection and allows
 them to attain their own specific perfection, in accordance with their
-receptivity and capacity.  
-    
- This ascent is related in the various Prophetic sayings of the \`night
+receptivity and capacity.
+
+This ascent is related in the various Prophetic sayings of the \`night
 journey' and is referred to in the Qur'an by Allah's words, \`Glory be
 to Him Who made His servant to go on a night from the Sacred Mosque to
 the al‑Aqsa Mosque (or \`remote mosque') of which We have blessed the
@@ -996,9 +994,9 @@ mountain of Tur and the angel said to him, \`O Prophet of Allah, do not
 take them off for surely we desire that the blessing of your sandals may
 reach our places (of abode).' Such things are by no means impossible for
 Allah, for He is the One Who renders everything possible and the One Who
-determines events.  
-    
- Moreover, it has been established in the divine wisdom that the
+determines events.
+
+Moreover, it has been established in the divine wisdom that the
 prophets, saints, perfected ones and spiritual poles possess great power
 in both the earthly and spiritual worlds: when a person becomes
 perfected and merits being the caliph of Allah in His earthly and
@@ -1042,9 +1040,9 @@ one place at the same time. This is similar to the way in which the
 angel Gabriel appeared in this world in the form of (the Prophet's
 companion) Dahiya al‑Kalbi on several different occasions, as did other
 angels (when they appeared, for example, in aid of the Prophet on the
-day of the Battle (if Badr and that of Hunayn).  
-    
- When we accept the truth of the above and we realize that man is the
+day of the Battle (if Badr and that of Hunayn).
+
+When we accept the truth of the above and we realize that man is the
 noblest of creatures, then it is difficult for us not to accept too that
 all perfected men are capable of expressing special powers (in the
 manner described above); it would be difficult, too, for us not to
@@ -1053,13 +1051,13 @@ this and of greater things. Muhammad's ascent to the heavens is, in
 fact, of a lesser dimension than his influence over events in the lunar
 and solar realms and over Gabriel (when he wished to begin the ascent).
 It is most impor­tant that one understands and believes in these matters
-for any attempt to explain them away is of no use.  
-  
+for any attempt to explain them away is of no use.
+
 
 ### ii) In the realm of inner meaning
 
-   
- Most people agree that the ascent of the Prophet in the realm of inner
+
+Most people agree that the ascent of the Prophet in the realm of inner
 meaning refers to his arrival at the Real during the time of the night
 journey and by means of the unification of essence (which is also known
 as the \`unity of the separate after the gathering'). It also refers to
@@ -1070,9 +1068,9 @@ station is connected to that of Abraham for Allah says of the latter,
 \`And thus did We show Abraham the kingdom of the heavens and the earth
 and that he might be of those who are sure.' This special relationship
 between the Prophet and Abraham is affirmed by the Qur'an and may be
-demonstrated by means of other proofs.  
-    
- It is clear that this ascent (and other similar spiritual events) has
+demonstrated by means of other proofs.
+
+It is clear that this ascent (and other similar spiritual events) has
 no need of movement in the realm of form or of any notion of physical
 distance. When we talk about the movement of a particular person, then
 we are referring to his going from one place to another in the
@@ -1106,9 +1104,9 @@ slave by his own attributes and those of creation and by his attaching
 an absolute reality to them; those who veil them­selves by seeing the
 outer (and what is other than Him) are of necessity far from the Real
 and the contemplation of Him al­though they may claim to be established
-in the station of *tawhid.*  
-    
- All are agreed that there are four kinds of travel in the realm of
+in the station of *tawhid.*
+
+All are agreed that there are four kinds of travel in the realm of
 inner meaning. The first is the traveling \`to' Allah from the various
 stations of the self it is the arrival at the \`clear horizon,' which is
 the final station of the heart and the beginning of the emanations of
@@ -1121,9 +1119,9 @@ duality remains; when duality is removed then it is the station of \`or
 closer still' and the final station of saintliness *(wilayah).* The
 fourth is travel \`by' Allah \`from' Allah in order to achieve
 perfection: this is the state of abiding after annihilation and
-separation after gatheredness.  
-    
- Each of these different ways of travel has a beginning and an end; the
+separation after gatheredness.
+
+Each of these different ways of travel has a beginning and an end; the
 beginning of each is clear from the beginning and end of each stage as
 we have described above. As for the end, that of the first is the
 removal of the veils of multiplicity from the face of Oneness. The end
@@ -1137,9 +1135,9 @@ gatheredness and separation by witnessing now the Real man­ifests
 throughout the various levels of creation and how the cre­ation
 eventually disappears into the Real. In this station one sees the source
 of Oneness in the forms of multiplicity and the forms of multiplicity in
-the source of Oneness.  
-    
- There are no further ways of travel or spiritual destinations beyond
+the source of Oneness.
+
+There are no further ways of travel or spiritual destinations beyond
 these four. Thus the *mi\`raj*as a whole, be it with respect to a
 prophet, a messenger, a saint or a spiritual inheritor, is contained in
 the above four divisions. Any variations in the mode of travel which
@@ -1149,9 +1147,9 @@ single hour or even a blink of an eyelid. Indeed, it may occur after
 striving for forty years or even forty thousand years since this kind of
 travel has no specific limits as to its nature and no specific time;
 \`and that is the grace of Allah; He bestows it on whom He wishes and
-Allah is of mighty grace.'  
-    
- With this in mind, we should now examine Allah's words, \`Glory be to
+Allah is of mighty grace.'
+
+With this in mind, we should now examine Allah's words, \`Glory be to
 Him Who made His servant go on a night from the Sacred Mosque to the
 remote mosque (of al‑Aqsa) of which We have blessed the precincts, so
 that We may show to him some of Our signs; surely He is the Hearing, the
@@ -1171,9 +1169,9 @@ His Essence, His Attributes, His Names and His Actions, indeed to a
 contemplation of Him in His worlds of spirituality and corporeality. His
 words, \`He is the Hearing, the Seeing' refer to the fact that Allah is
 the only True Hearer of the servant's prayers and the only One Who sees
-that each is answered.  
-    
- One may express this still more lucidly by saying that the Haram Mosque
+that each is answered.
+
+One may express this still more lucidly by saying that the Haram Mosque
 is his true or real heart which is forbidden of access except to the
 Real Himself. The heart is the abode or the station of Allah; this is
 affirmed in His words, \`Neither the earth nor the heavens can contain
@@ -1205,9 +1203,9 @@ the Haram and the heart the mosque and the spirit the Ka'bah. His words:
 \`of which We have blessed the precincts' is an indication of the spirit
 and that which surrounds it. We should understand from these words that
 Allah has blessed the area around it with the blessings of gnostic
-realities, secret wis­dom and subtle intelligences.  
-    
- The reason for the ascent and arrival at the Divine Presence is so that
+realities, secret wis­dom and subtle intelligences.
+
+The reason for the ascent and arrival at the Divine Presence is so that
 Allah may show him ‑ from His signs within the realm of the individual
 self, rather than from within the cosmic dimension ‑ a vision of His
 Essence and of His Qualities in the essence and qualities of Muhammad by
@@ -1224,27 +1222,27 @@ with or with­draws from the inhabitants of these two domains; it is they
 who turn to Him for their needs and problems, that is, for whatever is
 of benefit to them, with respect to their religion and their daily life
 in this world. The following verse seems to indicate the words of such a
-caliph:  
-    
- My pen and my table in existence are given life  
- By the Divine Pen and the Guarded Tablet.  
- My hand is the right hand of Allah in his spiritual domain;  
- I carry out what I wish and the principles and  
- duties are my pleasure and blessing.  
-    
- A *hadith* of the Prophet reflects this idea: \`Allah created Adam in
+caliph:
+
+My pen and my table in existence are given life
+By the Divine Pen and the Guarded Tablet.
+My hand is the right hand of Allah in his spiritual domain;
+I carry out what I wish and the principles and
+duties are my pleasure and blessing.
+
+A *hadith* of the Prophet reflects this idea: \`Allah created Adam in
 His image;' again the import of the words of the gnostic, \`I am the
 Truth and all those like me' and \`Is there other than me in the two
 abodes?' is not lost on those who understand this science. This
 concludes our study of the *mi\`raj* with respect to the self and the
-realm of inner meaning.  
-  
+realm of inner meaning.
+
 
 6) Different Aspects of Prayer
 ------------------------------
 
-   
- We shall now return to our study of the various aspects of prayer. We
+
+We shall now return to our study of the various aspects of prayer. We
 have already explained that the five roots (off‑ principles) and the
 five branches (or pillars of Islam) are established by the prophets and
 the messengers by the command of Allah, in order that what is deficient
@@ -1279,9 +1277,9 @@ worship which have been made incumbent upon crea­tion as a whole. This
 is affirmed in Allah's words, \`And there is no animal that walks upon
 the earth nor bird that flies with its two wings but (they are)
 creatures like yourselves; We have not neglected anything in the Book;
-then to their Lord they shall be gathered.'  
-    
- At this point a more detailed explanation will be necessary to show
+then to their Lord they shall be gathered.'
+
+At this point a more detailed explanation will be necessary to show
 that the person who is in a state of prayer is not only in prayer but
 also fasting, paying *zakat* (the alms tax), performing the *hajj*
 (pilgrimage) and fighting *jihad.* This aspect of prayer is affirmed in
@@ -1289,9 +1287,9 @@ the words of Allah, \`He knows the prayer of each one and its
 glorification, and Allah is cognizant of what you do.' Each existent
 being has its own prayer and glorification of Him; thus the person in a
 state of prayer is in harmony with the totality of existent beings and
-in accord with their different situ­ations and obligations.  
-    
- Up to this point we have been considering the prayer as sup­plication
+in accord with their different situ­ations and obligations.
+
+Up to this point we have been considering the prayer as sup­plication
 and an act of obedience. If we now consider it as a particular form of
 worship which embraces the various move­ments of standing, sitting,
 bowing, prostrating, together with the words of praise and
@@ -1312,9 +1310,9 @@ all agree, their movements are in a horizontal plane. As for the
 prostration and downward movement, then they accord with the pattern of
 all plants. There are no other kinds of movement, apart from these
 three, and all the composite existent things both of the plant and
-animal king­doms, together with man, are encompassed by them.  
-    
- One may, if one wishes, express this in another may by saying that the
+animal king­doms, together with man, are encompassed by them.
+
+One may, if one wishes, express this in another may by saying that the
 standing is in accordance with those angels whose duty it is to stand
 constantly, the bowing is in harmony with those angels whose duty it is
 to bow constantly, and the prostration is in. accord with those angels
@@ -1332,37 +1330,37 @@ praying. It is also permissible to under­stand this word as meaning
 obedience or submission, since Allah says elsewhere, \`And the herbs and
 the trees prostrate to Him' meaning adore or do obeisance to His command
 and will. Moreover there are many instances of the; use of this word in
-different ways both in the Qur'an and the language of the Arabs.  
-    
- As for the saying of the *takbir al‑haram* ‑ the *Allahu Akbar* (God is
+different ways both in the Qur'an and the language of the Arabs.
+
+As for the saying of the *takbir al‑haram* ‑ the *Allahu Akbar* (God is
 Great) ‑ at the beginning of the prayer, indicating one has entered the
 sanctity of the prayer and all else is excluded, then this applies to
 all in their worship and in particular to pilgrims and those making for
-the Haram, the House of Allah.  
-    
- As for the intention, that is the goal which is, established in the
+the Haram, the House of Allah.
+
+As for the intention, that is the goal which is, established in the
 heart, then this also applies to all in their worship, since all are
 aiming for His presence: if this were not so, then Allah would not have
 said, \`And if you were to ask them who created the heavens and the
 earth, they would certainly say: Allah...' and nor would He have said,
 \`And everyone has a direction to which he should turn, therefore hasten
-to (do) good works ... .'  
-    
- As for the praise and glorification of Allah, then this is in harmony
+to (do) good works ... .'
+
+As for the praise and glorification of Allah, then this is in harmony
 with all existent things as the words of Allah testify: \`And there is
 not a single thing but glorifies Him with His praise, but you do not
 understand their glorification.' This praise accords in particular with
 the angels since Allah says \`And we celebrated Thy praise and extol Thy
 holiness.' The same applies to all the states of remembrance of Him, all
-supplications and associated movements and periods of stillness.  
-    
- As for wishing blessings on the Prophet, then this is in harmony with
+supplications and associated movements and periods of stillness.
+
+As for wishing blessings on the Prophet, then this is in harmony with
 Allah, with the angels and all the believers, as is stated in His words,
 \`Surely Allah and His angels bless the Prophet: O you who believe! Call
 for (divine) blessings on him and salute him with a (becoming)
-salutation.'  
-    
- As for the number of cycles *(raka\`at)* contained in the prayer, be it
+salutation.'
+
+As for the number of cycles *(raka\`at)* contained in the prayer, be it
 two, three or four, then this is in accord with the peoples of each of
 the prophets who came to establish a particular *shari\`ah.* Thus it has
 been narrated that some of the prophets used to pray two cycles of
@@ -1379,9 +1377,9 @@ since the prayer of every existent thing is in fact that very capacity
 or receptivity (which we have explained ear­lier) and which is indicated
 in Allah's words, \`Say: Everyone acts according to his manner' and \`He
 knows the prayer of each one and its glorification and Allah is
-cognizant of what they do.'  
-    
- The wings, the mode of prayer of the angels, is the power that they
+cognizant of what they do.'
+
+The wings, the mode of prayer of the angels, is the power that they
 exercise in both the higher and lower worlds. Mawla al­A'zam Kamal
 al‑Din \`Abd al‑Razzaq has referred to this in his interpretation of the
 Qur'an saying, \` "The Maker of the angels, messengers flying on wings"
@@ -1408,9 +1406,9 @@ emerging; Allah then created count­less angels from these drops." Allah
 refers to these numerous wings when He says at the end of the *ayah,*
 "He increases in creation what He pleases; surely Allah has power over
 all things." These words also demonstrate that such a thing is possible
-and that Allah is capable of it.'  
-    
- Up to this point we have been discussing how the person praying shares
+and that Allah is capable of it.'
+
+Up to this point we have been discussing how the person praying shares
 with the totality of creation every time he performs a prayer. The way
 in which the person praying shares with the Real in all aspects may be
 seen from a consideration of the *hadith,* related from the Prophet who
@@ -1426,9 +1424,9 @@ delegate the management of affairs to My slave." When the slave says,
 "Thee do we serve and Thee do we beseech for help", Allah says: "This is
 between Me and My slave." When the slave says: "Keep us on the right
 path... ," then Allah says, "This is for My slave and My slave shall
-have what he asks for." '  
-    
- One of the gnostics has expressed the same notion; we shall mention it
+have what he asks for." '
+
+One of the gnostics has expressed the same notion; we shall mention it
 here in order to expand our vision and to stimulate our investigation of
 this matter. The mutual desire and harmony which exists between the soul
 and the body necessitates the ascent of the bodily form to the soul and
@@ -1453,18 +1451,18 @@ slaves of Allah, causes the ascent of the heart and the spirit to the
 Presence of Sanctity, a drawing near to the Real, an imbuing from the
 world of lights, attainment of gnoses and spiritual realities and
 sustenance from the angelic realm *(malakut)* and the domain of power
-*(jabarut).*  
-* *  
- Thus prayer is established as a form of worship which encom­passes the
+*(jabarut).*
+* *
+Thus prayer is established as a form of worship which encom­passes the
 postures of submission and humility; the discomfort and hardship of the
 limbs which have been duly distanced and purified from evil, the
 determination to come closer to Him, the sincerity of one's intention,
 the acts of remembrance which evoke His blessings, which glorify and
 extol Him in a manner befitting His Presence, the extreme abasement
 before His might, and obeisance to His command and judgment are all part
-of the prayer.  
-    
- This prayer is repeated each day and night the same number of times as
+of the prayer.
+
+This prayer is repeated each day and night the same number of times as
 the five senses. These senses are the means whereby the soul of man
 perceives the various states of the world of darkness; they are a means
 of exit away from the Real to the world of abasement. By these senses
@@ -1475,20 +1473,20 @@ becomes veiled from the world of light. It becomes confused and its
 aware heart which perceives the generality of things and to lead it away
 from perception of the parts. This awakening is like the emergence of
 the dawn of inner meaning by means of the sunlight of the spirit and its
-return to the eastern horizon.  
-    
- The time of the morning prayer is the point of the joining between the
+return to the eastern horizon.
+
+The time of the morning prayer is the point of the joining between the
 night and the day: it consists of two cycles of prayer related to the
 spirit and the body ‑ just as man before puberty was one entity, one
-natural body becomes two with the appear­ance of the intellect.  
-    
- The principle and the form of this prayer have a specific order: the
+natural body becomes two with the appear­ance of the intellect.
+
+The principle and the form of this prayer have a specific order: the
 standing in the first cycle symbolizes the natural state of man and the
 form of the rational soul, standing upright amongst the other existent
 beings; this is affirmed in Allah's words, \`Certainly We created man in
-the best image. Then We render him the lowest of the low'.  
-    
- The bowing symbolizes the station of the animal soul, since an animal
+the best image. Then We render him the lowest of the low'.
+
+The bowing symbolizes the station of the animal soul, since an animal
 is in a state of bowing. And the coming to the upright position again
 symbolizes its becoming another type or kind of being by means of the
 light of rationality. This other type posses­ses particularities of
@@ -1538,9 +1536,9 @@ from the world of sanctity; it reaches these souls when they divest
 themselves of imperfection and sickness and array themselves in the
 perfections of divine charac­ter and attribute. By way of these
 emanations, these souls become manifestations of one of His Names in
-accordance with the capac­ity of each.  
-    
- It is at this point that the words of the gnostic come to an' end, may
+accordance with the capac­ity of each.
+
+It is at this point that the words of the gnostic come to an' end, may
 Allah sanctify and purify his spirit and the light of his grave. They
 demonstrate his attainment of total perfection and his station of
 unveiling such that he was able to discover the secrets of prayer. He
@@ -1548,9 +1546,9 @@ has thus transmitted these realities of un­veiling and subtleties of
 \`tasted' physical experience to the gen­erations living after him. It
 was thus by means of him and others like him from among the perfected
 ones and the spiritual poles that these secrets became manifest and the
-veil surrounding them was lifted.  
-    
- Up to this point we have been considering the wisdom behind the various
+veil surrounding them was lifted.
+
+Up to this point we have been considering the wisdom behind the various
 conditions and stages of the prayer. We shall now consider prayer in
 relation to fasting and, in particular, the pos­ition of the person
 praying who in effect enters into the same state as the person who is
@@ -1560,8 +1558,8 @@ why prayer takes priority and is preferred over all the other acts of
 worship; we shall also include them in our explanation of why the acts
 of worship, which are the branches of Islam, are five in number. This
 necessitates the establishment of another method of classifi­cation
-which contains and defines in a specific way all these points.  
-  
+which contains and defines in a specific way all these points.
+
 
 7) A Method of Classification
 -----------------------------
@@ -1571,8 +1569,8 @@ the reason for the priority given to prayer, how the person praying
 encompasses the totality of worship, the reason why one act of worship
 takes preference over another**
 
-   
- It should be realized that there are differences of opinion with regard
+
+It should be realized that there are differences of opinion with regard
 to the divisions of this subject. This is because some have added the
 question of purification to that of the prayer, the subject of
 *i\`tikaf* (withdrawal into the mosque, in particular during the last
@@ -1587,9 +1585,9 @@ begin by dealing with the most famous and obvious of these, indeed with
 those points agreed upon by the majority namely the prayer, the fasting,
 *zakat, hajj* and *jihad.* The truth of the matter is that the branches
 of Islam are contained within these five classifications and it is not
-fitting that they be divided into any more or less.  
-    
- Proof that they are contained within this number can be seen in the
+fitting that they be divided into any more or less.
+
+Proof that they are contained within this number can be seen in the
 fact that the religious obligations prescribed by law are either related
 to the soul and wealth, like, for example, prayer and fasting, or they
 are related purely to wealth, like, for example, *zakat,* or they are
@@ -1598,9 +1596,9 @@ and *jihad* (making five in all). Since the Muslim has no need of more
 than this in order to attain to his perfection and since it is not
 possible to achieve this perfection with any less, then it must be that
 this number is correct ‑ in this way we may establish the proof of our
-argument.  
-    
- At this point it would be desirable to introduce a fitting metaphor:
+argument.
+
+At this point it would be desirable to introduce a fitting metaphor:
 Allah is the Perfect Physician and the prophets and the messengers, as
 we have already explained, are like doctors of the soul and healers of
 the heart. The precepts and laws which they prescribe by means of the
@@ -1615,9 +1613,9 @@ inconceivable that the prophets of Allah should fail to be kind or
 should fail to bestow their grace on the people. Thus one realizes that
 the \`cure', expressed here in the form of the five branches, is
 sufficient to dispel the sickness of ignorance, disbelief, doubt and
-hypocrisy, and \`this is the ordinance of the Mighty, the Wise.'  
-    
- Just as it is not permitted to increase this number, so it is not
+hypocrisy, and \`this is the ordinance of the Mighty, the Wise.'
+
+Just as it is not permitted to increase this number, so it is not
 permitted to reduce it. So, for example, if the medical doctor
 prescribes a potion or medicine to remove a physical illness, the sick
 person is not permitted to increase, or reduce the potion or medicine in
@@ -1642,9 +1640,9 @@ is because to do this would be to overstep the bounds stipulated by the
 branches. This matter must be fully understood for it is of great
 importance; and Allah is more Knowing and more Wise: \`As for these
 examples We set them forth for men, and none understand them but the
-learned.'  
-    
- We shall now discuss the reason why each of these branches has an order
+learned.'
+
+We shall now discuss the reason why each of these branches has an order
 of priority and preference with respect to the rest; thus prayer has
 priority over fasting and the fasting over *zakat* and so on. This is so
 since the prayer, (unlike the other branches), encompasses all the other
@@ -1654,9 +1652,9 @@ as he is facing the *qiblah* (the direction of the Ka'bah) and engaged
 in the movements of bow­ing, prostration, standing and sitting. He is
 also in a state of fasting as long as he is praying since the latter
 state requires of necessity that he abstain from food, drink and
-anything which would result in a fast being broken.  
-    
- As for the *zakat,* it is the giving of one's wealth or of anything one
+anything which would result in a fast being broken.
+
+As for the *zakat,* it is the giving of one's wealth or of anything one
 possesses, including one's physical strength and capacity: this is in
 accordance with the meaning of the Prophet's words, \`All of you are
 guardians and all of you are responsible for what you are guarding' and
@@ -1665,9 +1663,9 @@ obedience.' Thus as long as the person is bowing, or prostrating,
 standing or sitting, reading the Qur'an or praising Allah, expressing
 the intention by a conscious deter­mination of the heart to perform the
 prayer and make the various accompanying movements of the body and the
-limbs, then he is truly giving out *zakat.*  
-* *  
- As for the *hajj* of this person praying: as long as he is facing the
+limbs, then he is truly giving out *zakat.*
+* *
+As for the *hajj* of this person praying: as long as he is facing the
 *qiblah,* in the direction of the *Ka \`bah,* protected from any other
 action that might invalidate his prayer, as long as he has as his object
 the pleasure and obedience of Allah, as long as he is going round his
@@ -1681,9 +1679,9 @@ of form, while the person who is praying is also journeying to the House
 of Allah, namely the heart and its precincts, in order to fulfill the
 rites in the realm of inner meaning. Because of this he is counted as
 one of the true pilgrims rather than one of those confined to the
-superficial realm of appearances.  
-    
- As for the *jihad* of the person praying, it is by virtue of the tact
+superficial realm of appearances.
+
+As for the *jihad* of the person praying, it is by virtue of the tact
 that *jihad* refers to the struggle against the enemies of Islam in
 order to make them submit to Islam and obey the commands and
 prohibitions of Allah. The person praying is also engaged in the
@@ -1704,9 +1702,9 @@ it is true to say that they are in *jihad.* There are numerous other
 commentaries upon the meaning of *jihad;* what we have presented to the
 reader is a concise summary of these meanings. The reader is urged to
 pay great attention to this matter so that he may understand this secret
-‑ a secret which is under the protection of Allah.  
-    
- The reason for the preference of fasting over the paying of *zakat is*
+‑ a secret which is under the protection of Allah.
+
+The reason for the preference of fasting over the paying of *zakat is*
 that the former is above all connected to the soul and *zakat is*
 connected above all to wealth, and the soul is nobler than wealth. It is
 for this reason that Allah says, \`Fasting is for Me and I am its
@@ -1716,8 +1714,8 @@ this is not the case, then the person fasting is not really fasting.
 Thus we realize that it is from his fear of Allah and his desire for His
 pleasure that he is undertaking this action. It is obligatory to give
 preference to this action be­cause it is based on the soul, rather than
-on wealth.  
-    
+on wealth.
+
 *Zakat is* given preference over the *hajj* because it is dependent only
 on the giving of wealth and because it is repeated every year, indeed
 every hour, and because of the continual process of the business of
@@ -1725,8 +1723,8 @@ buying and selling. The *hajj,* on the other hand, is only obligatory
 once in a lifetime, and only then on condition that one is able. It is
 thus obligatory to give preference to some­thing which is obligatory
 every year, even every hour, over some­thing which is obligatory only
-once in a lifetime.  
-    
+once in a lifetime.
+
 *Hajj is* given preference over the *jihad* since the former
 neces­sitates great expense and is obligatory on all who are able: it is
 possible that the *jihad* may not be obligatory on every person and may
@@ -1741,9 +1739,9 @@ simply a matter of awareness: any person who uses his intellect will see
 the truth of this. Many studies have been made on this subject, for it
 contains illuminat­ing secrets of wisdom, hidden to all but the people
 of this science. Most of these secrets will be explained individually
-later in this work.  
-    
- Up to this point we have been examining the matter from the point of
+later in this work.
+
+Up to this point we have been examining the matter from the point of
 view of the people of Allah and spiritual realization. There is,
 however, another viewpoint which we must also take into consideration,
 namely that of the people of the outer and of imitation. According to
@@ -1762,23 +1760,23 @@ advanced of years, those who suffer from excessive thirst, pregnant
 women who fear their milk will be decreased as a result of the fast and
 women at the time of menstruation. Another reason for this preference is
 that the prayer is repeated five times (very day, whereas the fist is
-only performed once a year.  
-    
- The reason why the fast is given preference over *zakat is* because the
+only performed once a year.
+
+The reason why the fast is given preference over *zakat is* because the
 *zakat is* obligatory on wealth; moreover, not everyone posses­ses
 sufficient wealth for it to become obligatory on him. Everyone, however,
 possesses a soul on which the fast is obligatory and it is for this
 reason, because of its application to all people, that it is given
-priority.  
-    
- The reason why the *zakat is* given priority over the *hajj is* that
+priority.
+
+The reason why the *zakat is* given priority over the *hajj is* that
 the *zakat* must be paid on several occasions throughout the year by
 those who are not obliged to calculate the payment on a yearly basis and
 once a year by those who are. The *hajj,* however, is only obligatory
 once in a lifetime, on condition that one is able, and for this reason
-that *zakat ī* given preference.  
-    
- The reason why the *hajj is* given priority over *jihad is* that the
+that *zakat ī* given preference.
+
+The reason why the *hajj is* given priority over *jihad is* that the
 *hajj is* obligatory on every person, whereas the *jihad is* obligatory
 on the Muslim community as a whole (although, it is fulfilled for the
 whole by the action of just some of its members). There is clearly a
@@ -1786,18 +1784,18 @@ great difference between the two. Moreover, *jihad* is only obligatory
 when the infallible Imam is present, or when he gives the order to
 fight. Understanding of the meaning of this condition is usually lacking
 and this is particularly evident in our times. Thus the *hajj* is given
-preference by its more general applicability.  
-    
- There are many other secrets with regard to this particular subject
+preference by its more general applicability.
+
+There are many other secrets with regard to this particular subject
 since it is possible to interpret the matter from other angles. We shall
 however conclude here our explanation of the branches of Islam and the
 reason why one is given preference over the other. Allah seems to refer
 to these five roots and five branches when He says, \`These make ten
 complete.' It is by means of these ten that eternal happiness in the
 Garden is ob­tained. We ask Allah to bestow upon us arrival there by
-means of Muhammad, peace be with him, and his chosen family.  
-    
- We have now come to the end of our study of the roots and the branches
+means of Muhammad, peace be with him, and his chosen family.
+
+We have now come to the end of our study of the roots and the branches
 together with introductory explanations of these two matters; it has
 included a study of the wisdom contained in the nature and circumstances
 of the prayer and *mi\`raj* (both in the realm of appearance and
@@ -1806,18 +1804,18 @@ over another; finally this study has considered other matters of a
 subtle and hidden nature. We shall therefore now begin an investigation
 of the prayer with regard to the three groups, namely the people of the
 *shari\`ah, tariqah* and *haqiqah* and then go on to the rest of the
-branches in the same manner.  
-  
+branches in the same manner.
+
 
 8) Prayer
 ---------
 
- 
+
 
 ### i) According to the people of shari\`ah
 
-* *  
- According to the people of this group, the prayer is composed of three
+* *
+According to the people of this group, the prayer is composed of three
 sub‑divisions, namely actions or movements, the method of their
 performance and those things from which one should abstain. Each of
 these sub‑divisions may be further divided into two aspects, namely the
@@ -1827,9 +1825,9 @@ hundred and sixty‑three; we are not in a position to enumerate them all
 here. We shall, however, describe these divisions and aspects in
 relation to what is de­manded of the Muslim in just one of the cycles of
 the prayer and with respect to just the movements and their manner of
-performance. The rest may be deduced upon a moment's reflec­tion.  
-    
- The obligatory movements in the first cycle of the prayer are thirteen
+performance. The rest may be deduced upon a moment's reflec­tion.
+
+The obligatory movements in the first cycle of the prayer are thirteen
 in number: the standing, when able (or another position which takes its
 place when one is unable), the intention, the saying of the *takbirat
 al‑ihram (Allahu Akbar)* which signals the beginning of the state of the
@@ -1851,9 +1849,9 @@ touching the ground with seven points of the body ‑ the forehead, both
 hands, both knees and the toes of both feet ‑ the remaining at ease for
 a moment in the first prostration and the straightening up after it, the
 like for the second prostration. In this way the total number of
-movements and aspects amount to thirty‑one.  
-    
- The second cycle of the prayer is the same except for the making of the
+movements and aspects amount to thirty‑one.
+
+The second cycle of the prayer is the same except for the making of the
 intention and the *takbirat al‑ihram,* together with the manner and
 aspect of the performance of these two, which are four in number ‑
 leaving twenty eight for this cycle. This number together with the
@@ -1875,13 +1873,13 @@ becomes one hundred and twenty‑four actions and aspects of performance.
 This is the nature of the prayer according to the people of the
 *shari\`ah,* with respect to the way of the Shiahs and with regard to
 the exoteric. The inward dimension is connected to the people of
-*tariqah* and will now be considered.  
-  
+*tariqah* and will now be considered.
+
 
 ### ii) According to the people of tariqah
 
-   
- According to this group, the prayer is proximity or a drawing near to
+
+According to this group, the prayer is proximity or a drawing near to
 the Real. It has been reported that the Prophet has said, \`Prayer is
 the sacrifice whereby every believer comes closer to Allah.' What is
 meant here is the proximity of spiritual station rather than the
@@ -1903,9 +1901,9 @@ existence in the Essence and Existence of the Real and abide with Him
 for ever and ever; and this is the station of the people of *haqiqah*
 (which we shall describe immediately after this section). We shall now
 consider what one of the gnostics has said with respect to the \`form'
-of the prayer before returning to the question in hand.  
-    
- Know that the prayer has been given a specific form by the Lord of
+of the prayer before returning to the question in hand.
+
+Know that the prayer has been given a specific form by the Lord of
 Lords, just as He has given a specific form to the animals. The soul or
 spirit of the prayer is the intention, sincerity, and awareness of the
 heart; the various actions or movements repre­sent the body of the
@@ -1916,9 +1914,9 @@ sitting are analogous to the body; the bowing and the prostration are
 analogous to the head, the hand and the legs; the bowing and prostration
 are perfected by the stillness of the heart and limbs; the words of
 remembrance and glorification prescribed in the prayer are analogous to
-the organs of perception.  
-    
- Know that your drawing nearer to Allah in the prayer is comparable to
+the organs of perception.
+
+Know that your drawing nearer to Allah in the prayer is comparable to
 the approach of some attendants of the sultan to offer him a young
 servant lad. Thus the lack of intention or sin­cerity in prayer is like
 offering a servant who lacks the breath of life: the gift of a dead
@@ -1962,9 +1960,9 @@ referred to by Allah when He says to His Prophet: \`You have no concern
 in the affair.' One should thus be in a similar state for all the words
 of remembrance and the movement of the prayer; \`Allah does as He wills;
 He cannot be questioned concern­ing what He does and they shall be
-questioned.'  
-    
- If the above has been fully understood, then the reader should also
+questioned.'
+
+If the above has been fully understood, then the reader should also
 realize that what is meant by the prayer of the people of this group is
 that they first direct their hearts to the real *qiblah* and the Ka'bah
 of inner meaning; these latter are in fact expres­sions for the real or
@@ -1976,9 +1974,9 @@ spiritual awareness is mentioned in the words of the Prophet, \`Prayer
 is only acceptable when the heart is aware;' Allah also refers to this
 when He says, \`Now surely, sincere obedience is due to Allah (alone)'
 and further with His words, \`Say: surely my prayer and my sacrifice and
-my life and my death are (all) for Allah, the Lord of the worlds.'  
-    
- The person praying then says the *takbirat al‑ihram,* thereby
+my life and my death are (all) for Allah, the Lord of the worlds.'
+
+The person praying then says the *takbirat al‑ihram,* thereby
 forbidding his self from doing anything which 'Might conflict with the
 command of Allah or go beyond the bounds of His pleasure, be it in
 speech or in action. He then begins the reading of the Qur'an, namely
@@ -2012,9 +2010,9 @@ guidance towards the straight path, it would necessarily imply that they
 were already astray and this would inevitably lead to a fallacious
 interpretation. This, however, is not permissible with respect to the
 prophets and messengers and so we are left with the alcove‑mentioned
-explanation.  
-    
- The person performing the prayer then makes the bow, thereby indicating
+explanation.
+
+The person performing the prayer then makes the bow, thereby indicating
 his submission to Allah; in doing so, he also returns to his self with
 humility, submission and need. This is because the bowing is a return
 backwards to his original state of non‑being and its essential
@@ -2043,9 +2041,9 @@ source, both in the realm of form and inner meaning. The following words
 of Allah bear witness to this, \`O soul that art at rest! Return to you
 Lord, well pleased (with Him), well pleasing (Him).' Man is reaches this
 station by witnessing of the self' dependency and humility, through
-annihilation in the outer and" inner.  
-    
- Thus when the person witnesses the grandeur of the Creator and the
+annihilation in the outer and" inner.
+
+Thus when the person witnesses the grandeur of the Creator and the
 baseness of his self in comparison, he sets about magnify­ing the glory
 of Allah to the utmost degree ‑ both by his spiritual state and in his
 outward speech saying \`Glory be to my noble Lord and all praise is
@@ -2062,9 +2060,9 @@ words of this person praying in the same way as the person praying hears
 Him, as in the saying of the Imam: \`I would repeat the *ayah* until I
 could hear the One who had said it;' the words of the Prophet, \`Whoever
 knows Himself knows his Lord' clearly bear witness to this mutual
-contact.  
-    
- There are other secrets concerning this direct relationship be­tween
+contact.
+
+There are other secrets concerning this direct relationship be­tween
 man and Allah, although it would not be fitting to mention them here.
 Suffice it to say that Allah has described this matter in His Generous
 Book: \`Is it not sufficient as regards your Lord that He is a witness
@@ -2084,19 +2082,19 @@ witnessing the Truth in a fitting manner is not possible except in the
 form of man. Shaykh Shibli with his words, \`I say and I hear and is
 there anyone in the two worlds besides me?' thereby affirms that he too
 was in this station. The words of the gnostic Ibn al‑Farid also bear
-witness to this:  
-    
- If my state were as low as the point of the (Arabic letter) \`ba'  
- I would have risen to a point never reached by you despite your
-skill.  
-    
- These words indicate annihilation and return to the original state of
+witness to this:
+
+If my state were as low as the point of the (Arabic letter) \`ba'
+I would have risen to a point never reached by you despite your
+skill.
+
+These words indicate annihilation and return to the original state of
 non‑existence and then arrival and abiding in the world of sanctity,
 also known as the Divine Presence, which is described in His words,
 \`Surely those who guard (against evil) will be in gardens and rivers,
-in the seat of honour with a most Powerful King.'  
-    
- The person praying then prostrates, that is, he returns again to his
+in the seat of honour with a most Powerful King.'
+
+The person praying then prostrates, that is, he returns again to his
 origin in a backward descent until he reaches the rank of the plant
 world. The prostration involves the covering of the noblest and most
 exalted part of man, namely his face, with the basest of things in
@@ -2129,9 +2127,9 @@ the greatest must be the greatest. This point must be carefully
 considered and understood: if this were not the case, then it would not
 be true to say that He was \`the Lord of the lords' nor the \`Best of
 Creators.' Other studies of this matter have been made and may be
-investigated with respect to the Names and their manifesta­tions.  
-    
- The person praying then says the *taslim* or salutation, thereby
+investigated with respect to the Names and their manifesta­tions.
+
+The person praying then says the *taslim* or salutation, thereby
 surrendering the whole affair to Allah and moving on from an advance of
 his self to an advance in Him; this is the station of abiding which is
 obtained by contentment and submission and by joining the unity of
@@ -2140,13 +2138,13 @@ words, \`But no! By your Lord! They do not believe in (reality) until
 they make you a judge of that which has become a matter of disagreement
 among them and they do not find any straightness in their hearts as to
 what you have decided and they do not submit with entire submission.'
-The following verse also bears witness to the truth of this matter:  
-    
- I have handed over all my affairs to the Beloved.  
- So if He wishes, He may give me life,  
- and if He wishes, He may destroy me.  
-    
- Consider also the words of Allah: \`And it behooves not a believing man
+The following verse also bears witness to the truth of this matter:
+
+I have handed over all my affairs to the Beloved.
+So if He wishes, He may give me life,
+and if He wishes, He may destroy me.
+
+Consider also the words of Allah: \`And it behooves not a believing man
 and a believing woman that they should have any choice in the matter
 when Allah and His Apostle have decided a matter and His words: \`You
 have no concern in the affair.' Further proof of the validity of this
@@ -2154,13 +2152,13 @@ notion is found in the words: \`And all We relate to you of the accounts
 of the apostles is to strengthen your heart therewith; and in this has
 come to you the truth and an admonition and reminder to the believers;'
 and Allah is more Knowing and more Wise; He it is Who says the truth and
-guides to the straight path.  
-  
+guides to the straight path.
+
 
 ### iii) According to the people of haqiqah
 
-   
- The prayer of the people of this group refers to the station of arrival
+
+The prayer of the people of this group refers to the station of arrival
 and witnessing in the realm of truth. This station is higher than that
 of drawing near mentioned above. We have already shown this to be the
 case in the classification of the people of this science which states
@@ -2179,9 +2177,9 @@ existing only by Him in their worship.' The latter worship Him in the
 station of the \`Oneness of separation after the gathering' and are the
 people of *haqiqah* in the station of bondage rather than servitude ‑ a
 term reserved for the people of *tariqah* who are among the elite and
-the people of the middle way.  
-    
- There is obviously a great difference between the people of servitude
+the people of the middle way.
+
+There is obviously a great difference between the people of servitude
 and the people of bondage and between the elite and the elite of the
 elite. Briefly, the prayer of the people of this group refers to their
 contemplation of the Beloved with the eye of the Beloved Himself and no
@@ -2189,9 +2187,9 @@ other. This is affirmed in the words of the Prophet, \`I saw my Lord
 with the eye of my Lord and I knew my Lord by my Lord.' When the Prophet
 was asked about the meaning of *ihsan* (beneficence), he replied,'
 *Ihsan is* to worship Allah as if you see Him, for even if you do not
-see him, He sees You.'  
-    
- One of the gnostics has spoken about the real meaning of the prayer and
+see him, He sees You.'
+
+One of the gnostics has spoken about the real meaning of the prayer and
 the attainment of the station of witnessing thereby; since it is
 relevant to this station, we shall mention it before going on to other
 matters: \`The words of the Prophet: "I have been given coolness of the
@@ -2229,9 +2227,9 @@ with the One he is invoking and is keen of sight will see the One with
 whom he is sitting; this seeing is witnessing and vision. If, however,
 the person is not of keen sight, then lie will not see Him. It is in
 this way that the rank of the person praying is known ‑ on the basis of
-whether or not he sees the Real during the prayer.'  
-    
- The gnostic goes on to say: \`In the words, "I have been given coolness
+whether or not he sees the Real during the prayer.'
+
+The gnostic goes on to say: \`In the words, "I have been given coolness
 of the eye in prayer" we learn that the Prophet is being given this
 coolness and does not give it to himself; indeed this emanation of the
 Real within the person praying is dependent upon Allah and not upon the
@@ -2250,16 +2248,16 @@ during the prayer: it is during this turning away that Satan (Shaytan)
 is able to furtively steal away the heart of the slave who is praying
 and thus prevent him from witnessing his Beloved. Indeed if the lover
 were heedful in the prayer, he would never turn his face from the
-*qiblah.*  
-* *  
- \`Every man knows his own state: he knows whether or not he is of this
+*qiblah.*
+* *
+\`Every man knows his own state: he knows whether or not he is of this
 spiritual rank and station. Man is surely aware of his own self "even
 though he presents excuses (to the contrary)." Thus the person praying
 is aware when he is being sincere or not within himself ‑ indeed no
 existent being is unaware of its own state ‑ and the state of the person
-praying is that of spiritual tasting.'  
-    
- The gnostic then goes on to say: \`Know that the seeing, hearing and
+praying is that of spiritual tasting.'
+
+The gnostic then goes on to say: \`Know that the seeing, hearing and
 witnessing of the Real on the part of the slave in prayer can occur by
 virtue of the strength of his faith and certainty. His certainty may be
 so clear that it resembles the faculty of sight and hearing. It can also
@@ -2271,9 +2269,9 @@ the Real appears to him by emanation and is witnessed with his own eyes;
 when this happens the Real also shares the prayer between Him­self and
 His slave. We have knowledge of these various states by way of the
 narrations telling of the divine emanations on the Day of Resurrection
-and how they vary in accordance with the belief of each believer.'  
-    
- The gnostic then says: \`Examine the exaltedness of prayer and where it
+and how they vary in accordance with the belief of each believer.'
+
+The gnostic then says: \`Examine the exaltedness of prayer and where it
 may lead the person praying; anyone who does not attain to the rank of
 vision in prayer has not reached its final goal and has not felt the
 coolness of the eye.' This is because he does not see the One with Whom
@@ -2294,9 +2292,9 @@ cannot see?" and with his words, "The Truth is clearer and more manifest
 than that which is seen by the eye," then with his words, "And he shall
 be of a certainty as (clear as) the light of the sun" and with his
 words, "Even if the veil were lifted, it would not increase my
-certainty." '  
-    
- Thus it is true to say of them that in such evident states of
+certainty." '
+
+Thus it is true to say of them that in such evident states of
 witnessing and in a state of true prayer, they are witnessers during
 their prayer. This is because on investigation we realize that
 continuous prayer is nothing but the witnessing of the Real in the
@@ -2306,16 +2304,16 @@ generosity to make us one of them for it is He who has gathered all
 these states in the perfect slave, the slave of Oneness. Therefore we
 ask Allah to bestow upon us arrival at the rank of these slaves and pray
 that He join us with those of His slaves upon whom he has bestowed
-other, even greater perfections.  
-    
- Having established that what is meant by the prayer of the people of
+other, even greater perfections.
+
+Having established that what is meant by the prayer of the people of
 *haqiqah* is a witnessing of the Beloved, we shall now begin a study of
 the order of their prayer and the nature of its principles, in the light
-of their special rank.  
-    
- Know that their prayer ‑ given that they establish the prayer of
-*shari\`ah and tariqah* *‑* refers to the gnostic carrying out that
-which he has been commanded to do, namely to persevere upon the path of
+of their special rank.
+
+Know that their prayer ‑ given that they establish the prayer of
+*shari\`ah and tariqah ‑* refers to the gnostic carrying out that which
+he has been commanded to do, namely to persevere upon the path of
 uprightness in the realm of divine unity *(tawhid).* This is referred to
 in Allah's words, \`So persevere (upon the straight path) as you have
 been commanded.'
@@ -2326,31 +2324,31 @@ journey in Allah ‑ that is the oneness of separation after the gathering
 ‑ is a sign that he has moved on from the presence of action and
 attribute (called the Presence of Oneness and the Presence of Lordship)
 to the Presence of the singleness of Essence which is the *qiblah* of
-the gnostics and the Ka'bah of the man of realization.  
-    
- The *takbirat al‑ihram* (uttering the words *Allahu Akbar ) means* that
+the gnostics and the Ka'bah of the man of realization.
+
+The *takbirat al‑ihram* (uttering the words *Allahu Akbar ) means* that
 he is forbidding himself from approaching any door but His door and from
 doing any action without His pleasure. This is referred to in His words,
 \`Say, surely my prayer and my sacrifice and my life and my death are
 (all) for Allah, the Lord of the Worlds; surely I have turned myself,
 being upright, wholly to Him Who originated the heavens and the earth,
-and I am not of the polytheists.'  
-    
- He then reads the *al‑Hamd* in the manner we have indicated, namely
+and I am not of the polytheists.'
+
+He then reads the *al‑Hamd* in the manner we have indicated, namely
 with the awareness that the prayer is shared between Allah and His
 slave. During the recitation he should also see with the clear
 witnessing, indicated in Allah's words concerning Abraham and other
 prophets, \`And thus did we show Abraham the kingdom of the heavens and
-the earth that he might be of those who are sure.'  
-    
- He then makes a bow ‑ that is he humbles himself before Allah ‑ and in
+the earth that he might be of those who are sure.'
+
+He then makes a bow ‑ that is he humbles himself before Allah ‑ and in
 doing so the mulk (the earthly realm) and the *malakut* (the spiritual
 or angelic realm) humble themselves with him, since man is entrusted
 with the caliphate of Allah in both these realms and everything in
 existence needs, and indeed fol­lows, him by virtue of the perfections
-contained within him.  
-    
- He then makes a prostration, and in doing so the existence of all
+contained within him.
+
+He then makes a prostration, and in doing so the existence of all
 existent and created beings together with his own creation is
 annihilated. This very annihilation is brought to annihilation when he
 actually witnesses the meaning of \`Everything (in cre­ation) must pass
@@ -2360,17 +2358,17 @@ the above‑mentioned move­ments, thereby elevating Him above all
 imperfection. In doing so he actually witnesses the meaning of \`Glory
 be to my Lord, the Almighty, and to Him all praise is due', in the first
 movement and the meaning of \`Glory be to my Lord the High' in the
-second.  
-    
- He then performs the *shahadah,* or profession of faith, attesting that
+second.
+
+He then performs the *shahadah,* or profession of faith, attesting that
 the Absolute Essential Oneness and Pure Solitary Existence necessarily
 negates all phenomenal and contingent existences. This is in accordance
 with Allah's words ‑ and those of the most perfect of His slaves ‑
 \`Allah bears witness that there is no god but He, and (so do) the
 angels and those possessed of knowledge, maintaining His creation with
-justice, there is no god but He, the Mighty, the Wise.'  
-    
- He then submits to this vision of unity from his heart and his spirit
+justice, there is no god but He, the Mighty, the Wise.'
+
+He then submits to this vision of unity from his heart and his spirit
 in accordance with the words of Allah, mentioned above, \`And they do
 not find hardship in themselves concerning that which You have decreed
 and they submit with a total submission' and His words, \`Surely Allah
@@ -2386,9 +2384,9 @@ deal more space would be needed to enumerate all the secrets con­nected
 with this subject. However we shall restrict our study to the above and
 trust others will discover the rest of these secrets from the people of
 Allah ‑ for surely such secrets are not hidden from the people of
-Allah.  
-    
- Thus there is a group of people whose belief in the roots and branches
+Allah.
+
+Thus there is a group of people whose belief in the roots and branches
 of Islam is of the intensity we have been describing to the reader. It
 should be realized that their perception and under­standing of divine
 realities is truly to a most profound degree and their establishment of
@@ -2407,9 +2405,9 @@ of *tawhid* believe; on hearing such things, they immediately think that
 anyone who arrives at Allah is exempted the duties of the *shari'ah* and
 the acts of worship prescribed in Islam. May Allah protect us from such
 things; we seek refuge in Him from attributing such things to these
-people.  
-    
- All are in agreement that anyone who arrives at Allah or to a certain
+people.
+
+All are in agreement that anyone who arrives at Allah or to a certain
 rank within His presence possesses a greater degree of obedience and his
 worship is sublimer and his striving corres­pondingly more intense, as
 was the case with the Messenger of Allah. This is evidence from the
@@ -2425,9 +2423,9 @@ little... or lessen it a little' were only revealed to the Prophet as a
 result of struggle and spiritual striving, standing in prayer, enduring
 thirst and rising before dawn. Moreover, it will be well known to the
 reader that the spiritual stations of the other prophets and messengers
-were similar.  
-    
- If we now consider the matter with respect to the saints (aw­liya) and
+were similar.
+
+If we now consider the matter with respect to the saints (aw­liya) and
 spiritual inheritors, then we may understand their station by
 considering that of the Commander of the Faithful. The latter would
 immerse himself in prayer and in the witnessing of the Real during the
@@ -2447,15 +2445,15 @@ been narrated that one the progeny of 'Ali, the infallible imam Zayn
 al‑\`Abidin used to pray a thousand cycles of prayer every day and night
 and used to say, \`I would be content if all these prayers equalled just
 two cycles of prayer of the Commander of the Faith­ful.' The like has
-also been narrated from every single one of his progeny.  
-    
- Up to this point we have been discussing the matter in relation to the
+also been narrated from every single one of his progeny.
+
+Up to this point we have been discussing the matter in relation to the
 saints; if we now consider the matter in relation to the shaykhs of the
 people of Allah and their elite, then the reports about them may be
 divided into two categories: namely with respect to their speech and
-with respect to their actions.  
-    
- As for their speech, then some have said that the perfect person is he
+with respect to their actions.
+
+As for their speech, then some have said that the perfect person is he
 who does not extinguish the light of his gnosis by his scrupulousness;
 his direction is towards complete perfection, namely that attained by
 combining true gnosis and total scrupul­ousness. It is absolutely
@@ -2475,9 +2473,9 @@ the station of perfec­tion. The secret of this combination derives from
 the coordination of the outer and the inner and the knowledge obtained
 as a result of this joining. This procedure which has been expounded by
 the gnostic whose words we have already cited, demonstrates the
-falsehood of the accusations leveled at the people of this science.  
-    
- The gnostic goes on to say, \`The final point of arrival at Reality is
+falsehood of the accusations leveled at the people of this science.
+
+The gnostic goes on to say, \`The final point of arrival at Reality is
 abandoning any perception of action.' The gist of his words is that the
 one who arrives at Reality does not recognize any action as his own nor
 any Actor other than Allah. This does not mean that action must be
@@ -2486,9 +2484,9 @@ actions of others. It would not be appropriate to go into details at
 this point; and we have deliber­ately omitted them for fear of
 overburdening the reader. How­ever, one should pay great attention to
 this idea since by it all the false claims of the libertines and the
-heretics may be rejected.  
-    
- Concerning the actions of the saints, it has been narrated that Shaykh
+heretics may be rejected.
+
+Concerning the actions of the saints, it has been narrated that Shaykh
 Junayd has said, \`Uncertainties have vanished and all signs have
 disappeared; the only thing of benefit to us is the prayer we perform in
 the depth of the night.' It has been reported that the perfect Shaykh
@@ -2504,9 +2502,9 @@ after performing all the obligatory cycles of prayers. He would also do
 this during his visits to the shrines of Morocco, Sham (Syria, Lebanon
 and Palestine), Egypt (and in particular) Alexandria, Makkah, Madinah
 and the al‑Aqsa Mosque; this we know from the section entitled \`The
-secrets of prayer' in his work *Al‑Futuhat.*  
-* *  
- Our aim in all this is to show that the people of this gnostic science
+secrets of prayer' in his work *Al‑Futuhat.*
+* *
+Our aim in all this is to show that the people of this gnostic science
 are in no way like the scholars of the exoteric and the ordinary people
 of imitation suppose. In fact those who make false accusations about
 them are the descendants of men from the time of the Messenger of Allah
@@ -2517,15 +2515,15 @@ in those days as in the present age. This is affirmed in the Qur'an when
 they say \`Surely we found our fathers on a course and surely we are
 followers of their footsteps.' We seek refuge in Allah from them and
 from those like them. This is most perti­nently expressed by the poet of
-the following verse:  
-    
- If you knew what I was saying, you would excuse me;  
- If you knew what you were saying, I would rebuke you.  
-    
- You are not aware of what I am saying, so you rebuke me;  
- And having discovered that you are unaware, I excuse you.  
-    
- One of the gnostics has noted that anyone who is devoid of a certain
+the following verse:
+
+If you knew what I was saying, you would excuse me;
+If you knew what you were saying, I would rebuke you.
+
+You are not aware of what I am saying, so you rebuke me;
+And having discovered that you are unaware, I excuse you.
+
+One of the gnostics has noted that anyone who is devoid of a certain
 quality of excellence will not even admit the existence of that quality,
 rather he will firmly deny it. The people of Allah are in the station of
 perfect adherence to the Prophetic exemplar, indicated in His words
@@ -2542,9 +2540,9 @@ particular group is analogous to that of Abraham with the people of
 Moses and Jesus ‑ since the latter claimed that Abraham was one of them
 and not of the Muslims. Allah, however, rejects their claims saying:
 \`Abraham was not a Jew nor a Christian but he was an upright man, a
-Muslim.'  
-    
- Some people associate such gnostics with deviation, disbelief and
+Muslim.'
+
+Some people associate such gnostics with deviation, disbelief and
 heresy, while others associate them with belief in incarnation, union
 with the divine and the ascription of human characteristics to Allah.
 The truth of the matter, however, is that they are far removed from such
@@ -2564,9 +2562,9 @@ without those who maintain (living) proof of the (truth) of Allah,
 either in a manifest way and known amongst the people or hidden for fear
 (of the injustice of men).' They exist in order that Allah's proofs and
 guidance ‑ as ‑ expounded in the Qur'an ‑ be protected from corrupt
-interpretation or negligence.  
-    
- How many are they and where do they exist? By Allah these people are
+interpretation or negligence.
+
+How many are they and where do they exist? By Allah these people are
 few in number and vast in rank; by them Allah pre­serves His proofs and
 words of guidance, until they in turn entrust these proofs and words of
 guidance to men like themselves, implanting this knowledge in their
@@ -2576,20 +2574,20 @@ living in ease and luxury find difficult; they gain intimacy and
 friendship with that which arouses horror in the ignorant; physically,
 they keep company with the world while spiritually, they are con­nected
 to the higher realm; they are the caliphs of Allah on His earth who call
-others to His way.  
-    
- The poet has said the following about them:  
-    
- To Allah beneath His dome of glory belongs a group of men  
- Whom He has hidden from the eyes of others out of reverence to them.  
-    
- They are the sultans in tattered garments  
- Who have drawn apart from the kings of the earth.  
-    
- They have accepted other clothes and abstained from food,  
- Moving with humility across this green sphere.  
-    
- Not even the prophets or messengers of Allah have escaped from the
+others to His way.
+
+The poet has said the following about them:
+
+To Allah beneath His dome of glory belongs a group of men
+Whom He has hidden from the eyes of others out of reverence to them.
+
+They are the sultans in tattered garments
+Who have drawn apart from the kings of the earth.
+
+They have accepted other clothes and abstained from food,
+Moving with humility across this green sphere.
+
+Not even the prophets or messengers of Allah have escaped from the
 tongues of the detractors. The latter have accused them of being,
 amongst other things, poets, magicians, soothsayers and madmen: \`Said
 he: Most surely your Apostle who is sent to you is mad' and also: \`This
@@ -2598,25 +2596,25 @@ gnostics have failed to escape their criticism. Indeed the prophets are
 also exemplars in this respect for as those of this science have pointed
 out, \`Tiial is a part of (the life of the) prophets, of the saints and
 also of those like them.' This idea is also expressed in following
-verse:  
-    
- No one, not even the purified Prophet, can escape their tongues.  
-  Thus if a person is courageous, they call him reckless.  
- If a person is generous, they call him wasteful.  
- If a person is quiet, they call him dumb;  
- And if he is loquacious, they call him a prattler.  
- If a person stands in prayer at night while fasting,  
- They call him an exhibitionist and reject him.  
- If a person stands in prayer at night while fasting,  
- They call him an exhibitionist and reject him.  
-    
- Thus do not worry if the people rebuke you or praise you but rather
-fear no one but Allah for Allah is greater than all.  
-    
- Thus we come to the end of our study of the prayer with respect to the
+verse:
+
+No one, not even the purified Prophet, can escape their tongues.
+Thus if a person is courageous, they call him reckless.
+If a person is generous, they call him wasteful.
+If a person is quiet, they call him dumb;
+And if he is loquacious, they call him a prattler.
+If a person stands in prayer at night while fasting,
+They call him an exhibitionist and reject him.
+If a person stands in prayer at night while fasting,
+They call him an exhibitionist and reject him.
+
+Thus do not worry if the people rebuke you or praise you but rather
+fear no one but Allah for Allah is greater than all.
+
+Thus we come to the end of our study of the prayer with respect to the
 three groups. We shall now begin on the subject of fasting with respect
-to these same groups; and by Allah is all security and success.  
-  
+to these same groups; and by Allah is all security and success.
+
 
 9) Fasting
 ----------
@@ -2625,8 +2623,8 @@ to these same groups; and by Allah is all security and success.
 
 ### i) According to the people of shari\`ah
 
-   
- What is meant here is abstention from certain things for a specific
+
+What is meant here is abstention from certain things for a specific
 period of time. Among the conditions of fasting is that of the validity
 of intention: if the fasting is for a specific period, then it is
 necessary under all circumstances ‑ like, for example, the month of
@@ -2644,9 +2642,9 @@ such that morning breaks, it is permissible to renew the intention up to
 the time of the sun's zenith. If, however, the sun has passed its
 zenith, then such an intention is no longer valid. If this happens
 during the fast of Ramadan, then one should fast that day and make up a
-day instead.  
-    
- Various conditions and laws govern the fast, classified accord­ing to
+day instead.
+
+Various conditions and laws govern the fast, classified accord­ing to
 whether it is recommended, as in the case of a specific vow, or whether,
 for example, it is performed for a non‑specific reason. However we do
 not have room to deal with all these questions here. We shall restrict
@@ -2662,9 +2660,9 @@ the sun has risen before rising when one is in a state of ritual
 impurity, or relapse into sleep after having awoken twice previously,
 such that the sun has time to rise. The *kaffarah* for this is to free a
 slave or fast for two consecutive months or to feed sixty poor people ‑
-and one may choose as to which of these three one performs.  
-    
- As for those things which make the making up of the fast obligatory
+and one may choose as to which of these three one performs.
+
+As for those things which make the making up of the fast obligatory
 without *kaffarah,* they are nine in number: eating, drinking or
 indulging in sexual intercourse instead of watching for the dawn (in the
 case when one is able), not accepting that the sun has risen when
@@ -2681,26 +2679,26 @@ sun has risen), water entering the throat of someone taking it into his
 mouth in order to cool himself (although this does not apply to the
 rinsing of the mouth prior to the performing the prayer), and finally
 the injection of fluids into the body. The above is the fasting of the
-people of *shari\`ah* according to the way of the Shiahs.  
-  
+people of *shari\`ah* according to the way of the Shiahs.
+
 
 ### ii) According to the people of tariqah
 
-* *  
- The fasting of the people of this group, after they have performed the
+* *
+The fasting of the people of this group, after they have performed the
 above‑mentioned fast, refers to their abstaining from anything which
 might be in opposition to Allah's pleasure, command or prohibition, be
 it in speech or by action, be it in the realm of knowledge or the
 application of that knowledge. We have already mentioned these points
-above and we shall now discuss the matter in more detail.  
-    
- Know that the Messenger of Allah has narrated from Allah Himself \`For
+above and we shall now discuss the matter in more detail.
+
+Know that the Messenger of Allah has narrated from Allah Himself \`For
 every good deed there are ten similar to it (in reward from Allah) or up
 to seven hundred times in number, except, that is, the fasting, for the
 fast is for Me and I am its reward.' The Prophet has also said,
-\`Everything possesses a door and the door of worship is the fast.'  
-    
- The point of describing the fast in this particular way and in
+\`Everything possesses a door and the door of worship is the fast.'
+
+The point of describing the fast in this particular way and in
 attaching such importance to it is for two ‑reasons: the first is that
 the fast requires abstention from the forbidden things and prevention of
 the self *(nafs)* from indulgence in desire and pas­sion ‑ thus the fast
@@ -2726,9 +2724,9 @@ others;' this type of conceitedness is only possible when one
 deliberately lets others witness one's worship. We have already
 investigated this matter in the sections concern­ing *tawhid* and
 *shirk* (and the corresponding subdivisions of man­ifest and hidden
-*shirk* and divine and existential *tawhid ).*  
-* *  
- The second point about the fast is that it is a means of over­whelming
+*shirk* and divine and existential *tawhid ).*
+* *
+The second point about the fast is that it is a means of over­whelming
 the enemy of Allah. In truth Satan (Shaytan) is the enemy. His strength
 lies in his use of man's desires. Hunger, however, destroys all those
 desires which are Satan's instruments to lead man astray. When no such
@@ -2741,9 +2739,9 @@ in chains, and a caller calls: "Come forward, O you who desire good and
 retreat, O you who desire evil!" ' What is meant here is that Satan, the
 cause and source of evil, is weakened together with his supporters. Thus
 it is up to the reader to strive towards good deeds and avoid evil
-actions, desires and passions.  
-    
- Abstention during the fast may be classified in two ways: the first
+actions, desires and passions.
+
+Abstention during the fast may be classified in two ways: the first
 aspect relates to the outer and the second to the inner. As for the
 outer, the first kind of fasting concerns that of the tongue from
 superfluous speech and from anything which is contrary to the pleasure
@@ -2760,9 +2758,9 @@ not have said, \`Whoever keeps silent gains success.' The hidden wisdom
 of this is that this abstention from outer speech produces an inner
 utterance, that is a speech of the inner soul. Thus when Mary keeps
 silent with her tongue, Jesus speaks words of clear meaning in the
-cradle and claims to be the caliph of the Merciful.  
-    
- One must reflect well upon this matter for it is subtle in mean­ing: by
+cradle and claims to be the caliph of the Merciful.
+
+One must reflect well upon this matter for it is subtle in mean­ing: by
 it one may understand the secret of the words of the Prophet, \`The
 springs of wisdom will appear from the heart on the tongue of the one
 who devotes forty mornings purely for Allah.' The following has also
@@ -2788,9 +2786,9 @@ understood by \`the harvest of the tongue' is superfluous speech. The
 Prophet has also said, \`Whoever increases his speech increases his
 anger, and whoever increases his anger diminishes his modesty, and
 whoever diminishes his modesty diminishes his scrupulousness and whoever
-diminishes his scrupulousness will enter the Fire.'  
-    
- All of the above is summed up in the words of Allah: \`And were it not
+diminishes his scrupulousness will enter the Fire.'
+
+All of the above is summed up in the words of Allah: \`And were it not
 for Allah's grace upon you and His mercy in this world and the
 hereafter, a grievous chastisement would certainly have struck you on
 account of the discourse which you entered into, when you received it
@@ -2813,9 +2811,9 @@ affirmed in the words of Allah: \`And when the two receivers receive,
 sitting on the right and on the left.' When the reader realizes this,
 when he knows he must hold his tongue and refrain from superfluous
 speech ‑ for he knows that there is more harm than good in it and the
-evil it works is worse than any good which might come out of it.  
-    
- The second kind of fasting is to abstain from looking at what has been
+evil it works is worse than any good which might come out of it.
+
+The second kind of fasting is to abstain from looking at what has been
 forbidden and to refrain from looking at what is permis­sible, except of
 necessity; this is because scrupulousness and piety do not lie in mere
 abstention from the forbidden things but also in avoiding that which is
@@ -2841,9 +2839,9 @@ whom their right hands possess, for surely they are not blameworthy, but
 whoever seeks to go beyond these transgresses the limits;' moreover, His
 words, \`except before their spouses,' indicate the truth of what we
 have said above with respect to that which is permissible, namely that
-it should be in case of necessity only.  
-    
- The third kind of fasting is to refrain from listening to that which is
+it should be in case of necessity only.
+
+The third kind of fasting is to refrain from listening to that which is
 forbidden ‑ like, for example, listening to someone backbiting another
 Muslim, listening to singing and music of a forbidden nature, listening
 to the words of misguided people, and the evil speech of the people of
@@ -2869,9 +2867,9 @@ earth. The faculty of sight can only perceive in respect to its capacity
 and perceives the star as a small orb or shield‑shaped sphere. This
 phenomenon is explained in detail in the books dealing with this science
 and those interested in this subject may investigate the matter further
-therein.  
-    
- The fourth kind of fasting is to refrain from smelling anything, be it
+therein.
+
+The fourth kind of fasting is to refrain from smelling anything, be it
 odious or sweet. It is evident that one is naturally repelled by any
 odious smell; indeed such a smell produces a bad effect on the liver,
 the brain and heart and may even lead to what is sometimes referred to
@@ -2879,9 +2877,9 @@ as \`the sudden death.' One should also refrain from smelling even
 pleasant odors since they stimulate desire, be it forbidden or otherwise
 ‑ like the perfumes musk, ambergris and amber. It has been narrated that
 the Prophet used to dislike the smell of garlic and onions and like the
-smell of the rose and the narcissus.  
-    
- The fifth kind of fasting is to refrain from taste, for whoever tastes
+smell of the rose and the narcissus.
+
+The fifth kind of fasting is to refrain from taste, for whoever tastes
 something is drawn towards the realm of desire and loses the sharpness
 of his intellect. An example of this is the tasting or consumption of
 the orphan's wealth or usury. The first is referred to in Allah's words,
@@ -2895,9 +2893,9 @@ the limits nor neglects to respond to one's bodily needs for to err in
 either of these directions is blameworthy in all circumstances. This is
 described in the saying of the Prophet as erring to the right or the
 left: \`The right and the left are both ways of error and the straight
-path is the middle way.'  
-    
- The sixth kind of fasting is to abstain from the sense of touch which
+path is the middle way.'
+
+The sixth kind of fasting is to abstain from the sense of touch which
 leads one to forbidden and blameworthy things, or to excess in what is
 permissible and to that which is outside the limits of moderation. This
 is referred to in Allah's words when He talks about this and the other
@@ -2907,9 +2905,9 @@ their skins, "Why have you borne witness against us?" They shall say,
 "Allah Who makes everything speak has made us speak" ' and also His
 words: \`On that day We shall set a seal upon their mouths and their
 hands shall not speak to Us, and their feet shall bear witness of what
-they earned.'  
-    
- The Prophet has mentioned that these senses are under the guardianship
+they earned.'
+
+The Prophet has mentioned that these senses are under the guardianship
 of each person: they are, as it were, his helpers, actions and speech,
 and a means to attainment of perfection: \`Everyone of you is a guardian
 and everyone of you shall be questioned about that which you are
@@ -2927,9 +2925,9 @@ and injustice are the placing of something where it does not belong,
 just as justice is the placing of something in its rightful place; thus
 anyone who employs his bodily organs and limbs in a manner for which
 they were not created is unjust, and he who is unjust is cursed and
-merits the punishment of the fire.  
-    
- Allah ‑ may He be exalted ‑ has prescribed the purifica­tion (by
+merits the punishment of the fire.
+
+Allah ‑ may He be exalted ‑ has prescribed the purifica­tion (by
 *wudhu’, ghusl* or *tayammum*) in order to cleanse the senses and in
 order that they be properly employed: \`O you who believe! When you rise
 up to prayer, wash your faces and your hands as far as the elbows, and
@@ -2946,9 +2944,9 @@ knowledge. This is affirmed in His words, \`Allah bears witness that
 there is no god but He, and (so do) the angels and those possessed of
 knowledge, maintaining his creation with justice; there is no god but
 He, the Mighty, the Wise. Surely the (true) religion with Allah is Islam
-... . And I am of those who bear witness to this.'  
-    
- Up to this point we have been considering the matter in relation to the
+... . And I am of those who bear witness to this.'
+
+Up to this point we have been considering the matter in relation to the
 five outward senses. In one respect, the tongue should not be included
 amongst them since it is specifically for the purpose of expression and
 speech and hence not directly to be included with the senses; but if we
@@ -2956,9 +2954,9 @@ consider it in a more general way, it is evident that it has a bearing
 on the subject of taste. Thus it can be said that from one aspect it is
 included in this subject and yet from another it is not (in which case
 the senses may be treated as one subject and the tongue as another); and
-by Allah comes success.  
-    
- The first fast with respect to the five inner or psychic senses is to
+by Allah comes success.
+
+The first fast with respect to the five inner or psychic senses is to
 abstaining from using the faculty of thought for useless matters or for
 that which is detrimental to the return of the soul and the final
 reckoning after death. The faculty of thought has only been created so
@@ -2974,9 +2972,9 @@ how he is cursed and refused entry to the door of Allah. The power and
 capacity of the faculty of the intellect is shown in Allah's words:
 \`Most surely there are signs in this for a people who reflect' and in
 the Prophet's saying: \`Reflection for a mo­ment is better than action
-for seventy years.'  
-    
- The second kind of inner fast is to abstain from employing the faculty
+for seventy years.'
+
+The second kind of inner fast is to abstain from employing the faculty
 of memory except for that for which it was created. Since the faculty of
 thought has only been created to reflect upon divine gnosis and
 intellectual knowledge and the like, things other than these should not
@@ -2984,9 +2982,9 @@ exist in its storehouse. Indeed it is forbidden for the faculty of
 memory to retain other than these things ‑ such that those in possession
 of such a faculty are referred to by Allah as \`those who keep the
 limits of Allah.' The best way to keep these limits is to employ each
-faculty in the proper way; and Allah is more Knowing and more Wise.  
-    
- The third kind of inner fast is to abstain from employing the faculty
+faculty in the proper way; and Allah is more Knowing and more Wise.
+
+The third kind of inner fast is to abstain from employing the faculty
 of imagination in that for which is not created. This faculty is
 employed, for example; in fixing in the imagination the form of a
 particular person, that is, his outward physical form and color. But
@@ -3009,9 +3007,9 @@ imagination. The truth of this may be seen if we compare the cosmic
 dimension with that of the individual souls in the light of Allah's
 words, \`We will soon show them our signs in the Universe and in their
 own souls, until it will become quite clear to them that it is the
-truth.'  
-    
- The shaykh of divine knowledge, Shams al‑Din al‑Shahruzi (author of the
+truth.'
+
+The shaykh of divine knowledge, Shams al‑Din al‑Shahruzi (author of the
 *al‑Shajarat al‑ilahiyya* or the Divine Tree) has referred these matters
 in his treatise saying: \`One should realize that everything in the
 sublime and spiritual realm has a reflection in the lower realm. Thus
@@ -3036,9 +3034,9 @@ becomes veiled from its essence. However its essence is not veiled from
 the reality of its own essence, the divine manifestation, since the
 means of manifestation cannot veil Manifestation of Him; \`yet it does
 veil the person from reflection and real perception such that he becomes
-engrossed in other things.'  
-    
- The shaykh's words, \`by its projection of images, on the one hand, and
+engrossed in other things.'
+
+The shaykh's words, \`by its projection of images, on the one hand, and
 of interpretation, on the other, and its positing of an amalgamation and
 joining of the two in addition to this' does not accord with the words
 of some of the religious scholars and the majority of the philosophers
@@ -3052,9 +3050,9 @@ that of the imaginative faculty; indeed this is perfectly possible on
 his part, man being human and as such exposed to error ‑ just as it is
 possible on our part. Only Allah knows the unseen and \`Allah is more
 Knowing and more Wise; He it is Who says the truth and guides to the
-straight path.'  
-    
- Shaykh al‑A'zam Muhyi al‑Din 'Arabi, the master of unveil­ing and pole
+straight path.'
+
+Shaykh al‑A'zam Muhyi al‑Din 'Arabi, the master of unveil­ing and pole
 of those of arrival, says something in his account of the way Divine
 Commands impinge on the realm of man which contradicts the words of
 Shahruzi: \`Know that the eye, the ear, the tongue, the hand, the
@@ -3073,9 +3071,9 @@ authority of memory and memory is subject to the authority of
 reflection,' since, if imagination were able to influence the
 interpretation as well as the projection of images, it would not have
 been subjected to memory and reflec­tion ‑ \`And as for these examples,
-We set them forth for men, and none understand them but the learned.'  
-    
- The fourth kind of inner fast is to restrain the faculty of con­jecture
+We set them forth for men, and none understand them but the learned.'
+
+The fourth kind of inner fast is to restrain the faculty of con­jecture
 from the projection of forms inimical to the self at one moment and
 things beloved of the self at another, since this only prevents the self
 from progressing along the straight path. This path, the *tawhid* of
@@ -3103,9 +3101,9 @@ reward.' Such a reward is only possible by means of a contem­plation of
 His manifestation in the cosmos and in the individual soul. The Prophet
 has indicated this when he says, \`You will see your Lord as you see the
 full moon at night.' Some of the gnostics have spoken about the secrets
-of fasting which also belong to this station.  
-    
- There are three levels of secrets with respect to the fast, the lowest
+of fasting which also belong to this station.
+
+There are three levels of secrets with respect to the fast, the lowest
 being an abstention from that which would break the fast without
 restraining his bodily limbs or organs from that which is disliked; this
 is the fast of the common people and it is known as temperance or
@@ -3120,9 +3118,9 @@ and the witnessing of Him in His manifestations; this is the fast of the
 elite of the elite and this is perfection and the sought‑after goal.
 There are numerous other descriptions of this nature and the reader is
 urged to study them from the appropriate sources; and Allah is more
-Knowing and more Wise.  
-    
- The fifth kind of inner fast is to refrain from taking notice of the
+Knowing and more Wise.
+
+The fifth kind of inner fast is to refrain from taking notice of the
 *sensus communis* which combines conjecture and imagination and which is
 constantly projecting form and meaning on to the soul. This *sensus
 communis* prevents one from advancing on the spiritual path, since
@@ -3133,9 +3131,9 @@ realm of reality and the intellect. Besides anyone who is veiled is
 veiled, be it by one single veil or a thousand. Thus it is obligatory
 upon the one fasting to abstain from this \`combined sense' so as to rid
 himself of such veils and so as to witness the Beloved in the manner we
-have described.  
-    
- The people of Allah and their elite have established that the soul is
+have described.
+
+The people of Allah and their elite have established that the soul is
 like a tree possessing ten branches. Each branch takes water as required
 from the trunk of the tree, which in turn takes up water from the earth.
 This is a natural and self‑evident phenomenon. If we then suppose that
@@ -3148,13 +3146,13 @@ cut off ‑ by severing its attachment to the world ‑ then the remaining
 branches are bound to grow bigger as a result and its fruit will be
 sublimer, profounder, finer and nobler: \`And certainly We have set
 forth to men in this Qur'an similitudes of every sort that they may
-heed.'  
-  
+heed.'
+
 
 ### iii) According to the people of haqiqah
 
-* *  
- Having established the two above‑mentioned kinds of fasting, then the
+* *
+Having established the two above‑mentioned kinds of fasting, then the
 people of this group establish this particular fast which is the fast of
 the gnostic who abstains from witnessing other than the Real whatever
 the circumstances ‑ in accordance with the judgment of the men of this
@@ -3184,36 +3182,36 @@ people of this science; this is in accordance with the words of Allah:
 Prophet's words: \`Do not give wisdom to other than the people of wisdom
 for you will be doing the wisdom an injustice, and do not prevent the
 people from obtaining it and so do them an injustice.' The poet has also
-said:  
-    
- Whoever bestows knowledge on the ignorant is throwing it away,  
- And whoever denies it of those who merit it is being unjust.  
-    
- The words of Jesus, \`Do not hang pearls around the necks of swine' are
-also an indication of this meaning.  
-    
- Just as *shirk* may be manifest or hidden, the same is true of
+said:
+
+Whoever bestows knowledge on the ignorant is throwing it away,
+And whoever denies it of those who merit it is being unjust.
+
+The words of Jesus, \`Do not hang pearls around the necks of swine' are
+also an indication of this meaning.
+
+Just as *shirk* may be manifest or hidden, the same is true of
 *tawhid,* the two being related to each other. Thus neither the prayer
-or the fast of the person of manifest *shirk* *‑ which* is the
-antithesis of divine *tawhid* ‑ nor the fast or the prayer of hidden
-*shirk* *‑ which* is the antithesis of the *tawhid* of existence ‑ is
-valid. Allah has indicated the person of hidden *shirk* with His words:
-\`Therefore whoever hopes to meet his Lord should do good deeds and, in
-the service of his Lord, he should not associate any other with Him.' If
-this were an indication of the persons of manifest *shirk,* He would
-have said simply, \`and do not associate anyone with his Lord'; since,
-however, He has said, \`in the service of his Lord,' we realize that it
-refers to the person of hidden *shirk.* Allah's words, \`And most of
-them do not believe in Allah without associating (others with Him)' also
-refer to the person of hidden *shirk.*  
-* *  
- It has been narrated that, \`the *tawhid* of a moment destroys the
+or the fast of the person of manifest *shirk ‑ which* is the antithesis
+of divine *tawhid* ‑ nor the fast or the prayer of hidden *shirk ‑
+which* is the antithesis of the *tawhid* of existence ‑ is valid. Allah
+has indicated the person of hidden *shirk* with His words: \`Therefore
+whoever hopes to meet his Lord should do good deeds and, in the service
+of his Lord, he should not associate any other with Him.' If this were
+an indication of the persons of manifest *shirk,* He would have said
+simply, \`and do not associate anyone with his Lord'; since, however, He
+has said, \`in the service of his Lord,' we realize that it refers to
+the person of hidden *shirk.* Allah's words, \`And most of them do not
+believe in Allah without associating (others with Him)' also refer to
+the person of hidden *shirk.*
+* *
+It has been narrated that, \`the *tawhid* of a moment destroys the
 unbelief *(kufr)* of seventy years and a moment's unbelief destroys
 seventy years Islam.' This is true since their coming together is
 something impossible and unimaginable, both with regard to the intellect
-and with respect to the sources of the Qur'an and the *ahadith.*  
-* *  
- Thus it is the duty of the gnostic, in the first instance, to refrain
+and with respect to the sources of the Qur'an and the *ahadith.*
+* *
+Thus it is the duty of the gnostic, in the first instance, to refrain
 from witnessing any action that is from other‑than‑Him, whatever the
 circumstances, so that he may arrive thereby at the station of the
 *tawhid* of action. It is likewise his duty to refrain from witnessing
@@ -3240,9 +3238,9 @@ greater fast than this and so there can be no other reward but Him. It
 is this which is referred to in the *ayah,* \`Most surely this is the
 mighty achievement for the like of them, so let the workers work.' It is
 also mentioned in Allah's words, \`Whoever does this seeking Allah's
-pleasure, We will give him a mighty reward.'  
-    
- The difference between the fast of the people of *tariqah* and that of
+pleasure, We will give him a mighty reward.'
+
+The difference between the fast of the people of *tariqah* and that of
 the people of *haqiqah is* that the former results in the refinement of
 behaviour and the taking on of the Attributes of Allah (affirmed in the
 words of the Prophet: \`Make your character the character of Allah'),
@@ -3260,9 +3258,9 @@ joining of the separate after the gathering ‑ and referred to in His
 words: \`And you did not smite when you smote (the enemy) but it was
 Allah Who smote' and in the words of the Prophet: \`Whoever sees me (in
 a dream) has seen the truth.' \`Glory be to Him and how great is His
-affair.'  
-    
- The people of Allah and their elite have given a striking metaphor in
+affair.'
+
+The people of Allah and their elite have given a striking metaphor in
 reply to the ignorant, who suppose their words to be untrue: \`Imagine
 the fire with the properties of light and heat and the capacity to burn
 and cook food, for example, and then imagine some charcoal which is dark
@@ -3283,7 +3281,7 @@ path. Having concluded this section on fasting in relation to the three
 different groups, we shall now begin in the same manner on the subject
 of *zakat.*
 
- 
+
 
 10) Zakat
 ---------
@@ -3292,8 +3290,8 @@ of *zakat.*
 
 ### i) According to the people of shari\`ah
 
-   
- According to the people of this group, *zakat* is obligatory on nine
+
+According to the people of this group, *zakat* is obligatory on nine
 things: camels, cows, sheep and goats, gold, silver, wheat, barley,
 dates, and dried grapes; it is not obligatory on anything other than
 these. These nine may be divided in two ways: the first division
@@ -3302,9 +3300,9 @@ full year, and the second when this does not apply. Those things for
 which the elapse of a full year is a condition are the first five
 commodities (that is, not including the grain crops and fruits), and
 those things for which the elapse of the year does not apply are the
-four latter commodities (namely the grains and the fruits).  
-    
- There are two conditions with respect to those things governed by the
+four latter commodities (namely the grains and the fruits).
+
+There are two conditions with respect to those things governed by the
 elapse of a year, one dependent upon the owner and one dependent upon
 the commodity itself. The condition dependent upon the owner is of two
 types, the first being the condition of obligation and the second
@@ -3318,9 +3316,9 @@ or animals owned, rented or held in security or trust) are two in
 number: that the person be Muslim and that he has the ability to pay the
 *zakat.* There are two conditions with respect to the com­modities
 themselves: the elapse of the year and the reaching of the *nisab* (or
-prescribed minimum levels at which the *zakat is* payable.  
-    
- With respect to those things for which no account is taken of the
+prescribed minimum levels at which the *zakat is* payable.
+
+With respect to those things for which no account is taken of the
 elapse of the year, then the conditions are two in number, the first
 being dependent upon the person upon whom the *zakat* is obligatory and
 the second dependent upon the commodity itself. As for the condition
@@ -3331,13 +3329,13 @@ sound mind). As for the condition dependent upon the commodity itself,
 it is that the full *nisab is* reached. There are numerous other studies
 of the laws governing each of these different divisions; we have no need
 for further explanation of this in a work of this nature; and Allah is
-more‑Knowing and more Wise.  
-  
+more‑Knowing and more Wise.
+
 
 ### ii) According to the people of tariqah
 
-* *  
- The *zakat* of the people of this group ‑ after the giving of the
+* *
+The *zakat* of the people of this group ‑ after the giving of the
 above‑mentioned *zakat* ‑ is the obligation upon them to purify the soul
 from the baseness of miserliness and to cleanse the heart from the filth
 of meanness. This is indicated in the words of Allah, \`And whoever is
@@ -3359,10 +3357,10 @@ spiritual traveler, be it praiseworthy or blameworthy, is also
 accompanied by other acquired qualities too many to enumerate, indeed,
 as numerous as the grains in an ear of corn ‑ thus if one grain of corn
 falls to the ground, many ears of corn are produced, each containing so
-many grains.  
-    
- With respect to the *zakat* of wealth, the following has been said:
-\`The secret of man's duty to pay *zakat* *‑ over* and above the benefit
+many grains.
+
+With respect to the *zakat* of wealth, the following has been said:
+\`The secret of man's duty to pay *zakat ‑ over* and above the benefit
 to the country as a whole, to the individual slave and to those in
 difficulty and need ‑ is that wealth is loved by mankind and mankind has
 been commanded to love Allah and has been invited to do so with the same
@@ -3380,9 +3378,9 @@ poor person. The reason for this is that you consider yourself more
 excellent than him. Therefore Allah warns, \`Do not make your charity
 worthless by reproach and injury.' The cure for this is to realize that
 in fact the poor person is doing a kindness to you in accepting what
-Allah has made a right for, him from you.  
-    
- Among the secrets of zakat is that it cleanses the heart and purifies
+Allah has made a right for, him from you.
+
+Among the secrets of zakat is that it cleanses the heart and purifies
 it from miserliness and the degradation of meanness. If, however, you
 cleanse the heart of these qualities but render it full of conceit and
 haughtiness and thereby cause harm to others, then it is as if you have
@@ -3401,9 +3399,9 @@ that when you have a vein bled and the blood which you fear will cause
 you worldly harm flows out, was there not an unnecessary excess of blood
 within you? Thus that which draws out meanness together with the harm it
 would cause in the next world is even more of a noxious excess than the
-blood.  
-    
- Up to this point we have been considering the matter with respect to
+blood.
+
+Up to this point we have been considering the matter with respect to
 the outer realm. If we now consider the matter with respect to the
 inner, since the people of tariqah do not possess any wealth on which to
 pay zakat, their zakat is paid by the purification of their selves of
@@ -3435,9 +3433,9 @@ in the self, that is, he experiences the highest level of witnessing and
 he also gains the Garden with its blessings and palaces in the
 hereafter. Above all this is the arrival at the Beloved and at the
 ultimate goal and attainment of what no eye has seen, no ear has heard
-and what the heart of man has never thought of.'  
-    
- Allah refers to the persons of this station when He says, \`Surely
+and what the heart of man has never thought of.'
+
+Allah refers to the persons of this station when He says, \`Surely
 those who guard (against evil) shall be in gardens and rivers, in the
 seat of honour with a most Powerful King' and also his words, \`It is
 not righteousness that you turn your faces to the east and the west, but
@@ -3450,9 +3448,9 @@ promise when they make a promise, and the patient in distress and
 affliction and in time of conflicts ‑ these are true (to themselves) and
 these are they who guard (against evil).' The above *ayah* refers to all
 the persons of this group and in particular defines the nature of'
-righteousness which is the goal of this station.  
-    
- Another aspect of this station concerns the fact that *zakat,*
+righteousness which is the goal of this station.
+
+Another aspect of this station concerns the fact that *zakat,*
 according to the law of the *shari\`ah, is* payable with respect to the
 mineral, vegetable and animal kingdoms, the gold and silver belonging to
 the realm of the mineral, the wheat, barley, dates and dried grapes to
@@ -3501,9 +3499,9 @@ important as an example of the Prophet's guidance and instruc­tion for
 the rest of his people out of his concern that they should also share
 such stations. If this were not so, then this supplication would have no
 meaning, given that the Prophet is infallible and free from all
-impurities.  
-    
- The above remarks may also be applied to the three kinds of soul rather
+impurities.
+
+The above remarks may also be applied to the three kinds of soul rather
 than the body and its physical members. Just as there exists in man the
 three kingdoms on a cosmic level, so there also exists the soul of the
 mineral realm, the soul of the vegetable realm and the soul of the
@@ -3542,13 +3540,13 @@ beneficial and what is evil. When this quality becomes an integral
 characteristic of the soul, it thereby witnesses the world of the
 unseen. In this way it merits a witnessing of its Lord and becomes
 tranquil and is able to return to its own world. How good is the *zakat*
-whose fruit is such a return; and Allah is more Knowing and more Wise.  
-  
+whose fruit is such a return; and Allah is more Knowing and more Wise.
+
 
 ### iii) According to the people of haqiqah
 
-* *  
- The *zakat* of this group is established after their fulfillment of the
+* *
+The *zakat* of this group is established after their fulfillment of the
 two above‑mentioned types of *zakat.* Their particular *zakat* refers to
 the removal of the awareness of limitation from everything in existence
 and causing each to arrive at the world of the unrestricted or absolute,
@@ -3577,9 +3575,9 @@ level of the pure intelligences. From these latter it is caused to
 arrive at the Presence of Oneness and Absolute Existence or Reality.
 This releasing from limitation and particularity is the true
 purifi­cation and the universal *zakat* in relation to every existence
-from among the existent beings in the realm of the possible.  
-    
- We have already shown how the perfection of the mineral is its arrival
+from among the existent beings in the realm of the possible.
+
+We have already shown how the perfection of the mineral is its arrival
 at the realm of the vegetable, and the perfection of the vegetable is
 its arrival at the station of the animal, and the perfection of the
 animal is its arrival at the station of man, and the perfection of man
@@ -3595,25 +3593,25 @@ and contingent phenomena is the greatest and sublimest of purifications;
 indeed it is the ulti­mate purpose of Allah's imposition of zakat on His
 slaves. We ask Allah to give us success in arriving at this station of
 *zakat* and similar stations; He it is from Whom the slaves seek help
-and on Whom they rely.  
-  
+and on Whom they rely.
+
 
 11 ) Hajj (pilgrimage)
 ----------------------
 
- 
+
 
 ### i) According to the people of shari\`ah
 
-* *  
- According to the people of this group, the word *hajj* refers to the
+* *
+According to the people of this group, the word *hajj* refers to the
 journey towards the actual goal of the *hajj* itself. According to the
 law of the *shari\`ah,* it specifically refers to the journey to­wards
 the House of Allah, the Haram, in order to perform the prescribed rites
 at the prescribed time; and there are two legal divisions to the term:
-the obligatory and the recommended.  
-    
- The obligatory is of two types, the absolute and the restricted. As for
+the obligatory and the recommended.
+
+The obligatory is of two types, the absolute and the restricted. As for
 the absolute, it is the pilgrimage of Islam, which is obligat­ory when
 eight conditions are fulfilled: that the person has reached puberty, is
 of perfectly sound mind, is a free man, is healthy, that the provision
@@ -3641,19 +3639,19 @@ intention of fulfilling a vow, then this may be counted as the Islamic
 *hajj* (or the main *hajj,* obligatory once in a lifetime); the first of
 these judgments is surer as a precautionary measure. A vow should not be
 made except by a free person of perfectly sound mind; the rest of the
-conditions, however, need not be fulfilled.  
-    
- There are three kinds of *hajj: tamattu ; qiran* and *ifrad.* The *hajj
+conditions, however, need not be fulfilled.
+
+There are three kinds of *hajj: tamattu ; qiran* and *ifrad.* The *hajj
 tamattu\` is* obligatory on whoever has no family resident in the
 proximity of the Haram Mosque. The *ifrad* and *qiran* pilgrimage are an
 obligation on persons residing in the proximity of the Haram: the
 prescribed distance is twelve miles between the per­son's residence and
 the Haram Mosque, extending in all four directions from the House; this
 is equivalent to four *farasikh,* each *farsakh* (parasang) being four
-thousand cubits and each cubit being of twenty‑four inches.  
-    
- There are two types of action undertaken during the *hajj,* those which
-are obligatory and those which are *sunnah* *‑ after* the example of the
+thousand cubits and each cubit being of twenty‑four inches.
+
+There are two types of action undertaken during the *hajj,* those which
+are obligatory and those which are *sunnah ‑ after* the example of the
 Prophet. There are two divisions to what is ob­ligatory: that which is a
 pillar and that which is not, and they apply to all these
 above‑mentioned kinds of *hajj.* The pillars of the tamattu\` *hajj* are
@@ -3680,9 +3678,9 @@ cycles of prayer. As for the pillars of the *qiran and* the ifrad
 pilgrimages they are six in number: the intention, the donning of the
 ihram, the standing at the places of the rites and sacrifice, the tawaf
 of the visit (to the Ka'bah) and that of running between Safa and
-Marwah.  
-    
- The things other than the pillars with respect to these two types of
+Marwah.
+
+The things other than the pillars with respect to these two types of
 *hajj* are four in number: the *talbiyah* or whatever takes its place ‑
 when the animal is garlanded at the prescribed rites and sacrifice ‑ and
 the two cycles of prayer for the *tawaf* of the visit and the *tawaf* of
@@ -3693,13 +3691,13 @@ renew the *talbiyah* while beginning each *tawaf.* The things which are
 *sunnah* are many in number and may be learned from the appropriate
 books; and may peace be on those who follow the guidance. Herewith we
 conclude the section the *hajj* of the people of *shari\`ah* according
-to the manner of the Shiahs.  
-  
+to the manner of the Shiahs.
+
 
 ### ii) According to the people of tariqah
 
-* *  
- The *hajj* of this group occurs after the establishment of the
+* *
+The *hajj* of this group occurs after the establishment of the
 above­mentioned *hajj,* this *hajj* refers to journeying towards the
 real House of Allah and the inner Ka'bah by means of spiritual
 wayfaring. According to this group, the House of Allah has dif­ferent
@@ -3712,9 +3710,9 @@ also known, for example, as the rational individual soul. The first is
 related to the people of *haqiqah* since it is their *qiblah;* the
 second is related to the people of *tariqah,* for it is also their
 *qiblah* (We shall consider the journey of the people of *haqiqah* after
-our present discussion).  
-    
- To understand the manner of journeying towards the *qiblah* of the
+our present discussion).
+
+To understand the manner of journeying towards the *qiblah* of the
 people of *tariqah,* which is their journeying towards their own heart,
 a preliminary: introduction is necessary. It has been narrated that the
 first house to extend over the water and to appear on the surface was
@@ -3766,9 +3764,9 @@ Ka'bah within the heart of the lesser man. This is affirmed in Allah's
 words: \`We will soon show them Our signs in the Universe and in their
 own souls until it will become quite clear to them that it is the
 truth.' Up to this point we have been considering the matter in a
-general way: we shall now look at it in more detail.  
-    
- The Universal Soul, which is known as the Greater House of Allah,
+general way: we shall now look at it in more detail.
+
+The Universal Soul, which is known as the Greater House of Allah,
 occupies a position above that of all other things. Allah's words, \`And
 He it is Who created the heavens and the earth in six periods and His
 throne (dominion) extends on the water' also demonstrate that the Throne
@@ -3781,9 +3779,9 @@ sphere of the Atlas, the ninth sphere, then what is meant by water is
 the phenomenal water, according to one of the commen­tators, namely
 Nasir al‑Din Baydawi; this, he says, is because since there is no
 obstacle between the throne and the water, it is possible to say that it
-is above or on it.  
-    
- If we now consider the matter from another point of view, then it can
+is above or on it.
+
+If we now consider the matter from another point of view, then it can
 be said that water is the divine knowledge on which everything has
 always been firmly established ‑ and will con­tinue likewise forever. It
 is specifically referred to as the Throne because of its vastness and
@@ -3805,9 +3803,9 @@ correspondence between the cosmic world and that of the individual
 souls. The beginning of the microcosm and its creation in the realm of
 form was from water, that is the drop of sperm, and the microcosm is a
 model for the macrocosm in all aspects. Thus it follows that the latter
-must also have been created from water.  
-    
- The Prophet's words: \`during the creation of the heavens' is an
+must also have been created from water.
+
+The Prophet's words: \`during the creation of the heavens' is an
 indication of the priority of the spiritual realities over the corporeal
 realities. His words, \`a thousand years before the earth' is an
 indication that Allah created the Universal Soul, that is, the Ka'bah of
@@ -3835,12 +3833,12 @@ especially given the fact that there are *ahadith* and *ayat* from the
 Qur'an which testify to the truth of this matter. The words, \`And it
 was a white foam on the surface of the water' is an indication of the
 purity of the Universal Soul and its transparency and subtlety in
-relation to the other realities of the angelic realm *(malakut)* *‑*
-which lies beneath it and is referred to as the water. This is so since
+relation to the other realities of the angelic realm *(malakut) ‑* which
+lies beneath it and is referred to as the water. This is so since
 every­thing which is of a higher position, whether it is spiritual or
-corporeal, is finer and subtler.  
-    
- As for the correspondence of the House of Allah to the lesser man in
+corporeal, is finer and subtler.
+
+As for the correspondence of the House of Allah to the lesser man in
 the light of the above‑cited *hadith,* the appearance of the Ka'bah on
 the surface of the water may symbolize the attachment of the soul to the
 sperm in the creation of man, otherwise the words may be interpreted at
@@ -3859,9 +3857,9 @@ world of the unseen and the world of the Divine Command. The words,
 meant here is that when the soul is directed to the sperm, the body
 extends in accordance with the judgment and command of the soul until
 the station of man's form comes into being as a result of the joining of
-these two.  
-    
- The bodily limbs and parts all turn in the direction of the heart so
+these two.
+
+The bodily limbs and parts all turn in the direction of the heart so
 that they may attain to their goal and the knowledge appropriate to
 them. The blessed Bakkah in the above‑cited *ayah* symbolizes the breast
 which surrounds the heart in the same way as Makkah encompasses the
@@ -3901,9 +3899,9 @@ path and from fulfillment of its rites, then \`surely Allah is
 Self‑Sufficient, above any need of the worlds'. Anyone who relies solely
 on Allah in his travelling along this path and who progresses thereon
 with complete devo­tion will be guided to the straight path in the
-direction of the inner House of Allah.  
-    
- Up to this point we have been examining the *hajj* of spiritual travel
+direction of the inner House of Allah.
+
+Up to this point we have been examining the *hajj* of spiritual travel
 in relation to the self; we shall now begin on the subject of the *hajj*
 of the cosmic realm and the perception of the realities of the angelic
 realm *(malakut)* and the realm of Absolute Domin­ion *(jabarut)* and
@@ -3942,17 +3940,17 @@ wisdom, chastity, courage, justice, generosity and humility. The person
 then prays the prayer of gratitude at the station of Abraham in the
 realm of the intellect and is thereby brought to this station, by the
 purity of spiritual capacity and the vision which opens to him from his
-fear ofAllah.  
-    
- The person then runs between Safa and Marwah, that is, he travels
+fear ofAllah.
+
+The person then runs between Safa and Marwah, that is, he travels
 between the world of the outer and that of the inner in order to witness
 his Beloved in them both and to examine the signs contained in them
 both, in accordance with Allah's words, \`Is it not sufficient as
 regards your Lord that He is a witness over all things?' Now surely they
 are in doubt as to the meeting of their Lord; now surely He encompasses
-all things.'  
-    
- He then cuts his hair at Marwah, that is, he causes to fall from his
+all things.'
+
+He then cuts his hair at Marwah, that is, he causes to fall from his
 head any remaining trace of I‑ness or duality; in doing so, he comes out
 of the state of *ihram* (ritual purity) and the actions of the
 *\`umrah,* (the lesser pilgrimage) which are analogous to the ablution
@@ -3967,7 +3965,7 @@ caliph and has the authority to command and prohibit.
 
 The reader should take great care to understand this point: by it one
 may obtain gnosis of the station of prophethood and saintliness
-*(wilayah)* *‑ since* after the Truth, there is no other source of
+*(wilayah) ‑ since* after the Truth, there is no other source of
 authority but them. He then takes on another *ihram* (the pilgrim's
 apparel) from the presence of the intellect which lies beneath the
 water‑course of the heart. (The intellect is a water‑course in relation
@@ -3975,9 +3973,9 @@ to the heart since wisdom flows from the sea of the heart by way of the
 water‑course of the intellect. Hence the words of the Prophet \`Whoever
 devotes forty mornings to Allah, springs of wisdom will appear from
 within his heart,' that is, on the tongue of the intellect which is the
-interpreter of the heart.)  
-    
- He then makes his way to the \`Arafat of the mind and the mountain of
+interpreter of the heart.)
+
+He then makes his way to the \`Arafat of the mind and the mountain of
 gnosis, in order to gaze on the signs, gnoses and realities thereabout;
 this is so since the mind in relation to the body is sometimes like the
 mount of Abu Qabis or the Mount of Hira' and sometimes like the Throne
@@ -3986,9 +3984,9 @@ gnoses descend between the spiritual Adam, which is the soul or spirit,
 and Eve, the Universal Soul. It is for just this reason that this
 station is called 'Arafat (from the Arabic root *\`arafa* meaning
 knowledge); this is affirmed in the words of the Prophet, \`Whoever
-knows himself knows his Lord.'  
-    
- The person then returns to the place of the rites and sacrifice, that
+knows himself knows his Lord.'
+
+The person then returns to the place of the rites and sacrifice, that
 is, he stands in the proximity of his own feelings and sensa­tions both
 in the realm of form and inner meaning, in order to gaze upon the state
 of each one of them and to cause each to brought under the authority of
@@ -4000,9 +3998,9 @@ follow the rebellious Satan of passion and desire. If they come under
 the authority of the Lord and are obedient to that which He has ordered,
 then they become obedient to the tranquil soul and follow the intellect:
 the intellect then becomes the emir and ruler in the city and region of
-the senses.  
-    
- Then the person returns to Mina, to the realm of the breast and the
+the senses.
+
+Then the person returns to Mina, to the realm of the breast and the
 heart, in order to throw the stones of his own blamewor­thy and base
 qualities of behaviour at the three *jamrat'* (places of the devil),
 that is, the three realms of the mineral, vegetable and animal. This
@@ -4024,9 +4022,9 @@ the head of his self so that action, power and strength are per­ceived
 as coming from Allah (which is a higher station than the first cutting
 of the hair). He then continues towards the removal of the veils of the
 sacrifice of his self once more, such that no name or trace remains of
-his self.  
-    
- Then he goes back to the Ka'bah to perform the second *tawaf.* What
+his self.
+
+Then he goes back to the Ka'bah to perform the second *tawaf.* What
 this means is that he inspects his heart once again in order to purify
 it from the impurity of seeing otherness in any way. This is the station
 contained in the saying of the Prophet, \`Surely trouble and vexation
@@ -4037,9 +4035,9 @@ he must seek forgiveness of Allah. The only wrong action of the people
 of this group in their traveling along this spiritual path is the
 witnes­sing of otherness, even if it is only be !for a moment and this
 occurs when the world of man and the corresponding force of the animal
-soul overcomes this spiritual station.  
-    
- Then he goes on to pray two cycles in the station of Abraham, in
+soul overcomes this spiritual station.
+
+Then he goes on to pray two cycles in the station of Abraham, in
 gratitude for his arrival at the Beloved and at his goal. He then runs
 once more, that is between the Safa of the world of the soul and the
 Marwah of the world of corporeality, or we may say between the Safa of
@@ -4065,31 +4063,31 @@ above‑mentioned realms, that is, in the Muhammadi *tawhid* of
 gatheredness. It is this that is the goal of the *hajj* in the realm of
 meaning according to the masters of *tariqah.* If this is clear to the
 reader we shall now begin on a commentary of the *hajj* of the people of
-*haqiqah.*  
+*haqiqah.*
 * *
 
 ### iii) According to the people of haqiqah
 
-* *  
- The *hajj* of the people of this group refers to the spiritual journey
+* *
+The *hajj* of the people of this group refers to the spiritual journey
 in the esoteric realm towards the heart of the Great Man, which is the
 Greater House of Allah, also known as the *Bayt al‑Ma \`mur,* the
 Presence of Sanctity and the Universal Soul ‑ just as the *hajj* of the
 people of *tariqah* refers to the journey towards the heart of the
 lesser man or microcosm. An explanation of this requires some
 introductory explanation, including the commentary of one of the
-gnostics with regard to the correspondence between the two worlds.  
-    
- Know that just as the sultan of the individual soul, the soul of the
+gnostics with regard to the correspondence between the two worlds.
+
+Know that just as the sultan of the individual soul, the soul of the
 lesser man, resides only in the brain, so too the sultan of the
 Universal Soul, the soul of the Great Man ‑ also called the world ‑
 resides only in the Throne which is analogous to the brain in relation
 to us just as its first manifestation in the lesser man is the
 phenomenal heart, the source of life, so too its first manifestation in
 the Great Man is the fourth planetary sphere, the sphere of the sun and
-the source of life in this world.  
-    
- As for the heart in the realm of reality, it is the Universal Soul,
+the source of life in this world.
+
+As for the heart in the realm of reality, it is the Universal Soul,
 also called the Preserved Tablet, the Clear Book and the Real Adam,
 referred to in the words of Allah, \`O people! Be careful of (your duty
 to) your Lord, Who created you from a simple being and created its mate
@@ -4114,9 +4112,9 @@ swollen sea' is the sea of the substance, flowing full of forms; it is
 possible that it is the world of the first interspace, composed of the
 worlds of the soul and the body, also called the Absolute Imagination
 and full of the forms of all existent beings. We shall now begin to
-explain this matter again in more detail.  
-    
- The meaning of the *hadith* \`The Ka'bah was the first house...' has
+explain this matter again in more detail.
+
+The meaning of the *hadith* \`The Ka'bah was the first house...' has
 already been discussed in the section concerning the *hajj* of the
 people of the *tariqah,* namely that the Ka'bah is the Universal Soul,
 also known as the Greater House of Allah. The appearance on the surface
@@ -4126,9 +4124,9 @@ is above anything else is of necessity on top of it and thus there is no
 doubt that the Universal Soul is above the individual souls and so it
 may also be said to be on top of them. The *ayah,* \`And He it is Who
 created the heavens and the earth in six periods ‑ and His dominion
-(extends) on the water' also points to this same meaning.  
-    
- It may be said that the water refers to the universal substance which
+(extends) on the water' also points to this same meaning.
+
+It may be said that the water refers to the universal substance which
 is analogous to the water in relation to the Universal Soul. It is also
 possible that it refers to a time before the split took place when
 things were still in the closed‑up state. This state of being closed, in
@@ -4146,9 +4144,9 @@ Presence of Oneness in relation to itself, before its subsequent
 manifestations, and to the esoteric realities hidden in the Essence of
 Oneness before separation; there are many examples of this, one among
 them being the likeness of the tree which is contained as a latent force
-within the seed.  
-    
- Whoever disbelieves in this *hajj,* who does not perform it and does
+within the seed.
+
+Whoever disbelieves in this *hajj,* who does not perform it and does
 not aver its validity, then he is of the *mushrikun,* the people who
 associate others with Allah, the people who are veiled ‑ surely Allah
 has no need of such people, be they man or jinn or from wherever they
@@ -4178,9 +4176,9 @@ own soul and whoever will be blind, it shall be against himself and I am
 not a keeper over you.' We shall conclude this particular topic at this
 point, although there are many other matters which may be taken into
 consideration. We shall now begin a detailed study of the nature of the
-pilgrimage, the manner of its performance and the arrival at the goal.  
-    
- Know that whoever wants to go and visit this house, that is, to arrive
+pilgrimage, the manner of its performance and the arrival at the goal.
+
+Know that whoever wants to go and visit this house, that is, to arrive
 therein, it is incumbent upon him in the first instance to take upon
 himself the *ihram,* namely the prohibition upon himself against
 witnessing the world of the sensory or the material forms and all the
@@ -4203,9 +4201,9 @@ as the First Intellect and the greater soul. The person prays therein
 two cycles of prayer out of gratitude for his arrival at that presence.
 These two cycles of prayer are an expression of his annihilation, in the
 first instance from the outer world and in the second from the inner
-world and all contained therein, including even himself.  
-    
- He then goes to the place of running between Safa and Mar­wah, between
+world and all contained therein, including even himself.
+
+He then goes to the place of running between Safa and Mar­wah, between
 the two worlds of the outer and inner, in order to perceive them once
 more by means of his running and striving; he eliminates any vision of
 multiplicity by perceiving every thing contained therein as the
@@ -4225,9 +4223,9 @@ sublime station and the ultimate goal.' The person does the cutting at
 Marwah, that is the elimination of the world of the outer and the end of
 multiplicity by removing from himself any trace of duality and the
 seeing of otherness. This then is the completion of the actions of the
-*\`umrah* of *tamattu \`* within this hajj.  
-    
- He then makes for the Ka'bah once again in order to witness the
+*\`umrah* of *tamattu \`* within this hajj.
+
+He then makes for the Ka'bah once again in order to witness the
 Universal Soul and to apprise himself of its realities and to take the
 *ihram* of *haj,* beneath the water‑course of the intellect in the
 above‑mentioned manner. He then moves to the station of the 'Arafat of
@@ -4262,9 +4260,9 @@ accordance with the reply of the Shaykh Junayd when asked about the
 meaning of the end: \`It is a return to the beginning.' It is this that
 is the secret of the return of the one who is performing the *hajj* from
 'Arafat to Mina; indeed there are still more secrets beyond those
-revealed here.  
-    
- He then returns to Mina, the world of multiplicity, that is, the world
+revealed here.
+
+He then returns to Mina, the world of multiplicity, that is, the world
 of rites and sacrifice in the realm of the spheres, the planet­ary
 bodies, the elements and the three kingdoms; he perceives them with the
 perception of Oneness and he witnesses them as divine manifestations
@@ -4285,9 +4283,9 @@ killed in Allah's way are dead; nay, they are alive and are provided
 sustenance from their Lord' and His words, \`Is he who was dead then We
 raised him to life and made for him a light by which he walked among the
 people like him whose likeness is that of one in utter darkness, whence
-he cannot come forth?'  
-    
- He then shaves the head of his self from love of this world and its
+he cannot come forth?'
+
+He then shaves the head of his self from love of this world and its
 pleasures; he shaves it such that he hardly returns to the world at all.
 The goal is to remove any belief in the reality of this world, since an
 investigation of this world reveals that it is nothing but pure
@@ -4297,9 +4295,9 @@ Prophet, \`This world is maintained in existence by illusion' and in the
 words of the Imam, \`The destruction of what is imaginary comes with the
 sobriety of the Known'. Jesus has said: \`O seeker of this world, to
 behave cor­rectly therein is to abandon it; this is more correct
-behaviour, this is more correct.'  
-    
- He then returns from this station to the station of abiding in Allah
+behaviour, this is more correct.'
+
+He then returns from this station to the station of abiding in Allah
 after the annihilation. He also makes another *tawaf* of the Ka'bah,
 that is, he perceives it again from seven directions as demanded by the
 source of his own soul, that is the seven levels of his coming into
@@ -4313,9 +4311,9 @@ taking on of the attributes in the annihilation from all existence and
 one for his abiding in Allah after this annihilation. Moreover, the
 *\`Id* prayer must be performed in a place specially reserved for this
 purpose, which is the station of Oneness in the realm of reality. The
-reader should mark this point well as it is subtle in character.  
-    
- He then returns to Mina and the world of multiplicity within the three
+reader should mark this point well as it is subtle in character.
+
+He then returns to Mina and the world of multiplicity within the three
 realms of the mineral, vegetable and animal; therein are three divine
 days for the perfection of higher aspirations: it is station of the
 final goal and ultimate aim of the spiritually noble. The following ayah
@@ -4325,20 +4323,20 @@ religion.' We ask Allah to grant us arrival to the like of this *had* by
 the truth of the Real. Herewith we conclude the commentary on the *hay*
 of the people of *haqiqah.* We shall now begin with subject of *jihad;*
 and praise belongs to Allah alone and it is from Him that all help is
-sought and in Whom the people trust.  
-    
-  
+sought and in Whom the people trust.
+
+
 
 12) Jihad
 ---------
 
-* *  
+* *
 * *
 
 ### i) According to the people of shari\`ah
 
-* *  
- According to the people of this group, the *jihad* (striving in the way
+* *
+According to the people of this group, the *jihad* (striving in the way
 of Allah or holy war) is one of the obligations of Islam, that is, it is
 an obligation of communal responsibility, so that if it is only
 performed by some, the obligation ceases to be binding on the rest.
@@ -4351,9 +4349,9 @@ represents him. If one of these conditions is not fulfilled, then there
 is no longer any obli­gation. The disbelievers against whom the *jihad*
 is obligatory are of two kinds. The first are those whom one must fight
 until they surrender or are killed or until. they accept the *jizyah*
-tax.  
-    
- As for the second kind, the *jizyah is* not accepted of them and they
+tax.
+
+As for the second kind, the *jizyah is* not accepted of them and they
 are fought until they surrender or are killed. If the *jizyah* is
 accepted then there is no fixed amount to be exacted according to the
 soundest opinion; rather the amount is to be determined by those of the
@@ -4370,13 +4368,13 @@ Islam, by way of the science of *tawhid,* justice and the establishment
 of the pillars. If they refuse to accept all or any of these things,
 then it is permitted to fight them. The person entrusted with inviting
 them to Islam should be the Imam or whoever is delegated by him; and
-Allah is more Knowing and more Wise.  
-  
+Allah is more Knowing and more Wise.
+
 
 ### ii) According to the people of tariqah
 
-* *  
- The *jihad* of this group refers to the *jihad* or the struggle against
+* *
+The *jihad* of this group refers to the *jihad* or the struggle against
 the self in accordance with the saying of the Prophet, \`We have
 returned from the lesser *jihad* to the gre0er *jihad.'* What is meant
 by the lesser *jihad is* fighting of unbelievers and the greater *jihad*
@@ -4417,9 +4415,9 @@ surely with the doers of good', and His saying that it is \`for Us'
 indicates that if the struggle against the self is not for Allah and in
 His way, then it is of no use and will not cause the person to enter the
 Garden and will not be a cause of guidance to Allah and to His straight
-path.  
-    
- The Shaykhs are agreed that the spiritual wayfarer should be prevented
+path.
+
+The Shaykhs are agreed that the spiritual wayfarer should be prevented
 from traveling the path on his own without a shaykh of perfection. These
 shaykhs, by their perception of the realities of gnosis, by their
 knowledge of the stations and the manner in which each may be crossed
@@ -4456,12 +4454,12 @@ self‑evident and there is no need for any other rational proof': We
 therefore ask Allah by His grace for protection from this downward
 movement towards the lowest level of the natural world, that is the
 level of Gehenna, known as \`the lowest of the low' in the Qur'an. The
-following versed ?'scribes this kind of self  
-    
- If the self is neglected, then it keeps company with mean­ness,  
- And if it is urged on then, it longs for nobler qualities.  
-    
- We have already discussed the manner in which the self as­cends from
+following versed ?'scribes this kind of self
+
+If the self is neglected, then it keeps company with mean­ness,
+And if it is urged on then, it longs for nobler qualities.
+
+We have already discussed the manner in which the self as­cends from
 its level of \`commanding to evil' to the \`reproachful' and from there
 to the \`inspired' and finally to the station where it is tranquil or
 \`at rest'; it then goes on from this station to the Divine Presence by
@@ -4473,9 +4471,9 @@ and guidance of the Prophet, the Imam or the shaykh without any further
 argu­ment. There are other secrets connected with the manner of arrival,
 although it would not be appropriate to include them here; we shall
 mention them, if Allah wills, at the end of the work in the final
-instructions.  
-    
- The *jihad* of the people of *tariqah is* the struggle against the self
+instructions.
+
+The *jihad* of the people of *tariqah is* the struggle against the self
 and nothing else. Such people are always in a state of struggle and they
 never forget their vigilance even for a moment. Just as *jihad is* a
 communal obligation for the people of the *shari\`ah, so* for the people
@@ -4483,13 +4481,13 @@ of this group it is an individual obligation, such that no one can
 perform it on one's behalf, and with them it is the first of
 obligations. This because it is impossible to set out on this path
 without it ‑ and thus we arrive at the desired conclusion of our
-argument.  
-  
+argument.
+
 
 ### iii) According to the people of haqiqah
 
-* *  
- The *jihad* of the people of this group refers to their struggle
+* *
+The *jihad* of the people of this group refers to their struggle
 against the theorising of the intellect: their struggle is overcoming
 its doubts and misgivings. This speculative intellect is always
 restricted to contingencies. What is desired, indeed, the constant goal,
@@ -4506,14 +4504,14 @@ Lordship. It is for this reason that the gnostic has said the following,
 which is not understood by the speculative intellect and its theorizing
 because it is a science based on divine unveiling: \`It is a science
 whereby one may know the source of the world of forms which receives the
-souls.' Thus Fakr al‑Din al‑Razi has said:  
-    
- The ultimate perception of the intellect is limited  
- And most men's striving is misguided.  
- We will never benefit from our investigations throughout our life,  
- Whether we fill it with argument or speculation.  
-    
- On investigation we realize that intellect is to divine yearning as the
+souls.' Thus Fakr al‑Din al‑Razi has said:
+
+The ultimate perception of the intellect is limited
+And most men's striving is misguided.
+We will never benefit from our investigations throughout our life,
+Whether we fill it with argument or speculation.
+
+On investigation we realize that intellect is to divine yearning as the
 faculty of conjecture is to the intellect: conjecture is never able to
 arrive at the level of perception of divine yearning and its gnoses;
 rather it usually seeks to deny it and obstruct its influence, just as
@@ -4548,9 +4546,9 @@ harmony with the intellect, then there was no need for the prophets in
 the first place; if, however, they brought a message which was in
 opposition to the intellect, then they are not prepared to accept this
 message, arguing that their intellects are sufficient to find the best
-and most beneficial manner of living.  
-    
- However, all these claims are incorrect. If the intellect were
+and most beneficial manner of living.
+
+However, all these claims are incorrect. If the intellect were
 sufficient we would have no need of the revealed Books and the
 messengers; indeed the revelation of such Books and the sending of these
 messengers would be an act of jest and we have already shown that Allah
@@ -4573,9 +4571,9 @@ absent, whatever the circumstances, for just as the Muslims are always
 fighting the unbelievers in the different regions of the earth with the
 literal sword, so those who affirm the oneness of Allah are also
 constantly striving against the philosophers and brahmins in the
-different regions of the world with the symbolic sword.  
-    
- The *jihad* of the people of the *haqiqah is* thus the struggle against
+different regions of the world with the symbolic sword.
+
+The *jihad* of the people of the *haqiqah is* thus the struggle against
 the scholars of the intellect to destroy their dubious arguments and
 reject their misgivings; they strive to make them abandon intellectual
 speculation that they may follow the true way of tasting and divine
@@ -4589,9 +4587,9 @@ result of the second is the journeying towards Allah by means of a sound
 intellect and the following of His command both outwardly and inwardly,
 after freeing oneself from manifest idolatry. It is exactly this which
 Allah intends by the term *jihad* since the goal of the literal *jihad*
-is also the figurative *jihad.*  
-* *  
- Allah mentions those who struggle to establish the proof of Allah,
+is also the figurative *jihad.*
+* *
+Allah mentions those who struggle to establish the proof of Allah,
 saying they are above those of His slaves who are guilty of associating
 others with Him *(shirk):* \`Allah has made the striv­ers with their
 property and their persons to excel the holders back a (high) degree and
@@ -4603,9 +4601,9 @@ meant by \`the holders back' are those who abandon these two kinds of
 *jihad* by way of those two things. Allah also refers to them in His
 words, \`And whoever does this seeking Allah's pleasure, We will give
 him a mighty reward.' We ask Allah to make us of those strivers by His
-grace and generosity.  
-    
- As for our promise to describe the rest of the secrets of spiritual
+grace and generosity.
+
+As for our promise to describe the rest of the secrets of spiritual
 travel, secrets which are instrumental in bringing the traveler to the
 Real, His Sacred Presence and the worlds of light, then we would say the
 following: to accustom the self to beneficial things and to acquire the
@@ -4656,8 +4654,8 @@ station of the spiritual wayfarers we have fulfilled the promise made
 earlier in the book. It should be remembered, however, that these paths
 to Allah, as the Messenger has said, are \`as many as the souls of
 creation' and they multiply or diminish in relation to one's intimacy or
-distance from the Beloved.  
-  
+distance from the Beloved.
+
 
 [^1]: It has also been said that this means that the life of all things
 is (by means of water); this however is not permissible with regard to
