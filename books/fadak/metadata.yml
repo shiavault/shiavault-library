@@ -1,0 +1,18 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/fadak-allamah-sayyid-saeed-akhtar-rizvi
+author: Allamah Sayyid Sa'eed Akhtar Rizvi
+publisher: Bilal Muslim Mission of Tanzania
+title: Fadak
+slug: fadak
+uuid: 99c2502d-f112-42ef-b0cf-111ffee7d7e0
+description: |
+  A brief perspective on the history of Fadak and its forced possession by
+  the caliphate written by Allamah Sayyid Sa'eed Akhtar Rizvi
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/fadak-allamah-sayyid-saeed-akhtar-rizvi/fadak
+  title: Fadak
+  slug: 1-fadak
+  uuid: 34c1ba51-6260-408a-89c0-b16d3d273298
+---

@@ -1,0 +1,166 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi
+author: Muhammad Mehdi Taaj Langroodi
+publisher: Ansariyan Publications - Qum
+translator: Ali Akbar Aghili Ashtiani
+title: Ethics of The Prophets
+subtitle: Ethos of Prophets from Adam to Khaatam
+slug: ethics-of-the-prophets
+uuid: e9571e42-39d6-4c08-9fae-fe5400f079b2
+description: |
+  This book shows some events that reveal the high traits and the wise
+  behaviors of the prophets. It shows examples and lessons of the
+  mannerism of the prophets.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/publishers-note
+  title: Publisher’s Note
+  slug: 1-publisher-s-note
+  uuid: 6b5075fe-eb6c-42c4-acd0-9c99542d2688
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/translators-note
+  title: The Translator’s Note
+  slug: 2-the-translator-s-note
+  uuid: f5c90da2-9c1e-4acd-8841-d2bfab228836
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: df50a8d5-c0c5-4954-ad71-892729da3b64
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/1-ethos-prophet-adam
+  title: 1. The Ethos Of Prophet Adam
+  slug: 4-1-the-ethos-of-prophet-adam
+  uuid: 1f101da9-59ee-4b6d-98e3-bca650214f57
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/2-ethos-prophet-sheth
+  title: 2. The Ethos Of Prophet Sheth
+  slug: 5-2-the-ethos-of-prophet-sheth
+  uuid: 96d518a4-9324-485b-8fbc-9f294569b8c9
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/3-ethos-epoch-prophet-idris
+  title: 3. The Ethos Of Epoch (Prophet Idris )
+  slug: 6-3-the-ethos-of-epoch-prophet-idris
+  uuid: e307530c-6568-4098-a8fd-56329bde796d
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/4-ethos-prophet-noah
+  title: 4. The Ethos Of Prophet Noah
+  slug: 7-4-the-ethos-of-prophet-noah
+  uuid: 14cffe3d-2d92-4033-9458-1e3bbad2f702
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/5-ethos-prophet-hud
+  title: 5. The Ethos Of Prophet Hud
+  slug: 8-5-the-ethos-of-prophet-hud
+  uuid: 405ec743-4b2f-44ab-8be1-8ff0591f4a21
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/6-ethos-prophet-saleh
+  title: 6. The Ethos Of Prophet Saleh
+  slug: 9-6-the-ethos-of-prophet-saleh
+  uuid: f2de2ca1-2a72-4df5-a021-16d440faf614
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/7-ethos-prophet-abraham
+  title: 7. The Ethos Of Prophet Abraham
+  slug: 10-7-the-ethos-of-prophet-abraham
+  uuid: 565e1f72-3e5d-450c-ba03-0b3d6755ce76
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/8-ethos-lot
+  title: 8. The Ethos Of Lot
+  slug: 11-8-the-ethos-of-lot
+  uuid: 5c3603dc-50fe-46df-a326-88019c3cce32
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/9-ethos-isaac
+  title: 9. The Ethos Of Isaac
+  slug: 12-9-the-ethos-of-isaac
+  uuid: b681c4ef-efca-4a02-901a-39088d791840
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/10-ethos-prophet-jacob
+  title: 10. The Ethos Of Prophet Jacob
+  slug: 13-10-the-ethos-of-prophet-jacob
+  uuid: 03da837e-fd15-4031-953c-0101e18af345
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/11-ethos-prophet-joseph
+  title: 11. The Ethos Of Prophet Joseph
+  slug: 14-11-the-ethos-of-prophet-joseph
+  uuid: 8b86158f-a0c7-4312-8bdf-e538428b8350
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/12-ethos-prophet-job-ayyub
+  title: 12. The Ethos Of Prophet Job (Ayyub)
+  slug: 15-12-the-ethos-of-prophet-job-ayyub
+  uuid: 7a7c76ef-9b83-4379-ab38-e30c192fa272
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/13-ethos-prophet-shuaib
+  title: 13. The Ethos Of Prophet Shuaib
+  slug: 16-13-the-ethos-of-prophet-shuaib
+  uuid: 3b55df77-91fe-45c7-a205-36f651f52cad
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/14-ethos-prophet-moses
+  title: 14. The Ethos Of Prophet Moses
+  slug: 17-14-the-ethos-of-prophet-moses
+  uuid: 489e8346-741b-45ce-83ee-6aa595a2117b
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/15-ethos-prophet-khidr
+  title: 15. The Ethos Of Prophet Khidr
+  slug: 18-15-the-ethos-of-prophet-khidr
+  uuid: 9834b302-a2ca-4168-966b-3a6837c860dd
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/16-ethos-prophet-ilyas-elijah
+  title: 16. The Ethos Of Prophet Ilyas (Elijah)
+  slug: 19-16-the-ethos-of-prophet-ilyas-elijah
+  uuid: f15c9bce-5d61-4f2f-adaa-0dd692f0d02e
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/17-ethos-prophet-ismael-truthful-promise
+  title: 17. The Ethos Of Prophet Ismael, Truthful In Promise
+  slug: 20-17-the-ethos-of-prophet-ismael-truthful-in-promise
+  uuid: 11cafcd2-3549-48ef-9a79-b219c1625eb2
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/18-ethos-luqman
+  title: 18. The Ethos Of Luqman
+  slug: 21-18-the-ethos-of-luqman
+  uuid: 2ba9189f-a75d-469d-b35e-326623302cd9
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/19-ethos-prophet-david-dawud
+  title: 19. The Ethos Of Prophet David (Dawud)
+  slug: 22-19-the-ethos-of-prophet-david-dawud
+  uuid: 6e9f8381-bbb3-4a4f-9a61-ef719543d4e8
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/20-ethos-prophet-solomon
+  title: 20. The Ethos Of Prophet Solomon
+  slug: 23-20-the-ethos-of-prophet-solomon
+  uuid: 91125571-6449-4b25-bf63-13f5c2747553
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/21-ethos-prophet-daniel
+  title: 21. The Ethos Of Prophet Daniel
+  slug: 24-21-the-ethos-of-prophet-daniel
+  uuid: 12e69858-7a92-478c-a0e9-8606aeb51593
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/22-ethos-jonah-yunus
+  title: 22. The Ethos Of Jonah (Yunus)
+  slug: 25-22-the-ethos-of-jonah-yunus
+  uuid: 6de42486-1314-49e7-8a75-85ebf4bb71ce
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/23-ethos-prophet-zachariah
+  title: 23. The Ethos Of Prophet Zachariah
+  slug: 26-23-the-ethos-of-prophet-zachariah
+  uuid: 98786abc-319b-439b-918e-f3aa469e4272
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/24-ethos-prophet-john-yahya
+  title: 24. The Ethos Of Prophet John (Yahya)
+  slug: 27-24-the-ethos-of-prophet-john-yahya
+  uuid: 96637ab2-ec5f-40b8-a93c-d25b721508c6
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/25-ethos-jesus-christ
+  title: 25. The Ethos Of Jesus Christ
+  slug: 28-25-the-ethos-of-jesus-christ
+  uuid: 5c0e28e2-525e-4aac-808a-0618aea799fe
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/26-ethos-prophet-muhammad
+  title: 26. The Ethos Of Prophet Muhammad
+  slug: 29-26-the-ethos-of-prophet-muhammad
+  uuid: 374655c8-ad8e-4d00-b181-e46fbf46ec3d
+- source: :alislam
+  source_url: http://www.al-islam.org/ethics-prophets-muhammad-mehdi-taaj-langroodi/bibliography
+  title: Bibliography
+  slug: 30-bibliography
+  uuid: 7a8cd99d-3289-4f57-8d61-fb9fc2947807
+---

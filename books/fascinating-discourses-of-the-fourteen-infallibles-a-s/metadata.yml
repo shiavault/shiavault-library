@@ -1,0 +1,104 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/fascinating-discourses-fourteen-infallibles-shaykh-mohammad-ishtihardi
+author: Shaykh Mohammad Ishtihardi
+publisher: Islamic Propagation Organization
+translator: Javed Iqbal Qazilbash
+title: Fascinating Discourses of the Fourteen Infallibles (a.s)
+subtitle: Including 560 Hadiths of the fourteen Infallibles, Forty Hadiths from each
+  one
+slug: fascinating-discourses-of-the-fourteen-infallibles-a-s
+uuid: 1a211c6a-ba10-4fcd-b000-a9644d87572b
+description: |
+  This book contains 560 Hadiths which covers many dimensions of the human
+  life & for those seeking solution to the today's world problems.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/fascinating-discourses-fourteen-infallibles-shaykh-mohammad-ishtihardi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 09756388-8e8d-47f3-9522-db48d588b902
+- source: :alislam
+  source_url: http://www.al-islam.org/fascinating-discourses-fourteen-infallibles-shaykh-mohammad-ishtihardi/foreword
+  title: Foreword
+  slug: 2-foreword
+  uuid: 5af0c4f3-81bd-4140-b091-567ca343b109
+- source: :alislam
+  source_url: http://www.al-islam.org/fascinating-discourses-fourteen-infallibles-shaykh-mohammad-ishtihardi/present-book
+  title: The Present Book
+  slug: 3-the-present-book
+  uuid: 1e047522-9218-4d27-acfe-56d67daade8e
+- source: :alislam
+  source_url: http://www.al-islam.org/fascinating-discourses-fourteen-infallibles-shaykh-mohammad-ishtihardi/first-infallible-prophet
+  title: 'The First Infallible: The Prophet of Allah and his forty discourses'
+  slug: 4-the-first-infallible-the-prophet-of-allah-and-his-forty-discourses
+  uuid: e371f246-6ef9-4c8b-ada1-9d75840c1345
+- source: :alislam
+  source_url: http://www.al-islam.org/fascinating-discourses-fourteen-infallibles-shaykh-mohammad-ishtihardi/second-infallible-hazrat
+  title: 'The Second Infallible: Hazrat Zahra (sa) and her forty discourses'
+  slug: 5-the-second-infallible-hazrat-zahra-sa-and-her-forty-discourses
+  uuid: f817bce5-5f1c-4641-aef9-1d707674bf7b
+- source: :alislam
+  source_url: http://www.al-islam.org/fascinating-discourses-fourteen-infallibles-shaykh-mohammad-ishtihardi/third-infallible-first-imam
+  title: 'The Third Infallible: First Imam Hazrat Ali and his Forty Discourses'
+  slug: 6-the-third-infallible-first-imam-hazrat-ali-and-his-forty-discourses
+  uuid: f216f4e3-d86a-4710-a5b5-b167700e84a3
+- source: :alislam
+  source_url: http://www.al-islam.org/fascinating-discourses-fourteen-infallibles-shaykh-mohammad-ishtihardi/fourth-infallible-second-imam
+  title: 'The Fourth Infallible: Second Imam Hassan Mujtaba (as) and his forty discourses'
+  slug: 7-the-fourth-infallible-second-imam-hassan-mujtaba-as-and-his-forty-discourses
+  uuid: bd0faaf9-a47d-4136-8e60-525b5366bc12
+- source: :alislam
+  source_url: http://www.al-islam.org/fascinating-discourses-fourteen-infallibles-shaykh-mohammad-ishtihardi/fifth-infallible-third-imam
+  title: 'The Fifth Infallible Third Imam: Imam Hussain the Chief of the Martys and
+    his forty discourses'
+  slug: 8-the-fifth-infallible-third-imam-imam-hussain-the-chief-of-the-martys-and-his-forty-discourses
+  uuid: e049c9b9-8218-4f14-a0b1-6dc3fab1db4c
+- source: :alislam
+  source_url: http://www.al-islam.org/fascinating-discourses-fourteen-infallibles-shaykh-mohammad-ishtihardi/sixth-infallible-forth-imam
+  title: 'The Sixth Infallible: Forth Imam Sajjad (as) and forty discourses from him'
+  slug: 9-the-sixth-infallible-forth-imam-sajjad-as-and-forty-discourses-from-him
+  uuid: ee326096-f1e0-4340-b68e-1414f96add62
+- source: :alislam
+  source_url: http://www.al-islam.org/fascinating-discourses-fourteen-infallibles-shaykh-mohammad-ishtihardi/seventh-infallible-fifth-imam
+  title: 'The Seventh Infallible: Fifth Imam Baqir (as) and his forty discourses'
+  slug: 10-the-seventh-infallible-fifth-imam-baqir-as-and-his-forty-discourses
+  uuid: 619914dc-4441-4c22-8b7c-3e8c9ac7135a
+- source: :alislam
+  source_url: http://www.al-islam.org/fascinating-discourses-fourteen-infallibles-shaykh-mohammad-ishtihardi/eighth-infallible-imam-jafar
+  title: 'The Eighth Infallible: Imam Ja’far Sadiq (as) and his forty discourses'
+  slug: 11-the-eighth-infallible-imam-ja-far-sadiq-as-and-his-forty-discourses
+  uuid: d4878971-549a-417f-993e-fbd16ca4ccd0
+- source: :alislam
+  source_url: http://www.al-islam.org/fascinating-discourses-fourteen-infallibles-shaykh-mohammad-ishtihardi/ninth-infallible-seventh-imam
+  title: 'The Ninth Infallible: Seventh Imam Musa Ibn Ja’far (as) and his forty discourses'
+  slug: 12-the-ninth-infallible-seventh-imam-musa-ibn-ja-far-as-and-his-forty-discourses
+  uuid: 0473bdf1-1d2b-42e9-ac0a-b56c1f48d1e3
+- source: :alislam
+  source_url: http://www.al-islam.org/fascinating-discourses-fourteen-infallibles-shaykh-mohammad-ishtihardi/tenth-infallible-eighth-imam
+  title: 'The Tenth Infallible: The Eighth Imam Ridha’ (as) and his forty discourses'
+  slug: 13-the-tenth-infallible-the-eighth-imam-ridha-as-and-his-forty-discourses
+  uuid: 77076c94-f6f4-4620-ab17-36066b1ed015
+- source: :alislam
+  source_url: http://www.al-islam.org/fascinating-discourses-fourteen-infallibles-shaykh-mohammad-ishtihardi/eleventh-infallible-ninth
+  title: 'The Eleventh Infallible: The Ninth Imam Jawad (as) and his forty discourses'
+  slug: 14-the-eleventh-infallible-the-ninth-imam-jawad-as-and-his-forty-discourses
+  uuid: ef9ac9a2-dd58-45f0-8156-026dced416d8
+- source: :alislam
+  source_url: http://www.al-islam.org/fascinating-discourses-fourteen-infallibles-shaykh-mohammad-ishtihardi/twelth-infallible-tenth-imam
+  title: 'The Twelth Infallible: The Tenth Imam Hadi (as) and his forty discourses'
+  slug: 15-the-twelth-infallible-the-tenth-imam-hadi-as-and-his-forty-discourses
+  uuid: e87cb518-8165-4add-9534-1bf003d7a061
+- source: :alislam
+  source_url: http://www.al-islam.org/fascinating-discourses-fourteen-infallibles-shaykh-mohammad-ishtihardi/thirteenth-infallible
+  title: 'The Thirteenth Infallible: The Eleventh Imam Hassan Askari (as) and his
+    forty discourses'
+  slug: 16-the-thirteenth-infallible-the-eleventh-imam-hassan-askari-as-and-his-forty-discourses
+  uuid: 5d54f738-10c7-4560-9be1-caab57bd1d07
+- source: :alislam
+  source_url: http://www.al-islam.org/fascinating-discourses-fourteen-infallibles-shaykh-mohammad-ishtihardi/fourteenth-infallible-twelfth
+  title: 'The Fourteenth Infallible: The Twelfth Imam Mahdi (The Imam of this age)
+    and his forty discourses'
+  slug: 17-the-fourteenth-infallible-the-twelfth-imam-mahdi-the-imam-of-this-age-and-his-forty-discourses
+  uuid: 9d5f0f68-1e46-418d-b24d-ad10f04a98d2
+---

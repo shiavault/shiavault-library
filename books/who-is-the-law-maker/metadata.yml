@@ -1,24 +1,44 @@
 ---
-source: :alhassanian
-source_url: http://alhassanain.org/english/?com=book&id=315
-title: Who Is the Law-maker
-author: Al Balagh Foundation
+source: :alislam
+source_url: http://www.al-islam.org/who-is-the-law-maker-al-balagh-foundation
+publisher: Al-Balagh Foundation
+compiler: Al-Balagh Foundation
+title: Who is the Law Maker?
 slug: who-is-the-law-maker
-uuid: 6b073082-cee8-4352-87d8-472b7d93f9dc
+uuid: 6e0a9ffb-f406-4d8a-83f5-589d264122ca
+description: |
+  This study aims to provide a clear vision and present in its true
+  perspective the thought and position of the Muslim individual about the
+  law and the law maker.
 chapters:
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=315
+- source: :alislam
+  source_url: http://www.al-islam.org/who-is-the-law-maker-al-balagh-foundation/presentation
   title: Presentation
   slug: 1-presentation
-  uuid: 5ada0c1a-5541-4547-9bcb-292203cc7277
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=315
-  title: 'Islam: the Universal Legislation For Mankind'
-  slug: 2-islam-the-universal-legislation-for-mankind
-  uuid: 04d3fc7c-949c-45fb-b5d0-c87ebd5a267f
-- source: :alhassanian
-  source_url: http://alhassanain.org/english/?com=book&id=315
-  title: I. Criterion of Truth and Justice
-  slug: 3-i-criterion-of-truth-and-justice
-  uuid: ca29c6f4-19b8-4f9c-bbd8-2a92a8fe1d03
+  uuid: fc6b6c3b-16ea-43d0-893b-d0d47061960a
+- source: :alislam
+  source_url: http://www.al-islam.org/who-is-the-law-maker-al-balagh-foundation/definition-law
+  title: A Definition of Law
+  slug: 2-a-definition-of-law
+  uuid: a8aa95fb-bb9b-4e5e-8b61-2b4e3855eda1
+- source: :alislam
+  source_url: http://www.al-islam.org/who-is-the-law-maker-al-balagh-foundation/definition-law-maker
+  title: A Definition of Law Maker
+  slug: 3-a-definition-of-law-maker
+  uuid: 462d8834-0beb-42db-b6d0-d2a7ab1ea739
+- source: :alislam
+  source_url: http://www.al-islam.org/who-is-the-law-maker-al-balagh-foundation/islam-universal-legislation-mankind
+  title: 'Islam: The Universal Legislation for Mankind'
+  slug: 4-islam-the-universal-legislation-for-mankind
+  uuid: 977cd12b-0b71-4f23-9a62-a29bd2734297
+- source: :alislam
+  source_url: http://www.al-islam.org/who-is-the-law-maker-al-balagh-foundation/stages-existence-law
+  title: Stages of the Existence of Law
+  slug: 5-stages-of-the-existence-of-law
+  uuid: 12f8338e-6090-4104-9fe7-19a0306b69a5
+- source: :alislam
+  source_url: http://www.al-islam.org/who-is-the-law-maker-al-balagh-foundation/comparison-between-islamic-and-secular-law
+  title: A Comparison between Islamic and Secular Law
+  slug: 6-a-comparison-between-islamic-and-secular-law
+  uuid: 8434c39b-0ce5-4c6a-a832-a8bcb6866d75
 ---

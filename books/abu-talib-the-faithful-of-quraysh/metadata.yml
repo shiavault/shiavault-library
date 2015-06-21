@@ -1,0 +1,84 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/abu-talib-faithful-quraysh-abdullah-al-khunayzi
+author: Abdullah al-Khunayzi
+publisher: Ansariyan Publications - Qum
+translator: Abdullah al-Shahin
+title: Abu Talib, the Faithful of Quraysh
+slug: abu-talib-the-faithful-of-quraysh
+uuid: 84d665f0-701b-4dd2-aff7-93706d67d499
+description: |
+  This book is a detailed biography of the life and role of Abu Talib, the
+  uncle and guardian of the Holy Prophet S.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-faithful-quraysh-abdullah-al-khunayzi/believer-pharaohs-people
+  title: The Believer of the Pharaoh’s People
+  slug: 1-the-believer-of-the-pharaoh-s-people
+  uuid: 16cfb8a6-b701-4ede-a836-da5f4baf0d80
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-faithful-quraysh-abdullah-al-khunayzi/dedication
+  title: Dedication
+  slug: 2-dedication
+  uuid: b5dcba5e-566b-49cb-9444-427f508d6d41
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-faithful-quraysh-abdullah-al-khunayzi/book
+  title: This Book
+  slug: 3-this-book
+  uuid: b337d470-4d3c-4d03-a1e6-aeaaaf6ecf32
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-faithful-quraysh-abdullah-al-khunayzi/foreword
+  title: Foreword
+  slug: 4-foreword
+  uuid: ef0a2b25-718e-48d9-b113-1a42372f5e6b
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-faithful-quraysh-abdullah-al-khunayzi/threshold
+  title: At the Threshold
+  slug: 5-at-the-threshold
+  uuid: 2639728f-cb60-4971-b745-de35e680cb8c
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-faithful-quraysh-abdullah-al-khunayzi/chapter-1-route-life
+  title: 'Chapter 1: The Route of Life'
+  slug: 6-chapter-1-the-route-of-life
+  uuid: a2fe5ef1-210b-4954-9d6f-3e29cb3f1b38
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-faithful-quraysh-abdullah-al-khunayzi/chapter-2-conscience-history
+  title: 'Chapter 2: In the Conscience of History'
+  slug: 7-chapter-2-in-the-conscience-of-history
+  uuid: e1720f2c-7442-4d3e-ae48-a9bfa057e4a9
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-faithful-quraysh-abdullah-al-khunayzi/after-death
+  title: After the Death
+  slug: 8-after-the-death
+  uuid: 706d89cd-5bba-4d2a-a3d8-24c36f1cca9a
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-faithful-quraysh-abdullah-al-khunayzi/fabrication-and-distortion
+  title: Fabrication and Distortion
+  slug: 9-fabrication-and-distortion
+  uuid: 288b468d-d867-41d7-888b-1d799f722061
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-faithful-quraysh-abdullah-al-khunayzi/inheritance-abu-talib
+  title: The Inheritance of Abu Talib
+  slug: 10-the-inheritance-of-abu-talib
+  uuid: ff8ff69c-6bc2-4e36-8be8-e53637594f6c
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-faithful-quraysh-abdullah-al-khunayzi/al-momin-faithful
+  title: Al-Mo’min (The Faithful)
+  slug: 11-al-mo-min-the-faithful
+  uuid: 340d10ec-57e3-4719-916f-564c95b07146
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-faithful-quraysh-abdullah-al-khunayzi/final-word-about-faithfulness-abu-talib
+  title: The Final Word about the Faithfulness of Abu Talib
+  slug: 12-the-final-word-about-the-faithfulness-of-abu-talib
+  uuid: e68a5a4a-f485-4fcf-8f34-c31d03239014
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-faithful-quraysh-abdullah-al-khunayzi/biography-author
+  title: Biography of the Author
+  slug: 13-biography-of-the-author
+  uuid: 993832a7-b5ca-468e-ba5d-aa218f6eb06b
+- source: :alislam
+  source_url: http://www.al-islam.org/abu-talib-faithful-quraysh-abdullah-al-khunayzi/reference-books
+  title: Reference Books
+  slug: 14-reference-books
+  uuid: 1ddf7780-ad52-4377-a40c-a98527337558
+---

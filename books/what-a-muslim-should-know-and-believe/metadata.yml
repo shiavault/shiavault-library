@@ -1,0 +1,53 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/what-a-muslim-should-know-and-believe-akhtar-rizvi
+author: Allamah Sayyid Sa'eed Akhtar Rizvi
+publisher: Bilal Muslim Mission of Tanzania
+title: What A Muslim Should Know and Believe
+slug: what-a-muslim-should-know-and-believe
+uuid: a0e5c722-5676-4944-868d-a90f6db53f01
+description: |
+  This text, although brief and simple, is a comprehensive and detailed
+  exposition of the main articles of Faith and all the dos and don’ts of
+  Islam. This booklet will serve as a guide to those parents whose
+  children are reaching the age of maturity, as well as to those
+  missionaries who bring someone into the fold of true Islam. It would
+  show them the minimum that their wards should believe in and act upon
+  the moment they become baligh or are converted.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/what-a-muslim-should-know-and-believe-akhtar-rizvi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 5bfd17aa-1d5a-48db-a4a9-5d540db830d2
+- source: :alislam
+  source_url: http://www.al-islam.org/what-a-muslim-should-know-and-believe-akhtar-rizvi/seven-responsibilities
+  title: The Seven Responsibilities
+  slug: 2-the-seven-responsibilities
+  uuid: 57cd31d4-7b9a-42ce-972f-bcd762175ed3
+- source: :alislam
+  source_url: http://www.al-islam.org/what-a-muslim-should-know-and-believe-akhtar-rizvi/usul-al-deen
+  title: Usul al-Deen
+  slug: 3-usul-al-deen
+  uuid: 390dba96-9216-47f3-a0c0-082bb3c0abad
+- source: :alislam
+  source_url: http://www.al-islam.org/what-a-muslim-should-know-and-believe-akhtar-rizvi/major-sins
+  title: Major Sins
+  slug: 4-major-sins
+  uuid: 04deafec-54a5-4f0a-bbf6-ea42ed64ce65
+- source: :alislam
+  source_url: http://www.al-islam.org/what-a-muslim-should-know-and-believe-akhtar-rizvi/some-terminologies-explained
+  title: Some Terminologies Explained
+  slug: 5-some-terminologies-explained
+  uuid: 86aac686-7ed8-4d79-9747-ddb9057db61e
+- source: :alislam
+  source_url: http://www.al-islam.org/what-a-muslim-should-know-and-believe-akhtar-rizvi/zaruriyat-al-deen
+  title: Zaruriyat al-Deen
+  slug: 6-zaruriyat-al-deen
+  uuid: 2405eaed-ac92-4618-ba81-170322ce8928
+- source: :alislam
+  source_url: http://www.al-islam.org/what-a-muslim-should-know-and-believe-akhtar-rizvi/fourteen-categories-people
+  title: Fourteen Categories of People
+  slug: 7-fourteen-categories-of-people
+  uuid: 89b55b4a-f779-4144-a8be-002ee6f70e34
+---

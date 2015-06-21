@@ -1,0 +1,56 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/al-shahid-al-thani-zayn-al-din-al-jubi-al-amili-ali-sadiqi
+author: Ali Sadiqi
+publisher: Ansariyan Publications - Qum
+translator: Hasan M. Najafi
+title: 'Al-Shahid al-Thani: Zayn al-Din al-Jub''i al-Amili'
+slug: al-shahid-al-thani-zayn-al-din-al-jub-i-al-amili
+uuid: 5ed1d352-7856-4f5a-9f12-6c78328e8e47
+description: |
+  This book about Shahid al-Thani is part of the series “Meeting the
+  Pious”. This series introduces the biographies of the beacons of Islamic
+  thought, those stars whose scientific horizons may inundate the leaders
+  of other ideological dogmas and creeds, and other well-known thinkers.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/al-shahid-al-thani-zayn-al-din-al-jubi-al-amili-ali-sadiqi/publishers-foreword
+  title: Publisher’s Foreword
+  slug: 1-publisher-s-foreword
+  uuid: 655071fb-c546-4538-b201-1a394bdf5ff0
+- source: :alislam
+  source_url: http://www.al-islam.org/al-shahid-al-thani-zayn-al-din-al-jubi-al-amili-ali-sadiqi/preamble
+  title: Preamble
+  slug: 2-preamble
+  uuid: 3584a691-ef1f-4413-9c6f-f11a42a146b8
+- source: :alislam
+  source_url: http://www.al-islam.org/al-shahid-al-thani-zayn-al-din-al-jubi-al-amili-ali-sadiqi/translators-introduction
+  title: Translator’s Introduction
+  slug: 3-translator-s-introduction
+  uuid: 8ca8c229-ff80-441b-90e7-6421a8f7ef95
+- source: :alislam
+  source_url: http://www.al-islam.org/al-shahid-al-thani-zayn-al-din-al-jubi-al-amili-ali-sadiqi/chapter-1-beginning
+  title: 'Chapter 1: The Beginning'
+  slug: 4-chapter-1-the-beginning
+  uuid: 9d851143-ad3b-4c55-8f42-97a9981b1ad1
+- source: :alislam
+  source_url: http://www.al-islam.org/al-shahid-al-thani-zayn-al-din-al-jubi-al-amili-ali-sadiqi/chapter-2-school-generations
+  title: 'Chapter 2: School for Generations'
+  slug: 5-chapter-2-school-for-generations
+  uuid: 8096f885-530e-4788-a150-2a3c0f303a03
+- source: :alislam
+  source_url: http://www.al-islam.org/al-shahid-al-thani-zayn-al-din-al-jubi-al-amili-ali-sadiqi/chapter-3-path-glory
+  title: 'Chapter 3: On the Path to Glory'
+  slug: 6-chapter-3-on-the-path-to-glory
+  uuid: e1c7f257-893c-483f-a66b-80d5376213e5
+- source: :alislam
+  source_url: http://www.al-islam.org/al-shahid-al-thani-zayn-al-din-al-jubi-al-amili-ali-sadiqi/chapter-4-beams-sunset
+  title: 'Chapter 4: Beams of Sunset'
+  slug: 7-chapter-4-beams-of-sunset
+  uuid: 51a25c2d-8974-4a3a-82d8-db1b3bc9c228
+- source: :alislam
+  source_url: http://www.al-islam.org/al-shahid-al-thani-zayn-al-din-al-jubi-al-amili-ali-sadiqi/bibliography
+  title: Bibliography
+  slug: 8-bibliography
+  uuid: 151038fa-c34b-495b-b9f7-00e0be0a890a
+---

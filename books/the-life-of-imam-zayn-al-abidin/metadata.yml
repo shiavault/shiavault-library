@@ -1,0 +1,127 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi
+author: Baqir Shareef al-Qurashi
+publisher: Ansariyan Publications - Qum
+translator: Jasim al-Rasheed
+title: The Life of Imam Zayn al-‘Abidin
+slug: the-life-of-imam-zayn-al-abidin
+uuid: 2ba90de7-25bb-4d72-ac72-bda7dca001b3
+description: |
+  The book is a biography of the sixth infallible and fourth Imam Ali Ibn
+  Al-Husayn Zaynu'l-\`Abidin known also as Imam As-Sajjad (as). This text,
+  the first comprehensive book on the life of the Imam in English, gives
+  you a brief idea about Imam as-Sajjad along with his supplications and
+  his works.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi/publishers-preface
+  title: Publisher’s Preface
+  slug: 1-publisher-s-preface
+  uuid: 4f7bbabe-2414-42e9-836b-45ad93405684
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi/dedication
+  title: Dedication
+  slug: 2-dedication
+  uuid: ed7d46f8-eb0f-4afa-87a2-73e9921e8a10
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: 5b46dfd4-2b69-45fe-a876-5b352ae2ef4b
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi/chapter-1-lady-shahzanan
+  title: 'Chapter 1: Lady Shahzanan'
+  slug: 4-chapter-1-lady-shahzanan
+  uuid: 1eb36b93-24f6-4e95-8eac-09138c43d84d
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi/chapter-2-great-baby
+  title: 'Chapter 2: The Great Baby'
+  slug: 5-chapter-2-the-great-baby
+  uuid: e0bbe32e-d932-4720-9a4d-92ab9badd3ee
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi/chapter-3-his-childhood-and-behavior
+  title: 'Chapter 3: His Childhood and Behavior'
+  slug: 6-chapter-3-his-childhood-and-behavior
+  uuid: 7cd55e62-1f70-42ee-8273-26aba14400c8
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi/chapter-4-his-psychological-qualities
+  title: 'Chapter 4: His Psychological Qualities'
+  slug: 7-chapter-4-his-psychological-qualities
+  uuid: 8c6a9df0-f044-4464-a9a3-573843f005ec
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi/chapter-5-his-imamate
+  title: 'Chapter 5: His Imamate'
+  slug: 8-chapter-5-his-imamate
+  uuid: 7d489ac0-4361-4381-b429-69d7226954f4
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi/chapter-6-impressions-his-character
+  title: 'Chapter 6: Impressions of His Character'
+  slug: 9-chapter-6-impressions-of-his-character
+  uuid: 5f02b8e7-2fbf-45fd-adf5-3b1d802ec00f
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi/chapter-7-tragedies-karbala
+  title: 'Chapter 7: The Tragedies Of Karbala’'
+  slug: 10-chapter-7-the-tragedies-of-karbala
+  uuid: 52bc094e-9233-48d9-ab80-69f69826a154
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi/chapter-8-his-worship
+  title: 'Chapter 8:  His Worship'
+  slug: 11-chapter-8-his-worship
+  uuid: d4cfd557-b4b1-4b94-866d-1712e825090a
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi/chapter-9-some-sciences-imam
+  title: 'Chapter 9: Some Sciences Of The Imam'
+  slug: 12-chapter-9-some-sciences-of-the-imam
+  uuid: 6cd3eaf9-7d38-43e6-84a6-60bd9e7be537
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi/chapter-10-some-his-sermons-and-wise-sayings
+  title: 'Chapter 10:  Some Of His Sermons And Wise Sayings'
+  slug: 13-chapter-10-some-of-his-sermons-and-wise-sayings
+  uuid: f517c00b-4c35-439e-baa4-f6a85df8eefd
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi/chapter-11-his-works
+  title: 'Chapter 11: His Works'
+  slug: 14-chapter-11-his-works
+  uuid: 6f907e9b-7dfc-4fbc-9661-18f7aa5b61f8
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi/1-al-sahifa-al-sajjadiya
+  title: 1. Al-Sahifa Al-Sajjadiya
+  slug: 15-1-al-sahifa-al-sajjadiya
+  uuid: 9fcb690c-e7ea-4a61-8532-e1696dfc3320
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi/2-fifteen-whispered-prayers
+  title: 2. Fifteen Whispered Prayers
+  slug: 16-2-fifteen-whispered-prayers
+  uuid: e7624fa3-2fdb-4240-901e-b999b37d65e2
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi/3-treatise-rights-risalat-al-huquq
+  title: 3. The Treatise On Rights, Risalat Al-Huquq
+  slug: 17-3-the-treatise-on-rights-risalat-al-huquq
+  uuid: acc17e92-982f-40b2-8a97-45edc9aa28c5
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi/4-book-ali-ibn-al-husayn
+  title: 4. The Book Of ‘Ali Ibn Al-Husayn
+  slug: 18-4-the-book-of-ali-ibn-al-husayn
+  uuid: f63dd3e5-7420-41ff-9d6f-4c849638d008
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi/chapter12-his-school-his-students-and-his
+  title: 'Chapter12: His School, His Students, And His Companions'
+  slug: 19-chapter12-his-school-his-students-and-his-companions
+  uuid: 7942141b-789f-49a8-9fcf-42e67a694602
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi/chapter-13-kings-his-time
+  title: 'Chapter 13: The Kings Of His Time'
+  slug: 20-chapter-13-the-kings-of-his-time
+  uuid: 19ec1844-ce47-473d-b3b6-f9aec42df4d1
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi/chapter-14-time-imam
+  title: 'Chapter 14: The Time Of The Imam'
+  slug: 21-chapter-14-the-time-of-the-imam
+  uuid: f3f86b33-dc0b-4262-bb5c-608c58921534
+- source: :alislam
+  source_url: http://www.al-islam.org/life-imam-zayn-al-abidin-baqir-shareef-al-qurashi/chapter-15-shelter-garden
+  title: 'Chapter 15: To The Shelter Garden'
+  slug: 22-chapter-15-to-the-shelter-garden
+  uuid: 69f9d566-0858-49e5-b25b-4adcfeb38428
+---
