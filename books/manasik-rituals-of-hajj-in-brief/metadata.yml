@@ -1,0 +1,35 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/manasik-rituals-hajj-brief-ayatullah-sayyid-ali-khamenei
+author: Ayatullah Sayyid Ali Khamene'i
+publisher: Islamic Culture and Relations Organisation
+title: Manasik (Rituals) of Hajj in Brief
+slug: manasik-rituals-of-hajj-in-brief
+uuid: 8212d2d4-911a-4f04-8379-27fa13978083
+description: |
+  This book details the jurisprudence related to Hajj as per the rulings
+  of Ayatullah al-Uzma, Sayyid Ali Khamenei. Topics such as conditions
+  that make Hajj obligatory, rites of Hajj and Umrah, their respective
+  requirements and prohibitions, have been discussed.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/manasik-rituals-hajj-brief-ayatullah-sayyid-ali-khamenei/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: f9d80b08-07d0-4f13-a0a7-0b03c48e6f75
+- source: :alislam
+  source_url: http://www.al-islam.org/manasik-rituals-hajj-brief-ayatullah-sayyid-ali-khamenei/rites-umrah-tamattu
+  title: Rites Of Umrah Tamattu
+  slug: 2-rites-of-umrah-tamattu
+  uuid: 9ef3bf88-9dcf-406d-975b-fe152ec21eb0
+- source: :alislam
+  source_url: http://www.al-islam.org/manasik-rituals-hajj-brief-ayatullah-sayyid-ali-khamenei/rites-hajj-tamattu
+  title: Rites Of Hajj At-Tamattu
+  slug: 3-rites-of-hajj-at-tamattu
+  uuid: ba687d29-ca9f-4ffb-af83-ea470060890b
+- source: :alislam
+  source_url: http://www.al-islam.org/manasik-rituals-hajj-brief-ayatullah-sayyid-ali-khamenei/glossary
+  title: Glossary
+  slug: 4-glossary
+  uuid: b5069f1a-667b-4e2c-9a04-397ff541b681
+---

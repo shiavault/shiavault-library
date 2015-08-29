@@ -1,0 +1,71 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/alternative-sociology-seyed-javad-miri
+author: Seyed Javad Miri
+publisher: London Academy of Iranian Studies Press
+title: 'Alternative Sociology: Probing into the Sociological Thought of Allama M.
+  T. Jafari'
+slug: alternative-sociology-probing-into-the-sociological-thought-of-allama-m-t-jafari
+uuid: ac5890d5-1d17-48ff-b307-69ad02ed386d
+description: |
+  When one speaks of sociology, places such as the US, UK, Germany, and
+  France come to mind. To western or even eastern students of social
+  sciences, the very idea that outside Europe and America one could come
+  across sociological debates or theoretical debates on socio-cultural
+  issues comes as a surprise, to say the least. In this work, the author
+  presents the work of Allama M.T. Jafari, an Iranian, contemporary social
+  thinker who worked within the parameters of Primordial School of Social
+  Theory. This work is an attempt to enrich the existing literature on
+  comparative sociology and social philosophy.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/alternative-sociology-seyed-javad-miri/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 6c5f0a87-120a-49c4-81ac-0a1aa1cd2a1b
+- source: :alislam
+  source_url: http://www.al-islam.org/alternative-sociology-seyed-javad-miri/prologue
+  title: Prologue
+  slug: 2-prologue
+  uuid: 9db24b67-48cc-4f57-b648-cbd7db6aba6b
+- source: :alislam
+  source_url: http://www.al-islam.org/alternative-sociology-seyed-javad-miri/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: d8a0692c-25ad-4eeb-bdc5-52e0376b5751
+- source: :alislam
+  source_url: http://www.al-islam.org/alternative-sociology-seyed-javad-miri/chapter-1-relocating-scientific-rationality-humanities
+  title: 'Chapter 1: Relocating Scientific Rationality in Humanities'
+  slug: 4-chapter-1-relocating-scientific-rationality-in-humanities
+  uuid: 42641ac2-0856-4384-89f8-2375e7e3ac6d
+- source: :alislam
+  source_url: http://www.al-islam.org/alternative-sociology-seyed-javad-miri/chapter-2-human-sciences-and-being
+  title: 'Chapter 2:  Human Sciences and Being'
+  slug: 5-chapter-2-human-sciences-and-being
+  uuid: e5bb8c4b-7350-4bcd-954e-cb5c1584f516
+- source: :alislam
+  source_url: http://www.al-islam.org/alternative-sociology-seyed-javad-miri/chapter-3-perils-reductionism
+  title: 'Chapter 3: The Perils of Reductionism'
+  slug: 6-chapter-3-the-perils-of-reductionism
+  uuid: 7d76565c-583a-4301-82cf-c5469edaaff3
+- source: :alislam
+  source_url: http://www.al-islam.org/alternative-sociology-seyed-javad-miri/chapter-4-sociology-and-three-kinds-relationships
+  title: 'Chapter 4:  Sociology and Three Kinds of Relationships'
+  slug: 7-chapter-4-sociology-and-three-kinds-of-relationships
+  uuid: 279c162a-98d6-481b-893c-4658d2233e6b
+- source: :alislam
+  source_url: http://www.al-islam.org/alternative-sociology-seyed-javad-miri/chapter-5-human-sciences-values-and-understanding
+  title: 'Chapter 5:  Human Sciences, Values and Understanding'
+  slug: 8-chapter-5-human-sciences-values-and-understanding
+  uuid: 80eb21d8-ad83-4ffd-9495-7655d82bd2cd
+- source: :alislam
+  source_url: http://www.al-islam.org/alternative-sociology-seyed-javad-miri/epilogue
+  title: Epilogue
+  slug: 9-epilogue
+  uuid: ef84d734-1f3f-4ea2-8bec-a794afbf7a28
+- source: :alislam
+  source_url: http://www.al-islam.org/alternative-sociology-seyed-javad-miri/sources
+  title: Sources
+  slug: 10-sources
+  uuid: c0c15bf3-3cce-4d91-97f5-eb0f966a346b
+---

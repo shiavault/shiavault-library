@@ -1,0 +1,40 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/jesus-ethics-forty-ahadith
+publisher: The World Federation of Khoja Shia Ithna-Asheri Muslim Communities
+title: 'Jesus on Ethics: Forty Ahadith'
+subtitle: Guidance From The Word of God as Recorded in the Islamic Traditions
+slug: jesus-on-ethics-forty-ahadith
+uuid: 69e86940-254a-435e-9a4b-6bc331bf5c96
+description: |
+  40 hadith from Prophet Isa- Jesus, his dialogue with Allah and a
+  collection of verses from the Quran about this great Prophet.
+  Demonstrates the reverence Muslims have for Jesus and the opportunity
+  for inter-faith dialogue.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-ethics-forty-ahadith/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 501557e7-80c0-4e4d-99eb-bd9bd93738d5
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-ethics-forty-ahadith/jesus-ethics-forty-pieces-advice-word-god
+  title: Jesus on Ethics – Forty Pieces of Advice from the ‘Word of God’
+  slug: 2-jesus-on-ethics-forty-pieces-of-advice-from-the-word-of-god
+  uuid: 5c1a2b1a-b405-4c90-a49e-9ad3c6d42f84
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-ethics-forty-ahadith/guidance-god-revealed-jesus-son-mary
+  title: Guidance from God Revealed to Jesus, the son of Mary
+  slug: 3-guidance-from-god-revealed-to-jesus-the-son-of-mary
+  uuid: b8c38956-7f39-4cf8-9898-84616375faf3
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-ethics-forty-ahadith/jesus-son-mary-noble-quran
+  title: Jesus, the Son of Mary in the Noble Qur’an
+  slug: 4-jesus-the-son-of-mary-in-the-noble-qur-an
+  uuid: ea80f964-a2c0-4b36-bafd-85c80ef3e8cd
+- source: :alislam
+  source_url: http://www.al-islam.org/jesus-ethics-forty-ahadith/sources-work
+  title: Sources for this Work
+  slug: 5-sources-for-this-work
+  uuid: 81c7f545-9b7c-4a23-928b-20fe962ed584
+---

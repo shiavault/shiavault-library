@@ -1,0 +1,162 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani
+author: Sheikh Abu Abdullah Muhammad bin Ibraheem bin Ja'far al-Katib an-Numani
+publisher: Ansariyan Publications - Qum
+translator: Abdullah al-Shahin
+title: 'Kitab al-Ghayba: The Book of Occultation'
+slug: kitab-al-ghayba-the-book-of-occultation
+uuid: f7a8cff5-6ea8-4987-887c-7f78658a54eb
+description: |
+  Sheikh Muhammad bin Ibraheem bin Jafar al-Numani authored this important
+  work entitled Kitab al-Ghayba following the Major Occultation of the
+  Twelfth Imam. The work tried to prove the necessity of the Twelfth
+  Imam’s occultation by relating traditions on the authority of the
+  Prophet and the Imams predicting its occurrence.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: 1e933186-4272-4a6b-801f-6dfbfcb2d436
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/preface-verifier
+  title: Preface by the Verifier
+  slug: 2-preface-by-the-verifier
+  uuid: f9001615-adf5-4a00-b946-a53b5e4107ca
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/authors-introduction
+  title: The Author’s Introduction
+  slug: 3-the-author-s-introduction
+  uuid: d693babe-5cf8-4f6d-a041-6a32a0ff2efa
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-1-preserving-secret-prophets-family
+  title: 'Chapter 1: Preserving the secret of the Prophet’s Family'
+  slug: 4-chapter-1-preserving-the-secret-of-the-prophet-s-family
+  uuid: c77c171d-d9e6-40ea-8372-f445ba7eecfe
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-2-keeping-rope-allah
+  title: 'Chapter 2: Keeping to the “Rope” Of Allah'
+  slug: 5-chapter-2-keeping-to-the-rope-of-allah
+  uuid: d30e7bfb-1464-44c5-acee-7d53a3ce8323
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-3-imamate-and-will
+  title: 'Chapter 3: The Imamate and the Will'
+  slug: 6-chapter-3-the-imamate-and-the-will
+  uuid: 9f9c987a-60ad-47a3-a84e-e152786df37f
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-4-twelve-imams-determined-allah
+  title: 'Chapter 4: Twelve imams determined by Allah'
+  slug: 7-chapter-4-twelve-imams-determined-by-allah
+  uuid: 955dc8a7-61f7-4d7d-9b2d-1059fa014404
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-5-pretenders-being-imams
+  title: 'Chapter 5: Pretenders of being imams'
+  slug: 8-chapter-5-pretenders-of-being-imams
+  uuid: bda2ae2e-ba51-4092-a3da-40fe39ddc711
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-6-traditions-narrated-sunni
+  title: 'Chapter 6: The traditions narrated by the Sunni'
+  slug: 9-chapter-6-the-traditions-narrated-by-the-sunni
+  uuid: 77c0b347-6929-4203-83bc-9f98c5f77bb5
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-7-doubting-any-twelve-imams
+  title: 'Chapter 7: Doubting any of the twelve imams'
+  slug: 10-chapter-7-doubting-any-of-the-twelve-imams
+  uuid: aca6eeeb-6588-4534-a83b-1982d763a783
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-8-allah-does-not-leave-world-no-authority
+  title: 'Chapter 8: Allah does not leave the world with no authority (Hujjah)'
+  slug: 11-chapter-8-allah-does-not-leave-the-world-with-no-authority-hujjah
+  uuid: aa41f352-e084-4115-a08a-ff154bf3d549
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-9-al-hujjah-must-appear
+  title: 'Chapter 9: Al-Hujjah must appear'
+  slug: 12-chapter-9-al-hujjah-must-appear
+  uuid: d35d5efc-f087-4efa-bea1-3909c7b3da57
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-10-disappearance-expected-imam
+  title: 'Chapter 10: Disappearance of the expected Imam'
+  slug: 13-chapter-10-disappearance-of-the-expected-imam
+  uuid: 6304a44f-47f7-4197-9a1c-431be00bca31
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-11-being-patient-waiting-deliverance
+  title: 'Chapter 11: Being patient in waiting for deliverance'
+  slug: 14-chapter-11-being-patient-in-waiting-for-deliverance
+  uuid: 2eb54a74-a018-41aa-912a-532e5084afd6
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-12-disagreement-among-shia-during
+  title: 'Chapter 12: Disagreement among the Shia during the disappearance'
+  slug: 15-chapter-12-disagreement-among-the-shia-during-the-disappearance
+  uuid: 6ec058d1-90a6-408b-98c6-2bba891cff19
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-13-al-qaims-aspects-and-deeds
+  title: 'Chapter 13: Al-Qa''im’s aspects and deeds'
+  slug: 16-chapter-13-al-qa-im-s-aspects-and-deeds
+  uuid: db3e628f-cb6d-4edf-9999-6f630d38d43f
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-14-signs-preceding-appearance
+  title: 'Chapter 14: The signs preceding the appearance'
+  slug: 17-chapter-14-the-signs-preceding-the-appearance
+  uuid: 074749e9-c855-4ed2-8981-6b0618a96a99
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-15-distresses-appearance-al-qaim
+  title: 'Chapter 15: The distresses before the appearance of al-Qa''im'
+  slug: 18-chapter-15-the-distresses-before-the-appearance-of-al-qa-im
+  uuid: cde23147-a316-4453-898d-4745240a8537
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-16-forbidding-timing-and-naming-al-qaim
+  title: 'Chapter 16: Forbidding timing and naming al-Qa''im'
+  slug: 19-chapter-16-forbidding-timing-and-naming-al-qa-im
+  uuid: c2e5d3c0-6957-423b-998a-f21cf4e6cc99
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-17-distresses-al-qaim-meets-people
+  title: 'Chapter 17: The distresses al-Qa''im meets from people'
+  slug: 20-chapter-17-the-distresses-al-qa-im-meets-from-people
+  uuid: bb1f8a77-c546-4823-b6cf-4e169a3af4d7
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-18-rising-sufyani
+  title: 'Chapter 18: The rising of as-Sufyani'
+  slug: 21-chapter-18-the-rising-of-as-sufyani
+  uuid: dcd06428-2eb4-451c-822e-e1c774f02f88
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-19-prophets-banner
+  title: 'Chapter 19: The Prophet’s banner'
+  slug: 22-chapter-19-the-prophet-s-banner
+  uuid: 949c72a9-e5aa-49a4-ab81-93bdf9831b67
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-20-army-anger
+  title: 'Chapter 20: The army of anger'
+  slug: 23-chapter-20-the-army-of-anger
+  uuid: c6c0ea2c-7f5d-47ce-bc09-01690012f8c3
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-21-shia-when-al-qaim-appears
+  title: 'Chapter 21: The Shia when al-Qa''im appears'
+  slug: 24-chapter-21-the-shia-when-al-qa-im-appears
+  uuid: 2a5bba04-5a3e-4457-8af6-b8aac6d931d5
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-22-islam-began-strange-and-returns-strange
+  title: 'Chapter 22: Islam began strange and returns strange'
+  slug: 25-chapter-22-islam-began-strange-and-returns-strange
+  uuid: 95824650-8cd9-45d5-89f3-ec3a2548fdc1
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-23-age-al-qaim
+  title: 'Chapter 23: The age of al-Qa''im'
+  slug: 26-chapter-23-the-age-of-al-qa-im
+  uuid: 775c1a6e-2aee-4167-9841-d0552b5c197e
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-24-issmaeel-son-imam-sadiq
+  title: 'Chapter 24: Issma''eel, the son of Imam as-Sadiq'
+  slug: 27-chapter-24-issma-eel-the-son-of-imam-as-sadiq
+  uuid: de48607c-b1cb-4a3a-b8e3-149bafe62bc5
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-25-knowing-ones-imam
+  title: 'Chapter 25: Knowing one’s imam'
+  slug: 28-chapter-25-knowing-one-s-imam
+  uuid: b182c788-3860-4560-b859-01819e121573
+- source: :alislam
+  source_url: http://www.al-islam.org/kitab-al-ghayba-book-occultation-sheikh-an-numani/chapter-26-period-al-qaims-rule
+  title: 'Chapter 26: The period of al-Qa''im’s rule'
+  slug: 29-chapter-26-the-period-of-al-qa-im-s-rule
+  uuid: d88f65d6-5d5b-4670-97f9-8a97d3bfa006
+---

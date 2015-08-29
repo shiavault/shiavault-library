@@ -1,0 +1,36 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/is-hajj-obligatory-on-me-according-to-four-maraja-rulings
+compiler: Muhammad Raza Dawoodani
+title: Is Hajj Obligatory on me?
+slug: is-hajj-obligatory-on-me
+uuid: 4bb4f8ec-d2ec-4717-b3c8-5b6794094c92
+description: |
+  Rulings on Hajj according to four Maraja'e.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/is-hajj-obligatory-on-me-according-to-four-maraja-rulings/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 5e429e88-2a1e-454a-8add-2fc8c9e23ec4
+- source: :alislam
+  source_url: http://www.al-islam.org/is-hajj-obligatory-on-me-according-to-four-maraja-rulings/expression-thanks
+  title: Expression Of Thanks
+  slug: 2-expression-of-thanks
+  uuid: 7390b068-0411-41ab-999f-d8f8ac94b0d7
+- source: :alislam
+  source_url: http://www.al-islam.org/is-hajj-obligatory-on-me-according-to-four-maraja-rulings/words-hujjat-ul-islam-molana-ali-raza
+  title: Words By Hujjat-ul-Islam Molana Ali Raza Swalehi
+  slug: 3-words-by-hujjat-ul-islam-molana-ali-raza-swalehi
+  uuid: c9da1c23-5b1d-4628-9eb2-3a5bf188c2c9
+- source: :alislam
+  source_url: http://www.al-islam.org/is-hajj-obligatory-on-me-according-to-four-maraja-rulings/hajj
+  title: Hajj
+  slug: 4-hajj
+  uuid: b459f0e1-b119-4850-994a-bc346b08096e
+- source: :alislam
+  source_url: http://www.al-islam.org/is-hajj-obligatory-on-me-according-to-four-maraja-rulings/importance-hajj
+  title: Importance Of Hajj
+  slug: 5-importance-of-hajj
+  uuid: 5948038b-d49f-4101-873b-989bffd9596e
+---

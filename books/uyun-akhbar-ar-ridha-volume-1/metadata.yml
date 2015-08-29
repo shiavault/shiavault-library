@@ -1,0 +1,231 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq
+author: Shaykh as-Saduq
+publisher: Ansariyan Publications - Qum
+translator: Dr. Ali Peiravi
+title: Uyun Akhbar Ar-Ridha Volume 1
+subtitle: The Source Of Traditions On Imam Ridha’ (A.S.)
+slug: uyun-akhbar-ar-ridha-volume-1
+uuid: 0e858536-8e58-490f-ab31-74dec5b67c8c
+description: |
+  This is the first volume of the book Uyun Akhbar Ar-Ridha, which is not
+  only a detailed account of the Biography of our Eighth Imam Abul Hassan
+  Ali ibni Musa AR-Ridha a.s. and a narration of the life-story of the
+  Imam AS’ but it gives an insight into the erudition and holiness of the
+  Imam AS. and the narration of His ahadith which has gone down in history
+  as “Al-Silsilatul Dhahabiyyah” (The Golden Chain) that is transmitted
+  from Imam to Imam from The Prophet SAWW. The text is divided into thirty
+  chapters, each of which treats a certain topic related to the Imam AS.
+  Chapter One gives a rationale of the name Ar-Ridha. The book describes
+  Imam Ar-Ridha’'s appointment to Imamah by his father. It carries
+  detailed accounts of the debates that took place on the Infallibility of
+  prophets and the legitimacy of the immediate successorship of Imam Ali
+  AS in which Ma’moon also argued in favor of Imam Ali AS’ legitimate
+  immediate succession after The Prophet SAWW. The Imam AS brilliant
+  expose on Imamah and the difference between ‘itrah’ and ‘ummah’ are
+  recorded in this book.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: 997fe6a3-266d-49bb-9cf6-cd6e154f20f2
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/translators-foreword
+  title: Translator’s Foreword
+  slug: 2-translator-s-foreword
+  uuid: 1a55b987-360a-424b-bb4d-abcbe120c72a
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/master-shrine
+  title: Master Of The Shrine
+  slug: 3-master-of-the-shrine
+  uuid: 15b8bdc3-0b36-4046-bac2-f0ff4c048623
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/shrine-master
+  title: Shrine Of The Master
+  slug: 4-shrine-of-the-master
+  uuid: 56248fd8-a21d-458c-b41e-b7cc6bd3a2b6
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/residence-short-lived
+  title: A Residence Short-Lived
+  slug: 5-a-residence-short-lived
+  uuid: bfd0314b-9950-4bbd-a29c-c1e342c1d821
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/about-author
+  title: About The Author
+  slug: 6-about-the-author
+  uuid: d4823fd5-5d8f-43f3-a189-9af3f3baca24
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/authors-foreword
+  title: The Author’s Foreword
+  slug: 7-the-author-s-foreword
+  uuid: 6cd2fa80-c058-40ac-9a56-852be4d26b84
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-1-why-ali-ibn-musa-called-al-ridha
+  title: 'Chapter 1: Why Is Ali Ibn Musa (a.s.) Called Al-Ridha’'
+  slug: 8-chapter-1-why-is-ali-ibn-musa-a-s-called-al-ridha
+  uuid: 3b2d2214-3d93-46f9-a466-dde347f9cece
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-2-traditions-about-imam-al-ridhas-mother-and-her
+  title: 'Chapter 2: Traditions About Imam Al-Ridha’''s Mother And Her Name'
+  slug: 9-chapter-2-traditions-about-imam-al-ridha-s-mother-and-her-name
+  uuid: cb023beb-d8f5-48bb-808c-62952fa6e523
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-3-birthdate-imam-al-ridhaas
+  title: 'Chapter 3: On The birthdate of Imam Al-Ridha’(a.s.)'
+  slug: 10-chapter-3-on-the-birthdate-of-imam-al-ridha-a-s
+  uuid: 06a0b8e3-8ae9-4641-8478-7ca65ce1cae3
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-4-imam-al-kazims-clear-appointment-imam-al-ridha
+  title: 'Chapter 4: On Imam Al-Kazim''s (a.s.) Clear Appointment of Imam Al-Ridha’
+    (a.s.)'
+  slug: 11-chapter-4-on-imam-al-kazim-s-a-s-clear-appointment-of-imam-al-ridha-a-s
+  uuid: 9e5143ac-1089-41a1-9339-d297b8bfa0ac
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-5-musa-ibn-jafars-will
+  title: 'Chapter 5: On Musa Ibn Ja''far''s Will'
+  slug: 12-chapter-5-on-musa-ibn-ja-far-s-will
+  uuid: 7b62177c-8465-46c4-ac43-0405c445c64a
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-6-proofs-divine-leadership-al-ridha-among-twelve
+  title: 'Chapter 6: On Proofs of Divine Leadership Of Al-Ridha’ (a.s.) Among The
+    Twelve Imams (a.s.)'
+  slug: 13-chapter-6-on-proofs-of-divine-leadership-of-al-ridha-a-s-among-the-twelve-imams-a-s
+  uuid: 523a85c2-0769-43fd-a5dd-f7cb737a6e17
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-7-traditions-about-musa-ibn-jafar-harun-ar-rashid
+  title: 'Chapter 7: On Traditions About Musa Ibn Ja’far (a.s.), Harun Ar-Rashid And
+    Musa Ibn Al-Mahdi'
+  slug: 14-chapter-7-on-traditions-about-musa-ibn-ja-far-a-s-harun-ar-rashid-and-musa-ibn-al-mahdi
+  uuid: 8b140f68-0a3c-40d4-8725-89564c4947f0
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-8-traditions-death-abi-ibrahim-musa-ibn-jafar-ibn
+  title: 'Chapter 8: Traditions on the Death of Abi Ibrahim Musa Ibn Ja’far Ibn Muhammad
+    Ibn Ali Ibn Al-Husayn (a.s.)'
+  slug: 15-chapter-8-traditions-on-the-death-of-abi-ibrahim-musa-ibn-ja-far-ibn-muhammad-ibn-ali-ibn-al-husayn-a-s
+  uuid: c1e3dc5a-b14f-4c05-be83-46e9bb489114
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-9-descendants-gods-prophet-s-said-have-been
+  title: 'Chapter 9: The Descendants Of God''s Prophet (S) Said To Have Been Killed
+    By Ar-Rashid In One Night After Poisoning Musa Ibn Ja''far (a.s.) - Besides Those
+    Killed By Others'
+  slug: 16-chapter-9-the-descendants-of-god-s-prophet-s-said-to-have-been-killed-by-ar-rashid-in-one-night-after-poisoning-musa-
+  uuid: 27dcb23b-fcbc-477f-9e79-25303036c49c
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-10-reasons-formation-waqifites
+  title: 'Chapter 10: On Reasons For The Formation Of The Waqifites'
+  slug: 17-chapter-10-on-reasons-for-the-formation-of-the-waqifites
+  uuid: 475ce43f-4b8a-4be8-b19e-28db9660dc43
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-11-traditions-al-ridha-about-unity
+  title: 'Chapter 11: On Traditions From Al-Ridha’ About Unity'
+  slug: 18-chapter-11-on-traditions-from-al-ridha-about-unity
+  uuid: f7fdda08-0759-4675-83bd-a34ee1c0fc53
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-12-session-al-ridha-ass-debate-prominent
+  title: 'Chapter 12: A Session of Al-Ridha’ (a.s.)’s Debate With The Prominent Theologians
+    From Among The Rhetoricians And The Various Religions'
+  slug: 19-chapter-12-a-session-of-al-ridha-a-s-s-debate-with-the-prominent-theologians-from-among-the-rhetoricians-and-the-vari
+  uuid: d23403ab-3214-4ffd-b023-3d74a0e72510
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-13-session-presence-al-mamun-al-ridhas-debate
+  title: 'Chapter 13: A Session in the Presence of Al-Ma’mun of Al-Ridha’’s Debate
+    On Unity With Soleiman Al-Marwazi - The Theologian From Khorasan'
+  slug: 20-chapter-13-a-session-in-the-presence-of-al-ma-mun-of-al-ridha-s-debate-on-unity-with-soleiman-al-marwazi-the-theologi
+  uuid: c5f122f3-46e0-4eab-87fa-9c55ccfde00e
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-14-another-session-al-ridha-and-al-mamun
+  title: 'Chapter 14: Another Session of Al-Ridha’ (a.s.) and Al-Ma’mun'
+  slug: 21-chapter-14-another-session-of-al-ridha-a-s-and-al-ma-mun
+  uuid: b7a5bf8a-df12-487a-8adb-e32d7d42e053
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-15-another-session-al-ridha-and-al-mamun
+  title: 'Chapter 15: Another Session with Al-Ridha’ (a.s.) and Al-Ma’mun on the Infallibility
+    of the Prophets'
+  slug: 22-chapter-15-another-session-with-al-ridha-a-s-and-al-ma-mun-on-the-infallibility-of-the-prophets
+  uuid: dd2c0413-6d58-4de8-a336-0d45d5a694a6
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-16-al-ridhas-words-people-ditch
+  title: 'Chapter 16: Al-Ridha’''s Words on the People of the Ditch'
+  slug: 23-chapter-16-al-ridha-s-words-on-the-people-of-the-ditch
+  uuid: c9aa5ce8-16d7-4026-bf9a-b209419b9126
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-17-imam-al-ridhas-words-interpretation-almighty
+  title: 'Chapter 17: Imam Al-Ridha’''s Words On The Interpretation Of The Almighty
+    God''s Words, ‘And We Ransomed Him With A Momentous Sacrifice'
+  slug: 24-chapter-17-imam-al-ridha-s-words-on-the-interpretation-of-the-almighty-god-s-words-and-we-ransomed-him-with-a-momento
+  uuid: dfd41254-a3dd-41df-962e-78ca8bfec7c7
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-18on-imam-al-ridhas-views-prophets-statement-i-am
+  title: Chapter 18:On Imam Al-Ridha’'s Views On The Prophet's Statement, “I Am The
+    Son Of The Two Offerings”
+  slug: 25-chapter-18-on-imam-al-ridha-s-views-on-the-prophet-s-statement-i-am-the-son-of-the-two-offerings
+  uuid: 50ee70d9-f4c7-4041-b7fd-80901a78210d
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-19-al-ridhas-words-sign-imam
+  title: 'Chapter 19: On Al-Ridha’''s Words On The Sign Of The Imam'
+  slug: 26-chapter-19-on-al-ridha-s-words-on-the-sign-of-the-imam
+  uuid: 634ff495-71f1-4232-aa5d-90a88bf5cae5
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-20-what-al-ridha-has-said-regarding-divine
+  title: 'Chapter 20: On What Al-Ridha’ (a.s.) Has Said Regarding Divine Leadership,
+    Its Nobilities And The Rank Of The Divine Leader'
+  slug: 27-chapter-20-on-what-al-ridha-a-s-has-said-regarding-divine-leadership-its-nobilities-and-the-rank-of-the-divine-leader
+  uuid: 37d94666-a65f-45ed-9468-e900cb17726c
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-21-al-ridhas-words-marriage-blessed-lady-fatima
+  title: 'Chapter 21: Al-Ridha’’s Words on the Marriage of the Blessed Lady Fatima
+    (a.s.)'
+  slug: 28-chapter-21-al-ridha-s-words-on-the-marriage-of-the-blessed-lady-fatima-a-s
+  uuid: c27f78cb-f1ae-4296-a30b-2547340dbb6a
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-22-what-al-ridha-said-about-faith-recognition
+  title: 'Chapter 22: On What Al-Ridha’ (a.s.) Said About Faith That Is Recognition
+    Of Paradise, Verbal Confession And Physical Action'
+  slug: 29-chapter-22-on-what-al-ridha-a-s-said-about-faith-that-is-recognition-of-paradise-verbal-confession-and-physical-actio
+  uuid: 38933a8d-e1bf-4682-9861-e46bd4cb8141
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-23-al-ridhas-debates-al-mamun-regarding
+  title: 'Chapter 23: On Al-Ridha’’s Debates With Al-Ma’mun Regarding The Difference
+    Between Family (Itra) And Nation'
+  slug: 30-chapter-23-on-al-ridha-s-debates-with-al-ma-mun-regarding-the-difference-between-family-itra-and-nation
+  uuid: 147a638b-66ae-4064-8335-9b1de5f300e9
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-24-al-ridhas-words-about-man-syria-and-his
+  title: 'Chapter 24: On Al-Ridha’’s Words about the Man from Syria and His Questions
+    from the Commander of the Faithful (a.s.) in the Kufa Mosque'
+  slug: 31-chapter-24-on-al-ridha-s-words-about-the-man-from-syria-and-his-questions-from-the-commander-of-the-faithful-a-s-in-t
+  uuid: 1e734eac-7a8f-495d-a428-4935ea1c3e50
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chpater-25-what-narrated-al-ridha-about-zayd-ibn-ali
+  title: 'Chpater 25: On What Is Narrated By Al-Ridha’ (a.s.) About Zayd Ibn Ali'
+  slug: 32-chpater-25-on-what-is-narrated-by-al-ridha-a-s-about-zayd-ibn-ali
+  uuid: 3aebe203-2914-4494-b4de-6a244cc4a68f
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-26-rare-traditions-al-ridha-about-various-issues
+  title: 'Chapter 26: On Rare Traditions From Al-Ridha’ About Various Issues'
+  slug: 33-chapter-26-on-rare-traditions-from-al-ridha-about-various-issues
+  uuid: 80325251-23a1-4644-9709-427da222dd43
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-27-what-al-ridha-said-about-harut-and-marut
+  title: 'Chapter 27: On What Al-Ridha’ (a.s.) Said About Harut And Marut'
+  slug: 34-chapter-27-on-what-al-ridha-a-s-said-about-harut-and-marut
+  uuid: 9a1e0568-dbe1-46af-8fe6-ef2dabdc4a08
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-28-various-traditions-imam-ali-ibn-musa-al-ridha
+  title: 'Chapter 28: On Various Traditions from Imam Ali Ibn Musa Al-Ridha’ (a.s.)'
+  slug: 35-chapter-28-on-various-traditions-from-imam-ali-ibn-musa-al-ridha-a-s
+  uuid: f3fda722-cf57-4097-89eb-5e1232fdabda
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-29-what-has-been-narrated-al-ridha
+  title: 'Chapter 29: What Has Been Narrated from Al-Ridha’ (a.s.) on the Characteristics
+    of the Prophet (S)'
+  slug: 36-chapter-29-what-has-been-narrated-from-al-ridha-a-s-on-the-characteristics-of-the-prophet-s
+  uuid: b21bc8f8-7c5f-4a1d-9b04-f44612d63c8c
+- source: :alislam
+  source_url: http://www.al-islam.org/uyun-akhbar-ar-ridha-volume-1-shaykh-saduq/chapter-30-various-traditions-al-ridha
+  title: 'Chapter 30: Various Traditions From Al-Ridha’ (a.s.)'
+  slug: 37-chapter-30-various-traditions-from-al-ridha-a-s
+  uuid: 6b302b67-fe12-4ef0-adb6-9b0da0cb4bf4
+---

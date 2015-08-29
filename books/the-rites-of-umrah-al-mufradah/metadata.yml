@@ -1,0 +1,69 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/rites-of-umrah-al-mufradah-nasir-makarim-shirazi
+author: Ayatullah al-Uzma Nasir Makarim Shirazi
+translator: Bahador Shirazian
+title: The Rites of Umrah al-Mufradah
+slug: the-rites-of-umrah-al-mufradah
+uuid: 0c060054-7060-4438-bac9-11450e34f366
+description: |
+  This book has the latest jurisprudential opinions of his highness Grand
+  Ayatollah Makarem Shirazi about Umrah which have been mentioned in
+  different books accompanying his latest Fatwas.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-of-umrah-al-mufradah-nasir-makarim-shirazi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: c7e166db-bd5b-428e-b21b-a4098d233d3e
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-of-umrah-al-mufradah-nasir-makarim-shirazi/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 6455b238-cb10-4615-af05-4c2d197cd9b5
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-of-umrah-al-mufradah-nasir-makarim-shirazi/valid-time-between-two-umrahs-al-mufradah
+  title: Valid Time between Two Umrahs al-Mufradah
+  slug: 3-valid-time-between-two-umrahs-al-mufradah
+  uuid: d549af23-d51e-4808-95e1-d59825646c71
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-of-umrah-al-mufradah-nasir-makarim-shirazi/acts-umrah-al-mufradah
+  title: Acts of Umrah al-Mufradah
+  slug: 4-acts-of-umrah-al-mufradah
+  uuid: 3d95e24d-864d-41c2-a697-bb85c23d12d8
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-of-umrah-al-mufradah-nasir-makarim-shirazi/1-ihram-miqat
+  title: 1.  Ihram from Miqat
+  slug: 5-1-ihram-from-miqat
+  uuid: 7b19e8e3-2c4e-4cc3-acf4-b874bbaccc70
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-of-umrah-al-mufradah-nasir-makarim-shirazi/2-tawaf
+  title: 2. Tawaf
+  slug: 6-2-tawaf
+  uuid: 913f4064-fcb3-4119-a019-557b2efa0fb8
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-of-umrah-al-mufradah-nasir-makarim-shirazi/3-prayer-tawaf
+  title: 3. Prayer of Tawaf
+  slug: 7-3-prayer-of-tawaf
+  uuid: 907a4488-6e14-495a-8171-d703b2c72c11
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-of-umrah-al-mufradah-nasir-makarim-shirazi/4-say-safa-and-marwah
+  title: 4. Sa’y of Safa and Marwah
+  slug: 8-4-sa-y-of-safa-and-marwah
+  uuid: 5ad88be1-e9e9-4047-bf92-6d5d219b1afa
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-of-umrah-al-mufradah-nasir-makarim-shirazi/5-taqsir
+  title: 5. Taqsir
+  slug: 9-5-taqsir
+  uuid: 777506f4-fa86-4a29-aa50-3189480ff825
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-of-umrah-al-mufradah-nasir-makarim-shirazi/6-tawaf-nisa-women-and-its-prayer
+  title: 6. Tawaf of Nisa’ (women) and Its Prayer
+  slug: 10-6-tawaf-of-nisa-women-and-its-prayer
+  uuid: 3a70c259-7a47-458d-9929-f3ce96062e07
+- source: :alislam
+  source_url: http://www.al-islam.org/rites-of-umrah-al-mufradah-nasir-makarim-shirazi/miscellaneous-issues
+  title: Miscellaneous Issues
+  slug: 11-miscellaneous-issues
+  uuid: dc77b0e7-5f32-4326-a18c-36f80e0e69cd
+---

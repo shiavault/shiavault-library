@@ -1,0 +1,33 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/imam-khomeini-s-last-will-and-testament
+title: Imam Khomeini’s Last Will and Testament
+subtitle: Imam's  Final Discourse
+slug: imam-khomeini-s-last-will-and-testament
+uuid: 4e724d5b-5d6e-47e1-8aee-e77d5b58aa03
+description: |
+  The text of the political and religious testament of the Leader of the
+  Islamic Revolution and the Founder of the Islamic Republic of Iran,'
+  Imam Khomeini
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-s-last-will-and-testament/prologue
+  title: Prologue
+  slug: 1-prologue
+  uuid: 50861d6b-3772-4055-ad84-b7041244689c
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-s-last-will-and-testament/testament
+  title: The Testament
+  slug: 2-the-testament
+  uuid: 4e1c1ac8-a9c8-4652-9de7-5679d64d75b5
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-s-last-will-and-testament/last-will
+  title: The Last Will
+  slug: 3-the-last-will
+  uuid: ce2c6aa7-c8d5-418b-9cb7-64316f3d58cc
+- source: :alislam
+  source_url: http://www.al-islam.org/imam-khomeini-s-last-will-and-testament/postscript
+  title: Postscript
+  slug: 4-postscript
+  uuid: 44390877-f9bc-4109-91ed-06d01e6bfe17
+---

@@ -1,0 +1,147 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani
+author: Ayatullah Ali Al-Husayni Al-Sistani
+title: Hajj Rituals
+slug: hajj-rituals
+uuid: 392726cf-1933-4602-8a14-76a1c9dc4578
+description: |
+  Rulings of Hajj according to Grand Ayatollah al-Uzma Ali Al-Husayni
+  Al-Sistani
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/obligation-perform-hajj
+  title: Obligation to perform Hajj
+  slug: 1-obligation-to-perform-hajj
+  uuid: 9d63e0d4-5e05-4d08-9ce0-b7e67fc5c77e
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/conditions-which-make-hajjatul-islam-obligatory
+  title: Conditions which make Hajjatul Islam obligatory
+  slug: 2-conditions-which-make-hajjatul-islam-obligatory
+  uuid: fe8ab058-8fce-45ed-82bb-3b6a5e7b013c
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/making-will-regarding-pilgrimage
+  title: Making a will regarding pilgrimage
+  slug: 3-making-a-will-regarding-pilgrimage
+  uuid: 0cdfd5a8-f151-49fd-9d3f-535ea991b571
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/rules-pilgrimage-proxy-niyabah
+  title: The rules on pilgrimage by proxy (Niyabah)
+  slug: 4-the-rules-on-pilgrimage-by-proxy-niyabah
+  uuid: d66c1b3f-918f-4daf-949e-065b41939ff0
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/various-kinds-umrah
+  title: Various kinds of Umrah
+  slug: 5-various-kinds-of-umrah
+  uuid: 59d6273c-dca4-4bc8-91bb-ff4bf3e4f296
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/optional-pilgrimage
+  title: Optional Pilgrimage
+  slug: 6-optional-pilgrimage
+  uuid: edbee83f-5ffc-4258-956d-f7b710a3d7d7
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/types-hajj
+  title: Types of Hajj
+  slug: 7-types-of-hajj
+  uuid: 52884bff-f2d9-4e64-96d5-2a91f5d8e83a
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/meqats-wearing-ihram
+  title: Meqats for wearing Ihram
+  slug: 8-meqats-for-wearing-ihram
+  uuid: ce4379ec-a149-4c9b-8875-99928fa9b9d6
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/ihram-procedure
+  title: Ihram procedure
+  slug: 9-ihram-procedure
+  uuid: a0fe7633-6729-4166-8162-c32a94131072
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/prohibitions-during-ihram
+  title: Prohibitions during Ihram
+  slug: 10-prohibitions-during-ihram
+  uuid: 0a5bf8e9-bc26-422c-9ec2-ba0f4d8eee44
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/matters-forbidden-within-haram
+  title: Matters forbidden within (The Haram)
+  slug: 11-matters-forbidden-within-the-haram
+  uuid: 183c2eea-1357-4fd0-8ae1-5cc0ce56c9e5
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/tawaf
+  title: Tawaf
+  slug: 12-tawaf
+  uuid: 34761c7e-314e-4ad9-96ed-639db9bc911f
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/obligations-tawaf
+  title: Obligations of Tawaf
+  slug: 13-obligations-of-tawaf
+  uuid: 29eb323c-50db-407f-88c2-e23da9ebdc9f
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/stepping-out-bounds-tawaf
+  title: Stepping out of the Bounds of Tawaf
+  slug: 14-stepping-out-of-the-bounds-of-tawaf
+  uuid: c6df34b3-ff4b-4df7-8791-cc622d2d81ec
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/irregularities-tawaf
+  title: Irregularities in Tawaf
+  slug: 15-irregularities-in-tawaf
+  uuid: 356d6af7-61d8-496f-91dc-786e5b91b3e1
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/tawaf-prayer
+  title: Tawaf Prayer
+  slug: 16-tawaf-prayer
+  uuid: cf819563-efb1-42d6-8e83-05131cc06f2f
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/obligations-say
+  title: Obligations of Sa'y
+  slug: 17-obligations-of-sa-y
+  uuid: a0112ef5-a284-49f2-a263-221e194b65c6
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/taqseer
+  title: Taqseer
+  slug: 18-taqseer
+  uuid: 6984af4f-4ff8-4c13-ade7-2ad5ba8ed449
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/ihram-hajj
+  title: Ihram for Hajj
+  slug: 19-ihram-for-hajj
+  uuid: d0caaa3c-fb1d-4311-86d5-cb1d8158d79f
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/wuquf-arafat
+  title: Wuquf at Arafat
+  slug: 20-wuquf-at-arafat
+  uuid: d458b982-f056-4aed-acc0-fc868ed2fa94
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/wuquf-muzdalifah
+  title: Wuquf at Muzdalifah
+  slug: 21-wuquf-at-muzdalifah
+  uuid: 57838edd-a394-4eb7-b31f-709b26eabaa0
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/mina-and-obligations-there
+  title: Mina and the obligations there
+  slug: 22-mina-and-the-obligations-there
+  uuid: 24678135-50a8-4730-b24f-8487f15f27ab
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/tawaf-un-nisa-and-its-prayer
+  title: Tawaf-Un-Nisa and its prayer
+  slug: 23-tawaf-un-nisa-and-its-prayer
+  uuid: e4766f49-0605-4137-a9be-974bd9a3e8a4
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/wuquf-mina
+  title: Wuquf at Mina
+  slug: 24-wuquf-at-mina
+  uuid: 52fd84d8-8b45-43c1-af30-a146dc1fb39f
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/rami-jamarat
+  title: Rami of Jamarat
+  slug: 25-rami-of-jamarat
+  uuid: 5ee0596c-526c-42f4-8e53-0d7272e6bc15
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/persons-prevented-performing-hajj
+  title: Persons prevented from performing Hajj
+  slug: 26-persons-prevented-from-performing-hajj
+  uuid: f286245f-b6ff-4c1f-97c4-8c32e1300bb9
+- source: :alislam
+  source_url: http://www.al-islam.org/hajj-rituals-ayatullah-ali-al-husayni-al-sistani/recommended-acts-and-supplications
+  title: Recommended acts and supplications
+  slug: 27-recommended-acts-and-supplications
+  uuid: 199dee91-8bb4-4fcf-9c92-dff4fa8f7a73
+---

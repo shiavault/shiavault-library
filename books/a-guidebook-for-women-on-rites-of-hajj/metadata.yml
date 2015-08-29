@@ -1,0 +1,102 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/guidebook-women-rites-hajj-razia-batool-najafi
+author: Razia Batool Najafi
+translator: Huma Hasan Jafri
+title: A Guidebook for Women on Rites of Hajj
+subtitle: According to the Rulings of Ayatullah Ali as-Sistani
+slug: a-guidebook-for-women-on-rites-of-hajj
+uuid: bfe814fc-c7f8-4bb5-8c87-e69dcce9e55a
+description: |
+  This is a guidebook from a series of Guidebooks that aim to answer all
+  the questions a woman would have in relation to Islamic issues in order
+  to help them gain more Ma'rifat and Spirituality in their religious
+  acts. This guide is according to the rulings of Grand Ayatollah Ali
+  AI-Husayni Al-Seestani.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/guidebook-women-rites-hajj-razia-batool-najafi/presentation
+  title: Presentation
+  slug: 1-presentation
+  uuid: 617a8ca4-f513-4305-a00a-cce34e52e182
+- source: :alislam
+  source_url: http://www.al-islam.org/guidebook-women-rites-hajj-razia-batool-najafi/preface
+  title: Preface
+  slug: 2-preface
+  uuid: f96f5201-4283-4cc7-bf14-e65bb8f90c57
+- source: :alislam
+  source_url: http://www.al-islam.org/guidebook-women-rites-hajj-razia-batool-najafi/personality-woman-and-hajj
+  title: Personality of Woman and Hajj
+  slug: 3-personality-of-woman-and-hajj
+  uuid: 41c661a0-e8f3-4739-8a34-62e3dd306393
+- source: :alislam
+  source_url: http://www.al-islam.org/guidebook-women-rites-hajj-razia-batool-najafi/conditions-pilgrimage
+  title: Conditions for Pilgrimage
+  slug: 4-conditions-for-pilgrimage
+  uuid: 6018abdc-03ce-4248-ab6a-14dcdfdef922
+- source: :alislam
+  source_url: http://www.al-islam.org/guidebook-women-rites-hajj-razia-batool-najafi/hajj-appointing-deputy-niyaabat
+  title: Hajj by Appointing a Deputy (Niyaabat)
+  slug: 5-hajj-by-appointing-a-deputy-niyaabat
+  uuid: 94dabb9a-0583-453c-9277-96699b925465
+- source: :alislam
+  source_url: http://www.al-islam.org/guidebook-women-rites-hajj-razia-batool-najafi/umra-al-mufrada
+  title: Umra al-Mufrada
+  slug: 6-umra-al-mufrada
+  uuid: 489f5a78-c46a-47d3-a991-f47937f52d28
+- source: :alislam
+  source_url: http://www.al-islam.org/guidebook-women-rites-hajj-razia-batool-najafi/types-pilgrimage
+  title: Types of Pilgrimage
+  slug: 7-types-of-pilgrimage
+  uuid: 7ec479e7-5314-4d7c-8bc0-900391cd378f
+- source: :alislam
+  source_url: http://www.al-islam.org/guidebook-women-rites-hajj-razia-batool-najafi/philosophy-behind-miqat
+  title: Philosophy behind Miqat
+  slug: 8-philosophy-behind-miqat
+  uuid: efce97dd-32ec-4004-b947-26532b3a9772
+- source: :alislam
+  source_url: http://www.al-islam.org/guidebook-women-rites-hajj-razia-batool-najafi/rituals-umra-ut-tamatu
+  title: Rituals of Umra-ut-Tamatu
+  slug: 9-rituals-of-umra-ut-tamatu
+  uuid: 9070d190-859d-4351-a12b-ab8c9f483395
+- source: :alislam
+  source_url: http://www.al-islam.org/guidebook-women-rites-hajj-razia-batool-najafi/philosophy-ihram
+  title: Philosophy of Ihram
+  slug: 10-philosophy-of-ihram
+  uuid: 6002af55-018e-466c-88bb-4e8e81bed62e
+- source: :alislam
+  source_url: http://www.al-islam.org/guidebook-women-rites-hajj-razia-batool-najafi/philosphy-circumambulation-tawaf
+  title: Philosphy of Circumambulation (Tawaf)
+  slug: 11-philosphy-of-circumambulation-tawaf
+  uuid: 84704f25-d5f4-4468-896f-106bb7ba1ad6
+- source: :alislam
+  source_url: http://www.al-islam.org/guidebook-women-rites-hajj-razia-batool-najafi/hajj-al-tammatu
+  title: Hajj al-Tammatu
+  slug: 12-hajj-al-tammatu
+  uuid: cd233dc7-e933-4383-b820-4dec2de9be6c
+- source: :alislam
+  source_url: http://www.al-islam.org/guidebook-women-rites-hajj-razia-batool-najafi/obligatory-acts-mina
+  title: Obligatory Acts in Mina
+  slug: 13-obligatory-acts-in-mina
+  uuid: 70077db6-fc98-43a9-9a8e-be96eb5f1de7
+- source: :alislam
+  source_url: http://www.al-islam.org/guidebook-women-rites-hajj-razia-batool-najafi/philosophy-behind-circumambulation-nisa
+  title: Philosophy behind Circumambulation of Nisa
+  slug: 14-philosophy-behind-circumambulation-of-nisa
+  uuid: 5b7a59e9-85cc-4a61-a380-2842c594d8ec
+- source: :alislam
+  source_url: http://www.al-islam.org/guidebook-women-rites-hajj-razia-batool-najafi/philosophy-behind-prohibitions-ihram
+  title: Philosophy Behind Prohibitions In Ihram
+  slug: 15-philosophy-behind-prohibitions-in-ihram
+  uuid: 5d228717-9c7c-4952-adb4-95e447d70344
+- source: :alislam
+  source_url: http://www.al-islam.org/guidebook-women-rites-hajj-razia-batool-najafi/miscellaneous-issues
+  title: Miscellaneous Issues
+  slug: 16-miscellaneous-issues
+  uuid: af7c01f9-e9fa-4df0-96c2-18f34b9358cb
+- source: :alislam
+  source_url: http://www.al-islam.org/guidebook-women-rites-hajj-razia-batool-najafi/glossary
+  title: Glossary
+  slug: 17-glossary
+  uuid: 309c5ba3-4359-41a5-9ae2-34692f7df45b
+---
