@@ -1,0 +1,124 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5
+publisher: Pakistan Philosophical Congress
+title: A History of Muslim Philosophy Volume 2, Book 5
+subtitle: Other Disciplines (Covering Both The Early And The Later Centuries)
+slug: a-history-of-muslim-philosophy-volume-2-book-5
+uuid: 27bd03d5-d6d3-4557-ad8b-7b73acb0d8cd
+description: |
+  A Compendium of articles on the History of Muslim Philosophy. In this
+  book:Other Disciplines (Covering Both The Early And The Later
+  Centuries).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5/part-1-language-and-literature
+  title: 'Part 1: Language and Literature'
+  slug: 1-part-1-language-and-literature
+  uuid: 77df8418-ef79-4866-86a3-3224c569d585
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5/chapter-50-arabic-literature-poetic-and-prose-forms
+  title: 'Chapter 50: Arabic Literature, Poetic and Prose Forms'
+  slug: 2-chapter-50-arabic-literature-poetic-and-prose-forms
+  uuid: 28896bf7-a611-4b91-ada9-958fe33c6096
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5/chapter-51-arabic-literature-poetic-and-prose-forms
+  title: 'Chapter 51: Arabic Literature, Poetic and Prose Forms'
+  slug: 3-chapter-51-arabic-literature-poetic-and-prose-forms
+  uuid: 588b3212-28ef-4b8a-94ca-07f0aff92434
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5/chapter-52-arabic-literature-theories-literary-criticism
+  title: 'Chapter 52: Arabic Literature: Theories of Literary Criticism'
+  slug: 4-chapter-52-arabic-literature-theories-of-literary-criticism
+  uuid: ec2380de-380d-48ac-8d7f-bf3e684174e4
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5/chapter-53-persian-literature
+  title: 'Chapter 53: Persian Literature'
+  slug: 5-chapter-53-persian-literature
+  uuid: 8ab90968-3632-43f5-9b14-57296b13c188
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5/chapter-54-turkish-literature
+  title: 'Chapter 54: Turkish Literature'
+  slug: 6-chapter-54-turkish-literature
+  uuid: 26393949-3108-4baa-a52e-fc46ae2b4723
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5/part-2-language-and-literature
+  title: 'Part 2: Language and Literature'
+  slug: 7-part-2-language-and-literature
+  uuid: f59ce4fc-3386-4981-a92c-a9fab78faf8c
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5/chapter-55-architecture
+  title: 'Chapter 55: Architecture'
+  slug: 8-chapter-55-architecture
+  uuid: 568bf672-4bd9-4dd1-b1af-d62d8fe1f1ed
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5/chapter-56-painting
+  title: 'Chapter 56: Painting'
+  slug: 9-chapter-56-painting
+  uuid: e01841e6-f91f-47a1-9220-e1e0ce38f7f1
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5/chapter-57-music
+  title: 'Chapter 57: Music'
+  slug: 10-chapter-57-music
+  uuid: 7720c27e-3859-4f7e-8c86-9417e1412555
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5/chapter-58-music-continued
+  title: 'Chapter 58: Music (continued)'
+  slug: 11-chapter-58-music-continued
+  uuid: 8d5dcfe0-27a9-4665-8d61-d5ebb1bf6923
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5/chapter-59-minor-arts
+  title: 'Chapter 59: Minor Arts'
+  slug: 12-chapter-59-minor-arts
+  uuid: f1a99cd7-5546-4aa1-8a1e-f81101744921
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5/part-3-social-studies
+  title: 'Part 3: Social Studies'
+  slug: 13-part-3-social-studies
+  uuid: 73066ac9-8e1d-4c40-8cb1-591cf3cb32af
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5/chapter-60-historiography
+  title: 'Chapter 60: Historiography'
+  slug: 14-chapter-60-historiography
+  uuid: 31855292-3ef4-4690-9e99-6375e4f7f346
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5/chapter-61-jurisprudence
+  title: 'Chapter 61: Jurisprudence'
+  slug: 15-chapter-61-jurisprudence
+  uuid: 239d1dce-3a83-4b0b-9b23-c7aec36e5c3d
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5/part-4-sciences
+  title: 'Part 4: The Sciences'
+  slug: 16-part-4-the-sciences
+  uuid: 11caccba-d0f2-4e23-b021-681f62932900
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5/chapter-62-geography
+  title: 'Chapter 62: Geography'
+  slug: 17-chapter-62-geography
+  uuid: 37e7543a-793f-40e8-a3ac-3416231dc7f3
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5/chapter-63-mathematics-and-astronomy
+  title: 'Chapter 63: Mathematics and Astronomy'
+  slug: 18-chapter-63-mathematics-and-astronomy
+  uuid: 4515c7a6-52f4-4a7b-a201-9dd51b2cb52a
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5/chapter-64-physics-and-mineralogy
+  title: 'Chapter 64: Physics and Mineralogy'
+  slug: 19-chapter-64-physics-and-mineralogy
+  uuid: 15348fa4-0fd8-4afd-939f-0ddd4cbbd50b
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5/chapter-65-chemistry
+  title: 'Chapter 65: Chemistry'
+  slug: 20-chapter-65-chemistry
+  uuid: 89b4da1f-ef8a-4133-8b1c-8d25cf18e69d
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5/chapter-66-natural-history
+  title: 'Chapter 66: Natural History'
+  slug: 21-chapter-66-natural-history
+  uuid: cce9cdd2-b269-4548-9771-486426e41a3f
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-5/chapter-67-medicine
+  title: 'Chapter 67: Medicine'
+  slug: 22-chapter-67-medicine
+  uuid: 117864fc-203e-4d61-8ea1-619afdd13ca1
+---

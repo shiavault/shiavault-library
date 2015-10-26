@@ -1,0 +1,23 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-6
+publisher: Pakistan Philosophical Congress
+title: A History of Muslim Philosophy Volume 2, Book 6
+subtitle: Influence of Muslim Thought
+slug: a-history-of-muslim-philosophy-volume-2-book-6
+uuid: 9079a39f-de49-4534-bb97-fbf8a5a19bff
+description: |
+  A Compendium of articles on the History of Muslim Philosophy. In this
+  book: Influence of Muslim Thought on the West and East.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-6/chapter-68-influence-muslim-thought-west
+  title: 'Chapter 68: Influence of Muslim Thought on the West'
+  slug: 1-chapter-68-influence-of-muslim-thought-on-the-west
+  uuid: b9598f28-4862-4c00-bfd1-f90a571cf1b9
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-6/chapter-69-influence-muslim-thought-east
+  title: 'Chapter 69:  Influence of Muslim thought on the East'
+  slug: 2-chapter-69-influence-of-muslim-thought-on-the-east
+  uuid: e20389d2-1c32-466c-9f96-f50c5e784ffa
+---

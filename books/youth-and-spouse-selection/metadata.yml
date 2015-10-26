@@ -1,75 +1,77 @@
 ---
-source: :mareef
-source_url: http://www.maaref-foundation.com/english/library/social/youth_and_spouse_selection/index.htm
-title: Youth and Spouse Selection انتخاب همسر ترجمه انگلیسی
+source: :alislam
+source_url: http://www.al-islam.org/youth-and-spouse-selection-ali-akbar-mazaheri
 author: Ali Akbar Mazaheri
+publisher: Ansariyan Publications - Qum
+translator: Javed Iqbal Qazilbash
+title: Youth and Spouse Selection
 slug: youth-and-spouse-selection
-uuid: 533c0e83-62d0-4ea9-bb0b-63ecc39647e0
+uuid: 0db2b634-2425-4369-8bea-62b595a0f2f9
+description: |
+  This book suggests to the youth, solutions to only one of the burning
+  problems of the day, marriage, from an Islamic perspective and
+  viewpoint. The learned author, Mr. Ali Akbar Mazaheri, has put in a
+  great deal of hard and sincere endeavour to illustrate Islamic solutions
+  to this aspect of human life, particularly, the innocent youth of today,
+  who are being misguided, confused and perverted by the immoral
+  techno-propaganda of the imperialists, who have their own axe to grind
+  to achieve their selfish and nasty objectives all around the globe. We
+  hope that this useful book will be a guide for the perturbed youth and
+  an answer to a part of their quest.
 chapters:
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/social/youth_and_spouse_selection/00.htm
-  title: Preface
-  slug: 1-preface
-  uuid: 786c966d-5230-463e-8093-d375f5c98661
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/social/youth_and_spouse_selection/01.htm
-  title: Foreword
-  slug: 2-foreword
-  uuid: ae583c6f-b769-4f02-9600-a3cb2e4ac07a
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/social/youth_and_spouse_selection/02.htm
-  title: Introduction
-  slug: 3-introduction
-  uuid: e82cde3e-2db1-4d4e-b3e3-af9264ec2914
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/social/youth_and_spouse_selection/03.htm
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-spouse-selection-ali-akbar-mazaheri/preface-translator
+  title: Preface by the Translator
+  slug: 1-preface-by-the-translator
+  uuid: dfa7f0ec-9174-484e-96a1-4de254701da8
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-spouse-selection-ali-akbar-mazaheri/foreword-his-eminence-professor-jafar-subhani
+  title: Foreword by His Eminence Professor Ja’far Subhani
+  slug: 2-foreword-by-his-eminence-professor-ja-far-subhani
+  uuid: c2f83b58-d378-4238-86f7-a16cf95ba1a1
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-spouse-selection-ali-akbar-mazaheri/introduction-ali-akbar-mazaheri
+  title: Introduction by ‘Ali Akbar Mazaheri
+  slug: 3-introduction-by-ali-akbar-mazaheri
+  uuid: beb61800-850a-4ad1-97b0-67813a76d644
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-spouse-selection-ali-akbar-mazaheri/chapter-one-excellence-marriage
   title: 'Chapter One: Excellence of Marriage'
   slug: 4-chapter-one-excellence-of-marriage
-  uuid: 04984f17-ef16-479d-b093-85cbee6bcc24
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/social/youth_and_spouse_selection/04.htm
-  title: 'Chapter Two: When Must We Marry?'
+  uuid: f13c7ba2-3676-4e58-9f8f-5ddab17d3aff
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-spouse-selection-ali-akbar-mazaheri/chapter-two-when-must-we-marry
+  title: 'Chapter two: When Must We Marry?'
   slug: 5-chapter-two-when-must-we-marry
-  uuid: 29adf52f-755a-4b63-b097-ebe90921ddd3
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/social/youth_and_spouse_selection/05.htm
-  title: 'Chapter Three: the Merits of Timely a Marriage and Demerits of Its Delay'
+  uuid: c6262f93-4a4e-4889-983b-514159a709b6
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-spouse-selection-ali-akbar-mazaheri/chapter-three-merits-timely-marriage-and-demerits-its
+  title: 'Chapter Three: The Merits of Timely a Marriage and Demerits of its Delay'
   slug: 6-chapter-three-the-merits-of-timely-a-marriage-and-demerits-of-its-delay
-  uuid: 7ff9ee53-b34c-4ef6-9f1d-dbeea557d2a1
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/social/youth_and_spouse_selection/06-1.htm
+  uuid: 3d023519-4956-476b-8bd8-b61fca7d0624
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-spouse-selection-ali-akbar-mazaheri/chapter-four-difficulties-and-hurdles-marriage
   title: 'Chapter Four: Difficulties and Hurdles of Marriage'
   slug: 7-chapter-four-difficulties-and-hurdles-of-marriage
-  uuid: a8e6b7e5-3fd1-49bc-a6d0-8f558d782163
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/social/youth_and_spouse_selection/06-2.htm
-  title: "Chapter Four(2/2): \n\t\t\tThird Difficulty: Difficulty In Spouse Selection"
-  slug: 8-chapter-four-2-2-third-difficulty-difficulty-in-spouse-selection
-  uuid: 1924d157-7939-4a83-9c91-859210f7f5d4
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/social/youth_and_spouse_selection/07-1.htm
+  uuid: bcd9d131-3efb-4f88-b2a4-fc0cdea9148a
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-spouse-selection-ali-akbar-mazaheri/chapter-five-criteria-spouse-selection
   title: 'Chapter Five: Criteria of Spouse Selection'
-  slug: 9-chapter-five-criteria-of-spouse-selection
-  uuid: b0ddbf15-23bb-4140-84f1-6e4765e91566
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/social/youth_and_spouse_selection/07-2.htm
-  title: "Chapter Five(2/2):Salient \n\t\t\tPoints Of Inco Ordination Of Ismail And
-    Safoora"
-  slug: 10-chapter-five-2-2-salient-points-of-inco-ordination-of-ismail-and-safoora
-  uuid: 0f293cfe-4ccf-4de4-aa87-40048d65976c
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/social/youth_and_spouse_selection/08-1.htm
+  slug: 8-chapter-five-criteria-of-spouse-selection
+  uuid: 87b8ecc1-1d18-4411-a31c-487b6bbcc906
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-spouse-selection-ali-akbar-mazaheri/chapter-six-selection
   title: 'Chapter Six: Selection'
-  slug: 11-chapter-six-selection
-  uuid: a8429aab-e275-40ff-9eb1-3b1f0039388a
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/social/youth_and_spouse_selection/08-2.htm
-  title: Crossing the Slippery Road! Complete Caution At Every Step
-  slug: 12-crossing-the-slippery-road-complete-caution-at-every-step
-  uuid: 5b75a692-6609-42c6-a444-42d321376077
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/social/youth_and_spouse_selection/09.htm
+  slug: 9-chapter-six-selection
+  uuid: 77d35f9b-1ad0-4a5c-b5b8-1cf5cc46bc2d
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-spouse-selection-ali-akbar-mazaheri/chapter-seven-engagement-period
   title: 'Chapter Seven: Engagement Period'
-  slug: 13-chapter-seven-engagement-period
-  uuid: 16ae0988-d32f-43b9-a533-7442bc770d35
+  slug: 10-chapter-seven-engagement-period
+  uuid: 0c7007ae-cf27-4035-b693-4540ee564964
+- source: :alislam
+  source_url: http://www.al-islam.org/youth-and-spouse-selection-ali-akbar-mazaheri/leave-real-marriage-marriage-night
+  title: Leave the Real Marriage for the Marriage Night
+  slug: 11-leave-the-real-marriage-for-the-marriage-night
+  uuid: 01ba29ac-c95b-4b8d-a5f8-7a7bedb797ab
 ---

@@ -1,0 +1,29 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/evolution-man-ayatullah-murtadha-mutahhari
+author: Ayatullah Murtadha Mutahhari
+publisher: Foreign Department Of Boyad Be'that
+title: Evolution of Man
+slug: evolution-of-man
+uuid: e7d6d5a6-4dc7-4ad5-8116-c331983491b9
+description: |
+  In this book, Ayatullah Mutahhari discusses the social, historical and
+  technical evolution of man, also discussing the interesting aspect of
+  man's future evolution.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/evolution-man-ayatullah-murtadha-mutahhari/meaning-historical-evolution-mans-social-evolution-and
+  title: 'Meaning of Historical Evolution: Man''s Social Evolution and Progress'
+  slug: 1-meaning-of-historical-evolution-man-s-social-evolution-and-progress
+  uuid: 6f376453-a1bd-4609-8e66-a9de5304fda7
+- source: :alislam
+  source_url: http://www.al-islam.org/evolution-man-ayatullah-murtadha-mutahhari/mans-social-evolution
+  title: Man’s Social Evolution
+  slug: 2-man-s-social-evolution
+  uuid: 22ae765c-f7b1-4228-a245-71e5e303a844
+- source: :alislam
+  source_url: http://www.al-islam.org/evolution-man-ayatullah-murtadha-mutahhari/mans-evolutionary-dimensions
+  title: Man's Evolutionary Dimensions
+  slug: 3-man-s-evolutionary-dimensions
+  uuid: cff197c6-4976-4e2d-99da-029482b8fc36
+---

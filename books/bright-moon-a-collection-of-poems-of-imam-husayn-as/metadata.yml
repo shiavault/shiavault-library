@@ -1,0 +1,53 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/bright-moon-collection-poems-imam-husayn
+publisher: Silk Road Publications
+compiler: Hujjatul Islam Dr. Davood Komeijani
+title: 'Bright Moon: A Collection of Poems of Imam Husayn (as)'
+slug: bright-moon-a-collection-of-poems-of-imam-husayn-as
+uuid: 93e0bdf7-518c-41f3-8289-916485446cb8
+description: |
+  Most of people know Imam Husayn (as) as the Imam who lived 57 years, 10
+  years of which were of his leadership and Imamate or think to know only
+  the last 10 days of his life. Yes, perhaps, he is the most unknown Imam
+  among people, even Shi’ites. This book is a compilation of some of the
+  poetry of Imam Husayn (as) from authentic historic texts in order show
+  his(as) intimate soul, another artful gentle emotional aspect of his
+  great personality.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/bright-moon-collection-poems-imam-husayn/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: b7db9c0f-074b-46c6-a23c-24a62421a453
+- source: :alislam
+  source_url: http://www.al-islam.org/bright-moon-collection-poems-imam-husayn/1-ethical-topics
+  title: 1. Ethical Topics
+  slug: 2-1-ethical-topics
+  uuid: a0c0854b-be45-4f07-a825-1c3bc1003c3d
+- source: :alislam
+  source_url: http://www.al-islam.org/bright-moon-collection-poems-imam-husayn/2-political-topics
+  title: 2. Political Topics
+  slug: 3-2-political-topics
+  uuid: 293d3a8d-66ed-48c4-95f5-2735afdd7cc8
+- source: :alislam
+  source_url: http://www.al-islam.org/bright-moon-collection-poems-imam-husayn/3-faith-and-ideology
+  title: 3. Faith and Ideology
+  slug: 4-3-faith-and-ideology
+  uuid: 2d7fe22a-2c83-47a8-8d22-1b89ddddc921
+- source: :alislam
+  source_url: http://www.al-islam.org/bright-moon-collection-poems-imam-husayn/4-social-affairs
+  title: 4. Social Affairs
+  slug: 5-4-social-affairs
+  uuid: 1b02577d-70a1-4403-884c-34143db17f6f
+- source: :alislam
+  source_url: http://www.al-islam.org/bright-moon-collection-poems-imam-husayn/5-praise-himself-and-descendants-prophet
+  title: 5. In praise of himself and the Descendants of Prophet
+  slug: 6-5-in-praise-of-himself-and-the-descendants-of-prophet
+  uuid: 188a77f2-f883-4f47-a7ae-7d70eba1eb26
+- source: :alislam
+  source_url: http://www.al-islam.org/bright-moon-collection-poems-imam-husayn/list-references-and-sources
+  title: List of References and Sources
+  slug: 7-list-of-references-and-sources
+  uuid: 172bbf81-a8db-4099-89f3-269492b5cc2c
+---

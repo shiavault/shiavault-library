@@ -1,0 +1,38 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/saviour-s-revolution-ayatullah-murtadha-mutahhari
+author: Ayatullah Murtadha Mutahhari
+publisher: Foreign Department Of Boyad Be'that
+title: The Saviour's Revolution
+slug: the-saviour-s-revolution
+uuid: 752ecdda-4f20-4f43-8d95-9b2759400e3d
+description: |
+  The author discusses about the idea of Final Victory and the
+  establishment of an ideal society by the final saviour, Imam Mahdi (aj).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/saviour-s-revolution-ayatullah-murtadha-mutahhari/final-victory-righteousness
+  title: The Final Victory of Righteousness
+  slug: 1-the-final-victory-of-righteousness
+  uuid: 5f417507-2948-4ae7-aad0-e6cd43684712
+- source: :alislam
+  source_url: http://www.al-islam.org/saviour-s-revolution-ayatullah-murtadha-mutahhari/expectation-solace
+  title: Expectation of Solace
+  slug: 2-expectation-of-solace
+  uuid: 723891fa-f71e-4a65-b9e7-d11ef930a202
+- source: :alislam
+  source_url: http://www.al-islam.org/saviour-s-revolution-ayatullah-murtadha-mutahhari/interpretation-evolution-history
+  title: Interpretation of the Evolution of History
+  slug: 3-interpretation-of-the-evolution-of-history
+  uuid: 181bed73-0a82-4993-8d4e-b1ed832d55fb
+- source: :alislam
+  source_url: http://www.al-islam.org/saviour-s-revolution-ayatullah-murtadha-mutahhari/human-or-natural-approach
+  title: The Human or Natural Approach
+  slug: 4-the-human-or-natural-approach
+  uuid: d2080090-d7f6-4903-9e3c-3e459d141c43
+- source: :alislam
+  source_url: http://www.al-islam.org/saviour-s-revolution-ayatullah-murtadha-mutahhari/ideal-society
+  title: An Ideal Society
+  slug: 5-an-ideal-society
+  uuid: 57de462b-e705-43e0-b00d-cf1580565976
+---

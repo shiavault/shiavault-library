@@ -1,0 +1,49 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/general-pattern-islamic-thought-quran-ayatullah-sayyid-ali-khamenei
+author: Ayatullah Sayyid Ali Khamene'i
+publisher: Islamic Propagation Organization
+title: The General Pattern of Islamic Thought in The Qur'an
+slug: the-general-pattern-of-islamic-thought-in-the-qur-an
+uuid: f3251a4f-c1c3-4804-9a7c-943a0551542b
+description: |
+  This book is a collection of speeches delivered by Ayatollah Khamene’i
+  in 1974, 1353 AH. The author tries to give a general picture of what is
+  meant by Islamic thought quoting different verses of the Quran.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/general-pattern-islamic-thought-quran-ayatullah-sayyid-ali-khamenei/publishers-note
+  title: Publisher's Note
+  slug: 1-publisher-s-note
+  uuid: 7100e687-31b9-4549-aad3-905f10cdaa46
+- source: :alislam
+  source_url: http://www.al-islam.org/general-pattern-islamic-thought-quran-ayatullah-sayyid-ali-khamenei/about-author
+  title: About The Author
+  slug: 2-about-the-author
+  uuid: e52cc3df-43da-463a-8713-cf42f1bfca75
+- source: :alislam
+  source_url: http://www.al-islam.org/general-pattern-islamic-thought-quran-ayatullah-sayyid-ali-khamenei/preface
+  title: Preface
+  slug: 3-preface
+  uuid: af9feb80-8a7b-44e8-bf1d-0918d8b3ec83
+- source: :alislam
+  source_url: http://www.al-islam.org/general-pattern-islamic-thought-quran-ayatullah-sayyid-ali-khamenei/faith
+  title: Faith
+  slug: 4-faith
+  uuid: c8a53341-442b-45ba-adbe-20ca8f5b7c03
+- source: :alislam
+  source_url: http://www.al-islam.org/general-pattern-islamic-thought-quran-ayatullah-sayyid-ali-khamenei/monotheism
+  title: Monotheism
+  slug: 5-monotheism
+  uuid: 7d29ada1-3106-4c4a-9284-0c99c06cec45
+- source: :alislam
+  source_url: http://www.al-islam.org/general-pattern-islamic-thought-quran-ayatullah-sayyid-ali-khamenei/prophethood
+  title: Prophethood
+  slug: 6-prophethood
+  uuid: 1d31ccee-07d5-4963-9fa9-aeaa3363e95a
+- source: :alislam
+  source_url: http://www.al-islam.org/general-pattern-islamic-thought-quran-ayatullah-sayyid-ali-khamenei/walayah
+  title: Walayah
+  slug: 7-walayah
+  uuid: 4c16e28b-8bf7-467b-bc77-6d515b3ab0ff
+---

@@ -1,0 +1,44 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/barzakh-purgatory-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi
+author: Ayatullah Sayyid Abdul Husayn Dastghaib Shirazi
+title: Barzakh (Purgatory)
+slug: barzakh-purgatory
+uuid: 32933bbc-2bc7-441a-b27f-e0edff6996c2
+description: |
+  In this text, Shaheed Dastghaib has presented arguments, verses and
+  traditions concerning Barzakh. He briefly discussed the soul of a human,
+  the aftermath of death, the grave and the rewards and punishments in
+  Barzakh.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/barzakh-purgatory-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/punishment-barzakh-non-fulfillment
+  title: Punishment in Barzakh for Non-Fulfillment of the Rights of Others
+  slug: 1-punishment-in-barzakh-for-non-fulfillment-of-the-rights-of-others
+  uuid: dc54e41b-7cc6-42c0-9486-29e4b94eb3d2
+- source: :alislam
+  source_url: http://www.al-islam.org/barzakh-purgatory-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/hell
+  title: Hell
+  slug: 2-hell
+  uuid: eaea204c-0ef4-4a1e-91d4-b8790bd4ed9f
+- source: :alislam
+  source_url: http://www.al-islam.org/barzakh-purgatory-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/effulgence-reality-grave
+  title: Effulgence for the Reality of the Grave
+  slug: 3-effulgence-for-the-reality-of-the-grave
+  uuid: 8c1cc533-405c-4f0f-9769-378c7c6a3468
+- source: :alislam
+  source_url: http://www.al-islam.org/barzakh-purgatory-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/barzakh
+  title: Barzakh
+  slug: 4-barzakh
+  uuid: 1bb6bfcb-28ff-4ec5-babb-c5813fd06f50
+- source: :alislam
+  source_url: http://www.al-islam.org/barzakh-purgatory-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/reward-and-punishment-barzakh
+  title: Reward and Punishment in Barzakh
+  slug: 5-reward-and-punishment-in-barzakh
+  uuid: f15ad1a8-0a80-4b88-99f7-37140b3948e5
+- source: :alislam
+  source_url: http://www.al-islam.org/barzakh-purgatory-ayatullah-sayyid-abdul-husayn-dastghaib-shirazi/death
+  title: Death
+  slug: 6-death
+  uuid: 0b154e2d-a5cc-4a8f-a425-206bafe17967
+---

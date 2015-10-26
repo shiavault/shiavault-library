@@ -1,0 +1,56 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/probe-history-hadith-allamah-sayyid-murtadha-askari
+author: Allamah Sayyid Murtadha Askari
+publisher: Foreign Department Of Boyad Be'that
+title: A Probe into the History of Hadith
+slug: a-probe-into-the-history-of-hadith
+uuid: 114f0675-6c7b-4379-aced-d00ae7736d98
+description: |
+  Sayyid Murtadha al-Askari, the renowned scholar, has very ably made a
+  probe into the History of the delicate institution of Hadith and very
+  ably unveiled the picture of the institution of Hadith in such a superb
+  manner that every line and contour of its countenance becomes distinctly
+  clear. His scholarly and unbiased analysis of the subject invites the
+  attention of the Muslims all over the world to view the subject
+  dispassionately and try to differentiate and dissociate the authentic
+  from the unauthentic and fabricated Hadith. In this way it will be a
+  great service to Islam to introduce it in its true colours and contours
+  through the help of reliable and authentic Hadith.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/probe-history-hadith-allamah-sayyid-murtadha-askari/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: f0b764b6-f602-41d9-881e-f207ec8030d4
+- source: :alislam
+  source_url: http://www.al-islam.org/probe-history-hadith-allamah-sayyid-murtadha-askari/words-remember
+  title: Words to Remember
+  slug: 2-words-to-remember
+  uuid: 222fc665-cc61-4b20-9a21-e2bc23eef5bb
+- source: :alislam
+  source_url: http://www.al-islam.org/probe-history-hadith-allamah-sayyid-murtadha-askari/foreword
+  title: Foreword
+  slug: 3-foreword
+  uuid: 2fb1d221-67d8-465c-8ac0-20b95c426c8e
+- source: :alislam
+  source_url: http://www.al-islam.org/probe-history-hadith-allamah-sayyid-murtadha-askari/about-author
+  title: About The Author
+  slug: 4-about-the-author
+  uuid: 2ba7942a-5bec-4fb8-8844-46bb1f22ce2b
+- source: :alislam
+  source_url: http://www.al-islam.org/probe-history-hadith-allamah-sayyid-murtadha-askari/part-one
+  title: Part One
+  slug: 5-part-one
+  uuid: fa8fc206-1098-42a4-91ac-c377fd5c2af1
+- source: :alislam
+  source_url: http://www.al-islam.org/probe-history-hadith-allamah-sayyid-murtadha-askari/part-two
+  title: Part Two
+  slug: 6-part-two
+  uuid: 8164b8a6-9a89-4477-96b1-37c1dc37e8f0
+- source: :alislam
+  source_url: http://www.al-islam.org/probe-history-hadith-allamah-sayyid-murtadha-askari/appendix
+  title: Appendix
+  slug: 7-appendix
+  uuid: 5dffc764-f228-42e4-9c56-89fa760541cf
+---

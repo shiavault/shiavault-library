@@ -1,0 +1,24 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-7
+publisher: Pakistan Philosophical Congress
+title: A History of Muslim Philosophy Volume 2, Book 7
+subtitle: The Dark Age  (1111/1700-1266/1850)
+slug: a-history-of-muslim-philosophy-volume-2-book-7
+uuid: a703c2be-d5ef-4729-a922-0b58e1a27e49
+description: |
+  A Compendium of articles on the History of Muslim Philosophy. In this
+  book: The Dark Age  (1111/1700-1266/1850).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-7/chapter-70-decline-muslim-world
+  title: 'Chapter 70: Decline In The Muslim World'
+  slug: 1-chapter-70-decline-in-the-muslim-world
+  uuid: 03aa5390-4daa-4a8e-a313-99baeebfc438
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-7/chapter-71-silver-lining-development-urdu-language-grammar
+  title: 'Chapter 71:  The Silver Lining,  Development Of The Urdu Language, Grammar,
+    And Literature'
+  slug: 2-chapter-71-the-silver-lining-development-of-the-urdu-language-grammar-and-literature
+  uuid: 5c2237c8-8416-4acb-951c-963f84a678e4
+---

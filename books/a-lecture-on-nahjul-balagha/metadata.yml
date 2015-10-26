@@ -1,0 +1,38 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/lecture-nahjul-balagha-allamah-sayyid-saeed-akhtar-rizvi
+author: Allamah Sayyid Sa'eed Akhtar Rizvi
+publisher: Bilal Muslim Mission of Tanzania
+title: A Lecture on Nahjul Balagha
+slug: a-lecture-on-nahjul-balagha
+uuid: 60696125-daff-4f8f-b2cb-5afd89ca8413
+description: |
+  This book aims to clarify some of the misunderstandings shown by some
+  people about Nahjul Balagha.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/lecture-nahjul-balagha-allamah-sayyid-saeed-akhtar-rizvi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: d4787b6b-1246-4cc5-a41a-91a6e1248650
+- source: :alislam
+  source_url: http://www.al-islam.org/lecture-nahjul-balagha-allamah-sayyid-saeed-akhtar-rizvi/lecture-nahjul-balaghah
+  title: A Lecture on Nahjul Balaghah
+  slug: 2-a-lecture-on-nahjul-balaghah
+  uuid: 6c829643-6818-4ac7-b8dd-fbca715a02a9
+- source: :alislam
+  source_url: http://www.al-islam.org/lecture-nahjul-balagha-allamah-sayyid-saeed-akhtar-rizvi/notes-miracolous-sermons-imam-ali
+  title: Notes on Miracolous Sermons of Imam Ali (as)
+  slug: 3-notes-on-miracolous-sermons-of-imam-ali-as
+  uuid: f36bce4a-4e05-495a-b791-00cb18e70f55
+- source: :alislam
+  source_url: http://www.al-islam.org/lecture-nahjul-balagha-allamah-sayyid-saeed-akhtar-rizvi/sermon-without-dots
+  title: A Sermon Without Dots
+  slug: 4-a-sermon-without-dots
+  uuid: ce372633-d324-40ef-b093-bf675becf83b
+- source: :alislam
+  source_url: http://www.al-islam.org/lecture-nahjul-balagha-allamah-sayyid-saeed-akhtar-rizvi/sermon-without-alif
+  title: A Sermon Without Alif
+  slug: 5-a-sermon-without-alif
+  uuid: 445db226-55e6-4047-b49d-8a2c24ff6da7
+---

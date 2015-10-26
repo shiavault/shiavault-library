@@ -1,0 +1,49 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/wilayat-guardianship-ayatullah-sayyid-ali-khamenei
+author: Ayatullah Sayyid Ali Khamene'i
+translator: Syed Saeed Haider Kazmi
+title: Wilayat (Guardianship)
+subtitle: Six Speeches about Wilayat (Guardianship)
+slug: wilayat-guardianship
+uuid: b4674115-1dcc-498e-9560-8a4b784d614a
+description: |
+  Six speeches by Sayyid Ali Khamene'i about the various aspects of
+  Wilayat and its deep meaning in light of the Holy Qur'an and traditions.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/wilayat-guardianship-ayatullah-sayyid-ali-khamenei/publishers-preface
+  title: Publisher's Preface
+  slug: 1-publisher-s-preface
+  uuid: fc727314-a156-4325-95fd-d8554e525bef
+- source: :alislam
+  source_url: http://www.al-islam.org/wilayat-guardianship-ayatullah-sayyid-ali-khamenei/speech-1-basic-understanding-wilayat-guardianship
+  title: 'Speech 1: Basic Understanding of Wilayat (Guardianship)'
+  slug: 2-speech-1-basic-understanding-of-wilayat-guardianship
+  uuid: 0fa76159-5137-4e89-870a-96459244286a
+- source: :alislam
+  source_url: http://www.al-islam.org/wilayat-guardianship-ayatullah-sayyid-ali-khamenei/speech-2-relationships-muslim-nation-ummah
+  title: 'Speech 2: Relationships of Muslim Nation (Ummah)'
+  slug: 3-speech-2-relationships-of-muslim-nation-ummah
+  uuid: fbfd357b-cbe5-4494-88be-5b29fcacc499
+- source: :alislam
+  source_url: http://www.al-islam.org/wilayat-guardianship-ayatullah-sayyid-ali-khamenei/speech-3-paradise-wilayat
+  title: 'Speech 3: Paradise of Wilayat'
+  slug: 4-speech-3-paradise-of-wilayat
+  uuid: d562ac0f-a88e-4654-8a8d-bd647ef930ab
+- source: :alislam
+  source_url: http://www.al-islam.org/wilayat-guardianship-ayatullah-sayyid-ali-khamenei/speech-4-practical-establishment-wilayat
+  title: 'Speech 4: Practical Establishment of Wilayat'
+  slug: 5-speech-4-practical-establishment-of-wilayat
+  uuid: 418db1a7-0bde-4f71-bb39-1c509547c9b8
+- source: :alislam
+  source_url: http://www.al-islam.org/wilayat-guardianship-ayatullah-sayyid-ali-khamenei/speech-5-wilayat-someone-other-god
+  title: 'Speech 5: Wilayat of Someone Other than God'
+  slug: 6-speech-5-wilayat-of-someone-other-than-god
+  uuid: a5d44d4f-aa5e-4115-8b89-d6eefcaab444
+- source: :alislam
+  source_url: http://www.al-islam.org/wilayat-guardianship-ayatullah-sayyid-ali-khamenei/speech-6-wilayat-and-migration
+  title: 'Speech 6: Wilayat and Migration'
+  slug: 7-speech-6-wilayat-and-migration
+  uuid: 37145ebe-1111-41e9-b659-a9ed79e24192
+---

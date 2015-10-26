@@ -1,0 +1,76 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/wahhabis-fitna-exposed-allamah-sayyid-saeed-akhtar-rizvi
+author: Allamah Sayyid Sa'eed Akhtar Rizvi
+publisher: Bilal Muslim Mission of Tanzania
+title: Wahhabis Fitna Exposed
+slug: wahhabis-fitna-exposed
+uuid: 91e1a80e-5321-4d09-b55c-67e67def4c7e
+description: |
+  This text is a detailed and well-referenced reply to the booklet “What
+  is Shi’aism?” which has been printed in Nairobi and distributed
+  throughout East Africa by the Wahhabis, in order to spread discord.It
+  has been written not to hurt the feelings of anyone; but to
+  differentiate fact from fiction, and to clear the air against Shiaism.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabis-fitna-exposed-allamah-sayyid-saeed-akhtar-rizvi/about-book
+  title: About The Book
+  slug: 1-about-the-book
+  uuid: 4edba42e-c510-4d03-a3bf-2ffdfaffd773
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabis-fitna-exposed-allamah-sayyid-saeed-akhtar-rizvi/preface
+  title: Preface
+  slug: 2-preface
+  uuid: 3c9ebfe9-55df-4206-a490-d60b229da367
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabis-fitna-exposed-allamah-sayyid-saeed-akhtar-rizvi/shiism
+  title: This is Shi’ism
+  slug: 3-this-is-shi-ism
+  uuid: b48c437f-5bac-4055-be79-6eb4982e28df
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabis-fitna-exposed-allamah-sayyid-saeed-akhtar-rizvi/glance-booklet-what-shiaism
+  title: A Glance at the Booklet “What is Shi’aism?”
+  slug: 4-a-glance-at-the-booklet-what-is-shi-aism
+  uuid: 9b9bb4bc-e5fa-4438-8771-dc521ae3b700
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabis-fitna-exposed-allamah-sayyid-saeed-akhtar-rizvi/infallibility-imams
+  title: Infallibility of the Imams
+  slug: 5-infallibility-of-the-imams
+  uuid: f07c7c52-dafb-4f6c-be1c-8243e4be5dc9
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabis-fitna-exposed-allamah-sayyid-saeed-akhtar-rizvi/tahrif
+  title: Tahrif
+  slug: 6-tahrif
+  uuid: 7d5d1de8-d237-42ac-a3e2-c1bed8643f1b
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabis-fitna-exposed-allamah-sayyid-saeed-akhtar-rizvi/hadith
+  title: Hadith
+  slug: 7-hadith
+  uuid: d88e9681-8d5a-4f1a-a9db-cdb5bcdb45ff
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabis-fitna-exposed-allamah-sayyid-saeed-akhtar-rizvi/bada
+  title: Bada’
+  slug: 8-bada
+  uuid: 44f5f686-bbe2-4901-862e-f9a5266d2942
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabis-fitna-exposed-allamah-sayyid-saeed-akhtar-rizvi/sahaba-companions
+  title: Sahaba (Companions)
+  slug: 9-sahaba-companions
+  uuid: 335a458d-2f55-4678-9314-33f826716d87
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabis-fitna-exposed-allamah-sayyid-saeed-akhtar-rizvi/fatwas
+  title: Fatwas
+  slug: 10-fatwas
+  uuid: f7f29d98-09f4-4a2b-bd3b-191354a5734c
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabis-fitna-exposed-allamah-sayyid-saeed-akhtar-rizvi/taqiyah
+  title: Taqiyah
+  slug: 11-taqiyah
+  uuid: 98635c65-4e39-478f-82b7-9a48277a81f4
+- source: :alislam
+  source_url: http://www.al-islam.org/wahhabis-fitna-exposed-allamah-sayyid-saeed-akhtar-rizvi/epilogue
+  title: Epilogue
+  slug: 12-epilogue
+  uuid: c6862ba7-372c-4a8f-9a7d-c21b025a69e1
+---

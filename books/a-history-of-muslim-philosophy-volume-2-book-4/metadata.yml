@@ -1,0 +1,89 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-4
+publisher: Pakistan Philosophical Congress
+title: A History of Muslim Philosophy Volume 2, Book 4
+subtitle: Later Centuries (From the Fall of Baghdad [656/1258] TO 1111/1700)
+slug: a-history-of-muslim-philosophy-volume-2-book-4
+uuid: 31389577-227d-4723-9b1e-7ac00853c57e
+description: |
+  A Compendium of articles on the History of Muslim Philosophy. In this
+  book: Later Centuries (From the Fall of Baghdad [656/1258] TO
+  1111/1700).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-4/part-1-fall-baghdad
+  title: Part 1. The Fall of Baghdad
+  slug: 1-part-1-the-fall-of-baghdad
+  uuid: a6bf8803-35da-4f92-a0dd-18b0da164ad0
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-4/chapter-40-fall-abbasid-caliphate
+  title: 'Chapter 40:  Fall of The ‘Abbasid Caliphate'
+  slug: 2-chapter-40-fall-of-the-abbasid-caliphate
+  uuid: 4ada637d-ea2c-4e1e-b2ec-fe630dae4ecd
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-4/part-2-theologico-philosophical-thought
+  title: Part 2.  Theologico-Philosophical Thought
+  slug: 3-part-2-theologico-philosophical-thought
+  uuid: 39e31f4b-e381-4da6-892e-d9d52d96f698
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-4/chapter-41-ibn-taimiyyah
+  title: 'Chapter 41:  Ibn Taimiyyah'
+  slug: 4-chapter-41-ibn-taimiyyah
+  uuid: 62a8570e-b0c1-43bc-83a1-a99633e86d01
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-4/part-3-sufis
+  title: 'Part 3:  The Sufis'
+  slug: 5-part-3-the-sufis
+  uuid: e132e5e8-e2fe-4f10-b0b5-23537fbefa0e
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-4/chapter-42-jalal-al-din-rumi
+  title: 'Chapter 42:  Jalal al-Din Rumi'
+  slug: 6-chapter-42-jalal-al-din-rumi
+  uuid: c25b9ea0-6529-45bc-9a39-87b3815d9e15
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-4/chapter-43-mahmud-shabistari-al-jili-and-jami
+  title: 'Chapter 43:  Mahmud Shabistari, Al-Jili, and Jami'
+  slug: 7-chapter-43-mahmud-shabistari-al-jili-and-jami
+  uuid: 17217736-a605-43fc-8f25-73b46387c94a
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-4/chapter-44-sheikh-ahmad-sirhindi
+  title: 'Chapter 44:  Sheikh Ahmad Sirhindi'
+  slug: 8-chapter-44-sheikh-ahmad-sirhindi
+  uuid: a9de4453-cb55-4bc5-a67a-7266fac80ba7
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-4/part-4-philosophers
+  title: 'Part 4:  The “Philosophers”'
+  slug: 9-part-4-the-philosophers
+  uuid: c1b9d653-af65-4935-a130-f75cfb3e97ec
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-4/chapter-45-jalal-al-din-dawwani
+  title: 'Chapter 45:  Jalal al-Din Dawwani'
+  slug: 10-chapter-45-jalal-al-din-dawwani
+  uuid: f598057e-e1fa-43fd-abdd-1bca766923c9
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-4/chapter-46-ibn-khaldun
+  title: 'Chapter 46:  Ibn Khaldun'
+  slug: 11-chapter-46-ibn-khaldun
+  uuid: 8d8758fb-cd40-4a27-bfed-f26a76581556
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-4/chapter-47-school-ispahan
+  title: 'Chapter 47:  The School of Ispahan'
+  slug: 12-chapter-47-the-school-of-ispahan
+  uuid: e6931cac-a2d2-4e2e-821b-c78c9e379354
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-4/chapter-48-sadr-al-din-shirazi
+  title: 'Chapter 48:  Sadr al-Din Shirazi'
+  slug: 13-chapter-48-sadr-al-din-shirazi
+  uuid: f0a90c8d-663d-4ef4-8204-5ba84a96d8ff
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-4/part-six-political-thought
+  title: 'Part Six:  Political Thought'
+  slug: 14-part-six-political-thought
+  uuid: 9c6d6bd0-ce8c-44d9-bb09-995264cd6e67
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-4/chapter-49-ibn-khaldun
+  title: 'Chapter 49:  Ibn Khaldun'
+  slug: 15-chapter-49-ibn-khaldun
+  uuid: d7d235cb-0f8a-4419-bacf-4c97e81182a5
+---

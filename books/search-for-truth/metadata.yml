@@ -1,0 +1,26 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/search-truth-sv-mir-ahmad-ali
+author: S.V. Mir Ahmad Ali
+publisher: World Organization for Islamic Services (WOFIS)
+title: Search for Truth
+slug: search-for-truth
+uuid: c3ee4a89-258c-413d-a8d2-577637a70e60
+description: |
+  This text contains the detailed minutes of a Muslim lecturer's
+  discussion with Mr. Joseph and his teacher and mathematics professor
+  about the basic doctrines of Christianity as well as about Islam. The
+  object of this publication is to arm young Muslim minds with the truth
+  so they can defend the unreasonable criticisms against Islam.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/search-truth-sv-mir-ahmad-ali/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: fbf19f50-6a07-4580-b954-e636d6237e5b
+- source: :alislam
+  source_url: http://www.al-islam.org/search-truth-sv-mir-ahmad-ali/truth-found
+  title: The Truth Found
+  slug: 2-the-truth-found
+  uuid: 2d0f2ad6-df0a-4bbc-bfe8-25216b4aa93e
+---

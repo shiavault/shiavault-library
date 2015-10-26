@@ -1,0 +1,189 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3
+publisher: Pakistan Philosophical Congress
+title: A History of Muslim Philosophy Volume 1, Book 3
+subtitle: Early Centuries (From The First/Seventh Century To The Fall Of Baghdad)
+slug: a-history-of-muslim-philosophy-volume-1-book-3
+uuid: ec606647-f392-4917-83b6-d4f2182b6c76
+description: |
+  A Compendium of articles on the History of Muslim Philosophy. In this
+  book: Early Centuries (From The First/Seventh Century To The Fall Of
+  Baghdad)
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/part-1%C2%A0theologico-philosophical-movements
+  title: Part 1: Theologico-Philosophical Movements
+  slug: 1-part-1-theologico-philosophical-movements
+  uuid: 345b9397-a5b8-4521-ab43-3ecd9fb3203b
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-10-mutazalism
+  title: 'Chapter 10: Mu’tazalism'
+  slug: 2-chapter-10-mu-tazalism
+  uuid: c43fecf8-85d6-4215-b30a-9925d3f7dd38
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-11-asharism
+  title: 'Chapter 11: Ash’arism'
+  slug: 3-chapter-11-ash-arism
+  uuid: 059c4df6-3f4c-4a56-96fb-1d577f07c64f
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-12-tahawism
+  title: 'Chapter 12: Tahawism'
+  slug: 4-chapter-12-tahawism
+  uuid: c28d81e3-f6e2-4cac-b8a4-00c5045f898f
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-13-maturidism
+  title: 'Chapter 13: Maturidism'
+  slug: 5-chapter-13-maturidism
+  uuid: 52116cfe-7daf-4275-ac03-5b86389e7e2a
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-14-zahirism
+  title: 'Chapter 14: Zahirism'
+  slug: 6-chapter-14-zahirism
+  uuid: 721e9312-ca6b-45d4-b04c-e6cf9517585b
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-15-ikhwan-al-safa
+  title: 'Chapter 15: Ikhwan al-Safa'
+  slug: 7-chapter-15-ikhwan-al-safa
+  uuid: ff656295-2c0f-42cf-ae14-efa2f5502787
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/part-2-sufis
+  title: 'Part 2: The Sufis'
+  slug: 8-part-2-the-sufis
+  uuid: 42199ca0-1624-4d75-b8c7-511f7e0dfd5f
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-16-early-sufis-doctrine
+  title: 'Chapter 16: Early Sufis Doctrine'
+  slug: 9-chapter-16-early-sufis-doctrine
+  uuid: 8f112a5f-9c39-4560-91a9-d0b827a30ca2
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-17-early-sufis-continued
+  title: 'Chapter 17: Early Sufis (Continued)'
+  slug: 10-chapter-17-early-sufis-continued
+  uuid: e38267b8-0317-4dce-9745-0bbf4d0ef28e
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-18-abd-al-qadir-jilani-and-shihab-al-din
+  title: 'Chapter 18: ’Abd Al-Qadir Jilani and Shihab Al-Din Suhrawardi'
+  slug: 11-chapter-18-abd-al-qadir-jilani-and-shihab-al-din-suhrawardi
+  uuid: 3df9431a-8d61-427e-bc76-ae3a70de27ab
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-19-shihab-al-din-suhrawardi-maqtul
+  title: 'Chapter 19: Shihab al-Din Suhrawardi Maqtul'
+  slug: 12-chapter-19-shihab-al-din-suhrawardi-maqtul
+  uuid: 5e5ad68f-8068-4a52-8606-1e95eddc84a2
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-20-ibn-arabi
+  title: 'Chapter 20: Ibn `Arabi'
+  slug: 13-chapter-20-ibn-arabi
+  uuid: 86bf17eb-b28e-4e93-bbf0-b93c9cd23de2
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/part-3-philosophers
+  title: 'Part 3: The Philosophers'
+  slug: 14-part-3-the-philosophers
+  uuid: 448b1670-ca47-4245-9446-e4bb52703b9e
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-21-al-kindi
+  title: 'Chapter 21: Al-Kindi'
+  slug: 15-chapter-21-al-kindi
+  uuid: 66168555-a20e-4c1f-8366-cb796a05919b
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-22-muhammad-ibn-zakariya-al-razi
+  title: 'Chapter 22 : Muhammad Ibn Zakariya Al-Razi'
+  slug: 16-chapter-22-muhammad-ibn-zakariya-al-razi
+  uuid: 0f33e4c2-9bef-4909-877e-b951fc13e255
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-23-al-farabi
+  title: 'Chapter 23: Al-Farabi'
+  slug: 17-chapter-23-al-farabi
+  uuid: 61afbfaa-37c1-4c87-9f8f-3db4d82f79e4
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-24-miskawaih
+  title: 'Chapter 24: Miskawaih'
+  slug: 18-chapter-24-miskawaih
+  uuid: 767c6ac9-064b-424b-8fb5-a92244305d3d
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-25-ibn-sina
+  title: 'Chapter 25: Ibn Sina'
+  slug: 19-chapter-25-ibn-sina
+  uuid: 1f483789-2eaa-434a-9c58-aa05478fa8ca
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-26-ibn-bajjah
+  title: 'Chapter 26: Ibn Bajjah'
+  slug: 20-chapter-26-ibn-bajjah
+  uuid: b4c079ef-e746-4d11-b0ac-a7121defd6f5
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-27-ibn-tufail
+  title: 'Chapter 27: Ibn Tufail'
+  slug: 21-chapter-27-ibn-tufail
+  uuid: 7ed67996-3fa9-4171-9c83-b770c47bb6c8
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-28-ibn-rushd
+  title: 'Chapter 28: Ibn Rushd'
+  slug: 22-chapter-28-ibn-rushd
+  uuid: 2f7406ee-b4e1-4f29-a3d6-2015fde9bbce
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-29-nasir-al-din-tusi
+  title: 'Chapter 29: Nasir Al-Din Tusi'
+  slug: 23-chapter-29-nasir-al-din-tusi
+  uuid: 7de968b7-36b0-4a80-8fb1-d95d31759219
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/part-4-middle-roaders
+  title: 'Part 4: The Middle-Roaders'
+  slug: 24-part-4-the-middle-roaders
+  uuid: aad6ef08-a5a6-4acb-be2b-9ce656ee4cc4
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-30-al-ghazali-part-1-metaphysics
+  title: 'Chapter 30: Al-Ghazali Part 1 - Metaphysics'
+  slug: 25-chapter-30-al-ghazali-part-1-metaphysics
+  uuid: 306f5151-31c7-4172-8357-c17958f5e43b
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-31-al-ghazali-part-2
+  title: 'Chapter 31: Al-Ghazali Part 2'
+  slug: 26-chapter-31-al-ghazali-part-2
+  uuid: f3ef8530-eaad-46c5-8eb8-0b517e3a7904
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-32-fakhr-al-razi
+  title: 'Chapter 32: Fakhr Al-Razi'
+  slug: 27-chapter-32-fakhr-al-razi
+  uuid: ff2f8131-931c-45d7-bad6-bc53a6e0bad2
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/part-5-political-thinkers
+  title: 'Part 5: Political Thinkers'
+  slug: 28-part-5-political-thinkers
+  uuid: 3c1e812e-8f21-4711-88f6-4840ddd5cb27
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-33-political-thought-early-islam
+  title: 'Chapter 33: Political Thought In Early Islam'
+  slug: 29-chapter-33-political-thought-in-early-islam
+  uuid: e01ba44c-aeba-45fb-bfba-864f913b040a
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-34-abu-hanifah-and-abu-yusuf
+  title: 'Chapter 34: Abu Hanifah and Abu Yusuf'
+  slug: 30-chapter-34-abu-hanifah-and-abu-yusuf
+  uuid: 0ca99bf3-02fb-4da3-bd05-a249422e80c8
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-35-al-farabi
+  title: 'Chapter 35: Al-Farabi'
+  slug: 31-chapter-35-al-farabi
+  uuid: 368d9ef4-675a-4f1d-95a6-961ca04b04fe
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-36-al-mawardi
+  title: 'Chapter 36: Al-Mawardi'
+  slug: 32-chapter-36-al-mawardi
+  uuid: 0fff6921-fd4a-4171-83b7-385c5f261097
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-37-political-theory-shiites
+  title: 'Chapter 37: Political Theory Of The Shiites'
+  slug: 33-chapter-37-political-theory-of-the-shiites
+  uuid: 5d5a3706-803e-4d27-8643-af3e4a2e459f
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-38-zizam-al-mulk-tusi
+  title: 'Chapter 38: Zizam Al-Mulk Tusi'
+  slug: 34-chapter-38-zizam-al-mulk-tusi
+  uuid: 72a40d08-a0be-4a76-bade-37bd00b7b39a
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-1-book-3/chapter-39-al-ghazali
+  title: 'Chapter 39: Al-Ghazali'
+  slug: 35-chapter-39-al-ghazali
+  uuid: 394953e4-5dc0-4676-b6a1-c8a0bcb783d7
+---

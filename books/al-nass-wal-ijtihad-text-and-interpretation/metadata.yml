@@ -1,0 +1,81 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/al-nass-wal-ijtihad-text-interpretation-abdul-husayn-sharafuddin-al-musawi
+author: Abdul Husayn Sharafuddin al-Musawi
+publisher: Ansariyan Publications - Qum
+translator: Abdullah al-Shahin
+title: Al-Nass Wal-Ijtihad, Text and Interpretation
+slug: al-nass-wal-ijtihad-text-and-interpretation
+uuid: 674f9c71-e533-41f2-8a19-83a2814ff488
+description: |
+  The Text Al-Nass Wal-Ijtihad deals with the judgments and verdicts that
+  the author has collected, through his wide research, which have been
+  innovated by famous companions of the Prophet (S) and by their
+  successors that have contradicted the basic rules of ijtihad. Any of us,
+  who discusses these events now, just wants to research on history to
+  know the stages of the dispute in order to reform the faults and not to
+  widen them, in order to make use of this reform at present and to make
+  it grow in the future and not to recall a past that has elapsed and will
+  never come back again.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/al-nass-wal-ijtihad-text-interpretation-abdul-husayn-sharafuddin-al-musawi/glance-authors-biography
+  title: A Glance At The Author’s Biography
+  slug: 1-a-glance-at-the-author-s-biography
+  uuid: fd888641-4fd3-4f97-aaa1-4b6848a4c7bf
+- source: :alislam
+  source_url: http://www.al-islam.org/al-nass-wal-ijtihad-text-interpretation-abdul-husayn-sharafuddin-al-musawi/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 586e4f2b-8085-4385-8538-0f5deb844fd7
+- source: :alislam
+  source_url: http://www.al-islam.org/al-nass-wal-ijtihad-text-interpretation-abdul-husayn-sharafuddin-al-musawi/word-written-sadruddeen
+  title: 'A word written by: Sadruddeen Sharafuddeen'
+  slug: 3-a-word-written-by-sadruddeen-sharafuddeen
+  uuid: 6e9df8d3-d31a-4692-ba22-ab05e85a42ae
+- source: :alislam
+  source_url: http://www.al-islam.org/al-nass-wal-ijtihad-text-interpretation-abdul-husayn-sharafuddin-al-musawi/preface
+  title: Preface
+  slug: 4-preface
+  uuid: a5dac909-d2e9-47a6-b446-c605a7a0b20d
+- source: :alislam
+  source_url: http://www.al-islam.org/al-nass-wal-ijtihad-text-interpretation-abdul-husayn-sharafuddin-al-musawi/chapter-1-interpretations
+  title: 'Chapter 1: Interpretations of Abu Bakr and his followers'
+  slug: 5-chapter-1-interpretations-of-abu-bakr-and-his-followers
+  uuid: 3f2275c2-0e50-42c8-9083-c951371601ae
+- source: :alislam
+  source_url: http://www.al-islam.org/al-nass-wal-ijtihad-text-interpretation-abdul-husayn-sharafuddin-al-musawi/chapter-2-interpretation
+  title: 'Chapter 2: Interpretation of Umar and his followers'
+  slug: 6-chapter-2-interpretation-of-umar-and-his-followers
+  uuid: fdea125e-7f1c-432b-98da-8bf09ff517ec
+- source: :alislam
+  source_url: http://www.al-islam.org/al-nass-wal-ijtihad-text-interpretation-abdul-husayn-sharafuddin-al-musawi/chapter-3-othman-and-his
+  title: 'Chapter 3: Othman and his followers’ Interpretations'
+  slug: 7-chapter-3-othman-and-his-followers-interpretations
+  uuid: 35834d2a-6a66-4631-aed3-eab877edb73a
+- source: :alislam
+  source_url: http://www.al-islam.org/al-nass-wal-ijtihad-text-interpretation-abdul-husayn-sharafuddin-al-musawi/chapter-4-aaisha-and-her
+  title: 'Chapter 4: Aa’isha and her interpretations'
+  slug: 8-chapter-4-aa-isha-and-her-interpretations
+  uuid: 3d325235-6d4a-446c-977e-fe1ce211d6e2
+- source: :alislam
+  source_url: http://www.al-islam.org/al-nass-wal-ijtihad-text-interpretation-abdul-husayn-sharafuddin-al-musawi/chapter-5-interpretations
+  title: 'Chapter 5: Interpretations of Khalid bin al-Waleed'
+  slug: 9-chapter-5-interpretations-of-khalid-bin-al-waleed
+  uuid: 8f722cfe-27aa-4436-a66a-2fc1f129434d
+- source: :alislam
+  source_url: http://www.al-islam.org/al-nass-wal-ijtihad-text-interpretation-abdul-husayn-sharafuddin-al-musawi/chapter-6-violations
+  title: 'Chapter 6: The violations of Mo’awiya'
+  slug: 10-chapter-6-the-violations-of-mo-awiya
+  uuid: 11b6feb3-aaf7-4c48-8588-06d4d5415894
+- source: :alislam
+  source_url: http://www.al-islam.org/al-nass-wal-ijtihad-text-interpretation-abdul-husayn-sharafuddin-al-musawi/chapter-7-slips-public
+  title: 'Chapter 7: The slips of the public (the Sunni)'
+  slug: 11-chapter-7-the-slips-of-the-public-the-sunni
+  uuid: 4c42d1be-790b-40be-8097-35fb1f001e43
+- source: :alislam
+  source_url: http://www.al-islam.org/al-nass-wal-ijtihad-text-interpretation-abdul-husayn-sharafuddin-al-musawi/conclusion
+  title: Conclusion
+  slug: 12-conclusion
+  uuid: 2e948405-6d61-4590-96e4-49d158e26056
+---

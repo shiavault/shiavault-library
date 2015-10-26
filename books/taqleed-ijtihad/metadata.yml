@@ -1,0 +1,99 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/taqleed-ijtihad-allama-syed-ibn-hasan-najafi
+author: Allama Syed Ibn Hasan Najafi
+publisher: Markaz Fikr-e-Islami, Islamabad
+translator: Syed Saeed Haider Kazmi
+title: Taqleed & Ijtihad
+slug: taqleed-ijtihad
+uuid: 54087725-afde-4161-8f6f-0415ac6c8753
+description: |
+  A detailed discussion and analysis of Taqleed & Ijtihad in the light of
+  the Holy Qur'an and traditions.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/taqleed-ijtihad-allama-syed-ibn-hasan-najafi/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: b4de484d-671e-42dd-a623-fa24eb9ff248
+- source: :alislam
+  source_url: http://www.al-islam.org/taqleed-ijtihad-allama-syed-ibn-hasan-najafi/meanings-taqleed
+  title: The Meanings of Taqleed
+  slug: 2-the-meanings-of-taqleed
+  uuid: c7aa44f3-2f93-45f3-b05c-beabff0790c1
+- source: :alislam
+  source_url: http://www.al-islam.org/taqleed-ijtihad-allama-syed-ibn-hasan-najafi/what-does-nature-say
+  title: What Does Nature Say?
+  slug: 3-what-does-nature-say
+  uuid: 69de5a6a-24ae-4a10-81f7-44f9fb127c73
+- source: :alislam
+  source_url: http://www.al-islam.org/taqleed-ijtihad-allama-syed-ibn-hasan-najafi/guidance-intellect
+  title: Guidance by Intellect
+  slug: 4-guidance-by-intellect
+  uuid: cf48a690-e3cd-4f6f-b322-ace9fe9ed93a
+- source: :alislam
+  source_url: http://www.al-islam.org/taqleed-ijtihad-allama-syed-ibn-hasan-najafi/and-how-quran-guides
+  title: And this is How Quran Guides
+  slug: 5-and-this-is-how-quran-guides
+  uuid: c4a0d99d-25b4-4d6f-a434-2135cfe16e17
+- source: :alislam
+  source_url: http://www.al-islam.org/taqleed-ijtihad-allama-syed-ibn-hasan-najafi/decision-tradition
+  title: Decision of Tradition
+  slug: 6-decision-of-tradition
+  uuid: 6a4bb972-6b1d-4578-aa50-1f54005cc632
+- source: :alislam
+  source_url: http://www.al-islam.org/taqleed-ijtihad-allama-syed-ibn-hasan-najafi/think-it-way
+  title: Think of It This Way
+  slug: 7-think-of-it-this-way
+  uuid: 0bf98957-b498-4681-8625-35d4e0cb9968
+- source: :alislam
+  source_url: http://www.al-islam.org/taqleed-ijtihad-allama-syed-ibn-hasan-najafi/little-more-aggravation
+  title: A Little More Aggravation
+  slug: 8-a-little-more-aggravation
+  uuid: d1fdcdba-9d33-4b4e-8400-37e7bdd1c1b0
+- source: :alislam
+  source_url: http://www.al-islam.org/taqleed-ijtihad-allama-syed-ibn-hasan-najafi/school-ijtihad-beginning
+  title: The School of Ijtihad, the Beginning
+  slug: 9-the-school-of-ijtihad-the-beginning
+  uuid: 64153a14-ef0c-4b10-9eec-8b841363646b
+- source: :alislam
+  source_url: http://www.al-islam.org/taqleed-ijtihad-allama-syed-ibn-hasan-najafi/commentary-imam-hasan-al-askari
+  title: Commentary by Imam Hasan al-Askari (as)
+  slug: 10-commentary-by-imam-hasan-al-askari-as
+  uuid: 372ca270-3e2e-4bd0-8fe0-037b071d0e52
+- source: :alislam
+  source_url: http://www.al-islam.org/taqleed-ijtihad-allama-syed-ibn-hasan-najafi/history-ijtihad
+  title: The History of Ijtihad
+  slug: 11-the-history-of-ijtihad
+  uuid: adaa42cd-de48-4a4c-a9d2-503b2696ddf9
+- source: :alislam
+  source_url: http://www.al-islam.org/taqleed-ijtihad-allama-syed-ibn-hasan-najafi/look-al-risala
+  title: A Look at Al-Risala
+  slug: 12-a-look-at-al-risala
+  uuid: 6595876f-1908-40f2-9572-48d663ee3db1
+- source: :alislam
+  source_url: http://www.al-islam.org/taqleed-ijtihad-allama-syed-ibn-hasan-najafi/fact
+  title: The Fact Is
+  slug: 13-the-fact-is
+  uuid: f01368c4-1994-4e1f-8a35-81319caf00e3
+- source: :alislam
+  source_url: http://www.al-islam.org/taqleed-ijtihad-allama-syed-ibn-hasan-najafi/period-short-occultation
+  title: The Period of Short Occultation
+  slug: 14-the-period-of-short-occultation
+  uuid: 78cbc7e4-b251-4c2e-868a-fc3572b4078b
+- source: :alislam
+  source_url: http://www.al-islam.org/taqleed-ijtihad-allama-syed-ibn-hasan-najafi/last-word
+  title: The Last Word
+  slug: 15-the-last-word
+  uuid: b8e67495-ea87-458f-bf76-56d5ba1cf354
+- source: :alislam
+  source_url: http://www.al-islam.org/taqleed-ijtihad-allama-syed-ibn-hasan-najafi/our-marajay-taqleed
+  title: Our Marajay Taqleed
+  slug: 16-our-marajay-taqleed
+  uuid: 3ac14ce4-aa6f-42ee-9ceb-cfb3bd82f7ad
+- source: :alislam
+  source_url: http://www.al-islam.org/taqleed-ijtihad-allama-syed-ibn-hasan-najafi/references
+  title: References
+  slug: 17-references
+  uuid: ac9eaccc-3a2c-475b-afc2-b7d544480c69
+---

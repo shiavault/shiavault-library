@@ -1,0 +1,91 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-8
+publisher: Pakistan Philosophical Congress
+title: A History of Muslim Philosophy Volume 2, Book 8
+subtitle: Modern Renaissance (Covering both the Early and the Later Centuries)
+slug: a-history-of-muslim-philosophy-volume-2-book-8
+uuid: 43b591a9-198a-40db-9480-b208fc42b988
+description: |
+  A Compendium of articles on the History of Muslim Philosophy. In this
+  book: Modern Renaissance (Covering both the Early and the Later
+  Centuries).
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-8/part-1-renaissance-near-and-middle-east
+  title: Part 1. Renaissance in the Near and Middle East
+  slug: 1-part-1-renaissance-in-the-near-and-middle-east
+  uuid: b1e303fa-dfab-46ca-a024-843f1ed6433e
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-8/chapter-72-renaissance-arabia-yemen-iraq-syria-and-lebanon
+  title: 'Chapter 72: Renaissance in Arabia, Yemen, Iraq, Syria and Lebanon'
+  slug: 2-chapter-72-renaissance-in-arabia-yemen-iraq-syria-and-lebanon
+  uuid: f1993f70-9863-421b-93df-061b6ed030ae
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-8/chapter-73-renaissance-north-africa-sanusiyyah-movement
+  title: 'Chapter 73: Renaissance in North Africa: The Sanusiyyah Movement'
+  slug: 3-chapter-73-renaissance-in-north-africa-the-sanusiyyah-movement
+  uuid: 312f4010-14bd-4583-91e7-0a3f0cfeb1fb
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-8/chapter-74-jamal-al-din-al-afghani
+  title: 'Chapter 74: Jamal Al-Din Al-Afghani'
+  slug: 4-chapter-74-jamal-al-din-al-afghani
+  uuid: b50eac3c-ca5a-4cec-b901-addf5566c9b0
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-8/chapter-75-renaissance-egypt-muhammad-abduh-and-his-school
+  title: 'Chapter 75: Renaissance in Egypt: Muhammad Abduh and His School'
+  slug: 5-chapter-75-renaissance-in-egypt-muhammad-abduh-and-his-school
+  uuid: c326025a-f0dc-42e2-8683-a21499a77445
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-8/chapter-76-renaissance-turkey-zia-gokalp-and-his-school
+  title: 'Chapter 76: Renaissance in Turkey: Zia Gokalp and His School'
+  slug: 6-chapter-76-renaissance-in-turkey-zia-gokalp-and-his-school
+  uuid: a8d508a7-90ea-4079-9dac-12e65501d452
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-8/chapter-77-renaissance-iran-general
+  title: 'Chapter 77: Renaissance in Iran: General'
+  slug: 7-chapter-77-renaissance-in-iran-general
+  uuid: 73093782-81be-4e77-880c-7974f51094c5
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-8/chapter-78-renasissance-iran-haji-mulla-hadi-sabziwari
+  title: 'Chapter 78: Renasissance in Iran: Haji Mulla Hadi Sabziwari'
+  slug: 8-chapter-78-renasissance-in-iran-haji-mulla-hadi-sabziwari
+  uuid: 040348ca-2663-4ba2-8a87-a2f55d1ae0f8
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-8/part-2-renaissance-south-and-south-east-asia
+  title: Part 2. Renaissance in South and South-East Asia
+  slug: 9-part-2-renaissance-in-south-and-south-east-asia
+  uuid: 5ddbccbd-6de3-4153-9d0d-c2f399620fec
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-8/chapter-79-renaissance-indo-pakistan-shah-wali-allah
+  title: 'Chapter 79: Renaissance in Indo-Pakistan: Shah Wali Allah Dihlawi'
+  slug: 10-chapter-79-renaissance-in-indo-pakistan-shah-wali-allah-dihlawi
+  uuid: 7ac1f522-1687-4c6e-bf83-11c7f13e6069
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-8/chapter-80-renaissance-indo-pakistan-continued-sir-sayyid
+  title: 'Chapter 80: Renaissance in Indo-Pakistan (Continued): Sir Sayyid Ahmad Khan
+    as a Politician, Historian, and Reformist'
+  slug: 11-chapter-80-renaissance-in-indo-pakistan-continued-sir-sayyid-ahmad-khan-as-a-politician-historian-and-reformist
+  uuid: 12c5bcfb-0229-4036-8126-c0ade273f7d7
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-8/chapter-81-renaissance-indo-pakistan-continued-sir-sayyid
+  title: 'Chapter 81: Renaissance in Indo-Pakistan (Continued): Sir Sayyid Ahmad Khan
+    as a Religio-Philosophical Thinker'
+  slug: 12-chapter-81-renaissance-in-indo-pakistan-continued-sir-sayyid-ahmad-khan-as-a-religio-philosophical-thinker
+  uuid: 8869464a-80e3-4aa5-abd6-c21646b42b86
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-8/chapter-82-renaissance-indo-pakistan-continued-iqbal
+  title: 'Chapter 82: Renaissance in Indo-Pakistan (Continued): Iqbal'
+  slug: 13-chapter-82-renaissance-in-indo-pakistan-continued-iqbal
+  uuid: 115e7019-1db1-42a6-af78-b1489cc7b2d5
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-8/chapter-83-renaissance-indonesia
+  title: 'Chapter 83: Renaissance in Indonesia'
+  slug: 14-chapter-83-renaissance-in-indonesia
+  uuid: 07a2f8f9-d842-4bfc-8407-22c9eda16578
+- source: :alislam
+  source_url: http://www.al-islam.org/history-muslim-philosophy-volume-2-book-8/conclusion
+  title: Conclusion
+  slug: 15-conclusion
+  uuid: 40e954ac-b52d-419b-aa19-f49ee65f8cb3
+---

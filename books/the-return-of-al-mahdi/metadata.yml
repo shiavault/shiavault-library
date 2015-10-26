@@ -1,0 +1,31 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/return-al-mahdi-al-fadl-ibn-shadhan
+author: al-Fadl ibn Shadhan
+publisher: Bilal Muslim Mission of Tanzania
+translator: Allamah Sayyid Sa'eed Akhtar Rizvi
+title: The Return of Al-Mahdi
+slug: the-return-of-al-mahdi
+uuid: 9eba41f9-19cc-4c1b-9fc6-1fdf37c6734f
+description: |
+  This is the translation of Mukhtasaru lthbati 'r-Raj'ah (Abridged
+  lthbati 'r-Raj'ah). The original book of which this is an abridgement
+  was by Abu Muhammad al-Fadl ibn Shadhan ibn al-Khalil al-Azdi
+  an-Nishapuri.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/return-al-mahdi-al-fadl-ibn-shadhan/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 5ec7b2cb-695e-49a4-a27c-13b8f7e246c3
+- source: :alislam
+  source_url: http://www.al-islam.org/return-al-mahdi-al-fadl-ibn-shadhan/short-selection-book-lthbatu-r-rajah
+  title: Short Selection from the book lthbatu 'r-Raj'ah
+  slug: 2-short-selection-from-the-book-lthbatu-r-raj-ah
+  uuid: 79eb4eeb-edf2-4527-aa86-2f0a3f72e181
+- source: :alislam
+  source_url: http://www.al-islam.org/return-al-mahdi-al-fadl-ibn-shadhan/appendix
+  title: Appendix
+  slug: 3-appendix
+  uuid: d75353eb-7344-44bd-b01c-0696d2abe5f1
+---

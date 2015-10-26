@@ -1,0 +1,51 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/promised-savior-inquiry-imamate-mahdi-viewpoint-muslim-thinkers-sayyid-ali-al-milani
+author: Sayyid Ali al-Husayni al-Milani
+translator: Dr. Sayyid Abdur Rauf Afzali
+title: 'The Promised Savior: An inquiry into the imamate of Imam Mahdi (as) from the
+  viewpoint of Muslim thinkers'
+slug: the-promised-savior-an-inquiry-into-the-imamate-of-imam-mahdi-as-from-the-viewpoint-of-muslim-thinkers
+uuid: 6bcffe4f-84c6-402a-81e3-7f6bc423de55
+description: |
+  Written by Professor Milani, The Promised Savior is a short but
+  significant work that deals with the doctrine of Mahdawiyyat (the belief
+  in Imam Mahdi as ultimate savior). Despite being short, it has not
+  ignored any vital issues concerning the doctrine of Mahdawiyyat.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/promised-savior-inquiry-imamate-mahdi-viewpoint-muslim-thinkers-sayyid-ali-al-milani/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 8b3d36d3-7595-4df0-af17-d40a97084fa6
+- source: :alislam
+  source_url: http://www.al-islam.org/promised-savior-inquiry-imamate-mahdi-viewpoint-muslim-thinkers-sayyid-ali-al-milani/translators
+  title: Translator's Note
+  slug: 2-translator-s-note
+  uuid: 930acee2-b3f2-4cae-958a-78e0c1c81d34
+- source: :alislam
+  source_url: http://www.al-islam.org/promised-savior-inquiry-imamate-mahdi-viewpoint-muslim-thinkers-sayyid-ali-al-milani/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: 3049d3c7-1785-4f85-8767-691385b34c97
+- source: :alislam
+  source_url: http://www.al-islam.org/promised-savior-inquiry-imamate-mahdi-viewpoint-muslim-thinkers-sayyid-ali-al-milani/part-1
+  title: 'Part 1: Mahdawiyyat and Imam Mahdi from the view point of Muslim thinkers'
+  slug: 4-part-1-mahdawiyyat-and-imam-mahdi-from-the-view-point-of-muslim-thinkers
+  uuid: 9acdaa7f-981b-46bd-99b4-877d27ef8620
+- source: :alislam
+  source_url: http://www.al-islam.org/promised-savior-inquiry-imamate-mahdi-viewpoint-muslim-thinkers-sayyid-ali-al-milani/part-2-counter
+  title: 'Part 2: Counter-traditions'
+  slug: 5-part-2-counter-traditions
+  uuid: 14c08bf0-de64-48d1-ad0e-e85624ce1f7f
+- source: :alislam
+  source_url: http://www.al-islam.org/promised-savior-inquiry-imamate-mahdi-viewpoint-muslim-thinkers-sayyid-ali-al-milani/part-3-question
+  title: 'Part 3: Question of Mahdawiyyat and Doubts about it'
+  slug: 6-part-3-question-of-mahdawiyyat-and-doubts-about-it
+  uuid: 84e2aaad-781a-459c-91a3-6abd784644d3
+- source: :alislam
+  source_url: http://www.al-islam.org/promised-savior-inquiry-imamate-mahdi-viewpoint-muslim-thinkers-sayyid-ali-al-milani/bibliography
+  title: Bibliography
+  slug: 7-bibliography
+  uuid: ffc080fb-b17c-4a41-baac-f7c48cb60141
+---

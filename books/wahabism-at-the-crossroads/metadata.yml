@@ -1,0 +1,65 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/wahabism-at-crossroads-nasir-makarim-shirazi
+author: Ayatullah al-`Uzma al-Hajj ash-Shaykh Nasir Makarim Shirazi
+publisher: ABWA Publishing and Printing Center
+translator: Mustapha Muhammadi
+title: Wahabism At The Crossroads
+slug: wahabism-at-the-crossroads
+uuid: 466ec228-0250-4d30-ba69-8bcfa9420e1a
+description: |
+  This book gives a detailed account of the two types of Wahhabis:
+  Moderate and Extremist; and explains the reasons why Wahabism is at the
+  crossroads.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/wahabism-at-crossroads-nasir-makarim-shirazi/publishers-foreword
+  title: Publisher’s Foreword
+  slug: 1-publisher-s-foreword
+  uuid: fca9b1a2-1d23-4d82-acd8-9be7553b36aa
+- source: :alislam
+  source_url: http://www.al-islam.org/wahabism-at-crossroads-nasir-makarim-shirazi/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 93c325df-2e7a-430d-96d0-34f92eb60ad2
+- source: :alislam
+  source_url: http://www.al-islam.org/wahabism-at-crossroads-nasir-makarim-shirazi/section-1-causes-extinction
+  title: 'Section 1: Causes of Extinction'
+  slug: 3-section-1-causes-of-extinction
+  uuid: eed04d0d-99e8-4d85-9941-2a0450085b37
+- source: :alislam
+  source_url: http://www.al-islam.org/wahabism-at-crossroads-nasir-makarim-shirazi/section-2-imposing-belief
+  title: 'Section 2: Imposing belief'
+  slug: 4-section-2-imposing-belief
+  uuid: 8afc9577-1924-4774-9a40-2a06a90e34d0
+- source: :alislam
+  source_url: http://www.al-islam.org/wahabism-at-crossroads-nasir-makarim-shirazi/section-3-extreme-and-severe-fanaticism
+  title: 'Section 3: Extreme and Severe Fanaticism'
+  slug: 5-section-3-extreme-and-severe-fanaticism
+  uuid: 456b90fb-0037-46b6-b1d7-6de37530e960
+- source: :alislam
+  source_url: http://www.al-islam.org/wahabism-at-crossroads-nasir-makarim-shirazi/section-4-lack-familiarity-cultural-values
+  title: 'Section 4: Lack of familiarity with Cultural Values'
+  slug: 6-section-4-lack-of-familiarity-with-cultural-values
+  uuid: 9dd45901-bcd9-4666-b34d-f4d4e23657eb
+- source: :alislam
+  source_url: http://www.al-islam.org/wahabism-at-crossroads-nasir-makarim-shirazi/section-5-obduracy-accepting-any-innovation
+  title: 'Section 5: Obduracy in accepting any innovation'
+  slug: 7-section-5-obduracy-in-accepting-any-innovation
+  uuid: 69622a7e-2483-4f72-9b05-01bcc217cc7e
+- source: :alislam
+  source_url: http://www.al-islam.org/wahabism-at-crossroads-nasir-makarim-shirazi/section-6-irrational-and-incorrect-perception-six
+  title: 'Section 6: Irrational and Incorrect Perception of six Qur''anic Terms'
+  slug: 8-section-6-irrational-and-incorrect-perception-of-six-qur-anic-terms
+  uuid: 43bb8aaa-d94d-440a-88bc-430e858042c3
+- source: :alislam
+  source_url: http://www.al-islam.org/wahabism-at-crossroads-nasir-makarim-shirazi/section-7-calls
+  title: 'Section 7: The Calls'
+  slug: 9-section-7-the-calls
+  uuid: b1d4ad8c-8a81-4632-ae67-3bd59c71b6fc
+- source: :alislam
+  source_url: http://www.al-islam.org/wahabism-at-crossroads-nasir-makarim-shirazi/last-word
+  title: The Last Word!
+  slug: 10-the-last-word
+  uuid: d17fd516-654b-43d1-b3b8-c7a4fe424934
+---

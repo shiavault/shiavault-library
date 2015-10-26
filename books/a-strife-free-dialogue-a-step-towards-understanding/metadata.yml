@@ -1,0 +1,56 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/strife-free-dialogue-step-towards-understanding-dr-isam-al-imad
+author: Dr. ‘Isam al-‘Imad
+publisher: ABWA Publishing and Printing Center
+translator: Sayyid Iraj Razzaqi
+title: A Strife-free Dialogue (A Step towards Understanding)
+slug: a-strife-free-dialogue-a-step-towards-understanding
+uuid: eae1170c-9d87-41a6-9c23-b8ae110db88e
+description: |
+  This book aims to establish a suitable method of communication with
+  Wahhabis to familiarize them with Shi‘ism, and to prepare a proper
+  ground for their conversion to the school of thought of the Household of
+  the Prophet, peace be upon them.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/strife-free-dialogue-step-towards-understanding-dr-isam-al-imad/transliteration-symbols
+  title: Transliteration Symbols
+  slug: 1-transliteration-symbols
+  uuid: b2aeb604-f5db-4b95-bfa4-7d2d5c2eb569
+- source: :alislam
+  source_url: http://www.al-islam.org/strife-free-dialogue-step-towards-understanding-dr-isam-al-imad/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: cc4b545f-ad35-464d-b1b1-c90e778cd6f1
+- source: :alislam
+  source_url: http://www.al-islam.org/strife-free-dialogue-step-towards-understanding-dr-isam-al-imad/primary-discourse
+  title: The Primary Discourse
+  slug: 3-the-primary-discourse
+  uuid: 2f30ef42-9c81-43e2-8391-65d098d9cd20
+- source: :alislam
+  source_url: http://www.al-islam.org/strife-free-dialogue-step-towards-understanding-dr-isam-al-imad/how-present-imamiyyah-school-thought
+  title: How to Present the Imamiyyah School of Thought to the Wahhabis
+  slug: 4-how-to-present-the-imamiyyah-school-of-thought-to-the-wahhabis
+  uuid: 948316e9-0c08-4b44-83f7-157e7aace533
+- source: :alislam
+  source_url: http://www.al-islam.org/strife-free-dialogue-step-towards-understanding-dr-isam-al-imad/stage-1-there-no-association-between
+  title: 'Stage 1: There is No Association between the Shi‘ism and the Ghulat'
+  slug: 5-stage-1-there-is-no-association-between-the-shi-ism-and-the-ghulat
+  uuid: 5d47ac2f-7087-45dd-9677-0d051cb71fbb
+- source: :alislam
+  source_url: http://www.al-islam.org/strife-free-dialogue-step-towards-understanding-dr-isam-al-imad/stage-2-analytical-study-imamiyyah
+  title: 'Stage 2: Analytical Study of the Imamiyyah'
+  slug: 6-stage-2-analytical-study-of-the-imamiyyah
+  uuid: 072ce986-d680-4e4f-a630-31f4a7c1cc40
+- source: :alislam
+  source_url: http://www.al-islam.org/strife-free-dialogue-step-towards-understanding-dr-isam-al-imad/stage-3-meticulous-understanding
+  title: 'Stage 3: A Meticulous Understanding of the Imamiyyah’s Faith'
+  slug: 7-stage-3-a-meticulous-understanding-of-the-imamiyyah-s-faith
+  uuid: 51994545-3df4-4745-b85b-68002cbf8201
+- source: :alislam
+  source_url: http://www.al-islam.org/strife-free-dialogue-step-towards-understanding-dr-isam-al-imad/epilogue-future-belongs-shiism
+  title: 'The Epilogue: The Future Belongs to the Shi‘ism'
+  slug: 8-the-epilogue-the-future-belongs-to-the-shi-ism
+  uuid: cbf4f2a6-7c30-4ac5-bf45-ca04811feead
+---

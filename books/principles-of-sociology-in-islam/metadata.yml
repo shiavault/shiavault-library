@@ -1,0 +1,54 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/principles-sociology-islam
+publisher: World Organization for Islamic Services (WOFIS)
+translator: Mehdi Imam Husaini
+title: Principles of Sociology in Islam
+slug: principles-of-sociology-in-islam
+uuid: 7e0cd67c-9c4a-4051-a111-be19e4f9679f
+description: |
+  This valuable and interesting book, familiarizes the esteemed reader, in
+  the background of Islamic unity and brotherhood, with the humble but
+  firm advice and commands of the holy verses and honorable traditions of
+  the Holy Prophet (S) and the infallible Imams of his household (a.s.),
+  and puts at his disposal the original text of many of these verses and
+  traditions also so he presents, as well, examples of interesting and
+  effective actions of these leaders. In this way, he gives worthy help to
+  the direction of the esteemed readers development on this road to unity.
+  The reader is able to strengthen himself in the direction of human
+  development, once, every few days, for a few minutes, put the common
+  every day problems out of yours, for mind and in a moment of rest and
+  comfort, repeat the study of this book and put your spirit at heavenly
+  prompting and pure verses and traditions disposal.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/principles-sociology-islam/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 00ce69c1-61a8-4635-af8e-fe579c1ff870
+- source: :alislam
+  source_url: http://www.al-islam.org/principles-sociology-islam/1-respect-human-beings
+  title: 1. Respect Of Human Beings
+  slug: 2-1-respect-of-human-beings
+  uuid: b863f903-75eb-4634-9e65-4242ca3a3c8d
+- source: :alislam
+  source_url: http://www.al-islam.org/principles-sociology-islam/2-mercy-and-kindness-people
+  title: 2. Mercy And Kindness To People
+  slug: 3-2-mercy-and-kindness-to-people
+  uuid: 8ec054e4-1d0f-4e15-ad02-466a79e8cb1e
+- source: :alislam
+  source_url: http://www.al-islam.org/principles-sociology-islam/3-humility-and-politeness
+  title: 3. Humility And Politeness
+  slug: 4-3-humility-and-politeness
+  uuid: 9947ddf3-4c5c-4f82-b497-f24281a87be8
+- source: :alislam
+  source_url: http://www.al-islam.org/principles-sociology-islam/4-fulfilment-promise
+  title: 4. Fulfilment Of Promise
+  slug: 5-4-fulfilment-of-promise
+  uuid: ae6d2775-1d38-4f72-8c41-eb0604039451
+- source: :alislam
+  source_url: http://www.al-islam.org/principles-sociology-islam/conclusion
+  title: Conclusion
+  slug: 6-conclusion
+  uuid: 90398429-9944-44f3-a3bb-1ca04ae501e7
+---

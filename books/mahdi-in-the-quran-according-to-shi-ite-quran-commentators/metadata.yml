@@ -1,0 +1,54 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/mahdi-quran-according-shiite-quran-commentators-vasran-toussi
+author: A. ToussiN. Vasram
+publisher: Ansariyan Publications - Qum
+title: Mahdi in the Quran According to Shi‘ite Quran Commentators
+slug: mahdi-in-the-quran-according-to-shi-ite-quran-commentators
+uuid: 962c3c1a-4bce-4a2b-8c4a-bead2b9328b1
+description: |
+  In this book, author has explored the belief in Mahdi and the Messianic
+  ideas implicit in the Qur’an in the light of both classical and
+  contemporary Shi'ite commentaries on the Qur'an.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/mahdi-quran-according-shiite-quran-commentators-vasran-toussi/transliteration
+  title: Transliteration
+  slug: 1-transliteration
+  uuid: d7deed08-de22-4512-a665-92b23ce6d832
+- source: :alislam
+  source_url: http://www.al-islam.org/mahdi-quran-according-shiite-quran-commentators-vasran-toussi/dates
+  title: Dates
+  slug: 2-dates
+  uuid: ab033d6b-3678-4981-adb9-60afb16b3170
+- source: :alislam
+  source_url: http://www.al-islam.org/mahdi-quran-according-shiite-quran-commentators-vasran-toussi/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: 6ebd442b-9a5c-4fc7-a878-41066232a9ee
+- source: :alislam
+  source_url: http://www.al-islam.org/mahdi-quran-according-shiite-quran-commentators-vasran-toussi/chapter-1-mahdi-islam
+  title: 'Chapter 1: Mahdi in Islam'
+  slug: 4-chapter-1-mahdi-in-islam
+  uuid: 7793e8ac-1673-4d5c-9ac4-7c025b53b017
+- source: :alislam
+  source_url: http://www.al-islam.org/mahdi-quran-according-shiite-quran-commentators-vasran-toussi/chapter-2-shiite-commentators
+  title: 'Chapter 2: Shi’ite commentators (Mufassirin) and their commentaries (Tafsirs)'
+  slug: 5-chapter-2-shi-ite-commentators-mufassirin-and-their-commentaries-tafsirs
+  uuid: 63321b70-7118-4dc3-8f4a-f8561be0db28
+- source: :alislam
+  source_url: http://www.al-islam.org/mahdi-quran-according-shiite-quran-commentators-vasran-toussi/chapter-3-mahdi-classical-and-modern
+  title: 'Chapter 3: Mahdi in classical and modern'
+  slug: 6-chapter-3-mahdi-in-classical-and-modern
+  uuid: bbea8982-2d47-408e-8546-1c1e3273a8db
+- source: :alislam
+  source_url: http://www.al-islam.org/mahdi-quran-according-shiite-quran-commentators-vasran-toussi/conclusion
+  title: Conclusion
+  slug: 7-conclusion
+  uuid: 99f62a4d-4e12-480c-bbc7-695117a8e5a4
+- source: :alislam
+  source_url: http://www.al-islam.org/mahdi-quran-according-shiite-quran-commentators-vasran-toussi/bibliography
+  title: Bibliography
+  slug: 8-bibliography
+  uuid: c015237d-15f8-4d8b-8262-1c64646e1890
+---

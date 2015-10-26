@@ -1,0 +1,69 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/religion-al-islam-and-marriage
+publisher: Al-Fath Al-Mubin Publications
+compiler: Arifa Hudda
+title: The Religion of Al-Islam and Marriage
+slug: the-religion-of-al-islam-and-marriage
+uuid: 4a0497fe-677e-41fa-aa24-06469e7c0867
+description: |
+  Marriage is one of the most sacred bonds between a man and a woman, and
+  this text explains in details the various issues concerning marriage in
+  the light of Islamic Laws and Ethics
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/religion-al-islam-and-marriage/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: fb2a49d6-a734-4651-85bf-14de31161fc7
+- source: :alislam
+  source_url: http://www.al-islam.org/religion-al-islam-and-marriage/marriage-quran-and-sunnah-prophet-s
+  title: Marriage in The Quran And Sunnah of The Prophet (S)
+  slug: 2-marriage-in-the-quran-and-sunnah-of-the-prophet-s
+  uuid: 5c62e813-f96a-470c-8661-9a18d0e7a950
+- source: :alislam
+  source_url: http://www.al-islam.org/religion-al-islam-and-marriage/age-marriage
+  title: The Age Of Marriage
+  slug: 3-the-age-of-marriage
+  uuid: c7bf7eb8-1d80-4e27-9882-6892047e6895
+- source: :alislam
+  source_url: http://www.al-islam.org/religion-al-islam-and-marriage/beginning-sexual-life-bulugh-and-rushd
+  title: 'The Beginning of Sexual Life: Bulugh and Rushd'
+  slug: 4-the-beginning-of-sexual-life-bulugh-and-rushd
+  uuid: 28095eb3-7771-46eb-ae36-b4704811d35d
+- source: :alislam
+  source_url: http://www.al-islam.org/religion-al-islam-and-marriage/preconditions-aqd-marriage
+  title: The Preconditions to the Aqd Of Marriage
+  slug: 5-the-preconditions-to-the-aqd-of-marriage
+  uuid: 0a1e7348-48cd-462a-bd72-58140aed7e16
+- source: :alislam
+  source_url: http://www.al-islam.org/religion-al-islam-and-marriage/marriage-aqd-contract
+  title: The Marriage Aqd (Contract)
+  slug: 6-the-marriage-aqd-contract
+  uuid: 23385504-f132-425f-8b3a-2c27df2bbf5e
+- source: :alislam
+  source_url: http://www.al-islam.org/religion-al-islam-and-marriage/wedding-night-and-its-etiquette
+  title: The Wedding Night And It's Etiquette
+  slug: 7-the-wedding-night-and-it-s-etiquette
+  uuid: 6ae4b5ad-1d1c-4173-9de7-f86beba47d11
+- source: :alislam
+  source_url: http://www.al-islam.org/religion-al-islam-and-marriage/first-two-years-marriage-survival-guide
+  title: 'The First Two Years: A Marriage Survival Guide'
+  slug: 8-the-first-two-years-a-marriage-survival-guide
+  uuid: adffd07e-6a56-44c0-9d7e-f6ea2e4a22f4
+- source: :alislam
+  source_url: http://www.al-islam.org/religion-al-islam-and-marriage/opinion-ulama-relation-marriage
+  title: Opinion of The Ulama In Relation To Marriage
+  slug: 9-opinion-of-the-ulama-in-relation-to-marriage
+  uuid: f5f3ebcd-563c-4368-b921-6864be027e9f
+- source: :alislam
+  source_url: http://www.al-islam.org/religion-al-islam-and-marriage/marriage-helps-spirituality
+  title: Marriage Helps In Spirituality
+  slug: 10-marriage-helps-in-spirituality
+  uuid: ea1933b6-9b2b-4ed9-96aa-473f826733b3
+- source: :alislam
+  source_url: http://www.al-islam.org/religion-al-islam-and-marriage/recommended-book-list-coupes-or-those-planning-get-married
+  title: Recommended Book List for Coupes or those planning to get Married
+  slug: 11-recommended-book-list-for-coupes-or-those-planning-to-get-married
+  uuid: f18914f1-4b44-4a23-a38b-8cd6bc9623a7
+---

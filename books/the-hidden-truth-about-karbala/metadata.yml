@@ -1,255 +1,217 @@
 ---
-source: :mareef
-source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/index.htm
-title: The Hidden Truth About Karbala
-author: A.K.ahmed B.Sc., B. L.
+source: :alislam
+source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed
+author: A.K. Ahmed  B.Sc. B.L.
+title: The Hidden Truth about Karbala
+subtitle: The Injustice against the Ahlul Bayt and their Followers Since then Until
+  Now
 slug: the-hidden-truth-about-karbala
-uuid: d9ba9c4e-cc2b-4453-8aad-948545a93839
+uuid: fba194d1-26d0-4140-8931-eaadd98f5687
+description: |
+  The battle at Karbala is a well-known tragedy in human history. It is
+  not fiction or legend but a historical fact. This is an excellent
+  narrative that chronicles the injustices against the Ahlul Bayt and
+  their followers through the ages until now.
 chapters:
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/00.htm
-  title: Dedication of the First Edition
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/dedication-first-edition
+  title: Dedication of the first Edition
   slug: 1-dedication-of-the-first-edition
-  uuid: a2ccc6fb-4e0f-4d40-b15f-44beea0826e0
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/01.htm
-  title: Karbala a Perspective
-  slug: 2-karbala-a-perspective
-  uuid: 9c434940-cdf3-4716-987e-7fb3119fe47c
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/02.htm
-  title: Introduction To the First Edition
-  slug: 3-introduction-to-the-first-edition
-  uuid: 84a4525e-7c8d-4489-ae67-8b25cbf8311b
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/03.htm
-  title: Preface To the Second Edition
-  slug: 4-preface-to-the-second-edition
-  uuid: f9e6c2c5-b420-40e0-a8e1-832ab795e698
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/04.htm
-  title: Chapter 1 Preamble
-  slug: 5-chapter-1-preamble
-  uuid: 24b378e9-ccfd-490c-8952-ec61a6776780
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/05.htm
-  title: Chapter 2 Historical Background
-  slug: 6-chapter-2-historical-background
-  uuid: ae19760d-38e2-4f31-86cd-5a7178b82dc7
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/06.htm
-  title: Chapter 3 the Antagonists
-  slug: 7-chapter-3-the-antagonists
-  uuid: 99b7be1c-ab94-458e-9403-ef494af4b229
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/07.htm
-  title: Chapter 4 Nomination of Ali To the Caliphate By the Prophet (s)
-  slug: 8-chapter-4-nomination-of-ali-to-the-caliphate-by-the-prophet-s
-  uuid: b4014a4a-c31f-4bc9-b0cd-9197b8d56931
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/08.htm
-  title: Chapter 5 the Intrigue
-  slug: 9-chapter-5-the-intrigue
-  uuid: d4c9bb5e-9589-4406-ae07-0041407955a9
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/09.htm
-  title: Chapter 6 Attributing Fallibility To the Prophet
-  slug: 10-chapter-6-attributing-fallibility-to-the-prophet
-  uuid: 76b34aac-8809-44a9-b236-c746e5e0283b
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/10.htm
-  title: Disobeying the Prophet
-  slug: 11-disobeying-the-prophet
-  uuid: 9317bfdd-dc3b-4c38-aca7-388730ab90e3
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/11.htm
-  title: The Myth of Leading the Prayers
-  slug: 12-the-myth-of-leading-the-prayers
-  uuid: ec208029-c3ef-4698-86b0-2d2bf832821b
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/12.htm
-  title: Anguish of the Ansar Before the Saqifa
-  slug: 13-anguish-of-the-ansar-before-the-saqifa
-  uuid: 3f4f67f9-d4f7-4a25-ab8d-823e016ca104
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/13.htm
-  title: Introduction of Fatalism
-  slug: 14-introduction-of-fatalism
-  uuid: 089cd38a-9c6b-4fb6-9a02-8053246efa0b
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/14.htm
-  title: Chapter 7 Hadith
-  slug: 15-chapter-7-hadith
-  uuid: 684357bb-fe06-4771-9d43-a761a420173c
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/15.htm
-  title: Chapter 8 Mutilation of the Concept of Jihad
-  slug: 16-chapter-8-mutilation-of-the-concept-of-jihad
-  uuid: 398b0897-32af-4fac-89e7-9d7e7a14b2a5
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/16.htm
-  title: Chapter 9 Mutilation of the Concept of Zakat and Khums
-  slug: 17-chapter-9-mutilation-of-the-concept-of-zakat-and-khums
-  uuid: 3c4e08cc-0f60-4637-abe2-f5eeb3c20f80
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/17.htm
-  title: Dispute About the Caliph’s Authority To Collect Zakat
-  slug: 18-dispute-about-the-caliph-s-authority-to-collect-zakat
-  uuid: c566437c-e755-4023-aed1-40d309127611
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/18.htm
-  title: Chapter 10 the Caliphate
-  slug: 19-chapter-10-the-caliphate
-  uuid: 6b1dcf63-8f9f-49f1-ad64-dc86ce2d9500
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/19.htm
-  title: Chapter 11 Imam Ali the Only Caliph By Public Choice
-  slug: 20-chapter-11-imam-ali-the-only-caliph-by-public-choice
-  uuid: 2891a0f7-d366-43bd-8628-5061ed16dc59
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/20.htm
-  title: Chapter 12 Imamate
-  slug: 21-chapter-12-imamate
-  uuid: e3dbc631-311a-4ab9-bb84-8d98ab07f12c
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/21.htm
-  title: Chapter 13the Muslim Empire
-  slug: 22-chapter-13the-muslim-empire
-  uuid: df537b5f-2304-4280-bdb7-69c4b1749671
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/22.htm
-  title: Chapter 14yazid Bin Mu’awiya Bin Abu Sufyan
-  slug: 23-chapter-14yazid-bin-mu-awiya-bin-abu-sufyan
-  uuid: 1b4eef80-fcf5-420d-a21e-9d66c049e660
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/23.htm
-  title: Chapter 15imam Husain Migrates To Mecca
-  slug: 24-chapter-15imam-husain-migrates-to-mecca
-  uuid: d7638ba2-8e8a-4476-b68d-065850c249cb
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/24.htm
-  title: 'Chapter 16muslim Bin Aqeel: Imam Husain’s Ambassador To Kufa'
-  slug: 25-chapter-16muslim-bin-aqeel-imam-husain-s-ambassador-to-kufa
-  uuid: e568e281-6b35-4b70-a151-2fc4f07748b4
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/25.htm
-  title: Chapter 17imam Husain’s Migration From Mecca
-  slug: 26-chapter-17imam-husain-s-migration-from-mecca
-  uuid: 09e4471a-10cd-4af7-a8d4-8e72c23c480e
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/26.htm
-  title: Chapter 18imam Husain’s Journey To Karbala
-  slug: 27-chapter-18imam-husain-s-journey-to-karbala
-  uuid: f141a52b-963a-45e6-bcdf-ca427e7606cf
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/27.htm
-  title: Chapter 19yazid’s Forces Gather At Karbala
-  slug: 28-chapter-19yazid-s-forces-gather-at-karbala
-  uuid: 92fa9e80-9094-4908-86a1-f55d465a4b0c
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/28.htm
-  title: Chapter 20seventh and Eighth of Muharram
-  slug: 29-chapter-20seventh-and-eighth-of-muharram
-  uuid: 4c7bb1e7-a753-4c53-ba70-2e854922128b
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/29.htm
-  title: Chapter 21the Ninth of Muharram
-  slug: 30-chapter-21the-ninth-of-muharram
-  uuid: f90539a7-282a-4baa-be41-027e6154d838
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/30.htm
-  title: Chapter 22ashura; the Tenth of Muharram
-  slug: 31-chapter-22ashura-the-tenth-of-muharram
-  uuid: 9dd5a51a-dc9f-4170-a2e5-d5ecff747681
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/31.htm
-  title: Chapter 23the Martyrs
-  slug: 32-chapter-23the-martyrs
-  uuid: b4c27d3d-c526-4fa6-8323-de1bd11ebb92
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/32.htm
-  title: Chapter 24the Burial of the Martyrs
-  slug: 33-chapter-24the-burial-of-the-martyrs
-  uuid: afef8607-e747-415a-ad06-430ad8616b50
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/33.htm
-  title: Chapter 25 Persecution After Karbala
-  slug: 34-chapter-25-persecution-after-karbala
-  uuid: b52b19a3-b27e-4fa1-9730-ef7c142d7df1
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/34.htm
-  title: Chapter 26 Miracles
-  slug: 35-chapter-26-miracles
-  uuid: fb5d74e3-e2e9-4122-8068-6c35a1ddb08c
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/35.htm
-  title: Chapter 27persecution of the Shia
-  slug: 36-chapter-27persecution-of-the-shia
-  uuid: b7ce3917-7564-46c5-9fc0-31cc6b6f3659
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/36.htm
-  title: Part a Demolition of the Shrines
-  slug: 37-part-a-demolition-of-the-shrines
-  uuid: b2ba0637-24d2-4438-889b-3989f9a126e0
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/37.htm
-  title: Part B Persecution of the Shia By the Umayyads
-  slug: 38-part-b-persecution-of-the-shia-by-the-umayyads
-  uuid: 15a2f594-c34c-41d4-84be-d7d5941d5aa0
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/38.htm
-  title: Persecution of the Shia By Mu’awiya From 11 To 30 Ah
-  slug: 39-persecution-of-the-shia-by-mu-awiya-from-11-to-30-ah
-  uuid: 4e99852b-25c4-4b68-b3cc-b0e604b1e295
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/39.htm
-  title: Persecution By Mu’awiya Between 30-60 Ah
-  slug: 40-persecution-by-mu-awiya-between-30-60-ah
-  uuid: 797c4c20-0c63-4ade-9902-4f10e6632321
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/40.htm
-  title: Between 61 To 64 Ah Under Yazid Bin Mu’awiya
-  slug: 41-between-61-to-64-ah-under-yazid-bin-mu-awiya
-  uuid: 9f508de8-4df4-4b6b-a3c4-b0f6a8a7acc0
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/41.htm
-  title: the Shia Martyred Between 64 & 73 Ah Under Abdullah Ibn Az-zubair’s Rule
-  slug: 42-the-shia-martyred-between-64-73-ah-under-abdullah-ibn-az-zubair-s-rule
-  uuid: 8009e403-060e-42d0-88ef-38d0da78cf21
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/42.htm
-  title: Persecution Between 64 To 85 Ah, By Marwan and His Son Abdul Melik
-  slug: 43-persecution-between-64-to-85-ah-by-marwan-and-his-son-abdul-melik
-  uuid: 3aa02138-4fb9-41a5-9963-2a8c8b7c547a
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/43.htm
-  title: Part C Persecution of the Shia By the Abbasid Kings
-  slug: 44-part-c-persecution-of-the-shia-by-the-abbasid-kings
-  uuid: 394d61ec-df37-434f-8d0a-6fbd730cea16
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/44.htm
-  title: Part D Persecuton of the Shia During the Period When a Multitude of Caliphs
-    Came To Rule the Muslim World
-  slug: 45-part-d-persecuton-of-the-shia-during-the-period-when-a-multitude-of-caliphs-came-to-rule-the-muslim-world
-  uuid: c3765cf1-1104-4470-aee7-c73d5f810b60
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/45.htm
-  title: Part E Persecution Under the Mongols and Recent Times
-  slug: 46-part-e-persecution-under-the-mongols-and-recent-times
-  uuid: b1d78f68-81df-4c90-89d9-900c425b3ed9
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/46.htm
-  title: Appendix
-  slug: 47-appendix
-  uuid: 34aa2662-c0dc-4783-a400-2f0f159488b0
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/47.htm
+  uuid: d375e0f9-433b-4cae-b314-7c7bb6f42694
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/dedication-second-edition
+  title: Dedication of The second Edition
+  slug: 2-dedication-of-the-second-edition
+  uuid: 21f73484-456f-4c71-bde3-c95034941f74
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/preface-first-edition
+  title: Preface to the First Edition
+  slug: 3-preface-to-the-first-edition
+  uuid: 09e1d190-3d9b-40cf-b9dd-31c22469fff8
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/introduction-first-edition
+  title: Introduction to the First Edition
+  slug: 4-introduction-to-the-first-edition
+  uuid: e6d8c25e-beaa-4e41-89a2-127d025aefb4
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/preface-second-edition
+  title: Preface to the Second Edition
+  slug: 5-preface-to-the-second-edition
+  uuid: 32c3032c-709c-47a8-94ba-4744b635cc40
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-1-preamble
+  title: 'Chapter 1: Preamble'
+  slug: 6-chapter-1-preamble
+  uuid: 441b715a-52bb-4683-ab6b-f2bbf5728bb5
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-2-historical-background
+  title: 'Chapter 2: Historical Background'
+  slug: 7-chapter-2-historical-background
+  uuid: c03df6e4-d709-49ed-9ec4-4e469f6f3886
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-3-antagonists
+  title: 'Chapter 3: The Antagonists'
+  slug: 8-chapter-3-the-antagonists
+  uuid: 624a88ac-5ec3-4603-9891-2bba823b8f69
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-4-nomination-ali-caliphate-prophet-s
+  title: 'Chapter 4: Nomination of Ali to the Caliphate by the Prophet (S)'
+  slug: 9-chapter-4-nomination-of-ali-to-the-caliphate-by-the-prophet-s
+  uuid: 3a5ff889-9f4e-45a1-be96-e4f08f4ee185
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-5-intrigue
+  title: 'Chapter 5: The Intrigue'
+  slug: 10-chapter-5-the-intrigue
+  uuid: 475f349b-c744-49d3-be8b-f38daacf333c
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-6-attributing-fallibility-prophet
+  title: 'Chapter 6: Attributing fallibility to the Prophet'
+  slug: 11-chapter-6-attributing-fallibility-to-the-prophet
+  uuid: 64d99e99-7336-41ae-b6db-ad08f445fb90
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-7-hadith
+  title: 'Chapter 7: Hadith'
+  slug: 12-chapter-7-hadith
+  uuid: e23bbad3-6550-4a3a-8ada-1da6ae4f41cd
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-8-mutilation-concept-jihad
+  title: 'Chapter 8: Mutilation of the Concept of Jihad'
+  slug: 13-chapter-8-mutilation-of-the-concept-of-jihad
+  uuid: 0f2a1b3a-0f09-4446-9acc-25da29565ec7
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-9-mutilation-concept-zakat-and-khums
+  title: 'Chapter 9: Mutilation of the Concept of Zakat and Khums'
+  slug: 14-chapter-9-mutilation-of-the-concept-of-zakat-and-khums
+  uuid: afc489e3-a050-4e83-98b4-6d643f6737cc
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-10-caliphate
+  title: 'Chapter 10: The Caliphate'
+  slug: 15-chapter-10-the-caliphate
+  uuid: 442bcdbb-aec8-4a46-81c4-b6009f958e4f
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-11-imam-ali-only-caliph-public-choice
+  title: 'Chapter 11: Imam Ali, The only Caliph by Public Choice'
+  slug: 16-chapter-11-imam-ali-the-only-caliph-by-public-choice
+  uuid: 781e6693-af04-4d1f-b772-67c942f08c3e
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-12-imamate
+  title: 'Chapter 12: Imamate'
+  slug: 17-chapter-12-imamate
+  uuid: 064fd2a5-8196-4532-a736-2d7210212ff8
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-13-muslim-empire
+  title: 'Chapter 13: The Muslim Empire'
+  slug: 18-chapter-13-the-muslim-empire
+  uuid: cb9610ab-4298-4106-a450-057ecb06b904
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-14-yazid-bin-muawiya-bin-abu-sufyan
+  title: 'Chapter 14: Yazid bin Mu’awiya bin Abu Sufyan'
+  slug: 19-chapter-14-yazid-bin-mu-awiya-bin-abu-sufyan
+  uuid: a46e2774-ff08-46f1-b689-9efcd5cbaed9
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-15-imam-husayn-migrates-mecca
+  title: 'Chapter 15: Imam Husayn migrates to Mecca'
+  slug: 20-chapter-15-imam-husayn-migrates-to-mecca
+  uuid: b9d9435e-005a-4e92-8a36-874130cef6a0
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-16-muslim-bin-aqeel-imam-husayns-ambassador-kufa
+  title: 'Chapter 16: Muslim bin Aqeel: Imam Husayn’s Ambassador to Kufa'
+  slug: 21-chapter-16-muslim-bin-aqeel-imam-husayn-s-ambassador-to-kufa
+  uuid: 59dae4b9-81be-47ff-a4f0-3bb297ad2f05
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-17-imam-husayns-migration-mecca
+  title: 'Chapter 17: Imam Husayn’s Migration from Mecca'
+  slug: 22-chapter-17-imam-husayn-s-migration-from-mecca
+  uuid: 721cb597-e953-453c-b42d-50f9cfd77c02
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-18-imam-husayns-journey-karbala
+  title: 'Chapter 18: Imam Husayn’s journey to Karbala'
+  slug: 23-chapter-18-imam-husayn-s-journey-to-karbala
+  uuid: 30a3ae36-726f-44eb-aa0c-2ebe0940c505
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-19-yazids-forces-gather-karbala
+  title: 'Chapter 19: Yazid’s forces gather at Karbala'
+  slug: 24-chapter-19-yazid-s-forces-gather-at-karbala
+  uuid: e9e4e970-918e-4968-ac33-ab9865ad3f4b
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-20-seventh-and-eighth-muharram
+  title: 'Chapter 20: Seventh and eighth of Muharram'
+  slug: 25-chapter-20-seventh-and-eighth-of-muharram
+  uuid: bd142c39-14d8-41f4-a927-1b689b0683e5
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-21-ninth-muharram
+  title: 'Chapter 21: The Ninth of Muharram'
+  slug: 26-chapter-21-the-ninth-of-muharram
+  uuid: d869791b-e90b-41d1-a9c3-8c9d0741c4b6
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-22-ashura-tenth-muharram
+  title: 'Chapter 22: Ashura; the Tenth of Muharram'
+  slug: 27-chapter-22-ashura-the-tenth-of-muharram
+  uuid: f4e9154f-c69f-4436-8cb0-ced288152580
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-23-martyrs
+  title: 'Chapter 23: The Martyrs'
+  slug: 28-chapter-23-the-martyrs
+  uuid: 7cf6a777-f934-4ac6-b16c-529755240bae
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-24-burial-martyrs
+  title: 'Chapter 24: The Burial of the Martyrs'
+  slug: 29-chapter-24-the-burial-of-the-martyrs
+  uuid: 80faff9c-63a3-4198-b5fa-f991b0d47b7b
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-25-persecution-after-karbala
+  title: 'Chapter 25: Persecution after Karbala'
+  slug: 30-chapter-25-persecution-after-karbala
+  uuid: 1305cb09-e3e9-4257-bf48-63ce840a6705
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-26-miracles
+  title: 'Chapter 26: Miracles'
+  slug: 31-chapter-26-miracles
+  uuid: f0d02a1e-29c6-4f77-abd4-d55551f41ba1
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/chapter-27-persecution-shia
+  title: 'Chapter 27: Persecution of the Shia'
+  slug: 32-chapter-27-persecution-of-the-shia
+  uuid: 9c6e595b-8019-47f5-9f8d-30108f80d0cf
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/part-demolition-shrines
+  title: 'Part A: Demolition of the Shrines'
+  slug: 33-part-a-demolition-of-the-shrines
+  uuid: 8b232a88-e05e-41f9-848b-6c711487ccdd
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/part-b-persecution-shia-umayyads
+  title: 'Part B: Persecution of the Shia by the Umayyads'
+  slug: 34-part-b-persecution-of-the-shia-by-the-umayyads
+  uuid: f398f621-c132-4644-97fc-e8c912603a86
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/part-c-persecution-shia-abbasid-kings
+  title: 'Part C: Persecution of the Shia by the Abbasid kings'
+  slug: 35-part-c-persecution-of-the-shia-by-the-abbasid-kings
+  uuid: 7686d397-45a8-49ae-be5d-6a98c7f856a5
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/part-d-persecuton-shia-during-period-when-multitude-caliphs
+  title: 'Part D: Persecuton of the Shia during the Period when a Multitude of Caliphs
+    came to Rule the Muslim World'
+  slug: 36-part-d-persecuton-of-the-shia-during-the-period-when-a-multitude-of-caliphs-came-to-rule-the-muslim-world
+  uuid: 14ef98bb-78cd-498b-b303-a74bdd8e9919
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/part-e-persecution-under-mongols-and-recent-times
+  title: 'Part E: Persecution under the Mongols and Recent Times'
+  slug: 37-part-e-persecution-under-the-mongols-and-recent-times
+  uuid: c99a594d-1167-42e1-a734-e1f2240c711d
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/appendix-martyrs-karbala
+  title: 'Appendix: The Martyrs at Karbala'
+  slug: 38-appendix-the-martyrs-at-karbala
+  uuid: 18a1bce6-fd04-4a51-ae02-629cafee0b49
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/bibliography
   title: Bibliography
-  slug: 48-bibliography
-  uuid: ac05c001-d8f2-428c-a3e7-675a61f5455e
-- source: :mareef
-  source_url: http://www.maaref-foundation.com/english/library/pro_ahl/imam03_husain/the_hidden_truth/48.htm
+  slug: 39-bibliography
+  uuid: 579e7bdc-8c9a-4d67-8491-41e972498632
+- source: :alislam
+  source_url: http://www.al-islam.org/the-hidden-truth-about-karbala-ak-ahmed/prayer
   title: A Prayer
-  slug: 49-a-prayer
-  uuid: 079be6ae-90a3-4e14-9347-119414c685bf
+  slug: 40-a-prayer
+  uuid: 20f29353-46cf-4ad6-bab2-d127fcf59aee
 ---
