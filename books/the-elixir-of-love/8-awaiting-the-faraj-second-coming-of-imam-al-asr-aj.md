@@ -63,7 +63,7 @@ when he felt he would die before the *Faraj,* he would say to his
 friends:
 
 "If you would find the honor to witness his (Holy Imam's) reappearance
-give my regards to him."  
+give my regards to him."
 **The Purgatory State** ***(Barzakh)*** **of a Young Man Awaiting Imam
 Mahdi (aj)**
 

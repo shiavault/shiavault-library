@@ -55,8 +55,8 @@ rewards befitting His Grace and the dignity of the Master of the Pious
 [Ali b. Abi Talib (a.s.)]. O Lord! Accept this from us! Verily You are
 the All-hearing, the All-knowing.
 
-Muhammad Muhammadi Rayshahri  
- January 22, 2001
+Muhammad Muhammadi Rayshahri
+January 22, 2001
 
 [^1]: This analysis is added to the prolegomenon of the present book
 from the Seventh Volume of "The Encyclopedia of Amir al-Mu'minin", [The

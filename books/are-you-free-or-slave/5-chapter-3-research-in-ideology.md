@@ -334,7 +334,7 @@ unable to acknowledge this truth because of their egotistical,
 ambitious, cruel and criminal character, which caused them to denounce
 Moses and deny God. As the Quran tells it:As the Quran tells it:
 
- ***\`In their wickedness and pride (Pharaoh and his followers) denied
+***\`In their wickedness and pride (Pharaoh and his followers) denied
 (God's undoubted signs), although*** ***their souls knew them to be
 true.' (27:14).their souls knew them to be true.' (27:14).***
 

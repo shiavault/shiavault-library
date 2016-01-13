@@ -322,8 +322,8 @@ Satan. The Shaykh said in this regard:
 along with seventy five armies and the Satan with its troops who will
 also stand up to destroy him, but "جند الله هم الغالبون"' The troops of
 Allah are verily victorious.' Intellect also consists of seventy-five
-armies which will not let the devoted worshipper be defeated:  
- (ان عبادي ليس لك عليهم سلطان)(Surely, you will have no authority over
+armies which will not let the devoted worshipper be defeated:
+(ان عبادي ليس لك عليهم سلطان)(Surely, you will have no authority over
 My sincere worshippers.) (al-Hijr: 42) If you are not interested in
 other than God, the carnal self and the Satan will not have any
 authority over you; rather, they will be overwhelmed by you."
@@ -350,8 +350,8 @@ get familiar with realities of Being. Thereupon the Shaykh said:
 be veiled to the realities of Being and unaware of the inward aspects of
 Creation."
 
-'O Hafiz, you are the veil to the path, move away!  
- Happy is he who fares this path unveiled.’
+'O Hafiz, you are the veil to the path, move away!
+Happy is he who fares this path unveiled.’
 
 However, if man purifies his heart of the dust of polytheism, he will be
 entrusted with mysteries of creation. The reverend Shaykh said

@@ -1,0 +1,52 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/distortion-thaqalain-tradition-sayyid-ali-al-husayni-al-milani
+author: Sayyid Ali al-Husayni al-Milani
+title: A Distortion in Thaqalain Tradition
+slug: a-distortion-in-thaqalain-tradition
+uuid: 8cfffb13-89ac-4f25-820c-12b32ae9bd38
+description: |
+  Thaqalain tradition is a famous and well-known tradition that is
+  reported by [both] Sunnites and Shiites. Hundreds of prominent narrators
+  have narrated this tradition. Some self-interested figures have
+  fabricated the tradition of adherence to Book (Quran) and Tradition
+  (Prophet's Tradition) [instead of Quran and Prophet's Progeny] as two
+  weighty things. This book studies this tradition and its reporters,
+  critically examines them and shows the truth to those who seek it.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/distortion-thaqalain-tradition-sayyid-ali-al-husayni-al-milani/thaqalain-tradition
+  title: Thaqalain Tradition
+  slug: 1-thaqalain-tradition
+  uuid: b0a5badc-c30b-4d99-9e99-ffb69af735ea
+- source: :alislam
+  source_url: http://www.al-islam.org/distortion-thaqalain-tradition-sayyid-ali-al-husayni-al-milani/preface
+  title: Preface
+  slug: 2-preface
+  uuid: d25f3936-20d4-4fa7-9ff0-8a4071bb02de
+- source: :alislam
+  source_url: http://www.al-islam.org/distortion-thaqalain-tradition-sayyid-ali-al-husayni-al-milani/foreword
+  title: Foreword
+  slug: 3-foreword
+  uuid: 27f7eb69-5df2-42e2-8580-09f60e9b7924
+- source: :alislam
+  source_url: http://www.al-islam.org/distortion-thaqalain-tradition-sayyid-ali-al-husayni-al-milani/part-1-narrators-thaqalain-tradition
+  title: 'Part 1: The Narrators of Thaqalain Tradition and Their Traditions'
+  slug: 4-part-1-the-narrators-of-thaqalain-tradition-and-their-traditions
+  uuid: 89362f09-6db1-4479-8dc2-647198143b5e
+- source: :alislam
+  source_url: http://www.al-islam.org/distortion-thaqalain-tradition-sayyid-ali-al-husayni-al-milani/part-2-assessment-chains-tradition
+  title: 'Part 2: An assessment of the chains of this tradition'
+  slug: 5-part-2-an-assessment-of-the-chains-of-this-tradition
+  uuid: c7ec0be6-933f-4a05-b140-426414db879c
+- source: :alislam
+  source_url: http://www.al-islam.org/distortion-thaqalain-tradition-sayyid-ali-al-husayni-al-milani/part-3-reflection-text-tradition-and
+  title: 'Part 3: A reflection on the text of this tradition and its meaning'
+  slug: 6-part-3-a-reflection-on-the-text-of-this-tradition-and-its-meaning
+  uuid: 7a1c653d-f018-4af6-bdf5-0cc21976d289
+- source: :alislam
+  source_url: http://www.al-islam.org/distortion-thaqalain-tradition-sayyid-ali-al-husayni-al-milani/bibliography
+  title: Bibliography
+  slug: 7-bibliography
+  uuid: 86d5f46f-9a59-4624-8802-ec9c3c672b77
+---

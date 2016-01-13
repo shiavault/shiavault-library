@@ -125,8 +125,8 @@ such! Do you know what you say in *ruku* 'and *sajdah?* When you say in
 (I bear witness that there is no god apart from Allah, Who is unique and
 without partners)', are you telling the truth? Are you not entangled in
 your carnal vain desires? Are you not attending other than God? Are you
-not dealing with  
- (أرباب متفرقون) (many lords differing among themselves) (12:39)?!
+not dealing with
+(أرباب متفرقون) (many lords differing among themselves) (12:39)?!
 
 4. Perseverance in Performing Prayers at their Due Time
 -------------------------------------------------------

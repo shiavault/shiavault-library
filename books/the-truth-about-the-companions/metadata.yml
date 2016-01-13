@@ -1,0 +1,52 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/truth-about-companions-sayyid-ali-al-husayni-al-milani
+author: Sayyid Ali al-Husayni al-Milani
+translator: Jawid Akbari
+title: The Truth about the 'Companions'
+subtitle: A Critical Assessment of the Term 'Companion' & Hadith al-Nujum
+slug: the-truth-about-the-companions
+uuid: 6f6e27b7-216f-469a-b8c3-717361717e3d
+description: |
+  The present study aims to critically asses the tradition ascribed to the
+  Holy Prophet known as Hadith al-Nujum that narrates the following: “My
+  Companions are like the stars; whoever among them you follow, you will
+  be rightly guided.”
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/truth-about-companions-sayyid-ali-al-husayni-al-milani/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: ee931552-c97c-444a-9919-296aa02a6b08
+- source: :alislam
+  source_url: http://www.al-islam.org/truth-about-companions-sayyid-ali-al-husayni-al-milani/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: ebef9a2a-e697-481f-93cd-9c6068966ab1
+- source: :alislam
+  source_url: http://www.al-islam.org/truth-about-companions-sayyid-ali-al-husayni-al-milani/look-term-suhbah
+  title: A Look at the Term 'Suhbah'
+  slug: 3-a-look-at-the-term-suhbah
+  uuid: 2f0c7dc2-1146-49fe-b1af-2c17fc04ffe9
+- source: :alislam
+  source_url: http://www.al-islam.org/truth-about-companions-sayyid-ali-al-husayni-al-milani/part-1-sayings-sunni-leaders-and-memorizers
+  title: 'Part 1: Sayings of Sunni Leaders and Memorizers about Hadith of al-Nujum'
+  slug: 4-part-1-sayings-of-sunni-leaders-and-memorizers-about-hadith-of-al-nujum
+  uuid: c3fea08f-f6f7-4d41-8359-9128819a4f0b
+- source: :alislam
+  source_url: http://www.al-islam.org/truth-about-companions-sayyid-ali-al-husayni-al-milani/part-2-narrators-and-transmitters-hadith-al
+  title: 'Part 2: The Narrators and Transmitters of Hadith of al-Nujum Plus Viewpoints
+    of the Scholars of al-Jarh wa al-Ta''dil'
+  slug: 5-part-2-the-narrators-and-transmitters-of-hadith-of-al-nujum-plus-viewpoints-of-the-scholars-of-al-jarh-wa-al-ta-dil
+  uuid: 61fd4ded-c37d-4bac-bb7b-1f0b1a6d92c2
+- source: :alislam
+  source_url: http://www.al-islam.org/truth-about-companions-sayyid-ali-al-husayni-al-milani/part-3-depth-analysis-hadith-al-nujum
+  title: 'Part 3: In-depth Analysis of the Hadith of al-Nujum'
+  slug: 6-part-3-in-depth-analysis-of-the-hadith-of-al-nujum
+  uuid: 9de1dc18-1922-49d9-b984-ffd094393e0d
+- source: :alislam
+  source_url: http://www.al-islam.org/truth-about-companions-sayyid-ali-al-husayni-al-milani/bibliography
+  title: Bibliography
+  slug: 7-bibliography
+  uuid: b732b783-6a08-4933-b6af-81359c0d77d7
+---

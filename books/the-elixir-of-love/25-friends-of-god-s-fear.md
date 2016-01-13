@@ -77,8 +77,8 @@ call on their Lord in fear and hope) (al-Sajdah: 16) as follows:
 
 "What is this fear and hope? Fear of separation from and hope of union
 with Him. Parallel to this in concept is the saying of Amir al- Mu'minin
-Ali (a) in supplication of Kumail:   
- فهبني يا الهي... وسيدي ومولاي وربي صبرت على عذابك فكيف أصبر على فراقك
+Ali (a) in supplication of Kumail:
+فهبني يا الهي... وسيدي ومولاي وربي صبرت على عذابك فكيف أصبر على فراقك
 'Then suppose, my Allah... that I may… be able to endure Your
 chastisement, but how can I endure separation from You?'
 

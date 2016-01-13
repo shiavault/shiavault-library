@@ -53,7 +53,7 @@ readers in the world who have hitherto been deprived of an extensive
 survey of Islamic ideology. It is to this group in particular that the
 present pamphlet is most respectfully dedicated.
 
-Mohammadi-ye Reyshahari  
- Tehran March 20 1988
+Mohammadi-ye Reyshahari
+Tehran March 20 1988
 
 

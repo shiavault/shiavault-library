@@ -115,7 +115,7 @@ al-Sahifah al-Sajjadiyya:"
 </blockquote>
 
 *"Shukri iyyaka min in 'amatika* (I am thankful to You for all Your
-Bounties)[^5]  
+Bounties)[^5]
 **An Amazing and Instructive Miraculous Act**[^6]
 
 At the end of the weekly session of "ethics" lesson[^7], a young man

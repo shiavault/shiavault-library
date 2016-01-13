@@ -54,8 +54,8 @@ night!"
 
 The late Fayz Kashani (ra) put it in the following poem:
 
-All through the night lament humbly at the doorstep of the Sustainer,  
- When the day breaks, help out the wounded at heart and the
+All through the night lament humbly at the doorstep of the Sustainer,
+When the day breaks, help out the wounded at heart and the
 heart-broken.'
 
 Giving Alms while in Poverty
@@ -79,8 +79,8 @@ toward people; and imparting knowledge to the seekers of knowledge."[^3]
 Similarly, Hafiz touches upon the impact of giving alms in poverty on
 the spiritual self-building of man in the following poem:
 
-'In poverty, strive for joyfulness and intoxication,  
- That this elixir of the whole being turns a mendicant into a Qarun.'
+'In poverty, strive for joyfulness and intoxication,
+That this elixir of the whole being turns a mendicant into a Qarun.'
 
 "Fast and Give Alms!"
 ---------------------
@@ -134,8 +134,8 @@ when one failed in his spiritual seeking, he would recommend:
 "Do not be negligent of benevolence and do good (to people as much as
 you are able to)."
 
-'Serve the needy as long as you can in you life,  
- Either through your words, money, pen, or (taking) steps.'
+'Serve the needy as long as you can in you life,
+Either through your words, money, pen, or (taking) steps.'
 
 He was himself also a pioneer in doing good to people. Someone had
 gotten into trouble; he visited the reverend Shaykh who said:
@@ -252,7 +252,7 @@ of mind for supplication and whispered prayer, and proximity to God,
 which was already pointed out.[^6]
 
 Following are some interesting and instructive reminiscences portraying
-the blessings ensued by rendering service to people.  
+the blessings ensued by rendering service to people.
 **The Status of** **Hazrat Abdul Azim** **Hasani**
 
 One of the Shaykh's friends said: 'The Shaykh and I went on a pilgrimage

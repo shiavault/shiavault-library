@@ -1,94 +1,95 @@
 ---
 source: :alislam
-source_url: http://www.al-islam.org/imam-ali-s-book-government-muhammad-rayshahri
-author: Muhammad Rayshahri
+source_url: http://www.al-islam.org/imam-ali-s-book-government-ayatullah-muhammadi-rayshahri
+author: Ayatullah Muhammadi Rayshahri
 publisher: Dar al-Hadith Publications
 translator: Ahmad Rezwani
 title: Imam Ali (a.s.)'s Book of Government
+subtitle: Imam Ali (a.s.) and Political Leadership
 slug: imam-ali-a-s-s-book-of-government
-uuid: 62711d33-3306-4179-a725-3a5388204645
+uuid: f7cc1d5a-b81d-4b41-ac24-aac6fbb3e0f4
 description: |
   This text presents Imam Ali's policy in governmental, political,
   military, social, cultural, economical and judicial affairs in Islam.
 chapters:
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-book-government-muhammad-rayshahri/word-readers
+  source_url: http://www.al-islam.org/imam-ali-s-book-government-ayatullah-muhammadi-rayshahri/word-readers
   title: A Word to the Readers
   slug: 1-a-word-to-the-readers
-  uuid: 0bdd3ab1-b70c-40e0-b199-9d81a27a4e04
+  uuid: a9e01ad9-f1a3-4f48-918e-026f298dbd73
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-book-government-muhammad-rayshahri/prolegomenon
+  source_url: http://www.al-islam.org/imam-ali-s-book-government-ayatullah-muhammadi-rayshahri/prolegomenon
   title: Prolegomenon
   slug: 2-prolegomenon
-  uuid: 87301676-f5c8-41c5-8541-afa1ea816aea
+  uuid: 4969fade-b3e8-4068-b8bc-b67d83be6dd8
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-book-government-muhammad-rayshahri/politics-two-schools
+  source_url: http://www.al-islam.org/imam-ali-s-book-government-ayatullah-muhammadi-rayshahri/politics-two-schools
   title: Politics in two Schools
   slug: 3-politics-in-two-schools
-  uuid: 75f806df-1c95-40b6-bc27-9b780cf897dc
+  uuid: 9c604bf9-3a79-4400-83ee-ef515268ed2f
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-book-government-muhammad-rayshahri/policy-cultural-reformation
+  source_url: http://www.al-islam.org/imam-ali-s-book-government-ayatullah-muhammadi-rayshahri/policy-cultural-reformation
   title: Policy of Cultural Reformation
   slug: 4-policy-of-cultural-reformation
-  uuid: a57d8ffb-1d39-46b8-9bff-6ee2e79ecd26
+  uuid: 842d9793-9435-4ef4-8dab-f1964514a35c
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-book-government-muhammad-rayshahri/overall-defense-imam-alis-statesmanship
+  source_url: http://www.al-islam.org/imam-ali-s-book-government-ayatullah-muhammadi-rayshahri/overall-defense-imam-alis-statesmanship
   title: Overall Defense of Imam Ali's Statesmanship
   slug: 5-overall-defense-of-imam-ali-s-statesmanship
-  uuid: de4f39ef-1e93-4740-9160-7af16bdc0b33
+  uuid: b0d2d316-1e6a-4393-99a9-847f94199179
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-book-government-muhammad-rayshahri/reasons-imam-ali-ass-loneliness
+  source_url: http://www.al-islam.org/imam-ali-s-book-government-ayatullah-muhammadi-rayshahri/reasons-imam-ali-ass-loneliness
   title: Reasons for Imam Ali (a.s.)'s Loneliness
   slug: 6-reasons-for-imam-ali-a-s-s-loneliness
-  uuid: 7d08682e-023a-4265-9b59-3ecffdbe98cf
+  uuid: 5252b0f6-1da2-47c4-8795-adccd63b85c0
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-book-government-muhammad-rayshahri/chapter-one-allegiance-light
+  source_url: http://www.al-islam.org/imam-ali-s-book-government-ayatullah-muhammadi-rayshahri/chapter-one-allegiance-light
   title: 'Chapter One: Allegiance of Light'
   slug: 7-chapter-one-allegiance-of-light
-  uuid: 939c1534-38b5-4979-819b-d2bdfba5aaaa
+  uuid: b4580ab8-0188-4517-933f-8ca31a368541
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-book-government-muhammad-rayshahri/chapter-two-alawi-reformation
+  source_url: http://www.al-islam.org/imam-ali-s-book-government-ayatullah-muhammadi-rayshahri/chapter-two-alawi-reformation
   title: 'Chapter Two: ''Alawi Reformation'
   slug: 8-chapter-two-alawi-reformation
-  uuid: 2cc43755-0663-4486-94d1-e01eb78f13b3
+  uuid: 931d8d70-0319-4cce-8236-c248bdc19139
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-book-government-muhammad-rayshahri/chapter-three-administrative-policies
+  source_url: http://www.al-islam.org/imam-ali-s-book-government-ayatullah-muhammadi-rayshahri/chapter-three-administrative-policies
   title: 'Chapter Three: Administrative Policies'
   slug: 9-chapter-three-administrative-policies
-  uuid: 309722e3-1424-43c5-92c3-2c97c54516df
+  uuid: f8b061cd-5d84-4b31-b656-c4b5e25d70a1
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-book-government-muhammad-rayshahri/chapter-four-cultural-policies
+  source_url: http://www.al-islam.org/imam-ali-s-book-government-ayatullah-muhammadi-rayshahri/chapter-four-cultural-policies
   title: 'Chapter Four: Cultural Policies'
   slug: 10-chapter-four-cultural-policies
-  uuid: 09f38a41-f6c8-4ebc-9fb4-1dbbb510eec7
+  uuid: 89db66f1-e39c-4256-ac44-28d9d8799045
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-book-government-muhammad-rayshahri/chapter-five-political-policies
+  source_url: http://www.al-islam.org/imam-ali-s-book-government-ayatullah-muhammadi-rayshahri/chapter-five-political-policies
   title: 'Chapter Five: Political Policies'
   slug: 11-chapter-five-political-policies
-  uuid: 1be69192-eac2-4020-bdc2-e49908e3cd19
+  uuid: d90d463b-3d0a-4bc2-8d44-1d159fd20bd2
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-book-government-muhammad-rayshahri/chapter-six-social-policies
+  source_url: http://www.al-islam.org/imam-ali-s-book-government-ayatullah-muhammadi-rayshahri/chapter-six-social-policies
   title: 'Chapter Six: Social Policies'
   slug: 12-chapter-six-social-policies
-  uuid: 19e48cc8-15d8-461b-ad78-7d5fd5f25e18
+  uuid: f121a61e-5ac8-434e-a103-c7157a40b49d
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-book-government-muhammad-rayshahri/chapter-seven-judicial-policies
+  source_url: http://www.al-islam.org/imam-ali-s-book-government-ayatullah-muhammadi-rayshahri/chapter-seven-judicial-policies
   title: 'Chapter Seven: Judicial Policies'
   slug: 13-chapter-seven-judicial-policies
-  uuid: b3490724-a949-4d3e-9634-2aab502cd2ad
+  uuid: 7bbed4bb-5f2f-4b01-a46f-40d3616c8ea0
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-book-government-muhammad-rayshahri/chapter-eight-security-policies
+  source_url: http://www.al-islam.org/imam-ali-s-book-government-ayatullah-muhammadi-rayshahri/chapter-eight-security-policies
   title: 'Chapter Eight: Security Policies'
   slug: 14-chapter-eight-security-policies
-  uuid: 89d9146d-9e49-4450-8c47-9345d1c366d0
+  uuid: 8a4b1dec-946e-4ece-9b4f-8bacbc9734c9
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-book-government-muhammad-rayshahri/chapter-nine-warfare-policies
+  source_url: http://www.al-islam.org/imam-ali-s-book-government-ayatullah-muhammadi-rayshahri/chapter-nine-warfare-policies
   title: 'Chapter Nine: Warfare Policies'
   slug: 15-chapter-nine-warfare-policies
-  uuid: f9aae744-fd3b-4c02-90bc-2d5835e6efc2
+  uuid: 8b2306b9-e5a7-4638-8a14-a3909c3360b2
 - source: :alislam
-  source_url: http://www.al-islam.org/imam-ali-s-book-government-muhammad-rayshahri/chapter-ten-state-policies
+  source_url: http://www.al-islam.org/imam-ali-s-book-government-ayatullah-muhammadi-rayshahri/chapter-ten-state-policies
   title: 'Chapter Ten: State Policies'
   slug: 16-chapter-ten-state-policies
-  uuid: 0ba01c81-be09-4a24-8166-59f903f1a62b
+  uuid: 4db3d079-cf11-4c54-8710-cae9d64c4a67
 ---

@@ -87,7 +87,7 @@ God! What was that?!
 
 I was told intuitively: 'That was the outcome of what you thought. I
 said I did not commit any sin. I was responded: 'The camel's kick did
-not really hit you either.'[^6]"  
+not really hit you either.'[^6]"
 **Threatened to a Destiny Like that of Balaam of Boer** ***(Bal'am-i
 Ba'ura)***
 

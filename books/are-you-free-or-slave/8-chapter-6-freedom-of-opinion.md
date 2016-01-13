@@ -358,7 +358,7 @@ should use freedom of expression as a means to promote the growth of
 sound opinion and to enable the best opinions to be identify and
 adopted:
 
- ***‘Give good news to those of My servants who, listen to what is said
+***‘Give good news to those of My servants who, listen to what is said
 and follow what is best ‘, (39:17).***
 
 Not only is the expression of opinion free in Islam, but individuals are
@@ -549,7 +549,7 @@ And another verse tells us:
 
 ***‘You may destroy yourself on their account, worrying why they do not
 believe this new revelation. We have beautified the earth so as to test
-them and see who acquits himself best‘.***  
+them and see who acquits himself best‘.***
 ***(18:6-7).***
 
 These last two verses tell us clearly that the Prophet of Islam was so

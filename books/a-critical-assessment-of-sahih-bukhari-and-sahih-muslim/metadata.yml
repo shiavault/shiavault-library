@@ -1,0 +1,50 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/critical-assessment-sahih-bukhari-and-sahih-muslim-sayyid-ali-al-husayni-al-milani
+author: Sayyid Ali al-Husayni al-Milani
+translator: Dr. Sayyid Abdur Rauf Afzali
+title: A Critical Assessment of Sahih Bukhari and Sahih Muslim
+slug: a-critical-assessment-of-sahih-bukhari-and-sahih-muslim
+uuid: 12a9f356-a7bb-4dda-8324-32302cfa8bcc
+description: |
+  This text studies Sahih Bukhari and Sahih Muslim and some of the
+  traditions they contain, in order to make it clear that the traditions
+  are not necessarily authentic (Sahih) just because they are contained in
+  these two books.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/critical-assessment-sahih-bukhari-and-sahih-muslim-sayyid-ali-al-husayni-al-milani/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: 00cb37ab-d3f5-41a6-bba6-3e5989f6d88c
+- source: :alislam
+  source_url: http://www.al-islam.org/critical-assessment-sahih-bukhari-and-sahih-muslim-sayyid-ali-al-husayni-al-milani/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 3f9d6903-36d6-465f-b5b2-3da0d3826029
+- source: :alislam
+  source_url: http://www.al-islam.org/critical-assessment-sahih-bukhari-and-sahih-muslim-sayyid-ali-al-husayni-al-milani/part-1-critical
+  title: 'Part 1: A Critical Assessment of Sahih Bukhari'
+  slug: 3-part-1-a-critical-assessment-of-sahih-bukhari
+  uuid: 88622019-e9ee-4504-85a4-e293d33a3d0f
+- source: :alislam
+  source_url: http://www.al-islam.org/critical-assessment-sahih-bukhari-and-sahih-muslim-sayyid-ali-al-husayni-al-milani/chapter-1-bukhari
+  title: 'Chapter 1:  Bukhari as a Narrator'
+  slug: 4-chapter-1-bukhari-as-a-narrator
+  uuid: 99a465b1-a7bb-4a47-8340-533051ba1b77
+- source: :alislam
+  source_url: http://www.al-islam.org/critical-assessment-sahih-bukhari-and-sahih-muslim-sayyid-ali-al-husayni-al-milani/chapter-2
+  title: 'Chapter 2: Baseless Traditions in Sahih Bukhari'
+  slug: 5-chapter-2-baseless-traditions-in-sahih-bukhari
+  uuid: 47aebe7c-6f3e-44cd-9277-a8de117ca318
+- source: :alislam
+  source_url: http://www.al-islam.org/critical-assessment-sahih-bukhari-and-sahih-muslim-sayyid-ali-al-husayni-al-milani/part-2-evaluation
+  title: 'Part 2: An evaluation of Sahih Muslim'
+  slug: 6-part-2-an-evaluation-of-sahih-muslim
+  uuid: 281db3be-28a1-4ac6-9cdb-a91debf0c126
+- source: :alislam
+  source_url: http://www.al-islam.org/critical-assessment-sahih-bukhari-and-sahih-muslim-sayyid-ali-al-husayni-al-milani/bibliography
+  title: Bibliography
+  slug: 7-bibliography
+  uuid: 9f8e0d1a-ac11-4f70-9c3a-c9c9534377c8
+---

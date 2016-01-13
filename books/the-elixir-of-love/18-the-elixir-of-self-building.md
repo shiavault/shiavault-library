@@ -21,8 +21,8 @@ al-'Abidin (a), we read:
 another in place of thee? Who can have become intimate with Thy
 nearness, then sought removal from thee?"[^1]
 
-'Love is charming and when it is settled in the soul,  
- It closes the door of heart to everything other than the beloved.'
+'Love is charming and when it is settled in the soul,
+It closes the door of heart to everything other than the beloved.'
 
 And in a *hadith* attributed to Imam al-Sadiq (a), we read:
 
@@ -117,16 +117,16 @@ the good of this world and the next."[^3]
 
 Hafiz has beautifully touched upon this point in his following couplets:
 
-'O ignorant one! Make an attempt to become insightful,  
- You will not be a leader, unless you are a seeker on the path (yourself
-first).  
- In the school of truth and with instructor of love, try, O son, to
-become a father some day.  
- Give up the copper of your existence like the men on the (spiritual)
-path,  
- So that you discover the elixir of love and turn into gold. If the
-light of love shines on your heart and soul,  
- By God you will get brighter than the sun in the heaven.’
+'O ignorant one! Make an attempt to become insightful,
+You will not be a leader, unless you are a seeker on the path (yourself
+first).
+In the school of truth and with instructor of love, try, O son, to
+become a father some day.
+Give up the copper of your existence like the men on the (spiritual)
+path,
+So that you discover the elixir of love and turn into gold. If the
+light of love shines on your heart and soul,
+By God you will get brighter than the sun in the heaven.’
 
 The Shaykh's Greatest Art
 -------------------------
@@ -135,8 +135,8 @@ The Shaykh's greatest feature and art was his achievement of "the elixir
 of love". He was an expert in practicing this alchemy and was no doubt
 one of the clearest manifestations of: (يحبهم ويحبونه والذين امنوا أشد
 حباً لله) (Whom He will love as they will love Him) (al-Ma'idah: 54);
-and  
- (But those of faith are overflowing in their love for Allah)
+and
+(But those of faith are overflowing in their love for Allah)
 (al-Baqarah: 165), and whoever approached him would somehow enjoy the
 elixir of love.
 
@@ -384,8 +384,8 @@ God is not veiled; our own actions veil Him from us. If the veil of
 unpleasant actions is removed off the heart, it will witness the elegant
 beauty of the exalted Almighty God and will fall in love with Him.
 
-'The Beauty of the Beloved is unveiled and uncovered,  
- Settle down the dust over your path so that you can see His Beauty.’
+'The Beauty of the Beloved is unveiled and uncovered,
+Settle down the dust over your path so that you can see His Beauty.’
 
 In order to Settle down the dust over the path and cleanse the heart off
 the indecent actions, the heart must be detached from love of the world,
@@ -441,8 +441,8 @@ encumbered by this hag!"
 
 And then he would recite this poem of Hafiz:
 
-"There is none who is not entangled in that curling ringlet,  
- Who is there in the way of who lies not such a snare of tribulation?"
+"There is none who is not entangled in that curling ringlet,
+Who is there in the way of who lies not such a snare of tribulation?"
 
 Actualy, the Shaykh had adopted this comparison from the following
 *hadith:*
@@ -501,10 +501,10 @@ erotic dream which preoccupied me during the day too. The next morning I
 went to visit the Shaykh. Once he saw me, he recited the following
 poems:
 
-'If you have in mind not to dissociate with the Friend,  
- Hold on to the string (of love) so that he holds on to it too.  
- O heart earn livelihood in a way that If your feet slip,  
- The angel will keep you (safe) with the two hands of supplication.’
+'If you have in mind not to dissociate with the Friend,
+Hold on to the string (of love) so that he holds on to it too.
+O heart earn livelihood in a way that If your feet slip,
+The angel will keep you (safe) with the two hands of supplication.’
 
 I found out he had sensed something; he would not recite these lines
 without a purpose. I kept sitting for a time. The Shaykh was busy with
@@ -528,8 +528,8 @@ Shaykh's house and sat next to him. He took a glance at me and said:
 "Such and such! What do I see in you?!"
 
 I said to myself: *'Ya Sattar al-'uyab* (O Concealer of defects)!' The
-Shaykh smiled and said:  
- "What did you do that what I was seeing disappeared?!"
+Shaykh smiled and said:
+"What did you do that what I was seeing disappeared?!"
 
 Men who had turned into Women!
 ------------------------------
@@ -610,15 +610,15 @@ which the Paradise is attained)[^19] at this stage he seeks other than
 God – i.e., Paradise. But when he achieves the stage of *ruh* (spirit),
 according to the verse' (ونفخت فيه من روحي)(...and (I) breathed into him
 My Spirit) (al-Hijr: 29) he will only look to the Truth and becomes an
-evidence to the second couplet of the following:  
- 'The fastings of the masses are from drinking and eating. The fastings
-of the elect are from all sins.  
- His fastings are from other than the Friend. Whatever he wants is all
+evidence to the second couplet of the following:
+'The fastings of the masses are from drinking and eating. The fastings
+of the elect are from all sins.
+His fastings are from other than the Friend. Whatever he wants is all
 for His sake.
 
-And as Hafiz stated:  
- 'If the Paradise is granted to me how may I accept it.  
- As the union with the Friend is better than the Paradise in my view.' ”
+And as Hafiz stated:
+'If the Paradise is granted to me how may I accept it.
+As the union with the Friend is better than the Paradise in my view.' ”
 
 Worship Based on Affection
 --------------------------
@@ -792,8 +792,8 @@ rather, we find (develop) the nature that belongs to Godly man.
 Everything is granted to man by the spirit. The spirit of a cow does the
 work of a cow and the spirit of a rooster does the work of a rooster.
 Now tell me! What should the Godly spirit of man do? It must do
-something Godly. The verse,  
- "ونفخت فيه من روحي"(And (I) breathed into him of My Spirit) (al-Hijr:
+something Godly. The verse,
+"ونفخت فيه من روحي"(And (I) breathed into him of My Spirit) (al-Hijr:
 29; Sad: 72) refers to the same issue."
 
 Cleansing the Heart Thus, intuitive knowledge will not be obtained

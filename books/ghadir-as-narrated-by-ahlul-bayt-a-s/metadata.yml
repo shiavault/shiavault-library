@@ -1,0 +1,38 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/ghadir-narrated-ahlul-bayt-sayyid-ali-al-husayni-al-milani
+author: Sayyid Ali al-Husayni al-Milani
+title: Ghadir as Narrated by Ahlul Bayt (a.s.)
+slug: ghadir-as-narrated-by-ahlul-bayt-a-s
+uuid: 0f7f3646-aa8a-40d3-acb4-78f4184bc9b1
+description: |
+  The present work is about the event of Ghadir as Narrated by the Ahlul
+  Bayt (a.s.). It studies briefly the Ghadir narrations in Shiite works
+  compiled by Shiite Mujtaheeds.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/ghadir-narrated-ahlul-bayt-sayyid-ali-al-husayni-al-milani/foreword
+  title: Foreword
+  slug: 1-foreword
+  uuid: c01bd6f0-592d-460b-bf39-1d5217abe4aa
+- source: :alislam
+  source_url: http://www.al-islam.org/ghadir-narrated-ahlul-bayt-sayyid-ali-al-husayni-al-milani/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: 750a7498-3f8e-48d3-b350-8886e3010cbc
+- source: :alislam
+  source_url: http://www.al-islam.org/ghadir-narrated-ahlul-bayt-sayyid-ali-al-husayni-al-milani/part-1-ghadir-quran
+  title: 'Part 1: Ghadir in Qur’an'
+  slug: 3-part-1-ghadir-in-qur-an
+  uuid: 0d8dd3ec-940c-426c-8874-34da33311ecc
+- source: :alislam
+  source_url: http://www.al-islam.org/ghadir-narrated-ahlul-bayt-sayyid-ali-al-husayni-al-milani/part-2-ghadir-narrated-ahlul-bayt
+  title: 'Part 2: Ghadir as Narrated by Ahlul Bayt'
+  slug: 4-part-2-ghadir-as-narrated-by-ahlul-bayt
+  uuid: 723791b5-4415-40c6-ae9c-4ff331b19a30
+- source: :alislam
+  source_url: http://www.al-islam.org/ghadir-narrated-ahlul-bayt-sayyid-ali-al-husayni-al-milani/bibliography
+  title: Bibliography
+  slug: 5-bibliography
+  uuid: 17c21fb8-cc0a-4a4d-b6bb-37a04a92c428
+---

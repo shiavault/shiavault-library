@@ -40,10 +40,10 @@ Then he added:
 
 "How is it possible that one is invited to go to someone's house and
 fail to see the landlord!? Be fully alert to see that blessed Imam (aj)
-in one of the rituals of the Hajj *insha* ' *Allah.* "  
+in one of the rituals of the Hajj *insha* ' *Allah.* "
 **2. Forbid Love of Anything other than God while in**
-***Ihr*****a*****m*** (pilgrims' garment)  
- "The person who puts on Ihram in Mi’qat should know that he has come
+***Ihr*****a*****m*** (pilgrims' garment)
+"The person who puts on Ihram in Mi’qat should know that he has come
 here to forbid himself from other than God, and since the moment he says
 *labbayk,* he accepts God's invitation and rendered as forbidden other
 than God to himself. Whatever interest in other than God is unlawful to
@@ -115,7 +115,7 @@ It is worthwhile to know that what the reverend Shaykh has stated about
 the philosophy of Hajj based on his own intuitive findings are very
 close to what Imam Khomeini (ra) has expressed in explaining the
 mystical aspects of the Hajj pilgrimage, which are of interest to be
-touched upon here as a conclusion to this chapter:  
+touched upon here as a conclusion to this chapter:
 **The Secret of Frequently Uttering** **"*****Labbayk"***
 
 *"Repeatedly uttering Labbayk* is true for those who have heard the call
@@ -170,7 +170,7 @@ to look for the Beloved; when you find Him all the worldly knots will be
 untied, all the doubts will be removed, all the animal fears and hopes
 will be obliterated, all the material attachments will break off;
 nobility will flourish, and the satanic and idolatry bondages that hold
-the servants of God in captivity and obedience will fall apart."[^6]  
+the servants of God in captivity and obedience will fall apart."[^6]
 **Mindfulness and** ***'Irfan*** **(Gnosticism) in** ***Mash'ar***
 **and** ***'Arafat***
 
@@ -180,7 +180,7 @@ more of God' s promises and the rule of the oppressed. With silence and
 dignity, deliberate over signs of the truth and think of liberating the
 down-trodden and the oppressed from the clutches of the world arrogance,
 and beseech the Almighty God, at those holy stations, to show you the
-ways of deliverance (and liberation)."[^7]  
+ways of deliverance (and liberation)."[^7]
 **The Secret of Making Sacrifices in** ***Mina***
 
 "Then go to *Mina* and find out the true wishes there, where is a place

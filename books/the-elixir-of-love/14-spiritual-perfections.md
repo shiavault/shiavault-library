@@ -190,7 +190,7 @@ would talk to all the souls residing in *Barzakh* (Purgatory World)
 since the beginning of creation up to the present. He would "see", by
 his own will, whatever anyone had done in their whole life and would
 tell the signs,[^8] and would reveal what he willed and would be allowed
-to.  
+to.
 **Visiting the** ***Malakut*** **(the Celestial Kingdom)!**
 
 Visiting the *Malakut* of the heavens and the earth with the eye of the
@@ -282,8 +282,8 @@ God, very learned--intending to see what he had to say. He said: "No,
 sir. My knowledge is of the bookish kind and all memorized. You should
 see for yourself what a high position the Shaykh has attained; he sees
 many things and knows many things that are incomparable to what I know."
-I asked: 'How come?' He said:  
- "The first time I had an audience with him, the first thing he asked me
+I asked: 'How come?' He said:
+"The first time I had an audience with him, the first thing he asked me
 after greetings was about my job. I said: I am a teacher. He asked:
 "Apart from teaching?" I replied: "I am a university professor and
 teach." He said: "No, I see you deal with a global object!" I was
@@ -432,7 +432,7 @@ there. The first bus arrived and the reverend Shaykh said:
 "We are not destined to get on this one"
 
 The bus filled up and left. The second bus came and the Shaykh said the
-same again. The passengers rushed to the bus and got on, but tbe Shaykh
+same again. The passengers rushed to the bus and got on, but the Shaykh
 and his friends were left behind. The third bus arrived, but this time
 too the crowd rushed on and the Shaykh and his companions did not happen
 to get on. The bus driver tried to get the bus started up, but whatever
@@ -489,7 +489,7 @@ advising, suddenly and unprecedentedly he faced me and said:
 effects are evident. Pray for me too!!"
 
 I asked the Shaykh which pilgrimage he was talking about. He said: "The
-pilgrimage to Qum." And then went on with his advice.  
+pilgrimage to Qum." And then went on with his advice.
 **Cursing Causes Darkness** **(of the Heart)**
 
 In the meantime, he said to the late Haj Agha Ziya'uddin Fayd Mahdawi:
@@ -754,7 +754,7 @@ the Shaykh what it was all about.
 He explained:
 
 "This young man is in love with a girl and wants to get married to her,
-but they (her patents) do not agree; he has come here to entreat Imam
+but they (her parents) do not agree; he has come here to entreat Imam
 al-Reza (a) to help him. His Holiness (a) said: It got answered, he may
 go."
 

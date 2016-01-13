@@ -1,0 +1,116 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/children-quran-and-sunnah-ayatullah-muhammadi-rayshahri
+author: Ayatullah Muhammadi Rayshahri
+publisher: Dar al-Hadith Publications
+title: Children in the Qur’an and Sunnah
+slug: children-in-the-qur-an-and-sunnah
+uuid: 394355eb-8bac-4797-b6b6-892d4bf1b83f
+description: |
+  This book is an authentic collection of Ayahs of Qur'an and over 500
+  Hadiths on children. The topics include preparations by parents before
+  the birth of child, taking their care after birth and naming them to the
+  detailed description of utmost care in the training of children from
+  Islamic perspective.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/children-quran-and-sunnah-ayatullah-muhammadi-rayshahri/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 08253139-963b-4c61-ab68-c73c38cf066f
+- source: :alislam
+  source_url: http://www.al-islam.org/children-quran-and-sunnah-ayatullah-muhammadi-rayshahri/section-1-foundations-upbringing-child
+  title: 'Section 1: The Foundations of Upbringing a Child'
+  slug: 2-section-1-the-foundations-of-upbringing-a-child
+  uuid: d0ee59c3-a8bd-4d74-a73f-e691c62f9bd9
+- source: :alislam
+  source_url: http://www.al-islam.org/children-quran-and-sunnah-ayatullah-muhammadi-rayshahri/introduction-section-1
+  title: Introduction
+  slug: 3-introduction
+  uuid: a92439a4-35a6-47da-ac3f-6a781e4a6ccd
+- source: :alislam
+  source_url: http://www.al-islam.org/children-quran-and-sunnah-ayatullah-muhammadi-rayshahri/chapter-1-family
+  title: 'Chapter 1: Family'
+  slug: 4-chapter-1-family
+  uuid: d5092add-d99f-485d-8197-e437c703e7e6
+- source: :alislam
+  source_url: http://www.al-islam.org/children-quran-and-sunnah-ayatullah-muhammadi-rayshahri/chapter-2-heredity
+  title: 'Chapter 2: Heredity'
+  slug: 5-chapter-2-heredity
+  uuid: d142c789-1286-4cff-af46-e3e222bb2841
+- source: :alislam
+  source_url: http://www.al-islam.org/children-quran-and-sunnah-ayatullah-muhammadi-rayshahri/chapter-3-food-parents
+  title: 'Chapter 3: The Food of the Parents'
+  slug: 6-chapter-3-the-food-of-the-parents
+  uuid: 157f4e66-49b7-411d-b59d-f98547e52235
+- source: :alislam
+  source_url: http://www.al-islam.org/children-quran-and-sunnah-ayatullah-muhammadi-rayshahri/chapter-4-forming-life-germ
+  title: 'Chapter 4: The Forming of the Life-germ'
+  slug: 7-chapter-4-the-forming-of-the-life-germ
+  uuid: 57477910-fbb2-4e75-90e8-ac80f6b82f02
+- source: :alislam
+  source_url: http://www.al-islam.org/children-quran-and-sunnah-ayatullah-muhammadi-rayshahri/section-2-rights-children
+  title: 'Section 2: The Rights of Children'
+  slug: 8-section-2-the-rights-of-children
+  uuid: e0037b0f-1d27-44e8-b0fa-6751ec6159bf
+- source: :alislam
+  source_url: http://www.al-islam.org/children-quran-and-sunnah-ayatullah-muhammadi-rayshahri/introduction-section-2
+  title: Introduction
+  slug: 9-introduction
+  uuid: 678fce74-c309-43b5-a659-95b3480b31a3
+- source: :alislam
+  source_url: http://www.al-islam.org/children-quran-and-sunnah-ayatullah-muhammadi-rayshahri/chapter-1-rights-newborn
+  title: 'Chapter 1: The Rights of a Newborn'
+  slug: 10-chapter-1-the-rights-of-a-newborn
+  uuid: bb01576f-4259-4e48-a16e-5f772247063e
+- source: :alislam
+  source_url: http://www.al-islam.org/children-quran-and-sunnah-ayatullah-muhammadi-rayshahri/chapter-2-rights-suckling-infant
+  title: 'Chapter 2: The Rights of a Suckling Infant'
+  slug: 11-chapter-2-the-rights-of-a-suckling-infant
+  uuid: 9c4d2b1d-1b7c-464f-8474-c0f7b1605d6a
+- source: :alislam
+  source_url: http://www.al-islam.org/children-quran-and-sunnah-ayatullah-muhammadi-rayshahri/chapter-3-education
+  title: 'Chapter 3: Education'
+  slug: 12-chapter-3-education
+  uuid: 5384b4f8-79ac-4de3-9ad8-9dc46a5209c1
+- source: :alislam
+  source_url: http://www.al-islam.org/children-quran-and-sunnah-ayatullah-muhammadi-rayshahri/chapter-4-ethics-upbringing
+  title: 'Chapter 4: The Ethics of Upbringing'
+  slug: 13-chapter-4-the-ethics-of-upbringing
+  uuid: 1e2761c5-af64-4a9f-bc6d-0e64763209d5
+- source: :alislam
+  source_url: http://www.al-islam.org/children-quran-and-sunnah-ayatullah-muhammadi-rayshahri/chapter-5-ornamentation-and-playing
+  title: 'Chapter 5: Ornamentation and Playing'
+  slug: 14-chapter-5-ornamentation-and-playing
+  uuid: bce8a9ff-6fe2-4d97-a6cc-3b49f17dcb0c
+- source: :alislam
+  source_url: http://www.al-islam.org/children-quran-and-sunnah-ayatullah-muhammadi-rayshahri/chapter-6-supplication
+  title: 'Chapter 6: Supplication'
+  slug: 15-chapter-6-supplication
+  uuid: 1d6c02f6-6c64-4a16-a844-583417fd1cb5
+- source: :alislam
+  source_url: http://www.al-islam.org/children-quran-and-sunnah-ayatullah-muhammadi-rayshahri/section-3-childs-duties
+  title: 'Section 3: The Child’s Duties'
+  slug: 16-section-3-the-child-s-duties
+  uuid: aa208502-ab3c-4b25-bcfb-9d0c1e72d127
+- source: :alislam
+  source_url: http://www.al-islam.org/children-quran-and-sunnah-ayatullah-muhammadi-rayshahri/chapter-1-individual-duties-child
+  title: 'Chapter 1: The Individual Duties of a Child'
+  slug: 17-chapter-1-the-individual-duties-of-a-child
+  uuid: 182fa99d-369d-4e2b-919b-47beafe91c0e
+- source: :alislam
+  source_url: http://www.al-islam.org/children-quran-and-sunnah-ayatullah-muhammadi-rayshahri/chapter-2-childrens-duties-towards-their
+  title: 'Chapter 2: The Children’s Duties towards their Parents'
+  slug: 18-chapter-2-the-children-s-duties-towards-their-parents
+  uuid: 2c3042cf-d332-462d-9ffa-7e1d4bd8894e
+- source: :alislam
+  source_url: http://www.al-islam.org/children-quran-and-sunnah-ayatullah-muhammadi-rayshahri/chapter-3-childs-duties-towards-his-teacher
+  title: 'Chapter 3: The Child’s Duties Towards His Teacher'
+  slug: 19-chapter-3-the-child-s-duties-towards-his-teacher
+  uuid: b512c103-2b30-4752-9b24-ba6f60e01c17
+- source: :alislam
+  source_url: http://www.al-islam.org/children-quran-and-sunnah-ayatullah-muhammadi-rayshahri/chapter-4-childs-duties-towards-elders-and
+  title: 'Chapter 4: The Child’s Duties Towards Elders and Friends'
+  slug: 20-chapter-4-the-child-s-duties-towards-elders-and-friends
+  uuid: 7e1b6120-4ac0-47dc-b862-1f340495d961
+---

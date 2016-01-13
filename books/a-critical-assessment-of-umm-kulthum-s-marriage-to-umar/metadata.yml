@@ -1,0 +1,60 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/critical-assessment-umm-kulthums-marriage-umar-sayyid-ali-al-husayni-al-milani
+author: Sayyid Ali al-Husayni al-Milani
+translator: Jawid Akbari
+title: A Critical Assessment of Umm Kulthum’s Marriage to Umar
+slug: a-critical-assessment-of-umm-kulthum-s-marriage-to-umar
+uuid: e4f2795a-009d-4e01-8683-594b70dc91f6
+description: |
+  This text discusses about Umm Kulthum‘s marriage to Umar ibn Al-Khattab,
+  presenting the narrations from the most famous books authored by Sunni
+  scholars, carefully examining the chains of the narrations, their
+  significations, the narrators and their goals.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/critical-assessment-umm-kulthums-marriage-umar-sayyid-ali-al-husayni-al-milani/prelude
+  title: Prelude
+  slug: 1-prelude
+  uuid: c65aac54-fa8b-42a2-8569-f68df801378d
+- source: :alislam
+  source_url: http://www.al-islam.org/critical-assessment-umm-kulthums-marriage-umar-sayyid-ali-al-husayni-al-milani/introduction
+  title: Introduction
+  slug: 2-introduction
+  uuid: e29195d0-bb53-4960-aa37-d8815c588d4b
+- source: :alislam
+  source_url: http://www.al-islam.org/critical-assessment-umm-kulthums-marriage-umar-sayyid-ali-al-husayni-al-milani/critical-assessment
+  title: A Critical Assessment of Umm Kulthum’s Marriage to Umar
+  slug: 3-a-critical-assessment-of-umm-kulthum-s-marriage-to-umar
+  uuid: d0ca0fe5-d5d8-4ee8-8598-62d93c6f54e6
+- source: :alislam
+  source_url: http://www.al-islam.org/critical-assessment-umm-kulthums-marriage-umar-sayyid-ali-al-husayni-al-milani/section-1-narrators
+  title: 'Section 1: The Narrators and Their Narrations'
+  slug: 4-section-1-the-narrators-and-their-narrations
+  uuid: aafbb9ca-0210-4d32-85dc-1429be4cc65c
+- source: :alislam
+  source_url: http://www.al-islam.org/critical-assessment-umm-kulthums-marriage-umar-sayyid-ali-al-husayni-al-milani/section-2-study
+  title: 'Section 2: A Study of the Chains of Transmission of the Narrations'
+  slug: 5-section-2-a-study-of-the-chains-of-transmission-of-the-narrations
+  uuid: 1d1e96ff-5ce3-491a-9987-f26357806fbf
+- source: :alislam
+  source_url: http://www.al-islam.org/critical-assessment-umm-kulthums-marriage-umar-sayyid-ali-al-husayni-al-milani/section-3-text
+  title: 'Section 3: The Text of the Narrations and their Significations'
+  slug: 6-section-3-the-text-of-the-narrations-and-their-significations
+  uuid: 2248c61b-3414-4a8c-9cf4-cd06e0c7160b
+- source: :alislam
+  source_url: http://www.al-islam.org/critical-assessment-umm-kulthums-marriage-umar-sayyid-ali-al-husayni-al-milani/section-4-umars
+  title: 'Section 4: Umar’s Marriage to Umm Kulthum in Shiite Narrations'
+  slug: 7-section-4-umar-s-marriage-to-umm-kulthum-in-shiite-narrations
+  uuid: a8b68a93-2754-4a8e-8ba2-e16d36ee127d
+- source: :alislam
+  source_url: http://www.al-islam.org/critical-assessment-umm-kulthums-marriage-umar-sayyid-ali-al-husayni-al-milani/summary-book
+  title: Summary of the Book
+  slug: 8-summary-of-the-book
+  uuid: 40f26328-dbe7-4c1c-b55c-3ec2450b02f0
+- source: :alislam
+  source_url: http://www.al-islam.org/critical-assessment-umm-kulthums-marriage-umar-sayyid-ali-al-husayni-al-milani/bibliography
+  title: Bibliography
+  slug: 9-bibliography
+  uuid: 95527ae6-742c-4951-9c63-dd127a0ae78b
+---

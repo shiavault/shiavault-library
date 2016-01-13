@@ -1,11 +1,11 @@
 ---
 source: :alislam
-source_url: http://www.al-islam.org/are-you-free-or-slave-muhammad-rayshahri
-author: Muhammad Rayshahri
+source_url: http://www.al-islam.org/are-you-free-or-slave-ayatullah-muhammadi-rayshahri
+author: Ayatullah Muhammadi Rayshahri
 publisher: Jami’at ul-Athar
 title: Are you Free or Slave?
 slug: are-you-free-or-slave
-uuid: 2c880487-9fd2-40e2-ac10-70c028db86ba
+uuid: 90e419fe-5b73-4067-8bd7-5e411bf0e32a
 description: |
   “Are you Free or Slave?” covers the foremost factor “belief” and the
   ground of its formation in men, is the outcome of lectures that the
@@ -13,48 +13,48 @@ description: |
   and theology school students.
 chapters:
 - source: :alislam
-  source_url: http://www.al-islam.org/are-you-free-or-slave-muhammad-rayshahri/publishers-desk
+  source_url: http://www.al-islam.org/are-you-free-or-slave-ayatullah-muhammadi-rayshahri/publishers-desk
   title: From Publisher’s Desk
   slug: 1-from-publisher-s-desk
-  uuid: 86dab4d5-5f6b-48f4-abe8-76220f4f77b0
+  uuid: d5829b6e-e764-4b81-b1e9-ade88cce1068
 - source: :alislam
-  source_url: http://www.al-islam.org/are-you-free-or-slave-muhammad-rayshahri/foreword
+  source_url: http://www.al-islam.org/are-you-free-or-slave-ayatullah-muhammadi-rayshahri/foreword
   title: Foreword
   slug: 2-foreword
-  uuid: 02cbb596-5275-492e-8722-f37f81b1c68b
+  uuid: 239c6272-2b32-4f0b-a35a-86958526fcb9
 - source: :alislam
-  source_url: http://www.al-islam.org/are-you-free-or-slave-muhammad-rayshahri/chapter-1-belief
+  source_url: http://www.al-islam.org/are-you-free-or-slave-ayatullah-muhammadi-rayshahri/chapter-1-belief
   title: 'Chapter 1: Belief'
   slug: 3-chapter-1-belief
-  uuid: f74e43a6-3e39-4406-88e3-b344c95b8b70
+  uuid: b0a4d6b2-698b-4816-94fb-48c8b3ce5f08
 - source: :alislam
-  source_url: http://www.al-islam.org/are-you-free-or-slave-muhammad-rayshahri/chapter-2-taqlid-ideology
+  source_url: http://www.al-islam.org/are-you-free-or-slave-ayatullah-muhammadi-rayshahri/chapter-2-taqlid-ideology
   title: 'Chapter 2: Taqlid in Ideology'
   slug: 4-chapter-2-taqlid-in-ideology
-  uuid: e2c32feb-6697-44fd-b221-57725fa8f22c
+  uuid: 5b1cb2b5-fda0-4ddc-8f3f-5791c44f9d6a
 - source: :alislam
-  source_url: http://www.al-islam.org/are-you-free-or-slave-muhammad-rayshahri/chapter-3-research-ideology
+  source_url: http://www.al-islam.org/are-you-free-or-slave-ayatullah-muhammadi-rayshahri/chapter-3-research-ideology
   title: 'Chapter 3: Research in Ideology'
   slug: 5-chapter-3-research-in-ideology
-  uuid: a1bc1f5e-a6df-4686-9aa9-e23f13aa7128
+  uuid: 34790b11-b78c-4aed-8c76-be7f4274a4f8
 - source: :alislam
-  source_url: http://www.al-islam.org/are-you-free-or-slave-muhammad-rayshahri/chapter-4-correction-belief
+  source_url: http://www.al-islam.org/are-you-free-or-slave-ayatullah-muhammadi-rayshahri/chapter-4-correction-belief
   title: 'Chapter 4: Correction of Belief'
   slug: 6-chapter-4-correction-of-belief
-  uuid: 1d4c17b4-4a12-4e06-9a89-2ad16ffbd614
+  uuid: 44d1c7f1-ba7d-44f4-92a5-0aeee34adb10
 - source: :alislam
-  source_url: http://www.al-islam.org/are-you-free-or-slave-muhammad-rayshahri/chapter-5-testing-belief
+  source_url: http://www.al-islam.org/are-you-free-or-slave-ayatullah-muhammadi-rayshahri/chapter-5-testing-belief
   title: 'Chapter 5: Testing Belief'
   slug: 7-chapter-5-testing-belief
-  uuid: b9e7a80b-d517-45bf-bb10-cf2fe5605843
+  uuid: 4760c2e7-dccd-45b8-bd8d-b027c05ae00c
 - source: :alislam
-  source_url: http://www.al-islam.org/are-you-free-or-slave-muhammad-rayshahri/chapter-6-freedom-opinion
+  source_url: http://www.al-islam.org/are-you-free-or-slave-ayatullah-muhammadi-rayshahri/chapter-6-freedom-opinion
   title: 'Chapter 6: Freedom of Opinion'
   slug: 8-chapter-6-freedom-of-opinion
-  uuid: a4886dd3-0c81-44d0-b398-ca5daa3822d2
+  uuid: ee84ba04-13e0-4d5b-9d4a-5fbd52061da3
 - source: :alislam
-  source_url: http://www.al-islam.org/are-you-free-or-slave-muhammad-rayshahri/chapter-7-teaching-ideology
+  source_url: http://www.al-islam.org/are-you-free-or-slave-ayatullah-muhammadi-rayshahri/chapter-7-teaching-ideology
   title: 'Chapter 7: The Teaching Ideology'
   slug: 9-chapter-7-the-teaching-ideology
-  uuid: 16b3a988-07ad-40ac-a20a-f48d46c33e8b
+  uuid: f4643d0b-4038-416a-a960-e9b77a57c30f
 ---

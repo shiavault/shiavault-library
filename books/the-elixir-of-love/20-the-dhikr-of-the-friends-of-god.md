@@ -234,7 +234,7 @@ noticing me recommended to the friends:
 
 That was the only time I heard him recommend remembering God even at
 sleep in that session and I do not remember him mentioning it anywhere
-else.  
+else.
 **A Message from** ***Barzakh***
 
 One of the Shaykh's friends related: Once I had an audience with the
@@ -242,7 +242,7 @@ Shaykh who said:
 
 "I saw a young man in *barzakh* who was saying: 'You do not know what is
 going on here! When you come here you will find out; any breath that you
-have taken for other than God has ended up to your loss.'  
+have taken for other than God has ended up to your loss.'
 **Virtues of some** ***Dhikrs***
 
 When we talk about the virtues (benefits) of *dhikrs* in the school of
@@ -250,7 +250,7 @@ the Shaykh, it must be remembered that his is a school of love not of
 outcome and results, and that he who does not seek anything other than
 God, the one who does not even seek his own perfection, will gain
 results. Similarly, whatever the results of remembrance of God, the goal
-mustn't be anything other than God.  
+mustn't be anything other than God.
 **Giving Importance to Two** ***Dhikrs***
 
 One of the Shaykh's devotees said: The Shaykh regarded *Istighfar*
@@ -300,8 +300,8 @@ Suppressing the Satanic Temptations when Encountering Women other than our Next 
 --------------------------------------------------------------------------------------
 
 Dr. Farzam related: the reverend Shaykh Rajab Ali considered the
-*dhikr*  
- "يا خير حبيب ومحبوب صل على محمد وآله| *Ya* *khayra Habibin wa Mahbubin,
+*dhikr*
+"يا خير حبيب ومحبوب صل على محمد وآله| *Ya* *khayra Habibin wa Mahbubin,
 Salli 'ala Mubammadin wa Alihi* (O Best of Lovers and the Best of
 Beloved! Bless Muhammad and his Family)) very effective after one
 glances at a woman other than his next of kin. He frequently advised me
@@ -317,7 +317,7 @@ cherish you. These are not likeable; whatever is mortal is not likeable.
 For the Love of God
 -------------------
 
-Reciting one thousand times Salawat (every night) for forty nights.  
+Reciting one thousand times Salawat (every night) for forty nights.
 **For Purifying the** ***Batin*** **(the inner)**
 
 The reverend Shaykh regarded the recitation of the Sura *al-Saffat*
@@ -347,7 +347,7 @@ an authority to aid (me)) (al-Isra: 80), up to forty nights.
 As narrated, many of the Shaykh's students have found the honor of
 meeting Imam al-'Asr (aj) through persevering with this *dhikr;*
 although at the time of meeting they have not realized the Imam (a). Two
-instances are given as follows:  
+instances are given as follows:
 **1. How Ayatollah Ziyarati Attained this Honor**
 
 One of the Shaykh's disciples narrated: 'The reverend Shaykh had given

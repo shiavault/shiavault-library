@@ -175,7 +175,7 @@ behold! This idol can hardly be shattered and this Satan can barely be
 tamed!"[^6]
 
 If man triumphs over such a grand idol, he has achieved the highest
-victories.  
+victories.
 **Wrestle with your** ***Nafs*** **(Vain Desires)!**
 
 One of the famous wrestlers of the time of Shaykh called "Aghar Agha
@@ -187,9 +187,9 @@ on my upper arm and said:
 In fact, shattering the idol of *nafs* in the first and the last step in
 obliterating polytheism and achieving the reality of monotheism.
 
-'Step on your own self, embrace the Beloved One (instead),  
- Up to his Ka'bah of union with him, you are just one step away.  
- If you get rid of your self, you will join the Beloved; Otherwise, keep
+'Step on your own self, embrace the Beloved One (instead),
+Up to his Ka'bah of union with him, you are just one step away.
+If you get rid of your self, you will join the Beloved; Otherwise, keep
 burning eternally, your state of affairs being unripe.’
 
 And maybe this is what is meant by nearness of the way to reach God,

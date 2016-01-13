@@ -1,0 +1,36 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/prophecies-about-holy-prophet-islam-allamah-sayyid-saeed-akhtar-rizvi
+author: Allamah Sayyid Sa'eed Akhtar Rizvi
+publisher: Bilal Muslim Mission of Tanzania
+title: Prophecies About The Holy Prophet of Islam
+subtitle: Prophecies About The Holy Prophet of Islam in Hindu, Christian, Jewish,
+  & Parsi Scriptures
+slug: prophecies-about-the-holy-prophet-of-islam
+uuid: 0bb2b8e6-4efd-415e-803f-6977427d3360
+description: |
+  A short text shedding light on the prophecies predicting the arrival of
+  the Holy Prophet Muhammad (PBUH&HP) in older scriptures of different
+  faiths.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/prophecies-about-holy-prophet-islam-allamah-sayyid-saeed-akhtar-rizvi/preface
+  title: Preface
+  slug: 1-preface
+  uuid: 09e4aced-a609-4002-9107-a19fa2968210
+- source: :alislam
+  source_url: http://www.al-islam.org/prophecies-about-holy-prophet-islam-allamah-sayyid-saeed-akhtar-rizvi/prophecies-hindu-scriptures
+  title: Prophecies in Hindu Scriptures
+  slug: 2-prophecies-in-hindu-scriptures
+  uuid: bc153ff6-7a8c-4543-8ad0-19ba2ae099cb
+- source: :alislam
+  source_url: http://www.al-islam.org/prophecies-about-holy-prophet-islam-allamah-sayyid-saeed-akhtar-rizvi/prophecies-old-and-new
+  title: Prophecies in Old and New Testaments
+  slug: 3-prophecies-in-old-and-new-testaments
+  uuid: 79989ef6-5bf5-451e-9d99-2bbff66d997b
+- source: :alislam
+  source_url: http://www.al-islam.org/prophecies-about-holy-prophet-islam-allamah-sayyid-saeed-akhtar-rizvi/prophecies-parsi-scriptures
+  title: Prophecies in Parsi Scriptures
+  slug: 4-prophecies-in-parsi-scriptures
+  uuid: 5cabfaa3-8dad-4263-adda-c755cc6ee51c
+---

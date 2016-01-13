@@ -54,8 +54,8 @@ And in another *hadith,* he said:
   </p>
 </blockquote>
 
-"  
- Divine worship has ten parts, nine of which comprises earning lawful
+"
+Divine worship has ten parts, nine of which comprises earning lawful
 daily sustenance."[^4]
 
 One of Shaykh's friends says: I never forget the day I saw the reverend

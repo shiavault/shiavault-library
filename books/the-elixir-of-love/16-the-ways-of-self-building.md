@@ -31,8 +31,8 @@ follows: 'Professor Jalaluddin Huma'i, a leading Professor of literature
 at Tehran University, was a renowned expert in *ma'arif* (Divine
 knowledge), Persian literature, and Islamic Mysticism, and was my own
 professor. He had audience with the reverend Shaykh at the age of
-sixty.  
- When I was at the age of seventeen, studying with the Prof. Huma'i, he
+sixty.
+When I was at the age of seventeen, studying with the Prof. Huma'i, he
 had already edited Abu Rihan al-Biruni's *Al-Tafhimu li Awa'il Sana'at
 al-Tanjim* and 'Izzuddin Mahmud Kashani's *Misbba al-Hidaya wa
 Miftahu'l* *Kifaya.* He had also authored very scholarly such volumes as
@@ -674,13 +674,13 @@ thousand *tomans* and secured her consent.
 
 My father kept silent for a moment and after a short deliberation said:
 
-"She says she is not satisfied. Does she have a house?"  
- The architect said: 'No, she is a tenant.' The Shaykh said:  
- "Go and transfer the ownership of one of your best houses to her, and
-then return to me to see what can be done for you."  
- The architect said: 'Reverend Shaykh! There are two of us sharing the
-buildings, how can I do that?' The Shaykh said:  
- "I am at my wit's end; this servant of God is not yet satisfied."
+"She says she is not satisfied. Does she have a house?"
+The architect said: 'No, she is a tenant.' The Shaykh said:
+"Go and transfer the ownership of one of your best houses to her, and
+then return to me to see what can be done for you."
+The architect said: 'Reverend Shaykh! There are two of us sharing the
+buildings, how can I do that?' The Shaykh said:
+"I am at my wit's end; this servant of God is not yet satisfied."
 
 At last, he went away again, finally transferred one of the houses to
 the ownership of her sister, and helped her move her household furniture

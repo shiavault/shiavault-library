@@ -52,7 +52,7 @@ Prepare us for meeting with Thyself."
 
 Thursday evenings, after prayers the reverend Shaykh would usually
 recite the Supplication of Kumayl or one of the above mentioned
-whispered prayers or supplications, and commented on them.  
+whispered prayers or supplications, and commented on them.
 **"Recite the Supplication of** ***Yastashir!"***
 
 Ayatollah Fahri[^1] quoted the reverend Shaykh as saying:
@@ -209,30 +209,30 @@ delicate analogies in order to explain highly mystical issues such as
 the following:
 
 "A lover knocked at the door of his beloved's house. The latter asked:
-'Do you want bread?'  
- 'No.' Replied the lover.  
- 'Do you want water?'  
- 'No.'  
- 'What do you want then?'  
- I want you! Answered the lover.
+'Do you want bread?'
+'No.' Replied the lover.
+'Do you want water?'
+'No.'
+'What do you want then?'
+I want you! Answered the lover.
 
 Friends! The Landlord must be loved, not His feast and food. As Sa'di
-said:  
- 'If you expect benevolence from the Friend.  
- You are bound up in your self, not in love with the Friend.'
+said:
+'If you expect benevolence from the Friend.
+You are bound up in your self, not in love with the Friend.'
 
-He would recite the above poem to us and say:  
- "You must be in love only with God, and whatever you do must be only
+He would recite the above poem to us and say:
+"You must be in love only with God, and whatever you do must be only
 for Him. Be in love with Himself; do not even worship Him for rewards!"
 
-He would sometimes tell me in a cute tone:  
- "Do something that your ringlets entangle yonder (meaning to fall in
+He would sometimes tell me in a cute tone:
+"Do something that your ringlets entangle yonder (meaning to fall in
 love with the Eternal Beloved)!"
 
 He would add some very befitting poems -especially from Hafiz - to his
 instructions that were of great effect, such as the following: 'If you
-wish the Beloved may not break off the union.  
- Keep holding on to the (love) link so that He may hold on, too.'
+wish the Beloved may not break off the union.
+Keep holding on to the (love) link so that He may hold on, too.'
 
 "Complain of being Forlorn!"
 ----------------------------
@@ -251,14 +251,14 @@ And then he would recite the following verse from the Holy Qur'an:
   </p>
 </blockquote>
 
- (The (human) soul is certainly prone to evil, unless my Lord bestow his
+(The (human) soul is certainly prone to evil, unless my Lord bestow his
 Mercy.) (Yusuf: 53)
 
 The Real Reason for Appealing to the Ahl al-Bayt (a)
 ----------------------------------------------------
 
-The reverend Shaykh used to say:  
- "Majority of people do not know what appealing to the Ahl al- Bayt (a)
+The reverend Shaykh used to say:
+"Majority of people do not know what appealing to the Ahl al- Bayt (a)
 is for. They appeal to the Ahl al-Bayt (a) for solving their own
 problems and difficulties of life,[^3] whereas we should go to the
 doorsteps of the Ahl al-Bayt (a) for traveling on the path to monotheism
