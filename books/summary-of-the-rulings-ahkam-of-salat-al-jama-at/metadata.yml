@@ -1,0 +1,28 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/summary-rulings-ahkam-salat-al-jamaat-ayatullah-sayyid-ali-hussaini-sistani
+author: Ayatullah Sayyid Ali Hussaini Sistani
+publisher: Islamic Humanitarian Service (IHS)
+translator: Shaykh Saleem Bhimji
+title: Summary of the Rulings (Ahkam) of Salat al-Jama’at
+subtitle: According to the rulings of His Eminence Ayatullah al-Uzma al-Haj as-Sayyid
+  'Ali al-Husaini as-Seestani
+slug: summary-of-the-rulings-ahkam-of-salat-al-jama-at
+uuid: 33f81988-0cda-447a-a5e3-3b66b3f8c8c9
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/summary-rulings-ahkam-salat-al-jamaat-ayatullah-sayyid-ali-hussaini-sistani/dedication
+  title: Dedication
+  slug: 1-dedication
+  uuid: b9c3a0de-7e01-4e49-ac8f-7e7302d0c14f
+- source: :alislam
+  source_url: http://www.al-islam.org/summary-rulings-ahkam-salat-al-jamaat-ayatullah-sayyid-ali-hussaini-sistani/foreword
+  title: Foreword
+  slug: 2-foreword
+  uuid: 71a7cd6e-85a5-4285-be29-d6cbe7f48548
+- source: :alislam
+  source_url: http://www.al-islam.org/summary-rulings-ahkam-salat-al-jamaat-ayatullah-sayyid-ali-hussaini-sistani/summary-rulings-ahkam
+  title: Summary of the Rulings (Ahkam) of Salat al-Jama’at
+  slug: 3-summary-of-the-rulings-ahkam-of-salat-al-jama-at
+  uuid: e06e1e9e-f37c-4af6-80d7-34162e349079
+---

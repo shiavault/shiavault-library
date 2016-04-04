@@ -23,7 +23,7 @@ replied: *“Yes, surely”*, then the Holy Prophet declared: “*O faithful!
 For whomever I am his master and the authority whom he obeys: Ali will
 be his master. O Allah! Be friendly towards the friends of Ali; help
 those who help him, and hinder those who hinder him, and may the truth
-always* *be with him.”*[^2]
+always be with him.”*[^2]
 
 This opinion is further supported by the Messenger's sermon: *“I leave
 two great, precious things among you, the Book of Allah and my Household
@@ -84,6 +84,6 @@ him while he was bowing in prayer. The man took the ring from the Imam's
 finger. While this was happening in the Mosque, this verse was revealed
 to the Prophet Muhammad [s].
 
-[^2]: Sunan ibn Maja / Merits of Imam Ali [a]
+[^2]: Sunan ibn Maja - Merits of Imam Ali [a]
 
 

@@ -1,118 +1,117 @@
 ---
 source: :alislam
-source_url: http://www.al-islam.org/islamic-doctrines-simplified-al-balagh
-author: N/A
+source_url: http://www.al-islam.org/islamic-doctrines-simplified
 publisher: Al Balagh Foundation
 title: Islamic Doctrines Simplified
 slug: islamic-doctrines-simplified
-uuid: 1d98793a-3853-47ef-80ec-4aff4ad4affd
+uuid: 6a4c87d7-30c9-4c07-ae61-f4a123d235af
 description: |
   Simple passages on Islamic beliefs about God, Prophethood and the Day of
   Judgement.
 chapters:
 - source: :alislam
-  source_url: http://www.al-islam.org/islamic-doctrines-simplified-al-balagh/introduction
+  source_url: http://www.al-islam.org/islamic-doctrines-simplified/introduction
   title: Introduction
   slug: 1-introduction
-  uuid: 9178c783-562a-4daa-a4a1-d85c10a3212d
+  uuid: 66cff504-3aa2-4b77-a510-b75069f77b3c
 - source: :alislam
-  source_url: http://www.al-islam.org/islamic-doctrines-simplified-al-balagh/allah-our-lord
+  source_url: http://www.al-islam.org/islamic-doctrines-simplified/allah-our-lord
   title: Allah, Our Lord
   slug: 2-allah-our-lord
-  uuid: 03aa6dac-6fd1-49b9-a990-d5caeef15156
+  uuid: 355113c9-7744-40a1-bdcd-527337b25c19
 - source: :alislam
-  source_url: http://www.al-islam.org/islamic-doctrines-simplified-al-balagh/thanking-creator
+  source_url: http://www.al-islam.org/islamic-doctrines-simplified/thanking-creator
   title: Thanking the Creator
   slug: 3-thanking-the-creator
-  uuid: a671f502-7607-47d9-83c8-bf590af6939d
+  uuid: fbc31ae8-51c8-4566-b587-716afe54cfac
 - source: :alislam
-  source_url: http://www.al-islam.org/islamic-doctrines-simplified-al-balagh/allahs-love
+  source_url: http://www.al-islam.org/islamic-doctrines-simplified/allahs-love
   title: Allah's Love
   slug: 4-allah-s-love
-  uuid: f54153bb-d5c6-4a33-8911-068dc50052b7
+  uuid: dd825018-bb29-462a-a559-928e4aca8413
 - source: :alislam
-  source_url: http://www.al-islam.org/islamic-doctrines-simplified-al-balagh/oneness-allah
+  source_url: http://www.al-islam.org/islamic-doctrines-simplified/oneness-allah
   title: The Oneness of Allah
   slug: 5-the-oneness-of-allah
-  uuid: 21eeb36f-9413-442d-8cb3-07f5f4e1a84f
+  uuid: 4ad139dc-7910-4a53-bee2-9858cc60108e
 - source: :alislam
-  source_url: http://www.al-islam.org/islamic-doctrines-simplified-al-balagh/bestower-provision
+  source_url: http://www.al-islam.org/islamic-doctrines-simplified/bestower-provision
   title: The Bestower of Provision
   slug: 6-the-bestower-of-provision
-  uuid: 24139344-ad83-415d-8524-86b79716f040
+  uuid: 50f3ccc4-7312-4c65-aba9-bf0a80048e4e
 - source: :alislam
-  source_url: http://www.al-islam.org/islamic-doctrines-simplified-al-balagh/allah-omniscient
+  source_url: http://www.al-islam.org/islamic-doctrines-simplified/allah-omniscient
   title: Allah, the Omniscient
   slug: 7-allah-the-omniscient
-  uuid: cfac54e7-c006-4237-ad30-3a195d80fbb5
+  uuid: 991761c6-f17c-46a0-a77a-1084a141098f
 - source: :alislam
-  source_url: http://www.al-islam.org/islamic-doctrines-simplified-al-balagh/allahs-wisdom
+  source_url: http://www.al-islam.org/islamic-doctrines-simplified/allahs-wisdom
   title: Allah's Wisdom
   slug: 8-allah-s-wisdom
-  uuid: e9912dc1-2166-4aa4-a389-c2f1ad73f498
+  uuid: 1ec6bd87-ab23-4002-9304-0c3954be3ac4
 - source: :alislam
-  source_url: http://www.al-islam.org/islamic-doctrines-simplified-al-balagh/just
+  source_url: http://www.al-islam.org/islamic-doctrines-simplified/just
   title: The Just
   slug: 9-the-just
-  uuid: 891dd9d5-f564-4642-bd4d-fd47821f9a41
+  uuid: ac3a68a0-ef8a-456f-9ab7-0a9301104bb2
 - source: :alislam
-  source_url: http://www.al-islam.org/islamic-doctrines-simplified-al-balagh/prophethood
+  source_url: http://www.al-islam.org/islamic-doctrines-simplified/prophethood
   title: Prophethood
   slug: 10-prophethood
-  uuid: 6640cd53-ff02-4a9f-a238-293658780e68
+  uuid: 241058d2-3ab8-4a14-ad42-7894dd3e1e33
 - source: :alislam
-  source_url: http://www.al-islam.org/islamic-doctrines-simplified-al-balagh/prophet-muhammad-s
+  source_url: http://www.al-islam.org/islamic-doctrines-simplified/prophet-muhammad-s
   title: Prophet Muhammad [s]
   slug: 11-prophet-muhammad-s
-  uuid: b2d11593-58e9-4a6f-a968-1ff9b356c731
+  uuid: 30394f74-ec5f-48ad-92b8-3c3afa77f3ba
 - source: :alislam
-  source_url: http://www.al-islam.org/islamic-doctrines-simplified-al-balagh/miracles
+  source_url: http://www.al-islam.org/islamic-doctrines-simplified/miracles
   title: Miracles
   slug: 12-miracles
-  uuid: 012c1964-5ca9-46b8-9392-78645f9590d9
+  uuid: ad26b395-0bbd-45bd-93ca-4fd50b9622aa
 - source: :alislam
-  source_url: http://www.al-islam.org/islamic-doctrines-simplified-al-balagh/everlasting-miracle
+  source_url: http://www.al-islam.org/islamic-doctrines-simplified/everlasting-miracle
   title: The Everlasting Miracle
   slug: 13-the-everlasting-miracle
-  uuid: 273a74a2-caa3-4ba5-9f73-063d75d5526d
+  uuid: 294cdfa6-65f4-44cc-97b7-885c1f72911d
 - source: :alislam
-  source_url: http://www.al-islam.org/islamic-doctrines-simplified-al-balagh/imamate
+  source_url: http://www.al-islam.org/islamic-doctrines-simplified/imamate
   title: Imamate
   slug: 14-imamate
-  uuid: 7be5463c-e461-49fb-b0d7-e765e6f3f192
+  uuid: 923cda5e-36c3-44e9-b034-a435cb6ba3bc
 - source: :alislam
-  source_url: http://www.al-islam.org/islamic-doctrines-simplified-al-balagh/life-after-death
+  source_url: http://www.al-islam.org/islamic-doctrines-simplified/life-after-death
   title: Life After Death
   slug: 15-life-after-death
-  uuid: f9424722-eae8-4cd1-8895-d1b23a494246
+  uuid: 895915c5-6548-40a2-8cbd-773ab7b4f594
 - source: :alislam
-  source_url: http://www.al-islam.org/islamic-doctrines-simplified-al-balagh/allahs-capability
+  source_url: http://www.al-islam.org/islamic-doctrines-simplified/allahs-capability
   title: Allah's Capability
   slug: 16-allah-s-capability
-  uuid: 5c8e6a61-f381-4cb7-ba46-174e9d8b9428
+  uuid: 3d7b642f-588e-4b8c-a60c-e9ebfe26264f
 - source: :alislam
-  source_url: http://www.al-islam.org/islamic-doctrines-simplified-al-balagh/hereafter
+  source_url: http://www.al-islam.org/islamic-doctrines-simplified/hereafter
   title: The Hereafter
   slug: 17-the-hereafter
-  uuid: ebcf8fec-a552-4e99-a817-a93c04acc07f
+  uuid: 9261495e-cb85-4303-8c82-83c07ff4c662
 - source: :alislam
-  source_url: http://www.al-islam.org/islamic-doctrines-simplified-al-balagh/paradise-and-hell
+  source_url: http://www.al-islam.org/islamic-doctrines-simplified/paradise-and-hell
   title: Paradise And Hell
   slug: 18-paradise-and-hell
-  uuid: 0cd79bdb-ede3-4354-8a0e-5312f0a965d8
+  uuid: 3165693a-bfc3-496b-8004-11ff8cf5b994
 - source: :alislam
-  source_url: http://www.al-islam.org/islamic-doctrines-simplified-al-balagh/paradise
+  source_url: http://www.al-islam.org/islamic-doctrines-simplified/paradise
   title: Paradise
   slug: 19-paradise
-  uuid: cb5e1755-f608-4e56-9b03-c8097d1323af
+  uuid: 10e94b86-e779-44f6-ac0b-e43ebe02e255
 - source: :alislam
-  source_url: http://www.al-islam.org/islamic-doctrines-simplified-al-balagh/hell
+  source_url: http://www.al-islam.org/islamic-doctrines-simplified/hell
   title: Hell
   slug: 20-hell
-  uuid: 1bcacb30-2f73-4d1a-9180-4c7169a0da3c
+  uuid: 426527c3-0ab5-4c23-9b58-3182260a3d2a
 - source: :alislam
-  source_url: http://www.al-islam.org/islamic-doctrines-simplified-al-balagh/need-worship
+  source_url: http://www.al-islam.org/islamic-doctrines-simplified/need-worship
   title: Need to Worship
   slug: 21-need-to-worship
-  uuid: 8ebc2f52-0286-4c95-9a02-c0a11789e5b9
+  uuid: 469d32c6-07a8-4a7e-8d47-cd9f7dca52f3
 ---

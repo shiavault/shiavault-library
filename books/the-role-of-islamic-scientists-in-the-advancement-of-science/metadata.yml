@@ -1,0 +1,55 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/role-islamic-scientists-advancement-science-ayatullah-muhammad-mufatteh
+author: Ayatullah Muhammad Mufatteh
+publisher: Islamic Thought Foundation
+title: The Role Of Islamic Scientists In The Advancement Of Science
+slug: the-role-of-islamic-scientists-in-the-advancement-of-science
+uuid: 5d97e60d-1bab-47e0-8dc6-388f3219c26c
+description: |
+  This text offers us a short and comprehensive history of how Muslims
+  Scientists have made a contribution to the advancement of science.
+  Muslim scientists are known to have put the founding stones in sciences
+  like chemistry, math and medicine.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/role-islamic-scientists-advancement-science-ayatullah-muhammad-mufatteh/role-islamic-scientists
+  title: The Role Of Islamic Scientists In The Advancement Of Science
+  slug: 1-the-role-of-islamic-scientists-in-the-advancement-of-science
+  uuid: 217ab424-cc01-4609-900e-0ace05d6a1b7
+- source: :alislam
+  source_url: http://www.al-islam.org/role-islamic-scientists-advancement-science-ayatullah-muhammad-mufatteh/where-did-islamic-scientific
+  title: Where Did The Islamic Scientific Movement Begin?
+  slug: 2-where-did-the-islamic-scientific-movement-begin
+  uuid: 087c38b1-0e49-4730-b8b6-3659f34b2078
+- source: :alislam
+  source_url: http://www.al-islam.org/role-islamic-scientists-advancement-science-ayatullah-muhammad-mufatteh/nizamiyyah-university
+  title: Nizamiyyah University Of Baghdad
+  slug: 3-nizamiyyah-university-of-baghdad
+  uuid: 676d0d7b-6691-4019-8264-1c15eddf92e3
+- source: :alislam
+  source_url: http://www.al-islam.org/role-islamic-scientists-advancement-science-ayatullah-muhammad-mufatteh/safa-brotherhood
+  title: The Safa Brotherhood
+  slug: 4-the-safa-brotherhood
+  uuid: cb11c4ee-8689-4d97-a9ca-60338aa57686
+- source: :alislam
+  source_url: http://www.al-islam.org/role-islamic-scientists-advancement-science-ayatullah-muhammad-mufatteh/islamic-scientists-methods
+  title: Islamic Scientists' Methods Of Research
+  slug: 5-islamic-scientists-methods-of-research
+  uuid: 6b040c77-d202-4083-81ce-af4f25467c6b
+- source: :alislam
+  source_url: http://www.al-islam.org/role-islamic-scientists-advancement-science-ayatullah-muhammad-mufatteh/islamic-scientists-attention
+  title: Islamic Scientists' Attention To The Experimental Methods
+  slug: 6-islamic-scientists-attention-to-the-experimental-methods
+  uuid: b07641a0-e230-4073-8ab1-19a0a41b8bc8
+- source: :alislam
+  source_url: http://www.al-islam.org/role-islamic-scientists-advancement-science-ayatullah-muhammad-mufatteh/muslims-learning-and
+  title: Muslims' Learning And Research In Medical Field
+  slug: 7-muslims-learning-and-research-in-medical-field
+  uuid: dde2eb82-f131-4b22-88f7-7aa496baa23e
+- source: :alislam
+  source_url: http://www.al-islam.org/role-islamic-scientists-advancement-science-ayatullah-muhammad-mufatteh/valuable-works-razi
+  title: The Valuable Works Of Razi
+  slug: 8-the-valuable-works-of-razi
+  uuid: 160395fc-fdbb-4cbb-9063-4c89a5090c93
+---

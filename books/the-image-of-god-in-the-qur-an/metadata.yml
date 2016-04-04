@@ -1,0 +1,34 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/image-god-quran-mohammad-ali-shomali-mahnaz-heydarpoor
+author: Mohammad Ali ShomaliMahnaz Heydarpoor
+title: The Image of God in the Qur’an
+slug: the-image-of-god-in-the-qur-an
+uuid: a78f1787-57fb-4afc-8a36-616388f534e9
+description: |
+  The image of God as presented in the Qur’an is one that speaks of Him in
+  personal terms. God has a personal relationship with every individual.
+  In this text the authors try to present a detailed account of the
+  attributes of God as portrayed in the Qur’an.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/image-god-quran-mohammad-ali-shomali-mahnaz-heydarpoor/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: 36f83b81-7dc3-44bb-96e3-2f0f3b33f82a
+- source: :alislam
+  source_url: http://www.al-islam.org/image-god-quran-mohammad-ali-shomali-mahnaz-heydarpoor/allah-ilah-and-rabb
+  title: Allah, Ilah and Rabb
+  slug: 2-allah-ilah-and-rabb
+  uuid: b43e2f8f-7212-4c79-9eca-b76ed90b0375
+- source: :alislam
+  source_url: http://www.al-islam.org/image-god-quran-mohammad-ali-shomali-mahnaz-heydarpoor/divine-attributes
+  title: Divine Attributes
+  slug: 3-divine-attributes
+  uuid: 3aaf208d-52c8-406f-804d-a81bb7f17103
+- source: :alislam
+  source_url: http://www.al-islam.org/image-god-quran-mohammad-ali-shomali-mahnaz-heydarpoor/chart-divine-names-attributes-quran
+  title: 'Chart: Divine names & attributes in the Qur’an'
+  slug: 4-chart-divine-names-attributes-in-the-qur-an
+  uuid: 20908ccf-ba52-4aa6-b6b8-820dc0b8cef1
+---

@@ -1,0 +1,63 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/hermeneutical-foundations-islamic-social-sciences-dr-muhammad-legenhausen
+author: Dr. Muhammad Legenhausen
+publisher: The Institute for  Compilation and Publication  of Imam Khomeini's Works
+title: Hermeneutical Foundations for Islamic Social Sciences
+slug: hermeneutical-foundations-for-islamic-social-sciences
+uuid: e7580329-ac08-4d8d-b539-2dfcea61210f
+description: |
+  Some scientists seem to support the idea of the islamisation of
+  knowledge and some have evolved into considering hermeneutics as a
+  possible solution. But which sciences could be transformed through the
+  hermeneutics process? Which source would the scientists use in the
+  process? What are the sciences and the frameworks in which
+  transformation would be possible? All the above issues and more are
+  being dealt with in this amazing book.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/hermeneutical-foundations-islamic-social-sciences-dr-muhammad-legenhausen/abstract
+  title: Abstract
+  slug: 1-abstract
+  uuid: 0419b3d3-9c29-4093-a321-edeebd465664
+- source: :alislam
+  source_url: http://www.al-islam.org/hermeneutical-foundations-islamic-social-sciences-dr-muhammad-legenhausen/1-introduction-project
+  title: '1. Introduction: The Project of Islamic Social Sciences'
+  slug: 2-1-introduction-the-project-of-islamic-social-sciences
+  uuid: 1a2b2651-f369-4958-98cf-ca02fcd5c519
+- source: :alislam
+  source_url: http://www.al-islam.org/hermeneutical-foundations-islamic-social-sciences-dr-muhammad-legenhausen/2-hermeneutics
+  title: 2. Hermeneutics
+  slug: 3-2-hermeneutics
+  uuid: 2da76870-bf14-4732-a824-c04e4d704b8c
+- source: :alislam
+  source_url: http://www.al-islam.org/hermeneutical-foundations-islamic-social-sciences-dr-muhammad-legenhausen/3-applications
+  title: 3. Applications of Hermeneutics
+  slug: 4-3-applications-of-hermeneutics
+  uuid: 44151a29-4227-4c90-94bc-231879591aed
+- source: :alislam
+  source_url: http://www.al-islam.org/hermeneutical-foundations-islamic-social-sciences-dr-muhammad-legenhausen/4-islamic-hermeneutics
+  title: 4. Islamic Hermeneutics
+  slug: 5-4-islamic-hermeneutics
+  uuid: 26aed333-3297-4ccd-b765-5a5f594e9bdc
+- source: :alislam
+  source_url: http://www.al-islam.org/hermeneutical-foundations-islamic-social-sciences-dr-muhammad-legenhausen/5-applied-islamic
+  title: 5. Applied Islamic Hermeneutics
+  slug: 6-5-applied-islamic-hermeneutics
+  uuid: b10a238d-354a-4483-aa88-27f5aaf7d60b
+- source: :alislam
+  source_url: http://www.al-islam.org/hermeneutical-foundations-islamic-social-sciences-dr-muhammad-legenhausen/6-islamic-social-sciences
+  title: 6. Islamic Social Sciences
+  slug: 7-6-islamic-social-sciences
+  uuid: afd8491e-14a7-4956-b001-382cb3d83272
+- source: :alislam
+  source_url: http://www.al-islam.org/hermeneutical-foundations-islamic-social-sciences-dr-muhammad-legenhausen/7-concluding-reflections
+  title: 7. Concluding Reflections
+  slug: 8-7-concluding-reflections
+  uuid: f6064f46-1d49-4e05-8bb8-bc44b63ac721
+- source: :alislam
+  source_url: http://www.al-islam.org/hermeneutical-foundations-islamic-social-sciences-dr-muhammad-legenhausen/references
+  title: References
+  slug: 9-references
+  uuid: 8ece4369-9cb4-4705-b05f-b0f1fee636a0
+---

@@ -71,6 +71,6 @@ us to thank, worship and obey Allah, the Almighty:
 
 3. The love of Allah and being filled with desire to be close to Him.
 
-Praise be to Allah, Lord of the worlds.
+**Praise be to Allah, Lord of the worlds.**
 
 

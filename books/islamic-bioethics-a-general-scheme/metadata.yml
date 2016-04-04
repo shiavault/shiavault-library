@@ -1,0 +1,54 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islamic-bioethics-general-scheme-mohammad-ali-shomali
+author: Mohammad Ali Shomali
+publisher: The Institute for Compilation and Publication of Imam Khomeini's Works
+title: 'Islamic Bioethics: A General Scheme'
+slug: islamic-bioethics-a-general-scheme
+uuid: b02c8580-c842-4bac-9bf4-3c4f454e5df7
+description: |
+  No doubt life in its all forms enjoys a very high status in Islam. Human
+  life is one of the most sacred creatures of God. In this paper several
+  aspects of bioethics are discussed from an Islamic perspective.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-bioethics-general-scheme-mohammad-ali-shomali/abstract
+  title: Abstract
+  slug: 1-abstract
+  uuid: d60e0b99-106b-4232-ae54-7661ef5afd24
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-bioethics-general-scheme-mohammad-ali-shomali/keywords
+  title: Keywords
+  slug: 2-keywords
+  uuid: 5e256b9b-94de-40d9-9e79-4210cf83b4d5
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-bioethics-general-scheme-mohammad-ali-shomali/introduction
+  title: Introduction
+  slug: 3-introduction
+  uuid: 2533927f-6012-45e7-924e-4dc938707945
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-bioethics-general-scheme-mohammad-ali-shomali/part-1-value-life
+  title: 'Part 1: Value of life'
+  slug: 4-part-1-value-of-life
+  uuid: 2a425693-c223-4b9c-a47b-d4a409422023
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-bioethics-general-scheme-mohammad-ali-shomali/part-2-islamic-bioethics
+  title: 'Part 2: Islamic bioethics'
+  slug: 5-part-2-islamic-bioethics
+  uuid: 390b0d16-44bd-4148-9c2a-1b6f9ece98d2
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-bioethics-general-scheme-mohammad-ali-shomali/part-3-jurisprudential-and-ethical-reflections
+  title: 'Part 3: Jurisprudential and ethical reflections on some issues in bioethics'
+  slug: 6-part-3-jurisprudential-and-ethical-reflections-on-some-issues-in-bioethics
+  uuid: d66f13e2-672c-4947-96e8-08e70ff43395
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-bioethics-general-scheme-mohammad-ali-shomali/conclusion
+  title: Conclusion
+  slug: 7-conclusion
+  uuid: 304a163d-4e85-413e-b2c9-bbe7700182c8
+- source: :alislam
+  source_url: http://www.al-islam.org/islamic-bioethics-general-scheme-mohammad-ali-shomali/references
+  title: References
+  slug: 8-references
+  uuid: 50c84069-0e33-4b24-ac14-ef472a735be6
+---

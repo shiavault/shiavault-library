@@ -4,7 +4,7 @@ The Bestower of Provision
 Allah, the Almighty says:
 
 ***“Surely Allah is the Bestower of provision, Lord of Power, the
-Almighty”.Holy Qur'an (52:58)***
+Almighty”. Holy Qur'an (51:58)***
 
 People, birds, fish, animals, insects and reptiles are all creatures,
 which need food, air and water. Allah has bestowed His sustenance on
@@ -15,8 +15,8 @@ Allah, the Most High says:
 
 ***“And He set on the earth firm mountains standing above its surface,
 and He blessed the earth and measured therein nourishment for all
-things, in four periods: in accordance with the needs of the
-seekers”.Holy Qur'an (41:10)***
+things, in four periods: in accordance with the needs of the seekers”.
+Holy Qur'an (41:10)***
 
 People are the seekers of sustenance, for food, water and money, on this
 earth. In our organized society we get them through working in different

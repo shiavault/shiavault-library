@@ -1,0 +1,43 @@
+---
+source: :alislam
+source_url: http://www.al-islam.org/islam-versus-feminism-dr-muhammad-legenhausen
+author: Dr. Muhammad Legenhausen
+title: Islam versus Feminism
+slug: islam-versus-feminism
+uuid: f024d7c4-577a-4225-af70-907f7cfa854d
+description: |
+  What is feminism? What does it have in common with Islam? What is the
+  position of the Islamic law regarding the feminist issues? What is
+  considered oppression from Islamic point of view? The present book will
+  answer all the above mentioned questions and at the same time it will
+  clarify the role of the women in Islam. This book is also a good source
+  of information and logical explanation for all the people out there who
+  keep insisting that women are oppressed and that the Islamic rules
+  should be changed.
+chapters:
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-versus-feminism-dr-muhammad-legenhausen/introduction
+  title: Introduction
+  slug: 1-introduction
+  uuid: e853f109-c804-442e-9f52-290a573f24b6
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-versus-feminism-dr-muhammad-legenhausen/brief-history-feminism
+  title: A Brief History Of Feminism
+  slug: 2-a-brief-history-of-feminism
+  uuid: 6ab231e5-e01d-4228-a4f5-aea3b61b8f34
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-versus-feminism-dr-muhammad-legenhausen/islamic-opposition-feminism
+  title: The Islamic Opposition to Feminism
+  slug: 3-the-islamic-opposition-to-feminism
+  uuid: 9b765ada-c055-405d-be60-4c8c50818e1d
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-versus-feminism-dr-muhammad-legenhausen/islamic-opposition-socialism
+  title: Islamic Opposition To Socialism
+  slug: 4-islamic-opposition-to-socialism
+  uuid: c619db2a-c2d9-4504-b065-3d31ab8f197c
+- source: :alislam
+  source_url: http://www.al-islam.org/islam-versus-feminism-dr-muhammad-legenhausen/conclusion-islamic-struggle-against-feminism
+  title: 'Conclusion: The Islamic Struggle Against Feminism'
+  slug: 5-conclusion-the-islamic-struggle-against-feminism
+  uuid: af0aed17-b9a9-4d84-aed9-4d3c4f11170e
+---
